@@ -1,0 +1,1 @@
+echo y|CACLS %windir%\system32\drivers\etc\hosts /c /t /p everyone:r

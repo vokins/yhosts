@@ -1,0 +1,12 @@
+c.yes.youku.com
+m.yes.youku.com
+v.aty.sohu.com
+api.cupid.iqiyi.com
+pubnet.sandai.net
+mapp.qzone.qq.com
+gdown.baidu.com
+game.weixin.qq.com
+dd.myapp.com
+hot.m.shouji.360tpcdn.com
+mapp.qzone.qq.com
+zhushou.360.cn

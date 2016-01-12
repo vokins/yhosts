@@ -1,0 +1,7 @@
+127.0.0.1 cms.yhd.com
+127.0.0.1 go.fcwr8.com
+127.0.0.1 p.yiqifa.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 ccc.x.jd.com

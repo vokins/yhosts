@@ -1,0 +1,3 @@
+127.0.0.1 dl.client.baidu.com
+127.0.0.1 mobile2.baidu.com
+127.0.0.1 guanjia.qq.com
