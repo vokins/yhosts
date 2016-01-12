@@ -1,0 +1,2 @@
+# yhosts
+Block ADs hosts
