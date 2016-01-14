@@ -1,3 +1,23 @@
+@smartdirect
+#localhost
+127.0.0.1	localhost
+::1 localhost
+#windows
+127.0.0.1 localhost.localdomain
+127.0.0.1 localhost.localdomain localhost
+#ubuntu
+::1 localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+#macosx
+fe80::1%lo0	localhost
+255.255.255.255	broadcasthost
+#flashget accelerate
+221.123.176.125 s5.flashget.com
+221.123.176.136 cplog.flashget.com
 @soft
 #adobe
 127.0.0.1 activate.adobe.com
@@ -19,6 +39,9 @@
 93.184.215.191 mozorg.cdn.mozilla.net
 54.192.100.115 download-installer.cdn.mozilla.net
 127.0.0.1 adbma.adk2.co
+#github
+54.231.50.34 github-cloud.s3.amazonaws.com
+54.231.82.74 github-cloud.s3.amazonaws.com
 @download
 #www.solidfiles.com
 127.0.0.1 js.avstats.com
@@ -120,6 +143,7 @@
 127.0.0.1 c.statcounter.com
 127.0.0.1 c1.statcounter.com
 127.0.0.1 c2.statcounter.com
+127.0.0.1 www.statcounter.com
 #webterren.com
 127.0.0.1 cl.webterren.com
 127.0.0.1 cl2.webterren.com
@@ -143,6 +167,7 @@
 127.0.0.1 jssdk.cnzz.com
 127.0.0.1 s11.cnzz.com
 127.0.0.1 s73.cnzz.com
+127.0.0.1 s13.cnzz.com
 127.0.0.1 s87.cnzz.com
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
@@ -682,6 +707,12 @@
 127.0.0.1 89.8ox.cn
 127.0.0.1 e4.6dad.com
 127.0.0.1 good.ta80.com
+#aabook.club
+127.0.0.1 main.exoclick.com
+127.0.0.1 static.exoclick.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 myaav.best-adult-site.net
+127.0.0.1 www.aavideo.net
 #aiqiyivip.com
 127.0.0.1 js916.lishuanghao.com
 127.0.0.1 m1.xcdf.cn
@@ -715,6 +746,12 @@
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 img.88rpg.net
 127.0.0.1 gsp.cnzz.kld666.com
+#dygod.net
+127.0.0.1 iylipe.code.pofang.com
+127.0.0.1 2018.qucaigg.com
+127.0.0.1 jump.qucaiad.com
+127.0.0.1 gg.qucaigg.com
+127.0.0.1 jzjpj.cnzz.kld666.com
 #gywb.cn
 127.0.0.1 stat.gywb.com.cn
 #hdwan.net
@@ -723,6 +760,9 @@
 127.0.0.1 uimg.123hala.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 www.1x3x.com
+#itv118.com
+127.0.0.1 pic.leeyuoxs.com
+127.0.0.1 km.leeyuoys.com
 #jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 cfps.cw.china-netwave.com
@@ -731,10 +771,10 @@
 #mp4ba.com
 127.0.0.1 mp4ba.qucaigg.com
 127.0.0.1 g.qucaigg.com
-127.0.0.1 gg.qucaigg.com
 #mianbao99.com
 127.0.0.1 a.mianbao99.com
 #piaohua.com
+127.0.0.1 ph.qucaigg.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 pop.code.poyang.cn
 #qidiancom.com
@@ -754,8 +794,22 @@
 45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
+#tt1069
+162.254.149.166 tt1069.com
+162.254.149.166 www.tt1069.com
 #u17.com
 127.0.0.1 tj.u17t.com
+#xiamp4.com
+127.0.0.1 2tu.qucaigg.com
+127.0.0.1 c.ns8d.com
+127.0.0.1 d3d.3dwwwgame.com
+127.0.0.1 lm.admin5.com
+127.0.0.1 ps.haohaowan8.com
+127.0.0.1 www.37cs.com
+127.0.0.1 www.heisiwang.com
+127.0.0.1 www.iqucai.com
+#xue163.com
+127.0.0.1 www.jiankang13.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 #zolsky.com
