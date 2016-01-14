@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 http://code.taobao.org/svn/dd-wrt/hosts
 http://code.taobao.org/svn/gargoyle/hosts
 http://www.mwsl.org.cn/hosts/hosts
+http://www.whlisound.com/hosts.txt
 
 ”Œœ∑º”ÀŸ:
 http://bbs.a9vg.com/thread-4549081-1-1.html
@@ -35,5 +36,7 @@ https://asm.ca.com/zh_cn/ping.php
 http://serve.netsh.org/pub/ping.php
 http://tools.pingdom.com/ping/
 http://ping.eu/ping
+http://www.17ce.com/site/ping
+http://www.ipip.net/ping.php
 http://sourceforge.net/projects/dos2unix/
 http://www.bathome.net/thread-36408-1-1.html

@@ -1,12 +1,9 @@
 @echo off
 Setlocal enabledelayedexpansion
 ::CODER BY Kwok POWERD BY iBAT
-if exist %ComSpec% (set e=%windir%\system32\drivers\etc&set h=%windir%\system32\drivers\etc\hosts) Else (set e=%windir%&set h=%windir%\hosts)
-echo y|CACLS %windir%\system32\drivers\etc\hosts /c /p everyone:f
-copy %~dp0hosts.txt" %h%
-rem copy "%~dp0hosts.txt" "%SystemRoot%\System32\drivers\etc\hosts"
-ipconfig -flushdns >nul 2>nul
-ipconfig -registerdns
-ipconfig -renew
+TAKEOWN /F "%windir%\System32\drivers\etc" /A
+echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f
+rem icacls "%windir%\System32\drivers\etc" /grant "NT AUTHORITY\NetworkService":RX
+copy /y "%~dp0hosts.txt" "%windir%\system32\drivers\etc\hosts"
 ipconfig /flushdns
 exit
