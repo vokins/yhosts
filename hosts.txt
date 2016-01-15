@@ -33,15 +33,8 @@ fe80::1%lo0	localhost
 127.0.0.1 engine.bitmedianetwork.com
 127.0.0.1 static.bitmedianetwork.com
 127.0.0.1 ssum.casalemedia.com
-#firefox
-54.68.16.226 addons.mozilla.org
-54.230.244.252 addons.cdn.mozilla.net
-93.184.215.191 mozorg.cdn.mozilla.net
-54.192.100.115 download-installer.cdn.mozilla.net
+#firefox-ext
 127.0.0.1 adbma.adk2.co
-#github
-54.231.50.34 github-cloud.s3.amazonaws.com
-54.231.82.74 github-cloud.s3.amazonaws.com
 @download
 #www.solidfiles.com
 127.0.0.1 js.avstats.com
@@ -763,6 +756,7 @@ fe80::1%lo0	localhost
 #itv118.com
 127.0.0.1 pic.leeyuoxs.com
 127.0.0.1 km.leeyuoys.com
+127.0.0.1 u948016.778669.com
 #jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 cfps.cw.china-netwave.com
@@ -787,6 +781,8 @@ fe80::1%lo0	localhost
 127.0.0.1 d.hottimetech.com
 127.0.0.1 click.xajrhd.com
 127.0.0.1 cloud.zyiis.net
+127.0.0.1 lmcdn1.admin5.com
+127.0.0.1 lm.admin5.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
