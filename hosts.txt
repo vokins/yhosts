@@ -228,6 +228,7 @@ fe80::1%lo0	localhost
 127.0.0.1 adm3.autoimg.cn
 127.0.0.1 c.autohome.com.cn
 #baidu
+127.0.0.1 adsearch.appx.91.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 cpro.baidustatic.com
@@ -540,6 +541,7 @@ fe80::1%lo0	localhost
 127.0.0.1 avd.qidian.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 a.game.qidian.com
+127.0.0.1 uedas.qdmm.com
 #qingdaonews.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 1.up.qingdaonews.com
@@ -793,13 +795,22 @@ fe80::1%lo0	localhost
 #tt1069
 162.254.149.166 tt1069.com
 162.254.149.166 www.tt1069.com
+#txtbbs.com
+127.0.0.1 www.union009.com
+127.0.0.1 u.3393.com
+127.0.0.1 code.37cs.com
+127.0.0.1 jscode.xp3366.com
+127.0.0.1 r.qiyou.com
+127.0.0.1 u.xcy8.com
+127.0.0.1 v.7794.com
+127.0.0.1 www.666wan.com
+127.0.0.1 tg.7280.com
 #u17.com
 127.0.0.1 tj.u17t.com
 #xiamp4.com
 127.0.0.1 2tu.qucaigg.com
 127.0.0.1 c.ns8d.com
 127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 lm.admin5.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 www.37cs.com
 127.0.0.1 www.heisiwang.com

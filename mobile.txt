@@ -46,10 +46,12 @@
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 adv.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 tracking.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 info.sec.miui.com
+127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
+127.0.0.1 tracking.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 counter.kingsoft.com
@@ -91,6 +93,8 @@
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 #QQVideo
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
@@ -118,6 +122,8 @@
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
+#ximalaya
+127.0.0.1 ad.ximalaya.com
 #youkutudou
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
