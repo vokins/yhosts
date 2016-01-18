@@ -50,6 +50,7 @@ fe80::1%lo0	localhost
 127.0.0.1 s.click.taobao.com
 127.0.0.1 c.admaster.com.cn
 #51.la
+127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
 #acs86.com
 127.0.0.1 minisite.acs86.com
@@ -406,6 +407,8 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.chinaz.com
 #douban.com
 127.0.0.1 erebor.douban.com
+#e-hentai.org
+127.0.0.1 adserver.juicyads.com
 #eastday.com
 127.0.0.1 afpimages.eastday.com
 127.0.0.1 tongji.eastday.com
@@ -741,6 +744,11 @@ fe80::1%lo0	localhost
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 img.88rpg.net
 127.0.0.1 gsp.cnzz.kld666.com
+#dyfys.com
+127.0.0.1 banmeng_1725.it760.com
+127.0.0.1 g.ju33.com
+127.0.0.1 js.cyad.cc
+127.0.0.1 t.ju33.com
 #dygod.net
 127.0.0.1 iylipe.code.pofang.com
 127.0.0.1 2018.qucaigg.com

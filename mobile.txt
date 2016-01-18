@@ -48,9 +48,6 @@
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 info.sec.miui.com
-127.0.0.1 r.browser.miui.com
-127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 ads.dh.duba.com
@@ -122,8 +119,17 @@
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
+#wps
+127.0.0.1 kad.www.wps.cn
 #ximalaya
 127.0.0.1 ad.ximalaya.com
+#youdao
+127.0.0.1 android.push.126.net
+127.0.0.1 statis.push.netease.com
+127.0.0.1 dsp-impr2.youdao.com
+127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 p.clkservice.youdao.com
+127.0.0.1 ydpushserver.youdao.com
 #youkutudou
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
