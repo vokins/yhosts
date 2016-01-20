@@ -15,6 +15,8 @@
 127.0.0.1 settings.crashlytics.com
 #flurry.com
 127.0.0.1 data.flurry.com
+#madserving.com
+127.0.0.1 ad.madserving.com
 #moogos.com
 127.0.0.1 api.moogos.com
 127.0.0.1 cdn.moogos.com
@@ -41,106 +43,29 @@
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
 #miui
+127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 adsunflower.com
+127.0.0.1 bigdata.adsunflower.com
+127.0.0.1 folder.adsunflower.com
+127.0.0.1 adfuture.cn
+127.0.0.1 bigdata.adfuture.cn
+127.0.0.1 folder.adfuture.cn
+127.0.0.1 bigdata.advmob.cn
+#kingsoft
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 js.stat.ijinshan.com
-@app
-#easou
-127.0.0.1 adm.easou.com
-127.0.0.1 tjlog.easou.com
-#kugou
-127.0.0.1 ads.service.kugou.com
-127.0.0.1 gad.kugou.com
-127.0.0.1 gg.kugou.com
-127.0.0.1 install2.kugou.com
-127.0.0.1 kgmobilestat.kugou.com
-127.0.0.1 log.stat.kugou.com
-127.0.0.1 mobilelog.kugou.com
-127.0.0.1 mvads.kugou.com
-127.0.0.1 push.mobile.kugou.com
-127.0.0.1 sdk.game.kugou.com
-127.0.0.1 tj.kugou.com
-127.0.0.1 mo.kugou.com
-127.0.0.1 d.kugou.com
-127.0.0.1 downmobile.kugou.com
-127.0.0.1 kuaikaiapp.com
-#letv
-127.0.0.1 letv.m.cn.miaozhen.com
-127.0.0.1 n.mark.letv.com
-127.0.0.1 msg.m.letv.com
-#qiyi
-127.0.0.1 api.cupid.iqiyi.com
-127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 mbdlog.iqiyi.com
-127.0.0.1 msg.iqiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 static.g.ppstream.com
-127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 viqiyi.admaster.com.cn
-127.0.0.1 tyaqy.m.cn.miaozhen.com
-#QQVideo
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
-127.0.0.1 livep.l.qq.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 p.l.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 v.gdt.qq.com
-127.0.0.1 video.mpush.qq.com
-127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 qq.irs01.com
-127.0.0.1 qq.m.cn.miaozhen.com
-#sohu
-127.0.0.1 sohutv.m.cn.miaozhen.com
-127.0.0.1 agn.aty.sohu.com
-127.0.0.1 mmg.aty.sohu.com
-127.0.0.1 push.tv.sohu.com
-#weibo
-127.0.0.1 game.weibo.cn
-127.0.0.1 gw5.push.mcp.weibo.cn
-127.0.0.1 m.game.weibo.cn
-127.0.0.1 u1.img.mobile.sina.cn
-127.0.0.1 mg.games.sina.com.cn
-127.0.0.1 sdkapp.mobile.sina.cn
-127.0.0.1 sdkclick.mobile.sina.cn
-127.0.0.1 wbapp.mobile.sina.cn
-127.0.0.1 wbpctips.mobile.sina.cn
-#wps
-127.0.0.1 kad.www.wps.cn
-#ximalaya
-127.0.0.1 ad.ximalaya.com
-#youdao
-127.0.0.1 android.push.126.net
-127.0.0.1 statis.push.netease.com
-127.0.0.1 dsp-impr2.youdao.com
-127.0.0.1 impservice.dictapp.youdao.com
-127.0.0.1 p.clkservice.youdao.com
-127.0.0.1 ydpushserver.youdao.com
-#youkutudou
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 api.gamex.mobile.youku.com
-127.0.0.1 count.atm.youku.com
-127.0.0.1 dl.g.youku.com
-127.0.0.1 mf.atm.youku.com
-127.0.0.1 mi.atm.youku.com
-127.0.0.1 mobilemsg.youku.com
-127.0.0.1 mp.atm.youku.com
-127.0.0.1 push.m.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 rec.api.gamex.mobile.youku.com
-127.0.0.1 vyk.admaster.com.cn
-127.0.0.1 ad.api.3g.tudou.com
+#youmi
+127.0.0.1 s.youmi.net
+127.0.0.1 track.dmp.youmi.net
+127.0.0.1 stat.gw.youmi.net

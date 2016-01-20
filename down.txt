@@ -1,0 +1,17 @@
+@down
+#baidu
+127.0.0.1 w.x.baidu.com
+127.0.0.1 j.br.baidu.com
+127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
+#qq
+127.0.0.1 guanjia.qq.com
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com

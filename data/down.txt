@@ -1,9 +1,0 @@
-127.0.0.1 dl.client.baidu.com
-127.0.0.1 mobile2.baidu.com
-127.0.0.1 guanjia.qq.com
-127.0.0.1 www.laomaotao.net
-127.0.0.1 down.laomaotao.net
-127.0.0.1 u.diannaodian.com
-127.0.0.1 down.diannaodian.com
-127.0.0.1 www.winbaicai.com
-127.0.0.1 down.winbaicai.com
