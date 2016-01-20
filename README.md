@@ -1,42 +1,45 @@
 # yhosts
-¿ËÖÆ ×¼È· 
-ÓÅÑÅ ¼ò½à
-   µÄ
-hostsÎÄ¼ş
+å…‹åˆ¶ å‡†ç¡® 
+ä¼˜é›… ç®€æ´
+   çš„
+hostsæ–‡ä»¶
 
-hosts.txt Õë¶Ô×ÀÃæÆ½Ì¨
-ÒÔÕ¾µã½øĞĞ¼ÇÂ¼£¬¿ÉÒÔÆÁ±Îµô
-http://www.alexa.com/topsites/countries/CN
-ÅÅÃûÇ°300µÄÍøÕ¾µÄ¾ø´ó²¿·Ö¹ã¸æ
+# ç‰¹è‰²ï¼š
+* åŸºäºç«™ç‚¹å’ŒAPPè¿›è¡Œè®°å½•ï¼Œå¦‚æœå½±å“äº†ä»»ä½•åŠŸèƒ½ï¼Œå¯ä»¥æš‚æ—¶ç¦ç”¨ç›¸å…³åŸŸåæˆ–è€…APPæ•°æ®è§£å†³ã€‚
+* å¯ä»¥å±è”½æ‰[Alexa](http://www.alexa.com/topsites/countries/CN)æ’åå‰300çš„ç½‘ç«™çš„ç»å¤§éƒ¨åˆ†å¹¿å‘Š
 
-mobile.txt Õë¶ÔÒÆ¶¯Æ½Ì¨
-ÒÔÈí¼şappÃû³Æ½øĞĞ·ÖÀà
-ÆÁ±Î´ó²¿·Ö³£ÓÃ³ÌĞò¹ã¸æ
+# å„ç§æ•°æ®æ–‡ä»¶çš„åç§°åŠå«ä¹‰:
+1. [hosts.txt] (https://cat7373.github.io/remove-web-limits/) é’ˆå¯¹æ¡Œé¢å¹³å°
+2. [mobile.txt](https://greasyfork.org/scripts/14146) é’ˆå¯¹ç§»åŠ¨å¹³å°
 
-ÓÅĞãµÄGoogle hosts
-https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-http://www.360kb.com/kb/2_122.html
-http://www.360kb.com/kb/2_139.html
-http://www.360kb.com/kb/2_143.html
-http://levi.yii.so/hosts
-http://laod.cn/hosts/2016-google-hosts.html
-https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+# ä¼˜ç§€çš„Google hosts:
+1. [racaljk] (https://raw.githubusercontent.com/racaljk/hosts/master/hosts) 
+2. [ç›’å­] (http://www.360kb.com/kb/2_122.html) [facebook] (http://www.360kb.com/kb/2_139.html) 
+3. [laod] (http://laod.cn/hosts/2016-google-hosts.html) 
+4. [ä¹±ç‚–] (http://levi.yii.so/hosts) 
+5. [txthinking] (https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts) 
 
-ÆäËûhosts:
+# æ¸¸æˆåŠ é€Ÿ:
+1. [luckyâ˜†star] (http://bbs.a9vg.com/thread-4549081-1-1.html) 
+
+# è½¯ä»¶åå°ä¸‹è½½:
+1. [zsm2014] (http://bbs.kafan.cn/thread-1798022-1-1.html)
+
+# è·¯ç”±å™¨hosts:
 http://code.taobao.org/svn/dd-wrt/hosts
 http://code.taobao.org/svn/gargoyle/hosts
-http://www.mwsl.org.cn/hosts/hosts
-http://www.whlisound.com/hosts.txt
 
-ÓÎÏ·¼ÓËÙ:
-http://bbs.a9vg.com/thread-4549081-1-1.html
+# æ¶æ„ç½‘ç«™:
+[MWSL](http://www.mwsl.org.cn/hosts/hosts)
 
-tools url:
+# Pingå·¥å…·:
 https://asm.ca.com/zh_cn/ping.php
 http://serve.netsh.org/pub/ping.php
 http://tools.pingdom.com/ping/
 http://ping.eu/ping
 http://www.17ce.com/site/ping
 http://www.ipip.net/ping.php
-http://sourceforge.net/projects/dos2unix/
-http://www.bathome.net/thread-36408-1-1.html
+
+# è¿è¡Œåº“
+[dos2unix] (http://sourceforge.net/projects/dos2unix/) 
+[exe] (http://www.bathome.net/thread-36408-1-1.html) 
