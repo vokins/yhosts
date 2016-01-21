@@ -2,6 +2,9 @@
 #jd
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 union.click.jd.com
+127.0.0.1 stat.m.jd.com
+127.0.0.1 click.jr.jd.com
+127.0.0.1 jrclick.jd.com
 #taobao
 127.0.0.1 g.click.taobao.com
 127.0.0.1 redirect.simba.taobao.com

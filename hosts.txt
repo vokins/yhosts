@@ -7,6 +7,7 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 #google
+127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 ad.doubleclick.net
@@ -224,6 +225,7 @@
 #2345
 127.0.0.1 dl.2345.com
 127.0.0.1 jifendownload.2345.cn
+127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
 #360.cn
@@ -305,6 +307,7 @@
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 gsp1.baidu.com
+127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 update.123juzi.net
 #baifendian.com
 127.0.0.1 ds.api.baifendian.com
@@ -531,6 +534,7 @@
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
+127.0.0.1 v.gdt.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 ra.gtimg.com

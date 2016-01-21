@@ -19,6 +19,7 @@ call :bat
 call :version
 call :xunlei
 call :data
+"%~dp0lib\dos2unix.exe" -n 1A.txt hosts
 call :winhosts.bat
 ping -n 3 127.0.0.1
 call :del
@@ -52,6 +53,6 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt site.txt mobile.txt apps.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
+set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt site.txt mobile.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
