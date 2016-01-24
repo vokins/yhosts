@@ -1,16 +1,4 @@
-:downgrd
-"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-"%~dp0lib\sed.exe" -i "1,18d" grd.txt
-"%~dp0lib\sed.exe" -i "s/\t/ /g" grd.txt
-"%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" grd.txt
-"%~dp0lib\sed.exe" -i "/googlesyndication/d" grd.txt
-"%~dp0lib\sed.exe" -i "/googleadservices/d" grd.txt
-"%~dp0lib\sed.exe" -i "/127.0.0.1/d" grd.txt
-"%~dp0lib\sed.exe" -i "/^$/d" grd.txt
-"%~dp0lib\sed.exe" -i "/^#/d" grd.txt
-"%~dp0lib\sed.exe" -i "1i\@redirect" grd.txt
-
-ver=18:20 2016/1/20/周三
+ver=23:23 2016/1/21/周四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -55,4 +43,17 @@ goto :eof
 :data
 set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt site.txt mobile.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
+goto :eof
+
+:downgrd
+"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+"%~dp0lib\sed.exe" -i "1,18d" grd.txt
+"%~dp0lib\sed.exe" -i "s/\t/ /g" grd.txt
+"%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" grd.txt
+"%~dp0lib\sed.exe" -i "/googlesyndication/d" grd.txt
+"%~dp0lib\sed.exe" -i "/googleadservices/d" grd.txt
+"%~dp0lib\sed.exe" -i "/127.0.0.1/d" grd.txt
+"%~dp0lib\sed.exe" -i "/^$/d" grd.txt
+"%~dp0lib\sed.exe" -i "/^#/d" grd.txt
+"%~dp0lib\sed.exe" -i "1i\@redirect" grd.txt
 goto :eof

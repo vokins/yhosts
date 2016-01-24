@@ -145,8 +145,6 @@
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
-#wps
-127.0.0.1 kad.www.wps.cn
 #ximalaya
 127.0.0.1 ad.ximalaya.com
 #xunfei

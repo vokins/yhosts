@@ -195,6 +195,8 @@
 127.0.0.1 mmae.qtmojo.com
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
+#safedog.cn
+127.0.0.1 404.safedog.cn
 #wrating.com
 127.0.0.1 c.wrating.com
 127.0.0.1 click.wrating.com
@@ -703,6 +705,19 @@
 127.0.0.1 f.rczzxs.com
 127.0.0.1 js2608.lishuanghao.com
 127.0.0.1 v.jtxh.net
+#btba.com.cn
+127.0.0.1 c1.keyrun.cn
+127.0.0.1 e.e708.net
+127.0.0.1 f.e719.net
+127.0.0.1 f.f70123.com
+127.0.0.1 k.ctsywy.com
+127.0.0.1 vipjs.csad.cc
+127.0.0.1 ww202.keyyou.net
+#btbbt.cc
+127.0.0.1 code.jquery.com
+127.0.0.1 gg.btnk024.com
+127.0.0.1 js1867.lishuanghao.com
+127.0.0.1 vip.jisucn.com
 #btkitty.co
 127.0.0.1 d16b4.8ox.cn
 127.0.0.1 js.jtdcg.com
@@ -734,12 +749,15 @@
 127.0.0.1 gg.qucaigg.com
 127.0.0.1 jzjpj.cnzz.kld666.com
 #fl5y.com
-127.0.0.1 e.e708.net
 127.0.0.1 e.e701.net
 #friok.com
 127.0.0.1 fengche.cpv6.com
 #gywb.cn
 127.0.0.1 stat.gywb.com.cn
+#henbt.com
+127.0.0.1 j.qiqiww.com
+127.0.0.1 rs.qiyou.com
+127.0.0.1 s.00oo00.com
 #hdwan.net
 127.0.0.1 u291014.778669.com
 #hltm.cc
@@ -758,13 +776,13 @@
 #meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e70123.com
-127.0.0.1 f.e719.net
-127.0.0.1 f.f70123.com
 #mp4ba.com
 127.0.0.1 mp4ba.qucaigg.com
 127.0.0.1 g.qucaigg.com
 #mianbao99.com
 127.0.0.1 a.mianbao99.com
+#nk77.com
+127.0.0.1 ji.dazhantai.com
 #piaohua.com
 127.0.0.1 ph.qucaigg.com
 127.0.0.1 jtug.code.poyang.com
@@ -773,14 +791,12 @@
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 cao.tc600.com
 127.0.0.1 tj.jnxiaonei.com
-127.0.0.1 vip.jisucn.com
 #simplecd.wang
 127.0.0.1 ad.7simage.com
 127.0.0.1 img.qiyou.com
 127.0.0.1 j.mainbx.com
 127.0.0.1 js.static.tebaidu.cn
 127.0.0.1 r.qiyou.com
-127.0.0.1 s.00oo00.com
 #shuaitongwang.net
 127.0.0.1 vip.mtkan.top
 127.0.0.1 d.hottimetech.com
@@ -809,6 +825,20 @@
 127.0.0.1 tg.7280.com
 #u17.com
 127.0.0.1 tj.u17t.com
+#weidaohang.org
+127.0.0.1 bdfrm.bidvertiser.com
+127.0.0.1 bdv.bidvertiser.com
+127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 pxl.bidvertiser.com
+127.0.0.1 www.bidvertiser.com
+127.0.0.1 cdnas.hyperpromote.com
+127.0.0.1 cdnpa.hyperpromote.com
+127.0.0.1 cdnis.hyperpromote.com
+127.0.0.1 cdn.hyperpromote.com
+127.0.0.1 cdn.castplatform.com
+127.0.0.1 cdn.putono5.com
+127.0.0.1 adstract.adk2x.com
+127.0.0.1 edge.quantserve.com
 #xiamp4.com
 127.0.0.1 2tu.qucaigg.com
 127.0.0.1 c.ns8d.com
@@ -819,6 +849,9 @@
 127.0.0.1 www.iqucai.com
 #xue163.com
 127.0.0.1 www.jiankang13.com
+#y5558.com
+127.0.0.1 vip.9wjc.com
+127.0.0.1 vip.jixing8.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 #zolsky.com
