@@ -46,6 +46,15 @@
 #histats.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s4.histats.com
+#mgid.com
+127.0.0.1 ab-gb.mgid.com
+127.0.0.1 ac-gb.mgid.com
+127.0.0.1 ad-gb.mgid.com
+127.0.0.1 ae-gb.mgid.com
+127.0.0.1 jsc.mgid.com
+#quantserve.com
+127.0.0.1 edge.quantserve.com
+127.0.0.1 pixel.quantserve.com
 #revsci.net
 127.0.0.1 js.revsci.net
 #scorecardresearch.com
@@ -64,6 +73,49 @@
 127.0.0.1 cl5.webterren.com
 #wp.com
 127.0.0.1 stats.wp.com
+@foreignsite
+#comoon
+127.0.0.1 staticxx.facebook.com
+127.0.0.1 creative.wwwpromoter.com
+#dvworld.com.tw
+127.0.0.1 ads.dvworld.com.tw
+#freeimagehosting.net
+127.0.0.1 c.mnet-ad.net
+127.0.0.1 contextual.media.net
+#photobucket.com
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.heias.com
+127.0.0.1 rc.rlcdn.com
+127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 www35.glam.com
+#bts.ph
+127.0.0.1 mg.dt07.net
+#kat.cr
+127.0.0.1 a.kickass.to
+#tehparadox.com
+127.0.0.1 a.komoona.com
+127.0.0.1 cdn.komoona.com
+127.0.0.1 s.komoona.com
+127.0.0.1 stat.komoona.com
+127.0.0.1 ad.turn.com
+127.0.0.1 adserver.adtechus.com
+#www.mininova.org
+127.0.0.1 s.ato.mx
+#www.rlslog.net
+127.0.0.1 ecpmrocks.com
+127.0.0.1 www.advanpromo.com
+#www.seedpeer.eu
+127.0.0.1 a.rvttrack.com
+127.0.0.1 j.rvttrack.com
+127.0.0.1 sc.rvtlife.com
+127.0.0.1 www.fatremovement.com
+#www.solidfiles.com
+127.0.0.1 js.avstats.com
+127.0.0.1 cdn.engine.trklnks.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 www.appsbodyupdate.com
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
@@ -352,7 +404,7 @@
 127.0.0.1 track.china.com
 127.0.0.1 read.huabian.com
 127.0.0.1 www.huabian.com
-#china.com/org.cn
+org.cn
 127.0.0.1 union.china.com.cn
 #chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
@@ -838,7 +890,6 @@
 127.0.0.1 cdn.castplatform.com
 127.0.0.1 cdn.putono5.com
 127.0.0.1 adstract.adk2x.com
-127.0.0.1 edge.quantserve.com
 #xiamp4.com
 127.0.0.1 2tu.qucaigg.com
 127.0.0.1 c.ns8d.com
@@ -847,6 +898,8 @@
 127.0.0.1 www.37cs.com
 127.0.0.1 www.heisiwang.com
 127.0.0.1 www.iqucai.com
+#xici
+127.0.0.1 xiciim.qtmojo.com
 #xue163.com
 127.0.0.1 www.jiankang13.com
 #y5558.com
