@@ -878,9 +878,6 @@ org.cn
 45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
-#tt1069
-162.254.149.166 tt1069.com
-162.254.149.166 www.tt1069.com
 #txtbbs.com
 127.0.0.1 www.union009.com
 127.0.0.1 u.3393.com

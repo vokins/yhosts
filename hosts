@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201601242143
+;version=201601251116
 ;url=https://github.com/vokins/yhosts
 @redirect
 #localhost
@@ -893,9 +893,6 @@ org.cn
 45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
-#tt1069
-162.254.149.166 tt1069.com
-162.254.149.166 www.tt1069.com
 #txtbbs.com
 127.0.0.1 www.union009.com
 127.0.0.1 u.3393.com
@@ -1206,6 +1203,18 @@ org.cn
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ad.api.3g.tudou.com
+@apponly
+#iqiyi
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 tyaqy.m.cn.miaozhen.com
 @soft
 #adobe
 127.0.0.1 activate.adobe.com
@@ -1226,6 +1235,7 @@ org.cn
 @cps-click
 #jd
 127.0.0.1 ccc.x.jd.com
+127.0.0.1 u.x.jd.com
 127.0.0.1 union.click.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 click.jr.jd.com
