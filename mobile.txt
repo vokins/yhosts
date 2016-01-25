@@ -166,7 +166,7 @@
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
 127.0.0.1 push.m.youku.com
-127.0.0.1 val.atm.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
-127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 val.atm.youku.com
 127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 vyk.admaster.com.cn

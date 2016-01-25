@@ -470,8 +470,14 @@ org.cn
 127.0.0.1 rack.ra.icast.cn
 127.0.0.1 samedemo.adsame.com
 #gamersky.com
+127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
 127.0.0.1 g.6sfg.com
+127.0.0.1 hhqda.pop.t5yx.cn
+127.0.0.1 ldpgl.code.mytanwan.com
+127.0.0.1 pv.cnzz.kld666.com
+127.0.0.1 rtb.behe.com
+127.0.0.1 www.tanwan.com
 #hexun.com
 127.0.0.1 h01.hxsame.hexun.com
 127.0.0.1 h02.hxsame.hexun.com
@@ -716,9 +722,15 @@ org.cn
 127.0.0.1 yokaimedia.qtmojo.com
 #youku.com
 127.0.0.1 html.atm.youku.com
+127.0.0.1 player.lstat.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 v2html.atm.youku.com
+127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
+127.0.0.1 ana.masky.biddingx.com
+127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 #zol.com.cn
 127.0.0.1 pic.zol-img.com.cn
