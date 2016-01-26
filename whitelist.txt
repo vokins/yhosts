@@ -11,3 +11,4 @@ hot.m.shouji.360tpcdn.com
 mapp.qzone.qq.com
 zhushou.360.cn
 kad.www.wps.cn
+cibn.api.3g.cp31.ott.cibntv.net

@@ -74,6 +74,7 @@ fe80::1%lo0	localhost
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
 #statcounter.com
 127.0.0.1 c.statcounter.com
 127.0.0.1 c1.statcounter.com
@@ -164,6 +165,7 @@ fe80::1%lo0	localhost
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
+127.0.0.1 wgo.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 log.mmstat.com
 127.0.0.1 js.adm.cnzz.net

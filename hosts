@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201601261308
+;version=201601261442
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -81,6 +81,7 @@ fe80::1%lo0	localhost
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
 #statcounter.com
 127.0.0.1 c.statcounter.com
 127.0.0.1 c1.statcounter.com
@@ -171,6 +172,7 @@ fe80::1%lo0	localhost
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
+127.0.0.1 wgo.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 log.mmstat.com
 127.0.0.1 js.adm.cnzz.net
@@ -1114,6 +1116,7 @@ org.cn
 127.0.0.1 tracking.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 security.browser.miui.com
+127.0.0.1 hot.browser.miui.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
@@ -1152,10 +1155,13 @@ org.cn
 127.0.0.1 oc.umeng.co
 127.0.0.1 oc.umeng.com
 127.0.0.1 www.umeng.com
+127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
 #youmi
 127.0.0.1 s.youmi.net
 127.0.0.1 track.dmp.youmi.net
@@ -1164,6 +1170,10 @@ org.cn
 #easou
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
+#gitv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
@@ -1246,18 +1256,33 @@ org.cn
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 count.atm.youku.com
+127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
+127.0.0.1 mo.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
+127.0.0.1 mqtt.m.youku.com
 127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
+127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
+127.0.0.1 val.atm.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 static.atm.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 p.l.cp31.ott.cibntv.net
+127.0.0.1 bx.optimix.asia
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 v.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 @apponly
 #iqiyi
