@@ -52,6 +52,7 @@ fe80::1%lo0	localhost
 #csbew.com
 127.0.0.1 afp.csbew.com
 127.0.0.1 s.csbew.com
+127.0.0.1 tga.csbew.com
 #gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
@@ -264,6 +265,7 @@ fe80::1%lo0	localhost
 #kejet.net
 127.0.0.1 aw.kejet.net
 127.0.0.1 dmp.kejet.net
+127.0.0.1 m.kejet.net
 #knet.cn
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
@@ -321,6 +323,10 @@ fe80::1%lo0	localhost
 #1905.com
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+127.0.0.1 link.1905.com
+127.0.0.1 material.istreamsche.com
 #21cn.com
 127.0.0.1 adshows.21cn.com
 127.0.0.1 analytics.21cn.com
@@ -986,3 +992,4 @@ org.cn
 127.0.0.1 media.zgc66.com
 127.0.0.1 mo.yiqiv.com
 127.0.0.1 rc.uoyrsd.com
+127.0.0.1 bdtg.9377a.com

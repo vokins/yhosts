@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201601261509
+;version=201601262136
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -59,6 +59,7 @@ fe80::1%lo0	localhost
 #csbew.com
 127.0.0.1 afp.csbew.com
 127.0.0.1 s.csbew.com
+127.0.0.1 tga.csbew.com
 #gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
@@ -271,6 +272,7 @@ fe80::1%lo0	localhost
 #kejet.net
 127.0.0.1 aw.kejet.net
 127.0.0.1 dmp.kejet.net
+127.0.0.1 m.kejet.net
 #knet.cn
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
@@ -328,6 +330,10 @@ fe80::1%lo0	localhost
 #1905.com
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+127.0.0.1 link.1905.com
+127.0.0.1 material.istreamsche.com
 #21cn.com
 127.0.0.1 adshows.21cn.com
 127.0.0.1 analytics.21cn.com
@@ -993,6 +999,7 @@ org.cn
 127.0.0.1 media.zgc66.com
 127.0.0.1 mo.yiqiv.com
 127.0.0.1 rc.uoyrsd.com
+127.0.0.1 bdtg.9377a.com
 0.0.0.0 20160101.biz5.sandai.net
 0.0.0.0 20160101.float.sandai.net
 0.0.0.0 20160101.logic.cpm.cm.sandai.net
@@ -1211,8 +1218,6 @@ org.cn
 127.0.0.1 n.mark.letv.com
 127.0.0.1 msg.m.letv.com
 #QQVideo
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
@@ -1275,16 +1280,32 @@ org.cn
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
+127.0.0.1 bx.optimix.asia
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
+@tvbox
+#aliyun
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+#iqiyi tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv 
+#tencent tv
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+#letv app
+127.0.0.1 n.mark.letv.com
+127.0.0.1 msg.m.letv.com
+#youku
+127.0.0.1 p.l.youku.com
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 static.atm.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 p.l.cp31.ott.cibntv.net
-127.0.0.1 bx.optimix.asia
-127.0.0.1 bsch.serving-sys.com
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
 @apponly
 #iqiyi
 127.0.0.1 api.cupid.iqiyi.com

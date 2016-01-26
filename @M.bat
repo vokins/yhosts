@@ -41,7 +41,7 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt mobile.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
+set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt mobile.txt tvbox.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 

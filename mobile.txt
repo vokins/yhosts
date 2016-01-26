@@ -123,8 +123,6 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 msg.m.letv.com
 #QQVideo
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
@@ -187,12 +185,6 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-127.0.0.1 val.atm.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
-127.0.0.1 static.atm.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 p.l.cp31.ott.cibntv.net
 127.0.0.1 bx.optimix.asia
 127.0.0.1 bsch.serving-sys.com
 127.0.0.1 v.admaster.com.cn
