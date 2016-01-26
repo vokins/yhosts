@@ -1,4 +1,4 @@
-ver=10:08 2016/1/26/周二
+ver=15:01 2016/1/26/周二
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -8,7 +8,7 @@ call :version
 call :xunlei
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts
-call :winhosts
+rem call :winhosts
 ping -n 3 127.0.0.1
 call :del
 del /f grd.txt

@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201601261442
+;version=201601261509
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -594,10 +594,11 @@ org.cn
 127.0.0.1 count.cpm.cm.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 pv.cm.sandai.net
-127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 pgv.m.xunlei.com
-127.0.0.1 cmarket.kejet.net
+127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 cmarket.kejet.net
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 #kdnet.net
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
