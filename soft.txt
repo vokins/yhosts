@@ -15,3 +15,17 @@
 127.0.0.1 ssum.casalemedia.com
 #firefox-ext
 127.0.0.1 adbma.adk2.co
+#P2pover
+127.0.0.1 cdn.netsoft2012.com
+127.0.0.1 jump.netsoft2012.com
+127.0.0.1 log.netsoft2012.com
+127.0.0.1 rel.netsoft2012.com
+127.0.0.1 www.uu654.com
+#rayfile
+127.0.0.1 rayfilead.roxcdn.com
+#xigua
+127.0.0.1 ad.xigua.com
+127.0.0.1 adv2.downsave.com
+127.0.0.1 gafxa.code.mytanwan.com
+127.0.0.1 pylfi.flash.hxh999.com
+127.0.0.1 lrcet.cnzz.kld666.com

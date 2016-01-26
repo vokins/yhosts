@@ -1,4 +1,8 @@
+#android
 127.0.0.1		    localhost
+#osx
+fe80::1%lo0	localhost
+255.255.255.255	broadcasthost
 @common-adunion
 #amazon
 127.0.0.1 aax.amazon-adsystem.com
@@ -28,12 +32,19 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 #yahoo
+127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
 #adnxs.com
 127.0.0.1 cdn.adnxs.com
+127.0.0.1 g.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 sin1.g.adnxs.com
+#atdmt.com
+127.0.0.1 fxdepo-a.akamaihd.net
+127.0.0.1 adn.atdmt.com
 #criteo.com
+127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
 #cr-nielsen
 127.0.0.1 t.cr-nielsen.com
@@ -48,6 +59,7 @@
 127.0.0.1 s10.histats.com
 127.0.0.1 s4.histats.com
 #mgid.com
+127.0.0.1 aa-gb.mgid.com
 127.0.0.1 ab-gb.mgid.com
 127.0.0.1 ac-gb.mgid.com
 127.0.0.1 ad-gb.mgid.com
@@ -85,13 +97,23 @@
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
 #photobucket.com
+127.0.0.1 b.photobucket.com
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.heias.com
 127.0.0.1 rc.rlcdn.com
 127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 ha.pro-market.net
+127.0.0.1 select.brealtime.com
 127.0.0.1 www35.glam.com
+127.0.0.1 cdn.engine.4dsply.com
+127.0.0.1 ps.eyeota.net
+127.0.0.1 cdn.cpxinteractive.com
+127.0.0.1 rs.gwallet.com
+127.0.0.1 cdn.mxpnl.com
+127.0.0.1 mixpanel.com
+127.0.0.1 api.mixpanel.com
 #bts.ph
 127.0.0.1 mg.dt07.net
 #kat.cr
@@ -108,9 +130,16 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 pl4790.puhtml.com
 127.0.0.1 tr.cdnfile.com
+#xhamster.com
+127.0.0.1 ads.adsclean.com
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 cs.adxpansion.com
+127.0.0.1 rotator.trafficstars.com
+127.0.0.1 syndication.traffichaus.com
 #www.mininova.org
 127.0.0.1 s.ato.mx
 #www.rlslog.net
+127.0.0.1 jsc.dt07.net
 127.0.0.1 ecpmrocks.com
 127.0.0.1 www.advanpromo.com
 #www.seedpeer.eu
@@ -123,9 +152,15 @@
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 go.padsdel.com
 127.0.0.1 www.appsbodyupdate.com
+#www.tube8.com
+127.0.0.1 ss.phncdn.com
+127.0.0.1 media.trafficjunky.net
 #www.tt1069.com
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
+127.0.0.1 static.awempire.com
+74.63.113.122 tt1069.com
+74.63.113.122 www.tt1069.com
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
@@ -297,6 +332,7 @@
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 s.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 huid.ad.360.cn
@@ -329,51 +365,56 @@
 #babytree.com
 127.0.0.1 titan.babytree.com
 #baidu
-127.0.0.1 adsearch.appx.91.com
-127.0.0.1 click.hm.baidu.com
-127.0.0.1 datax.baidu.com
+127.0.0.1 inside.baidu.com
+127.0.0.1 api.share.baidu.com
+127.0.0.1 api.tuisong.baidu.com
+127.0.0.1 baichuan.baidu.com
 127.0.0.1 bdimg.share.baidu.com
-127.0.0.1 cpro.baidustatic.com
-127.0.0.1 dup.baidustatic.com
-127.0.0.1 ubmcmm.baidustatic.com
-127.0.0.1 rigel.baidustatic.com
+127.0.0.1 bzclk.baidu.com
+127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cbjslog.baidu.com
+127.0.0.1 click.hm.baidu.com
 127.0.0.1 cpro.baidu.com
-127.0.0.1 entry.baidu.com
-127.0.0.1 hdj.baidu.com
-127.0.0.1 hm.baidu.com
-127.0.0.1 pos.baidu.com
-127.0.0.1 znsv.baidu.com
-127.0.0.1 su.bdimg.com
-127.0.0.1 api.share.baidu.com
-127.0.0.1 c.baidu.com
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 crs.baidu.com
+127.0.0.1 datax.baidu.com
+127.0.0.1 dup.baidustatic.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
-127.0.0.1 idm.bce.baidu.com
-127.0.0.1 nsclick.baidu.com
-127.0.0.1 push.zhanzhang.baidu.com
-127.0.0.1 sclick.baidu.com
-127.0.0.1 share.baidu.com
-127.0.0.1 snippet.pos.baidu.com
-127.0.0.1 testwn.baidu.com
-127.0.0.1 unstat.baidu.com
-127.0.0.1 wn.pos.baidu.com
-127.0.0.1 iqiyi.irs01.com
-127.0.0.1 bzclk.baidu.com
-127.0.0.1 cbjslog.baidu.com
+127.0.0.1 entry.baidu.com
 127.0.0.1 fclick.baidu.com
+127.0.0.1 gsp1.baidu.com
+127.0.0.1 hdj.baidu.com
+127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-speed.baidu.com
 127.0.0.1 mobads.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 push.zhanzhang.baidu.com
+127.0.0.1 rigel.baidustatic.com
+127.0.0.1 sclick.baidu.com
+127.0.0.1 share.baidu.com
+127.0.0.1 snippet.pos.baidu.com
+127.0.0.1 static.pay.baidu.com
+127.0.0.1 su.bdimg.com
+127.0.0.1 testwn.baidu.com
+127.0.0.1 tongji.zhidao.baidu.com
+127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 unstat.baidu.com
 127.0.0.1 update.pan.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
-127.0.0.1 gsp1.baidu.com
-127.0.0.1 tongji.zhidao.baidu.com
+127.0.0.1 w.x.baidu.com
+127.0.0.1 wn.pos.baidu.com
+127.0.0.1 znsv.baidu.com
+127.0.0.1 adsearch.appx.91.com
 127.0.0.1 update.123juzi.net
+127.0.0.1 iqiyi.irs01.com
 #baifendian.com
 127.0.0.1 ds.api.baifendian.com
 127.0.0.1 ds10.api.baifendian.com
@@ -459,6 +500,7 @@ org.cn
 #feng.com
 127.0.0.1 yes1.feng.com
 #fengniao
+127.0.0.1 pic.fengniao.com
 127.0.0.1 js.fengniao.com
 #fun.tv
 127.0.0.1 adm.funshion.com
@@ -708,7 +750,13 @@ org.cn
 #yesky.com
 127.0.0.1 adsame.tianjimedia.com
 127.0.0.1 counter.tianjimedia.com
+127.0.0.1 image.tianjimedia.com
+127.0.0.1 js.tianjimedia.com
 127.0.0.1 media.tianjimedia.com
+127.0.0.1 more.tianjimedia.com
+127.0.0.1 pv.tianjimedia.com
+127.0.0.1 y001.tianjimedia.com
+127.0.0.1 www.tianjimedia.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com
 127.0.0.1 js.ne08.com
@@ -722,13 +770,10 @@ org.cn
 127.0.0.1 yokaimedia.qtmojo.com
 #youku.com
 127.0.0.1 html.atm.youku.com
-127.0.0.1 player.lstat.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com
-127.0.0.1 e.stat.ykimg.com
-127.0.0.1 p-log.ykimg.com
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 yktd.m.cn.miaozhen.com
@@ -924,6 +969,9 @@ org.cn
 127.0.0.1 www.iqucai.com
 #xici
 127.0.0.1 xiciim.qtmojo.com
+#xigua110
+127.0.0.1 a.xigua110.com
+127.0.0.1 xiazai.cdren.com
 #xue163.com
 127.0.0.1 www.jiankang13.com
 #y5558.com

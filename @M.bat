@@ -1,4 +1,4 @@
-ver=21:44 2016/1/24/周日
+ver=10:08 2016/1/26/周二
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -8,7 +8,7 @@ call :version
 call :xunlei
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts
-call :winhosts.bat
+call :winhosts
 ping -n 3 127.0.0.1
 call :del
 del /f grd.txt
@@ -43,6 +43,14 @@ goto :eof
 :data
 set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt mobile.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
+goto :eof
+
+:winhosts
+TAKEOWN /F "%windir%\System32\drivers\etc" /A
+echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f
+rem icacls "%windir%\System32\drivers\etc" /grant "NT AUTHORITY\NetworkService":RX
+copy /y "%~dp01A.txt" "%windir%\system32\drivers\etc\hosts"
+ipconfig /flushdns
 goto :eof
 
 :downgrd

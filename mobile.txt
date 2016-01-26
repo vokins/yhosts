@@ -40,6 +40,7 @@
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 j.wan.liebao.cn
+127.0.0.1 d.union.ijinshan.com
 127.0.0.1 js.stat.ijinshan.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
@@ -165,8 +166,11 @@
 127.0.0.1 mi.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
+127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
 127.0.0.1 vyk.admaster.com.cn

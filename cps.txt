@@ -1,4 +1,7 @@
 @cps-click
+#dangdang
+127.0.0.1 click.r.dangdang.com
+127.0.0.1 union.dangdang.com
 #jd
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 u.x.jd.com
@@ -12,3 +15,4 @@
 127.0.0.1 s.click.taobao.com
 #yhd
 127.0.0.1 cms.yhd.com
+
