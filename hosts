@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201601262136
+;version=20160131 953
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -993,6 +993,8 @@ org.cn
 #y5558.com
 127.0.0.1 vip.9wjc.com
 127.0.0.1 vip.jixing8.com
+#yxdown.com
+127.0.0.1 gg.yxdown.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 #zolsky.com
@@ -1291,7 +1293,8 @@ org.cn
 #iqiyi tv
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv 
+127.0.0.1 store.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
 #tencent tv
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com

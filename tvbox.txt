@@ -5,7 +5,8 @@
 #iqiyi tv
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv 
+127.0.0.1 store.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
 #tencent tv
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com

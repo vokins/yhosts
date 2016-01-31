@@ -986,6 +986,8 @@ org.cn
 #y5558.com
 127.0.0.1 vip.9wjc.com
 127.0.0.1 vip.jixing8.com
+#yxdown.com
+127.0.0.1 gg.yxdown.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 #zolsky.com

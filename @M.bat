@@ -8,7 +8,7 @@ call :version
 call :xunlei
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts
-rem call :winhosts
+call :winhosts
 ping -n 3 127.0.0.1
 call :del
 del /f grd.txt
