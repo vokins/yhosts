@@ -166,13 +166,16 @@ fe80::1%lo0	localhost
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
-127.0.0.1 wgo.mmstat.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
+127.0.0.1 wgo.mmstat.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 s81.cnzz.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 jssdk.cnzz.com
+127.0.0.1 s17.cnzz.com
+127.0.0.1 z4.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 s11.cnzz.com
 127.0.0.1 s73.cnzz.com
@@ -219,6 +222,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cms.opendsp.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
+127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 init.phpwind.com
@@ -309,7 +313,12 @@ fe80::1%lo0	localhost
 127.0.0.1 p.yigao.com
 @chinasite
 #163
+127.0.0.1 analytics.ws.126.net
+127.0.0.1 mimg.126.net
 127.0.0.1 img1.126.net
+127.0.0.1 img2.126.net
+127.0.0.1 m.analytics.126.net
+127.0.0.1 mr.da.netease.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 r.mail.163.com
 127.0.0.1 rec.g.163.com
@@ -687,6 +696,8 @@ org.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 pic.haowj.com.cn
+127.0.0.1 www.haowj.com.cn
 #sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
@@ -819,6 +830,7 @@ org.cn
 127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 t.7788669.com
 127.0.0.1 u923032.778669.com
+127.0.0.1 u484012.778669.com
 #aabook.club
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com

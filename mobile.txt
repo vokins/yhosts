@@ -7,6 +7,20 @@
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+#adsmogo
+127.0.0.1 imp.adsmogo.net
+127.0.0.1 cus.adsmogo.com
+127.0.0.1 imp.adsmogo.com
+127.0.0.1 cfg.adsmogo.mobi
+127.0.0.1 imp.adsmogo.mobi
+127.0.0.1 cus.adsmogo.org
+127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 cfg.adsmogo.com
+127.0.0.1 cfg.adsmogo.net
+127.0.0.1 cfg.adsmogo.org
+127.0.0.1 storage.adsmogo.com
+#agrant
+127.0.0.1 adx.agrantsem.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
 127.0.0.1 log.coolguang.com
@@ -102,6 +116,13 @@
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
+#jdb
+127.0.0.1 d.elong.cn
+127.0.0.1 mhuodong.elong.com
+127.0.0.1 rmw.jdburl.com
+127.0.0.1 jdb.jiudingcapital.cn
+127.0.0.1 jdb.jiudingcapital.com
+127.0.0.1 hd.jiedaibao.com
 #kugou
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 gad.kugou.com

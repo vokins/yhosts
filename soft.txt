@@ -14,6 +14,10 @@
 127.0.0.1 static.bitmedianetwork.com
 127.0.0.1 ssum.casalemedia.com
 #firefox-ext
+54.68.16.226 addons.mozilla.org
+54.230.244.252 addons.cdn.mozilla.net
+93.184.215.191 mozorg.cdn.mozilla.net
+54.192.100.115 download-installer.cdn.mozilla.net
 127.0.0.1 adbma.adk2.co
 #P2pover
 127.0.0.1 cdn.netsoft2012.com

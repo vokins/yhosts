@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=20160131 953
+;version=201602051417
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -173,13 +173,16 @@ fe80::1%lo0	localhost
 @common-cn-adunion
 #alibaba
 127.0.0.1 click.aliyun.com
-127.0.0.1 wgo.mmstat.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
+127.0.0.1 wgo.mmstat.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 s81.cnzz.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 jssdk.cnzz.com
+127.0.0.1 s17.cnzz.com
+127.0.0.1 z4.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 s11.cnzz.com
 127.0.0.1 s73.cnzz.com
@@ -226,6 +229,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cms.opendsp.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
+127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 init.phpwind.com
@@ -316,7 +320,12 @@ fe80::1%lo0	localhost
 127.0.0.1 p.yigao.com
 @chinasite
 #163
+127.0.0.1 analytics.ws.126.net
+127.0.0.1 mimg.126.net
 127.0.0.1 img1.126.net
+127.0.0.1 img2.126.net
+127.0.0.1 m.analytics.126.net
+127.0.0.1 mr.da.netease.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 r.mail.163.com
 127.0.0.1 rec.g.163.com
@@ -694,6 +703,8 @@ org.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 pic.haowj.com.cn
+127.0.0.1 www.haowj.com.cn
 #sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
@@ -826,6 +837,7 @@ org.cn
 127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 t.7788669.com
 127.0.0.1 u923032.778669.com
+127.0.0.1 u484012.778669.com
 #aabook.club
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com
@@ -1002,99 +1014,99 @@ org.cn
 127.0.0.1 mo.yiqiv.com
 127.0.0.1 rc.uoyrsd.com
 127.0.0.1 bdtg.9377a.com
-0.0.0.0 20160101.biz5.sandai.net
-0.0.0.0 20160101.float.sandai.net
-0.0.0.0 20160101.logic.cpm.cm.sandai.net
-0.0.0.0 20160102.biz5.sandai.net
-0.0.0.0 20160102.float.sandai.net
-0.0.0.0 20160102.logic.cpm.cm.sandai.net
-0.0.0.0 20160103.biz5.sandai.net
-0.0.0.0 20160103.float.sandai.net
-0.0.0.0 20160103.logic.cpm.cm.sandai.net
-0.0.0.0 20160104.biz5.sandai.net
-0.0.0.0 20160104.float.sandai.net
-0.0.0.0 20160104.logic.cpm.cm.sandai.net
-0.0.0.0 20160105.biz5.sandai.net
-0.0.0.0 20160105.float.sandai.net
-0.0.0.0 20160105.logic.cpm.cm.sandai.net
-0.0.0.0 20160106.biz5.sandai.net
-0.0.0.0 20160106.float.sandai.net
-0.0.0.0 20160106.logic.cpm.cm.sandai.net
-0.0.0.0 20160107.biz5.sandai.net
-0.0.0.0 20160107.float.sandai.net
-0.0.0.0 20160107.logic.cpm.cm.sandai.net
-0.0.0.0 20160108.biz5.sandai.net
-0.0.0.0 20160108.float.sandai.net
-0.0.0.0 20160108.logic.cpm.cm.sandai.net
-0.0.0.0 20160109.biz5.sandai.net
-0.0.0.0 20160109.float.sandai.net
-0.0.0.0 20160109.logic.cpm.cm.sandai.net
-0.0.0.0 20160110.biz5.sandai.net
-0.0.0.0 20160110.float.sandai.net
-0.0.0.0 20160110.logic.cpm.cm.sandai.net
-0.0.0.0 20160111.biz5.sandai.net
-0.0.0.0 20160111.float.sandai.net
-0.0.0.0 20160111.logic.cpm.cm.sandai.net
-0.0.0.0 20160112.biz5.sandai.net
-0.0.0.0 20160112.float.sandai.net
-0.0.0.0 20160112.logic.cpm.cm.sandai.net
-0.0.0.0 20160113.biz5.sandai.net
-0.0.0.0 20160113.float.sandai.net
-0.0.0.0 20160113.logic.cpm.cm.sandai.net
-0.0.0.0 20160114.biz5.sandai.net
-0.0.0.0 20160114.float.sandai.net
-0.0.0.0 20160114.logic.cpm.cm.sandai.net
-0.0.0.0 20160115.biz5.sandai.net
-0.0.0.0 20160115.float.sandai.net
-0.0.0.0 20160115.logic.cpm.cm.sandai.net
-0.0.0.0 20160116.biz5.sandai.net
-0.0.0.0 20160116.float.sandai.net
-0.0.0.0 20160116.logic.cpm.cm.sandai.net
-0.0.0.0 20160117.biz5.sandai.net
-0.0.0.0 20160117.float.sandai.net
-0.0.0.0 20160117.logic.cpm.cm.sandai.net
-0.0.0.0 20160118.biz5.sandai.net
-0.0.0.0 20160118.float.sandai.net
-0.0.0.0 20160118.logic.cpm.cm.sandai.net
-0.0.0.0 20160119.biz5.sandai.net
-0.0.0.0 20160119.float.sandai.net
-0.0.0.0 20160119.logic.cpm.cm.sandai.net
-0.0.0.0 20160120.biz5.sandai.net
-0.0.0.0 20160120.float.sandai.net
-0.0.0.0 20160120.logic.cpm.cm.sandai.net
-0.0.0.0 20160121.biz5.sandai.net
-0.0.0.0 20160121.float.sandai.net
-0.0.0.0 20160121.logic.cpm.cm.sandai.net
-0.0.0.0 20160122.biz5.sandai.net
-0.0.0.0 20160122.float.sandai.net
-0.0.0.0 20160122.logic.cpm.cm.sandai.net
-0.0.0.0 20160123.biz5.sandai.net
-0.0.0.0 20160123.float.sandai.net
-0.0.0.0 20160123.logic.cpm.cm.sandai.net
-0.0.0.0 20160124.biz5.sandai.net
-0.0.0.0 20160124.float.sandai.net
-0.0.0.0 20160124.logic.cpm.cm.sandai.net
-0.0.0.0 20160125.biz5.sandai.net
-0.0.0.0 20160125.float.sandai.net
-0.0.0.0 20160125.logic.cpm.cm.sandai.net
-0.0.0.0 20160126.biz5.sandai.net
-0.0.0.0 20160126.float.sandai.net
-0.0.0.0 20160126.logic.cpm.cm.sandai.net
-0.0.0.0 20160127.biz5.sandai.net
-0.0.0.0 20160127.float.sandai.net
-0.0.0.0 20160127.logic.cpm.cm.sandai.net
-0.0.0.0 20160128.biz5.sandai.net
-0.0.0.0 20160128.float.sandai.net
-0.0.0.0 20160128.logic.cpm.cm.sandai.net
-0.0.0.0 20160129.biz5.sandai.net
-0.0.0.0 20160129.float.sandai.net
-0.0.0.0 20160129.logic.cpm.cm.sandai.net
-0.0.0.0 20160130.biz5.sandai.net
-0.0.0.0 20160130.float.sandai.net
-0.0.0.0 20160130.logic.cpm.cm.sandai.net
-0.0.0.0 20160131.biz5.sandai.net
-0.0.0.0 20160131.float.sandai.net
-0.0.0.0 20160131.logic.cpm.cm.sandai.net
+0.0.0.0 20160201.biz5.sandai.net
+0.0.0.0 20160201.float.sandai.net
+0.0.0.0 20160201.logic.cpm.cm.sandai.net
+0.0.0.0 20160202.biz5.sandai.net
+0.0.0.0 20160202.float.sandai.net
+0.0.0.0 20160202.logic.cpm.cm.sandai.net
+0.0.0.0 20160203.biz5.sandai.net
+0.0.0.0 20160203.float.sandai.net
+0.0.0.0 20160203.logic.cpm.cm.sandai.net
+0.0.0.0 20160204.biz5.sandai.net
+0.0.0.0 20160204.float.sandai.net
+0.0.0.0 20160204.logic.cpm.cm.sandai.net
+0.0.0.0 20160205.biz5.sandai.net
+0.0.0.0 20160205.float.sandai.net
+0.0.0.0 20160205.logic.cpm.cm.sandai.net
+0.0.0.0 20160206.biz5.sandai.net
+0.0.0.0 20160206.float.sandai.net
+0.0.0.0 20160206.logic.cpm.cm.sandai.net
+0.0.0.0 20160207.biz5.sandai.net
+0.0.0.0 20160207.float.sandai.net
+0.0.0.0 20160207.logic.cpm.cm.sandai.net
+0.0.0.0 20160208.biz5.sandai.net
+0.0.0.0 20160208.float.sandai.net
+0.0.0.0 20160208.logic.cpm.cm.sandai.net
+0.0.0.0 20160209.biz5.sandai.net
+0.0.0.0 20160209.float.sandai.net
+0.0.0.0 20160209.logic.cpm.cm.sandai.net
+0.0.0.0 20160210.biz5.sandai.net
+0.0.0.0 20160210.float.sandai.net
+0.0.0.0 20160210.logic.cpm.cm.sandai.net
+0.0.0.0 20160211.biz5.sandai.net
+0.0.0.0 20160211.float.sandai.net
+0.0.0.0 20160211.logic.cpm.cm.sandai.net
+0.0.0.0 20160212.biz5.sandai.net
+0.0.0.0 20160212.float.sandai.net
+0.0.0.0 20160212.logic.cpm.cm.sandai.net
+0.0.0.0 20160213.biz5.sandai.net
+0.0.0.0 20160213.float.sandai.net
+0.0.0.0 20160213.logic.cpm.cm.sandai.net
+0.0.0.0 20160214.biz5.sandai.net
+0.0.0.0 20160214.float.sandai.net
+0.0.0.0 20160214.logic.cpm.cm.sandai.net
+0.0.0.0 20160215.biz5.sandai.net
+0.0.0.0 20160215.float.sandai.net
+0.0.0.0 20160215.logic.cpm.cm.sandai.net
+0.0.0.0 20160216.biz5.sandai.net
+0.0.0.0 20160216.float.sandai.net
+0.0.0.0 20160216.logic.cpm.cm.sandai.net
+0.0.0.0 20160217.biz5.sandai.net
+0.0.0.0 20160217.float.sandai.net
+0.0.0.0 20160217.logic.cpm.cm.sandai.net
+0.0.0.0 20160218.biz5.sandai.net
+0.0.0.0 20160218.float.sandai.net
+0.0.0.0 20160218.logic.cpm.cm.sandai.net
+0.0.0.0 20160219.biz5.sandai.net
+0.0.0.0 20160219.float.sandai.net
+0.0.0.0 20160219.logic.cpm.cm.sandai.net
+0.0.0.0 20160220.biz5.sandai.net
+0.0.0.0 20160220.float.sandai.net
+0.0.0.0 20160220.logic.cpm.cm.sandai.net
+0.0.0.0 20160221.biz5.sandai.net
+0.0.0.0 20160221.float.sandai.net
+0.0.0.0 20160221.logic.cpm.cm.sandai.net
+0.0.0.0 20160222.biz5.sandai.net
+0.0.0.0 20160222.float.sandai.net
+0.0.0.0 20160222.logic.cpm.cm.sandai.net
+0.0.0.0 20160223.biz5.sandai.net
+0.0.0.0 20160223.float.sandai.net
+0.0.0.0 20160223.logic.cpm.cm.sandai.net
+0.0.0.0 20160224.biz5.sandai.net
+0.0.0.0 20160224.float.sandai.net
+0.0.0.0 20160224.logic.cpm.cm.sandai.net
+0.0.0.0 20160225.biz5.sandai.net
+0.0.0.0 20160225.float.sandai.net
+0.0.0.0 20160225.logic.cpm.cm.sandai.net
+0.0.0.0 20160226.biz5.sandai.net
+0.0.0.0 20160226.float.sandai.net
+0.0.0.0 20160226.logic.cpm.cm.sandai.net
+0.0.0.0 20160227.biz5.sandai.net
+0.0.0.0 20160227.float.sandai.net
+0.0.0.0 20160227.logic.cpm.cm.sandai.net
+0.0.0.0 20160228.biz5.sandai.net
+0.0.0.0 20160228.float.sandai.net
+0.0.0.0 20160228.logic.cpm.cm.sandai.net
+0.0.0.0 20160229.biz5.sandai.net
+0.0.0.0 20160229.float.sandai.net
+0.0.0.0 20160229.logic.cpm.cm.sandai.net
+0.0.0.0 20160230.biz5.sandai.net
+0.0.0.0 20160230.float.sandai.net
+0.0.0.0 20160230.logic.cpm.cm.sandai.net
+0.0.0.0 20160231.biz5.sandai.net
+0.0.0.0 20160231.float.sandai.net
+0.0.0.0 20160231.logic.cpm.cm.sandai.net
 @mobile
 #admaster.mobi
 127.0.0.1 admaster.mobi
@@ -1104,6 +1116,20 @@ org.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+#adsmogo
+127.0.0.1 imp.adsmogo.net
+127.0.0.1 cus.adsmogo.com
+127.0.0.1 imp.adsmogo.com
+127.0.0.1 cfg.adsmogo.mobi
+127.0.0.1 imp.adsmogo.mobi
+127.0.0.1 cus.adsmogo.org
+127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 cfg.adsmogo.com
+127.0.0.1 cfg.adsmogo.net
+127.0.0.1 cfg.adsmogo.org
+127.0.0.1 storage.adsmogo.com
+#agrant
+127.0.0.1 adx.agrantsem.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
 127.0.0.1 log.coolguang.com
@@ -1199,6 +1225,13 @@ org.cn
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
+#jdb
+127.0.0.1 d.elong.cn
+127.0.0.1 mhuodong.elong.com
+127.0.0.1 rmw.jdburl.com
+127.0.0.1 jdb.jiudingcapital.cn
+127.0.0.1 jdb.jiudingcapital.com
+127.0.0.1 hd.jiedaibao.com
 #kugou
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 gad.kugou.com
@@ -1290,11 +1323,25 @@ org.cn
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
-#iqiyi tv
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv
+#iqiyi
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 tyaqy.m.cn.miaozhen.com
+#gitv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
 #tencent tv
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
@@ -1309,18 +1356,6 @@ org.cn
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 p.l.cp31.ott.cibntv.net
-@apponly
-#iqiyi
-127.0.0.1 api.cupid.iqiyi.com
-127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 mbdlog.iqiyi.com
-127.0.0.1 msg.iqiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 static.g.ppstream.com
-127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 viqiyi.admaster.com.cn
-127.0.0.1 tyaqy.m.cn.miaozhen.com
 @soft
 #adobe
 127.0.0.1 activate.adobe.com
@@ -1337,6 +1372,10 @@ org.cn
 127.0.0.1 static.bitmedianetwork.com
 127.0.0.1 ssum.casalemedia.com
 #firefox-ext
+54.68.16.226 addons.mozilla.org
+54.230.244.252 addons.cdn.mozilla.net
+93.184.215.191 mozorg.cdn.mozilla.net
+54.192.100.115 download-installer.cdn.mozilla.net
 127.0.0.1 adbma.adk2.co
 #P2pover
 127.0.0.1 cdn.netsoft2012.com
@@ -1360,6 +1399,7 @@ org.cn
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 union.click.jd.com
+127.0.0.1 union.m.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 jrclick.jd.com
@@ -1367,9 +1407,6 @@ org.cn
 127.0.0.1 g.click.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
-#yhd
-127.0.0.1 cms.yhd.com
-
 #daohang
 127.0.0.1 123.sogou.com
 127.0.0.1 hao.360.cn
