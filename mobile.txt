@@ -44,6 +44,7 @@
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 hot.browser.miui.com
+127.0.0.1 api.miwifi.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com

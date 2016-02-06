@@ -15,11 +15,14 @@
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 #gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 msg.video.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
 127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
 #tencent tv
 127.0.0.1 lives.l.aiseet.atianqi.com
