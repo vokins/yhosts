@@ -1,4 +1,4 @@
-ver=15:01 2016/1/26/周二
+ver=7:05 2016/2/7/周日
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -6,12 +6,12 @@ call :del
 call :bat
 call :version
 call :xunlei
+call :downgrd
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
-del /f grd.txt
 exit
 
 :del
@@ -41,7 +41,7 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt redirect.txt grd.txt hosts.txt xunlei.txt mobile.txt tvbox.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
+set files=bat.txt Version.txt redirect.txt hosts.txt xunlei.txt mobile.txt tvbox.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 

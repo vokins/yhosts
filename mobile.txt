@@ -52,14 +52,6 @@
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
 127.0.0.1 bigdata.advmob.cn
-#kingsoft
-127.0.0.1 ads.dh.duba.com
-127.0.0.1 counter.kingsoft.com
-127.0.0.1 j.wan.liebao.cn
-127.0.0.1 d.union.ijinshan.com
-127.0.0.1 js.stat.ijinshan.com
-127.0.0.1 cdnimg.liehu.ijinshan.com
-127.0.0.1 rcv.mobad.ijinshan.com
 #moogos.com
 127.0.0.1 api.moogos.com
 127.0.0.1 cdn.moogos.com
@@ -90,6 +82,11 @@
 127.0.0.1 feedback.whalecloud.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
+#wapx.cn
+127.0.0.1 ads.wapx.cn
+127.0.0.1 app.wapx.cn
+127.0.0.1 appcdn.wapx.cn
+127.0.0.1 imgcdn.wapx.cn
 #youmi
 127.0.0.1 s.youmi.net
 127.0.0.1 track.dmp.youmi.net
@@ -117,6 +114,8 @@
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
+#ireader
+127.0.0.1 ad.zhangyue.com
 #jdb
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
