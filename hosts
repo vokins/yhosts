@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=20160209 018
+;version=201602092217
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -377,7 +377,6 @@ fe80::1%lo0	localhost
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
-127.0.0.1 mimg.127.net
 127.0.0.1 mr.da.netease.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 r.mail.163.com
@@ -445,6 +444,8 @@ fe80::1%lo0	localhost
 #babytree.com
 127.0.0.1 titan.babytree.com
 #baidu
+127.0.0.1 nlog.baidu.com
+127.0.0.1 nsclick.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 inside.baidu.com
 127.0.0.1 api.share.baidu.com
@@ -474,7 +475,6 @@ fe80::1%lo0	localhost
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-speed.baidu.com
 127.0.0.1 mobads.baidu.com
-127.0.0.1 nsclick.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 rigel.baidustatic.com
@@ -743,6 +743,8 @@ fe80::1%lo0	localhost
 #pcpop.com
 127.0.0.1 ashow.pcpop.com
 127.0.0.1 count.pcpop.com
+#pipi.cn
+127.0.0.1 afm.pipi.cn
 #pptv.com
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
