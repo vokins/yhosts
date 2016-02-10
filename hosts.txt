@@ -12,6 +12,7 @@ fe80::1%lo0	localhost
 127.0.0.1 wm.makeding.com
 #wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
+127.0.0.1 sddnserror9.wo.com.cn
 #ok365.com
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
@@ -228,6 +229,7 @@ fe80::1%lo0	localhost
 127.0.0.1 s92.cnzz.com
 127.0.0.1 s16.cnzz.com
 127.0.0.1 s175.cnzz.com
+127.0.0.1 s85.cnzz.com
 127.0.0.1 s19.cnzz.com
 127.0.0.1 s20.cnzz.com
 127.0.0.1 s22.cnzz.com
@@ -278,6 +280,7 @@ fe80::1%lo0	localhost
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
 #51yes.com
+127.0.0.1 count9.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count51.51yes.com
 #acs86.com
@@ -394,6 +397,8 @@ fe80::1%lo0	localhost
 #21cn.com
 127.0.0.1 adshows.21cn.com
 127.0.0.1 analytics.21cn.com
+127.0.0.1 market.21cn.com
+127.0.0.1 shows.21cn.com
 #2345
 127.0.0.1 dl.2345.com
 127.0.0.1 jifendownload.2345.cn
@@ -410,6 +415,7 @@ fe80::1%lo0	localhost
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 sh.qihoo.com
 #39.net
 127.0.0.1 app-g.39.net
 127.0.0.1 d.39.net
@@ -512,6 +518,16 @@ fe80::1%lo0	localhost
 127.0.0.1 cbsi.demdex.net
 127.0.0.1 dpm.demdex.net
 127.0.0.1 fast.cbsi.demdex.net
+127.0.0.1 in.ml314.com
+127.0.0.1 ml314.com
+127.0.0.1 b.ifmnwi.club
+127.0.0.1 j.6sc.co
+127.0.0.1 js.bizographics.com
+127.0.0.1 pixel.everesttech.net
+127.0.0.1 vidtech.cbsima.com
+127.0.0.1 www.everestjs.net
+127.0.0.1 stat.xgo.com.cn
+127.0.0.1 c03.optimix.asia
 #CBS-CN
 127.0.0.1 ca.cbsi.com.cn
 127.0.0.1 data.cbsi.com.cn
@@ -564,6 +580,7 @@ fe80::1%lo0	localhost
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
 127.0.0.1 dvser.china.com
+127.0.0.1 game.china.com
 127.0.0.1 statistic.dvsend.china.com
 127.0.0.1 track.china.com
 127.0.0.1 read.huabian.com
@@ -588,6 +605,8 @@ fe80::1%lo0	localhost
 127.0.0.1 cntv.wrating.com
 #cqnews.net
 127.0.0.1 phpad.cqnews.net
+#chinaso.com
+127.0.0.1 stat.chinaso.com
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #douban.com
@@ -599,6 +618,7 @@ fe80::1%lo0	localhost
 127.0.0.1 tongji.eastday.com
 127.0.0.1 eastday.acs86.com
 #eastmoney.com
+127.0.0.1 cmsjs.eastmoney.com
 127.0.0.1 js4.eastmoney.com
 127.0.0.1 same.eastmoney.com
 #egou.com
@@ -678,6 +698,8 @@ fe80::1%lo0	localhost
 127.0.0.1 oeeee.adsame.com
 127.0.0.1 x.infzm.com
 #jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 u.x.jd.com
 127.0.0.1 x.jd.com
 #jrj.com.cn
 127.0.0.1 same.jrj.com.cn
@@ -745,10 +767,14 @@ fe80::1%lo0	localhost
 127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 ads.data.pplive.com
 #qidian.com
+127.0.0.1 a.game.qidian.com
+127.0.0.1 abc.if.qidian.com
 127.0.0.1 avd.qidian.com
 127.0.0.1 cj.qidian.com
-127.0.0.1 a.game.qidian.com
+127.0.0.1 o.if.qidian.com
+127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
+127.0.0.1 s1.cmfu.com
 #qingdaonews.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 1.up.qingdaonews.com
@@ -803,8 +829,10 @@ fe80::1%lo0	localhost
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 www.haowj.com.cn
+127.0.0.1 757.adsina.allyes.com
 #sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
@@ -907,6 +935,96 @@ fe80::1%lo0	localhost
 127.0.0.1 yktd.m.cn.miaozhen.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valp.atm.youku.com
+@newslife
+#beihai365.com
+127.0.0.1 ad.beihai365.com
+#cnool.net
+127.0.0.1 adi.cnool.net
+127.0.0.1 adi2007.cnool.net
+127.0.0.1 adp.cnool.net
+127.0.0.1 countimages.cnool.net
+127.0.0.1 log.event.cnool.net
+#chinanews.com
+127.0.0.1 adsame.chinanews.com
+127.0.0.1 me.afp.chinanews.com
+127.0.0.1 cdn.vamaker.com
+#dahe.cn
+127.0.0.1 adf.dahe.cn
+#dayoo.com
+127.0.0.1 adimg.dayoo.com
+127.0.0.1 images.dayoo.com
+127.0.0.1 stats.dayoo.com
+#dzwindows.com
+127.0.0.1 ad.dzwindows.com
+#dzwww.com
+127.0.0.1 ad.dzwww.com
+127.0.0.1 page.acm.dzwww.com
+#enorth.com.cn
+127.0.0.1 eap.enorth.com.cn
+#gywb.cn
+127.0.0.1 stat.gywb.com.cn
+#gusuwang.com
+127.0.0.1 cstm.gusuwang.com
+127.0.0.1 ggw.gusuwang.com
+127.0.0.1 ggw.watertu.com
+127.0.0.1 gg.haianw.com
+#hangzhou.com.cn
+127.0.0.1 go.hangzhou.com.cn
+#hefei.cc
+127.0.0.1 ad.hefei.cc
+#hsw.cn
+127.0.0.1 g.hsw.cn
+#iqilu.com
+127.0.0.1 g.iqilu.com
+127.0.0.1 statapp.iqilu.com
+#jxnews.com.cn
+127.0.0.1 ad.jxnews.com.cn
+127.0.0.1 cfps.cw.china-netwave.com
+#people.com.cn
+127.0.0.1 pmm.people.com.cn
+#qianlong.com
+127.0.0.1 qianlong.adsame.com
+#rayfile.com
+127.0.0.1 rayfilead.roxcdn.com
+#shangdu.com
+127.0.0.1 aimg.shangdu.com
+#xici
+127.0.0.1 xiciim.qtmojo.com
+#xinmin.cn
+127.0.0.1 www2.xinmin.cn
+#xmfish.com
+127.0.0.1 adm.xmfish.com
+127.0.0.1 t.adyun.com
+#youth.cn
+127.0.0.1 d.youth.cn
+127.0.0.1 publish.ad.youth.cn
+#zj.com
+127.0.0.1 ggg.zj.com
+@Sites-China/Finance
+#10jqka.com.cn
+127.0.0.1 ad.thsi.cn
+#ccstock.cn
+127.0.0.1 ads.ccstock.cn
+#cnfol.com
+127.0.0.1 cnfolimedia.qtmojo.
+#gucheng.com
+127.0.0.1 bdcp.gucheng.com
+@books
+#u17.com
+127.0.0.1 tj.u17t.com
+@Military
+#chinaiiss.com
+127.0.0.1 analysis.chinaiiss.com
+127.0.0.1 sc.chinaiiss.com
+#miercn.com
+127.0.0.1 tongji.miercn.com
+127.0.0.1 w2.ddheli.com
+127.0.0.1 w3.ddheli.com
+#itiexue.net
+127.0.0.1 jph.itiexue.net
+127.0.0.1 log.tiexue.net
+#xilu.com
+127.0.0.1 newspage.xilu.com
 @popularsite
 #52dv
 127.0.0.1 t.iz55.com
@@ -979,18 +1097,12 @@ fe80::1%lo0	localhost
 #comicer.com
 127.0.0.1 s.pdsjycm.com
 127.0.0.1 js.a3p4.net
-#cnool.net
-127.0.0.1 adi.cnool.net
-127.0.0.1 adi2007.cnool.net
-127.0.0.1 adp.cnool.net
-127.0.0.1 countimages.cnool.net
-127.0.0.1 log.event.cnool.net
-127.0.0.1 u.x.jd.com
 #cr173.com
 127.0.0.1 show.qqabcd8899.com
 127.0.0.1 show.58dtpf.com
-#dahe.cn
-127.0.0.1 adf.dahe.cn
+#ctfile.com
+127.0.0.1 code12.onetad.com
+127.0.0.1 js1210.lishuanghao.com
 #dmm.hk
 127.0.0.1 rrr.youle55.com
 #dy2018.com
@@ -1013,21 +1125,10 @@ fe80::1%lo0	localhost
 127.0.0.1 jump.qucaiad.com
 127.0.0.1 gg.qucaigg.com
 127.0.0.1 jzjpj.cnzz.kld666.com
-#dzwindows.com
-127.0.0.1 ad.dzwindows.com
-#dzwww.com
-127.0.0.1 ad.dzwww.com
-127.0.0.1 page.acm.dzwww.com
 #fl5y.com
 127.0.0.1 e.e701.net
 #friok.com
 127.0.0.1 fengche.cpv6.com
-#gywb.cn
-127.0.0.1 stat.gywb.com.cn
-#hangzhou.com.cn
-127.0.0.1 go.hangzhou.com.cn
-#hefei.cc
-127.0.0.1 ad.hefei.cc
 #henbt.com
 127.0.0.1 j.qiqiww.com
 127.0.0.1 rs.qiyou.com
@@ -1038,16 +1139,10 @@ fe80::1%lo0	localhost
 127.0.0.1 uimg.123hala.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 www.1x3x.com
-#iqilu.com
-127.0.0.1 g.iqilu.com
-127.0.0.1 statapp.iqilu.com
 #itv118.com
 127.0.0.1 pic.leeyuoxs.com
 127.0.0.1 km.leeyuoys.com
 127.0.0.1 u948016.778669.com
-#jxnews.com.cn
-127.0.0.1 ad.jxnews.com.cn
-127.0.0.1 cfps.cw.china-netwave.com
 #laonanren.com
 127.0.0.1 ac.laonanren.com
 #meizitu.com
@@ -1070,14 +1165,10 @@ fe80::1%lo0	localhost
 127.0.0.1 ph.qucaigg.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 pop.code.poyang.cn
-#qianlong.com
-127.0.0.1 qianlong.adsame.com
 #qidiancom.com
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 cao.tc600.com
 127.0.0.1 tj.jnxiaonei.com
-#rayfile
-127.0.0.1 rayfilead.roxcdn.com
 #simplecd.wang
 127.0.0.1 ad.7simage.com
 127.0.0.1 img.qiyou.com
@@ -1106,8 +1197,6 @@ fe80::1%lo0	localhost
 127.0.0.1 v.7794.com
 127.0.0.1 www.666wan.com
 127.0.0.1 tg.7280.com
-#u17.com
-127.0.0.1 tj.u17t.com
 #weidaohang.org
 127.0.0.1 bdfrm.bidvertiser.com
 127.0.0.1 bdv.bidvertiser.com
@@ -1129,8 +1218,6 @@ fe80::1%lo0	localhost
 127.0.0.1 www.37cs.com
 127.0.0.1 www.heisiwang.com
 127.0.0.1 www.iqucai.com
-#xici
-127.0.0.1 xiciim.qtmojo.com
 #xigua110.com
 127.0.0.1 ad.xigua.com
 127.0.0.1 adv2.downsave.com
@@ -1139,9 +1226,6 @@ fe80::1%lo0	localhost
 127.0.0.1 lrcet.cnzz.kld666.com
 127.0.0.1 a.xigua110.com
 127.0.0.1 xiazai.cdren.com
-#xmfish.com
-127.0.0.1 adm.xmfish.com
-127.0.0.1 t.adyun.com
 #xue163.com
 127.0.0.1 www.jiankang13.com
 #y5558.com
@@ -1154,8 +1238,6 @@ fe80::1%lo0	localhost
 127.0.0.1 stat.zbii.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
-#zj.com
-127.0.0.1 ggg.zj.com
 #zolsky.com
 127.0.0.1 media.zgc66.com
 127.0.0.1 mo.yiqiv.com
