@@ -1,4 +1,4 @@
-ver=7:05 2016/2/7/周日
+ver=23:45 2016/2/11/周四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -34,9 +34,9 @@ goto :eof
 
 :xunlei
 set /a str+=1
-echo 0.0.0.0 %str%.biz5.sandai.net>>xunlei.txt
-echo 0.0.0.0 %str%.float.sandai.net>>xunlei.txt
-echo 0.0.0.0 %str%.logic.cpm.cm.sandai.net>>xunlei.txt
+echo 127.0.0.1 %str%.biz5.sandai.net>>xunlei.txt
+echo 127.0.0.1 %str%.float.sandai.net>>xunlei.txt
+echo 127.0.0.1 %str%.logic.cpm.cm.sandai.net>>xunlei.txt
 if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
