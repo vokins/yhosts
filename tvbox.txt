@@ -27,7 +27,7 @@
 #tencent tv
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
-#letv app
+#letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 msg.m.letv.com
 #youku

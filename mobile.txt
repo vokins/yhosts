@@ -34,17 +34,19 @@
 #miui
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 api.miwifi.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 tracking.miui.com
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 security.browser.miui.com
 127.0.0.1 hot.browser.miui.com
-127.0.0.1 api.miwifi.com
+127.0.0.1 security.browser.miui.com
+127.0.0.1 tracking.miui.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
@@ -96,10 +98,6 @@
 #easou
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
-#gitv
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 msga.ptqy.gitv.tv
-127.0.0.1 msg2.video.ptqy.gitv.tv
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
@@ -140,10 +138,6 @@
 127.0.0.1 d.kugou.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 kuaikaiapp.com
-#letv
-127.0.0.1 letv.m.cn.miaozhen.com
-127.0.0.1 n.mark.letv.com
-127.0.0.1 msg.m.letv.com
 #QQVideo
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
@@ -152,16 +146,18 @@
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 sdk.e.qq.com
-127.0.0.1 v.gdt.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 qq.irs01.com
 127.0.0.1 qq.m.cn.miaozhen.com
 #sohu
-127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 m.aty.sohu.com
 127.0.0.1 push.tv.sohu.com
+127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 sohutv.m.cn.miaozhen.com
 #toutiao
 127.0.0.1 ad.toutiao.com
 #ximalaya

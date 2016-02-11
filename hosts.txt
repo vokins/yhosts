@@ -867,6 +867,7 @@ fe80::1%lo0	localhost
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 wl.hd.sohu.com
+127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
 127.0.0.1 img.wan.sogou.com
