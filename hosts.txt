@@ -750,6 +750,29 @@ fe80::1%lo0	localhost
 127.0.0.1 letv.irs01.com
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
+#miui
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 api.miwifi.com
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 security.browser.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 adsunflower.com
+127.0.0.1 bigdata.adsunflower.com
+127.0.0.1 folder.adsunflower.com
+127.0.0.1 adfuture.cn
+127.0.0.1 bigdata.adfuture.cn
+127.0.0.1 folder.adfuture.cn
+127.0.0.1 bigdata.advmob.cn
 #mop.renren.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn

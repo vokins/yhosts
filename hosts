@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts
 goto :eof
 
-;version=201602112345
+;version=20160212 013
 ;url=https://github.com/vokins/yhosts
 #android
 127.0.0.1		    localhost
@@ -757,6 +757,29 @@ fe80::1%lo0	localhost
 127.0.0.1 letv.irs01.com
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
+#miui
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 api.miwifi.com
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 security.browser.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 adsunflower.com
+127.0.0.1 bigdata.adsunflower.com
+127.0.0.1 folder.adsunflower.com
+127.0.0.1 adfuture.cn
+127.0.0.1 bigdata.adfuture.cn
+127.0.0.1 folder.adfuture.cn
+127.0.0.1 bigdata.advmob.cn
 #mop.renren.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn
@@ -1266,6 +1289,279 @@ fe80::1%lo0	localhost
 127.0.0.1 mo.yiqiv.com
 127.0.0.1 rc.uoyrsd.com
 127.0.0.1 bdtg.9377a.com
+@mobile
+#admaster.mobi
+127.0.0.1 admaster.mobi
+#appsflyer.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 track.appsflyer.com
+#adroll.com
+127.0.0.1 a.adroll.com
+127.0.0.1 d.adroll.com
+#adsmogo
+127.0.0.1 imp.adsmogo.net
+127.0.0.1 cus.adsmogo.com
+127.0.0.1 imp.adsmogo.com
+127.0.0.1 cfg.adsmogo.mobi
+127.0.0.1 imp.adsmogo.mobi
+127.0.0.1 cus.adsmogo.org
+127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 cfg.adsmogo.com
+127.0.0.1 cfg.adsmogo.net
+127.0.0.1 cfg.adsmogo.org
+127.0.0.1 storage.adsmogo.com
+#agrant
+127.0.0.1 adx.agrantsem.com
+#coolguang.com
+127.0.0.1 api.coolguang.com
+127.0.0.1 log.coolguang.com
+#crashlytics.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+#flurry.com
+127.0.0.1 data.flurry.com
+#madserving.com
+127.0.0.1 ad.madserving.com
+#moogos.com
+127.0.0.1 api.moogos.com
+127.0.0.1 cdn.moogos.com
+127.0.0.1 rcv.moogos.com
+#mopub.com
+127.0.0.1 ads.mopub.com
+#jesgoo.com
+127.0.0.1 rcv.jesgoo.com
+127.0.0.1 cdn.jesgoo.com
+#jpush.cn
+127.0.0.1 im64.jpush.cn
+127.0.0.1 s.jpush.cn
+127.0.0.1 stats.jpush.cn
+127.0.0.1 sis.jpush.io
+#umeng
+127.0.0.1 alog.umeng.co
+127.0.0.1 au.umeng.co
+127.0.0.1 oc.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 api.wsq.umeng.com
+127.0.0.1 au.umeng.com
+127.0.0.1 fb.umeng.com
+127.0.0.1 oc.umeng.com
+127.0.0.1 www.umeng.com
+127.0.0.1 ex.umengcloud.com
+127.0.0.1 msg.umengcloud.com
+127.0.0.1 upoll.umengcloud.com
+127.0.0.1 utop.umengcloud.com
+127.0.0.1 feedback.whalecloud.com
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
+#wapx.cn
+127.0.0.1 ads.wapx.cn
+127.0.0.1 app.wapx.cn
+127.0.0.1 appcdn.wapx.cn
+127.0.0.1 imgcdn.wapx.cn
+#youmi
+127.0.0.1 s.youmi.net
+127.0.0.1 track.dmp.youmi.net
+127.0.0.1 stat.gw.youmi.net
+@apps
+#easou
+127.0.0.1 adm.easou.com
+127.0.0.1 tjlog.easou.com
+#habitbrowser
+127.0.0.1 ad.adfurikun.jp
+127.0.0.1 api.adfurikun.jp
+127.0.0.1 i.adfurikun.jp
+127.0.0.1 ipua.adfurikun.jp
+127.0.0.1 spap.adingo.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
+127.0.0.1 adfuri.socdm.com
+127.0.0.1 ads.mydas.mobi
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 cast-bid27-j.adtdp.com
+127.0.0.1 n.amoad.com
+127.0.0.1 sp.gmossp-sp.jp
+127.0.0.1 spapi.i-mobile.co.jp
+127.0.0.1 t.adcrops.net
+#ireader
+127.0.0.1 ad.zhangyue.com
+#jdb
+127.0.0.1 d.elong.cn
+127.0.0.1 mhuodong.elong.com
+127.0.0.1 rmw.jdburl.com
+127.0.0.1 jdb.jiudingcapital.cn
+127.0.0.1 jdb.jiudingcapital.com
+127.0.0.1 hd.jiedaibao.com
+#kugou
+127.0.0.1 ads.service.kugou.com
+127.0.0.1 gad.kugou.com
+127.0.0.1 gg.kugou.com
+127.0.0.1 install2.kugou.com
+127.0.0.1 kgmobilestat.kugou.com
+127.0.0.1 log.stat.kugou.com
+127.0.0.1 mobilelog.kugou.com
+127.0.0.1 mvads.kugou.com
+127.0.0.1 push.mobile.kugou.com
+127.0.0.1 sdk.game.kugou.com
+127.0.0.1 tj.kugou.com
+127.0.0.1 mo.kugou.com
+127.0.0.1 d.kugou.com
+127.0.0.1 downmobile.kugou.com
+127.0.0.1 kuaikaiapp.com
+#toutiao
+127.0.0.1 ad.toutiao.com
+#ximalaya
+127.0.0.1 ad.ximalaya.com
+#xunfei
+127.0.0.1 bj.imp.voiceads.cn
+@tvbox
+#aliyun
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+#iqiyi
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 tyaqy.m.cn.miaozhen.com
+#gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
+#letv
+127.0.0.1 n.mark.letv.com
+127.0.0.1 msg.m.letv.com
+#sohu
+127.0.0.1 agn.aty.sohu.com
+127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 m.aty.sohu.com
+127.0.0.1 push.tv.sohu.com
+127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 sohutv.m.cn.miaozhen.com
+#qqtv
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 news.l.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 video.mpush.qq.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 qq.irs01.com
+127.0.0.1 qq.m.cn.miaozhen.com
+#youku
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 dev-push.m.youku.com
+127.0.0.1 dl.g.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 mo.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 mqtt.m.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 rec.api.gamex.mobile.youku.com
+127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
+127.0.0.1 val.atm.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 static.atm.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 p.l.cp31.ott.cibntv.net
+127.0.0.1 bx.optimix.asia
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
+@cps-click
+#dangdang
+127.0.0.1 click.r.dangdang.com
+127.0.0.1 union.dangdang.com
+#jd
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 union.click.jd.com
+127.0.0.1 union.m.jd.com
+127.0.0.1 stat.m.jd.com
+127.0.0.1 click.jr.jd.com
+127.0.0.1 jrclick.jd.com
+#taobao
+127.0.0.1 g.click.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 s.click.taobao.com
+#daohang
+127.0.0.1 123.sogou.com
+127.0.0.1 hao.360.cn
+127.0.0.1 hao.qq.com
+127.0.0.1 www.155.com
+127.0.0.1 www.duba.com
+127.0.0.1 www.hao123.com
+@down
+#baidudown
+127.0.0.1 j.br.baidu.com
+127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
+#qq
+127.0.0.1 guanjia.qq.com
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+#ghostvirus
+127.0.0.1 win7.win7xitong.com
+127.0.0.1 win7.xp1919.com
+127.0.0.1 win7.ylmf99.com
+127.0.0.1 www.101028.com
+127.0.0.1 www.2356tv.com
+127.0.0.1 www.5757sc.com
+127.0.0.1 www.5jdg.com
+127.0.0.1 www.95fn.com
+127.0.0.1 www.gacrzm.com
+127.0.0.1 www.ghost369.com
+127.0.0.1 www.ghost38.com
+127.0.0.1 www.ghost666.com
+127.0.0.1 www.goodxitong.com
+127.0.0.1 www.jianyighost.net
+127.0.0.1 www.qcdzk.com
+127.0.0.1 www.sddiypc.com
+127.0.0.1 www.tianph.com
+127.0.0.1 www.uylmf.com
+127.0.0.1 www.win716.com
+127.0.0.1 www.win879.com
+127.0.0.1 www.windows66.com
+127.0.0.1 www.xitong365.com
+127.0.0.1 www.xitongbas.com
+127.0.0.1 www.xitonghaoyong.com
+127.0.0.1 www.xyscai.com
+127.0.0.1 xp.xitongzhjia.com
+127.0.0.1 xt.xp508.com
 127.0.0.1 20160201.biz5.sandai.net
 127.0.0.1 20160201.float.sandai.net
 127.0.0.1 20160201.logic.cpm.cm.sandai.net
@@ -1359,301 +1655,3 @@ fe80::1%lo0	localhost
 127.0.0.1 20160231.biz5.sandai.net
 127.0.0.1 20160231.float.sandai.net
 127.0.0.1 20160231.logic.cpm.cm.sandai.net
-@mobile
-#admaster.mobi
-127.0.0.1 admaster.mobi
-#appsflyer.com
-127.0.0.1 events.appsflyer.com
-127.0.0.1 track.appsflyer.com
-#adroll.com
-127.0.0.1 a.adroll.com
-127.0.0.1 d.adroll.com
-#adsmogo
-127.0.0.1 imp.adsmogo.net
-127.0.0.1 cus.adsmogo.com
-127.0.0.1 imp.adsmogo.com
-127.0.0.1 cfg.adsmogo.mobi
-127.0.0.1 imp.adsmogo.mobi
-127.0.0.1 cus.adsmogo.org
-127.0.0.1 cus.adsmogo.mobi
-127.0.0.1 cfg.adsmogo.com
-127.0.0.1 cfg.adsmogo.net
-127.0.0.1 cfg.adsmogo.org
-127.0.0.1 storage.adsmogo.com
-#agrant
-127.0.0.1 adx.agrantsem.com
-#coolguang.com
-127.0.0.1 api.coolguang.com
-127.0.0.1 log.coolguang.com
-#crashlytics.com
-127.0.0.1 e.crashlytics.com
-127.0.0.1 settings.crashlytics.com
-#flurry.com
-127.0.0.1 data.flurry.com
-#madserving.com
-127.0.0.1 ad.madserving.com
-#miui
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 cdn.ad.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 staging.admin.e.mi.com
-127.0.0.1 api.miwifi.com
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 hot.browser.miui.com
-127.0.0.1 security.browser.miui.com
-127.0.0.1 tracking.miui.com
-127.0.0.1 adsunflower.com
-127.0.0.1 bigdata.adsunflower.com
-127.0.0.1 folder.adsunflower.com
-127.0.0.1 adfuture.cn
-127.0.0.1 bigdata.adfuture.cn
-127.0.0.1 folder.adfuture.cn
-127.0.0.1 bigdata.advmob.cn
-#moogos.com
-127.0.0.1 api.moogos.com
-127.0.0.1 cdn.moogos.com
-127.0.0.1 rcv.moogos.com
-#mopub.com
-127.0.0.1 ads.mopub.com
-#jesgoo.com
-127.0.0.1 rcv.jesgoo.com
-127.0.0.1 cdn.jesgoo.com
-#jpush.cn
-127.0.0.1 im64.jpush.cn
-127.0.0.1 s.jpush.cn
-127.0.0.1 stats.jpush.cn
-127.0.0.1 sis.jpush.io
-#umeng
-127.0.0.1 alog.umeng.co
-127.0.0.1 au.umeng.co
-127.0.0.1 oc.umeng.co
-127.0.0.1 alog.umeng.com
-127.0.0.1 api.wsq.umeng.com
-127.0.0.1 au.umeng.com
-127.0.0.1 fb.umeng.com
-127.0.0.1 oc.umeng.com
-127.0.0.1 www.umeng.com
-127.0.0.1 ex.umengcloud.com
-127.0.0.1 msg.umengcloud.com
-127.0.0.1 upoll.umengcloud.com
-127.0.0.1 utop.umengcloud.com
-127.0.0.1 feedback.whalecloud.com
-127.0.0.1 ex.mobmore.com
-127.0.0.1 ex.puata.info
-#wapx.cn
-127.0.0.1 ads.wapx.cn
-127.0.0.1 app.wapx.cn
-127.0.0.1 appcdn.wapx.cn
-127.0.0.1 imgcdn.wapx.cn
-#youmi
-127.0.0.1 s.youmi.net
-127.0.0.1 track.dmp.youmi.net
-127.0.0.1 stat.gw.youmi.net
-@apps
-#easou
-127.0.0.1 adm.easou.com
-127.0.0.1 tjlog.easou.com
-#habitbrowser
-127.0.0.1 ad.adfurikun.jp
-127.0.0.1 api.adfurikun.jp
-127.0.0.1 i.adfurikun.jp
-127.0.0.1 ipua.adfurikun.jp
-127.0.0.1 spap.adingo.jp
-127.0.0.1 spap.adingo.jp.eimg.jp
-127.0.0.1 adfuri.socdm.com
-127.0.0.1 ads.mydas.mobi
-127.0.0.1 api.w.inmobi.com
-127.0.0.1 cast-bid27-j.adtdp.com
-127.0.0.1 n.amoad.com
-127.0.0.1 sp.gmossp-sp.jp
-127.0.0.1 spapi.i-mobile.co.jp
-127.0.0.1 t.adcrops.net
-#ireader
-127.0.0.1 ad.zhangyue.com
-#jdb
-127.0.0.1 d.elong.cn
-127.0.0.1 mhuodong.elong.com
-127.0.0.1 rmw.jdburl.com
-127.0.0.1 jdb.jiudingcapital.cn
-127.0.0.1 jdb.jiudingcapital.com
-127.0.0.1 hd.jiedaibao.com
-#kugou
-127.0.0.1 ads.service.kugou.com
-127.0.0.1 gad.kugou.com
-127.0.0.1 gg.kugou.com
-127.0.0.1 install2.kugou.com
-127.0.0.1 kgmobilestat.kugou.com
-127.0.0.1 log.stat.kugou.com
-127.0.0.1 mobilelog.kugou.com
-127.0.0.1 mvads.kugou.com
-127.0.0.1 push.mobile.kugou.com
-127.0.0.1 sdk.game.kugou.com
-127.0.0.1 tj.kugou.com
-127.0.0.1 mo.kugou.com
-127.0.0.1 d.kugou.com
-127.0.0.1 downmobile.kugou.com
-127.0.0.1 kuaikaiapp.com
-#QQVideo
-127.0.0.1 livep.l.qq.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 p.l.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 video.mpush.qq.com
-127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 qq.irs01.com
-127.0.0.1 qq.m.cn.miaozhen.com
-#sohu
-127.0.0.1 agn.aty.sohu.com
-127.0.0.1 mmg.aty.sohu.com
-127.0.0.1 m.aty.sohu.com
-127.0.0.1 push.tv.sohu.com
-127.0.0.1 dev.app.yule.sohu.com
-127.0.0.1 mb.hd.sohu.com.cn
-127.0.0.1 sohutv.m.cn.miaozhen.com
-#toutiao
-127.0.0.1 ad.toutiao.com
-#ximalaya
-127.0.0.1 ad.ximalaya.com
-#xunfei
-127.0.0.1 bj.imp.voiceads.cn
-#youkutudou
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 api.gamex.mobile.youku.com
-127.0.0.1 count.atm.youku.com
-127.0.0.1 dev-push.m.youku.com
-127.0.0.1 dl.g.youku.com
-127.0.0.1 mf.atm.youku.com
-127.0.0.1 mi.atm.youku.com
-127.0.0.1 mo.atm.youku.com
-127.0.0.1 mobilemsg.youku.com
-127.0.0.1 mp.atm.youku.com
-127.0.0.1 mqtt.m.youku.com
-127.0.0.1 player.lstat.youku.com
-127.0.0.1 push.m.youku.com
-127.0.0.1 rec.api.gamex.mobile.youku.com
-127.0.0.1 sdk.user.gamex.mobile.youku.com
-127.0.0.1 test.gamex.mobile.youku.com
-127.0.0.1 test.sdk.gamex.mobile.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 ad.api.3g.tudou.com
-127.0.0.1 e.stat.ykimg.com
-127.0.0.1 p-log.ykimg.com
-127.0.0.1 bx.optimix.asia
-127.0.0.1 bsch.serving-sys.com
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
-@tvbox
-#aliyun
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-#iqiyi
-127.0.0.1 api.cupid.iqiyi.com
-127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 mbdlog.iqiyi.com
-127.0.0.1 msg.iqiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
-127.0.0.1 static.g.ppstream.com
-127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 viqiyi.admaster.com.cn
-127.0.0.1 tyaqy.m.cn.miaozhen.com
-#gitv
-127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 mixer.cupid.ptqy.gitv.tv
-127.0.0.1 msg.ptqy.gitv.tv
-127.0.0.1 msg.video.ptqy.gitv.tv
-127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 msga.ptqy.gitv.tv
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 pb.bi.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv
-#tencent tv
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
-#letv
-127.0.0.1 n.mark.letv.com
-127.0.0.1 msg.m.letv.com
-#youku
-127.0.0.1 p.l.youku.com
-127.0.0.1 val.atm.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
-127.0.0.1 static.atm.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 p.l.cp31.ott.cibntv.net
-@cps-click
-#dangdang
-127.0.0.1 click.r.dangdang.com
-127.0.0.1 union.dangdang.com
-#jd
-127.0.0.1 ccc.x.jd.com
-127.0.0.1 union.click.jd.com
-127.0.0.1 union.m.jd.com
-127.0.0.1 stat.m.jd.com
-127.0.0.1 click.jr.jd.com
-127.0.0.1 jrclick.jd.com
-#taobao
-127.0.0.1 g.click.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 s.click.taobao.com
-#daohang
-127.0.0.1 123.sogou.com
-127.0.0.1 hao.360.cn
-127.0.0.1 hao.qq.com
-127.0.0.1 www.155.com
-127.0.0.1 www.duba.com
-127.0.0.1 www.hao123.com
-@down
-#baidudown
-127.0.0.1 j.br.baidu.com
-127.0.0.1 rj.baidu.com
-127.0.0.1 dlsw.br.baidu.com
-#qq
-127.0.0.1 guanjia.qq.com
-#laomaotao
-127.0.0.1 www.laomaotao.net
-127.0.0.1 down.laomaotao.net
-#diannaodian
-127.0.0.1 u.diannaodian.com
-127.0.0.1 down.diannaodian.com
-#dabaicai
-127.0.0.1 www.winbaicai.com
-127.0.0.1 down.winbaicai.com
-#ghostvirus
-127.0.0.1 win7.win7xitong.com
-127.0.0.1 win7.xp1919.com
-127.0.0.1 win7.ylmf99.com
-127.0.0.1 www.101028.com
-127.0.0.1 www.2356tv.com
-127.0.0.1 www.5757sc.com
-127.0.0.1 www.5jdg.com
-127.0.0.1 www.95fn.com
-127.0.0.1 www.gacrzm.com
-127.0.0.1 www.ghost369.com
-127.0.0.1 www.ghost38.com
-127.0.0.1 www.ghost666.com
-127.0.0.1 www.goodxitong.com
-127.0.0.1 www.jianyighost.net
-127.0.0.1 www.qcdzk.com
-127.0.0.1 www.sddiypc.com
-127.0.0.1 www.tianph.com
-127.0.0.1 www.uylmf.com
-127.0.0.1 www.win716.com
-127.0.0.1 www.win879.com
-127.0.0.1 www.windows66.com
-127.0.0.1 www.xitong365.com
-127.0.0.1 www.xitongbas.com
-127.0.0.1 www.xitonghaoyong.com
-127.0.0.1 www.xyscai.com
-127.0.0.1 xp.xitongzhjia.com
-127.0.0.1 xt.xp508.com
