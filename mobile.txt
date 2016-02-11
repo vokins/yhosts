@@ -68,11 +68,12 @@
 127.0.0.1 sis.jpush.io
 #umeng
 127.0.0.1 alog.umeng.co
-127.0.0.1 alog.umeng.com
 127.0.0.1 au.umeng.co
+127.0.0.1 oc.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
 127.0.0.1 fb.umeng.com
-127.0.0.1 oc.umeng.co
 127.0.0.1 oc.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 ex.umengcloud.com
@@ -163,27 +164,10 @@
 127.0.0.1 push.tv.sohu.com
 #toutiao
 127.0.0.1 ad.toutiao.com
-#weibo
-127.0.0.1 game.weibo.cn
-127.0.0.1 gw5.push.mcp.weibo.cn
-127.0.0.1 m.game.weibo.cn
-127.0.0.1 u1.img.mobile.sina.cn
-127.0.0.1 mg.games.sina.com.cn
-127.0.0.1 sdkapp.mobile.sina.cn
-127.0.0.1 sdkclick.mobile.sina.cn
-127.0.0.1 wbapp.mobile.sina.cn
-127.0.0.1 wbpctips.mobile.sina.cn
 #ximalaya
 127.0.0.1 ad.ximalaya.com
 #xunfei
 127.0.0.1 bj.imp.voiceads.cn
-#youdao
-127.0.0.1 android.push.126.net
-127.0.0.1 statis.push.netease.com
-127.0.0.1 dsp-impr2.youdao.com
-127.0.0.1 impservice.dictapp.youdao.com
-127.0.0.1 p.clkservice.youdao.com
-127.0.0.1 ydpushserver.youdao.com
 #youkutudou
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
