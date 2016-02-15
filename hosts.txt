@@ -315,15 +315,20 @@ fe80::1%lo0	localhost
 127.0.0.1 aw.kejet.net
 127.0.0.1 dmp.kejet.net
 127.0.0.1 m.kejet.net
-#kingsoft
+#cm-kingsoft
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 counter.kingsoft.com
+#cm-liebao
 127.0.0.1 j.wan.liebao.cn
+127.0.0.1 cr.m.liebao.cn
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 js.stat.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
+#cm-adkmob
+127.0.0.1 ssdk.adkmob.com
+127.0.0.1 cm.adkmob.com
 #knet.cn
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
@@ -750,7 +755,7 @@ fe80::1%lo0	localhost
 127.0.0.1 letv.irs01.com
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
-#miui
+#miui-SystemAdSolution
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
@@ -758,14 +763,24 @@ fe80::1%lo0	localhost
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 staging.admin.e.mi.com
-127.0.0.1 api.miwifi.com
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 adv.sec.miui.com
+127.0.0.1 test.new.api.ad.xiaomi.com
+#miui-browser
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
+#miui-clander
+127.0.0.1 staging.api.comm.miui.com
+#miui-download
+127.0.0.1 sousuo.xm.sjzhushou.com
+#miui-game
+127.0.0.1 notice.game.xiaomi.com
+#miui-sec
+127.0.0.1 api.miui.security.xiaomi.com
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 staging.api.sec.miui.com
+#miui-video
+127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
@@ -773,6 +788,7 @@ fe80::1%lo0	localhost
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
 127.0.0.1 bigdata.advmob.cn
+127.0.0.1 ws.ksmobile.net
 #mop.renren.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn

@@ -1,8 +1,17 @@
 @mobile
+#adcolony
+127.0.0.1 androidads23.adcolony.com
+#ad-locus.com
+127.0.0.1 a.api.ad-locus.com
+127.0.0.1 ad-locus.com
+127.0.0.1 api.ad-locus.com
+127.0.0.1 user.ad-locus.com
 #admaster.mobi
 127.0.0.1 admaster.mobi
 #appsflyer.com
+127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
+127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
 #adroll.com
 127.0.0.1 a.adroll.com
@@ -28,15 +37,22 @@
 127.0.0.1 e.crashlytics.com
 127.0.0.1 settings.crashlytics.com
 #flurry.com
+127.0.0.1 adlog.flurry.com
+127.0.0.1 ads.flurry.com
+127.0.0.1 cdn.flurry.com
 127.0.0.1 data.flurry.com
+127.0.0.1 proton.flurry.com
 #madserving.com
 127.0.0.1 ad.madserving.com
+#millennialmedia
+127.0.0.1 ads.nexage.com
 #moogos.com
 127.0.0.1 api.moogos.com
 127.0.0.1 cdn.moogos.com
 127.0.0.1 rcv.moogos.com
 #mopub.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 analytics.mopub.com
 #jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 cdn.jesgoo.com
@@ -121,3 +137,5 @@
 127.0.0.1 ad.ximalaya.com
 #xunfei
 127.0.0.1 bj.imp.voiceads.cn
+#systemav
+127.0.0.1 m.madthumbs.com

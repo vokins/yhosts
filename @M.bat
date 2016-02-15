@@ -1,10 +1,10 @@
-ver=23:45 2016/2/11/周四
+ver=0:33 2016/2/12/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
 call :del
-call :bat
-call :version
+rem call :bat
+rem call :version
 call :xunlei
 call :downgrd
 call :data
