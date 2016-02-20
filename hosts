@@ -737,9 +737,6 @@ fe80::1%lo0	localhost
 127.0.0.1 adm3.autoimg.cn
 127.0.0.1 c.autohome.com.cn
 @sites-cn/comic
-#dmm.hk
-127.0.0.1 rrr.youle55.com
-127.0.0.1 rwq.youle55.com
 #e-hentai.org
 127.0.0.1 adserver.juicyads.com
 #u17.com
@@ -747,15 +744,9 @@ fe80::1%lo0	localhost
 #www.comicer.com
 127.0.0.1 js.1688988.com
 127.0.0.1 js.a3p4.net
-#www.hltm.cc
-127.0.0.1 adn.agrantsem.com
-127.0.0.1 www.xxkhh.com
 #www.meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e708.net
-127.0.0.1 e.e70123.com
-127.0.0.1 f.f70123.com
-127.0.0.1 vip.at98.com
 @sites-cn/edu
 #jyeoo.com
 127.0.0.1 a.jyeoo.com
@@ -1319,6 +1310,10 @@ fe80::1%lo0	localhost
 127.0.0.1 gafxa.code.mytanwan.com
 127.0.0.1 ldpgl.code.mytanwan.com
 127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 rrr.youle55.com
+127.0.0.1 rwq.youle55.com
+127.0.0.1 e.e70123.com
+127.0.0.1 f.f70123.com
 127.0.0.1 img.88rpg.net
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 js.ta80.com
@@ -1332,6 +1327,8 @@ fe80::1%lo0	localhost
 127.0.0.1 r.qiyou.com
 127.0.0.1 rs.qiyou.com
 127.0.0.1 c.ns8d.com
+127.0.0.1 img.twcczhu.com
+127.0.0.1 vip.at98.com
 @sites-cn/video-bt-ed2k
 #bt.orzx.im
 127.0.0.1 v.jtxh.net
@@ -1435,9 +1432,9 @@ fe80::1%lo0	localhost
 127.0.0.1 down.xzwd.360eus.cn
 127.0.0.1 img.fd7c.com
 127.0.0.1 img.il8r.com
-127.0.0.1 img.twcczhu.com
 127.0.0.1 4.4001075656.com
 127.0.0.1 5.nord-raum.com
+127.0.0.1 www.xxkhh.com
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -1470,6 +1467,7 @@ fe80::1%lo0	localhost
 127.0.0.1 storage.adsmogo.com
 #agrant
 127.0.0.1 adx.agrantsem.com
+127.0.0.1 adn.agrantsem.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
 127.0.0.1 log.coolguang.com
@@ -1562,10 +1560,6 @@ fe80::1%lo0	localhost
 127.0.0.1 bj.imp.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
-@tvbox
-#aliyun
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
 #iqiyi
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
@@ -1578,16 +1572,6 @@ fe80::1%lo0	localhost
 127.0.0.1 msga.71.am
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 tyaqy.m.cn.miaozhen.com
-#gitv
-127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 mixer.cupid.ptqy.gitv.tv
-127.0.0.1 msg.ptqy.gitv.tv
-127.0.0.1 msg.video.ptqy.gitv.tv
-127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 msga.ptqy.gitv.tv
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 pb.bi.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv
 #letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 msg.m.letv.com
@@ -1599,20 +1583,6 @@ fe80::1%lo0	localhost
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 sohutv.m.cn.miaozhen.com
-#qqtv
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
-127.0.0.1 livep.l.qq.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 p.l.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 video.mpush.qq.com
-127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 qq.irs01.com
-127.0.0.1 qq.m.cn.miaozhen.com
 #youku
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
@@ -1636,15 +1606,44 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
+@tvbox
+#aliyun
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+#gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
+#qqtv
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 news.l.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 video.mpush.qq.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 qq.irs01.com
+127.0.0.1 qq.m.cn.miaozhen.com
+#cibntv
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 static.atm.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 p.l.cp31.ott.cibntv.net
-127.0.0.1 bsch.serving-sys.com
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
 @cps-click
 #dangdang
 127.0.0.1 click.r.dangdang.com
