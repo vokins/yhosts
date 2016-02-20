@@ -118,26 +118,6 @@
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
-#kugou
-127.0.0.1 ads.service.kugou.com
-127.0.0.1 gad.kugou.com
-127.0.0.1 gg.kugou.com
-127.0.0.1 install2.kugou.com
-127.0.0.1 kgmobilestat.kugou.com
-127.0.0.1 log.stat.kugou.com
-127.0.0.1 mobilelog.kugou.com
-127.0.0.1 mvads.kugou.com
-127.0.0.1 push.mobile.kugou.com
-127.0.0.1 sdk.game.kugou.com
-127.0.0.1 tj.kugou.com
-127.0.0.1 mo.kugou.com
-127.0.0.1 d.kugou.com
-127.0.0.1 downmobile.kugou.com
-127.0.0.1 kuaikaiapp.com
-#toutiao
-127.0.0.1 ad.toutiao.com
-#ximalaya
-127.0.0.1 ad.ximalaya.com
 #xunfei
 127.0.0.1 bj.imp.voiceads.cn
 #systemav

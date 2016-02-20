@@ -78,7 +78,6 @@
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 p.l.cp31.ott.cibntv.net
-127.0.0.1 bx.optimix.asia
 127.0.0.1 bsch.serving-sys.com
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn

@@ -130,7 +130,6 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.wp.com
 @foreignsite
 #comoon
-127.0.0.1 a.adroll.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com
@@ -1077,6 +1076,8 @@ fe80::1%lo0	localhost
 #thepaper.cn
 127.0.0.1 ad.thepaper.cn
 127.0.0.1 imgad.thepaper.cn
+#toutiao.com
+127.0.0.1 ad.toutiao.com
 #voc.com.cn
 127.0.0.1 click.voc.com.cn
 127.0.0.1 click.hnol.net
@@ -1240,11 +1241,24 @@ fe80::1%lo0	localhost
 127.0.0.1 pxl.idx.admaster.com.cn
 #kugou
 127.0.0.1 ads.service.kugou.com
+127.0.0.1 d.kugou.com
+127.0.0.1 downmobile.kugou.com
+127.0.0.1 gad.kugou.com
 127.0.0.1 gg.kugou.com
 127.0.0.1 install.kugou.com
+127.0.0.1 install2.kugou.com
+127.0.0.1 kgmobilestat.kugou.com
+127.0.0.1 log.stat.kugou.com
 127.0.0.1 minidcsc.kugou.com
+127.0.0.1 mo.kugou.com
+127.0.0.1 mobilelog.kugou.com
+127.0.0.1 mvads.kugou.com
+127.0.0.1 push.mobile.kugou.com
 127.0.0.1 rtmonitor.kugou.com
+127.0.0.1 sdk.game.kugou.com
 127.0.0.1 sdn.kugou.com
+127.0.0.1 tj.kugou.com
+127.0.0.1 kuaikaiapp.com
 #kuwo
 127.0.0.1 updatepage.kuwo.cn
 127.0.0.1 wa.kuwo.cn
@@ -1268,6 +1282,8 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.data.pplive.com
 #v1.cn
 127.0.0.1 ads.adinall.com
+#ximalaya.com
+127.0.0.1 ad.ximalaya.com
 #youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 static.atm.youku.com
