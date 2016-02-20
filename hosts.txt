@@ -11,6 +11,7 @@ fe80::1%lo0	localhost
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 #wo.com.cn
+127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
 #ok365.com
@@ -65,8 +66,13 @@ fe80::1%lo0	localhost
 127.0.0.1 ib.adnxs.com
 127.0.0.1 sin1.g.adnxs.com
 #atdmt.com
-127.0.0.1 fxdepo-a.akamaihd.net
 127.0.0.1 adn.atdmt.com
+#bidvertiser.com
+127.0.0.1 bdfrm.bidvertiser.com
+127.0.0.1 bdv.bidvertiser.com
+127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 pxl.bidvertiser.com
+127.0.0.1 www.bidvertiser.com
 #criteo.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
@@ -80,9 +86,17 @@ fe80::1%lo0	localhost
 #gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
+#gosquared.com
+127.0.0.1 data.gosquared.com
+127.0.0.1 data2.gosquared.com
 #histats.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s4.histats.com
+#hyperpromote.com
+127.0.0.1 cdnas.hyperpromote.com
+127.0.0.1 cdnpa.hyperpromote.com
+127.0.0.1 cdnis.hyperpromote.com
+127.0.0.1 cdn.hyperpromote.com
 #mgid.com
 127.0.0.1 aa-gb.mgid.com
 127.0.0.1 ab-gb.mgid.com
@@ -95,6 +109,7 @@ fe80::1%lo0	localhost
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 secure.quantserve.com
 #revsci.net
+127.0.0.1 pix04.revsci.net
 127.0.0.1 js.revsci.net
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
@@ -115,17 +130,20 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.wp.com
 @foreignsite
 #comoon
+127.0.0.1 a.adroll.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 ps.ns-cdn.com
 127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 www.imrworldwide.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
 #bittorrent
+127.0.0.1 cdn.segment.com
 127.0.0.1 engine.bitmedianetwork.com
 127.0.0.1 static.bitmedianetwork.com
 127.0.0.1 ssum.casalemedia.com
@@ -214,22 +232,20 @@ fe80::1%lo0	localhost
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
-127.0.0.1 s81.cnzz.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 jssdk.cnzz.com
-127.0.0.1 s17.cnzz.com
-127.0.0.1 z4.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 s11.cnzz.com
-127.0.0.1 s73.cnzz.com
+127.0.0.1 s121.cnzz.com
+127.0.0.1 s128.cnzz.com
 127.0.0.1 s13.cnzz.com
-127.0.0.1 s87.cnzz.com
+127.0.0.1 s134.cnzz.com
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
-127.0.0.1 s92.cnzz.com
 127.0.0.1 s16.cnzz.com
+127.0.0.1 s17.cnzz.com
 127.0.0.1 s175.cnzz.com
-127.0.0.1 s85.cnzz.com
+127.0.0.1 s18.cnzz.com
 127.0.0.1 s19.cnzz.com
 127.0.0.1 s20.cnzz.com
 127.0.0.1 s22.cnzz.com
@@ -239,15 +255,22 @@ fe80::1%lo0	localhost
 127.0.0.1 s5.cnzz.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 s62.cnzz.com
+127.0.0.1 s73.cnzz.com
+127.0.0.1 s81.cnzz.com
+127.0.0.1 s85.cnzz.com
+127.0.0.1 s87.cnzz.com
 127.0.0.1 s88.cnzz.com
 127.0.0.1 s9.cnzz.com
+127.0.0.1 s92.cnzz.com
 127.0.0.1 s94.cnzz.com
 127.0.0.1 s95.cnzz.com
 127.0.0.1 s96.cnzz.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 v4.cnzz.com
+127.0.0.1 v6.cnzz.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 w.cnzz.com
+127.0.0.1 z4.cnzz.com
 127.0.0.1 a.alimama.cn
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 i.ipinyou.com
@@ -284,6 +307,7 @@ fe80::1%lo0	localhost
 127.0.0.1 count25.51yes.com
 127.0.0.1 count51.51yes.com
 #acs86.com
+127.0.0.1 amob.acs86.com
 127.0.0.1 minisite.acs86.com
 127.0.0.1 static.acs86.com
 127.0.0.1 tga.acs86.com
@@ -298,6 +322,7 @@ fe80::1%lo0	localhost
 #allyes
 127.0.0.1 1.allyes.com.cn
 #bshare
+127.0.0.1 bx.optimix.asia
 127.0.0.1 bshare.optimix.asia
 127.0.0.1 static.bshare.cn
 #chinauma.net
@@ -347,10 +372,12 @@ fe80::1%lo0	localhost
 127.0.0.1 secure.mediav.com
 127.0.0.1 tran.mediav.com
 #miaozhen.com
+127.0.0.1 c.x.cn.miaozhen.com
 127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
+127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
@@ -396,16 +423,6 @@ fe80::1%lo0	localhost
 127.0.0.1 statis.push.netease.com
 127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 163.wrating.com
-#16lao.com
-127.0.0.1 f3.16lao.com
-127.0.0.1 stat.16lao.com
-#1905.com
-127.0.0.1 afp.m1905.com
-127.0.0.1 counter.m1905.com
-127.0.0.1 trace.m1905.cn
-127.0.0.1 vodlog.m1905.cn
-127.0.0.1 link.1905.com
-127.0.0.1 material.istreamsche.com
 #21cn.com
 127.0.0.1 adshows.21cn.com
 127.0.0.1 analytics.21cn.com
@@ -421,41 +438,23 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 guess.tf.360.cn
+127.0.0.1 huid.ad.360.cn
+127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
-127.0.0.1 huid.ad.360.cn
-127.0.0.1 guess.tf.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 sh.qihoo.com
-#39.net
-127.0.0.1 app-g.39.net
-127.0.0.1 d.39.net
-#58.com
-127.0.0.1 adshow.58.com
-127.0.0.1 brandshow.58.com
-127.0.0.1 jing.58.com
-127.0.0.1 jump.luna.58.com
-127.0.0.1 luna.58.com
-127.0.0.1 ptracker.58.com
-127.0.0.1 stat.58.xgo.com.cn
-127.0.0.1 static.track.58.com
-127.0.0.1 track.58.com
-127.0.0.1 tracklog.58.com
-127.0.0.1 usdtop.58.com
-#autohome.com.cn
-127.0.0.1 33.autohome.com.cn
-127.0.0.1 h.pcd.autohome.com.cn
-127.0.0.1 stats.autohome.com.cn
-127.0.0.1 adm0.autoimg.cn
-127.0.0.1 adm1.autoimg.cn
-127.0.0.1 adm2.autoimg.cn
-127.0.0.1 adm3.autoimg.cn
-127.0.0.1 c.autohome.com.cn
-#babytree.com
-127.0.0.1 titan.babytree.com
 #baidu
+127.0.0.1 ecma.bdimg.com
+127.0.0.1 imageplus.baidu.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 iknowpc.bdimg.com
 127.0.0.1 api.share.baidu.com
+127.0.0.1 fexclick.baidu.com
+127.0.0.1 kstj.baidu.com
+127.0.0.1 qianclick.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 bdimg.share.baidu.com
@@ -477,6 +476,7 @@ fe80::1%lo0	localhost
 127.0.0.1 fclick.baidu.com
 127.0.0.1 gsp1.baidu.com
 127.0.0.1 hdj.baidu.com
+127.0.0.1 rp.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 idm.bce.baidu.com
@@ -489,7 +489,6 @@ fe80::1%lo0	localhost
 127.0.0.1 pos.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 rigel.baidustatic.com
-127.0.0.1 rp.baidu.com
 127.0.0.1 sclick.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 snippet.pos.baidu.com
@@ -516,10 +515,6 @@ fe80::1%lo0	localhost
 127.0.0.1 static1.baifendian.com
 127.0.0.1 static1.bfdcdn.com
 127.0.0.1 www.baifendian.com
-#caixin.com
-127.0.0.1 2012.8684.com
-127.0.0.1 caixin.adsame.com
-127.0.0.1 logstat.caixin.com
 #CBS
 127.0.0.1 adlog.cbsi.com
 127.0.0.1 dw.cbsi.com
@@ -587,174 +582,6 @@ fe80::1%lo0	localhost
 127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m981.oadz.com
-#ce.cn
-127.0.0.1 ads.ce.cn
-#china.com
-127.0.0.1 dvs.china.com
-127.0.0.1 dvsend.china.com
-127.0.0.1 dvser.china.com
-127.0.0.1 game.china.com
-127.0.0.1 statistic.dvsend.china.com
-127.0.0.1 track.china.com
-127.0.0.1 read.huabian.com
-127.0.0.1 www.huabian.com
-#china.com.cn
-127.0.0.1 union.china.com.cn
-#csdn.net
-127.0.0.1 ad.csdn.net
-127.0.0.1 counter.csdn.net
-127.0.0.1 csdnim.qtmojo.com
-#chinadaily.com.cn
-127.0.0.1 same.chinadaily.com.cn
-#ci123.com
-127.0.0.1 tc.ci123.com
-#cnmo.com
-127.0.0.1 js.cnmo.com
-127.0.0.1 stat.cnmo.com
-127.0.0.1 pic.cnmo-img.com.cn
-127.0.0.1 s03.optimix.asia
-#cntv.cn
-127.0.0.1 terren.cntv.cn
-127.0.0.1 cntv.wrating.com
-#cqnews.net
-127.0.0.1 phpad.cqnews.net
-#chinaso.com
-127.0.0.1 stat.chinaso.com
-#chinaz.com
-127.0.0.1 stats.chinaz.com
-#douban.com
-127.0.0.1 erebor.douban.com
-#e-hentai.org
-127.0.0.1 adserver.juicyads.com
-#eastday.com
-127.0.0.1 afpimages.eastday.com
-127.0.0.1 tongji.eastday.com
-127.0.0.1 eastday.acs86.com
-#eastmoney.com
-127.0.0.1 cmsjs.eastmoney.com
-127.0.0.1 js4.eastmoney.com
-127.0.0.1 same.eastmoney.com
-#egou.com
-127.0.0.1 ad.egou.com
-#enet.com.cn
-127.0.0.1 frame.enet.com.cn
-127.0.0.1 pv.enet.com.cn
-#fang.com
-127.0.0.1 js.ub.fang.com
-127.0.0.1 clickm.soufun.com
-127.0.0.1 show3.fang.com
-#feng.com
-127.0.0.1 yes1.feng.com
-#fun.tv
-127.0.0.1 adm.funshion.com
-127.0.0.1 pub.funshion.com
-#ftchinese.com
-127.0.0.1 markets.ft.com
-127.0.0.1 dolphin.ftimg.net
-127.0.0.1 rmtx.ra.icast.cn
-127.0.0.1 rack.ra.icast.cn
-127.0.0.1 samedemo.adsame.com
-#gamersky.com
-127.0.0.1 click.gamersky.com
-127.0.0.1 ja.gamersky.com
-127.0.0.1 g.6sfg.com
-127.0.0.1 hhqda.pop.t5yx.cn
-127.0.0.1 ldpgl.code.mytanwan.com
-127.0.0.1 pv.cnzz.kld666.com
-127.0.0.1 rtb.behe.com
-127.0.0.1 www.tanwan.com
-#hexun.com
-127.0.0.1 h01.hxsame.hexun.com
-127.0.0.1 h02.hxsame.hexun.com
-127.0.0.1 h03.hxsame.hexun.com
-127.0.0.1 h04.hxsame.hexun.com
-127.0.0.1 h05.hxsame.hexun.com
-127.0.0.1 h06.hxsame.hexun.com
-127.0.0.1 h07.hxsame.hexun.com
-127.0.0.1 h08.hxsame.hexun.com
-127.0.0.1 h09.hxsame.hexun.com
-127.0.0.1 h10.hxsame.hexun.com
-127.0.0.1 itv.hexun.com
-127.0.0.1 hxsame.hexun.com
-127.0.0.1 utrack.hexun.com
-#house365.com
-127.0.0.1 adadmin.house365.com
-127.0.0.1 isa.house365.com
-127.0.0.1 stat.house365.com
-#hunantv.com
-127.0.0.1 a.ads.cn.miaozhen.com
-127.0.0.1 e.ads.cn.miaozhen.com
-127.0.0.1 g.ads.cn.miaozhen.com
-127.0.0.1 hunantv.m.cn.miaozhen.com
-127.0.0.1 bs.da.hunantv.com
-127.0.0.1 click.hunantv.com
-127.0.0.1 log.hunantv.com
-127.0.0.1 log.da.hunantv.com
-127.0.0.1 log.mpns.hunantv.com
-127.0.0.1 log.v2.hunantv.com
-127.0.0.1 mobile.log.hunantv.com
-127.0.0.1 v1.buf.log.hunantv.com
-127.0.0.1 v1.hd.log.hunantv.com
-127.0.0.1 v1.hdd.log.hunantv.com
-127.0.0.1 v2.log.hunantv.com
-127.0.0.1 x.da.hunantv.com
-127.0.0.1 y.da.hunantv.com
-#hupu.com
-127.0.0.1 cc.dace.hupu.com
-127.0.0.1 t1.hoopchina.com.cn
-#ifeng.com
-127.0.0.1 dol.deliver.ifeng.com
-127.0.0.1 iis1.deliver.ifeng.com
-127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 stadig.ifeng.com
-#infzm
-127.0.0.1 oeeee.adsame.com
-127.0.0.1 x.infzm.com
-#jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 x.jd.com
-#jrj.com.cn
-127.0.0.1 same.jrj.com.cn
-127.0.0.1 same01.jrj.com.cn
-127.0.0.1 same02.jrj.com.cn
-127.0.0.1 same03.jrj.com.cn
-#kafan.cn
-127.0.0.1 fp.fraudmetrix.cn
-127.0.0.1 static.fraudmetrix.cn
-#kankan.com
-127.0.0.1 20160105.float.sandai.net
-127.0.0.1 biz5.sandai.net
-127.0.0.1 float.sandai.net
-127.0.0.1 click.cm.sandai.net
-127.0.0.1 count.cpm.cm.sandai.net
-127.0.0.1 logic.cpm.cm.sandai.net
-127.0.0.1 pv.cm.sandai.net
-127.0.0.1 pgv.m.xunlei.com
-127.0.0.1 record.kuai.xunlei.com
-127.0.0.1 kkpgv2.xunlei.com
-127.0.0.1 material.xl7.xunlei.com
-127.0.0.1 stat.vod.xunlei.com
-127.0.0.1 msg2.client.xunlei.com
-127.0.0.1 misc.show.xunlei.com
-127.0.0.1 v2.boxpage.niu.xunlei.com
-127.0.0.1 boxcfg.niu.xunlei.com
-127.0.0.1 niu.xunlei.com
-127.0.0.1 hezuo.downxunlei.com
-127.0.0.1 cmarket.kejet.net
-127.0.0.1 xunlei.ipdx.cn.miaozhen.com
-#kdnet.net
-127.0.0.1 super.kdnet.net
-127.0.0.1 super.cat898.com
-127.0.0.1 tracking.cat898.com
-#letv.com
-127.0.0.1 ark.letv.com
-127.0.0.1 fz.letv.com
-127.0.0.1 g3.letv.com
-127.0.0.1 minisite.letv.com
-127.0.0.1 letv.irs01.com
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #miui-SystemAdSolution
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
@@ -789,46 +616,8 @@ fe80::1%lo0	localhost
 127.0.0.1 folder.adfuture.cn
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 ws.ksmobile.net
-#mop.renren.com
-127.0.0.1 pub.mop.com
-127.0.0.1 jebe.xnimg.cn
-127.0.0.1 ebp.renren.com
-127.0.0.1 xray.jebe.renren.com
-#msn.com
-127.0.0.1 msn.wrating.com
-127.0.0.1 msnclick.wrating.com
-127.0.0.1 msn.qtmojo.com
-#pconline.com.cn
-127.0.0.1 count5.pconline.com.cn
-127.0.0.1 ivy.pconline.com.cn
-127.0.0.1 jwz.3conline.com
-#pcpop.com
-127.0.0.1 ashow.pcpop.com
-127.0.0.1 count.pcpop.com
-#pipi.cn
-127.0.0.1 afm.pipi.cn
-#pptv.com
-127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
-127.0.0.1 de.as.pptv.com
-127.0.0.1 pub.aplus.pptv.com
-127.0.0.1 ads.data.pplive.com
-#qidian.com
-127.0.0.1 a.game.qidian.com
-127.0.0.1 abc.if.qidian.com
-127.0.0.1 avd.qidian.com
-127.0.0.1 cj.qidian.com
-127.0.0.1 o.if.qidian.com
-127.0.0.1 uedas.qidian.com
-127.0.0.1 uedas.qdmm.com
-127.0.0.1 s1.cmfu.com
-#qingdaonews.com
-127.0.0.1 0.up.qingdaonews.com
-127.0.0.1 1.up.qingdaonews.com
-127.0.0.1 2.up.qingdaonews.com
-127.0.0.1 3.up.qingdaonews.com
-127.0.0.1 4.up.qingdaonews.com
 #qq.com
+127.0.0.1 ac.o2.qq.com
 127.0.0.1 res.imtt.qq.com
 127.0.0.1 s.pcapps.qq.com
 127.0.0.1 c.gdt.qq.com
@@ -851,8 +640,6 @@ fe80::1%lo0	localhost
 127.0.0.1 wb.gtimg.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 lb.gtimg.com
-#rednet.cn
-127.0.0.1 ad.rednet.cn
 #sina.com.cn
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 cast.ra.icast.cn
@@ -892,6 +679,7 @@ fe80::1%lo0	localhost
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 corp.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 p.aty.sohu.com
@@ -917,32 +705,160 @@ fe80::1%lo0	localhost
 127.0.0.1 sohu.irs01.com
 127.0.0.1 gg.pftools.focus.cn
 127.0.0.1 pv.focus.cn
-#southcn.com
-127.0.0.1 sgg.southcn.com
+@sites-cn/books
+#aabook.club
+127.0.0.1 ads.exoclick.com
+127.0.0.1 main.exoclick.com
+127.0.0.1 static.exoclick.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 www.aavideo.net
+#qidian.com
+127.0.0.1 a.game.qidian.com
+127.0.0.1 abc.if.qidian.com
+127.0.0.1 avd.qidian.com
+127.0.0.1 cj.qidian.com
+127.0.0.1 o.if.qidian.com
+127.0.0.1 uedas.qidian.com
+127.0.0.1 uedas.qdmm.com
+127.0.0.1 s1.cmfu.com
+#www.txtbbs.com
+127.0.0.1 gg.txtbbs.com
+#www.zolsky.com
+127.0.0.1 ad.fglighting.net
+127.0.0.1 media.zgc66.com
+127.0.0.1 rc.uoyrsd.com
+@sites-cn/car
+#autohome.com.cn
+127.0.0.1 33.autohome.com.cn
+127.0.0.1 h.pcd.autohome.com.cn
+127.0.0.1 stats.autohome.com.cn
+127.0.0.1 adm0.autoimg.cn
+127.0.0.1 adm1.autoimg.cn
+127.0.0.1 adm2.autoimg.cn
+127.0.0.1 adm3.autoimg.cn
+127.0.0.1 c.autohome.com.cn
+@sites-cn/comic
+#dmm.hk
+127.0.0.1 rrr.youle55.com
+127.0.0.1 rwq.youle55.com
+#e-hentai.org
+127.0.0.1 adserver.juicyads.com
+#u17.com
+127.0.0.1 tj.u17t.com
+#www.comicer.com
+127.0.0.1 js.1688988.com
+127.0.0.1 js.a3p4.net
+#www.hltm.cc
+127.0.0.1 adn.agrantsem.com
+127.0.0.1 www.xxkhh.com
+#www.meizitu.com
+127.0.0.1 e.70e.com
+127.0.0.1 e.e708.net
+127.0.0.1 e.e70123.com
+127.0.0.1 f.f70123.com
+127.0.0.1 vip.at98.com
+@sites-cn/edu
+#jyeoo.com
+127.0.0.1 a.jyeoo.com
+@sites-cn/fashion
+#laonanren.com
+127.0.0.1 ac.laonanren.com
+#yoka.com
+127.0.0.1 adcount.yoka.com
+127.0.0.1 yokaimedia.qtmojo.com
+@sites-cn/finance
+#10jqka.com.cn
+127.0.0.1 ad.thsi.cn
+#caixin.com
+127.0.0.1 2012.8684.com
+127.0.0.1 caixin.adsame.com
+127.0.0.1 logstat.caixin.com
+#ccstock.cn
+127.0.0.1 ads.ccstock.cn
+#ce.cn
+127.0.0.1 ads.ce.cn
+#cnfol.com
+127.0.0.1 cnfolimedia.qtmojo.com
+#eastmoney.com
+127.0.0.1 cmsjs.eastmoney.com
+127.0.0.1 js4.eastmoney.com
+127.0.0.1 same.eastmoney.com
+#ftchinese.com
+127.0.0.1 markets.ft.com
+127.0.0.1 dolphin.ftimg.net
+127.0.0.1 rmtx.ra.icast.cn
+127.0.0.1 rack.ra.icast.cn
+127.0.0.1 samedemo.adsame.com
+#gucheng.com
+127.0.0.1 bdcp.gucheng.com
+#hexun.com
+127.0.0.1 h01.hxsame.hexun.com
+127.0.0.1 h02.hxsame.hexun.com
+127.0.0.1 h03.hxsame.hexun.com
+127.0.0.1 h04.hxsame.hexun.com
+127.0.0.1 h05.hxsame.hexun.com
+127.0.0.1 h06.hxsame.hexun.com
+127.0.0.1 h07.hxsame.hexun.com
+127.0.0.1 h08.hxsame.hexun.com
+127.0.0.1 h09.hxsame.hexun.com
+127.0.0.1 h10.hxsame.hexun.com
+127.0.0.1 itv.hexun.com
+127.0.0.1 hxsame.hexun.com
+127.0.0.1 utrack.hexun.com
+#jrj.com.cn
+127.0.0.1 same.jrj.com.cn
+127.0.0.1 same01.jrj.com.cn
+127.0.0.1 same02.jrj.com.cn
+127.0.0.1 same03.jrj.com.cn
 #stockstar.com
 127.0.0.1 same.stockstar.com
+@sites-cn/game
+#265g.com
+127.0.0.1 adm.265g.com
+#5173.com
+127.0.0.1 gg.5173.com
+127.0.0.1 urchin.5173.com
+127.0.0.1 html.5173cdn.com
+#766.com
+127.0.0.1 stats.766.com
+127.0.0.1 manads.static.olcdn.com
+#86wan.com
+127.0.0.1 adm.86wan.com
+#aipai.com
+127.0.0.1 apas.aipai.com
+127.0.0.1 dap.pagechoice.net
+127.0.0.1 statics.motu.pagechoice.net
+#ali213.net
+127.0.0.1 bmp.ali213.net
+127.0.0.1 bmp1.ali213.net
+#gamersky.com
+127.0.0.1 click.gamersky.com
+127.0.0.1 ja.gamersky.com
+127.0.0.1 v.behe.com
+127.0.0.1 rtb.behe.com
+127.0.0.1 g.6sfg.com
+127.0.0.1 hhqda.pop.t5yx.cn
 #tgbus.com
 127.0.0.1 gg.tgbus.com
+127.0.0.1 vista.tgbusdata.cn
 127.0.0.1 gg.stargame.com
-#tianya.cn
-127.0.0.1 801.tianya.cn
-127.0.0.1 803.tianya.cn
-127.0.0.1 806.tianya.cn
-127.0.0.1 808.tianya.cn
-127.0.0.1 bdj.tianya.cn
-127.0.0.1 dol.tianya.cn
-127.0.0.1 click.tianyaui.com
-#v1.cn
-127.0.0.1 ads.adinall.com
-#vip.com
-127.0.0.1 click.union.vip.com
-#voc.com.cn
-127.0.0.1 click.voc.com.cn
-127.0.0.1 click.hnol.net
-127.0.0.1 clickip.hnol.net
-#xinhuanet.com
-127.0.0.1 embed.xinhuanet.com
-127.0.0.1 webd.home.news.cn
+#uuu9.com
+127.0.0.1 gg.uuu9.com
+127.0.0.1 static.gg.uuu9.com
+#www.yxdown.com
+127.0.0.1 ads.yxdown.com
+127.0.0.1 gg.yxdown.com
+@sites-cn/health
+#39.net
+127.0.0.1 app-g.39.net
+127.0.0.1 d.39.net
+#babytree.com
+127.0.0.1 titan.babytree.com
+#ci123.com
+127.0.0.1 tc.ci123.com
+#qqyy.com
+127.0.0.1 dpvc2.qqyy.com
+127.0.0.1 dpvchos.qqyy.com
 #xywy.com
 127.0.0.1 a.xywy.com
 127.0.0.1 g.xywy.com
@@ -958,6 +874,99 @@ fe80::1%lo0	localhost
 127.0.0.1 adnetpub.yaolan.com
 127.0.0.1 adpub.yaolan.com
 127.0.0.1 adimage.yaolanimage.cn
+@sites-cn/house
+#1fangchan
+127.0.0.1 adhome.1fangchan.com
+#fang.com
+127.0.0.1 js.ub.fang.com
+127.0.0.1 show3.fang.com
+127.0.0.1 clickm.soufun.com
+#fdc.com.cn
+127.0.0.1 shows.fdc.com.cn
+127.0.0.1 stat.fdc.net.cn
+#house365.com
+127.0.0.1 adadmin.house365.com
+127.0.0.1 isa.house365.com
+127.0.0.1 stat.house365.com
+@sites-cn/info
+#16lao.com
+127.0.0.1 f3.16lao.com
+127.0.0.1 stat.16lao.com
+#addthis.com
+127.0.0.1 s7.addthis.com
+#baike.com
+127.0.0.1 ad1.baike.com
+127.0.0.1 stat.baike.com
+#jiathis.com
+127.0.0.1 id.jiathis.com
+127.0.0.1 v3.jiathis.com
+127.0.0.1 i.jiathis.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#weather.com.cn
+127.0.0.1 d1.weather.com.cn
+@sites-cn/it
+#beareyes.com.cn
+127.0.0.1 yahoo1.beareyes.com.cn
+#chinaso.com
+127.0.0.1 stat.chinaso.com
+#chinaz.com
+127.0.0.1 stats.chinaz.com
+#cnbeta.com
+127.0.0.1 job.cnbeta.com
+#cnmo.com
+127.0.0.1 js.cnmo.com
+127.0.0.1 stat.cnmo.com
+127.0.0.1 pic.cnmo-img.com.cn
+127.0.0.1 s03.optimix.asia
+#csdn.net
+127.0.0.1 ad.csdn.net
+127.0.0.1 counter.csdn.net
+127.0.0.1 csdnim.qtmojo.com
+#cr173.com
+127.0.0.1 cpro.cr173.com
+127.0.0.1 count.612.com
+127.0.0.1 show.kc088.com
+#crsky.com
+127.0.0.1 count.crsky.com
+127.0.0.1 dx.crsky.com
+127.0.0.1 images.crsky.com
+#ctfile.com
+127.0.0.1 doubleclick.tv002.com
+#dedecms.com
+127.0.0.1 ad.dedecms.com
+127.0.0.1 stat.dedecms.com
+#enet.com.cn
+127.0.0.1 frame.enet.com.cn
+127.0.0.1 pv.enet.com.cn
+127.0.0.1 www9.enet.com.cn
+#evolife.cn
+127.0.0.1 g.x.evolife.cn
+#feng.com
+127.0.0.1 yes1.feng.com
+#it168
+127.0.0.1 168.it168.com
+127.0.0.1 adshownew.it168.com
+127.0.0.1 g.168.it168.com
+#kafan.cn
+127.0.0.1 fp.fraudmetrix.cn
+127.0.0.1 static.fraudmetrix.cn
+#p2pover
+127.0.0.1 cdn.netsoft2012.com
+127.0.0.1 jump.netsoft2012.com
+127.0.0.1 log.netsoft2012.com
+127.0.0.1 rel.netsoft2012.com
+127.0.0.1 www.uu654.com
+#pconline.com.cn
+127.0.0.1 bestpush.pconline.com.cn
+127.0.0.1 count5.pconline.com.cn
+127.0.0.1 ivy.pconline.com.cn
+127.0.0.1 jwz.3conline.com
+#pcpop.com
+127.0.0.1 ashow.pcpop.com
+127.0.0.1 count.pcpop.com
+#rayfile.com
+127.0.0.1 rayfilead.roxcdn.com
 #yesky.com
 127.0.0.1 adsame.tianjimedia.com
 127.0.0.1 counter.tianjimedia.com
@@ -976,21 +985,7 @@ fe80::1%lo0	localhost
 127.0.0.1 log.bitauto.com
 127.0.0.1 bglog.bitauto.com
 127.0.0.1 bitauto.irs01.com
-#yoka.com
-127.0.0.1 adcount.yoka.com
-127.0.0.1 yokaimedia.qtmojo.com
-#youku.com
-127.0.0.1 html.atm.youku.com
-127.0.0.1 static.atm.youku.com
-127.0.0.1 v2html.atm.youku.com
-127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 ana.masky.biddingx.com
-127.0.0.1 cm.masky.biddingx.com
-127.0.0.1 yktd.m.cn.miaozhen.com
-127.0.0.1 valb.atm.youku.com
-127.0.0.1 valp.atm.youku.com
-@newslife
+@sites-cn/news
 #beihai365.com
 127.0.0.1 ad.beihai365.com
 #cnool.net
@@ -999,10 +994,26 @@ fe80::1%lo0	localhost
 127.0.0.1 adp.cnool.net
 127.0.0.1 countimages.cnool.net
 127.0.0.1 log.event.cnool.net
+#china.com
+127.0.0.1 dvs.china.com
+127.0.0.1 dvsend.china.com
+127.0.0.1 dvser.china.com
+127.0.0.1 game.china.com
+127.0.0.1 statistic.dvsend.china.com
+127.0.0.1 track.china.com
+127.0.0.1 read.huabian.com
+127.0.0.1 www.huabian.com
+#china.com.cn
+127.0.0.1 union.china.com.cn
+#chinadaily.com.cn
+127.0.0.1 same.chinadaily.com.cn
 #chinanews.com
 127.0.0.1 adsame.chinanews.com
 127.0.0.1 me.afp.chinanews.com
+127.0.0.1 ads.vamaker.com
 127.0.0.1 cdn.vamaker.com
+#cqnews.net
+127.0.0.1 phpad.cqnews.net
 #dahe.cn
 127.0.0.1 adf.dahe.cn
 #dayoo.com
@@ -1014,6 +1025,10 @@ fe80::1%lo0	localhost
 #dzwww.com
 127.0.0.1 ad.dzwww.com
 127.0.0.1 page.acm.dzwww.com
+#eastday.com
+127.0.0.1 afpimages.eastday.com
+127.0.0.1 tongji.eastday.com
+127.0.0.1 eastday.acs86.com
 #enorth.com.cn
 127.0.0.1 eap.enorth.com.cn
 #gywb.cn
@@ -1029,6 +1044,14 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.hefei.cc
 #hsw.cn
 127.0.0.1 g.hsw.cn
+#ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 iis1.deliver.ifeng.com
+127.0.0.1 mfp.deliver.ifeng.com
+127.0.0.1 stadig.ifeng.com
+#infzm
+127.0.0.1 oeeee.adsame.com
+127.0.0.1 x.infzm.com
 #iqilu.com
 127.0.0.1 g.iqilu.com
 127.0.0.1 statapp.iqilu.com
@@ -1039,12 +1062,28 @@ fe80::1%lo0	localhost
 127.0.0.1 pmm.people.com.cn
 #qianlong.com
 127.0.0.1 qianlong.adsame.com
-#rayfile.com
-127.0.0.1 rayfilead.roxcdn.com
+#qingdaonews.com
+127.0.0.1 0.up.qingdaonews.com
+127.0.0.1 1.up.qingdaonews.com
+127.0.0.1 2.up.qingdaonews.com
+127.0.0.1 3.up.qingdaonews.com
+127.0.0.1 4.up.qingdaonews.com
+#rednet.cn
+127.0.0.1 ad.rednet.cn
 #shangdu.com
 127.0.0.1 aimg.shangdu.com
-#xici
-127.0.0.1 xiciim.qtmojo.com
+#southcn.com
+127.0.0.1 sgg.southcn.com
+#thepaper.cn
+127.0.0.1 ad.thepaper.cn
+127.0.0.1 imgad.thepaper.cn
+#voc.com.cn
+127.0.0.1 click.voc.com.cn
+127.0.0.1 click.hnol.net
+127.0.0.1 clickip.hnol.net
+#xinhuanet.com
+127.0.0.1 embed.xinhuanet.com
+127.0.0.1 webd.home.news.cn
 #xinmin.cn
 127.0.0.1 www2.xinmin.cn
 #xmfish.com
@@ -1053,21 +1092,12 @@ fe80::1%lo0	localhost
 #youth.cn
 127.0.0.1 d.youth.cn
 127.0.0.1 publish.ad.youth.cn
+#zbinfo.net
+127.0.0.1 adm.zbinfo.net
+127.0.0.1 stat.zbii.com
 #zj.com
 127.0.0.1 ggg.zj.com
-@Sites-China/Finance
-#10jqka.com.cn
-127.0.0.1 ad.thsi.cn
-#ccstock.cn
-127.0.0.1 ads.ccstock.cn
-#cnfol.com
-127.0.0.1 cnfolimedia.qtmojo.
-#gucheng.com
-127.0.0.1 bdcp.gucheng.com
-@books
-#u17.com
-127.0.0.1 tj.u17t.com
-@Military
+@sites-cn/military
 #chinaiiss.com
 127.0.0.1 analysis.chinaiiss.com
 127.0.0.1 sc.chinaiiss.com
@@ -1080,221 +1110,315 @@ fe80::1%lo0	localhost
 127.0.0.1 log.tiexue.net
 #xilu.com
 127.0.0.1 newspage.xilu.com
-@popularsite
-#52dv
-127.0.0.1 t.iz55.com
-127.0.0.1 sjkmio.812920.top
-127.0.0.1 dl.kinbest.cn
-127.0.0.1 down.by8974.com
-127.0.0.1 down.xzwd.360eus.cn
-#6vhao.com
-127.0.0.1 cpc.88rpg.net
-127.0.0.1 img.fd7c.com
-127.0.0.1 img.il8r.com
-127.0.0.1 img.twcczhu.com
-127.0.0.1 rjs.niuxgame77.com
-127.0.0.1 rwq.youle55.com
-#9kkz.com
-127.0.0.1 4.4001075656.com
-127.0.0.1 5.nord-raum.com
-127.0.0.1 66.8ox.cn
-127.0.0.1 89.8ox.cn
-127.0.0.1 e4.6dad.com
-127.0.0.1 good.ta80.com
-#adult
-127.0.0.1 e.e708.net
-127.0.0.1 popup.jointreport-switch.com
-127.0.0.1 t.7788669.com
-127.0.0.1 u923032.778669.com
-127.0.0.1 u484012.778669.com
-#aabook.club
-127.0.0.1 main.exoclick.com
-127.0.0.1 static.exoclick.com
-127.0.0.1 syndication.exoclick.com
-127.0.0.1 myaav.best-adult-site.net
-127.0.0.1 www.aavideo.net
-#aiqiyivip.com
-127.0.0.1 js916.lishuanghao.com
-127.0.0.1 m1.xcdf.cn
-127.0.0.1 u.1133.cc
-#bookba.net
-127.0.0.1 f.jtxh.net
-127.0.0.1 u034024.778669.com
-127.0.0.1 vip.yule8.net
-127.0.0.1 vipp.rwjfs.com
-127.0.0.1 j.77power.com
-#bt.orzx.im
-127.0.0.1 f.rczzxs.com
-127.0.0.1 js2608.lishuanghao.com
-127.0.0.1 v.jtxh.net
-#btba.com.cn
-127.0.0.1 c1.keyrun.cn
-127.0.0.1 f.e719.net
-127.0.0.1 f.f70123.com
-127.0.0.1 k.ctsywy.com
-127.0.0.1 vipjs.csad.cc
-127.0.0.1 ww202.keyyou.net
-#btbbt.cc
-127.0.0.1 code.jquery.com
-127.0.0.1 gg.btnk024.com
-127.0.0.1 js1867.lishuanghao.com
-127.0.0.1 vip.jisucn.com
-#btkitty.co
-127.0.0.1 d16b4.8ox.cn
-127.0.0.1 js.jtdcg.com
-127.0.0.1 js.ta80.com
-127.0.0.1 njs.myhx120.com
-127.0.0.1 s5.keydot.net
-127.0.0.1 set56.7pud.com
-127.0.0.1 u5.8ox.cn
-127.0.0.1 v.6dvip.com
-127.0.0.1 www.tui1999.com
-#comicer.com
-127.0.0.1 s.pdsjycm.com
-127.0.0.1 js.a3p4.net
-#cr173.com
-127.0.0.1 show.qqabcd8899.com
-127.0.0.1 show.58dtpf.com
-#ctfile.com
-127.0.0.1 code12.onetad.com
-127.0.0.1 js1210.lishuanghao.com
-#dmm.hk
-127.0.0.1 rrr.youle55.com
-#dy2018.com
-127.0.0.1 pop.code.mytanwan.com
-127.0.0.1 img.88rpg.net
-127.0.0.1 gsp.cnzz.kld666.com
-#dytt8.net
-127.0.0.1 down.gotek.com.cn
-127.0.0.1 ini.litingxin.cn
-#dyfys.com
-127.0.0.1 banmeng_1725.it760.com
-127.0.0.1 g.ju33.com
-127.0.0.1 js.cyad.cc
-127.0.0.1 t.ju33.com
-127.0.0.1 vip.at98.com
-127.0.0.1 j.mainbx.com
-#dygod.net
-127.0.0.1 iylipe.code.pofang.com
-127.0.0.1 2018.qucaigg.com
-127.0.0.1 jump.qucaiad.com
-127.0.0.1 gg.qucaigg.com
-127.0.0.1 jzjpj.cnzz.kld666.com
-#fl5y.com
-127.0.0.1 e.e701.net
-#friok.com
-127.0.0.1 fengche.cpv6.com
-#henbt.com
-127.0.0.1 j.qiqiww.com
-127.0.0.1 rs.qiyou.com
-127.0.0.1 s.00oo00.com
-#hdwan.net
-127.0.0.1 u291014.778669.com
-#hltm.cc
-127.0.0.1 uimg.123hala.com
-127.0.0.1 uimg.1qwe3r.com
-127.0.0.1 www.1x3x.com
-#itv118.com
-127.0.0.1 pic.leeyuoxs.com
-127.0.0.1 km.leeyuoys.com
-127.0.0.1 u948016.778669.com
-#laonanren.com
-127.0.0.1 ac.laonanren.com
-#meizitu.com
-127.0.0.1 e.70e.com
-127.0.0.1 e.e70123.com
-#mp4ba.com
-127.0.0.1 mp4ba.qucaigg.com
-127.0.0.1 g.qucaigg.com
-#mianbao99.com
-127.0.0.1 a.mianbao99.com
-#nk77.com
-127.0.0.1 ji.dazhantai.com
-#p2pover
-127.0.0.1 cdn.netsoft2012.com
-127.0.0.1 jump.netsoft2012.com
-127.0.0.1 log.netsoft2012.com
-127.0.0.1 rel.netsoft2012.com
-127.0.0.1 www.uu654.com
-#piaohua.com
-127.0.0.1 ph.qucaigg.com
-127.0.0.1 jtug.code.poyang.com
-127.0.0.1 pop.code.poyang.cn
-#qidiancom.com
-127.0.0.1 b.yunfanlm.net
-127.0.0.1 cao.tc600.com
-127.0.0.1 tj.jnxiaonei.com
-#simplecd.wang
-127.0.0.1 ad.7simage.com
-127.0.0.1 img.qiyou.com
-127.0.0.1 js.static.tebaidu.cn
-127.0.0.1 r.qiyou.com
-#shuaitongwang.net
-127.0.0.1 vip.mtkan.top
-127.0.0.1 d.hottimetech.com
-127.0.0.1 click.xajrhd.com
-127.0.0.1 cloud.zyiis.net
-127.0.0.1 lmcdn1.admin5.com
-127.0.0.1 lm.admin5.com
+@sites-cn/photo
+#poco.cn
+127.0.0.1 a-m-s.poco.cn
+#nphoto.net
+127.0.0.1 util.nphoto.net
+#heiguang.com
+127.0.0.1 pro.heiguang.com
+@@sites-cn/shopping
+#egou.com
+127.0.0.1 ad.egou.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 x.jd.com
+#vip.com
+127.0.0.1 click.union.vip.com
+@sites-cn/sns
+#58.com
+127.0.0.1 adshow.58.com
+127.0.0.1 brandshow.58.com
+127.0.0.1 jing.58.com
+127.0.0.1 jump.luna.58.com
+127.0.0.1 luna.58.com
+127.0.0.1 ptracker.58.com
+127.0.0.1 stat.58.xgo.com.cn
+127.0.0.1 static.track.58.com
+127.0.0.1 track.58.com
+127.0.0.1 tracklog.58.com
+127.0.0.1 usdtop.58.com
+#douban.com
+127.0.0.1 erebor.douban.com
+#jd-bbs.com
+127.0.0.1 pic.jd-bbs.com
+127.0.0.1 pic.jdbbs.com
+#kdnet.net
+127.0.0.1 super.kdnet.net
+127.0.0.1 super.cat898.com
+127.0.0.1 tracking.cat898.com
+#hupu.com
+127.0.0.1 cc.dace.hupu.com
+127.0.0.1 t1.hoopchina.com.cn
+#liba.com
+127.0.0.1 adsame.libaclub.com
+#mop.renren
+127.0.0.1 pub.mop.com
+127.0.0.1 jebe.xnimg.cn
+127.0.0.1 ebp.renren.com
+127.0.0.1 xray.jebe.renren.com
+#msn.com
+127.0.0.1 msn.wrating.com
+127.0.0.1 msnclick.wrating.com
+127.0.0.1 msn.qtmojo.com
+#xici.net
+127.0.0.1 xiciim.qtmojo.com
+#tianya.cn
+127.0.0.1 801.tianya.cn
+127.0.0.1 803.tianya.cn
+127.0.0.1 806.tianya.cn
+127.0.0.1 808.tianya.cn
+127.0.0.1 bdj.tianya.cn
+127.0.0.1 dol.tianya.cn
+127.0.0.1 click.tianyaui.com
+#tom.com
+127.0.0.1 adserve2.tom.com
+127.0.0.1 data.adserve.tomoimg.cn
+127.0.0.1 tongji.tom.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-127.0.0.1 data.gosquared.com
-127.0.0.1 data2.gosquared.com
-#txtbbs.com
-127.0.0.1 www.union009.com
-127.0.0.1 u.3393.com
-127.0.0.1 code.37cs.com
-127.0.0.1 jscode.xp3366.com
-127.0.0.1 u.xcy8.com
-127.0.0.1 v.7794.com
-127.0.0.1 www.666wan.com
-127.0.0.1 tg.7280.com
-#weidaohang.org
-127.0.0.1 bdfrm.bidvertiser.com
-127.0.0.1 bdv.bidvertiser.com
-127.0.0.1 cdn.bidvertiser.com
-127.0.0.1 pxl.bidvertiser.com
-127.0.0.1 www.bidvertiser.com
-127.0.0.1 cdnas.hyperpromote.com
-127.0.0.1 cdnpa.hyperpromote.com
-127.0.0.1 cdnis.hyperpromote.com
-127.0.0.1 cdn.hyperpromote.com
-127.0.0.1 cdn.castplatform.com
-127.0.0.1 cdn.putono5.com
-127.0.0.1 adstract.adk2x.com
-#xiamp4.com
-127.0.0.1 2tu.qucaigg.com
-127.0.0.1 c.ns8d.com
-127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 ps.haohaowan8.com
-127.0.0.1 www.37cs.com
-127.0.0.1 www.heisiwang.com
-127.0.0.1 www.iqucai.com
-#xigua110.com
-127.0.0.1 ad.xigua.com
-127.0.0.1 adv2.downsave.com
-127.0.0.1 gafxa.code.mytanwan.com
-127.0.0.1 pylfi.flash.hxh999.com
+#www.52dv.cn
+127.0.0.1 t.iz55.com
+#www.aiqiyivip.com
+127.0.0.1 media.jointreport-switch.com
+@sites-cn/video
+#1905.com
+127.0.0.1 afp.m1905.com
+127.0.0.1 counter.m1905.com
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+127.0.0.1 link.1905.com
+127.0.0.1 material.istreamsche.com
+#cntv.cn
+127.0.0.1 terren.cntv.cn
+127.0.0.1 cntv.wrating.com
+#fun.tv
+127.0.0.1 adm.funshion.com
+127.0.0.1 pub.funshion.com
+#hunantv.com
+127.0.0.1 a.ads.cn.miaozhen.com
+127.0.0.1 e.ads.cn.miaozhen.com
+127.0.0.1 g.ads.cn.miaozhen.com
+127.0.0.1 hunantv.m.cn.miaozhen.com
+127.0.0.1 bs.da.hunantv.com
+127.0.0.1 click.hunantv.com
+127.0.0.1 log.hunantv.com
+127.0.0.1 log.da.hunantv.com
+127.0.0.1 log.mpns.hunantv.com
+127.0.0.1 log.v2.hunantv.com
+127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 v1.buf.log.hunantv.com
+127.0.0.1 v1.hd.log.hunantv.com
+127.0.0.1 v1.hdd.log.hunantv.com
+127.0.0.1 v2.log.hunantv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 y.da.hunantv.com
+#kankan.com
+127.0.0.1 biz5.sandai.net
+127.0.0.1 float.sandai.net
+127.0.0.1 click.cm.sandai.net
+127.0.0.1 count.cpm.cm.sandai.net
+127.0.0.1 logic.cpm.cm.sandai.net
+127.0.0.1 pv.cm.sandai.net
+127.0.0.1 pgv.m.xunlei.com
+127.0.0.1 record.kuai.xunlei.com
+127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 material.xl7.xunlei.com
+127.0.0.1 stat.vod.xunlei.com
+127.0.0.1 msg2.client.xunlei.com
+127.0.0.1 misc.show.xunlei.com
+127.0.0.1 v2.boxpage.niu.xunlei.com
+127.0.0.1 boxcfg.niu.xunlei.com
+127.0.0.1 niu.xunlei.com
+127.0.0.1 hezuo.downxunlei.com
+127.0.0.1 cmarket.kejet.net
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+127.0.0.1 pxl.idx.admaster.com.cn
+#kugou
+127.0.0.1 ads.service.kugou.com
+127.0.0.1 gg.kugou.com
+127.0.0.1 install.kugou.com
+127.0.0.1 minidcsc.kugou.com
+127.0.0.1 rtmonitor.kugou.com
+127.0.0.1 sdn.kugou.com
+#kuwo
+127.0.0.1 updatepage.kuwo.cn
+127.0.0.1 wa.kuwo.cn
+127.0.0.1 webstat.kuwo.cn
+#letv.com
+127.0.0.1 ark.letv.com
+127.0.0.1 fz.letv.com
+127.0.0.1 g3.letv.com
+127.0.0.1 minisite.letv.com
+127.0.0.1 letv.irs01.com
+127.0.0.1 letv.ipdx.cn.miaozhen.com
+127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 vletv.admaster.com.cn
+#pipi.cn
+127.0.0.1 afm.pipi.cn
+#pptv.com
+127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 as.aplus.pptv.com
+127.0.0.1 de.as.pptv.com
+127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 ads.data.pplive.com
+#v1.cn
+127.0.0.1 ads.adinall.com
+#youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 static.atm.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 ana.masky.biddingx.com
+127.0.0.1 cm.masky.biddingx.com
+127.0.0.1 yktd.m.cn.miaozhen.com
+@sites-cn/popups
+127.0.0.1 66.8ox.cn
+127.0.0.1 89.8ox.cn
+127.0.0.1 d16b4.8ox.cn
+127.0.0.1 u5.8ox.cn
+127.0.0.1 js1210.lishuanghao.com
+127.0.0.1 js1867.lishuanghao.com
+127.0.0.1 js2608.lishuanghao.com
+127.0.0.1 js2707.lishuanghao.com
+127.0.0.1 js883.lishuanghao.com
+127.0.0.1 js916.lishuanghao.com
+127.0.0.1 t.7788669.com
+127.0.0.1 u034024.778669.com
+127.0.0.1 u291014.778669.com
+127.0.0.1 u484012.778669.com
+127.0.0.1 u923032.778669.com
+127.0.0.1 u948016.778669.com
+127.0.0.1 gsp.cnzz.kld666.com
+127.0.0.1 jzjpj.cnzz.kld666.com
 127.0.0.1 lrcet.cnzz.kld666.com
-127.0.0.1 a.xigua110.com
-127.0.0.1 xiazai.cdren.com
-#xue163.com
-127.0.0.1 www.jiankang13.com
-#y5558.com
-127.0.0.1 vip.9wjc.com
-127.0.0.1 vip.jixing8.com
-#yxdown.com
-127.0.0.1 gg.yxdown.com
-#zbinfo.net
-127.0.0.1 adm.zbinfo.net
-127.0.0.1 stat.zbii.com
+127.0.0.1 pv.cnzz.kld666.com
+127.0.0.1 gafxa.code.mytanwan.com
+127.0.0.1 ldpgl.code.mytanwan.com
+127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 img.88rpg.net
+127.0.0.1 cpc.88rpg.net
+127.0.0.1 js.ta80.com
+127.0.0.1 good.ta80.com
+127.0.0.1 code.37cs.com
+127.0.0.1 www.37cs.com
+127.0.0.1 c1.keyrun.cn
+127.0.0.1 s5.keydot.net
+127.0.0.1 code12.onetad.com
+127.0.0.1 img.qiyou.com
+127.0.0.1 r.qiyou.com
+127.0.0.1 rs.qiyou.com
+127.0.0.1 c.ns8d.com
+@sites-cn/video-bt-ed2k
+#bt.orzx.im
+127.0.0.1 v.jtxh.net
+#btkitty.ws
+127.0.0.1 98.4001075656.com
+127.0.0.1 c1.668559.com
+127.0.0.1 cloud.zyiis.net
+127.0.0.1 j.mainbx.com
+127.0.0.1 njs.myhx120.com
+127.0.0.1 s.pdsjycm.com
+127.0.0.1 ss.subo.me
+127.0.0.1 twoaaa.168wangluo.com
+127.0.0.1 www.4wad.com
+127.0.0.1 www.tui1999.com
+#btlibrary.net
+127.0.0.1 e.lndjj.com
+127.0.0.1 kl.hfdforging.com
+127.0.0.1 v.6dvip.com
+#henbt.com
+127.0.0.1 j.qiqiww.com
+127.0.0.1 s.00oo00.com
+#www.friok.com
+127.0.0.1 fengche.cpv6.com
+@sites-cn/video-down
+#dytt8.net
+127.0.0.1 d3d.3dwwwgame.com
+127.0.0.1 down.gotek.com.cn
+127.0.0.1 ini.litingxin.cn
+#piaohua.com
+127.0.0.1 jtug.code.poyang.com
+127.0.0.1 pop.code.poyang.cn
+#simplecd.wang
+127.0.0.1 ad.7simage.com
+127.0.0.1 js.static.tebaidu.cn
+#www.6vhao.com
+127.0.0.1 rjs.niuxgame77.com
+#www.9kkz.com
+127.0.0.1 e4.6dad.com
+#www.btba.com.cn
+127.0.0.1 ad.btba.com.cn
+#www.btbbt.cc
+127.0.0.1 gg.btnk024.com
+#www.hdwan.net
+127.0.0.1 e.a907907.com
+127.0.0.1 k.ctsywy.com
+127.0.0.1 s1.kutongji.com
+#www.mp4ba.com
+127.0.0.1 2018.qucaigg.com
+127.0.0.1 2tu.qucaigg.com
+127.0.0.1 g.qucaigg.com
+127.0.0.1 gg.qucaigg.com
+127.0.0.1 mp4ba.qucaigg.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 px.qucaigg.com
+#www.ttmeiju.com
+127.0.0.1 vpie.net
+#www.xlpu.cc
+127.0.0.1 a.xlpu.cc
+127.0.0.1 x.892155.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
-#zolsky.com
-127.0.0.1 media.zgc66.com
-127.0.0.1 mo.yiqiv.com
-127.0.0.1 rc.uoyrsd.com
-127.0.0.1 bdtg.9377a.com
+@sites-cn/video-online
+#itv118.com
+127.0.0.1 pic.leeyuoxs.com
+127.0.0.1 km.leeyuoys.com
+#www.263tvb.com
+127.0.0.1 u.1133.cc
+#www.dage123.com
+127.0.0.1 cdn.bootcss.com
+127.0.0.1 imgcdn.mazaibang.com
+127.0.0.1 j.jiawen88.com
+127.0.0.1 vip.jisucn.com
+127.0.0.1 www.jutou5.com
+#www.dyfys.com
+127.0.0.1 banmeng_1725.it760.com
+127.0.0.1 js.cyad.cc
+127.0.0.1 t.ju33.com
+#www.mianbao99.com
+127.0.0.1 a.mianbao99.com
+#www.nk77.com
+127.0.0.1 ji.dazhantai.com
+127.0.0.1 vip.yule8.net
+#www.qitete.com
+127.0.0.1 a.baiy.net
+127.0.0.1 b.baiy.net
+#www.xiamp4.com
+127.0.0.1 lmcdn1.admin5.com
+127.0.0.1 lm.admin5.com
+#www.xigua110.com
+127.0.0.1 ad.xigua.com
+127.0.0.1 adv2.downsave.com
+127.0.0.1 a.xigua110.com
+127.0.0.1 pylfi.flash.hxh999.com
+127.0.0.1 xiazai.cdren.com
+#y5558.com
+127.0.0.1 f.e719.net
+127.0.0.1 vip.jixing8.com
+127.0.0.1 sjkmio.812920.top
+127.0.0.1 dl.kinbest.cn
+127.0.0.1 down.by8974.com
+127.0.0.1 down.xzwd.360eus.cn
+127.0.0.1 img.fd7c.com
+127.0.0.1 img.il8r.com
+127.0.0.1 img.twcczhu.com
+127.0.0.1 4.4001075656.com
+127.0.0.1 5.nord-raum.com

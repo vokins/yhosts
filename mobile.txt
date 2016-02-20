@@ -84,9 +84,12 @@
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 imgcdn.wapx.cn
 #youmi
+127.0.0.1 aos.gw.youmi.net
+127.0.0.1 aos.wall.youmi.net
+127.0.0.1 banner.img.static.youmi.net
 127.0.0.1 s.youmi.net
-127.0.0.1 track.dmp.youmi.net
 127.0.0.1 stat.gw.youmi.net
+127.0.0.1 track.dmp.youmi.net
 @apps
 #easou
 127.0.0.1 adm.easou.com

@@ -1,4 +1,4 @@
-ver=0:33 2016/2/12/ÖÜÎå
+ver=17:38 2016/2/20/ÖÜÁù
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
