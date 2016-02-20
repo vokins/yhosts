@@ -371,13 +371,16 @@ fe80::1%lo0	localhost
 127.0.0.1 secure.mediav.com
 127.0.0.1 tran.mediav.com
 #miaozhen.com
+127.0.0.1 a.hpg.cn.miaozhen.com
 127.0.0.1 c.x.cn.miaozhen.com
 127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
+127.0.0.1 e.hpg.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
 127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
+127.0.0.1 t.pg.cn.miaozhen.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -394,6 +397,7 @@ fe80::1%lo0	localhost
 127.0.0.1 click.wrating.com
 127.0.0.1 s.wrating.com
 127.0.0.1 m.wrating.com
+127.0.0.1 tongji.wrating.com
 #yigao.com
 127.0.0.1 monitor.yigao.com
 127.0.0.1 p.yigao.com
@@ -674,25 +678,36 @@ fe80::1%lo0	localhost
 127.0.0.1 www.haowj.com.cn
 127.0.0.1 757.adsina.allyes.com
 #sohu.com
-127.0.0.1 click.hd.sohu.com.cn
-127.0.0.1 click2.hd.sohu.com
-127.0.0.1 count.vrs.sohu.com
-127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
-127.0.0.1 p.aty.sohu.com
-127.0.0.1 pb.hd.sohu.com.cn
-127.0.0.1 pg.aty.sohu.com
-127.0.0.1 pm.aty.sohu.com
-127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 agn.aty.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 his.tv.sohu.com
+127.0.0.1 m.aty.sohu.com
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 pg.aty.sohu.com
+127.0.0.1 pm.aty.sohu.com
+127.0.0.1 push.tv.sohu.com
+127.0.0.1 pv.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 wl.hd.sohu.com
+127.0.0.1 sohu.wrating.com
+127.0.0.1 sohu.irs01.com
+127.0.0.1 sohutv.hpg.cn.miaozhen.com
+127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
@@ -700,8 +715,6 @@ fe80::1%lo0	localhost
 127.0.0.1 inte.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 imp.optaim.com
-127.0.0.1 sohu.wrating.com
-127.0.0.1 sohu.irs01.com
 127.0.0.1 gg.pftools.focus.cn
 127.0.0.1 pv.focus.cn
 @sites-cn/books
