@@ -10,15 +10,22 @@ fe80::1%lo0	localhost
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
+@operators
+#domain hijack
+127.0.0.1 ss.cnnic.cn
+#chinatelecom
+127.0.0.1 daohang.114so.cn
+127.0.0.1 www.114so.cn
 #wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
+127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
 #ok365.com
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
-@common-adunion
+@soft
 #adobe.com
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -29,6 +36,48 @@ fe80::1%lo0	localhost
 127.0.0.1 na2m-pr.licenses.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
+#bitcomment
+127.0.0.1 inside.bitcomet.com
+127.0.0.1 afterdl.com
+#bt-soso
+133.130.53.156 www.bt-soso.com
+133.130.53.156 bt-soso.com
+#firefox-ext
+54.68.16.226 addons.mozilla.org
+54.230.244.252 addons.cdn.mozilla.net
+93.184.215.191 mozorg.cdn.mozilla.net
+54.192.100.115 download-installer.cdn.mozilla.net
+127.0.0.1 adbma.adk2.co
+#jjvod
+127.0.0.1 txtad.jijiplayer.com
+127.0.0.1 api.goulegu.com
+127.0.0.1 cdn.9377ne.com
+127.0.0.1 news.w9377u.com
+127.0.0.1 cp.gs307.com
+127.0.0.1 u.wanwan100.com
+#kuaibo
+127.0.0.1 110.kuaibo.com
+127.0.0.1 clk.dm.kuaibo.com
+127.0.0.1 minisite.kuaibo.com
+127.0.0.1 prom.qbho.kuaibo.com
+127.0.0.1 qtip.kuaibo.com
+127.0.0.1 s.mini.kuaibo.com
+127.0.0.1 text-ad.kuaibo.com
+127.0.0.1 minisite.yunfan.com
+127.0.0.1 text-ad.qvod.com
+#sopcast
+127.0.0.1 addl.easetuner.com
+#tiantiankan123
+127.0.0.1 img.88rpg.net
+127.0.0.1 cpc.88rpg.net
+127.0.0.1 kwcdn.000dn.com
+127.0.0.1 kwcscdn.000dn.com
+127.0.0.1 g.s8dj.com
+#xigua
+127.0.0.1 ad.xigua.com
+127.0.0.1 adv2.downsave.com
+127.0.0.1 www.mm.cc
+@common-adunion
 #amazon
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
@@ -151,12 +200,6 @@ fe80::1%lo0	localhost
 #freeimagehosting.net
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
-#firefox-ext
-54.68.16.226 addons.mozilla.org
-54.230.244.252 addons.cdn.mozilla.net
-93.184.215.191 mozorg.cdn.mozilla.net
-54.192.100.115 download-installer.cdn.mozilla.net
-127.0.0.1 adbma.adk2.co
 #photobucket.com
 127.0.0.1 b.photobucket.com
 127.0.0.1 ads.rubiconproject.com
@@ -301,6 +344,8 @@ fe80::1%lo0	localhost
 #51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
+127.0.0.1 web.51.la
+127.0.0.1 web1.51.la
 #51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 count25.51yes.com
@@ -342,10 +387,15 @@ fe80::1%lo0	localhost
 #cm-kingsoft
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 counter.kingsoft.com
+#cm-wps
+127.0.0.1 tg.7477.com
+127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 push.wps.cn
 #cm-liebao
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 cdnimg.liehu.ijinshan.com
+127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 js.stat.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
@@ -416,6 +466,7 @@ fe80::1%lo0	localhost
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
 127.0.0.1 conv.youdao.com
+127.0.0.1 codown.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -447,20 +498,16 @@ fe80::1%lo0	localhost
 127.0.0.1 s.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+127.0.0.1 stat.sd.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 ini.update.360safe.com
+127.0.0.1 pdown.stat.360safe.com
+127.0.0.1 update.360safe.com
 127.0.0.1 sh.qihoo.com
 #baidu
-127.0.0.1 ecma.bdimg.com
-127.0.0.1 imageplus.baidu.com
-127.0.0.1 ecmb.bdimg.com
-127.0.0.1 iknowpc.bdimg.com
-127.0.0.1 api.share.baidu.com
-127.0.0.1 fexclick.baidu.com
-127.0.0.1 kstj.baidu.com
-127.0.0.1 qianclick.baidu.com
+127.0.0.1 adsearch.appx.91.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 baichuan.baidu.com
-127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
@@ -469,47 +516,83 @@ fe80::1%lo0	localhost
 127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cpro.baidu.com
-127.0.0.1 cpro.baidustatic.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 datax.baidu.com
-127.0.0.1 dup.baidustatic.com
-127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
-127.0.0.1 fclick.baidu.com
 127.0.0.1 gsp1.baidu.com
 127.0.0.1 hdj.baidu.com
-127.0.0.1 rp.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 idm.bce.baidu.com
+127.0.0.1 imageplus.baidu.com
 127.0.0.1 inside.baidu.com
+127.0.0.1 kstj.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-speed.baidu.com
 127.0.0.1 mobads.baidu.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 nsclick.baidu.com
-127.0.0.1 pos.baidu.com
+127.0.0.1 openrcv.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
-127.0.0.1 rigel.baidustatic.com
-127.0.0.1 sclick.baidu.com
-127.0.0.1 share.baidu.com
-127.0.0.1 snippet.pos.baidu.com
+127.0.0.1 rp.baidu.com
 127.0.0.1 static.pay.baidu.com
-127.0.0.1 su.bdimg.com
 127.0.0.1 testwn.baidu.com
+127.0.0.1 tipsdk.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
-127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 unstat.baidu.com
-127.0.0.1 update.pan.baidu.com
-127.0.0.1 videopush.baidu.com
-127.0.0.1 w.x.baidu.com
-127.0.0.1 wisepush.video.baidu.com
-127.0.0.1 wn.pos.baidu.com
-127.0.0.1 znsv.baidu.com
-127.0.0.1 adsearch.appx.91.com
 127.0.0.1 update.123juzi.net
-127.0.0.1 iqiyi.irs01.com
+127.0.0.1 update.pan.baidu.com
+127.0.0.1 znsv.baidu.com
+#baidu-anquan
+127.0.0.1 anquan.baidu.com
+127.0.0.1 antivirus.baidu.com
+127.0.0.1 dl-vip.bav.baidu.com
+127.0.0.1 dl2.bav.baidu.com
+127.0.0.1 download.sd.baidu.com
+127.0.0.1 w.x.baidu.com
+#baidu-bar
+127.0.0.1 banlv.baidu.com
+127.0.0.1 bar.baidu.com
+127.0.0.1 dl.client.baidu.com
+127.0.0.1 toolbar.baidu.com
+#baidu-bdimg
+127.0.0.1 ecma.bdimg.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 iknowpc.bdimg.com
+127.0.0.1 su.bdimg.com
+#baidu-browser
+127.0.0.1 j.br.baidu.com
+#baidu-cleaner
+127.0.0.1 cleaner.baidu.com
+127.0.0.1 dl-vip.pcfaster.baidu.co.th
+#baidu-click
+127.0.0.1 eclick.baidu.com
+127.0.0.1 fclick.baidu.com
+127.0.0.1 fexclick.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 qianclick.baidu.com
+127.0.0.1 sclick.baidu.com
+#baidu-music
+127.0.0.1 ttpack.qianqian.com
+127.0.0.1 ttplayer.qianqian.com
+127.0.0.1 ttmsg.qianqian.com
+127.0.0.1 log.music.baidu.com
+#baidu-pos
+127.0.0.1 pos.baidu.com
+127.0.0.1 snippet.pos.baidu.com
+127.0.0.1 wn.pos.baidu.com
+#baidu-share
+127.0.0.1 api.share.baidu.com
+127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 share.baidu.com
+#baidu-static
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 dup.baidustatic.com
+127.0.0.1 rigel.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+#baidu-video
+127.0.0.1 videopush.baidu.com
+127.0.0.1 wisepush.video.baidu.com
 #baifendian.com
 127.0.0.1 ds.api.baifendian.com
 127.0.0.1 ds10.api.baifendian.com
@@ -1201,6 +1284,9 @@ fe80::1%lo0	localhost
 #cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 cntv.wrating.com
+#duomi.com
+127.0.0.1 service.ad.duomi.com
+127.0.0.1 pc.boxshows.com
 #fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 pub.funshion.com
@@ -1284,6 +1370,8 @@ fe80::1%lo0	localhost
 127.0.0.1 de.as.pptv.com
 127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 ads.data.pplive.com
+#uusee.com
+127.0.0.1 uusee.adsame.com
 #v1.cn
 127.0.0.1 ads.adinall.com
 #ximalaya.com
@@ -1327,8 +1415,6 @@ fe80::1%lo0	localhost
 127.0.0.1 rwq.youle55.com
 127.0.0.1 e.e70123.com
 127.0.0.1 f.f70123.com
-127.0.0.1 img.88rpg.net
-127.0.0.1 cpc.88rpg.net
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com
 127.0.0.1 code.37cs.com
@@ -1431,8 +1517,6 @@ fe80::1%lo0	localhost
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
 #www.xigua110.com
-127.0.0.1 ad.xigua.com
-127.0.0.1 adv2.downsave.com
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com

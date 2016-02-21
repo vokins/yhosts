@@ -1,6 +1,5 @@
 @down
 #baidudown
-127.0.0.1 j.br.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
 #qq
