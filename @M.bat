@@ -1,4 +1,4 @@
-ver=17:38 2016/2/20/ÖÜÁù
+ver=9:33 2016/3/3/ÖÜËÄ
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -34,9 +34,9 @@ goto :eof
 
 :xunlei
 set /a str+=1
-echo 127.0.0.1 %str%.biz5.sandai.net>>xunlei.txt
-echo 127.0.0.1 %str%.float.sandai.net>>xunlei.txt
-echo 127.0.0.1 %str%.logic.cpm.cm.sandai.net>>xunlei.txt
+echo 127.0.0.1 %str%.biz5.sandai.net >>xunlei.txt
+echo 127.0.0.1 %str%.float.sandai.net >>xunlei.txt
+echo 127.0.0.1 %str%.logic.cpm.cm.sandai.net >>xunlei.txt
 if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
@@ -54,7 +54,8 @@ ipconfig /flushdns
 goto :eof
 
 :downgrd
-"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+rem "%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+"%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 "%~dp0lib\sed.exe" -i "1,18d" grd.txt
 "%~dp0lib\sed.exe" -i "s/\t/ /g" grd.txt
 "%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" grd.txt
@@ -63,5 +64,5 @@ goto :eof
 "%~dp0lib\sed.exe" -i "/127.0.0.1/d" grd.txt
 "%~dp0lib\sed.exe" -i "/^$/d" grd.txt
 "%~dp0lib\sed.exe" -i "/^#/d" grd.txt
-"%~dp0lib\sed.exe" -i "1i\@redirect" grd.txt
+"%~dp0lib\sed.exe" -i "1i\@racaljk/hosts" grd.txt
 goto :eof

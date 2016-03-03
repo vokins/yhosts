@@ -1,6 +1,5 @@
-#android
-127.0.0.1		    localhost
-#osx
+#OS
+127.0.0.1 localhost
 fe80::1%lo0	localhost
 255.255.255.255	broadcasthost
 @errorpage
@@ -109,6 +108,8 @@ fe80::1%lo0	localhost
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
+#addthis.com
+127.0.0.1 s7.addthis.com
 #adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 g.adnxs.com
@@ -141,6 +142,9 @@ fe80::1%lo0	localhost
 #histats.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s4.histats.com
+#imrworldwide.com
+127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 www.imrworldwide.com
 #hyperpromote.com
 127.0.0.1 cdnas.hyperpromote.com
 127.0.0.1 cdnpa.hyperpromote.com
@@ -157,6 +161,10 @@ fe80::1%lo0	localhost
 127.0.0.1 edge.quantserve.com
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 secure.quantserve.com
+#revdepo.com
+127.0.0.1 cdn1.srv.revdepo.com
+127.0.0.1 srv.revdepo.com
+127.0.0.1 tags4.revdepo.com
 #revsci.net
 127.0.0.1 pix04.revsci.net
 127.0.0.1 js.revsci.net
@@ -184,12 +192,26 @@ fe80::1%lo0	localhost
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 ps.ns-cdn.com
-127.0.0.1 secure-us.imrworldwide.com
-127.0.0.1 www.imrworldwide.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
+#uptobox.com
+127.0.0.1 ads.uptobox.com
+127.0.0.1 cdn.adikteev.com
+127.0.0.1 c.ad6media.fr
+127.0.0.1 www.tradeadexchange.com
+#userscloud.com
+127.0.0.1 eclkmpsa.com
+127.0.0.1 clksite.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 go.onclasrv.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 go.padstm.com
+#www.masterkreatif.com
+127.0.0.1 resources.infolinks.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
 #bittorrent
 127.0.0.1 cdn.segment.com
 127.0.0.1 engine.bitmedianetwork.com
@@ -254,7 +276,6 @@ fe80::1%lo0	localhost
 #www.solidfiles.com
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
-127.0.0.1 go.padsdel.com
 127.0.0.1 www.appsbodyupdate.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
@@ -558,7 +579,6 @@ fe80::1%lo0	localhost
 #baidu-bdimg
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
-127.0.0.1 iknowpc.bdimg.com
 127.0.0.1 su.bdimg.com
 #baidu-browser
 127.0.0.1 j.br.baidu.com
@@ -805,7 +825,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com
-127.0.0.1 syndication.exoclick.com
 127.0.0.1 www.aavideo.net
 #qidian.com
 127.0.0.1 a.game.qidian.com
@@ -978,8 +997,6 @@ fe80::1%lo0	localhost
 #16lao.com
 127.0.0.1 f3.16lao.com
 127.0.0.1 stat.16lao.com
-#addthis.com
-127.0.0.1 s7.addthis.com
 #baike.com
 127.0.0.1 ad1.baike.com
 127.0.0.1 stat.baike.com
@@ -987,8 +1004,6 @@ fe80::1%lo0	localhost
 127.0.0.1 id.jiathis.com
 127.0.0.1 v3.jiathis.com
 127.0.0.1 i.jiathis.com
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #weather.com.cn
 127.0.0.1 d1.weather.com.cn
 @sites-cn/it
@@ -1269,6 +1284,8 @@ fe80::1%lo0	localhost
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+#www.shuaitong5.net
+127.0.0.1 s.272xb.com
 #www.52dv.cn
 127.0.0.1 t.iz55.com
 #www.aiqiyivip.com
@@ -1369,6 +1386,7 @@ fe80::1%lo0	localhost
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 static.g.pptv.com
 127.0.0.1 ads.data.pplive.com
 #uusee.com
 127.0.0.1 uusee.adsame.com
@@ -1425,6 +1443,8 @@ fe80::1%lo0	localhost
 127.0.0.1 img.qiyou.com
 127.0.0.1 r.qiyou.com
 127.0.0.1 rs.qiyou.com
+127.0.0.1 s.00oo00.com
+127.0.0.1 i.00oo00.com
 127.0.0.1 c.ns8d.com
 127.0.0.1 img.twcczhu.com
 127.0.0.1 vip.at98.com
@@ -1448,7 +1468,6 @@ fe80::1%lo0	localhost
 127.0.0.1 v.6dvip.com
 #henbt.com
 127.0.0.1 j.qiqiww.com
-127.0.0.1 s.00oo00.com
 #www.friok.com
 127.0.0.1 fengche.cpv6.com
 @sites-cn/video-down

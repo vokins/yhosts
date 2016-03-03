@@ -13,3 +13,4 @@ zhushou.360.cn
 kad.www.wps.cn
 cibn.api.3g.cp31.ott.cibntv.net
 mimg.127.net
+iknowpc.bdimg.com
