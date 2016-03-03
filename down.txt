@@ -13,6 +13,9 @@
 #dabaicai
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
+#fish
+127.0.0.1 baidupan.win
+127.0.0.1 d2.showself.com
 #ghostvirus
 127.0.0.1 win7.win7xitong.com
 127.0.0.1 win7.xp1919.com

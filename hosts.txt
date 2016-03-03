@@ -47,6 +47,10 @@ fe80::1%lo0	localhost
 93.184.215.191 mozorg.cdn.mozilla.net
 54.192.100.115 download-installer.cdn.mozilla.net
 127.0.0.1 adbma.adk2.co
+#gomlab-gomplayer
+127.0.0.1 playinfo.gomlab.com
+127.0.0.1 cdn.cpsoft86.com
+127.0.0.1 d.cpsoft86.com
 #jjvod
 127.0.0.1 txtad.jijiplayer.com
 127.0.0.1 api.goulegu.com
@@ -1325,6 +1329,8 @@ fe80::1%lo0	localhost
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
+#jstv.com
+127.0.0.1 gp.jstv.com
 #kankan.com
 127.0.0.1 biz5.sandai.net
 127.0.0.1 float.sandai.net
@@ -1332,6 +1338,9 @@ fe80::1%lo0	localhost
 127.0.0.1 count.cpm.cm.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 pv.cm.sandai.net
+127.0.0.1 biz5.co.kankan.com
+127.0.0.1 float.co.kankan.com
+127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pgv.m.xunlei.com
 127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
