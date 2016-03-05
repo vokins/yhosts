@@ -515,7 +515,10 @@
 216.58.217.251 www.chromium.org
 216.58.217.251 dev.chromium.org
 216.58.217.251 blog.chromium.org
-64.233.162.87 download-chromium.appspot.com
+216.58.217.251 download-chromium.appspot.com
+216.58.217.251 betaspike.appspot.com
+216.58.217.251 m-dot-betaspike.appspot.com
+216.58.217.251 chrome-devtools-frontend.appspot.com
 216.58.217.251 accounts.google.com.gi
 216.58.217.251 accounts.google.co.nz
 216.58.217.251 id.google.co.nz
@@ -2727,7 +2730,7 @@
 216.58.217.251 trendstw.withgoogle.com
 216.58.217.251 spellup.withgoogle.com
 216.58.217.251 impactchallenge.withgoogle.com
-64.233.162.87 virustotalcloud.appspot.com
+216.58.217.251 virustotalcloud.appspot.com
 216.58.217.251 eduproducts.withgoogle.com
 64.233.188.129 corp.google.com
 64.233.188.129 login.corp.google.com

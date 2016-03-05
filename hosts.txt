@@ -360,10 +360,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 init.phpwind.com
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 count.taobao.com
 127.0.0.1 track.uc.cn
 #51.la

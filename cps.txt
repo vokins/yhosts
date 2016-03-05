@@ -10,6 +10,10 @@
 127.0.0.1 click.jr.jd.com
 127.0.0.1 jrclick.jd.com
 #taobao
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 g.click.taobao.com
+127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
+127.0.0.1 textlink.simba.taobao.com
