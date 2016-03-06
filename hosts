@@ -38,14 +38,7 @@ fe80::1%lo0	localhost
 #bitcomment
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 afterdl.com
-#bt-soso
-133.130.53.156 www.bt-soso.com
-133.130.53.156 bt-soso.com
 #firefox-ext
-54.68.16.226 addons.mozilla.org
-54.230.244.252 addons.cdn.mozilla.net
-93.184.215.191 mozorg.cdn.mozilla.net
-54.192.100.115 download-installer.cdn.mozilla.net
 127.0.0.1 adbma.adk2.co
 #gomlab-gomplayer
 127.0.0.1 playinfo.gomlab.com
@@ -91,6 +84,7 @@ fe80::1%lo0	localhost
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
+127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 adclick.g.doubleclick.net
@@ -109,6 +103,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 #yahoo
+127.0.0.1 ads.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
@@ -120,6 +115,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ib.adnxs.com
 127.0.0.1 sin1.g.adnxs.com
 #atdmt.com
+127.0.0.1 ad.atdmt.com
 127.0.0.1 adn.atdmt.com
 #bidvertiser.com
 127.0.0.1 bdfrm.bidvertiser.com
@@ -226,6 +222,8 @@ fe80::1%lo0	localhost
 #freeimagehosting.net
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
+#pixiv
+127.0.0.1 d.pixiv.org
 #photobucket.com
 127.0.0.1 b.photobucket.com
 127.0.0.1 ads.rubiconproject.com
@@ -395,6 +393,7 @@ fe80::1%lo0	localhost
 #emarbox.com
 127.0.0.1 s.emarbox.com
 127.0.0.1 cm.emarbox.com
+127.0.0.1 et.emarbox.com
 #fastapi.net
 127.0.0.1 g.fastapi.net
 127.0.0.1 pic.fastapi.net
@@ -486,17 +485,29 @@ fe80::1%lo0	localhost
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
-127.0.0.1 conv.youdao.com
+127.0.0.1 statis.push.netease.com
 127.0.0.1 codown.youdao.com
+127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
+127.0.0.1 impservice.dict.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 impservice.dictweb.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com
 127.0.0.1 m.clkservice.youdao.com
 127.0.0.1 p.clkservice.youdao.com
-127.0.0.1 statis.push.netease.com
+127.0.0.1 rlogs.youdao.com
 127.0.0.1 ydpushserver.youdao.com
+127.0.0.1 oimagea3.ydstatic.com
+127.0.0.1 oimagea8.ydstatic.com
+127.0.0.1 oimageb3.ydstatic.com
+127.0.0.1 oimageb5.ydstatic.com
+127.0.0.1 oimageb6.ydstatic.com
+127.0.0.1 oimagec3.ydstatic.com
+127.0.0.1 oimagec5.ydstatic.com
+127.0.0.1 oimagec6.ydstatic.com
+127.0.0.1 oimagec7.ydstatic.com
 127.0.0.1 163.wrating.com
 #21cn.com
 127.0.0.1 adshows.21cn.com
@@ -526,6 +537,7 @@ fe80::1%lo0	localhost
 127.0.0.1 update.360safe.com
 127.0.0.1 sh.qihoo.com
 #baidu
+127.0.0.1 sp1.baidu.com
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 baichuan.baidu.com
@@ -781,6 +793,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.haowj.com.cn
 127.0.0.1 757.adsina.allyes.com
 #sohu.com
+127.0.0.1 ad.mail.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
@@ -1407,6 +1420,7 @@ fe80::1%lo0	localhost
 127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 valp.atm.youku.com
+127.0.0.1 stats.tudou.com
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 yktd.m.cn.miaozhen.com
@@ -1717,6 +1731,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mqtt.m.youku.com
 127.0.0.1 p.l.youku.com
 127.0.0.1 player.lstat.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
@@ -1775,6 +1790,12 @@ fe80::1%lo0	localhost
 127.0.0.1 stat.m.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 jrclick.jd.com
+127.0.0.1 stat.51buy.com
+127.0.0.1 st.icson.com
+127.0.0.1 st.yixun.com
+127.0.0.1 dmtrack.yixun.com
+#jumei
+127.0.0.1 click.jumei.com
 #taobao
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
@@ -1783,6 +1804,8 @@ fe80::1%lo0	localhost
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 textlink.simba.taobao.com
+#yhd
+127.0.0.1 tracker.yhd.com
 #daohang
 127.0.0.1 123.sogou.com
 127.0.0.1 hao.360.cn

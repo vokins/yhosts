@@ -159,6 +159,7 @@
 127.0.0.1 mqtt.m.youku.com
 127.0.0.1 p.l.youku.com
 127.0.0.1 player.lstat.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com

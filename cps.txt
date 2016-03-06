@@ -9,6 +9,12 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 jrclick.jd.com
+127.0.0.1 stat.51buy.com
+127.0.0.1 st.icson.com
+127.0.0.1 st.yixun.com
+127.0.0.1 dmtrack.yixun.com
+#jumei
+127.0.0.1 click.jumei.com
 #taobao
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
@@ -17,3 +23,5 @@
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 textlink.simba.taobao.com
+#yhd
+127.0.0.1 tracker.yhd.com
