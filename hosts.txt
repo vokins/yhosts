@@ -544,7 +544,6 @@ fe80::1%lo0	localhost
 127.0.0.1 stuff.cdn.biddingx.com
 127.0.0.1 www.biddingx.com
 #baidu
-127.0.0.1 pups.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 sp1.baidu.com
@@ -602,7 +601,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 su.bdimg.com
-127.0.0.1 pups.bdimg.com
 #baidu-browser
 127.0.0.1 j.br.baidu.com
 #baidu-cleaner
@@ -616,6 +614,8 @@ fe80::1%lo0	localhost
 127.0.0.1 qianclick.baidu.com
 127.0.0.1 sclick.baidu.com
 #baidu-music
+127.0.0.1 pups.bdimg.com
+127.0.0.1 pups.baidu.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
 127.0.0.1 ttmsg.qianqian.com
