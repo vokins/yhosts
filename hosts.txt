@@ -480,6 +480,7 @@ fe80::1%lo0	localhost
 127.0.0.1 m.analytics.126.net
 127.0.0.1 mimg.126.net
 127.0.0.1 mr.da.netease.com
+127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 r.mail.163.com
 127.0.0.1 rec.g.163.com
@@ -536,7 +537,16 @@ fe80::1%lo0	localhost
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 sh.qihoo.com
+#baidu-biddingx
+127.0.0.1 c41.clicki.cn
+127.0.0.1 cdn.scdng.com
+127.0.0.1 ana.masky.biddingx.com
+127.0.0.1 stuff.cdn.biddingx.com
+127.0.0.1 www.biddingx.com
 #baidu
+127.0.0.1 pups.baidu.com
+127.0.0.1 a.baidu.com
+127.0.0.1 click.bes.baidu.com
 127.0.0.1 sp1.baidu.com
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 api.tuisong.baidu.com
@@ -592,6 +602,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 su.bdimg.com
+127.0.0.1 pups.bdimg.com
 #baidu-browser
 127.0.0.1 j.br.baidu.com
 #baidu-cleaner
@@ -1067,6 +1078,8 @@ fe80::1%lo0	localhost
 #kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
+127.0.0.1 material.istreamsche.com
+127.0.0.1 tanxlog.istreamsche.com
 #p2pover
 127.0.0.1 cdn.netsoft2012.com
 127.0.0.1 jump.netsoft2012.com
@@ -1240,7 +1253,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.egou.com
 #jd.com
 127.0.0.1 ads.union.jd.com
+127.0.0.1 ccc.x.jd.com
 127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
 #vip.com
 127.0.0.1 click.union.vip.com
@@ -1312,7 +1327,6 @@ fe80::1%lo0	localhost
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 127.0.0.1 link.1905.com
-127.0.0.1 material.istreamsche.com
 #cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 cntv.wrating.com
@@ -1423,7 +1437,6 @@ fe80::1%lo0	localhost
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 stats.tudou.com
-127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 @sites-cn/popups
