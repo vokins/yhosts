@@ -1027,6 +1027,8 @@ fe80::1%lo0	localhost
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
+127.0.0.1 api.moogos.com
+127.0.0.1 cdn.jesgoo.com
 127.0.0.1 job.cnbeta.com
 #cnmo.com
 127.0.0.1 js.cnmo.com
