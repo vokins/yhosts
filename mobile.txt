@@ -54,6 +54,9 @@
 #mopub.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 analytics.mopub.com
+#mpush.cn
+127.0.0.1 mpush.cn
+127.0.0.1 td.mpush.cn
 #jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 cdn.jesgoo.com
@@ -127,6 +130,7 @@
 127.0.0.1 hd.jiedaibao.com
 #xunfei
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
 #iqiyi
