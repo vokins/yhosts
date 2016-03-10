@@ -798,7 +798,7 @@ fe80::1%lo0	localhost
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
-127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
@@ -810,6 +810,7 @@ fe80::1%lo0	localhost
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 game.weibo.cn
+127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 www.haowj.com.cn
