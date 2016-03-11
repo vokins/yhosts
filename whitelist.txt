@@ -15,3 +15,5 @@ cibn.api.3g.cp31.ott.cibntv.net
 mimg.127.net
 iknowpc.bdimg.com
 avd.qidian.com
+mo.m.taobao.com
+127.0.0.1 gw5.push.mcp.weibo.cn

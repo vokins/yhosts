@@ -360,7 +360,6 @@ fe80::1%lo0	localhost
 127.0.0.1 init.phpwind.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 re.m.taobao.com
-127.0.0.1 mo.m.taobao.com
 127.0.0.1 count.taobao.com
 127.0.0.1 track.uc.cn
 #51.la
@@ -810,7 +809,6 @@ fe80::1%lo0	localhost
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 game.weibo.cn
-127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 www.haowj.com.cn
@@ -953,6 +951,11 @@ fe80::1%lo0	localhost
 #stockstar.com
 127.0.0.1 same.stockstar.com
 @sites-cn/game
+#17173
+127.0.0.1 web.17173.com
+127.0.0.1 news.yeyou.com
+127.0.0.1 kf.yeyou.com
+127.0.0.1 ue.yeyoucdn.com
 #265g.com
 127.0.0.1 adm.265g.com
 #5173.com
@@ -1437,6 +1440,8 @@ fe80::1%lo0	localhost
 127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 ads.data.pplive.com
+#qingting.fm
+127.0.0.1 ad.qingting.fm
 #uusee.com
 127.0.0.1 uusee.adsame.com
 #v1.cn
