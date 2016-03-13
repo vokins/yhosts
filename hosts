@@ -6,6 +6,7 @@ fe80::1%lo0	localhost
 #click
 127.0.0.1 c.duomai.com
 127.0.0.1 p.yiqifa.com
+127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
@@ -360,8 +361,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 init.phpwind.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 re.m.taobao.com
 127.0.0.1 count.taobao.com
 127.0.0.1 track.uc.cn
 #51.la
@@ -730,6 +729,8 @@ fe80::1%lo0	localhost
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
+127.0.0.1 mis.migc.xiaomi.com
+127.0.0.1 resolver.msg.xiaomi.net
 #miui-miidc
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
@@ -746,8 +747,6 @@ fe80::1%lo0	localhost
 127.0.0.1 sousuo.xm.sjzhushou.com
 #miui-game
 127.0.0.1 notice.game.xiaomi.com
-#miui-search
-127.0.0.1 global.search.xiaomi.net
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -755,6 +754,8 @@ fe80::1%lo0	localhost
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 staging.api.sec.miui.com
 #miui-video
+127.0.0.1 migc.g.mi.com
+127.0.0.1 migcreport.g.mi.com
 127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
@@ -1754,12 +1755,16 @@ fe80::1%lo0	localhost
 #systemav
 127.0.0.1 m.madthumbs.com
 #iqiyi
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 store.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
@@ -1852,8 +1857,10 @@ fe80::1%lo0	localhost
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 re.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
+127.0.0.1 srd.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 #yhd
 127.0.0.1 tracker.yhd.com

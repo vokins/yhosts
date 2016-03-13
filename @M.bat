@@ -1,12 +1,14 @@
-ver=20:23 2016/3/3/周四
+ver=19:24 2016/3/13/周日
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
+del /f lyq.txt
 call :del
 rem call :bat
 rem call :version
 call :xunlei
 call :downgrd
+call :lyq
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts
 call :winhosts
@@ -43,8 +45,13 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt redirect.txt hosts.txt mobile.txt tvbox.txt apponly.txt soft.txt cps.txt daohang.txt down.txt errorpage.txt xunlei.txt
+set files=bat.txt Version.txt hosts.txt mobile.txt tvbox.txt cps.txt daohang.txt down.txt errorpage.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
+goto :eof
+
+:lyq
+set files=hosts.txt tvbox.txt xunlei.txt
+for %%a in (%files%) do (type "%%a">>lyq.txt)
 goto :eof
 
 :winhosts

@@ -19,8 +19,10 @@
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 re.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
+127.0.0.1 srd.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 #yhd
 127.0.0.1 tracker.yhd.com
