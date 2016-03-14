@@ -16,4 +16,5 @@ mimg.127.net
 iknowpc.bdimg.com
 avd.qidian.com
 mo.m.taobao.com
-127.0.0.1 gw5.push.mcp.weibo.cn
+gw5.push.mcp.weibo.cn
+c-nfa.jd.com

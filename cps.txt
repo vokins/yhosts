@@ -3,11 +3,11 @@
 127.0.0.1 click.r.dangdang.com
 127.0.0.1 union.dangdang.com
 #jd
-127.0.0.1 union.click.jd.com
-127.0.0.1 union.m.jd.com
-127.0.0.1 stat.m.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 jrclick.jd.com
+127.0.0.1 stat.m.jd.com
+127.0.0.1 union.click.jd.com
+127.0.0.1 union.m.jd.com
 127.0.0.1 stat.51buy.com
 127.0.0.1 st.icson.com
 127.0.0.1 st.yixun.com
