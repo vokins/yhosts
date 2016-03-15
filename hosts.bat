@@ -27,9 +27,8 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :downgrd
-rem "%~dp0lib\wget.exe" -c --no-check-certificate
-"%~dp0lib\curl.exe" https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt > 2.txt
-"%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > 1.txt
+"%~dp0lib\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+"%~dp0lib\wget.exe" -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 "%~dp0lib\sed.exe" -i "1,18d" 1.txt
 "%~dp0lib\sed.exe" -i "s/\t/ /g" 1.txt
 "%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" 1.txt

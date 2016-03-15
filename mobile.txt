@@ -97,9 +97,9 @@
 @apps
 #1mobile.com
 127.0.0.1 ads-banner.1mobile.com
+127.0.0.1 ads.1mobile.com
 127.0.0.1 advertise.1mobile.com
 127.0.0.1 log.advertise.1mobile.com
-127.0.0.1 ads.1mobile.com 
 127.0.0.1 api.share2w.com
 #easou
 127.0.0.1 adm.easou.com
@@ -139,6 +139,7 @@
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com

@@ -13,8 +13,9 @@
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
 #qqtv
-127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 log-oma.play.aiseet.atianqi.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com

@@ -1,4 +1,4 @@
-ver=19:24 2016/3/13/周日
+ver=21:24 2016/3/14/周一
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -63,8 +63,8 @@ ipconfig /flushdns
 goto :eof
 
 :downgrd
-rem "%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-"%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
+"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+rem "%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 "%~dp0lib\sed.exe" -i "1,18d" grd.txt
 "%~dp0lib\sed.exe" -i "s/\t/ /g" grd.txt
 "%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" grd.txt

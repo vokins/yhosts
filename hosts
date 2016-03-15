@@ -10,6 +10,7 @@ fe80::1%lo0	localhost
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
+127.0.0.1 router.gwdang.com
 @operators
 #domain hijack
 127.0.0.1 ss.cnnic.cn
@@ -70,6 +71,8 @@ fe80::1%lo0	localhost
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
 127.0.0.1 g.s8dj.com
+#winrar
+127.0.0.1 ad.winrar.com.cn
 #xigua
 127.0.0.1 ad.xigua.com
 127.0.0.1 adv2.downsave.com
@@ -366,6 +369,7 @@ fe80::1%lo0	localhost
 #51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
+127.0.0.1 quote.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
 #51yes.com
@@ -860,6 +864,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
+127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 pb.sogou.com
@@ -1581,6 +1586,10 @@ fe80::1%lo0	localhost
 127.0.0.1 km.leeyuoys.com
 #www.263tvb.com
 127.0.0.1 u.1133.cc
+#www.8gdyhd.com
+127.0.0.1 vip.shuma2.com
+127.0.0.1 vip.media8.cn
+127.0.0.1 tj.yule8.net
 #www.dage123.com
 127.0.0.1 cdn.bootcss.com
 127.0.0.1 imgcdn.mazaibang.com
@@ -1717,9 +1726,9 @@ fe80::1%lo0	localhost
 @apps
 #1mobile.com
 127.0.0.1 ads-banner.1mobile.com
+127.0.0.1 ads.1mobile.com
 127.0.0.1 advertise.1mobile.com
 127.0.0.1 log.advertise.1mobile.com
-127.0.0.1 ads.1mobile.com 
 127.0.0.1 api.share2w.com
 #easou
 127.0.0.1 adm.easou.com
@@ -1759,6 +1768,7 @@ fe80::1%lo0	localhost
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
@@ -1815,8 +1825,9 @@ fe80::1%lo0	localhost
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
 #qqtv
-127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 log-oma.play.aiseet.atianqi.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
