@@ -1214,6 +1214,7 @@ fe80::1%lo0	localhost
 127.0.0.1 stat.hsw.cn
 #ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
