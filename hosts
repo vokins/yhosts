@@ -1287,7 +1287,7 @@ fe80::1%lo0	localhost
 127.0.0.1 util.nphoto.net
 #heiguang.com
 127.0.0.1 pro.heiguang.com
-@@sites-cn/shopping
+@sites-cn/shopping
 #egou.com
 127.0.0.1 ad.egou.com
 #jd.com
@@ -1857,7 +1857,6 @@ fe80::1%lo0	localhost
 127.0.0.1 p.l.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 video.mpush.qq.com
-127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 qq.irs01.com
 127.0.0.1 qq.m.cn.miaozhen.com
 #cibntv

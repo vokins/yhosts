@@ -1,4 +1,4 @@
-ver=21:24 2016/3/14/周一
+ver=11:21 2016/3/17/周四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -52,6 +52,8 @@ goto :eof
 :lyq
 set files=hosts.txt tvbox.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
+"%~dp0lib\sed.exe" -i "/^#/d" lyq.txt
+"%~dp0lib\sed.exe" -i "/^@/d" lyq.txt
 goto :eof
 
 :winhosts

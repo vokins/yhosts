@@ -24,7 +24,6 @@
 127.0.0.1 p.l.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 video.mpush.qq.com
-127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 qq.irs01.com
 127.0.0.1 qq.m.cn.miaozhen.com
 #cibntv
