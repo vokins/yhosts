@@ -1334,6 +1334,7 @@ fe80::1%lo0	localhost
 127.0.0.1 static.jebe.renren.com
 127.0.0.1 xray.jebe.renren.com
 #msn.com
+127.0.0.1 44124157.r.msn.com
 127.0.0.1 msn.wrating.com
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 msn.qtmojo.com

@@ -1,21 +1,4 @@
 @racaljk/hosts
-23.32.248.41 creative.ak.fbcdn.net
-31.13.95.12 ent-a.xx.fbcdn.net
-31.13.95.12 ent-b.xx.fbcdn.net
-31.13.95.12 ent-c.xx.fbcdn.net
-31.13.95.12 ent-d.xx.fbcdn.net
-31.13.95.12 ent-e.xx.fbcdn.net
-31.13.70.7 scontent-a-lax.xx.fbcdn.net
-31.13.79.251 scontent-a-sin.xx.fbcdn.net
-31.13.70.7 scontent-b-lax.xx.fbcdn.net
-183.111.23.18 scontent-b-sin.xx.fbcdn.net
-31.13.82.7 scontent-c.xx.fbcdn.net
-31.13.95.7 scontent-d.xx.fbcdn.net
-31.13.79.224 scontent-e.xx.fbcdn.net
-31.13.86.4 scontent-mxp.xx.fbcdn.net
-23.207.122.24 s-external.ak.fbcdn.net
-23.34.45.177 s-static.ak.fbcdn.net
-173.252.81.7 static.thefacebook.com
 173.252.120.83 attachment.fbsbx.com
 104.78.23.174 connect.facebook.net
 104.244.42.1 twitter.com
@@ -3447,6 +3430,26 @@ com
 68.232.44.251 www.w3schools.com
 ahoo.com
 208.71.44.31 secure.flickr.com
+106.10.193.30 sp.analytics.yahoo.com
+69.147.90.159 sp1.farm2.staticflickr.com
+69.147.90.215 sp1.farm3.staticflickr.com
+106.10.137.23 static.flickr.com
+106.10.199.11 tw.news.yahoo.com
+106.10.138.240 tw.yahoo.com
+121.101.144.116 up.flickr.com
+204.0.5.34 us.js2.yimg.com
+23.62.109.75 us.js2.yimg.com
+106.10.138.240 us.yahoo.com
+183.177.81.75 www.flickr.com
+106.10.138.240 www.yahoo.com
+98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+185.31.17.184 travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+cure.flickr.com
 106.10.193.30 sp.analytics.yahoo.com
 69.147.90.159 sp1.farm2.staticflickr.com
 69.147.90.215 sp1.farm3.staticflickr.com
