@@ -375,6 +375,7 @@ fe80::1%lo0	localhost
 127.0.0.1 quote.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
+127.0.0.1 www.51.la
 #51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 count25.51yes.com
@@ -443,7 +444,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
+127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
+127.0.0.1 juxiao.mediav.com
 127.0.0.1 pv.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
@@ -999,6 +1002,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ja.gamersky.com
 127.0.0.1 v.behe.com
 127.0.0.1 rtb.behe.com
+127.0.0.1 www.behe.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 hhqda.pop.t5yx.cn
 #tgbus.com
@@ -1525,22 +1529,28 @@ fe80::1%lo0	localhost
 127.0.0.1 vip.at98.com
 @sites-cn/video-bt-ed2k
 #bt.orzx.im
+127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 #btkitty.ws
+127.0.0.1 jump1.pszyzxh.org
+127.0.0.1 img.zsj18.com
+127.0.0.1 ghavcb.520jr.com
+127.0.0.1 njs.myyage.com
+127.0.0.1 s.pdsjycm.com
+127.0.0.1 ss.subo.me
+127.0.0.1 v.6dvip.com
+127.0.0.1 www.4wad.com
+127.0.0.1 e.lndjj.com
+127.0.0.1 kl.hfdforging.com
 127.0.0.1 98.4001075656.com
 127.0.0.1 c1.668559.com
 127.0.0.1 cloud.zyiis.net
-127.0.0.1 j.mainbx.com
 127.0.0.1 njs.myhx120.com
-127.0.0.1 s.pdsjycm.com
-127.0.0.1 ss.subo.me
 127.0.0.1 twoaaa.168wangluo.com
-127.0.0.1 www.4wad.com
 127.0.0.1 www.tui1999.com
 #btlibrary.net
-127.0.0.1 e.lndjj.com
-127.0.0.1 kl.hfdforging.com
-127.0.0.1 v.6dvip.com
+127.0.0.1 j.mainbx.com
+127.0.0.1 js.jianbaimei.com
 #henbt.com
 127.0.0.1 j.qiqiww.com
 #www.friok.com
@@ -1563,12 +1573,15 @@ fe80::1%lo0	localhost
 #www.btba.com.cn
 127.0.0.1 ad.btba.com.cn
 #www.btbbt.cc
+127.0.0.1 99qqc.com
+127.0.0.1 www.5188yy.com
 127.0.0.1 gg.btnk024.com
 #www.hdwan.net
 127.0.0.1 e.a907907.com
 127.0.0.1 k.ctsywy.com
 127.0.0.1 s1.kutongji.com
 #www.mp4ba.com
+127.0.0.1 img.fd7c.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
 127.0.0.1 g.qucaigg.com
@@ -1581,33 +1594,39 @@ fe80::1%lo0	localhost
 #www.xlpu.cc
 127.0.0.1 a.xlpu.cc
 127.0.0.1 x.892155.com
+127.0.0.1 pic.14bobo.com
 #zimuzu.tv
 127.0.0.1 g.ousns.net
+127.0.0.1 www.lx167.com
 @sites-cn/video-online
-#itv118.com
+#www.itv118.com
 127.0.0.1 pic.leeyuoxs.com
 127.0.0.1 km.leeyuoys.com
 #www.263tvb.com
+127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
 #www.8gdyhd.com
 127.0.0.1 vip.shuma2.com
 127.0.0.1 vip.media8.cn
 127.0.0.1 tj.yule8.net
+127.0.0.1 p.m5bn.com
+127.0.0.1 c.45io.com
 #www.dage123.com
 127.0.0.1 cdn.bootcss.com
 127.0.0.1 imgcdn.mazaibang.com
-127.0.0.1 j.jiawen88.com
 127.0.0.1 vip.jisucn.com
 127.0.0.1 www.jutou5.com
-#www.dyfys.com
+#www.dyfys.com/11tvb.com
 127.0.0.1 banmeng_1725.it760.com
 127.0.0.1 js.cyad.cc
 127.0.0.1 t.ju33.com
+127.0.0.1 www.qdhongyushun.com
 #www.mianbao99.com
 127.0.0.1 a.mianbao99.com
 #www.nk77.com
 127.0.0.1 ji.dazhantai.com
 127.0.0.1 vip.yule8.net
+127.0.0.1 down.bossbas.com
 #www.qitete.com
 127.0.0.1 a.baiy.net
 127.0.0.1 b.baiy.net
@@ -1625,7 +1644,6 @@ fe80::1%lo0	localhost
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 down.by8974.com
 127.0.0.1 down.xzwd.360eus.cn
-127.0.0.1 img.fd7c.com
 127.0.0.1 img.il8r.com
 127.0.0.1 4.4001075656.com
 127.0.0.1 5.nord-raum.com
