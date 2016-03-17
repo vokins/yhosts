@@ -363,6 +363,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 jxlog.istreamsche.com
+127.0.0.1 material.istreamsche.com
+127.0.0.1 tanxlog.istreamsche.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 count.taobao.com
 127.0.0.1 track.uc.cn
@@ -436,17 +439,17 @@ fe80::1%lo0	localhost
 127.0.0.1 rr.knet.cn
 127.0.0.1 ss.knet.cn
 #mediav.com
-127.0.0.1 material-ssl.mediav.com
-127.0.0.1 ckmap.mediav.com
-127.0.0.1 mvp.mediav.com
-127.0.0.1 show.g.mediav.com
-127.0.0.1 show-g.mediav.com
-127.0.0.1 static.mediav.com
-127.0.0.1 static-ssl.mediav.com
-127.0.0.1 material.mediav.com
-127.0.0.1 pv.mediav.com
 127.0.0.1 3m.mediav.com
+127.0.0.1 ckmap.mediav.com
+127.0.0.1 material-ssl.mediav.com
+127.0.0.1 material.mediav.com
+127.0.0.1 mvp.mediav.com
+127.0.0.1 pv.mediav.com
 127.0.0.1 secure.mediav.com
+127.0.0.1 show-g.mediav.com
+127.0.0.1 show.g.mediav.com
+127.0.0.1 static-ssl.mediav.com
+127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
 #miaozhen.com
 127.0.0.1 a.hpg.cn.miaozhen.com
@@ -1111,8 +1114,6 @@ fe80::1%lo0	localhost
 #kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
-127.0.0.1 material.istreamsche.com
-127.0.0.1 tanxlog.istreamsche.com
 #p2pover
 127.0.0.1 cdn.netsoft2012.com
 127.0.0.1 jump.netsoft2012.com
