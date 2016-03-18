@@ -1111,6 +1111,7 @@ fe80::1%lo0	localhost
 127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 job.cnbeta.com
+127.0.0.1 aos.prf.hn
 #cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
@@ -1418,6 +1419,8 @@ fe80::1%lo0	localhost
 127.0.0.1 e.ads.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
+127.0.0.1 pc.da.mgtv.com
+127.0.0.1 flv.res.hunantv.com
 127.0.0.1 bs.da.hunantv.com
 127.0.0.1 click.hunantv.com
 127.0.0.1 log.hunantv.com
