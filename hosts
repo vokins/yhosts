@@ -300,11 +300,18 @@ fe80::1%lo0	localhost
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
+127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
+127.0.0.1 hqs7.cnzz.com
+127.0.0.1 hzs14.cnzz.com
+127.0.0.1 hzs17.cnzz.com
+127.0.0.1 hzs5.cnzz.com
+127.0.0.1 icon.cnzz.com
 127.0.0.1 jssdk.cnzz.com
+127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 s11.cnzz.com
 127.0.0.1 s121.cnzz.com
@@ -341,6 +348,8 @@ fe80::1%lo0	localhost
 127.0.0.1 v6.cnzz.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 w.cnzz.com
+127.0.0.1 z11.cnzz.com
+127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
 127.0.0.1 a.alimama.cn
 127.0.0.1 cm.ipinyou.com
@@ -363,6 +372,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 pcookie.tanx.com
 127.0.0.1 jxlog.istreamsche.com
 127.0.0.1 material.istreamsche.com
 127.0.0.1 tanxlog.istreamsche.com
@@ -422,6 +432,7 @@ fe80::1%lo0	localhost
 #cm-wps
 127.0.0.1 tg.7477.com
 127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 minfo.wps.cn
 127.0.0.1 push.wps.cn
 #cm-liebao
 127.0.0.1 j.wan.liebao.cn
@@ -734,12 +745,11 @@ fe80::1%lo0	localhost
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
-127.0.0.1 mis.migc.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 resolver.msg.xiaomi.net
 #miui-miidc
 127.0.0.1 app01.nodes.gslb.mi-idc.com
@@ -760,7 +770,6 @@ fe80::1%lo0	localhost
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 info.analysis.kp.sec.miui.com
 127.0.0.1 staging.api.sec.miui.com
 #miui-video
@@ -775,6 +784,7 @@ fe80::1%lo0	localhost
 127.0.0.1 folder.adfuture.cn
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 ws.ksmobile.net
+127.0.0.1 ups.ksmobile.net
 #qq.com
 127.0.0.1 ac.o2.qq.com
 127.0.0.1 res.imtt.qq.com
@@ -800,6 +810,7 @@ fe80::1%lo0	localhost
 127.0.0.1 wa.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 qq.m.cn.miaozhen.com
 #sina.com.cn
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 cast.ra.icast.cn
@@ -1077,6 +1088,7 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
 127.0.0.1 api.moogos.com
+127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 job.cnbeta.com
 #cnmo.com
@@ -1135,6 +1147,7 @@ fe80::1%lo0	localhost
 #rayfile.com
 127.0.0.1 rayfilead.roxcdn.com
 #yesky.com
+127.0.0.1 counter.yesky.com
 127.0.0.1 adsame.tianjimedia.com
 127.0.0.1 counter.tianjimedia.com
 127.0.0.1 image.tianjimedia.com
@@ -1142,6 +1155,7 @@ fe80::1%lo0	localhost
 127.0.0.1 media.tianjimedia.com
 127.0.0.1 more.tianjimedia.com
 127.0.0.1 pv.tianjimedia.com
+127.0.0.1 pimages3.tianjimedia.com
 127.0.0.1 y001.tianjimedia.com
 127.0.0.1 www.tianjimedia.com
 127.0.0.1 5y9nfpes.52pk.com
@@ -1397,6 +1411,9 @@ fe80::1%lo0	localhost
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
+127.0.0.1 urltracker.yunfan.com
+127.0.0.1 mtracker.yunfan.com
+127.0.0.1 stat.yunfan.com
 #jstv.com
 127.0.0.1 gp.jstv.com
 #kankan.com
@@ -1604,6 +1621,9 @@ fe80::1%lo0	localhost
 #www.itv118.com
 127.0.0.1 pic.leeyuoxs.com
 127.0.0.1 km.leeyuoys.com
+#www.id97.com
+127.0.0.1 c.jk2h.com
+127.0.0.1 p.imigame.com
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
@@ -1650,6 +1670,7 @@ fe80::1%lo0	localhost
 127.0.0.1 4.4001075656.com
 127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
+127.0.0.1 img.feitian001.com
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -1665,6 +1686,8 @@ fe80::1%lo0	localhost
 127.0.0.1 events.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
+#adview.cn
+127.0.0.1 bid.adview.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -1697,6 +1720,8 @@ fe80::1%lo0	localhost
 127.0.0.1 proton.flurry.com
 #madserving.com
 127.0.0.1 ad.madserving.com
+#maysunmedia.com
+127.0.0.1 s.think.cn.maysunmedia.com
 #millennialmedia
 127.0.0.1 ads.nexage.com
 #moogos.com
@@ -1805,6 +1830,7 @@ fe80::1%lo0	localhost
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 #letv
 127.0.0.1 n.mark.letv.com
+127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
 #youku
 127.0.0.1 ad.api.3g.youku.com
@@ -1812,6 +1838,7 @@ fe80::1%lo0	localhost
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
+127.0.0.1 k.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
 127.0.0.1 mo.atm.youku.com
@@ -1819,13 +1846,15 @@ fe80::1%lo0	localhost
 127.0.0.1 mp.atm.youku.com
 127.0.0.1 mqtt.m.youku.com
 127.0.0.1 p.l.youku.com
+127.0.0.1 passport-log.youku.com
 127.0.0.1 player.lstat.youku.com
-127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 stat.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
@@ -1885,15 +1914,18 @@ fe80::1%lo0	localhost
 #jumei
 127.0.0.1 click.jumei.com
 #taobao
+127.0.0.1 ai.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 m.simba.taobao.com
 127.0.0.1 re.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 s.click.tmall.com
 #yhd
 127.0.0.1 tracker.yhd.com
 #daohang
