@@ -1,4 +1,4 @@
-ver=11:21 2016/3/17/周四
+ver=21:24 2016/3/18/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -45,7 +45,7 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt hosts.txt mobile.txt tvbox.txt cps.txt daohang.txt down.txt errorpage.txt xunlei.txt
+set files=bat.txt Version.txt hosts.txt mobile.txt tvbox.txt daohang.txt down.txt errorpage.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 

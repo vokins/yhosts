@@ -17,3 +17,10 @@ avd.qidian.com
 mo.m.taobao.com
 gw5.push.mcp.weibo.cn
 c-nfa.jd.com
+img30.360buyimg.com
+a.gdown.baidu.com
+appsearchcdn.baidu.com
+as.baidu.com
+m.shouji.360tpcdn.com
+pp.myapp.com
+static.360buyimg.com

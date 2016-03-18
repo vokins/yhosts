@@ -1915,37 +1915,6 @@ fe80::1%lo0	localhost
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 p.l.cp31.ott.cibntv.net
-@cps-click
-#dangdang
-127.0.0.1 click.r.dangdang.com
-127.0.0.1 union.dangdang.com
-#jd
-127.0.0.1 click.jr.jd.com
-127.0.0.1 jrclick.jd.com
-127.0.0.1 stat.m.jd.com
-127.0.0.1 union.click.jd.com
-127.0.0.1 union.m.jd.com
-127.0.0.1 stat.51buy.com
-127.0.0.1 st.icson.com
-127.0.0.1 st.yixun.com
-127.0.0.1 dmtrack.yixun.com
-#jumei
-127.0.0.1 click.jumei.com
-#taobao
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 s.click.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 s.click.tmall.com
-#yhd
-127.0.0.1 tracker.yhd.com
 #daohang
 127.0.0.1 123.sogou.com
 127.0.0.1 hao.360.cn
