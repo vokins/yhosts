@@ -186,6 +186,5 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-127.0.0.1 bsch.serving-sys.com
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn

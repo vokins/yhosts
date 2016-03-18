@@ -92,6 +92,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
@@ -172,6 +173,11 @@ fe80::1%lo0	localhost
 #revsci.net
 127.0.0.1 pix04.revsci.net
 127.0.0.1 js.revsci.net
+#serving-sys.com
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 ds.serving-sys.com
+127.0.0.1 secure-ds.serving-sys.com
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
@@ -926,6 +932,20 @@ fe80::1%lo0	localhost
 #www.comicer.com
 127.0.0.1 js.1688988.com
 127.0.0.1 js.a3p4.net
+#www.dm530.com
+127.0.0.1 idcot.com
+127.0.0.1 cao.tc600.com
+127.0.0.1 imgcdn.ahzlep.com
+127.0.0.1 t22.3sdaigou.com
+127.0.0.1 vip.sc386.com
+127.0.0.1 img.feitian001.com
+127.0.0.1 code2.huimee.net
+127.0.0.1 d.107788.com
+127.0.0.1 g.f5gh.com
+127.0.0.1 kwflvcdn.000dn.com
+127.0.0.1 pc.107788.com
+127.0.0.1 iiad.liuliguo.com
+127.0.0.1 js2294.lishuanghao.com
 #www.meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e708.net
@@ -1670,4 +1690,3 @@ fe80::1%lo0	localhost
 127.0.0.1 4.4001075656.com
 127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
-127.0.0.1 img.feitian001.com
