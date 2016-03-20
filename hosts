@@ -484,9 +484,10 @@ fe80::1%lo0	localhost
 127.0.0.1 t.pg.cn.miaozhen.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
-127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
+127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
+127.0.0.1 17173im.qtmojo.com
 127.0.0.1 lejuim.qtmojo.com
 127.0.0.1 mmae.qtmojo.com
 127.0.0.1 snim.qtmojo.com
@@ -1028,6 +1029,7 @@ fe80::1%lo0	localhost
 #ali213.net
 127.0.0.1 bmp.ali213.net
 127.0.0.1 bmp1.ali213.net
+127.0.0.1 web.ali213.net
 #gamersky.com
 127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
@@ -1109,6 +1111,7 @@ fe80::1%lo0	localhost
 #cnbeta.com
 127.0.0.1 api.moogos.com
 127.0.0.1 c3.moogos.com
+127.0.0.1 cdn.moogos.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 job.cnbeta.com
 127.0.0.1 aos.prf.hn
@@ -1885,6 +1888,8 @@ fe80::1%lo0	localhost
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
+#zhushou
+127.0.0.1 123.click.kakamobi.cn
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com

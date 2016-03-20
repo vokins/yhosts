@@ -188,3 +188,5 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
+#zhushou
+127.0.0.1 123.click.kakamobi.cn
