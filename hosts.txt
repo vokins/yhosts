@@ -138,6 +138,9 @@ fe80::1%lo0	localhost
 127.0.0.1 afp.csbew.com
 127.0.0.1 s.csbew.com
 127.0.0.1 tga.csbew.com
+#effectivemeasure.net
+127.0.0.1 sg-cdn.effectivemeasure.net
+127.0.0.1 s.effectivemeasure.net
 #gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
@@ -1301,11 +1304,18 @@ fe80::1%lo0	localhost
 #youth.cn
 127.0.0.1 d.youth.cn
 127.0.0.1 publish.ad.youth.cn
+#zaobao.com
+127.0.0.1 ad.crwdcntrl.net
+127.0.0.1 adtag.asiaone.com
+127.0.0.1 ads.st701.com
 #zbinfo.net
 127.0.0.1 adm.zbinfo.net
 127.0.0.1 stat.zbii.com
 #zj.com
 127.0.0.1 ggg.zj.com
+#www.wufafuwu.com
+127.0.0.1 js.admin6.com
+127.0.0.1 code.admin6.com
 @sites-cn/military
 #chinaiiss.com
 127.0.0.1 analysis.chinaiiss.com
@@ -1408,6 +1418,52 @@ fe80::1%lo0	localhost
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 127.0.0.1 link.1905.com
+#baofeng.com
+
+127.0.0.1 action.logger.baofeng.com
+127.0.0.1 clicklog.hd.baofeng.com
+127.0.0.1 clicklog.moviebox.baofeng.com
+127.0.0.1 coop.pop.baofeng.com
+127.0.0.1 dailylog.storm.baofeng.com
+127.0.0.1 dl.show.baofeng.com
+127.0.0.1 doppler.logger.baofeng.com
+127.0.0.1 errorcode.logger.baofeng.com
+127.0.0.1 eventlog.hd.baofeng.com
+127.0.0.1 extralog.olclient.baofeng.com
+127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 log.ltype.baofeng.com
+127.0.0.1 log.nvwa.baofeng.com
+127.0.0.1 log.vdinfo.baofeng.com
+127.0.0.1 logger.treexml.baofeng.com
+127.0.0.1 midinfo.baofeng.com
+127.0.0.1 p2pmid.baofeng.com
+127.0.0.1 p2pmidzj.baofeng.com
+127.0.0.1 pvlog.hd.baofeng.com
+127.0.0.1 pvlog.moviebox.baofeng.com
+127.0.0.1 sclog.moviebox.baofeng.com
+127.0.0.1 timelog.moviebox.baofeng.com
+127.0.0.1 tips.logger.baofeng.com
+127.0.0.1 tree.logger.baofeng.com
+127.0.0.1 vdinfo.baofeng.com
+127.0.0.1 videodown.baofeng.com
+127.0.0.1 vvlog.moviebox.baofeng.com
+127.0.0.1 yvv.logger.baofeng.com
+127.0.0.1 ck.houyi.baofeng.net
+127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 corner.houyi.baofeng.net
+127.0.0.1 fyd.houyi.baofeng.net
+127.0.0.1 jfm4.pop.baofeng.net
+127.0.0.1 listlog.baofeng.net
+127.0.0.1 loading.baofeng5.baofeng.net
+127.0.0.1 log.houyi.baofeng.net
+127.0.0.1 mid.houyi.baofeng.net
+127.0.0.1 nclog.mars.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 static.houyi.baofeng.net
+127.0.0.1 web.houyi.baofeng.net
+127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 xs.houyi.baofeng.net
+127.0.0.1 cdn.baofenggame.com
 #cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 cntv.wrating.com

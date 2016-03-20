@@ -22,6 +22,7 @@ hosts文件
 [欢乐喜剧人 优酷网](http://v.youku.com/v_show/id_XMTQ2MjA5MzE5Ng==.html)
 [天天有喜 芒果TV](http://www.mgtv.com/v/2/166072/f/2949223.html)
 [大V时代 华数TV](http://www.wasu.cn/Play/show/id/2037963)
+[天伦 暴风影音](http://www.baofeng.com/play/463/play-796463.html)
 
 # 测试链接2:
 [DoctorX 搜狐视频](http://tv.sohu.com/20140326/n397234225.shtml)
@@ -60,7 +61,6 @@ hosts文件
 
 # 运行库:
 [dos2unix] (http://sourceforge.net/projects/dos2unix/)
-[curl] (http://www.paehl.com/open_source/)
 [exe] (http://www.bathome.net/thread-36408-1-1.html)
 
 # 优秀软件推荐:
