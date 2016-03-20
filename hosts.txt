@@ -1513,6 +1513,8 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.adinall.com
 #wasu.tv
 127.0.0.1 ads.wasu.tv
+127.0.0.1 afp.wasu.cn
+127.0.0.1 afpcreative.wasu.cn
 #ximalaya.com
 127.0.0.1 ad.ximalaya.com
 #youku.com
