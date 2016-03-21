@@ -1427,7 +1427,6 @@ fe80::1%lo0	localhost
 127.0.0.1 vodlog.m1905.cn
 127.0.0.1 link.1905.com
 #baofeng.com
-
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 clicklog.hd.baofeng.com
 127.0.0.1 clicklog.moviebox.baofeng.com

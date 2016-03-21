@@ -1,4 +1,4 @@
-ver=22:05 2016/3/18/周五
+ver=9:19 2016/3/21/周一
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -55,7 +55,7 @@ for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%~dp0lib\sed.exe" -i "/^#/d" lyq.txt
 "%~dp0lib\sed.exe" -i "/^@/d" lyq.txt
 "%~dp0lib\sed.exe" -i "1,3d" lyq.txt
-"%~dp0lib\sed.exe" -i "1i\127.0.0.1 localhost" lyq.txt
+rem 部分路由器无法添加localhost 故删除此行。"%~dp0lib\sed.exe" -i "1i\127.0.0.1 localhost" lyq.txt
 goto :eof
 
 :winhosts
