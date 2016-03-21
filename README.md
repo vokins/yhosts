@@ -10,9 +10,9 @@ hosts文件
 
 # 特别感谢：
 * ESword bt-soso.com 提供国内http镜像（同步更新）
-Windows平台：http://hosts.bt-soso.com/down/8493773/yhosts/hosts.txt
-Android平台：http://hosts.bt-soso.com/down/8493773/yhosts/hosts
-路由器平台：http://hosts.bt-soso.com/down/8493773/yhosts/lyq.txt
+* Windows平台：http://hosts.bt-soso.com/down/8493773/yhosts/hosts.txt
+* Android平台：http://hosts.bt-soso.com/down/8493773/yhosts/hosts
+* 路由器平台：http://hosts.bt-soso.com/down/8493773/yhosts/lyq.txt
 
 # 各种数据文件的名称及含义:
 1. [hosts.txt] (https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 针对桌面平台。为基础数据，其他平台数据需配合此数据使用。
