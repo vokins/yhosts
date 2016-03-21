@@ -40,8 +40,6 @@ fe80::1%lo0	localhost
 #bitcomment
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 afterdl.com
-#firefox-ext
-127.0.0.1 adbma.adk2.co
 #gomlab-gomplayer
 127.0.0.1 playinfo.gomlab.com
 127.0.0.1 cdn.cpsoft86.com
@@ -107,6 +105,8 @@ fe80::1%lo0	localhost
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
+#yandex.ru
+127.0.0.1 mc.yandex.ru
 #yahoo
 127.0.0.1 ads.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
@@ -114,6 +114,9 @@ fe80::1%lo0	localhost
 127.0.0.1 y.analytics.yahoo.com
 #addthis.com
 127.0.0.1 s7.addthis.com
+#adk2.co
+127.0.0.1 adbma.adk2.co
+127.0.0.1 adplexmedia.adk2.co
 #adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 g.adnxs.com
@@ -164,7 +167,10 @@ fe80::1%lo0	localhost
 127.0.0.1 ac-gb.mgid.com
 127.0.0.1 ad-gb.mgid.com
 127.0.0.1 ae-gb.mgid.com
+127.0.0.1 aj-gb.mgid.com
+127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 www.mgid.com
 #quantserve.com
 127.0.0.1 edge.quantserve.com
 127.0.0.1 pixel.quantserve.com
@@ -209,6 +215,10 @@ fe80::1%lo0	localhost
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
+#depositfiles.com
+127.0.0.1 ads8c.depositfiles.com
+127.0.0.1 api.solvemedia.com
+127.0.0.1 s.adverigo.com
 #rghost.net
 127.0.0.1 www.clickmngr.com
 #uptobox.com
@@ -269,8 +279,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.turn.com
 127.0.0.1 adserver.adtechus.com
 #torrentreactor.com
-127.0.0.1 adplexmedia.adk2.co
-127.0.0.1 mc.yandex.ru
 127.0.0.1 pl4790.puhtml.com
 127.0.0.1 tr.cdnfile.com
 #xhamster.com
@@ -1754,6 +1762,7 @@ fe80::1%lo0	localhost
 127.0.0.1 4.4001075656.com
 127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
+127.0.0.1 tg.1155t.cn
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -1769,8 +1778,6 @@ fe80::1%lo0	localhost
 127.0.0.1 events.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
-#adview.cn
-127.0.0.1 bid.adview.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -1786,6 +1793,18 @@ fe80::1%lo0	localhost
 127.0.0.1 cfg.adsmogo.net
 127.0.0.1 cfg.adsmogo.org
 127.0.0.1 storage.adsmogo.com
+#adview.cn
+127.0.0.1 adfill.adview.cn
+127.0.0.1 bid.adview.cn
+127.0.0.1 report.adview.cn
+127.0.0.1 rtb.adview.cn
+127.0.0.1 test2014.adview.cn
+#adwo.com
+127.0.0.1 apiconfig.adwo.com
+127.0.0.1 r2.adwo.com
+127.0.0.1 sdu.adwo.com
+127.0.0.1 static.adwo.com
+127.0.0.1 track.adwo.com
 #agrant
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adn.agrantsem.com

@@ -8,6 +8,9 @@ hosts文件
 * 基于站点和APP进行记录，如果影响了任何功能，可以暂时禁用相关域名或者APP数据解决。
 * 可以屏蔽掉[Alexa](http://www.alexa.com/topsites/countries/CN)排名前300的网站的绝大部分广告
 
+# 特别感谢：
+#ESword bt-soso.com
+
 # 各种数据文件的名称及含义:
 1. [hosts.txt] (https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 针对桌面平台。为基础数据，其他平台数据需配合此数据使用。
 2. [mobile.txt](https://raw.githubusercontent.com/vokins/yhosts/master/mobile.txt) 针对移动平台

@@ -13,8 +13,6 @@
 127.0.0.1 events.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
-#adview.cn
-127.0.0.1 bid.adview.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -30,6 +28,18 @@
 127.0.0.1 cfg.adsmogo.net
 127.0.0.1 cfg.adsmogo.org
 127.0.0.1 storage.adsmogo.com
+#adview.cn
+127.0.0.1 adfill.adview.cn
+127.0.0.1 bid.adview.cn
+127.0.0.1 report.adview.cn
+127.0.0.1 rtb.adview.cn
+127.0.0.1 test2014.adview.cn
+#adwo.com
+127.0.0.1 apiconfig.adwo.com
+127.0.0.1 r2.adwo.com
+127.0.0.1 sdu.adwo.com
+127.0.0.1 static.adwo.com
+127.0.0.1 track.adwo.com
 #agrant
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adn.agrantsem.com
