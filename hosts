@@ -526,6 +526,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mr.da.netease.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
+127.0.0.1 count.mail.163.com
 127.0.0.1 r.mail.163.com
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
@@ -1171,6 +1172,9 @@ fe80::1%lo0	localhost
 127.0.0.1 log.netsoft2012.com
 127.0.0.1 rel.netsoft2012.com
 127.0.0.1 www.uu654.com
+#pc6.com
+127.0.0.1 s.0574caifu.com
+127.0.0.1 tj.20hn.cn
 #pconline.com.cn
 127.0.0.1 bestpush.pconline.com.cn
 127.0.0.1 count5.pconline.com.cn
@@ -1426,6 +1430,8 @@ fe80::1%lo0	localhost
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 127.0.0.1 link.1905.com
+#ahtv.cn
+127.0.0.1 advapi.ahtv.cn
 #baofeng.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 clicklog.hd.baofeng.com
@@ -1477,9 +1483,17 @@ fe80::1%lo0	localhost
 #duomi.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
+#fjtv.net
+127.0.0.1 adv.fjtv.net
 #fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 pub.funshion.com
+#gdtv.cn
+127.0.0.1 adv.grtn.cn
+#gridsum.com
+127.0.0.1 g.gridsum.com
+127.0.0.1 sso-cas.gridsumdissector.com
+127.0.0.1 static.gridsumdissector.com
 #hunantv.com
 127.0.0.1 a.ads.cn.miaozhen.com
 127.0.0.1 e.ads.cn.miaozhen.com
