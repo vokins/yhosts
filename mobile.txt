@@ -175,7 +175,6 @@
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
-127.0.0.1 k.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
 127.0.0.1 mo.atm.youku.com
