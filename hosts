@@ -338,6 +338,7 @@ fe80::1%lo0	localhost
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
 127.0.0.1 s16.cnzz.com
+127.0.0.1 s132.cnzz.com
 127.0.0.1 s17.cnzz.com
 127.0.0.1 s175.cnzz.com
 127.0.0.1 s18.cnzz.com
@@ -585,6 +586,8 @@ fe80::1%lo0	localhost
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 sh.qihoo.com
+127.0.0.1 a.appjiagu.com
+127.0.0.1 s.appjiagu.com
 127.0.0.1 clk.gentags.net
 #baidu-biddingx
 127.0.0.1 c41.clicki.cn
@@ -664,11 +667,13 @@ fe80::1%lo0	localhost
 127.0.0.1 sclick.baidu.com
 #baidu-music
 127.0.0.1 pups.bdimg.com
+127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
+127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
-127.0.0.1 ttmsg.qianqian.com
-127.0.0.1 log.music.baidu.com
+#baidu-pan
+127.0.0.1 bcscdn.baidu.com
 #baidu-pos
 127.0.0.1 pos.baidu.com
 127.0.0.1 snippet.pos.baidu.com
@@ -683,6 +688,7 @@ fe80::1%lo0	localhost
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #baidu-video
+127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 #baifendian.com
@@ -1821,6 +1827,8 @@ fe80::1%lo0	localhost
 #agrant
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adn.agrantsem.com
+#cocounion.com
+127.0.0.1 config.cocounion.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
 127.0.0.1 log.coolguang.com
@@ -1925,6 +1933,12 @@ fe80::1%lo0	localhost
 127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
+#ttpod
+127.0.0.1 tj.itlily.com
+127.0.0.1 v1.ard.tj.itlily.com
+127.0.0.1 v1.ard.update.itlily.com
+127.0.0.1 collect.log.ttpod.com
+127.0.0.1 test.log.ttpod.com
 #iqiyi
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com

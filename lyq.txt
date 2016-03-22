@@ -263,6 +263,7 @@
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
 127.0.0.1 s16.cnzz.com
+127.0.0.1 s132.cnzz.com
 127.0.0.1 s17.cnzz.com
 127.0.0.1 s175.cnzz.com
 127.0.0.1 s18.cnzz.com
@@ -482,6 +483,8 @@
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 sh.qihoo.com
+127.0.0.1 a.appjiagu.com
+127.0.0.1 s.appjiagu.com
 127.0.0.1 clk.gentags.net
 127.0.0.1 c41.clicki.cn
 127.0.0.1 cdn.scdng.com
@@ -552,11 +555,12 @@
 127.0.0.1 qianclick.baidu.com
 127.0.0.1 sclick.baidu.com
 127.0.0.1 pups.bdimg.com
+127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
+127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
-127.0.0.1 ttmsg.qianqian.com
-127.0.0.1 log.music.baidu.com
+127.0.0.1 bcscdn.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 wn.pos.baidu.com
@@ -567,6 +571,7 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 ds.api.baifendian.com
