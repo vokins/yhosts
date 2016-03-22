@@ -1135,6 +1135,9 @@
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 s.272xb.com
+127.0.0.1 s.juejdkio.com
+127.0.0.1 material.jusha.com
+127.0.0.1 sss.iuyhjn.com
 127.0.0.1 t.iz55.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 afp.m1905.com
