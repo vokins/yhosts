@@ -12,6 +12,11 @@
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
+#moli
+127.0.0.1 ad.molitv.cn
+127.0.0.1 log.molitv.cn
+127.0.0.1 log.tv.moliv.cn
+127.0.0.1 track.molitv.cn
 #qqtv
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com

@@ -31,6 +31,7 @@
 #adview.cn
 127.0.0.1 adfill.adview.cn
 127.0.0.1 bid.adview.cn
+127.0.0.1 config.adview.cn
 127.0.0.1 report.adview.cn
 127.0.0.1 rtb.adview.cn
 127.0.0.1 test2014.adview.cn
@@ -45,6 +46,7 @@
 127.0.0.1 adn.agrantsem.com
 #cocounion.com
 127.0.0.1 config.cocounion.com
+127.0.0.1 stats.cocounion.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
 127.0.0.1 log.coolguang.com
@@ -77,6 +79,7 @@
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 cdn.jesgoo.com
 #jpush.cn
+127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
@@ -89,6 +92,7 @@
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
 127.0.0.1 fb.umeng.com
+127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 ex.umengcloud.com
@@ -106,7 +110,9 @@
 #youmi
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
+127.0.0.1 au.youmi.net
 127.0.0.1 banner.img.static.youmi.net
+127.0.0.1 r.youmi.net
 127.0.0.1 s.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 track.dmp.youmi.net
@@ -145,6 +151,7 @@
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
 #xunfei
+127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 www.voiceads.cn
 #systemav
