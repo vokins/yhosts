@@ -122,6 +122,10 @@ fe80::1%lo0	localhost
 127.0.0.1 g.adnxs.com
 127.0.0.1 ib.adnxs.com
 127.0.0.1 sin1.g.adnxs.com
+#adtechus.com
+127.0.0.1 adserver.adtechus.com
+127.0.0.1 aka-cdn-ns.adtechus.com
+127.0.0.1 aka-cdn.adtechus.com
 #atdmt.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adn.atdmt.com
@@ -277,7 +281,6 @@ fe80::1%lo0	localhost
 127.0.0.1 s.komoona.com
 127.0.0.1 stat.komoona.com
 127.0.0.1 ad.turn.com
-127.0.0.1 adserver.adtechus.com
 #torrentreactor.com
 127.0.0.1 pl4790.puhtml.com
 127.0.0.1 tr.cdnfile.com
@@ -302,6 +305,8 @@ fe80::1%lo0	localhost
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
+#www.speedtest.net
+127.0.0.1 as.casalemedia.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
 127.0.0.1 media.trafficjunky.net
@@ -690,7 +695,6 @@ fe80::1%lo0	localhost
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #baidu-video
-127.0.0.1 app.video.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 stat.v.baidu.com

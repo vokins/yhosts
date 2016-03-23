@@ -35,6 +35,21 @@ hosts文件
 [美丽的秘密 腾讯视频](http://v.qq.com/cover/5/5fs2bn3beyv0rbo/r00192d3ruz.html)
 [全城热恋 爱奇艺](http://www.iqiyi.com/v_19rrl6p15k.html)
 
+# 测试APP:
+腾讯视频
+爱奇艺PPS
+PPTV
+土豆视频
+快看影视
+芒果TV
+风行视频
+万能影视
+快手看片
+乐视体育
+直播吧
+央视影音
+1905电影网（无广告，但有8s的读秒黑屏）
+
 # 优秀的Google hosts:
 1. [racaljk] (https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 2. [盒子] (http://www.360kb.com/kb/2_122.html) [facebook] (http://www.360kb.com/kb/2_139.html)

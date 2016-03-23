@@ -25,3 +25,4 @@ m.shouji.360tpcdn.com
 pp.myapp.com
 static.360buyimg.com
 k.youku.com
+app.video.baidu.com
