@@ -1369,6 +1369,8 @@ fe80::1%lo0	localhost
 #heiguang.com
 127.0.0.1 pro.heiguang.com
 @sites-cn/shopping
+#chuchujie.com
+127.0.0.1 ads-cdn.chuchujie.com
 #egou.com
 127.0.0.1 ad.egou.com
 #jd.com
@@ -1501,6 +1503,7 @@ fe80::1%lo0	localhost
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 cdn.baofenggame.com
 #cntv.cn
+127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 cntv.wrating.com
 #duomi.com
@@ -1520,6 +1523,7 @@ fe80::1%lo0	localhost
 127.0.0.1 adv.grtn.cn
 #gridsum.com
 127.0.0.1 g.gridsum.com
+127.0.0.1 cfg-md.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 #hunantv.com
