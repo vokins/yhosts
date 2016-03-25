@@ -36,19 +36,8 @@ hosts文件
 [全城热恋 爱奇艺](http://www.iqiyi.com/v_19rrl6p15k.html)
 
 # 测试APP:
-腾讯视频
-爱奇艺PPS
-PPTV
-土豆视频
-快看影视
-芒果TV
-风行视频
-万能影视
-快手看片
-乐视体育
-直播吧
-央视影音
-1905电影网（无广告，但有8s的读秒黑屏）
+1. 腾讯视频、爱奇艺PPS、PPTV、土豆视频、快看影视、芒果TV、风行视频、万能影视、快手看片、乐视体育、直播吧、央视影音、风云直播、天天直播；
+2. 西瓜影音、1905电影网（无广告，但有读秒黑屏）
 
 # 优秀的Google hosts:
 1. [racaljk] (https://raw.githubusercontent.com/racaljk/hosts/master/hosts)

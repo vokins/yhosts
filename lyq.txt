@@ -53,6 +53,7 @@
 127.0.0.1 ad.winrar.com.cn
 127.0.0.1 ad.xigua.com
 127.0.0.1 adv2.downsave.com
+127.0.0.1 syad.jiehunmishu.com
 127.0.0.1 www.mm.cc
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
@@ -475,12 +476,13 @@
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
-127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 service.jiagu.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 tf.360.cn
@@ -503,6 +505,7 @@
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 bzclk.baidu.com
+127.0.0.1 btlaunch.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
@@ -532,6 +535,7 @@
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 tongji.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 update.123juzi.net
@@ -692,6 +696,7 @@
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 stdl.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
@@ -1093,7 +1098,6 @@
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 util.nphoto.net
 127.0.0.1 pro.heiguang.com
-127.0.0.1 ads-cdn.chuchujie.com
 127.0.0.1 ad.egou.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 ccc.x.jd.com
@@ -1208,8 +1212,16 @@
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
 127.0.0.1 clicker.kukuplay.com
+127.0.0.1 control.gm.kukuplay.com
 127.0.0.1 feedback.kukuplay.com
+127.0.0.1 mobile.kukuplay.com
 127.0.0.1 mobile.log.kukuplay.com
+127.0.0.1 push.gm.kukuplay.com
+127.0.0.1 report.mobile.kukuplay.com
+127.0.0.1 resource.kukuplay.com
+127.0.0.1 resource.ws.kukuplay.com
+127.0.0.1 sm.kukuplay.com
+127.0.0.1 gm.fengyunzhibo.com
 127.0.0.1 adv.fjtv.net
 127.0.0.1 adm.funshion.com
 127.0.0.1 pub.funshion.com
@@ -1306,6 +1318,8 @@
 127.0.0.1 static.g.pptv.com
 127.0.0.1 ads.data.pplive.com
 127.0.0.1 ad.qingting.fm
+127.0.0.1 ad-data.starschina.com
+127.0.0.1 ad-cache.dopool.com
 127.0.0.1 uusee.adsame.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 ads.wasu.tv
@@ -1345,6 +1359,8 @@
 127.0.0.1 gafxa.code.mytanwan.com
 127.0.0.1 ldpgl.code.mytanwan.com
 127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 sy.flash.mytanwan.com
+127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 rrr.youle55.com
 127.0.0.1 rwq.youle55.com
 127.0.0.1 e.e70123.com
@@ -1457,6 +1473,7 @@
 127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
 127.0.0.1 tg.1155t.cn
+127.0.0.1 t.cyuew.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 api.cupid.ptqy.gitv.tv

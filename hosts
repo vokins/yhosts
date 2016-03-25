@@ -74,6 +74,7 @@ fe80::1%lo0	localhost
 #xigua
 127.0.0.1 ad.xigua.com
 127.0.0.1 adv2.downsave.com
+127.0.0.1 syad.jiehunmishu.com
 127.0.0.1 www.mm.cc
 @common-adunion
 #amazon
@@ -580,12 +581,13 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
-127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 service.jiagu.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 tf.360.cn
@@ -610,6 +612,7 @@ fe80::1%lo0	localhost
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 bzclk.baidu.com
+127.0.0.1 btlaunch.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
@@ -639,6 +642,7 @@ fe80::1%lo0	localhost
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 tongji.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 update.123juzi.net
@@ -834,6 +838,7 @@ fe80::1%lo0	localhost
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 stdl.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
@@ -1369,8 +1374,6 @@ fe80::1%lo0	localhost
 #heiguang.com
 127.0.0.1 pro.heiguang.com
 @sites-cn/shopping
-#chuchujie.com
-127.0.0.1 ads-cdn.chuchujie.com
 #egou.com
 127.0.0.1 ad.egou.com
 #jd.com
@@ -1511,8 +1514,16 @@ fe80::1%lo0	localhost
 127.0.0.1 pc.boxshows.com
 #fengyunzhibo
 127.0.0.1 clicker.kukuplay.com
+127.0.0.1 control.gm.kukuplay.com
 127.0.0.1 feedback.kukuplay.com
+127.0.0.1 mobile.kukuplay.com
 127.0.0.1 mobile.log.kukuplay.com
+127.0.0.1 push.gm.kukuplay.com
+127.0.0.1 report.mobile.kukuplay.com
+127.0.0.1 resource.kukuplay.com
+127.0.0.1 resource.ws.kukuplay.com
+127.0.0.1 sm.kukuplay.com
+127.0.0.1 gm.fengyunzhibo.com
 #fjtv.net
 127.0.0.1 adv.fjtv.net
 #fun.tv
@@ -1622,6 +1633,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.data.pplive.com
 #qingting.fm
 127.0.0.1 ad.qingting.fm
+#tiantian.tv
+127.0.0.1 ad-data.starschina.com
+127.0.0.1 ad-cache.dopool.com
 #uusee.com
 127.0.0.1 uusee.adsame.com
 #v1.cn
@@ -1667,6 +1681,8 @@ fe80::1%lo0	localhost
 127.0.0.1 gafxa.code.mytanwan.com
 127.0.0.1 ldpgl.code.mytanwan.com
 127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 sy.flash.mytanwan.com
+127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 rrr.youle55.com
 127.0.0.1 rwq.youle55.com
 127.0.0.1 e.e70123.com
@@ -1811,6 +1827,7 @@ fe80::1%lo0	localhost
 127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
 127.0.0.1 tg.1155t.cn
+127.0.0.1 t.cyuew.com
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -1904,6 +1921,7 @@ fe80::1%lo0	localhost
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
@@ -1913,6 +1931,7 @@ fe80::1%lo0	localhost
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
+127.0.0.1 sns.whalecloud.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
 #wapx.cn

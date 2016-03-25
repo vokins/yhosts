@@ -91,6 +91,7 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
@@ -100,6 +101,7 @@
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
+127.0.0.1 sns.whalecloud.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
 #wapx.cn
