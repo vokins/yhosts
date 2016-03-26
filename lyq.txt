@@ -657,7 +657,6 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 resolver.msg.xiaomi.net
-127.0.0.1 update.miui.com
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 127.0.0.1 resolver.gslb.mi-idc.com
