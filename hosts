@@ -663,6 +663,7 @@
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 f3.mi-stat.gslb.mi-idc.com
 127.0.0.1 hot.browser.miui.com
+127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com

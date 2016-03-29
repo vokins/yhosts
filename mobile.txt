@@ -118,6 +118,9 @@
 127.0.0.1 s.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 track.dmp.youmi.net
+#zedo
+127.0.0.1 d8.zedo.com
+127.0.0.1 z1.zedo.com
 @apps
 #1mobile.com
 127.0.0.1 ads-banner.1mobile.com
@@ -171,6 +174,7 @@
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 iface.iqiyi.com
+127.0.0.1 iface2.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
