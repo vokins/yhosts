@@ -1,16 +1,4 @@
 @racaljk/hosts
-64.233.162.85 drive9.google.com
-64.233.162.85 docs0.google.com
-64.233.162.85 docs1.google.com
-64.233.162.85 docs2.google.com
-64.233.162.85 docs3.google.com
-64.233.162.85 docs4.google.com
-64.233.162.85 docs5.google.com
-64.233.162.85 docs6.google.com
-64.233.162.85 docs7.google.com
-64.233.162.85 docs8.google.com
-64.233.162.85 docs9.google.com
-64.233.162.85 writely.google.com
 64.233.162.85 upload.docs.google.com
 64.233.162.85 upload.drive.google.com
 64.233.162.85 0.docs.google.com
@@ -3540,6 +3528,23 @@ com
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
 11 tw.news.yahoo.com
+106.10.138.240 tw.yahoo.com
+121.101.144.116 up.flickr.com
+204.0.5.34 us.js2.yimg.com
+23.62.109.75 us.js2.yimg.com
+106.10.138.240 us.yahoo.com
+183.177.81.75 www.flickr.com
+106.10.138.240 www.yahoo.com
+98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+185.31.17.184 travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+1.farm3.staticflickr.com
+106.10.137.23 static.flickr.com
+106.10.199.11 tw.news.yahoo.com
 106.10.138.240 tw.yahoo.com
 121.101.144.116 up.flickr.com
 204.0.5.34 us.js2.yimg.com
