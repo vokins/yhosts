@@ -19,6 +19,7 @@ fe80::1%lo0	localhost
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 #wo.com.cn
+127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
@@ -793,39 +794,37 @@ fe80::1%lo0	localhost
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 resolver.msg.xiaomi.net
-#miui-miidc
-127.0.0.1 app01.nodes.gslb.mi-idc.com
-127.0.0.1 app02.nodes.gslb.mi-idc.com
-127.0.0.1 resolver.gslb.mi-idc.com
-127.0.0.1 f3.mi-stat.gslb.mi-idc.com
+#miui-game
+127.0.0.1 notice.game.xiaomi.com
+127.0.0.1 ppurifier.game.xiaomi.com
+#miui-download
+127.0.0.1 sousuo.xm.sjzhushou.com
+#mi
+127.0.0.1 a.union.mi.com
+127.0.0.1 migc.g.mi.com
+127.0.0.1 migcreport.g.mi.com
+127.0.0.1 sg.a.stat.mi.com
+#miui-weather
+127.0.0.1 staging.admin.e.mi.com
 #miui-browser
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
-#miui-download
-127.0.0.1 sousuo.xm.sjzhushou.com
-#miui-game
-127.0.0.1 notice.game.xiaomi.com
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 info.analysis.kp.sec.miui.com
-127.0.0.1 staging.api.comm.miui.com
-127.0.0.1 staging.api.sec.miui.com
-#miui-weather
-127.0.0.1 staging.admin.e.mi.com
-#miui-video
-127.0.0.1 migc.g.mi.com
-127.0.0.1 migcreport.g.mi.com
+#miui-adsunflower
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
+#miui-adfuture
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
+#miui-advmob
 127.0.0.1 bigdata.advmob.cn
+#mi-ksmobile
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ups.ksmobile.net
 #qq.com
@@ -893,6 +892,11 @@ fe80::1%lo0	localhost
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 www.haowj.com.cn
 127.0.0.1 757.adsina.allyes.com
+#sina-igexin
+127.0.0.1 sdk.open.amp.igexin.com
+127.0.0.1 sdk.open.inc2.igexin.com
+127.0.0.1 sdk.open.lbs.igexin.com
+127.0.0.1 sdk.open.phone.igexin.com
 #sohu.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 corp.sohu.com
@@ -1402,6 +1406,9 @@ fe80::1%lo0	localhost
 127.0.0.1 track.58.com
 127.0.0.1 tracklog.58.com
 127.0.0.1 usdtop.58.com
+#ganji.com
+127.0.0.1 ganjituiguang.ganji.com
+127.0.0.1 sta.ganji.com
 #douban.com
 127.0.0.1 erebor.douban.com
 #jd-bbs.com

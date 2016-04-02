@@ -104,6 +104,7 @@
 127.0.0.1 sns.whalecloud.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
+127.0.0.1 log.umsns.com
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
@@ -118,6 +119,15 @@
 127.0.0.1 s.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 track.dmp.youmi.net
+#yoyi.com.cn
+127.0.0.1 aim.yoyi.com.cn
+127.0.0.1 amps.yoyi.com.cn
+127.0.0.1 atm.yoyi.com.cn
+127.0.0.1 d.yoyi.com.cn
+127.0.0.1 g.rs.yoyi.com.cn
+127.0.0.1 m.yoyi.com.cn
+127.0.0.1 mapping.yoyi.com.cn
+127.0.0.1 www.yoyi.com.cn
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
@@ -167,6 +177,8 @@
 127.0.0.1 v1.ard.update.itlily.com
 127.0.0.1 collect.log.ttpod.com
 127.0.0.1 test.log.ttpod.com
+#uc
+127.0.0.1 applog.uc.cn
 #iqiyi
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
