@@ -646,6 +646,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-speed.baidu.com
 127.0.0.1 mobads.baidu.com
+127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
@@ -710,6 +711,17 @@ fe80::1%lo0	localhost
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
+#baidu-tuisong
+127.0.0.1 api0.tuisong.baidu.com
+127.0.0.1 api1.tuisong.baidu.com
+127.0.0.1 api2.tuisong.baidu.com
+127.0.0.1 api3.tuisong.baidu.com
+127.0.0.1 api4.tuisong.baidu.com
+127.0.0.1 api5.tuisong.baidu.com
+127.0.0.1 api6.tuisong.baidu.com
+127.0.0.1 api7.tuisong.baidu.com
+127.0.0.1 api8.tuisong.baidu.com
+127.0.0.1 api9.tuisong.baidu.com
 #baidu-video
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 sestat.baidu.com
@@ -719,6 +731,7 @@ fe80::1%lo0	localhost
 #baifendian.com
 127.0.0.1 ds.api.baifendian.com
 127.0.0.1 ds10.api.baifendian.com
+127.0.0.1 m.api.baifendian.com
 127.0.0.1 rec.api.baifendian.com
 127.0.0.1 static.baifendian.com
 127.0.0.1 static1.baifendian.com
@@ -960,6 +973,10 @@ fe80::1%lo0	localhost
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
+#m.01bz.xyz
+127.0.0.1 w.efo.cc
+127.0.0.1 daima.jiduan.cc
+127.0.0.1 cp.efo.cc
 #www.bookben.com
 127.0.0.1 rc.andmejs.com
 #www.txtbbs.com
@@ -1662,6 +1679,7 @@ fe80::1%lo0	localhost
 127.0.0.1 afpcreative.wasu.cn
 #ximalaya.com
 127.0.0.1 ad.ximalaya.com
+127.0.0.1 adse.test.ximalaya.com
 #youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 static.atm.youku.com
@@ -1720,6 +1738,10 @@ fe80::1%lo0	localhost
 127.0.0.1 js883.cnbole.net
 127.0.0.1 js436.cnbole.net
 127.0.0.1 js2294.cnbole.net
+127.0.0.1 vip.yoyozz.net
+127.0.0.1 www.yoyozz.net
+127.0.0.1 v.img80.net
+127.0.0.1 dl.img80.net
 127.0.0.1 c.ns8d.com
 127.0.0.1 img.twcczhu.com
 127.0.0.1 vip.at98.com
@@ -1868,10 +1890,6 @@ fe80::1%lo0	localhost
 127.0.0.1 www.xxkhh.com
 127.0.0.1 tg.1155t.cn
 127.0.0.1 t.cyuew.com
-127.0.0.1 vip.yoyozz.net
-127.0.0.1 www.yoyozz.net
-127.0.0.1 v.img80.net
-127.0.0.1 dl.img80.net
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn
 @mobile
@@ -2023,6 +2041,7 @@ fe80::1%lo0	localhost
 #easou
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
+127.0.0.1 tjlog.ps.easou.com
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
