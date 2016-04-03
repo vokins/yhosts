@@ -27,10 +27,8 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 qq.irs01.com
-127.0.0.1 qq.m.cn.miaozhen.com
 #cibntv
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net

@@ -67,6 +67,7 @@
 127.0.0.1 ads.nexage.com
 #moogos.com
 127.0.0.1 api.moogos.com
+127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.moogos.com
 127.0.0.1 rcv.moogos.com
 #mopub.com

@@ -941,10 +941,6 @@
 127.0.0.1 yahoo1.beareyes.com.cn
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
-127.0.0.1 api.moogos.com
-127.0.0.1 c3.moogos.com
-127.0.0.1 cdn.moogos.com
-127.0.0.1 cdn.jesgoo.com
 127.0.0.1 job.cnbeta.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 js.cnmo.com
@@ -1511,10 +1507,8 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 qq.irs01.com
-127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 static.atm.cp31.ott.cibntv.net
