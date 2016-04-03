@@ -974,9 +974,9 @@ fe80::1%lo0	localhost
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 #m.01bz.xyz
+127.0.0.1 cp.efo.cc
 127.0.0.1 w.efo.cc
 127.0.0.1 daima.jiduan.cc
-127.0.0.1 cp.efo.cc
 #www.bookben.com
 127.0.0.1 rc.andmejs.com
 #www.txtbbs.com

@@ -1,11 +1,11 @@
-ver=20:49 2016/3/29/周二
+ver=22:32 2016/4/3/周日
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
 del /f hosts
 call :del
 rem call :bat
-rem call :version
+call :version
 call :xunlei
 call :downgrd
 call :lyq
@@ -31,7 +31,7 @@ goto :eof
 echo.>Version.txt
 echo ;version=%date:~0,4%%date:~5,2%%date:~8,2%%TIME:~0,2%%TIME:~3,2%>>Version.txt
 rem echo ;version=%time% %date%>>Version.txt
-echo ;url=https://github.com/vokins/yhosts>>Version.txt
+rem echo ;url=https://github.com/vokins/yhosts>>Version.txt
 goto :eof
 
 :xunlei
