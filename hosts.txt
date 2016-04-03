@@ -1,5 +1,5 @@
 
-;version=201604032233
+;version=201604032312
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -2004,6 +2004,7 @@ fe80::1%lo0	localhost
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
 127.0.0.1 sns.whalecloud.com
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
 127.0.0.1 log.umsns.com

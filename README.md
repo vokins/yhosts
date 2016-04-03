@@ -40,6 +40,14 @@ hosts文件
 1. 腾讯视频、爱奇艺PPS、PPTV、土豆视频、快看影视、芒果TV、风行视频、万能影视、快手看片、乐视体育、直播吧、央视影音、风云直播、天天直播；
 2. 西瓜影音、1905电影网（无广告，但有读秒黑屏）
 
+#MIUI:
+MIUI安全中心请到设置，其他应用管理，里面找到：安全中心服务组件，安全中心，垃圾清理，分别点击清除数据，操作后重新打开即可。
+MIUI天气，下载，应用hosts数据后无需操作。
+MIUI桌面，文件夹应用推荐广告请手动关闭。
+MIUI日历，请使用卡片管理。
+MIUI视频，播放器下方仍有广告。
+MIUI搜索，提示框，多点几次刷新后，仍会有应用标注推广字样。
+
 # 优秀的Google hosts:
 1. [racaljk] (https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 2. [盒子] (http://www.360kb.com/kb/2_122.html) [facebook] (http://www.360kb.com/kb/2_139.html)

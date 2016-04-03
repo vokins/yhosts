@@ -1,16 +1,4 @@
 @racaljk/hosts
-64.233.162.85 wave1.google.com
-64.233.162.85 googlewave.com
-64.233.162.85 wifi.google.com
-64.233.162.85 gmodules.com
-64.233.162.85 www.gmodules.com
-64.233.162.85 www.ig.gmodules.com
-64.233.162.85 ig.gmodules.com
-64.233.162.85 ads.gmodules.com
-64.233.162.85 p.gmodules.com
-64.233.162.85 1.ig.gmodules.com
-64.233.162.85 2.ig.gmodules.com
-64.233.162.85 3.ig.gmodules.com
 64.233.162.85 4.ig.gmodules.com
 64.233.162.85 5.ig.gmodules.com
 64.233.162.85 6.ig.gmodules.com
@@ -4020,6 +4008,18 @@ o End
 .116 up.flickr.com
 204.0.5.34 us.js2.yimg.com
 23.62.109.75 us.js2.yimg.com
+106.10.138.240 us.yahoo.com
+183.177.81.75 www.flickr.com
+106.10.138.240 www.yahoo.com
+98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+om
 106.10.138.240 us.yahoo.com
 183.177.81.75 www.flickr.com
 106.10.138.240 www.yahoo.com
