@@ -61,6 +61,11 @@
 127.0.0.1 proton.flurry.com
 #madserving.com
 127.0.0.1 ad.madserving.com
+127.0.0.1 adv.madserving.com
+127.0.0.1 clk.madserving.com
+127.0.0.1 clk.pdb.madserving.com
+127.0.0.1 imp.madserving.com
+127.0.0.1 imp.pdb.madserving.com
 #maysunmedia.com
 127.0.0.1 s.think.cn.maysunmedia.com
 #millennialmedia
@@ -195,6 +200,7 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
