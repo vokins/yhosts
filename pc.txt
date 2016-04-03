@@ -24,6 +24,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
 #ok365.com
+127.0.0.1 pd.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
@@ -696,6 +697,7 @@ fe80::1%lo0	localhost
 #baidu-pan
 127.0.0.1 bcscdn.baidu.com
 #baidu-pos
+127.0.0.1 cm.pos.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 wn.pos.baidu.com
@@ -997,7 +999,7 @@ fe80::1%lo0	localhost
 127.0.0.1 kwflvcdn.000dn.com
 127.0.0.1 pc.107788.com
 127.0.0.1 iiad.liuliguo.com
-127.0.0.1 js2294.lishuanghao.com
+127.0.0.1 rfv.ws7j.com
 #www.meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e708.net
@@ -1678,7 +1680,9 @@ fe80::1%lo0	localhost
 127.0.0.1 u5.8ox.cn
 127.0.0.1 js1210.lishuanghao.com
 127.0.0.1 js1867.lishuanghao.com
+127.0.0.1 js2294.lishuanghao.com
 127.0.0.1 js2608.lishuanghao.com
+127.0.0.1 js2645.lishuanghao.com
 127.0.0.1 js2707.lishuanghao.com
 127.0.0.1 js883.lishuanghao.com
 127.0.0.1 js916.lishuanghao.com
@@ -1713,6 +1717,9 @@ fe80::1%lo0	localhost
 127.0.0.1 rs.qiyou.com
 127.0.0.1 s.00oo00.com
 127.0.0.1 i.00oo00.com
+127.0.0.1 js883.cnbole.net
+127.0.0.1 js436.cnbole.net
+127.0.0.1 js2294.cnbole.net
 127.0.0.1 c.ns8d.com
 127.0.0.1 img.twcczhu.com
 127.0.0.1 vip.at98.com
@@ -1721,6 +1728,7 @@ fe80::1%lo0	localhost
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 #btkitty.ws
+127.0.0.1 v.dbncp.com
 127.0.0.1 jump1.pszyzxh.org
 127.0.0.1 img.zsj18.com
 127.0.0.1 ghavcb.520jr.com
@@ -1740,12 +1748,27 @@ fe80::1%lo0	localhost
 #btlibrary.net
 127.0.0.1 j.mainbx.com
 127.0.0.1 js.jianbaimei.com
+#diggbt.net
+127.0.0.1 la.qshxc.com
+127.0.0.1 js883.anreson.net
+127.0.0.1 qaz.afjlb.com
+127.0.0.1 1234xm.com
+127.0.0.1 aa.scw0.com
+127.0.0.1 bb.jw90.com
 #henbt.com
 127.0.0.1 j.qiqiww.com
 #opensubtitles.org
 127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 img.revcontent.com
 127.0.0.1 trends.revcontent.com
+#pan.java1234.com
+127.0.0.1 s.haiyunx.com
+127.0.0.1 hyssp.haiyunx.com
+127.0.0.1 rbs.haiyunx.com
+127.0.0.1 demo.zhinengshe.com
+127.0.0.1 jss.tenglink.com
+127.0.0.1 rbjs.chinassp.cn
+127.0.0.1 t.adxchina.cn
 #www.friok.com
 127.0.0.1 fengche.cpv6.com
 @sites-cn/video-down
@@ -1808,7 +1831,6 @@ fe80::1%lo0	localhost
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com
 #www.dage123.com
-127.0.0.1 cdn.bootcss.com
 127.0.0.1 imgcdn.mazaibang.com
 127.0.0.1 vip.jisucn.com
 127.0.0.1 www.jutou5.com
@@ -1850,3 +1872,5 @@ fe80::1%lo0	localhost
 127.0.0.1 www.yoyozz.net
 127.0.0.1 v.img80.net
 127.0.0.1 dl.img80.net
+127.0.0.1 love.66san.com
+127.0.0.1 love.chushoushijian.cn
