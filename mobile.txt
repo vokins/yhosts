@@ -179,6 +179,10 @@
 127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
+#toutiao
+127.0.0.1 app.toutiao.com
+127.0.0.1 s.toutiao.com
+127.0.0.1 log.snssdk.com
 #ttpod
 127.0.0.1 tj.itlily.com
 127.0.0.1 v1.ard.tj.itlily.com

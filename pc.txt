@@ -210,6 +210,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cl.webterren.com
 127.0.0.1 cl2.webterren.com
 127.0.0.1 cl3.webterren.com
+127.0.0.1 cl4.webterren.com
 127.0.0.1 cl5.webterren.com
 #wp.com
 127.0.0.1 stats.wp.com
@@ -1932,3 +1933,4 @@ u5.8ox.cn
 127.0.0.1 t.cyuew.com
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn
+127.0.0.1 cdn.ttkx22n.com
