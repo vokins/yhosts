@@ -1019,6 +1019,12 @@ fe80::1%lo0	localhost
 127.0.0.1 pc.107788.com
 127.0.0.1 iiad.liuliguo.com
 127.0.0.1 rfv.ws7j.com
+#www.mh1234.com
+127.0.0.1 qaz.afjlb.com
+127.0.0.1 s.67yes.com
+127.0.0.1 rc.juejdkio.com
+127.0.0.1 g.buka9.com
+127.0.0.1 www.ads8.cc
 #www.mmycl.com
 127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1116.anreson.net
@@ -1782,7 +1788,6 @@ fe80::1%lo0	localhost
 #diggbt.net
 127.0.0.1 la.qshxc.com
 127.0.0.1 js883.anreson.net
-127.0.0.1 qaz.afjlb.com
 127.0.0.1 1234xm.com
 127.0.0.1 aa.scw0.com
 127.0.0.1 bb.jw90.com
