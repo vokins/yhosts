@@ -1160,6 +1160,7 @@
 127.0.0.1 ganjituiguang.ganji.com
 127.0.0.1 sta.ganji.com
 127.0.0.1 erebor.douban.com
+127.0.0.1 s.jandan.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
 127.0.0.1 super.kdnet.net
@@ -1247,8 +1248,10 @@
 127.0.0.1 static.houyi.baofeng.net
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 cdn.baofenggame.com
+127.0.0.1 androidlog.shouji.baofeng.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 cntv.wrating.com

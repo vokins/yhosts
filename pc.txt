@@ -1453,6 +1453,8 @@ fe80::1%lo0	localhost
 127.0.0.1 sta.ganji.com
 #douban.com
 127.0.0.1 erebor.douban.com
+#jandan.net
+127.0.0.1 s.jandan.com
 #jd-bbs.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
@@ -1557,8 +1559,10 @@ fe80::1%lo0	localhost
 127.0.0.1 static.houyi.baofeng.net
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 cdn.baofenggame.com
+127.0.0.1 androidlog.shouji.baofeng.com
 #cntv.cn
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn

@@ -94,6 +94,7 @@
 127.0.0.1 alog.umeng.co
 127.0.0.1 au.umeng.co
 127.0.0.1 oc.umeng.co
+127.0.0.1 www.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.umeng.com
