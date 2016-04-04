@@ -1019,6 +1019,10 @@ fe80::1%lo0	localhost
 127.0.0.1 pc.107788.com
 127.0.0.1 iiad.liuliguo.com
 127.0.0.1 rfv.ws7j.com
+#www.mmycl.com
+127.0.0.1 js1116.cnbole.net
+127.0.0.1 js1116.anreson.net
+127.0.0.1 ji.cnbole.net
 #www.meizitu.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e708.net
@@ -1026,6 +1030,7 @@ fe80::1%lo0	localhost
 127.0.0.1 f.f70123.com
 127.0.0.1 sssd.cn7765.com
 127.0.0.1 sd.mmfile.net
+127.0.0.1 simg.52zbz.com
 @sites-cn/edu
 #jyeoo.com
 127.0.0.1 a.jyeoo.com
@@ -1802,6 +1807,13 @@ fe80::1%lo0	localhost
 127.0.0.1 d3d.3dwwwgame.com
 127.0.0.1 down.gotek.com.cn
 127.0.0.1 ini.litingxin.cn
+#icili.me
+127.0.0.1 t.zg71.com
+127.0.0.1 js1406.lishuanghao.com
+127.0.0.1 www.cccrir.com
+127.0.0.1 wwwimg.86sjx.com
+127.0.0.1 t.nbyongle.com
+u5.8ox.cn
 #piaohua.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 pop.code.poyang.cn
