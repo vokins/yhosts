@@ -1,28 +1,4 @@
 @racaljk/hosts
-64.233.162.85 s1.2mdn.net
-64.233.162.85 service.urchin.com
-64.233.162.85 analytics.google.com
-64.233.162.85 www.googleartproject.com
-64.233.162.85 feedburner.google.com
-64.233.162.85 www.feedburner.com
-64.233.162.85 feeds.feedburner.com
-64.233.162.85 feeds2.feedburner.com
-64.233.162.85 feedproxy.google.com
-64.233.162.85 go.googlesource.com
-64.233.162.85 golang.org
-64.233.162.85 www.golang.org
-64.233.162.85 blog.golang.org
-64.233.162.85 play.golang.org
-64.233.162.85 tip.golang.org
-64.233.162.85 tour.golang.org
-64.233.162.85 goo.gl
-64.233.162.85 g.co
-64.233.162.85 www.google.org
-64.233.162.85 blog.google.org
-64.233.162.85 panoramio.com
-64.233.162.85 www.panoramio.com
-64.233.162.85 static.panoramio.com
-64.233.162.85 blog.panoramio.com
 64.233.162.85 www.recaptcha.net
 64.233.162.85 api.recaptcha.net
 64.233.162.85 api-secure.recaptcha.net
@@ -4025,6 +4001,33 @@ g.com
 .yahoo.com
 121.101.144.116 up.flickr.com
 204.0.5.34 us.js2.yimg.com
+23.62.109.75 us.js2.yimg.com
+106.10.138.240 us.yahoo.com
+183.177.81.75 www.flickr.com
+106.10.138.240 www.yahoo.com
+98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+p.flickr.com
+204.0.5.34 us.js2.yimg.com
+23.62.109.75 us.js2.yimg.com
+106.10.138.240 us.yahoo.com
+183.177.81.75 www.flickr.com
+106.10.138.240 www.yahoo.com
+98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+us.js2.yimg.com
 23.62.109.75 us.js2.yimg.com
 106.10.138.240 us.yahoo.com
 183.177.81.75 www.flickr.com

@@ -1019,6 +1019,10 @@ fe80::1%lo0	localhost
 127.0.0.1 pc.107788.com
 127.0.0.1 iiad.liuliguo.com
 127.0.0.1 rfv.ws7j.com
+127.0.0.1 bz.lhzly.com
+127.0.0.1 tz.lhzly.com
+127.0.0.1 c1.qshxc.com
+127.0.0.1 wsx.4ggww.com
 #www.mh1234.com
 127.0.0.1 qaz.afjlb.com
 127.0.0.1 s.67yes.com
@@ -1805,6 +1809,10 @@ fe80::1%lo0	localhost
 127.0.0.1 jss.tenglink.com
 127.0.0.1 rbjs.chinassp.cn
 127.0.0.1 t.adxchina.cn
+#www.btdao.xyz
+127.0.0.1 b.yunfanlm.net
+127.0.0.1 dougou88.com
+127.0.0.1 js859.lishuanghao.com
 #www.friok.com
 127.0.0.1 fengche.cpv6.com
 @sites-cn/video-down
