@@ -5,7 +5,7 @@ fe80::1%lo0	localhost
 @redirect
 #github
 192.30.252.129 github.com
-103.245.222.133 raw.githubusercontent.com
+23.235.43.133 raw.githubusercontent.com
 #facebook
 31.13.77.8 facebook.com
 31.13.77.8 www.facebook.com
