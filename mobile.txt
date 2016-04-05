@@ -150,6 +150,8 @@
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 tjlog.ps.easou.com
+#gameloft
+127.0.0.1 imp-mdsp.avazutracking.net
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
