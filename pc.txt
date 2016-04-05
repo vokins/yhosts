@@ -858,6 +858,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ups.ksmobile.net
 #qq.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.e.qq.com
@@ -866,6 +867,7 @@ fe80::1%lo0	localhost
 127.0.0.1 l.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
+127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 res.imtt.qq.com
 127.0.0.1 s.pcapps.qq.com

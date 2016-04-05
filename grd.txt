@@ -1,16 +1,4 @@
 @racaljk/hosts
-64.233.162.85 vp.video.l.google.com
-64.233.162.85 browserchannel-spreadsheets.l.google.com
-64.233.162.85 googlecl.googlecode.com
-64.233.162.85 s0-2mdn-net.l.google.com
-64.233.162.85 wire.l.google.com
-64.233.162.85 www0.l.google.com
-64.233.162.85 www1.l.google.com
-64.233.162.85 googlemashups.l.google.com
-64.233.162.85 qwqy.vp.video.l.google.com
-64.233.162.85 nz.vp.video.l.google.com
-64.233.162.85 nztdug.vp.video.l.google.com
-64.233.162.85 pr.vp.video.l.google.com
 64.233.162.85 ug.vp.video.l.google.com
 64.233.162.85 vp01.video.l.google.com
 64.233.162.85 vp02.video.l.google.com
