@@ -1,5 +1,5 @@
 
-;version=201604041945
+;version=201604052215
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -324,6 +324,9 @@ fe80::1%lo0	localhost
 127.0.0.1 static.awempire.com
 74.63.113.122 tt1069.com
 74.63.113.122 www.tt1069.com
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 bcp.crwdcntrl.net
 #www.vn-zoom.com
 127.0.0.1 api.adtimaserver.vn
 127.0.0.1 log.adtimaserver.vn
@@ -342,6 +345,8 @@ fe80::1%lo0	localhost
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
 127.0.0.1 hqs7.cnzz.com
+127.0.0.1 z5.cnzz.com
+127.0.0.1 z6.cnzz.com
 127.0.0.1 hzs14.cnzz.com
 127.0.0.1 hzs17.cnzz.com
 127.0.0.1 hzs5.cnzz.com
@@ -490,6 +495,7 @@ fe80::1%lo0	localhost
 #mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
+127.0.0.1 cm.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
 127.0.0.1 max.mediav.com
@@ -594,14 +600,16 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 cm.lianmeng.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s1.stat.lianmeng.360.cn
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
-127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 service.jiagu.360.cn
-127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 ini.update.360safe.com
@@ -1940,6 +1948,8 @@ u5.8ox.cn
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn
 127.0.0.1 cdn.ttkx22n.com
+127.0.0.1 m1.dx1200.com
+127.0.0.1 vip2.media8.cn
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com

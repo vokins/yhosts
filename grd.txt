@@ -1,16 +1,4 @@
 @racaljk/hosts
-64.233.162.85 scholar.l.google.com
-64.233.162.85 sketchup.l.google.com
-64.233.162.85 spreadsheets.l.google.com
-64.233.162.85 spreadsheets-china.l.google.com
-64.233.162.85 sslvideo-upload.l.google.com
-64.233.162.85 ssl-google-analytics.l.google.com
-64.233.162.85 static.cache.l.google.com
-64.233.162.85 suggestqueries.l.google.com
-64.233.162.85 tbn.l.google.com
-64.233.162.85 toolbarqueries.l.google.com
-64.233.162.85 tools.l.google.com
-64.233.162.85 video.l.google.com
 64.233.162.85 vp.video.l.google.com
 64.233.162.85 browserchannel-spreadsheets.l.google.com
 64.233.162.85 googlecl.googlecode.com
