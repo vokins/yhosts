@@ -7,7 +7,7 @@ call :del
 rem call :bat
 call :version
 call :xunlei
-call :downgrd
+rem call :downgrd
 call :lyq
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts.txt
@@ -67,7 +67,7 @@ ipconfig /flushdns
 goto :eof
 
 :downgrd
-"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+rem "%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 rem "%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 rem É¾³ıÇ°13ĞĞ×¢ÊÍÄÚÈİ
 "%~dp0lib\sed.exe" -i "1,13d" grd.txt
