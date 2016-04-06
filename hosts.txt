@@ -1,5 +1,5 @@
 
-;version=201604052352
+;version=20160406 833
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -8,49 +8,6 @@ fe80::1%lo0	localhost
 #github
 192.30.252.129 github.com
 23.235.43.133 raw.githubusercontent.com
-#facebook
-31.13.77.8 facebook.com
-31.13.77.8 www.facebook.com
-31.13.77.8 touch.facebook.com
-31.13.77.8 apps.facebook.com
-31.13.77.8 upload.facebook.com
-31.13.77.8 secure.facebook.com
-31.13.77.8 zh-cn.facebook.com
-31.13.77.8 login.facebook.com
-31.13.77.8 m.facebook.com
-31.13.77.8 graph.facebook.com
-31.13.77.8 ssl.facebook.com
-31.13.77.8 api.facebook.com
-31.13.77.8 attachments.facebook.com
-31.13.77.8 developers.facebook.com
-184.28.188.154  s-static.ak.facebook.com
-184.28.188.154  profile.ak.facebook.com
-184.28.188.154 static.ak.facebook.com
-184.28.188.154 b.static.ak.facebook.com
-184.28.188.153 act.channel.facebook.com
-184.28.188.153 0-act.channel.facebook.com
-184.28.188.153 1-act.channel.facebook.com
-184.28.188.153 2-act.channel.facebook.com
-184.28.188.153 3-act.channel.facebook.com
-184.28.188.153 4-act.channel.facebook.com
-184.28.188.153 5-act.channel.facebook.com
-184.28.188.153 6-act.channel.facebook.com
-69.171.246.7 beta-chat-01-05-ash3.facebook.com
-173.252.120.6 fbcdn.net
-165.254.42.232 profile.ak.fbcdn.net
-184.28.188.240 vthumb.ak.fbcdn.net
-184.28.188.152 photos-a.ak.fbcdn.net
-184.28.188.154 photos-b.ak.fbcdn.net
-184.28.188.171 photos-c.ak.fbcdn.net
-184.28.188.171 photos-d.ak.fbcdn.net
-184.28.188.153 photos-e.ak.fbcdn.net
-184.28.188.153 photos-f.ak.fbcdn.net
-184.28.188.171 photos-g.ak.fbcdn.net
-184.28.188.146 photos-h.ak.fbcdn.net
-184.28.188.171 creative.ak.fbcdn.net
-184.28.188.153 external.ak.fbcdn.net
-184.28.188.153 b.static.ak.fbcdn.net
-184.28.188.153 static.ak.fbcdn.net
 @errorpage
 #click
 127.0.0.1 c.duomai.com
