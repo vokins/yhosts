@@ -1,5 +1,5 @@
 
-;version=201604061941
+;version=201604062036
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -2217,6 +2217,8 @@ u5.8ox.cn
 127.0.0.1 vyk.admaster.com.cn
 #zhushou
 127.0.0.1 123.click.kakamobi.cn
+#kuaiya
+127.0.0.1 lottery.kuaiya.cn
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
