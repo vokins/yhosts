@@ -253,3 +253,7 @@
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
 127.0.0.1 lottery.kuaiya.cn
+#jkbd
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn

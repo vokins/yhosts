@@ -521,6 +521,7 @@
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 stuff.cdn.biddingx.com
 127.0.0.1 www.biddingx.com
+127.0.0.1 bdplus.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 sp1.baidu.com
@@ -750,8 +751,6 @@
 127.0.0.1 p.store.qq.com
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
-127.0.0.1 sngmta.qq.com
-127.0.0.1 bufferfly.mqsng.qq.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 res.icast.cn
@@ -1588,6 +1587,7 @@ u5.8ox.cn
 127.0.0.1 vip2.media8.cn
 127.0.0.1 vip5.rwjfs.com
 127.0.0.1 ad.tatatimes.com
+127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
