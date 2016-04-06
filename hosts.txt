@@ -1,13 +1,21 @@
 
-;version=20160406 833
+;version=201604061941
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
 255.255.255.255	broadcasthost
 @redirect
-#github
-192.30.252.129 github.com
-23.235.43.133 raw.githubusercontent.com
+#www.tt1069.com
+127.0.0.1 ad.sitemaji.com
+127.0.0.1 ssl.sitemaji.com
+127.0.0.1 static.awempire.com
+74.63.113.122 tt1069.com
+74.63.113.122 www.tt1069.com
+#uvwxyz.xyz
+45.35.43.168 uvwxyz.xyz
+45.35.43.168 www.uvwxyz.xyz
+45.35.43.168 bbs.uvwxyz.xyz
+45.35.43.170 ipv6.uvwxyz.xyz
 @errorpage
 #click
 127.0.0.1 c.duomai.com
@@ -322,12 +330,6 @@ fe80::1%lo0	localhost
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
 127.0.0.1 media.trafficjunky.net
-#www.tt1069.com
-127.0.0.1 ad.sitemaji.com
-127.0.0.1 ssl.sitemaji.com
-127.0.0.1 static.awempire.com
-74.63.113.122 tt1069.com
-74.63.113.122 www.tt1069.com
 #91porn.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 bcp.crwdcntrl.net
@@ -577,6 +579,7 @@ fe80::1%lo0	localhost
 127.0.0.1 p.clkservice.youdao.com
 127.0.0.1 rlogs.youdao.com
 127.0.0.1 ydpushserver.youdao.com
+127.0.0.1 gorgon.youdao.com
 127.0.0.1 oimageb1.ydstatic.com
 127.0.0.1 oimagea3.ydstatic.com
 127.0.0.1 oimagea8.ydstatic.com
@@ -587,6 +590,7 @@ fe80::1%lo0	localhost
 127.0.0.1 oimagec5.ydstatic.com
 127.0.0.1 oimagec6.ydstatic.com
 127.0.0.1 oimagec7.ydstatic.com
+127.0.0.1 oimageb8.ydstatic.com
 127.0.0.1 163.wrating.com
 #21cn.com
 127.0.0.1 adshows.21cn.com
@@ -846,6 +850,7 @@ fe80::1%lo0	localhost
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
+127.0.0.1 fcanr.tracking.miui.com
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -897,6 +902,8 @@ fe80::1%lo0	localhost
 127.0.0.1 p.store.qq.com
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
+127.0.0.1 sngmta.qq.com
+127.0.0.1 bufferfly.mqsng.qq.com
 #sina.com.cn
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 cast.ra.icast.cn
@@ -1513,11 +1520,6 @@ fe80::1%lo0	localhost
 127.0.0.1 adserve2.tom.com
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 tongji.tom.com
-#uvwxyz.xyz
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
 #www.shuaitong5.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
@@ -1960,6 +1962,8 @@ u5.8ox.cn
 127.0.0.1 cdn.ttkx22n.com
 127.0.0.1 m1.dx1200.com
 127.0.0.1 vip2.media8.cn
+127.0.0.1 vip5.rwjfs.com
+127.0.0.1 ad.tatatimes.com
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
