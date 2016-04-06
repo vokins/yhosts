@@ -29,3 +29,5 @@ k.youku.com
 iface2.iqiyi.com
 cdn.bootcss.com
 hot.browser.miui.com
+record.kuai.xunlei.com
+msg2.client.xunlei.com

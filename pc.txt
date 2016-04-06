@@ -1652,11 +1652,9 @@ fe80::1%lo0	localhost
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pgv.m.xunlei.com
-127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
 127.0.0.1 stat.vod.xunlei.com
-127.0.0.1 msg2.client.xunlei.com
 127.0.0.1 misc.show.xunlei.com
 127.0.0.1 v2.boxpage.niu.xunlei.com
 127.0.0.1 boxcfg.niu.xunlei.com

@@ -1,5 +1,5 @@
 
-;version=201604062229
+;version=20160407 737
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -1654,11 +1654,9 @@ fe80::1%lo0	localhost
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pgv.m.xunlei.com
-127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
 127.0.0.1 stat.vod.xunlei.com
-127.0.0.1 msg2.client.xunlei.com
 127.0.0.1 misc.show.xunlei.com
 127.0.0.1 v2.boxpage.niu.xunlei.com
 127.0.0.1 boxcfg.niu.xunlei.com
@@ -2218,6 +2216,11 @@ u5.8ox.cn
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
 127.0.0.1 lottery.kuaiya.cn
+127.0.0.1 api.dewmobile.net
+127.0.0.1 download.dewmobile.net
+127.0.0.1 downloada.dewmobile.net
+127.0.0.1 downloadb.dewmobile.net
+127.0.0.1 downloadf.dewmobile.net
 #jkbd
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn

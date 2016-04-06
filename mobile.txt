@@ -253,6 +253,11 @@
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
 127.0.0.1 lottery.kuaiya.cn
+127.0.0.1 api.dewmobile.net
+127.0.0.1 download.dewmobile.net
+127.0.0.1 downloada.dewmobile.net
+127.0.0.1 downloadb.dewmobile.net
+127.0.0.1 downloadf.dewmobile.net
 #jkbd
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
