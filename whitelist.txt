@@ -28,3 +28,4 @@ pp.myapp.com
 k.youku.com
 iface2.iqiyi.com
 cdn.bootcss.com
+hot.browser.miui.com
