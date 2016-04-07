@@ -1,5 +1,5 @@
 
-;version=201604071117
+;version=201604071331
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -166,6 +166,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 #gtags.net
+127.0.0.1 cm.gtags.net
 127.0.0.1 cms.gtags.net
 127.0.0.1 uma.gtags.net
 #gosquared.com
@@ -347,6 +348,7 @@ fe80::1%lo0	localhost
 127.0.0.1 vyk.admaster.com.cn
 #alibaba
 127.0.0.1 click.aliyun.com
+127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
@@ -751,6 +753,7 @@ fe80::1%lo0	localhost
 127.0.0.1 api9.tuisong.baidu.com
 #baidu-video
 127.0.0.1 nsclickvideo.baidu.com
+127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 videopush.baidu.com
@@ -904,11 +907,14 @@ fe80::1%lo0	localhost
 127.0.0.1 ra.gtimg.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 wb.gtimg.com
+127.0.0.1 zxpic.gtimg.com
 127.0.0.1 mapp.qzone.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 p.store.qq.com
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
+127.0.0.1 c.3g.qq.com
+127.0.0.1 ping.3g.qq.com
 #sina.com.cn
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 sax.sina.cn
@@ -920,6 +926,7 @@ fe80::1%lo0	localhost
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 d00.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -957,20 +964,16 @@ fe80::1%lo0	localhost
 127.0.0.1 sdk.open.phone.igexin.com
 #sohu.com
 127.0.0.1 ad.mail.sohu.com
-127.0.0.1 corp.sohu.com
-127.0.0.1 images.sohu.com
-127.0.0.1 imp.go.sohu.com
-127.0.0.1 pv.sohu.com
-127.0.0.1 s.go.sohu.com
-127.0.0.1 t.go.sohu.com
-127.0.0.1 txt.go.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
+127.0.0.1 corp.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 his.tv.sohu.com
+127.0.0.1 images.sohu.com
+127.0.0.1 imp.go.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -980,9 +983,14 @@ fe80::1%lo0	localhost
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 pv.hd.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 wl.hd.sohu.com
+127.0.0.1 zz.m.sohu.com
 127.0.0.1 sohu.wrating.com
 127.0.0.1 sohu.irs01.com
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
@@ -1035,6 +1043,15 @@ fe80::1%lo0	localhost
 127.0.0.1 adm2.autoimg.cn
 127.0.0.1 adm3.autoimg.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 dclog.autodsp.com
+127.0.0.1 dclog.cig.com.cn
+127.0.0.1 pc.dc.cig.com.cn
+127.0.0.1 scd.dc.cig.com.cn
+127.0.0.1 dclog.dc.ctags.cn
+127.0.0.1 ev.dc.ctags.cn
+127.0.0.1 ev.dc.ctags.cn    
+127.0.0.1 js.ctags.cn
+127.0.0.1 pc.dc.ctags.cn
 @sites-cn/comic
 #e-hentai.org
 127.0.0.1 adserver.juicyads.com
@@ -1103,8 +1120,10 @@ fe80::1%lo0	localhost
 127.0.0.1 cnfolimedia.qtmojo.com
 #eastmoney.com
 127.0.0.1 cmsjs.eastmoney.com
+127.0.0.1 cp.eastmoney.com
 127.0.0.1 js4.eastmoney.com
 127.0.0.1 same.eastmoney.com
+127.0.0.1 z1.dfcfw.com
 #ftchinese.com
 127.0.0.1 markets.ft.com
 127.0.0.1 dolphin.ftimg.net
@@ -1209,6 +1228,8 @@ fe80::1%lo0	localhost
 #fang.com
 127.0.0.1 js.ub.fang.com
 127.0.0.1 show3.fang.com
+127.0.0.1 countpvn.light.fang.com
+127.0.0.1 uv.wap.fang.com
 127.0.0.1 clickm.soufun.com
 #fdc.com.cn
 127.0.0.1 shows.fdc.com.cn
@@ -1371,6 +1392,10 @@ fe80::1%lo0	localhost
 127.0.0.1 ggw.gusuwang.com
 127.0.0.1 ggw.watertu.com
 127.0.0.1 gg.haianw.com
+#huanqiu.com
+127.0.0.1 sspservice.ad-survey.com
+127.0.0.1 g.usingde.com
+127.0.0.1 pic.usingde.com
 #hangzhou.com.cn
 127.0.0.1 go.hangzhou.com.cn
 #hefei.cc
@@ -1379,6 +1404,7 @@ fe80::1%lo0	localhost
 127.0.0.1 g.hsw.cn
 127.0.0.1 stat.hsw.cn
 #ifeng.com
+127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
@@ -1447,6 +1473,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sc.chinaiiss.com
 #miercn.com
 127.0.0.1 tongji.miercn.com
+127.0.0.1 v.m.miercn.com
 127.0.0.1 w2.ddheli.com
 127.0.0.1 w3.ddheli.com
 #itiexue.net
@@ -1486,6 +1513,7 @@ fe80::1%lo0	localhost
 127.0.0.1 tracklog.58.com
 127.0.0.1 usdtop.58.com
 #ganji.com
+127.0.0.1 analytics.ganji.com
 127.0.0.1 ganjituiguang.ganji.com
 127.0.0.1 sta.ganji.com
 #douban.com

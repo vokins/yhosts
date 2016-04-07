@@ -1,16 +1,4 @@
 @racaljk/hosts
-54.231.192.41 s3-eu-central-1.amazonaws.com
-54.231.132.112 s3-eu-west-1.amazonaws.com
-54.231.253.78 s3-sa-east-1.amazonaws.com
-54.231.237.85 s3-us-west-1.amazonaws.com
-54.231.160.48 s3-us-west-2.amazonaws.com
-177.72.244.68 sa-east-1.console.aws.amazon.com
-204.246.162.198 us-west-1.console.aws.amazon.com
-54.240.250.61 us-west-2.console.aws.amazon.com
-54.231.34.41 github-cloud.s3.amazonaws.com
-54.231.48.40 github-com.s3.amazonaws.com
-207.241.226.190 web.archive.org
-12.129.206.133 enUS.patch.battle.net
 208.111.148.7 llnw.blizzard.com
 121.254.200.133 zhTW.patch.battle.net
 74.112.184.70 app.box.com
@@ -3786,6 +3774,21 @@ yahoo.com
 183.177.81.75 www.flickr.com
 106.10.138.240 www.yahoo.com
 98.138.47.63 y.analytics.yahoo.com
+98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+oo.com
 98.138.253.109 yahoo.com
 77.238.184.150 ying.com
 183.177.81.75 downloadr.flickr.com
