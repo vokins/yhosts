@@ -1,16 +1,4 @@
 @racaljk/hosts
-208.111.148.7 llnw.blizzard.com
-121.254.200.133 zhTW.patch.battle.net
-74.112.184.70 app.box.com
-74.112.184.90 box.com
-74.112.184.85 m.box.com
-104.218.203.34 support.box.com
-74.112.184.85 www.box.com
-74.112.184.80 www.box.net
-23.253.146.21 bundlestars.com
-54.192.232.60 cdn-images.bundlestars.com
-185.12.83.2 support.bundlestars.com
-46.51.216.186 duckduckgo.com
 46.51.216.186 www.duckduckgo.com
 46.51.216.186 ac.duckduckgo.com
 54.251.178.52 icons.duckduckgo.com
@@ -3790,6 +3778,20 @@ yahoo.com
 68.232.44.251 www.w3schools.com
 oo.com
 98.138.253.109 yahoo.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+m
 77.238.184.150 ying.com
 183.177.81.75 downloadr.flickr.com
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
