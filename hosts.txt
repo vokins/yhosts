@@ -1,5 +1,5 @@
 
-;version=201604071035
+;version=201604071117
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -912,6 +912,7 @@ fe80::1%lo0	localhost
 #sina.com.cn
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 sax.sina.cn
+127.0.0.1 slog.sina.cn
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 res.icast.cn
 127.0.0.1 rs.sinajs.cn

@@ -1,4 +1,4 @@
-ver=20:39 2016/4/6/周三
+ver=10:50 2016/4/7/周四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -7,7 +7,7 @@ call :del
 rem call :bat
 call :version
 call :xunlei
-rem call :downgrd
+call :downgrd
 call :lyq
 call :data
 "%~dp0lib\dos2unix.exe" -n 1A.txt hosts.txt
@@ -67,7 +67,7 @@ ipconfig /flushdns
 goto :eof
 
 :downgrd
-rem "%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+"%~dp0lib\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 rem "%~dp0lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 rem 删除前13行注释内容
 "%~dp0lib\sed.exe" -i "1,13d" grd.txt
