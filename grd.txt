@@ -1,16 +1,4 @@
 @racaljk/hosts
-46.51.216.186 www.duckduckgo.com
-46.51.216.186 ac.duckduckgo.com
-54.251.178.52 icons.duckduckgo.com
-54.251.178.52 images.duckduckgo.com
-96.45.83.209 help.duckduckgo.com
-173.252.120.83 fb.me
-173.252.120.83 facebook.com
-173.252.120.83 www.facebook.com
-173.252.120.83 m.facebook.com
-173.252.120.83 mqtt.facebook.com
-173.252.120.83 s-static.ak.facebook.com
-173.252.120.83 profile.ak.facebook.com
 173.252.120.83 static.ak.facebook.com
 173.252.120.83 b.static.ak.facebook.com
 173.252.120.83 graph.facebook.com
@@ -3795,6 +3783,17 @@ m
 77.238.184.150 ying.com
 183.177.81.75 downloadr.flickr.com
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+l.fastly.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com
 23.235.44.133 raw.githubusercontent.com
