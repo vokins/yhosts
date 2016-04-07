@@ -1,16 +1,4 @@
 @racaljk/hosts
-173.252.120.83 static.ak.facebook.com
-173.252.120.83 b.static.ak.facebook.com
-173.252.120.83 graph.facebook.com
-173.252.120.83 ssl.facebook.com
-173.252.120.83 api.facebook.com
-173.252.120.83 secure-profile.facebook.com
-173.252.120.83 secure.facebook.com
-173.252.120.83 zh-cn.facebook.com
-173.252.120.83 login.facebook.com
-173.252.120.83 messages-facebook.com
-173.252.120.83 attachments.facebook.com
-173.252.120.83 touch.facebook.com
 173.252.120.83 apps.facebook.com
 173.252.120.83 upload.facebook.com
 173.252.120.83 developers.facebook.com
@@ -3794,6 +3782,17 @@ m
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
 l.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com
 23.235.44.133 raw.githubusercontent.com
