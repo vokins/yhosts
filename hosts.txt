@@ -1,5 +1,5 @@
 
-;version=201604071500
+;version=201604071923
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -906,7 +906,6 @@ fe80::1%lo0	localhost
 127.0.0.1 w.l.qq.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 ra.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 wb.gtimg.com
