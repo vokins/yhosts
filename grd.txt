@@ -1,28 +1,4 @@
 @racaljk/hosts
-23.63.99.123 fbcdn-vthumb-a.akamaihd.net
-77.67.4.11 fbcdn-sphotos-a-a.akamaihd.net
-77.67.4.64 fbcdn-sphotos-b-a.akamaihd.net
-77.67.4.74 fbcdn-sphotos-c-a.akamaihd.net
-77.67.4.73 fbcdn-sphotos-d-a.akamaihd.net
-77.67.4.74 fbcdn-sphotos-e-a.akamaihd.net
-77.67.4.10 fbcdn-sphotos-f-a.akamaihd.net
-23.63.99.56 fbcdn-sphotos-g-a.akamaihd.net
-23.63.99.88 fbcdn-sphotos-h-a.akamaihd.net
-2.16.162.11 fbcdn-profile-a.akamaihd.net
-72.246.188.82 fbcdn-photos-a.akamaihd.net
-72.246.188.19 fbcdn-photos-e-a.akamaihd.net
-23.205.168.10 fbcdn-sphotos-a.akamaihd.net
-23.63.99.209 fbstatic-a.akamaihd.net
-173.252.120.83 fbcdn.net
-31.13.95.14 video.xx.fbcdn.net
-31.13.66.9 scontent.xx.fbcdn.net
-31.13.66.9 scontent-a.xx.fbcdn.net
-31.13.66.9 scontent-b.xx.fbcdn.net
-31.13.66.9 scontent-c.xx.fbcdn.net
-31.13.66.9 scontent-d.xx.fbcdn.net
-165.254.42.232 profile.ak.fbcdn.net
-173.252.71.184 vpn.tfbnw.net
-184.28.188.240 vthumb.ak.fbcdn.net
 184.28.188.152 photos-a.ak.fbcdn.net
 184.28.188.154 photos-b.ak.fbcdn.net
 184.28.188.171 photos-c.ak.fbcdn.net
@@ -3794,6 +3770,32 @@ avis CI fastly CDN Start
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
 avis CI fastly CDN Start
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+o.com
+77.238.184.150 ying.com
+183.177.81.75 downloadr.flickr.com
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com

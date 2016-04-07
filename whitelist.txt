@@ -31,4 +31,4 @@ cdn.bootcss.com
 hot.browser.miui.com
 record.kuai.xunlei.com
 msg2.client.xunlei.com
-ra.gtimg.com
+cdn.read.html5.qq.com
