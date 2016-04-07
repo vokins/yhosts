@@ -1,16 +1,4 @@
 @racaljk/hosts
-31.13.95.7 scontent-d.xx.fbcdn.net
-31.13.79.224 scontent-e.xx.fbcdn.net
-31.13.86.4 scontent-mxp.xx.fbcdn.net
-23.207.122.24 s-external.ak.fbcdn.net
-23.34.45.177 s-static.ak.fbcdn.net
-173.252.81.7 static.thefacebook.com
-173.252.120.83 attachment.fbsbx.com
-104.78.23.174 connect.facebook.net
-54.225.64.251 beacon.flipboard.com
-54.225.64.251 fbprod.flipboard.com
-104.244.42.1 twitter.com
-104.244.42.1 www.twitter.com
 104.244.42.197 t.co
 104.244.42.2 api.twitter.com
 104.244.42.6 mobile.twitter.com
@@ -3796,6 +3784,17 @@ N Start
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+3.245.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com
 23.235.44.133 raw.githubusercontent.com

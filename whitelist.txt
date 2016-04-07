@@ -32,3 +32,4 @@ hot.browser.miui.com
 record.kuai.xunlei.com
 msg2.client.xunlei.com
 cdn.read.html5.qq.com
+ra.gtimg.com
