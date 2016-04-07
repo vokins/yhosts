@@ -18,8 +18,6 @@ fe80::1%lo0	localhost
 #click
 127.0.0.1 c.duomai.com
 127.0.0.1 p.yiqifa.com
-127.0.0.1 8dcyqu.c.admaster.com.cn
-127.0.0.1 c.admaster.com.cn
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
@@ -338,6 +336,13 @@ fe80::1%lo0	localhost
 127.0.0.1 j.microad.net
 127.0.0.1 cache.send.microadinc.com
 @common-cn-adunion
+#admaster.com.cn
+127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 8dcyqu.c.admaster.com.cn
+127.0.0.1 c.admaster.com.cn
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 vyk.admaster.com.cn
 #alibaba
 127.0.0.1 click.aliyun.com
 127.0.0.1 cnzz.mmstat.com
@@ -403,6 +408,7 @@ fe80::1%lo0	localhost
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 fm.p0y.cn
 127.0.0.1 f1.p0y.cn
+127.0.0.1 f2.p0y.cn
 127.0.0.1 mlt01.com
 127.0.0.1 cm.mlt01.com
 127.0.0.1 dt.tongji.linezing.com
@@ -524,6 +530,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
+127.0.0.1 tyaqy.m.cn.miaozhen.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
@@ -901,14 +908,15 @@ fe80::1%lo0	localhost
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
 #sina.com.cn
-127.0.0.1 rs.sinajs.cn
+127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 sax.sina.cn
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 res.icast.cn
+127.0.0.1 rs.sinajs.cn
 127.0.0.1 track.ra.icast.cn
-127.0.0.1 pfp.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
-127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -919,17 +927,20 @@ fe80::1%lo0	localhost
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
-127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 woocall.sina.com.cn
+127.0.0.1 sina.m.cn.momentad.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn

@@ -214,9 +214,6 @@
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
 127.0.0.1 iqiyi.irs01.com
-127.0.0.1 397c0.admaster.com.cn
-127.0.0.1 viqiyi.admaster.com.cn
-127.0.0.1 tyaqy.m.cn.miaozhen.com
 #letv
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
@@ -247,8 +244,6 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
 #zhushou
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
