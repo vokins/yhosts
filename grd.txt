@@ -1,16 +1,4 @@
 @racaljk/hosts
-173.252.120.83 b-graph.facebook.com
-173.252.120.83 orcart.facebook.com
-173.252.120.83 s-static.facebook.com
-173.252.120.83 vupload.facebook.com
-173.252.120.83 vupload2.vvv.facebook.com
-173.252.120.83 d.facebook.com
-23.63.99.242 fbexternal-a.akamaihd.net
-23.67.255.208 fbcdn-creative-a.akamaihd.net
-23.63.99.186 fbcdn-video-a-a.akamaihd.net
-23.63.99.171 fbcdn-video-b-a.akamaihd.net
-23.63.99.120 fbcdn-video-c-a.akamaihd.net
-23.63.99.144 fbcdn-video-d-a.akamaihd.net
 23.63.99.131 fbcdn-video-e-a.akamaihd.net
 23.63.99.160 fbcdn-video-f-a.akamaihd.net
 23.63.99.171 fbcdn-video-g-a.akamaihd.net
@@ -3794,6 +3782,18 @@ ickr.com
 98.138.253.109 yahoo.com
 77.238.184.150 ying.com
 183.177.81.75 downloadr.flickr.com
+103.245.222.249  travis-ci-org.global.ssl.fastly.net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+avis CI fastly CDN Start
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com

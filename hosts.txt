@@ -1,5 +1,5 @@
 
-;version=201604071454
+;version=201604071500
 #OS
 127.0.0.1 localhost
 fe80::1%lo0	localhost
@@ -566,6 +566,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mimg.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 mr.da.netease.com
+127.0.0.1 pr.da.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
