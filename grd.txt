@@ -1,16 +1,4 @@
 @racaljk/hosts
-173.252.120.83 apps.facebook.com
-173.252.120.83 upload.facebook.com
-173.252.120.83 developers.facebook.com
-173.252.120.83 act.channel.facebook.com
-173.252.120.83 0-act.channel.facebook.com
-173.252.120.83 1-act.channel.facebook.com
-173.252.120.83 2-act.channel.facebook.com
-173.252.120.83 3-act.channel.facebook.com
-173.252.120.83 4-act.channel.facebook.com
-173.252.120.83 5-act.channel.facebook.com
-173.252.120.83 6-act.channel.facebook.com
-173.252.120.83 inyour-slb-01-05-ash3.facebook.com
 173.252.120.83 origincache-starfacebook-ai-01-05-ash3.facebook.com
 173.252.120.83 beta-chat-01-05-ash3.facebook.com
 173.252.120.83 channel-ecmp-05-ash3.facebook.com
@@ -3793,6 +3781,17 @@ l.fastly.net
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
 .net
+192.30.252.141 gist.github.com
+23.235.44.133 assets-cdn.github.com
+23.235.44.133 raw.githubusercontent.com
+23.235.44.133 camo.githubusercontent.com
+23.235.44.133 avatars0.githubusercontent.com
+23.235.44.133 avatars1.githubusercontent.com
+23.235.44.133 avatars2.githubusercontent.com
+23.235.44.133 avatars3.githubusercontent.com
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
+.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 23.235.44.133 assets-cdn.github.com
 23.235.44.133 raw.githubusercontent.com
