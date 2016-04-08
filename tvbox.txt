@@ -18,11 +18,15 @@
 127.0.0.1 log.tv.moliv.cn
 127.0.0.1 track.molitv.cn
 #qqtv
+127.0.0.1 ad.aiseejapp.atianqi.com
+127.0.0.1 bkmdevstat.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 log-oma.play.aiseet.atianqi.com
+127.0.0.1 bkmdevstat.qqlive.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
+127.0.0.1 log.oma.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 news.l.qq.com
@@ -30,9 +34,9 @@
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 qq.irs01.com
 #cibntv
+127.0.0.1 p.l.cp31.ott.cibntv.net
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 static.atm.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
-127.0.0.1 static.atm.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 p.l.cp31.ott.cibntv.net

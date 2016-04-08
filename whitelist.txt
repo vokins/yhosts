@@ -37,3 +37,5 @@ ping.3g.qq.com
 info.3g.qq.com
 infoapp.3g.qq.com
 c.3g.qq.com
+r3.cp31.ott.cibntv.net
+res.mfs.ykimg.com
