@@ -1,8 +1,8 @@
-ver=10:50 2016/4/7/周四
+ver=17:11 2016/4/8/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
-del /f hosts
+del /f hosts grd.txt
 call :del
 rem call :bat
 call :version

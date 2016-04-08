@@ -913,6 +913,9 @@ fe80::1%lo0	localhost
 127.0.0.1 p.store.qq.com
 127.0.0.1 s.isdspeed.qq.com
 127.0.0.1 qq.m.cn.miaozhen.com
+127.0.0.1 vmat.gtimg.com
+127.0.0.1 b.gtimg.com
+127.0.0.1 log.oma.qq.com
 #sina.com.cn
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 sax.sina.cn

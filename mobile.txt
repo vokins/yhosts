@@ -13,6 +13,10 @@
 127.0.0.1 events.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
+#adpro.cn
+127.0.0.1 conversion.adpro.cn
+127.0.0.1 x.adpro.cn
+127.0.0.1 pro.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com

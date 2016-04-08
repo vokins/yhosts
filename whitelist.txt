@@ -34,5 +34,6 @@ msg2.client.xunlei.com
 cdn.read.html5.qq.com
 ra.gtimg.com
 ping.3g.qq.com
+info.3g.qq.com
 infoapp.3g.qq.com
 c.3g.qq.com
