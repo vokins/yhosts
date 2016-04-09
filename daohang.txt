@@ -1,7 +1,0 @@
-#daohang
-127.0.0.1 123.sogou.com
-127.0.0.1 hao.360.cn
-127.0.0.1 hao.qq.com
-127.0.0.1 www.155.com
-127.0.0.1 www.duba.com
-127.0.0.1 www.hao123.com

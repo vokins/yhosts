@@ -15,7 +15,9 @@
 127.0.0.1 track.appsflyer.com
 #adpro.cn
 127.0.0.1 conversion.adpro.cn
+127.0.0.1 m.adpro.cn
 127.0.0.1 x.adpro.cn
+127.0.0.1 mediapro.pro.cn
 127.0.0.1 pro.cn
 #adroll.com
 127.0.0.1 a.adroll.com
@@ -173,6 +175,8 @@
 127.0.0.1 t.adcrops.net
 #ireader
 127.0.0.1 ad.zhangyue.com
+#shuqi
+127.0.0.1 ut2.shuqistat.com
 #jdb
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
