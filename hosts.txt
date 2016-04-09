@@ -1,5 +1,5 @@
 
-;version=201604092010
+;version=201604092308
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -1213,6 +1213,10 @@
 127.0.0.1 a6.hujiang.com
 127.0.0.1 res.a6.hjfile.cn
 @sites-cn/health
+#120ask.com
+127.0.0.1 eclick.120ask.com
+127.0.0.1 x.120ask.com
+127.0.0.1 bdjs.120askimages.com
 #39.net
 127.0.0.1 app-g.39.net
 127.0.0.1 d.39.net
@@ -1270,6 +1274,8 @@
 #weather.com.cn
 127.0.0.1 d1.weather.com.cn
 @sites-cn/it
+#admin5.com
+127.0.0.1 100.admin5.com
 #beareyes.com.cn
 127.0.0.1 yahoo1.beareyes.com.cn
 #chinaso.com
