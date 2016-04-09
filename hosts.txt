@@ -1,5 +1,5 @@
 
-;version=201604091223
+;version=201604091305
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -474,6 +474,7 @@
 #bshare
 127.0.0.1 bx.optimix.asia
 127.0.0.1 bshare.optimix.asia
+127.0.0.1 crystalexpress.optimix.cn
 127.0.0.1 static.bshare.cn
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
@@ -1783,6 +1784,10 @@
 127.0.0.1 ads.data.pplive.com
 #qingting.fm
 127.0.0.1 ad.qingting.fm
+127.0.0.1 admgr.qingting.fm
+127.0.0.1 dload.qd.qingting.fm
+127.0.0.1 logger.qingting.fm
+127.0.0.1 s.qd.qingting.fm
 #tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
