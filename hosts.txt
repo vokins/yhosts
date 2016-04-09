@@ -1,5 +1,5 @@
 
-;version=201604091311
+;version=201604092010
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -386,7 +386,7 @@
 127.0.0.1 tanxlog.istreamsche.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 count.taobao.com
-127.0.0.1 track.uc.cn
+127.0.0.1 asearch.alicdn.com
 #alibaba-cnzz
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
@@ -1063,7 +1063,6 @@
 127.0.0.1 scd.dc.cig.com.cn
 127.0.0.1 dclog.dc.ctags.cn
 127.0.0.1 ev.dc.ctags.cn
-127.0.0.1 ev.dc.ctags.cn    
 127.0.0.1 js.ctags.cn
 127.0.0.1 pc.dc.ctags.cn
 @sites-cn/comic
@@ -2259,10 +2258,10 @@
 127.0.0.1 collect.log.ttpod.com
 127.0.0.1 test.log.ttpod.com
 #uc
-127.0.0.1 app.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 puds.ucweb.com
+127.0.0.1 track.uc.cn
 #iqiyi
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com

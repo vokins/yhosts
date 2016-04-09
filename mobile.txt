@@ -201,10 +201,10 @@
 127.0.0.1 collect.log.ttpod.com
 127.0.0.1 test.log.ttpod.com
 #uc
-127.0.0.1 app.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 puds.ucweb.com
+127.0.0.1 track.uc.cn
 #iqiyi
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com

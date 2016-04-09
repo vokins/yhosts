@@ -293,7 +293,7 @@
 127.0.0.1 tanxlog.istreamsche.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 count.taobao.com
-127.0.0.1 track.uc.cn
+127.0.0.1 asearch.alicdn.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
@@ -889,7 +889,6 @@
 127.0.0.1 scd.dc.cig.com.cn
 127.0.0.1 dclog.dc.ctags.cn
 127.0.0.1 ev.dc.ctags.cn
-127.0.0.1 ev.dc.ctags.cn    
 127.0.0.1 js.ctags.cn
 127.0.0.1 pc.dc.ctags.cn
 127.0.0.1 adserver.juicyads.com
