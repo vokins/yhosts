@@ -173,10 +173,6 @@
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
-#ireader
-127.0.0.1 ad.zhangyue.com
-#shuqi
-127.0.0.1 ut2.shuqistat.com
 #jdb
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -190,68 +186,11 @@
 127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
-#toutiao
-127.0.0.1 app.toutiao.com
-127.0.0.1 s.toutiao.com
-127.0.0.1 log.snssdk.com
-#ttpod
-127.0.0.1 tj.itlily.com
-127.0.0.1 v1.ard.tj.itlily.com
-127.0.0.1 v1.ard.update.itlily.com
-127.0.0.1 collect.log.ttpod.com
-127.0.0.1 test.log.ttpod.com
-#uc
+#uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 puds.ucweb.com
 127.0.0.1 track.uc.cn
-#iqiyi
-127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
-127.0.0.1 api.cupid.iqiyi.com
-127.0.0.1 c.uaa.iqiyi.com
-127.0.0.1 iface.iqiyi.com
-127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 mbdlog.iqiyi.com
-127.0.0.1 msg.iqiyi.com
-127.0.0.1 store.iqiyi.com
-127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 static.g.ppstream.com
-127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 iqiyi.irs01.com
-#letv
-127.0.0.1 n.mark.letv.com
-127.0.0.1 static.app.m.letv.com
-127.0.0.1 msg.m.letv.com
-#youku
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 api.gamex.mobile.youku.com
-127.0.0.1 count.atm.youku.com
-127.0.0.1 dev-push.m.youku.com
-127.0.0.1 dl.g.youku.com
-127.0.0.1 mf.atm.youku.com
-127.0.0.1 mi.atm.youku.com
-127.0.0.1 mo.atm.youku.com
-127.0.0.1 mobilemsg.youku.com
-127.0.0.1 mp.atm.youku.com
-127.0.0.1 mqtt.m.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 passport-log.youku.com
-127.0.0.1 player.lstat.youku.com
-127.0.0.1 push.m.youku.com
-127.0.0.1 rec.api.gamex.mobile.youku.com
-127.0.0.1 sdk.user.gamex.mobile.youku.com
-127.0.0.1 stat.youku.com
-127.0.0.1 test.gamex.mobile.youku.com
-127.0.0.1 test.sdk.gamex.mobile.youku.com
-127.0.0.1 urchin.lstat.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 ad.api.3g.tudou.com
-127.0.0.1 e.stat.ykimg.com
-127.0.0.1 p-log.ykimg.com
 #zhushou
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya

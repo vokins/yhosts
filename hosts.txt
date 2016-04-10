@@ -1,5 +1,5 @@
 
-;version=201604092308
+;version=201604102123
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -123,6 +123,7 @@
 127.0.0.1 mc.yandex.ru
 #yahoo
 127.0.0.1 ads.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
@@ -1035,6 +1036,8 @@
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
+#shuqi
+127.0.0.1 ut2.shuqistat.com
 #m.01bz.xyz
 127.0.0.1 cp.efo.cc
 127.0.0.1 w.efo.cc
@@ -1047,6 +1050,12 @@
 127.0.0.1 ad.fglighting.net
 127.0.0.1 media.zgc66.com
 127.0.0.1 rc.uoyrsd.com
+#ireader
+127.0.0.1 ad.zhangyue.com
+#toutiao
+127.0.0.1 app.toutiao.com
+127.0.0.1 s.toutiao.com
+127.0.0.1 log.snssdk.com
 @sites-cn/car
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
@@ -1798,6 +1807,12 @@
 #tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
+#ttpod.com
+127.0.0.1 tj.itlily.com
+127.0.0.1 v1.ard.tj.itlily.com
+127.0.0.1 v1.ard.update.itlily.com
+127.0.0.1 collect.log.ttpod.com
+127.0.0.1 test.log.ttpod.com
 #uusee.com
 127.0.0.1 uusee.adsame.com
 #v1.cn
@@ -2236,10 +2251,6 @@
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
-#ireader
-127.0.0.1 ad.zhangyue.com
-#shuqi
-127.0.0.1 ut2.shuqistat.com
 #jdb
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -2253,21 +2264,45 @@
 127.0.0.1 www.voiceads.cn
 #systemav
 127.0.0.1 m.madthumbs.com
-#toutiao
-127.0.0.1 app.toutiao.com
-127.0.0.1 s.toutiao.com
-127.0.0.1 log.snssdk.com
-#ttpod
-127.0.0.1 tj.itlily.com
-127.0.0.1 v1.ard.tj.itlily.com
-127.0.0.1 v1.ard.update.itlily.com
-127.0.0.1 collect.log.ttpod.com
-127.0.0.1 test.log.ttpod.com
-#uc
+#uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 puds.ucweb.com
 127.0.0.1 track.uc.cn
+#zhushou
+127.0.0.1 123.click.kakamobi.cn
+#kuaiya
+127.0.0.1 lottery.kuaiya.cn
+127.0.0.1 api.dewmobile.net
+127.0.0.1 download.dewmobile.net
+127.0.0.1 downloada.dewmobile.net
+127.0.0.1 downloadb.dewmobile.net
+127.0.0.1 downloadf.dewmobile.net
+#jkbd
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
+@tvbox
+#aliyun
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+#cibntv
+127.0.0.1 p.l.cp31.ott.cibntv.net
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 static.atm.cp31.ott.cibntv.net
+127.0.0.1 val.atm.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+#gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
 #iqiyi
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
@@ -2289,6 +2324,29 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
+#moli
+127.0.0.1 ad.molitv.cn
+127.0.0.1 log.molitv.cn
+127.0.0.1 log.tv.moliv.cn
+127.0.0.1 track.molitv.cn
+#qqtv
+127.0.0.1 ad.aiseejapp.atianqi.com
+127.0.0.1 bkmdevstat.play.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 log-oma.play.aiseet.atianqi.com
+127.0.0.1 bkmdevstat.qqlive.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 log.oma.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 news.l.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 video.mpush.qq.com
+127.0.0.1 qq.irs01.com
+
+
 #youku
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
@@ -2315,61 +2373,7 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-#zhushou
-127.0.0.1 123.click.kakamobi.cn
-#kuaiya
-127.0.0.1 lottery.kuaiya.cn
-127.0.0.1 api.dewmobile.net
-127.0.0.1 download.dewmobile.net
-127.0.0.1 downloada.dewmobile.net
-127.0.0.1 downloadb.dewmobile.net
-127.0.0.1 downloadf.dewmobile.net
-#jkbd
-127.0.0.1 789.kakamobi.cn
-127.0.0.1 smart.789.kakamobi.cn
-127.0.0.1 smart.789.image.mucang.cn
-@tvbox
-#aliyun
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-#gitv
-127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 mixer.cupid.ptqy.gitv.tv
-127.0.0.1 msg.ptqy.gitv.tv
-127.0.0.1 msg.video.ptqy.gitv.tv
-127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 msga.ptqy.gitv.tv
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 pb.bi.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv
-#moli
-127.0.0.1 ad.molitv.cn
-127.0.0.1 log.molitv.cn
-127.0.0.1 log.tv.moliv.cn
-127.0.0.1 track.molitv.cn
-#qqtv
-127.0.0.1 ad.aiseejapp.atianqi.com
-127.0.0.1 bkmdevstat.play.aiseet.atianqi.com
-127.0.0.1 livep.l.aiseet.atianqi.com
-127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 log-oma.play.aiseet.atianqi.com
-127.0.0.1 bkmdevstat.qqlive.qq.com
-127.0.0.1 livep.l.qq.com
-127.0.0.1 lives.l.qq.com
-127.0.0.1 log.oma.qq.com
-127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 p.l.qq.com
-127.0.0.1 video.mpush.qq.com
-127.0.0.1 qq.irs01.com
-#cibntv
-127.0.0.1 p.l.cp31.ott.cibntv.net
-127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 static.atm.cp31.ott.cibntv.net
-127.0.0.1 val.atm.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
+
 @down
 #baidudown
 127.0.0.1 rj.baidu.com

@@ -2,6 +2,13 @@
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
+#cibntv
+127.0.0.1 p.l.cp31.ott.cibntv.net
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 static.atm.cp31.ott.cibntv.net
+127.0.0.1 val.atm.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
 #gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
@@ -12,6 +19,27 @@
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
+#iqiyi
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 iface.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 store.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 iqiyi.irs01.com
+#letv
+127.0.0.1 n.mark.letv.com
+127.0.0.1 static.app.m.letv.com
+127.0.0.1 msg.m.letv.com
 #moli
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
@@ -33,10 +61,32 @@
 127.0.0.1 p.l.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 qq.irs01.com
-#cibntv
-127.0.0.1 p.l.cp31.ott.cibntv.net
-127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 static.atm.cp31.ott.cibntv.net
-127.0.0.1 val.atm.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
+
+
+#youku
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 dev-push.m.youku.com
+127.0.0.1 dl.g.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 mo.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 mqtt.m.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 passport-log.youku.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 rec.api.gamex.mobile.youku.com
+127.0.0.1 sdk.user.gamex.mobile.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
+

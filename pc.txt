@@ -121,6 +121,7 @@
 127.0.0.1 mc.yandex.ru
 #yahoo
 127.0.0.1 ads.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
@@ -1033,6 +1034,8 @@
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
+#shuqi
+127.0.0.1 ut2.shuqistat.com
 #m.01bz.xyz
 127.0.0.1 cp.efo.cc
 127.0.0.1 w.efo.cc
@@ -1045,6 +1048,12 @@
 127.0.0.1 ad.fglighting.net
 127.0.0.1 media.zgc66.com
 127.0.0.1 rc.uoyrsd.com
+#ireader
+127.0.0.1 ad.zhangyue.com
+#toutiao
+127.0.0.1 app.toutiao.com
+127.0.0.1 s.toutiao.com
+127.0.0.1 log.snssdk.com
 @sites-cn/car
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
@@ -1796,6 +1805,12 @@
 #tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
+#ttpod.com
+127.0.0.1 tj.itlily.com
+127.0.0.1 v1.ard.tj.itlily.com
+127.0.0.1 v1.ard.update.itlily.com
+127.0.0.1 collect.log.ttpod.com
+127.0.0.1 test.log.ttpod.com
 #uusee.com
 127.0.0.1 uusee.adsame.com
 #v1.cn
