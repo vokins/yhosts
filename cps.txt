@@ -30,15 +30,18 @@
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 m.simba.taobao.com
 127.0.0.1 re.m.taobao.com
-127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 sdkinit.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 tns.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
+127.0.0.1 m.simba.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 srd.simba.taobao.com
+127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 tns.simba.taobao.com
 127.0.0.1 s.click.tmall.com
+127.0.0.1 aecpm.alicdn.com
+127.0.0.1 click.aliyun.com
 #yhd
 127.0.0.1 tracker.yhd.com

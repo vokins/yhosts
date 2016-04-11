@@ -1,5 +1,5 @@
 
-;version=201604102123
+;version=20160412 712
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -352,7 +352,6 @@
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 #alibaba
-127.0.0.1 click.aliyun.com
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
@@ -715,10 +714,6 @@
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
 127.0.0.1 toolbar.baidu.com
-#baidu-bdimg
-127.0.0.1 ecma.bdimg.com
-127.0.0.1 ecmb.bdimg.com
-127.0.0.1 su.bdimg.com
 #baidu-browser
 127.0.0.1 j.br.baidu.com
 #baidu-cleaner
@@ -1497,7 +1492,6 @@
 127.0.0.1 adm.xmfish.com
 127.0.0.1 t.adyun.com
 #youth.cn
-127.0.0.1 d.youth.cn
 127.0.0.1 publish.ad.youth.cn
 #yx.js.cn
 127.0.0.1 adsclick.yx.js.cn
