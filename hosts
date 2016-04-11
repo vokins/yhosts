@@ -174,12 +174,9 @@
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 ps.ns-cdn.com
-127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
-
-127.0.0.1 www.clickmngr.com
 127.0.0.1 resources.infolinks.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 ads.dvworld.com.tw
@@ -217,6 +214,7 @@
 127.0.0.1 static.awempire.com
 127.0.0.1 mg.dt07.net
 127.0.0.1 a.kickass.to
+127.0.0.1 www.clickmngr.com
 127.0.0.1 pl4790.puhtml.com
 127.0.0.1 tr.cdnfile.com
 127.0.0.1 s.ato.mx
@@ -696,6 +694,7 @@
 127.0.0.1 m981.oadz.com
 127.0.0.1 2311.oadz.com
 127.0.0.1 m1570.oadz.com
+127.0.0.1 tongji.meizu.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com

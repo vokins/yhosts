@@ -65,6 +65,8 @@
 127.0.0.1 cdn.flurry.com
 127.0.0.1 data.flurry.com
 127.0.0.1 proton.flurry.com
+#heyzap.com
+127.0.0.1 ads.heyzap.com
 #madserving.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 adv.madserving.com
@@ -74,6 +76,9 @@
 127.0.0.1 imp.pdb.madserving.com
 #maysunmedia.com
 127.0.0.1 s.think.cn.maysunmedia.com
+#mdotm.com
+127.0.0.1 ads.mdotm.com
+127.0.0.1 cdn.mdotm.com
 #millennialmedia
 127.0.0.1 ads.nexage.com
 #moogos.com
@@ -119,6 +124,9 @@
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
 127.0.0.1 log.umsns.com
+#tapjoy
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 tapjoy.cn
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
