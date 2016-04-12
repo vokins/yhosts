@@ -42,6 +42,8 @@
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 s.click.tmall.com
 127.0.0.1 aecpm.alicdn.com
+127.0.0.1 asearch.alicdn.com
+127.0.0.1 atanx.alicdn.com
 127.0.0.1 click.aliyun.com
 #yhd
 127.0.0.1 tracker.yhd.com
