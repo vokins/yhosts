@@ -650,6 +650,7 @@
 127.0.0.1 stuff.cdn.biddingx.com
 127.0.0.1 www.biddingx.com
 #baidu
+127.0.0.1 dxp.baidu.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 click.bes.baidu.com
@@ -1047,8 +1048,12 @@
 127.0.0.1 ad.fglighting.net
 127.0.0.1 media.zgc66.com
 127.0.0.1 rc.uoyrsd.com
+#easou
+127.0.0.1 easou.irs01.com
 #ireader
 127.0.0.1 ad.zhangyue.com
+127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
 #toutiao
 127.0.0.1 app.toutiao.com
 127.0.0.1 s.toutiao.com
