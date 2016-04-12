@@ -366,6 +366,7 @@
 127.0.0.1 js.tongji.linezing.com
 127.0.0.1 tongji.linezing.com
 127.0.0.1 atanx.alicdn.com
+127.0.0.1 asearch.alicdn.com
 127.0.0.1 cdn.tanx.com
 127.0.0.1 click.tanx.com
 127.0.0.1 cmc.tanx.com
@@ -380,8 +381,6 @@
 127.0.0.1 material.istreamsche.com
 127.0.0.1 tanxlog.istreamsche.com
 127.0.0.1 init.phpwind.com
-127.0.0.1 count.taobao.com
-127.0.0.1 asearch.alicdn.com
 #alibaba-cnzz
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
