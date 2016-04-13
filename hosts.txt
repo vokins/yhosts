@@ -1,5 +1,5 @@
 
-;version=201604132307
+;version=201604132329
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -742,6 +742,14 @@
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 mtt.str.mdt.qq.com
+127.0.0.1 report.imtt.qq.com
+127.0.0.1 log.imtt.qq.com
+127.0.0.1 cdn.read.html5.qq.com
+127.0.0.1 p.imtt.qq.com
+127.0.0.1 fg.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 rc.imtt.qq.com
 #qq-iframe
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
@@ -755,7 +763,6 @@
 127.0.0.1 l.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
-127.0.0.1 res.imtt.qq.com
 127.0.0.1 s.pcapps.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 stdl.qq.com
@@ -992,6 +999,9 @@
 127.0.0.1 olpv.onlylady.com
 #www.laonanren.com
 127.0.0.1 ac.laonanren.com
+127.0.0.1 bdjs.laonanren.com
+127.0.0.1 jsbd.laonanren.com
+127.0.0.1 sdjs.laonanren.com
 #www.yoka.com
 127.0.0.1 adcount.yoka.com
 127.0.0.1 yokaimedia.qtmojo.com
@@ -2293,7 +2303,6 @@
 #uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
-127.0.0.1 puds.ucweb.com
 127.0.0.1 track.uc.cn
 #zhushou
 127.0.0.1 123.click.kakamobi.cn

@@ -621,6 +621,14 @@
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 mtt.str.mdt.qq.com
+127.0.0.1 report.imtt.qq.com
+127.0.0.1 log.imtt.qq.com
+127.0.0.1 cdn.read.html5.qq.com
+127.0.0.1 p.imtt.qq.com
+127.0.0.1 fg.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 rc.imtt.qq.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.l.qq.com
@@ -632,7 +640,6 @@
 127.0.0.1 l.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 mini2015.qq.com
-127.0.0.1 res.imtt.qq.com
 127.0.0.1 s.pcapps.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 stdl.qq.com
@@ -833,6 +840,9 @@
 127.0.0.1 hats.haibao.cn
 127.0.0.1 olpv.onlylady.com
 127.0.0.1 ac.laonanren.com
+127.0.0.1 bdjs.laonanren.com
+127.0.0.1 jsbd.laonanren.com
+127.0.0.1 sdjs.laonanren.com
 127.0.0.1 adcount.yoka.com
 127.0.0.1 yokaimedia.qtmojo.com
 127.0.0.1 ad.thsi.cn

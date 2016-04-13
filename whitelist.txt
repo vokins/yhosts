@@ -46,6 +46,4 @@ shared.ydstatic.com
 r1.ykimg.com
 count.taobao.com
 d.youth.cn
-ecma.bdimg.com
-ecmb.bdimg.com
-su.bdimg.com
+res.imtt.qq.com
