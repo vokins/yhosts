@@ -219,8 +219,3 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#zhihu
-127.0.0.1 api.leancloud.cn
-127.0.0.1 router.g0.push.leancloud.cn
-127.0.0.1 rtm56.leancloud.cn
-127.0.0.1 sugar.zhihu.com

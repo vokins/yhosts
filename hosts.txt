@@ -1,5 +1,5 @@
 
-;version=201604132250
+;version=201604132303
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -740,6 +740,8 @@
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 mtt.str.mdt.qq.com
 #qq-iframe
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
@@ -2021,6 +2023,7 @@
 127.0.0.1 w.3big.net
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 scimg.27admin.com
+127.0.0.1 static.tv508.com
 @sites-cn/video
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
@@ -2303,11 +2306,6 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#zhihu
-127.0.0.1 api.leancloud.cn
-127.0.0.1 router.g0.push.leancloud.cn
-127.0.0.1 rtm56.leancloud.cn
-127.0.0.1 sugar.zhihu.com
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
