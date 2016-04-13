@@ -132,6 +132,12 @@
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 imgcdn.wapx.cn
+#xiaoyun
+127.0.0.1 client-stats.gclick.cn
+127.0.0.1 community.cms.gclick.cn
+127.0.0.1 g.gclick.cn
+127.0.0.1 gclick.cn
+127.0.0.1 reddot-api.gclick.cn
 #youmi
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
@@ -139,6 +145,7 @@
 127.0.0.1 banner.img.static.youmi.net
 127.0.0.1 r.youmi.net
 127.0.0.1 s.youmi.net
+127.0.0.1 static.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 track.dmp.youmi.net
 #yoyi.com.cn
@@ -212,3 +219,8 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+#zhihu
+127.0.0.1 api.leancloud.cn
+127.0.0.1 router.g0.push.leancloud.cn
+127.0.0.1 rtm56.leancloud.cn
+127.0.0.1 sugar.zhihu.com
