@@ -1,5 +1,5 @@
 
-;version=201604132303
+;version=201604132307
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -2085,6 +2085,8 @@
 127.0.0.1 t.adyun.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 hhqda.pop.t5yx.cn
+127.0.0.1 g.ad8.cc
+127.0.0.1 p.rhgw.net
 @mobile
 #adcolony
 127.0.0.1 androidads23.adcolony.com
