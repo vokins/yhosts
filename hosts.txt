@@ -1,5 +1,5 @@
 
-;version=201604132329
+;version=201604132336
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -2301,9 +2301,11 @@
 #systemav
 127.0.0.1 m.madthumbs.com
 #uc.cn
+127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
+127.0.0.1 safe.ucweb.com
 #zhushou
 127.0.0.1 123.click.kakamobi.cn
 #kuaiya
