@@ -801,7 +801,7 @@
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn
 127.0.0.1 adm3.autoimg.cn
-127.0.0.1 
+127.0.0.1
 127.0.0.1 bglog.bitauto.com
 127.0.0.1 g.bitauto.com
 127.0.0.1 gimg.bitauto.com
@@ -1777,13 +1777,12 @@
 127.0.0.1 p.l.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 qq.irs01.com
-
-
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
+127.0.0.1 adp.atm.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
 127.0.0.1 mo.atm.youku.com
@@ -1804,7 +1803,6 @@
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-
 127.0.0.1 20160401.biz5.sandai.net
 127.0.0.1 20160401.float.sandai.net
 127.0.0.1 20160401.logic.cpm.cm.sandai.net
