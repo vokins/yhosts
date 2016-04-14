@@ -431,7 +431,6 @@
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
-127.0.0.1 static.pay.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 tongji.baidu.com
@@ -467,6 +466,10 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 rigel.baidustatic.com
+127.0.0.1 nj.baichuan.baidu.com
+127.0.0.1 static.pay.baidu.com
+127.0.0.1 img.taotaosou.cn
+127.0.0.1 img01.taotaosou.cn
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
@@ -1361,6 +1364,7 @@
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 cfps.cw.china-netwave.com
 127.0.0.1 pmm.people.com.cn
+127.0.0.1 app.ptleju.com
 127.0.0.1 qianlong.adsame.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 1.up.qingdaonews.com
