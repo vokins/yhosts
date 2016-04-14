@@ -1,5 +1,5 @@
 
-;version=20160414 722
+;version=201604141748
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -744,7 +744,6 @@
 127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 report.imtt.qq.com
 127.0.0.1 log.imtt.qq.com
-127.0.0.1 cdn.read.html5.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 fg.imtt.qq.com
 127.0.0.1 soft.tbs.imtt.qq.com
