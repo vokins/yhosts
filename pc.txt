@@ -543,8 +543,6 @@
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
-#baidu-pan
-127.0.0.1 bcscdn.baidu.com
 #baidu-pos
 127.0.0.1 snippet.pos.baidu.com
 #baidu-share

@@ -48,3 +48,4 @@ count.taobao.com
 d.youth.cn
 res.imtt.qq.com
 puds.ucweb.com
+bcscdn.baidu.com
