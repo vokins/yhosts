@@ -3,6 +3,8 @@
 255.255.255.255	broadcasthost
 ::1             localhost
 @redirect
+#music
+103.27.77.201 music.163.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -93,6 +95,7 @@
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 aax-fe-pek.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 #google
@@ -686,10 +689,11 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 #mi-browser
+127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 mlog.search.xiaomi.net
 #mi-download
 127.0.0.1 sousuo.xm.sjzhushou.com
 #mi-game
@@ -900,12 +904,18 @@
 127.0.0.1 monitor.yigao.com
 127.0.0.1 p.yigao.com
 #yoyi.com.cn
-127.0.0.1 d.yoyi.tv
+127.0.0.1 aim.yoyi.com.cn
+127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 atm.yoyi.com.cn
+127.0.0.1 d.yoyi.com.cn
+127.0.0.1 d.yoyi.tv
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
+127.0.0.1 g.rs.yoyi.com.cn
 127.0.0.1 log2.air.yoyi.com.cn
+127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
+127.0.0.1 www.yoyi.com.cn
 @sites-cn/books
 #aabook.club
 127.0.0.1 ads.exoclick.com
@@ -1393,8 +1403,11 @@
 #www.fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 aw01.pub.funshion.com
-127.0.0.1 pub.funshion.com
 127.0.0.1 jobsfe.funshion.com
+127.0.0.1 po.funshion.com
+127.0.0.1 pub.funshion.com
+127.0.0.1 pv.funshion.com
+127.0.0.1 stat.funshion.net
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
@@ -1994,6 +2007,11 @@
 #simplecd.wang
 127.0.0.1 ad.7simage.com
 127.0.0.1 js.static.tebaidu.cn
+#www.80s.tw
+127.0.0.1 iii.mengmob.com
+127.0.0.1 edc.zzzkxx.com
+127.0.0.1 admin.louxia.org
+127.0.0.1 js.133u.com
 #www.9kkz.com
 127.0.0.1 e4.6dad.com
 #www.aiqiyivip.com
