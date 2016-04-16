@@ -1,5 +1,5 @@
 
-;version=20160416 903
+;version=20160416 943
 #OS
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -2335,6 +2335,13 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+#gqfmys
+127.0.0.1 dc.ie.027ie.com
+127.0.0.1 ic.ie.027ie.com
+127.0.0.1 dd713.bj.bcebos.com
+127.0.0.1 vv84.bj.bcebos.com
+127.0.0.1 t1.jzkapp.com
+127.0.0.1 t2.jzkapp.com
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
