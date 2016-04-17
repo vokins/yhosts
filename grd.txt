@@ -88,7 +88,7 @@
 173.252.81.7 check4.facebook.com
 173.252.81.7 check6.facebook.com
 173.252.81.7 code.facebook.com
-173.252.81.7 connect.facebook.com
+31.13.95.14 connect.facebook.com
 173.252.81.7 edge-chat.facebook.com
 173.252.81.7 pixel.facebook.com
 173.252.81.7 star.c10r.facebook.com
@@ -527,10 +527,11 @@
 220.255.2.153 www.chromium.org
 220.255.2.153 dev.chromium.org
 220.255.2.153 blog.chromium.org
-220.255.2.153 download-chromium.appspot.com
 220.255.2.153 betaspike.appspot.com
-220.255.2.153 m-dot-betaspike.appspot.com
 220.255.2.153 chrome-devtools-frontend.appspot.com
+220.255.2.153 download-chromium.appspot.com
+220.255.2.153 jmoore-dot-android-experiments.appspot.com
+220.255.2.153 m-dot-betaspike.appspot.com
 220.255.2.153 accounts.google.com.gi
 220.255.2.153 accounts.google.co.nz
 220.255.2.153 id.google.co.nz
@@ -553,6 +554,7 @@
 220.255.2.153 www.googlesource.com
 220.255.2.153 android.googlesource.com
 220.255.2.153 cloud.google.com
+220.255.2.153 console.cloud.google.com
 220.255.2.153 developers.google.com
 220.255.2.153 cloudssh.developers.google.com
 220.255.2.153 console.developers.google.com
@@ -2757,6 +2759,8 @@
 220.255.2.153 certificate-transparency.org
 220.255.2.153 www.certificate-transparency.org
 220.255.2.153 abc.xyz
+64.233.191.121 www.androidexperiments.com
+64.233.191.121 androidexperiments.com
 74.125.25.109 gmail-imap.l.google.com
 74.125.25.16 googlemail-imap.l.google.com
 74.125.25.108 gmail-smtp.l.google.com

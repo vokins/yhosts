@@ -25,13 +25,15 @@
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 ckm.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 nlwl.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am

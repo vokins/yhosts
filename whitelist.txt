@@ -1,7 +1,6 @@
 c.yes.youku.com
 m.yes.youku.com
 v.aty.sohu.com
-api.cupid.iqiyi.com
 pubnet.sandai.net
 mapp.qzone.qq.com
 gdown.baidu.com
