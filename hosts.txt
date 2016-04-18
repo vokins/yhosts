@@ -1,7 +1,10 @@
 
-;version=201604172202
+;version=201604181731
 #OS
-127.0.0.1	localhost
+127.0.0.1 localhost
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
 255.255.255.255	broadcasthost
 ::1             localhost
 @redirect
@@ -216,8 +219,9 @@
 127.0.0.1 srv.revdepo.com
 127.0.0.1 tags4.revdepo.com
 #revsci.net
-127.0.0.1 pix04.revsci.net
 127.0.0.1 js.revsci.net
+127.0.0.1 pd7-imp.revsci.net
+127.0.0.1 pix04.revsci.net
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
@@ -756,6 +760,8 @@
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 mtt.str.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 report.imtt.qq.com
 127.0.0.1 log.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
@@ -859,8 +865,12 @@
 127.0.0.1 www.haowj.com.cn
 127.0.0.1 757.adsina.allyes.com
 #sohu-iframe
+127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 imp.go.sohu.com
+127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
@@ -877,10 +887,7 @@
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 count.vrs.sohu.com
-127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
-127.0.0.1 his.tv.sohu.com
-127.0.0.1 imp.go.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -891,14 +898,11 @@
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.sohu.com
-127.0.0.1 s.go.sohu.com
-127.0.0.1 txt.go.sohu.com
-127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 wl.hd.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 sohu.wrating.com
 127.0.0.1 sohu.irs01.com
+127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 mad.stat.v-56.com
@@ -1486,12 +1490,16 @@
 #www.pipi.cn
 127.0.0.1 afm.pipi.cn
 #www.pptv.com
-127.0.0.1 ads.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
+127.0.0.1 m.g.pptv.com
 127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 static.g.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 ppvabs.pplive.com
+127.0.0.1 asimgs.pplive.cn
 #www.tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
@@ -2199,6 +2207,9 @@
 127.0.0.1 proton.flurry.com
 #heyzap.com
 127.0.0.1 ads.heyzap.com
+#leadbolt.com
+127.0.0.1 ad.leadboltads.net
+127.0.0.1 ad.leadboltmobile.net
 #madserving.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 adv.madserving.com
@@ -2350,6 +2361,13 @@
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
+#wps
+127.0.0.1 img1.pcfg.cache.wps.cn
+127.0.0.1 moupdate10332052.wps.cn
+127.0.0.1 pcfg.wps.cn
+127.0.0.1 ms.cmcm.com
+127.0.0.1 o.go2yd.com
+127.0.0.1 1.wps.cn
 @tvbox
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
@@ -2372,6 +2390,8 @@
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
 #iqiyi
+127.0.0.1 m.reachmax.cn
+127.0.0.1 v2.reachmax.cn
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
@@ -2380,6 +2400,7 @@
 127.0.0.1 ckm.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
@@ -2439,6 +2460,8 @@
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 val.atm.youku.com
+127.0.0.1 e.stat.youku.com
+127.0.0.1 wan.youku.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com

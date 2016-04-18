@@ -1,5 +1,8 @@
 #OS
-127.0.0.1	localhost
+127.0.0.1 localhost
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
 255.255.255.255	broadcasthost
 ::1             localhost
 @redirect
@@ -214,8 +217,9 @@
 127.0.0.1 srv.revdepo.com
 127.0.0.1 tags4.revdepo.com
 #revsci.net
-127.0.0.1 pix04.revsci.net
 127.0.0.1 js.revsci.net
+127.0.0.1 pd7-imp.revsci.net
+127.0.0.1 pix04.revsci.net
 #scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
@@ -754,6 +758,8 @@
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 mtt.str.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 report.imtt.qq.com
 127.0.0.1 log.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
@@ -857,8 +863,12 @@
 127.0.0.1 www.haowj.com.cn
 127.0.0.1 757.adsina.allyes.com
 #sohu-iframe
+127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 imp.go.sohu.com
+127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
@@ -875,10 +885,7 @@
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 count.vrs.sohu.com
-127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
-127.0.0.1 his.tv.sohu.com
-127.0.0.1 imp.go.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -889,14 +896,11 @@
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.sohu.com
-127.0.0.1 s.go.sohu.com
-127.0.0.1 txt.go.sohu.com
-127.0.0.1 um.hd.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 wl.hd.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 sohu.wrating.com
 127.0.0.1 sohu.irs01.com
+127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 mad.stat.v-56.com
@@ -1484,12 +1488,16 @@
 #www.pipi.cn
 127.0.0.1 afm.pipi.cn
 #www.pptv.com
-127.0.0.1 ads.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
+127.0.0.1 m.g.pptv.com
 127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 static.g.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 ppvabs.pplive.com
+127.0.0.1 asimgs.pplive.cn
 #www.tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com

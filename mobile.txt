@@ -67,6 +67,9 @@
 127.0.0.1 proton.flurry.com
 #heyzap.com
 127.0.0.1 ads.heyzap.com
+#leadbolt.com
+127.0.0.1 ad.leadboltads.net
+127.0.0.1 ad.leadboltmobile.net
 #madserving.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 adv.madserving.com
@@ -218,3 +221,10 @@
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
+#wps
+127.0.0.1 img1.pcfg.cache.wps.cn
+127.0.0.1 moupdate10332052.wps.cn
+127.0.0.1 pcfg.wps.cn
+127.0.0.1 ms.cmcm.com
+127.0.0.1 o.go2yd.com
+127.0.0.1 1.wps.cn
