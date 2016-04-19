@@ -1,4 +1,4 @@
-ver=11:39 2016/4/18/周一
+ver=20:19 2016/4/19/周二
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -9,8 +9,8 @@ call :version
 call :xunlei
 call :downgrd
 call :lyq
-call :data
-"%~dp0lib\dos2unix.exe" -n 1A.txt hosts.txt
+rem call :data
+rem "%~dp0lib\dos2unix.exe" -n 1A.txt hosts.txt
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
@@ -45,12 +45,12 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :data
-set files=bat.txt Version.txt pc.txt mobile.txt tvbox.txt down.txt errorpage.txt xunlei.txt
+set files=bat.txt Version.txt hosts.txt tvbox.txt down.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
 :lyq
-set files=pc.txt tvbox.txt xunlei.txt
+set files=hosts.txt tvbox.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts)
 "%~dp0lib\sed.exe" -i "/^#/d" hosts
 "%~dp0lib\sed.exe" -i "/^@/d" hosts
@@ -62,7 +62,7 @@ goto :eof
 TAKEOWN /F "%windir%\System32\drivers\etc" /A
 echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f
 rem icacls "%windir%\System32\drivers\etc" /grant "NT AUTHORITY\NetworkService":RX
-copy /y "%~dp0pc.txt" "%windir%\system32\drivers\etc\hosts"
+copy /y "%~dp0hosts.txt" "%windir%\system32\drivers\etc\hosts"
 ipconfig /flushdns
 goto :eof
 

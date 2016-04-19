@@ -15,11 +15,9 @@ hosts文件
 * 路由器平台：http://code.taobao.org/svn/yhosts/hosts
 
 # 各种数据文件的名称及含义:
-1. [pc.txt] (https://raw.githubusercontent.com/vokins/yhosts/master/pc.txt) 针对桌面平台。为基础数据，其他平台数据需配合此数据使用。
-2. [mobile.txt](https://raw.githubusercontent.com/vokins/yhosts/master/mobile.txt) 针对移动平台
-3. [tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt) 针对电视平台
-4. [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 针对手机平台（iOS，Android）。已经合并了1.2两项数据，并使用unix换行符，方便手机用户添加。
-5. [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts) 针对路由器平台。包含tvbox.txt但为了整体兼容性并未包含mobile.txt，并删除所有注释行，方便路由器添加和更新。
+1. [hosts.txt] (https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 基础数据，其他平台数据需配合此数据使用。
+2. [tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt) 针对电视平台
+3. [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts) 针对路由器平台。包含tvbox.txt，并删除所有注释行，方便路由器添加和更新。
 
 # 测试链接1:
 [墓穴迷城 电影网1905](http://www.1905.com/vod/play/969015.shtml)
