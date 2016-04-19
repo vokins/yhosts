@@ -448,7 +448,7 @@
 220.255.2.153 apps.google.com
 220.255.2.153 googlemashups.com
 220.255.2.153 www.googlemashups.com
-64.233.162.87 appengine.google.com
+220.255.2.153 appengine.google.com
 220.255.2.153 uploads.stage.gdata.youtube.com
 220.255.2.153 answers.google.com
 220.255.2.153 wenda.google.com.hk
@@ -529,8 +529,10 @@
 220.255.2.153 blog.chromium.org
 220.255.2.153 betaspike.appspot.com
 220.255.2.153 chrome-devtools-frontend.appspot.com
+220.255.2.153 chrometophone.appspot.com
 220.255.2.153 download-chromium.appspot.com
 220.255.2.153 jmoore-dot-android-experiments.appspot.com
+220.255.2.153 lfe-alpo-gm.appspot.com
 220.255.2.153 m-dot-betaspike.appspot.com
 220.255.2.153 accounts.google.com.gi
 220.255.2.153 accounts.google.co.nz
