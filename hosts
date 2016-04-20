@@ -1111,6 +1111,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.gridsum.com
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 cfg-md.gridsumdissector.com
+127.0.0.1 impression.gridsumdissector.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
