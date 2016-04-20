@@ -19,8 +19,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
 @direct
-#music
-103.27.77.201 music.163.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -1697,6 +1695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 mimg.126.net
+127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
 127.0.0.1 gad.netease.com
