@@ -1,5 +1,5 @@
 @echo off
-ver=20:59 2016/3/29/周二
+ver=14:24 2016/4/20/周三
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -27,7 +27,7 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :downgrd
-"%~dp0lib\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/pc.txt
+"%~dp0lib\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 "%~dp0lib\wget.exe" -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 "%~dp0lib\sed.exe" -i "1,18d" 1.txt
 "%~dp0lib\sed.exe" -i "s/\t/ /g" 1.txt

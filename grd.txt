@@ -1087,6 +1087,7 @@
 220.255.2.153 googlegroups.l.googleusercontent.com
 220.255.2.153 orkut-opensocial.l.googleusercontent.com
 220.255.2.153 photos-ugc.l.googleusercontent.com
+220.255.2.153 static.googleusercontent.com
 220.255.2.153 storage.l.googleusercontent.com
 220.255.2.153 storage-ugc.l.googleusercontent.com
 220.255.2.153 a-fc-opensocial.googleusercontent.com
