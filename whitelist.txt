@@ -51,3 +51,4 @@ tongji.baidu.com
 update.miui.com
 v.aty.sohu.com
 zhushou.360.cn
+news.push.126.net
