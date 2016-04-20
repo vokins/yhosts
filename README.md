@@ -10,8 +10,7 @@ hosts文件
 
 # 特别感谢：
 * ESword bt-soso.com 提供国内http镜像（同步更新）
-* Windows平台：http://code.taobao.org/svn/yhosts/pc.txt
-* Android平台：http://code.taobao.org/svn/yhosts/hosts.txt
+* Windows/Android平台：http://code.taobao.org/svn/yhosts/hosts.txt
 * 路由器平台：http://code.taobao.org/svn/yhosts/hosts
 
 # 各种数据文件的名称及含义:
