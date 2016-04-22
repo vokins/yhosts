@@ -83,43 +83,43 @@ ff02::2 ip6-allrouters
 #systemav
 127.0.0.1 m.madthumbs.com
 @mobile-cnapps
-#QQ浏览器
+#QQ
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-#UC浏览器
+#UC
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 safe.ucweb.com
-#借贷宝
+#jiedaibao
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
-#快牙
+#kuaiya
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
 127.0.0.1 downloada.dewmobile.net
 127.0.0.1 downloadb.dewmobile.net
-#驾考宝典
+#jiakaobaodian
 127.0.0.1 123.click.kakamobi.cn
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#高清免费影视
+#gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
-#中华万年历
+#etouch
 127.0.0.1 cq01-cm-et01.cq01.baidu.com
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 pclog.suishenyun.net
