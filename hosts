@@ -98,7 +98,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 i-1005.b-0.ad.bench.utorrent.com
 127.0.0.1 i-1006.b-0.ad.bench.utorrent.com
@@ -302,6 +301,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 cm.e.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
@@ -404,9 +407,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 sohu.irs01.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 ccc.x.jd.com
-127.0.0.1 x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
 127.0.0.1 v2.jiathis.com
@@ -1479,7 +1482,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.pan.baidu.com
 127.0.0.1 ac.o2.qq.com
-127.0.0.1 c.gdt.qq.com
+
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 l.qq.com
@@ -1495,12 +1498,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 v.gdt.qq.com
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
-127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 lb.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wa.gtimg.com
@@ -1686,6 +1687,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 tp.sphwq.net
 127.0.0.1 img.shentus.com
 127.0.0.1 slb.shentus.com
+127.0.0.1 c.bxb.oupeng.com
+127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 a.bx518.com
 127.0.0.1 download.m.37.com
 127.0.0.1 img.twcczhu.com
@@ -1696,6 +1699,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 rc.andmejs.com
 127.0.0.1 s.123juhd.com
+127.0.0.1 s.yyhebse.com
+127.0.0.1 js2294.anreson.net
+127.0.0.1 www.guanta37w.com
+127.0.0.1 rc.yyhebse.com
+127.0.0.1 a.cj-cy.com
+127.0.0.1 iii.mengmob.com
+127.0.0.1 njs.imagicskin.com
+127.0.0.1 img.95duk.com
 127.0.0.1 vip.jixing8.com
 127.0.0.1 wsx.4ggww.com
 127.0.0.1 i.mengmob.com
@@ -1790,7 +1801,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.static.tebaidu.cn
 127.0.0.1 edc.zzzkxx.com
 127.0.0.1 js.133u.com
-127.0.0.1 iii.mengmob.com
 127.0.0.1 admin.louxia.org
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 e4.6dad.com

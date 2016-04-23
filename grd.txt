@@ -867,6 +867,7 @@
 220.255.2.153 content.googleapis.com
 220.255.2.153 maps.googleapis.com
 220.255.2.153 origin-commondatastorage.googleapis.com
+216.58.221.112 commondatastorage.googleapis.com
 220.255.2.153 play.googleapis.com
 220.255.2.153 plus.googleapis.com
 220.255.2.153 redirector-bigcache.googleapis.com
@@ -3789,5 +3790,6 @@
 183.177.81.75 downloadr.flickr.com
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
+64.233.188.121 www.tensorflow.org
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com
