@@ -355,6 +355,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
@@ -632,6 +633,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
+127.0.0.1 m.reachmax.cn
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com
@@ -1131,6 +1133,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 pgv.m.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
+127.0.0.1 biz4.sandai.net
+127.0.0.1 msg.client.xunlei.com
+127.0.0.1 msg2.client.xunlei.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
@@ -1357,6 +1362,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 mimg.126.net
+127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 gad.netease.com
 127.0.0.1 mr.da.netease.com
@@ -1699,6 +1705,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 rc.andmejs.com
 127.0.0.1 s.123juhd.com
+127.0.0.1 fota4.adups.cn
+127.0.0.1 img.jx.media8.cn
+127.0.0.1 vip.5leji.com
+127.0.0.1 vip.9wjc.com
+127.0.0.1 vip.jixing8.com
+127.0.0.1 s.polkoi.com
+127.0.0.1 t.cnsjx.net
+127.0.0.1 wwwimg.86sjx.com
+127.0.0.1 material.jusha.com
+127.0.0.1 sss.iuyhjn.com
+127.0.0.1 t.nbyongle.com
+127.0.0.1 cp.5jjx.net
 127.0.0.1 s.yyhebse.com
 127.0.0.1 js2294.anreson.net
 127.0.0.1 www.guanta37w.com
@@ -1707,7 +1725,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iii.mengmob.com
 127.0.0.1 njs.imagicskin.com
 127.0.0.1 img.95duk.com
-127.0.0.1 vip.jixing8.com
 127.0.0.1 wsx.4ggww.com
 127.0.0.1 i.mengmob.com
 127.0.0.1 tonglan.nuoke88.cn
@@ -1750,8 +1767,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ji.cnbole.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
-127.0.0.1 material.jusha.com
-127.0.0.1 sss.iuyhjn.com
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 127.0.0.1 ghavcb.520jr.com
@@ -1785,8 +1800,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.qiqiww.com
 127.0.0.1 t.zg71.com
 127.0.0.1 www.cccrir.com
-127.0.0.1 wwwimg.86sjx.com
-127.0.0.1 t.nbyongle.com
 127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 img.revcontent.com
 127.0.0.1 trends.revcontent.com
@@ -1936,6 +1949,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
+127.0.0.1 log1.molitv.cn
+127.0.0.1 log2.molitv.cn
+127.0.0.1 log5.molitv.cn
 127.0.0.1 track.molitv.cn
 127.0.0.1 ad.aiseejapp.atianqi.com
 127.0.0.1 bkmdevstat.play.aiseet.atianqi.com
@@ -1951,6 +1967,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 video.mpush.qq.com
+127.0.0.1 vmat.gtimg.com
+127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 pingmid.qq.com
+127.0.0.1 p.tencentmind.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 conn.poll.aiseet.atianqi.com
+127.0.0.1 mdevstat.conn.aiseet.atianqi.com
+127.0.0.1 mdevstat.play.aiseet.atianqi.com
+127.0.0.1 p.conn.aiseet.atianqi.com
+127.0.0.1 rlog-video.conn.aiseet.atianqi.com
+127.0.0.1 stun.play.aiseet.atianqi.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 m.aty.sohu.com

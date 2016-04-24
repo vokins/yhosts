@@ -423,6 +423,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 #adsame.com
 127.0.0.1 caixin.adsame.com
@@ -766,6 +767,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
+#reachmax.cn
+127.0.0.1 m.reachmax.cn
 #sina-igexin
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
@@ -1406,6 +1409,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 pgv.m.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
+127.0.0.1 biz4.sandai.net
+127.0.0.1 msg.client.xunlei.com
+127.0.0.1 msg2.client.xunlei.com
 #www.le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
@@ -1698,6 +1704,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 mimg.126.net
+127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
 127.0.0.1 gad.netease.com
@@ -2086,6 +2093,19 @@ ff02::2 ip6-allrouters
 #www.bookben.com
 127.0.0.1 rc.andmejs.com
 127.0.0.1 s.123juhd.com
+#www.d8qu.com
+127.0.0.1 fota4.adups.cn
+127.0.0.1 img.jx.media8.cn
+127.0.0.1 vip.5leji.com
+127.0.0.1 vip.9wjc.com
+127.0.0.1 vip.jixing8.com
+127.0.0.1 s.polkoi.com
+127.0.0.1 t.cnsjx.net
+127.0.0.1 wwwimg.86sjx.com
+127.0.0.1 material.jusha.com
+127.0.0.1 sss.iuyhjn.com
+127.0.0.1 t.nbyongle.com
+127.0.0.1 cp.5jjx.net
 #www.dm530.com
 127.0.0.1 s.yyhebse.com
 127.0.0.1 js2294.anreson.net
@@ -2095,7 +2115,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iii.mengmob.com
 127.0.0.1 njs.imagicskin.com
 127.0.0.1 img.95duk.com
-127.0.0.1 vip.jixing8.com
 127.0.0.1 wsx.4ggww.com
 127.0.0.1 i.mengmob.com
 127.0.0.1 tonglan.nuoke88.cn
@@ -2142,8 +2161,6 @@ ff02::2 ip6-allrouters
 #www.shuaitong5.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
-127.0.0.1 material.jusha.com
-127.0.0.1 sss.iuyhjn.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -2185,8 +2202,6 @@ ff02::2 ip6-allrouters
 #icili.me
 127.0.0.1 t.zg71.com
 127.0.0.1 www.cccrir.com
-127.0.0.1 wwwimg.86sjx.com
-127.0.0.1 t.nbyongle.com
 #opensubtitles.org
 127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 img.revcontent.com

@@ -48,6 +48,9 @@
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
+127.0.0.1 log1.molitv.cn
+127.0.0.1 log2.molitv.cn
+127.0.0.1 log5.molitv.cn
 127.0.0.1 track.molitv.cn
 #qqtv
 127.0.0.1 ad.aiseejapp.atianqi.com
@@ -64,6 +67,17 @@
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 video.mpush.qq.com
+127.0.0.1 vmat.gtimg.com
+127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 pingmid.qq.com
+127.0.0.1 p.tencentmind.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 conn.poll.aiseet.atianqi.com
+127.0.0.1 mdevstat.conn.aiseet.atianqi.com
+127.0.0.1 mdevstat.play.aiseet.atianqi.com
+127.0.0.1 p.conn.aiseet.atianqi.com
+127.0.0.1 rlog-video.conn.aiseet.atianqi.com
+127.0.0.1 stun.play.aiseet.atianqi.com
 #sohu-video
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
