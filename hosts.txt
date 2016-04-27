@@ -2331,7 +2331,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
-@web-pops/soft
+#m.piaov.com
+127.0.0.1 s.ukeide.com
+127.0.0.1 rc.ukeide.com
+127.0.0.1 img.yy78ju.com
 @web-pops/video
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
