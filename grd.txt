@@ -642,7 +642,6 @@
 220.255.2.153 v3.cache1.c.docs.google.com
 220.255.2.153 domains.google.com
 220.255.2.153 dl-ssl.google.com
-220.255.2.153 dl.google.com
 220.255.2.153 earth.google.com
 220.255.2.153 auth.keyhole.com
 220.255.2.153 geoauth.google.com
