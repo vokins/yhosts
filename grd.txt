@@ -958,7 +958,6 @@
 220.255.2.153 clients-cctld.l.google.com
 220.255.2.153 csi.l.google.com
 220.255.2.153 desktop.l.google.com
-220.255.2.153 dl.l.google.com
 220.255.2.153 dl-ssl.l.google.com
 220.255.2.153 encrypted-tbn.l.google.com
 220.255.2.153 gadgets.l.google.com
