@@ -2078,6 +2078,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 tp.sphwq.net
 127.0.0.1 img.shentus.com
 127.0.0.1 slb.shentus.com
+#m.shenmaxiaoshuo.com
+127.0.0.1 rc.123juhd.com
+127.0.0.1 cp.5jjx.net
+127.0.0.1 vip.xjidian.com
 #m.lldm.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
@@ -2105,7 +2109,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 material.jusha.com
 127.0.0.1 sss.iuyhjn.com
 127.0.0.1 t.nbyongle.com
-127.0.0.1 cp.5jjx.net
 #www.dm530.com
 127.0.0.1 s.yyhebse.com
 127.0.0.1 js2294.anreson.net
