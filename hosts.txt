@@ -77,13 +77,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 spap.adingo.jp
 127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 adfuri.socdm.com
-127.0.0.1 ads.mydas.mobi
-127.0.0.1 api.w.inmobi.com
 127.0.0.1 cast-bid27-j.adtdp.com
 127.0.0.1 n.amoad.com
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
+#mxplayer
+127.0.0.1 ad6.liverail.com
+127.0.0.1 d.appsdt.com
 #systemav
 127.0.0.1 m.madthumbs.com
 @mobile-cnapps
@@ -784,6 +785,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 proton.flurry.com
 #heyzap.com
 127.0.0.1 ads.heyzap.com
+#inmobi.com
+127.0.0.1 a.ai.inmobi.com
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 dock.inmobi.com
+127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 rules-ltvp.inmobi.com
+127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 i.l.inmobicdn.net
 #leadbolt.com
 127.0.0.1 ad.leadboltads.net
 127.0.0.1 ad.leadboltmobile.net
@@ -803,6 +814,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.mdotm.com
 #millennialmedia
 127.0.0.1 ads.nexage.com
+127.0.0.1 cdn.millennialmedia.com
+127.0.0.1 images.millennialmedia.com
+127.0.0.1 millennialmedia.com
 #moogos.com
 127.0.0.1 api.moogos.com
 127.0.0.1 c3.moogos.com
@@ -811,9 +825,15 @@ ff02::2 ip6-allrouters
 #mopub.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 analytics.mopub.com
+127.0.0.1 www.mopub.com
 #mpush.cn
 127.0.0.1 mpush.cn
 127.0.0.1 td.mpush.cn
+#mydas.mobi
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 ads.mydas.mobi
+127.0.0.1 androidsdk.ads.mp.mydas.mobi
+127.0.0.1 cvt.mydas.mobi
 #jesgoo.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
@@ -1768,12 +1788,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 #163-youdao
-127.0.0.1 codown.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 i.clkservice.youdao.com
+127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 impservice.dict.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
@@ -1783,17 +1803,35 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.clkservice.youdao.com
 127.0.0.1 rlogs.youdao.com
 127.0.0.1 ydpushserver.youdao.com
-127.0.0.1 oimageb1.ydstatic.com
+127.0.0.1 oimagea1.ydstatic.com
+127.0.0.1 oimagea2.ydstatic.com
 127.0.0.1 oimagea3.ydstatic.com
+127.0.0.1 oimagea4.ydstatic.com
+127.0.0.1 oimagea5.ydstatic.com
+127.0.0.1 oimagea6.ydstatic.com
+127.0.0.1 oimagea7.ydstatic.com
 127.0.0.1 oimagea8.ydstatic.com
+127.0.0.1 oimageb1.ydstatic.com
+127.0.0.1 oimageb2.ydstatic.com
 127.0.0.1 oimageb3.ydstatic.com
 127.0.0.1 oimageb5.ydstatic.com
 127.0.0.1 oimageb6.ydstatic.com
+127.0.0.1 oimageb7.ydstatic.com
+127.0.0.1 oimageb8.ydstatic.com
+127.0.0.1 oimagec1.ydstatic.com
+127.0.0.1 oimagec2.ydstatic.com
 127.0.0.1 oimagec3.ydstatic.com
+127.0.0.1 oimagec4.ydstatic.com
 127.0.0.1 oimagec5.ydstatic.com
 127.0.0.1 oimagec6.ydstatic.com
 127.0.0.1 oimagec7.ydstatic.com
-127.0.0.1 oimageb8.ydstatic.com
+127.0.0.1 oimagec8.ydstatic.com
+127.0.0.1 nc004x.corp.youdao.com
+127.0.0.1 nc045x.corp.youdao.com
+127.0.0.1 qt002x.corp.youdao.com
+127.0.0.1 tb060x.corp.youdao.com
+127.0.0.1 tb104x.corp.youdao.com
+127.0.0.1 mini.eastday.com
 #360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
