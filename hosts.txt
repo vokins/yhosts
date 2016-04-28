@@ -18,6 +18,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 na2m-pr.licenses.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
+#wondershare.com
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 macplatform.wondershare.com
+127.0.0.1 platform.wondershare.com
 @direct
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
@@ -1190,7 +1194,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adshow.58.com
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
-127.0.0.1 jump.luna.58.com
 127.0.0.1 luna.58.com
 127.0.0.1 ptracker.58.com
 127.0.0.1 static.track.58.com
