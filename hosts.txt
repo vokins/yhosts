@@ -2360,6 +2360,19 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.ukeide.com
 127.0.0.1 rc.ukeide.com
 127.0.0.1 img.yy78ju.com
+#m.xxshipin.com
+127.0.0.1 sc.ukeide.com
+127.0.0.1 img.qj.media8.cn
+127.0.0.1 vip.7huoguo.com
+127.0.0.1 vip2.7huoguo.com
+127.0.0.1 vip3.7huoguo.com
+127.0.0.1 vip6.7huoguo.com
+127.0.0.1 imgcdn.de92.com
+127.0.0.1 526dimg.uunice.com
+127.0.0.1 526d.uunice.com
+127.0.0.1 mvip.zhuba8.com
+127.0.0.1 vip.zhuba8.com
+127.0.0.1 vip.koukou7.com
 @web-pops/video
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
