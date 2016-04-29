@@ -66,6 +66,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad6.liverail.com
 127.0.0.1 d.appsdt.com
 127.0.0.1 m.madthumbs.com
+127.0.0.1 argo.blued.cn
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
@@ -339,6 +340,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
 127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
@@ -539,6 +541,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yokaimedia.qtmojo.com
 127.0.0.1 cc.xtgreat.com
 127.0.0.1 www.xtgreat.com
+127.0.0.1 cm.yigao.com
 127.0.0.1 monitor.yigao.com
 127.0.0.1 p.yigao.com
 127.0.0.1 aim.yoyi.com.cn
@@ -1256,7 +1259,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 stats.tudou.com
@@ -1440,6 +1442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pr.da.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
+127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
@@ -1448,6 +1451,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 impservice.dict.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com
@@ -1519,6 +1523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
+127.0.0.1 release.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
@@ -1530,6 +1535,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api7.tuisong.baidu.com
 127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 api9.tuisong.baidu.com
+127.0.0.1 sa1.tuisong.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 sestat.baidu.com
@@ -1978,6 +1984,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hhqda.pop.t5yx.cn
 127.0.0.1 g.ad8.cc
 127.0.0.1 p.rhgw.net
+127.0.0.1 a.shamla.net
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 p.l.cp31.ott.cibntv.net
@@ -2073,6 +2080,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 val.atm.youku.com
+127.0.0.1 valf.atm.youku.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
