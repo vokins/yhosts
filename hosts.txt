@@ -88,8 +88,6 @@ ff02::2 ip6-allrouters
 #systemav
 127.0.0.1 m.madthumbs.com
 @mobile-cnapps
-#blued
-127.0.0.1 argo.blued.cn
 #qq
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
@@ -274,7 +272,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 pw.cnzz.com
 127.0.0.1 icon.cnzz.com
 127.0.0.1 jssdk.cnzz.com
-
+127.0.0.1 s4.cnzz.com
+127.0.0.1 z11.cnzz.com
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hzs14.cnzz.com
 127.0.0.1 hzs17.cnzz.com
@@ -297,7 +296,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s22.cnzz.com
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s25.cnzz.com
-127.0.0.1 s4.cnzz.com
 127.0.0.1 s5.cnzz.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 s62.cnzz.com
@@ -317,7 +315,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 v6.cnzz.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 z1.cnzz.com
-127.0.0.1 z11.cnzz.com
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
 127.0.0.1 z5.cnzz.com
@@ -1785,7 +1782,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
-127.0.0.1 gad.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com
 127.0.0.1 statis.push.netease.com
@@ -1990,6 +1986,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
+127.0.0.1 rm.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
@@ -2123,6 +2120,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 mp4ba.qucaigg.com
 127.0.0.1 ph.qucaigg.com
 127.0.0.1 px.qucaigg.com
+127.0.0.1 rc.ukeide.com
+127.0.0.1 s.ukeide.com
+127.0.0.1 sc.ukeide.com
 127.0.0.1 c.ns8d.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 cloud.zyiis.net
@@ -2243,6 +2243,7 @@ ff02::2 ip6-allrouters
 #www.shuaitong5.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
+127.0.0.1 ss.zzzkxx.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -2357,11 +2358,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
 #m.piaov.com
-127.0.0.1 s.ukeide.com
-127.0.0.1 rc.ukeide.com
 127.0.0.1 img.yy78ju.com
 #m.xxshipin.com
-127.0.0.1 sc.ukeide.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 vip2.7huoguo.com
@@ -2437,3 +2435,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.ad8.cc
 127.0.0.1 p.rhgw.net
 127.0.0.1 a.shamla.net
+127.0.0.1 muban.dodounion.com
