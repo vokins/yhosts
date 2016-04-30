@@ -113,3 +113,4 @@
 127.0.0.1 wan.youku.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
+127.0.0.1 c.yes.youku.com

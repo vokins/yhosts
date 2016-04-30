@@ -193,9 +193,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adn.atdmt.com
 #criteo.com
+127.0.0.1 dis.cn.criteo.com
 127.0.0.1 dis.criteo.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
+127.0.0.1 widget.criteo.com
+127.0.0.1 static.criteo.net
 #cr-nielsen
 127.0.0.1 s.cr-nielsen.com
 127.0.0.1 t.cr-nielsen.com
@@ -349,6 +352,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 gen.alicdn.com
 127.0.0.1 a.alimama.cn
 127.0.0.1 img.alimama.cn
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 strip.taobaocdn.com
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
@@ -369,9 +376,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jxlog.istreamsche.com
 127.0.0.1 material.istreamsche.com
 127.0.0.1 tanxlog.istreamsche.com
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 afp.adchina.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 match.p4p.1688.com
@@ -437,6 +441,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 imp.optaim.com
 @union-cn
@@ -472,6 +477,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
@@ -525,9 +531,10 @@ ff02::2 ip6-allrouters
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
 #emarbox.com
-127.0.0.1 s.emarbox.com
 127.0.0.1 cm.emarbox.com
+127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
+127.0.0.1 s.emarbox.com
 #fastapi.net
 127.0.0.1 g.fastapi.net
 127.0.0.1 pic.fastapi.net
@@ -616,6 +623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
 127.0.0.1 17173im.qtmojo.com
+127.0.0.1 cm.qtmojo.com
 127.0.0.1 cnfolimedia.qtmojo.com
 127.0.0.1 csdnim.qtmojo.com
 127.0.0.1 lejuim.qtmojo.com
@@ -682,7 +690,9 @@ ff02::2 ip6-allrouters
 #gtags.net
 127.0.0.1 cm.gtags.net
 127.0.0.1 cms.gtags.net
+127.0.0.1 dat.gtags.net
 127.0.0.1 uma.gtags.net
+127.0.0.1 ut.gtags.net
 #histats.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s4.histats.com
@@ -769,6 +779,8 @@ ff02::2 ip6-allrouters
 #agrant
 127.0.0.1 adn.agrantsem.com
 127.0.0.1 adx.agrantsem.com
+127.0.0.1 static.t.agrantsem.com
+127.0.0.1 t4.agrantsem.com
 #cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 stats.cocounion.com
@@ -921,9 +933,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 bigdata.advmob.cn
 #cm-ijinshan
 127.0.0.1 cdnimg.liehu.ijinshan.com
-127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
+127.0.0.1 dl.union.ijinshan.com
 127.0.0.1 js.stat.ijinshan.com
+127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
 #cm-ksmobile
@@ -992,6 +1005,8 @@ ff02::2 ip6-allrouters
 #www.wufafuwu.com
 127.0.0.1 js.admin6.com
 127.0.0.1 code.admin6.com
+127.0.0.1 jump.admin6.com
+127.0.0.1 s1.admin6.com
 #zhangyue.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
@@ -1453,11 +1468,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.fjtv.net
 #www.fun.tv
 127.0.0.1 adm.funshion.com
-127.0.0.1 aw01.pub.funshion.com
-127.0.0.1 jobsfe.funshion.com
-127.0.0.1 po.funshion.com
-127.0.0.1 pub.funshion.com
-127.0.0.1 pv.funshion.com
 127.0.0.1 stat.funshion.net
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
@@ -1969,8 +1979,8 @@ ff02::2 ip6-allrouters
 #sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
-127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
+127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 d3.sina.com.cn
@@ -2329,13 +2339,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 pic.14bobo.com
 #www.zolsky.com
 127.0.0.1 ad.fglighting.net
-127.0.0.1 c1.xcy8.com
 127.0.0.1 img.hmp33.com
 127.0.0.1 img.ygdsp.cn
 127.0.0.1 img.ytlm.cn
 127.0.0.1 js.jtdcg.com
 127.0.0.1 m9.xcdf.cn
 127.0.0.1 media.zgc66.com
+127.0.0.1 c1.xcy8.com
+127.0.0.1 m9.xcy8.com
 127.0.0.1 u.xcy8.com
 127.0.0.1 www.ads8.com
 #www.zxba.cc

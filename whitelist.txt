@@ -6,7 +6,6 @@ avd.qidian.com
 bcscdn.baidu.com
 c-nfa.jd.com
 c.3g.qq.com
-c.yes.youku.com
 cdn.bootcss.com
 cdn.read.html5.qq.com
 cibn.api.3g.cp31.ott.cibntv.net
