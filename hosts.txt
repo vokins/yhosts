@@ -2010,6 +2010,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
+127.0.0.1 u1.img.mobile.sina.cn
 @web-cn/photo
 #www.fengniao.com
 127.0.0.1 pic.fengniao.com
