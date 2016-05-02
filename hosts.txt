@@ -1001,6 +1001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication.exoclick.com
 #book.easou.com
 127.0.0.1 adm.easou.com
+127.0.0.1 assets.easou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 tjlog.ps.easou.com
 #shuqi.com
