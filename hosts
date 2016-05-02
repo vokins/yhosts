@@ -140,6 +140,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.netsoft2012.com
 127.0.0.1 rel.netsoft2012.com
 127.0.0.1 www.uu654.com
+127.0.0.1 adimg.daumcdn.net
+127.0.0.1 analytics.ad.daum.net
+127.0.0.1 display.ad.daum.net
 127.0.0.1 rayfilead.roxcdn.com
 127.0.0.1 addl.easetuner.com
 127.0.0.1 g.s8dj.com
@@ -156,8 +159,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adn.atdmt.com
+127.0.0.1 cat.sh.cn.criteo.com
 127.0.0.1 dis.cn.criteo.com
 127.0.0.1 dis.criteo.com
+127.0.0.1 dis.sh.cn.criteo.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
 127.0.0.1 widget.criteo.com
@@ -1536,6 +1541,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
+127.0.0.1 ad.player.baidu.com
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
