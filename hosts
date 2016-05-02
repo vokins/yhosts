@@ -76,6 +76,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 safe.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 ucsec.ucweb.com
+127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 ucan.25pp.com
+127.0.0.1 ucdb.25pp.com
+127.0.0.1 android-artworks.25pp.com
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 patriot.cs.pp.cn
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
