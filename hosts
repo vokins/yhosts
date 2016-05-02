@@ -1616,6 +1616,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 slog.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 rs.sinajs.cn
@@ -1650,7 +1652,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
-127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
