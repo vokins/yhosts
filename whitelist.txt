@@ -16,6 +16,7 @@ dd.myapp.com
 download.dewmobile.net
 downloadf.dewmobile.net
 g1.dfcfw.com
+gad.netease.com
 game.weixin.qq.com
 gdown.baidu.com
 hot.browser.miui.com
@@ -28,12 +29,16 @@ info.3g.qq.com
 infoapp.3g.qq.com
 k.youku.com
 kad.www.wps.cn
+luna.58.com
 m.shouji.360tpcdn.com
 m.yes.youku.com
 mapp.qzone.qq.com
 mimg.127.net
 mo.m.taobao.com
+msg.youku.com
 msg2.client.xunlei.com
+news.push.126.net
+p.l.youku.com
 ping.3g.qq.com
 pp.myapp.com
 pubnet.sandai.net
@@ -50,7 +55,3 @@ tongji.baidu.com
 update.miui.com
 v.aty.sohu.com
 zhushou.360.cn
-news.push.126.net
-msg.youku.com
-p.l.youku.com
-gad.netease.com
