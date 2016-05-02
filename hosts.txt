@@ -18,6 +18,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 na2m-pr.licenses.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
+#processlasso
+127.0.0.1 www.bitsumactivationserver.com
 #wondershare.com
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
@@ -882,6 +884,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sis.jpush.io
 #reachmax.cn
 127.0.0.1 m.reachmax.cn
+127.0.0.1 cm.reachmax.cn
 #sina-igexin
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
