@@ -187,6 +187,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 addl.easetuner.com
 #tiantiankan123
 127.0.0.1 g.s8dj.com
+#vidown
+127.0.0.1 conf.vidown.cn
+127.0.0.1 gg.vidown.cn
+127.0.0.1 tj.vidown.cn
 #winrar
 127.0.0.1 ad.winrar.com.cn
 #xigua
@@ -285,11 +289,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
-127.0.0.1 w.cnzz.com
+127.0.0.1 ca.cnzz.com
+127.0.0.1 ei.cnzz.com
+127.0.0.1 icon.cnzz.com
+127.0.0.1 jserr.cnzz.com
+127.0.0.1 jssdk.cnzz.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pw.cnzz.com
-127.0.0.1 icon.cnzz.com
-127.0.0.1 jssdk.cnzz.com
+127.0.0.1 w.cnzz.com
+127.0.0.1 s38.cnzz.com
+127.0.0.1 hzs12.cnzz.com
 127.0.0.1 s4.cnzz.com
 127.0.0.1 z11.cnzz.com
 127.0.0.1 hqs7.cnzz.com
@@ -2468,3 +2477,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.rhgw.net
 127.0.0.1 a.shamla.net
 127.0.0.1 muban.dodounion.com
+127.0.0.1 r.14244.com
+127.0.0.1 aa-oo.top06.cn
+127.0.0.1 js.sanlitang.cn
