@@ -55,3 +55,4 @@ tongji.baidu.com
 update.miui.com
 v.aty.sohu.com
 zhushou.360.cn
+d1.weather.com.cn

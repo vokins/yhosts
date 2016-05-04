@@ -106,11 +106,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 puds.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
-127.0.0.1 ucan.25pp.com
-127.0.0.1 ucdb.25pp.com
-127.0.0.1 android-artworks.25pp.com
-127.0.0.1 log.cs.pp.cn
-127.0.0.1 patriot.cs.pp.cn
 #jiedaibao
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -1282,8 +1277,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
-#www.weather.com.cn
-127.0.0.1 d1.weather.com.cn
 @web-cn/it
 #anquan.org
 127.0.0.1 outer.anquan.org
@@ -1933,6 +1926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 #baidu-zhidao
+127.0.0.1 stat.zhidahao.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
 #baidu-soft/91
 127.0.0.1 adsearch.appx.91.com
@@ -2395,6 +2389,11 @@ ff02::2 ip6-allrouters
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 127.0.0.1 www.lx167.com
+#m.7791.com.cn
+127.0.0.1 cpro.7791.com.cn
+127.0.0.1 imgcdn.ynwqls.com
+127.0.0.1 js1940.anreson.net
+127.0.0.1 imgcdn.mazaibang.com
 #m.dianying.fr
 127.0.0.1 w.3big.net
 127.0.0.1 bz.cnjianzhan.net
@@ -2423,7 +2422,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com
 #www.dage123.com
-127.0.0.1 imgcdn.mazaibang.com
 #www.dyfys.com/11tvb.com
 127.0.0.1 banmeng_1725.it760.com
 127.0.0.1 js.cyad.cc

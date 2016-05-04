@@ -81,11 +81,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 puds.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
-127.0.0.1 ucan.25pp.com
-127.0.0.1 ucdb.25pp.com
-127.0.0.1 android-artworks.25pp.com
-127.0.0.1 log.cs.pp.cn
-127.0.0.1 patriot.cs.pp.cn
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
@@ -1045,7 +1040,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
-127.0.0.1 d1.weather.com.cn
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
 127.0.0.1 fp.fraudmetrix.cn
@@ -1574,6 +1568,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
+127.0.0.1 stat.zhidahao.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 anquan.baidu.com
@@ -1968,6 +1963,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 u291014.nr1234.com
 127.0.0.1 g.ousns.net
 127.0.0.1 www.lx167.com
+127.0.0.1 cpro.7791.com.cn
+127.0.0.1 imgcdn.ynwqls.com
+127.0.0.1 js1940.anreson.net
+127.0.0.1 imgcdn.mazaibang.com
 127.0.0.1 w.3big.net
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 scimg.27admin.com
@@ -1989,7 +1988,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip.shuma2.com
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com
-127.0.0.1 imgcdn.mazaibang.com
 127.0.0.1 banmeng_1725.it760.com
 127.0.0.1 js.cyad.cc
 127.0.0.1 www.qdhongyushun.com
