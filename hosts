@@ -81,12 +81,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 puds.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 api.oneyuan.nagezan.net
+127.0.0.1 yiyuan.nagezan.net
+127.0.0.1 epg.tvesou.com
+127.0.0.1 probe.tvesou.com
+127.0.0.1 qepg.tvesou.com
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
+127.0.0.1 www.jiedaibao.com
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
 127.0.0.1 downloada.dewmobile.net
@@ -316,6 +322,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
+127.0.0.1 go.mmstat.com
 127.0.0.1 log.mmstat.com
 127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
@@ -377,6 +384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.l.qq.com
+127.0.0.1 news.l.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
@@ -748,6 +756,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
+127.0.0.1 au.apk.umeng.com
 127.0.0.1 au.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
@@ -1354,6 +1363,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tongji.eastday.com
 127.0.0.1 eastday.acs86.com
 127.0.0.1 ad.toutiao.com
+127.0.0.1 partner.toutiao.com
 127.0.0.1 log.snssdk.com
 127.0.0.1 open.snssdk.com
 127.0.0.1 adshows.21cn.com
