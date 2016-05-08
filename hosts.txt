@@ -1111,6 +1111,8 @@ ff02::2 ip6-allrouters
 #www.yoka.com
 127.0.0.1 adcount.yoka.com
 @web-cn/finance
+#bbs.macd.cn
+127.0.0.1 xc.macd.cn
 #www.10jqka.com.cn
 127.0.0.1 ad.thsi.cn
 127.0.0.1 stat.10jqka.com.cn
@@ -1177,6 +1179,13 @@ ff02::2 ip6-allrouters
 #www.5173.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
+#www.5211game.com
+127.0.0.1 app.5211game.com
+127.0.0.1 go.5211game.com
+127.0.0.1 pic.5211game.com
+127.0.0.1 pt.5211game.com
+127.0.0.1 pv.5211game.com
+127.0.0.1 update.5211game.com
 #www.52pk.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com
@@ -1827,6 +1836,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 #163-youdao
+127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com

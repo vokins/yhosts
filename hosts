@@ -918,6 +918,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jsbd.laonanren.com
 127.0.0.1 sdjs.laonanren.com
 127.0.0.1 adcount.yoka.com
+127.0.0.1 xc.macd.cn
 127.0.0.1 ad.thsi.cn
 127.0.0.1 stat.10jqka.com.cn
 127.0.0.1 2012.8684.com
@@ -968,6 +969,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 adm.265g.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
+127.0.0.1 app.5211game.com
+127.0.0.1 go.5211game.com
+127.0.0.1 pic.5211game.com
+127.0.0.1 pt.5211game.com
+127.0.0.1 pv.5211game.com
+127.0.0.1 update.5211game.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com
 127.0.0.1 adm.86wan.com
@@ -1476,6 +1483,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pr.da.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
+127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
@@ -2049,7 +2057,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 aa-oo.top06.cn
 127.0.0.1 js.sanlitang.cn
 127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
+127.0.0.1 tvupgrade.yunos.com
 127.0.0.1 p.l.cp31.ott.cibntv.net
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
