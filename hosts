@@ -1,9 +1,4 @@
 127.0.0.1 localhost
-::1     localhost
-::1     localhost ip6-localhost ip6-loopback
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-255.255.255.255	broadcasthost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
