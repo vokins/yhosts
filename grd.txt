@@ -3317,7 +3317,7 @@
 103.245.222.249 vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39 click.email.vimeo.com
 198.35.26.96 zh.wikipedia.org
-198.35.26.108 zh.m.wikipedia.org
+198.35.26.97 zh.m.wikipedia.org
 68.232.44.121 www.gravatar.com
 68.232.44.121 0.gravatar.com
 68.232.44.121 1.gravatar.com
