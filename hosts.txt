@@ -2507,10 +2507,124 @@ ff02::2 ip6-allrouters
 127.0.0.1 r.14244.com
 127.0.0.1 aa-oo.top06.cn
 127.0.0.1 js.sanlitang.cn
-@web-for/uploadshub.com
+@web-for/all
+127.0.0.1 a.visualrevenue.com
+127.0.0.1 cdn.viglink.com
+127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 ps.ns-cdn.com
+127.0.0.1 cdn.clicktale.net
+127.0.0.1 cdnssl.clicktale.net
+127.0.0.1 clicktalecdn.sslcs.cdngc.net
+@web-for/pan
+#uploadshub.com
 127.0.0.1 callmd5map.com
 127.0.0.1 clksite.com
 127.0.0.1 eclkmpsa.com
 127.0.0.1 pl139095.puhtml.com
 127.0.0.1 servicegetbook.net
 127.0.0.1 d1635hfcvs8ero.cloudfront.net
+#userscloud.com
+127.0.0.1 d3al52d8cojds7.cloudfront.net
+@sites-all/netstorage
+#depositfiles.com
+127.0.0.1 ads8c.depositfiles.com
+127.0.0.1 api.solvemedia.com
+127.0.0.1 s.adverigo.com
+#uptobox.com
+127.0.0.1 ads.uptobox.com
+127.0.0.1 cdn.adikteev.com
+127.0.0.1 c.ad6media.fr
+127.0.0.1 www.tradeadexchange.com
+127.0.0.1 go.onclasrv.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 go.padstm.com
+#www.masterkreatif.com
+127.0.0.1 resources.infolinks.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#dvworld.com.tw
+127.0.0.1 ads.dvworld.com.tw
+#tehparadox.com
+127.0.0.1 a.komoona.com
+127.0.0.1 cdn.komoona.com
+127.0.0.1 s.komoona.com
+127.0.0.1 stat.komoona.com
+127.0.0.1 ad.turn.com
+#xhamster.com
+127.0.0.1 ads.adsclean.com
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 cs.adxpansion.com
+127.0.0.1 rotator.trafficstars.com
+127.0.0.1 syndication.traffichaus.com
+#www.rlslog.net
+127.0.0.1 jsc.dt07.net
+127.0.0.1 ecpmrocks.com
+127.0.0.1 www.advanpromo.com
+#www.seedpeer.eu
+127.0.0.1 a.rvttrack.com
+127.0.0.1 j.rvttrack.com
+127.0.0.1 sc.rvtlife.com
+127.0.0.1 www.fatremovement.com
+#www.solidfiles.com
+127.0.0.1 js.avstats.com
+127.0.0.1 cdn.engine.trklnks.com
+127.0.0.1 www.appsbodyupdate.com
+#www.tube8.com
+127.0.0.1 ss.phncdn.com
+127.0.0.1 media.trafficjunky.net
+#www.vn-zoom.com
+127.0.0.1 api.adtimaserver.vn
+127.0.0.1 log.adtimaserver.vn
+127.0.0.1 static.adtimaserver.vn
+127.0.0.1 j.microad.net
+127.0.0.1 cache.send.microadinc.com
+@sites-all/adult
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 bcp.crwdcntrl.net
+#www.tt1069.com
+127.0.0.1 ad.sitemaji.com
+127.0.0.1 ssl.sitemaji.com
+127.0.0.1 static.awempire.com
+@sites-all/bit2k
+#bts.ph
+127.0.0.1 mg.dt07.net
+#kat.cr
+127.0.0.1 a.kickass.to
+#rghost.net
+127.0.0.1 www.clickmngr.com
+#torrentreactor.com
+127.0.0.1 pl4790.puhtml.com
+127.0.0.1 tr.cdnfile.com
+#www.mininova.org
+127.0.0.1 s.ato.mx
+@sites-all/image
+#freeimagehosting.net
+127.0.0.1 c.mnet-ad.net
+127.0.0.1 contextual.media.net
+#pixiv
+127.0.0.1 d.pixiv.org
+#photobucket.com
+127.0.0.1 b.photobucket.com
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.heias.com
+127.0.0.1 rc.rlcdn.com
+127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 ha.pro-market.net
+127.0.0.1 select.brealtime.com
+127.0.0.1 www35.glam.com
+127.0.0.1 cdn.engine.4dsply.com
+127.0.0.1 ps.eyeota.net
+127.0.0.1 cdn.cpxinteractive.com
+127.0.0.1 rs.gwallet.com
+127.0.0.1 cdn.mxpnl.com
+127.0.0.1 mixpanel.com
+127.0.0.1 api.mixpanel.com
+@sites-all/tools
+127.0.0.1 staticxx.facebook.com
+127.0.0.1 cdn.segment.com
+74.63.113.122 tt1069.com
+74.63.113.122 www.tt1069.com
