@@ -2626,5 +2626,3 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
-74.63.113.122 tt1069.com
-74.63.113.122 www.tt1069.com
