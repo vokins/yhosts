@@ -1305,6 +1305,12 @@
 127.0.0.1 ana.stg8.com
 127.0.0.1 map.dxpmedia.com
 127.0.0.1 static.flv.uuzuonline.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 themis.ykimg.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 vid.atm.youku.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
 127.0.0.1 ads.service.kugou.com
@@ -1917,6 +1923,9 @@
 127.0.0.1 t.czchaole.com
 127.0.0.1 a.yichum.com
 127.0.0.1 abc.tpd8.com
+127.0.0.1 a.tnlby.com
+127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 i.uzhiv.com
 127.0.0.1 j.mainbx.com
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 js883.anreson.net
@@ -2240,9 +2249,6 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v.l.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com

@@ -1604,6 +1604,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 ana.stg8.com
 127.0.0.1 map.dxpmedia.com
 127.0.0.1 static.flv.uuzuonline.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 themis.ykimg.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 vid.atm.youku.com
 @web-cn/music
 #www.duomi.com
 127.0.0.1 service.ad.duomi.com
@@ -2331,6 +2337,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.czchaole.com
 127.0.0.1 a.yichum.com
 127.0.0.1 abc.tpd8.com
+127.0.0.1 a.tnlby.com
+127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 i.uzhiv.com
 #btlibrary.net
 127.0.0.1 j.mainbx.com
 127.0.0.1 js.jianbaimei.com

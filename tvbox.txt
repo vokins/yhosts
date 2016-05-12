@@ -104,9 +104,6 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v.l.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
