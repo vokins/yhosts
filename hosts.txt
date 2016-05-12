@@ -2393,6 +2393,12 @@ ff02::2 ip6-allrouters
 #www.hdwan.net
 127.0.0.1 e.a907907.com
 127.0.0.1 s1.kutongji.com
+#www.kan84.net
+127.0.0.1 i.qihaoqu.com
+127.0.0.1 t.qihaoqu.com
+127.0.0.1 c.whytoss.com
+127.0.0.1 p.whytoss.com
+127.0.0.1 down.xiazaiyuan.net
 #www.ttmeiju.com
 127.0.0.1 vpie.net
 #www.xlpu.cc
