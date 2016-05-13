@@ -2314,6 +2314,10 @@ ff02::2 ip6-allrouters
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
+#btdigg.ws
+127.0.0.1 a.7baike.com
+127.0.0.1 js.um0592.com
+127.0.0.1 www.um0592.com
 #btkitty.ws
 127.0.0.1 ghavcb.520jr.com
 127.0.0.1 njs.myyage.com
