@@ -1408,7 +1408,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 counter.yesky.com
 127.0.0.1 adsame.tianjimedia.com
 127.0.0.1 counter.tianjimedia.com
-127.0.0.1 image.tianjimedia.com
 127.0.0.1 js.tianjimedia.com
 127.0.0.1 media.tianjimedia.com
 127.0.0.1 more.tianjimedia.com
