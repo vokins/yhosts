@@ -25,6 +25,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
 @direct
+#apkpure.com
+108.163.178.42 m.apkpure.com
+108.163.178.42 a.apkpure.com
+108.163.178.42 download.apkpure.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -51,6 +55,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 #wo.com.cn
+127.0.0.1 sd.kk3g.net
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
@@ -2311,6 +2316,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.22122766.com
 127.0.0.1 s.jhakie.com
 127.0.0.1 a.cj-cy.com
+127.0.0.1 img.cbs99.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -2455,6 +2461,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.78dxc.com
 127.0.0.1 img.yy78ju.com
 127.0.0.1 rc.jhakie.com
+127.0.0.1 rc.bizcn008.com
+127.0.0.1 s.bizcn008.com
 #m.xxshipin.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
