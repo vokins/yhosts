@@ -84,6 +84,10 @@
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 zz.m.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 da.mmarket.com
+127.0.0.1 api.store.sohu.com
+127.0.0.1 download.wan.sohu.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
@@ -113,3 +117,4 @@
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
+127.0.0.1 stat.youku.com

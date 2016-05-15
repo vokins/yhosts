@@ -26,6 +26,7 @@
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
+127.0.0.1 i.click.taobao.com
 127.0.0.1 s.click.tmall.com
 127.0.0.1 click.aliyun.com
 #yhd

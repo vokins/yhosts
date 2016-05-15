@@ -453,6 +453,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+#gentags.net
+127.0.0.1 clk.gentags.net
+127.0.0.1 sit.gentags.net
 #qq-iframe
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
@@ -648,11 +651,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 #oadz.com
-127.0.0.1 m1612.oadz.com
-127.0.0.1 a1662.oadz.com
-127.0.0.1 m981.oadz.com
 127.0.0.1 2311.oadz.com
+127.0.0.1 a1662.oadz.com
+127.0.0.1 a2315.oadz.com
 127.0.0.1 m1570.oadz.com
+127.0.0.1 m1612.oadz.com
+127.0.0.1 m981.oadz.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn

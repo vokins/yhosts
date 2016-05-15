@@ -381,6 +381,8 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 clk.gentags.net
+127.0.0.1 sit.gentags.net
 127.0.0.1 swa.gtimg.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm.l.qq.com
@@ -551,11 +553,12 @@
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
-127.0.0.1 m1612.oadz.com
-127.0.0.1 a1662.oadz.com
-127.0.0.1 m981.oadz.com
 127.0.0.1 2311.oadz.com
+127.0.0.1 a1662.oadz.com
+127.0.0.1 a2315.oadz.com
 127.0.0.1 m1570.oadz.com
+127.0.0.1 m1612.oadz.com
+127.0.0.1 m981.oadz.com
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -2252,6 +2255,10 @@
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 zz.m.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 da.mmarket.com
+127.0.0.1 api.store.sohu.com
+127.0.0.1 download.wan.sohu.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 adp.atm.youku.com
@@ -2280,6 +2287,7 @@
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
+127.0.0.1 stat.youku.com
 127.0.0.1 20160501.biz5.sandai.net
 127.0.0.1 20160501.float.sandai.net
 127.0.0.1 20160501.logic.cpm.cm.sandai.net
