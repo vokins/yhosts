@@ -13,9 +13,6 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
-108.163.178.42 m.apkpure.com
-108.163.178.42 a.apkpure.com
-108.163.178.42 download.apkpure.com
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
@@ -842,6 +839,7 @@
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
+127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
