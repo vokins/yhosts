@@ -536,6 +536,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 qianlong.adsame.com
 127.0.0.1 samba.adsame.com
 127.0.0.1 sammix.adsame.com
+127.0.0.1 techweb.iv.adsame.com
+127.0.0.1 techweb.adsame.com
 127.0.0.1 uusee.adsame.com
 #allyes
 127.0.0.1 1.allyes.com.cn
