@@ -29,5 +29,8 @@
 127.0.0.1 i.click.taobao.com
 127.0.0.1 s.click.tmall.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 agoodm.m.taobao.com
+127.0.0.1 agoodm.wapa.taobao.com
+127.0.0.1 apoll.m.taobao.com
 #yhd
 127.0.0.1 p4p.yhd.com
