@@ -635,6 +635,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 e.ads.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 e.hpg.cn.miaozhen.com
+127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
@@ -650,6 +651,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
+127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
@@ -1544,6 +1546,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 biz5.co.kankan.com
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
+127.0.0.1 pad.stat.kankan.com
 127.0.0.1 pgv.m.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
@@ -1599,6 +1602,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.adinall.com
 #www.wasu.cn
 127.0.0.1 ads.wasu.tv
+127.0.0.1 adsystem.wasu.tv
 127.0.0.1 afp.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
 #www.youku.com
