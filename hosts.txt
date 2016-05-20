@@ -1313,6 +1313,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
 @web-cn/it
+#android.18183.com
+127.0.0.1 eezdx.erc.18183.com
 #anquan.org
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
