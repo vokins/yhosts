@@ -1,4 +1,4 @@
-ver=23:01 2016/5/8/周日
+ver=23:47 2016/5/20/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -50,11 +50,11 @@ for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
 :lyq
-set files=hosts.txt tvbox.txt xunlei.txt
+set files=Version.txt hosts.txt tvbox.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts)
 "%~dp0lib\sed.exe" -i "/^#/d" hosts
 "%~dp0lib\sed.exe" -i "/^@/d" hosts
-"%~dp0lib\sed.exe" -i "1,5d" hosts
+"%~dp0lib\sed.exe" -i "3,7d" hosts
 rem 部分路由器无法添加localhost 故删除此行。"%~dp0lib\sed.exe" -i "1i\127.0.0.1 localhost" hosts
 goto :eof
 

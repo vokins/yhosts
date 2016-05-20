@@ -1,6 +1,6 @@
-255.255.255.255	broadcasthost
+
+;version=201605202349
 127.0.0.1 localhost
-@active
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -15,12 +15,10 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
-@direct
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-@errorpage
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 p.yiqifa.com
@@ -33,7 +31,6 @@
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
-@operators
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sd.kk3g.net
@@ -43,7 +40,6 @@
 127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
-@mobile-apps
 127.0.0.1 ads-banner.1mobile.com
 127.0.0.1 ads.1mobile.com
 127.0.0.1 advertise.1mobile.com
@@ -71,7 +67,6 @@
 127.0.0.1 ad6.liverail.com
 127.0.0.1 d.appsdt.com
 127.0.0.1 m.madthumbs.com
-@mobile-cnapps
 127.0.0.1 tcad.wedolook.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
@@ -118,7 +113,6 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
-@soft
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 i-1005.b-0.ad.bench.utorrent.com
 127.0.0.1 i-1006.b-0.ad.bench.utorrent.com
@@ -163,7 +157,6 @@
 127.0.0.1 adv2.downsave.com
 127.0.0.1 syad.jiehunmishu.com
 127.0.0.1 www.mm.cc
-@union
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
@@ -236,7 +229,6 @@
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
-@union-cn-iframe
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
@@ -417,7 +409,6 @@
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 imp.optaim.com
-@union-cn
 127.0.0.1 icon.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
@@ -605,7 +596,6 @@
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
-@union-for
 127.0.0.1 s7.addthis.com
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
@@ -662,7 +652,6 @@
 127.0.0.1 secure.statcounter.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 stats.wp.com
-@union-mob
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 ad-locus.com
@@ -817,7 +806,6 @@
 127.0.0.1 track.dmp.youmi.net
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
-@union-mob-cm/mi
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
@@ -865,7 +853,6 @@
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
-@web-cn/books
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com
@@ -892,7 +879,6 @@
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
-@web-cn/cars
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
@@ -925,19 +911,16 @@
 127.0.0.1 media.cheshi-img.com
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
-@web-cn/comic
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 js.1688988.com
 127.0.0.1 tz.1688988.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
-@web-cn/edu
 127.0.0.1 stat.eol.cn
 127.0.0.1 pv.img.eol.cn
 127.0.0.1 a6.hujiang.com
 127.0.0.1 res.a6.hjfile.cn
 127.0.0.1 a.jyeoo.com
-@web-cn/fashion
 127.0.0.1 hats.haibao.cn
 127.0.0.1 olpv.onlylady.com
 127.0.0.1 ac.laonanren.com
@@ -945,7 +928,6 @@
 127.0.0.1 jsbd.laonanren.com
 127.0.0.1 sdjs.laonanren.com
 127.0.0.1 adcount.yoka.com
-@web-cn/finance
 127.0.0.1 xc.macd.cn
 127.0.0.1 ad.thsi.cn
 127.0.0.1 stat.10jqka.com.cn
@@ -985,7 +967,6 @@
 127.0.0.1 same03.jrj.com.cn
 127.0.0.1 same.stockstar.com
 127.0.0.1 info.stockstar.com
-@web-cn/game
 127.0.0.1 cvda.17173.com
 127.0.0.1 log1.17173.com
 127.0.0.1 web.17173.com
@@ -1021,7 +1002,6 @@
 127.0.0.1 static.gg.uuu9.com
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
-@web-cn/health
 127.0.0.1 log.120ask.com
 127.0.0.1 eclick.120ask.com
 127.0.0.1 x.120ask.com
@@ -1046,7 +1026,6 @@
 127.0.0.1 adnetpub.yaolan.com
 127.0.0.1 adpub.yaolan.com
 127.0.0.1 adimage.yaolanimage.cn
-@web-cn/home
 127.0.0.1 shows.fdc.com.cn
 127.0.0.1 stat.fdc.net.cn
 127.0.0.1 click.pv.focus.cn
@@ -1064,7 +1043,6 @@
 127.0.0.1 show3.fang.com
 127.0.0.1 uv.wap.fang.com
 127.0.0.1 clickm.soufun.com
-@web-cn/info
 127.0.0.1 adshow.58.com
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
@@ -1087,7 +1065,6 @@
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
-@web-cn/it
 127.0.0.1 eezdx.erc.18183.com
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
@@ -1187,7 +1164,6 @@
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
-@web-cn/media
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
@@ -1359,7 +1335,6 @@
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 vid.atm.youku.com
-@web-cn/music
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
 127.0.0.1 ads.service.kugou.com
@@ -1403,7 +1378,6 @@
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adweb.test.ximalaya.com
 127.0.0.1 adweb.ximalaya.com
-@web-cn/military
 127.0.0.1 analysis.chinaiiss.com
 127.0.0.1 sc.chinaiiss.com
 127.0.0.1 tongji.miercn.com
@@ -1413,7 +1387,6 @@
 127.0.0.1 jph.itiexue.net
 127.0.0.1 log.tiexue.net
 127.0.0.1 newspage.xilu.com
-@web-cn/news
 127.0.0.1 adimg.dayoo.com
 127.0.0.1 dywg.dayoo.com
 127.0.0.1 images.dayoo.com
@@ -1516,7 +1489,6 @@
 127.0.0.1 stat.zbii.com
 127.0.0.1 ggg.zj.com
 127.0.0.1 adsclick.yx.js.cn
-@web-cn/portals
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -1739,14 +1711,12 @@
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 zymo.mps.weibo.com
-@web-cn/photo
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
 127.0.0.1 pro.heiguang.com
 127.0.0.1 util.nphoto.net
 127.0.0.1 a-m-s.poco.cn
-@web-cn/sns
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
@@ -1777,7 +1747,6 @@
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com
 127.0.0.1 adimgs.xici.net
-@web-pops
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 img.88rpg.net
 127.0.0.1 kwcdn.000dn.com
@@ -1864,7 +1833,6 @@
 127.0.0.1 vip.yule8.net
 127.0.0.1 www.jutou5.com
 127.0.0.1 www.tui1999.com
-@web-pops/books
 127.0.0.1 cp.efo.cc
 127.0.0.1 w.efo.cc
 127.0.0.1 daima.jiduan.cc
@@ -1959,7 +1927,6 @@
 127.0.0.1 s.jhakie.com
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com
-@web-pops/down
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 127.0.0.1 a.7baike.com
@@ -2088,7 +2055,6 @@
 127.0.0.1 mvip.zhuba8.com
 127.0.0.1 vip.zhuba8.com
 127.0.0.1 vip.koukou7.com
-@web-pops/video
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
 127.0.0.1 vip.shuma2.com
@@ -2143,7 +2109,6 @@
 127.0.0.1 r.14244.com
 127.0.0.1 aa-oo.top06.cn
 127.0.0.1 js.sanlitang.cn
-@web-for/all
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com
@@ -2152,7 +2117,6 @@
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
-@web-for/pan
 127.0.0.1 callmd5map.com
 127.0.0.1 clksite.com
 127.0.0.1 eclkmpsa.com
@@ -2160,7 +2124,6 @@
 127.0.0.1 servicegetbook.net
 127.0.0.1 d1635hfcvs8ero.cloudfront.net
 127.0.0.1 d3al52d8cojds7.cloudfront.net
-@sites-all/netstorage
 127.0.0.1 ads8c.depositfiles.com
 127.0.0.1 api.solvemedia.com
 127.0.0.1 s.adverigo.com
@@ -2201,20 +2164,17 @@
 127.0.0.1 static.adtimaserver.vn
 127.0.0.1 j.microad.net
 127.0.0.1 cache.send.microadinc.com
-@sites-all/adult
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
 127.0.0.1 static.awempire.com
-@sites-all/bit2k
 127.0.0.1 mg.dt07.net
 127.0.0.1 a.kickass.to
 127.0.0.1 www.clickmngr.com
 127.0.0.1 pl4790.puhtml.com
 127.0.0.1 tr.cdnfile.com
 127.0.0.1 s.ato.mx
-@sites-all/image
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
 127.0.0.1 d.pixiv.org
@@ -2235,10 +2195,8 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 mixpanel.com
 127.0.0.1 api.mixpanel.com
-@sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
-@tvbox
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
