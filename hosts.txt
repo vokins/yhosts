@@ -111,7 +111,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.uc.cn
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
-127.0.0.1 puds.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
 127.0.0.1 ucus.ucweb.com
@@ -1529,8 +1528,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
 127.0.0.1 g.gridsum.com
-127.0.0.1 click.gridsumdissector.com
 127.0.0.1 cfg-md.gridsumdissector.com
+127.0.0.1 cfg-vd.gridsumdissector.com
+127.0.0.1 click.gridsumdissector.com
+127.0.0.1 diag-vd.gridsumdissector.com
+127.0.0.1 geo.gridsumdissector.com
 127.0.0.1 impression.gridsumdissector.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
@@ -1607,6 +1609,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 afp.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 delivery.wasu.cn
+127.0.0.1 miapp.wasu.cn
+127.0.0.1 wxtg.wasu.com
+127.0.0.1 beacon.securestudies.com
+127.0.0.1 delivery.maihehd.com
 #www.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 html.atm.youku.com
@@ -1939,6 +1946,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 znsv.baidu.com
+#baidu/lbs
+127.0.0.1 lbsonline.pushct.baidu.com
+127.0.0.1 statsonline.pushct.baidu.com
 #baidu/music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
@@ -1977,6 +1987,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tongji.zhidao.baidu.com
 #baidu-soft/91
 127.0.0.1 adsearch.appx.91.com
+127.0.0.1 appx.91.com
 #baidu-soft/anquan
 127.0.0.1 anquan.baidu.com
 127.0.0.1 antivirus.baidu.com
