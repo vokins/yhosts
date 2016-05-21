@@ -1,5 +1,5 @@
 
-;version=201605211145
+;version=201605212304
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -46,11 +46,23 @@
 127.0.0.1 log.advertise.1mobile.com
 127.0.0.1 api.share2w.com
 127.0.0.1 1.wps.cn
+127.0.0.1 android-lrcresource.wps.cn
 127.0.0.1 img1.pcfg.cache.wps.cn
 127.0.0.1 minfo.wps.cn
 127.0.0.1 moupdate10332052.wps.cn
 127.0.0.1 pcfg.wps.cn
 127.0.0.1 push.wps.cn
+127.0.0.1 i.ma.social-touch.com
+127.0.0.1 k.ma.social-touch.com
+127.0.0.1 d.ma.social-touch.com
+127.0.0.1 s.ma.social-touch.com
+127.0.0.1 img.ma.social-touch.com
+127.0.0.1 n.ma.social-touch.com
+127.0.0.1 event.ksosoft.com
+127.0.0.1 hoplink.ksosoft.com
+127.0.0.1 dfnews.rdtuijian.com
+127.0.0.1 o.go2yd.com
+127.0.0.1 www.maibanu.com
 127.0.0.1 imp-mdsp.avazutracking.net
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
@@ -74,6 +86,9 @@
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 push.wandoujia.com
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
@@ -660,6 +675,7 @@
 127.0.0.1 admaster.mobi
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
+127.0.0.1 stats.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
 127.0.0.1 conversion.adpro.cn
@@ -1290,6 +1306,7 @@
 127.0.0.1 urltracker.yunfan.com
 127.0.0.1 mtracker.yunfan.com
 127.0.0.1 stat.yunfan.com
+127.0.0.1 app.update.yunfancdn.com
 127.0.0.1 afm.pipi.cn
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
@@ -1309,7 +1326,6 @@
 127.0.0.1 adsystem.wasu.tv
 127.0.0.1 wxtg.wasu.com
 127.0.0.1 afp.wasu.cn
-127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 miapp.wasu.cn
@@ -2236,6 +2252,7 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nlwl.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 static.g.ppstream.com
@@ -2267,9 +2284,10 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
+127.0.0.1 pingmid.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 vmat.gtimg.com
-127.0.0.1 pingmid.qq.com
+127.0.0.1 rlog.video.qq.com
 127.0.0.1 p.tencentmind.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
@@ -2315,6 +2333,8 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 stat.youku.com
+127.0.0.1 s.p.youku.com
+127.0.0.1 hudong.pl.youku.com
 127.0.0.1 20160501.biz5.sandai.net
 127.0.0.1 20160501.float.sandai.net
 127.0.0.1 20160501.logic.cpm.cm.sandai.net

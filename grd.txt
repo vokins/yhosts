@@ -2819,6 +2819,8 @@
 64.233.188.121 chromeexperiments.com
 64.233.188.121 www.chromeexperiments.com
 64.233.188.121 vr.chromeexperiments.com
+64.233.188.121 globe.chromeexperiments.com
+64.233.188.121 workshop.chromeexperiments.com
 64.233.188.121 www.gwtproject.org
 64.233.188.121 www.html5rocks.com
 64.233.188.121 slides.html5rocks.com

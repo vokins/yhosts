@@ -37,6 +37,7 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nlwl.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 static.g.ppstream.com
@@ -71,9 +72,10 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
+127.0.0.1 pingmid.qq.com
 127.0.0.1 video.mpush.qq.com
 127.0.0.1 vmat.gtimg.com
-127.0.0.1 pingmid.qq.com
+127.0.0.1 rlog.video.qq.com
 127.0.0.1 p.tencentmind.com
 #sohu-video
 127.0.0.1 agn.aty.sohu.com
@@ -121,3 +123,5 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 stat.youku.com
+127.0.0.1 s.p.youku.com
+127.0.0.1 hudong.pl.youku.com
