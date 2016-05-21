@@ -1,5 +1,5 @@
 
-;version=20160521 838
+;version=201605211145
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1307,13 +1307,17 @@
 127.0.0.1 ads.adinall.com
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adsystem.wasu.tv
+127.0.0.1 wxtg.wasu.com
 127.0.0.1 afp.wasu.cn
+127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 miapp.wasu.cn
-127.0.0.1 wxtg.wasu.com
 127.0.0.1 beacon.securestudies.com
 127.0.0.1 delivery.maihehd.com
+127.0.0.1 img.chengruide.com
+127.0.0.1 lqbz.junsw.com
+127.0.0.1 www.cooldede.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 static.atm.youku.com
