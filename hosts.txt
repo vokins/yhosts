@@ -2341,6 +2341,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.jhakie.com
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com
+127.0.0.1 s.baiduren08.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
