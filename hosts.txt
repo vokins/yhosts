@@ -2362,6 +2362,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com
 127.0.0.1 s.baiduren08.com
+127.0.0.1 rc.baiduren08.com
+127.0.0.1 s1.keytui.com
+127.0.0.1 a.uzhiv.com
+127.0.0.1 azapp.whroses.com
+127.0.0.1 keydot.net
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
@@ -2508,6 +2513,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rc.jhakie.com
 127.0.0.1 rc.bizcn008.com
 127.0.0.1 s.bizcn008.com
+127.0.0.1 img.52htx.com
 #m.xxshipin.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com

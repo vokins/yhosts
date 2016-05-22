@@ -1,5 +1,5 @@
 
-;version=201605212304
+;version=20160522 810
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1948,6 +1948,11 @@
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com
 127.0.0.1 s.baiduren08.com
+127.0.0.1 rc.baiduren08.com
+127.0.0.1 s1.keytui.com
+127.0.0.1 a.uzhiv.com
+127.0.0.1 azapp.whroses.com
+127.0.0.1 keydot.net
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 127.0.0.1 a.7baike.com
@@ -2065,6 +2070,7 @@
 127.0.0.1 rc.jhakie.com
 127.0.0.1 rc.bizcn008.com
 127.0.0.1 s.bizcn008.com
+127.0.0.1 img.52htx.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 vip2.7huoguo.com
