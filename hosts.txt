@@ -83,6 +83,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 o.go2yd.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 api.zhuashouji.com
+127.0.0.1 m.zhuashouji.com
 127.0.0.1 www.maibanu.com
 #gameloft
 127.0.0.1 imp-mdsp.avazutracking.net
@@ -468,6 +471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 s.m.baidu.com
 #gentags.net
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
@@ -1025,6 +1029,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
+127.0.0.1 resolver.gslb.mi-idc.com
 #miui-browser
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
@@ -2028,6 +2033,7 @@ ff02::2 ip6-allrouters
 #baidu-soft/hao123
 127.0.0.1 update.123juzi.net
 #baidu-soft/pan
+127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 #qq.com
 127.0.0.1 ac.o2.qq.com

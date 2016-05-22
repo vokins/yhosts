@@ -2381,6 +2381,7 @@
 220.255.2.153 s.ytimg.com
 220.255.2.153 manifest.googlevideo.com
 64.233.162.83 onetoday.google.com
+64.233.162.83 notifications.google.com
 220.255.2.153 google.ad
 220.255.2.153 google.ae
 220.255.2.153 google.al

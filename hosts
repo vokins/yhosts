@@ -1,5 +1,5 @@
 
-;version=20160522 810
+;version=201605222059
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -62,6 +62,9 @@
 127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 o.go2yd.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 api.zhuashouji.com
+127.0.0.1 m.zhuashouji.com
 127.0.0.1 www.maibanu.com
 127.0.0.1 imp-mdsp.avazutracking.net
 127.0.0.1 ad.adfurikun.jp
@@ -397,6 +400,7 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 s.m.baidu.com
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 swa.gtimg.com
@@ -858,6 +862,7 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
+127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
@@ -1652,6 +1657,7 @@
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 127.0.0.1 update.123juzi.net
+127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 127.0.0.1 ac.o2.qq.com
 127.0.0.1 jqmt.qq.com
