@@ -1,5 +1,7 @@
 @echo off
-ver=14:24 2016/4/20/周三
+ver=22:38 2016/5/23/周一
+Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo.&Echo 请使用右键“以管理员身份运行”&&Pause >NUL&&Exit)
+Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -41,9 +43,8 @@ goto :eof
 goto :eof
 
 :winhosts
-TAKEOWN /F "%windir%\System32\drivers\etc" /A
-echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f
-rem icacls "%windir%\System32\drivers\etc" /grant "NT AUTHORITY\NetworkService":RX
+TAKEOWN /F %windir%\System32\drivers\etc >nul 2>nul
+echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f >nul 2>nul
 copy /a 2.txt + 1.txt hbhosts.txt
 copy /y "%~dp0hbhosts.txt" "%windir%\system32\drivers\etc\hosts"
 ipconfig /flushdns

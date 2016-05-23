@@ -1,4 +1,4 @@
-ver=23:47 2016/5/20/周五
+ver=22:34 2016/5/23/周一
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -59,8 +59,8 @@ rem 部分路由器无法添加localhost 故删除此行。"%~dp0lib\sed.exe" -i "1i\127.0.0.1 
 goto :eof
 
 :winhosts
-TAKEOWN /F "%windir%\System32\drivers\etc" /A
-echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f
+TAKEOWN /F %windir%\System32\drivers\etc >nul 2>nul
+echo y|CACLS %windir%\system32\drivers\etc/t /C /p everyone:f >nul 2>nul
 rem icacls "%windir%\System32\drivers\etc" /grant "NT AUTHORITY\NetworkService":RX
 copy /y "%~dp0hosts.txt" "%windir%\system32\drivers\etc\hosts"
 ipconfig /flushdns

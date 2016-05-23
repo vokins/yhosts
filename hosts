@@ -1,5 +1,5 @@
 
-;version=201605232039
+;version=201605232239
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -19,6 +19,14 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+127.0.0.1 baidupan.win
+127.0.0.1 d2.showself.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 p.yiqifa.com
@@ -519,11 +527,6 @@
 127.0.0.1 m.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 sohu.irs01.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 ccc.x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
 127.0.0.1 v2.jiathis.com
@@ -1657,10 +1660,13 @@
 127.0.0.1 j.br.baidu.com
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
+127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 update.123juzi.net
 127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 l.qq.com
@@ -1744,6 +1750,12 @@
 127.0.0.1 pro.heiguang.com
 127.0.0.1 util.nphoto.net
 127.0.0.1 a-m-s.poco.cn
+127.0.0.1 ad.egou.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com

@@ -30,6 +30,19 @@ ff02::2 ip6-allrouters
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+@down
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+#fish
+127.0.0.1 baidupan.win
+127.0.0.1 d2.showself.com
 @errorpage
 #click
 127.0.0.1 aos.prf.hn
@@ -609,12 +622,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 sohu.irs01.com
-#jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 ccc.x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 #jiathis.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
@@ -2031,6 +2038,9 @@ ff02::2 ip6-allrouters
 #baidu-soft/cleaner
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
+#baidu-soft/down
+127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
 #baidu-soft/hao123
 127.0.0.1 update.123juzi.net
 #baidu-soft/pan
@@ -2038,6 +2048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.pan.baidu.com
 #qq.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 l.qq.com
@@ -2132,6 +2143,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 util.nphoto.net
 #www.poco.cn
 127.0.0.1 a-m-s.poco.cn
+@web-cn/shopping
+#egou.com
+127.0.0.1 ad.egou.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
