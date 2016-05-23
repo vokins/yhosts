@@ -2373,6 +2373,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.uzhiv.com
 127.0.0.1 azapp.whroses.com
 127.0.0.1 keydot.net
+127.0.0.1 img.21kas.com
 @web-pops/down
 #bt.orzx.im
 127.0.0.1 j.jiawen88.com
