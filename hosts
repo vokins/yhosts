@@ -1,5 +1,5 @@
 
-;version=201605231552
+;version=201605232039
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -25,6 +25,7 @@
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
+127.0.0.1 wap.koudaitong.com
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 mm.dopa.com.cn
 127.0.0.1 pd.dopa.com.cn
