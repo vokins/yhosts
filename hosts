@@ -1,5 +1,5 @@
 
-;version=201605232239
+;version=20160524 011
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -860,6 +860,7 @@
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -1133,6 +1134,7 @@
 127.0.0.1 img.ads.csdn.net
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
+127.0.0.1 img.ynwqls.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
 127.0.0.1 frame.enet.com.cn
@@ -1839,9 +1841,13 @@
 127.0.0.1 rs.qiyou.com
 127.0.0.1 i.00oo00.com
 127.0.0.1 link.00oo00.com
-127.0.0.1 js883.cnbole.net
-127.0.0.1 js436.cnbole.net
+127.0.0.1 ji.cnbole.net
+127.0.0.1 js1116.cnbole.net
+127.0.0.1 js1210.cnbole.net
 127.0.0.1 js2294.cnbole.net
+127.0.0.1 js436.cnbole.net
+127.0.0.1 js883.cnbole.net
+127.0.0.1 js986.cnbole.net
 127.0.0.1 vip.yoyozz.net
 127.0.0.1 www.yoyozz.net
 127.0.0.1 dl.img80.net
@@ -1957,10 +1963,7 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
-127.0.0.1 js986.cnbole.net
-127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1116.anreson.net
-127.0.0.1 ji.cnbole.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
 127.0.0.1 ss.zzzkxx.com

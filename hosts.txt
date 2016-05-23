@@ -1031,6 +1031,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -1401,6 +1402,7 @@ ff02::2 ip6-allrouters
 #www.ctfile.com
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
+127.0.0.1 img.ynwqls.com
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -2248,9 +2250,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 rs.qiyou.com
 127.0.0.1 i.00oo00.com
 127.0.0.1 link.00oo00.com
-127.0.0.1 js883.cnbole.net
-127.0.0.1 js436.cnbole.net
+127.0.0.1 ji.cnbole.net
+127.0.0.1 js1116.cnbole.net
+127.0.0.1 js1210.cnbole.net
 127.0.0.1 js2294.cnbole.net
+127.0.0.1 js436.cnbole.net
+127.0.0.1 js883.cnbole.net
+127.0.0.1 js986.cnbole.net
 127.0.0.1 vip.yoyozz.net
 127.0.0.1 www.yoyozz.net
 127.0.0.1 dl.img80.net
@@ -2378,10 +2384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.mmycl.com
-127.0.0.1 js986.cnbole.net
-127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1116.anreson.net
-127.0.0.1 ji.cnbole.net
 #www.shuaitong5.net
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
