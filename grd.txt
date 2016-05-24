@@ -172,6 +172,15 @@
 173.252.81.7 static.thefacebook.com
 173.252.81.7 attachment.fbsbx.com
 104.78.23.174 connect.facebook.net
+192.0.78.12 live.fb.com
+192.0.78.12 work.fb.com
+192.0.78.12 techprep.fb.com
+192.0.78.12 nonprofits.fb.com
+192.0.78.12 managingbias.fb.com
+192.0.78.12 rightsmanager.fb.com
+192.0.78.12 instantarticles.fb.com
+192.0.66.2 messengerplatform.fb.com
+199.201.64.67 threatexchange.fb.com
 54.225.64.251 beacon.flipboard.com
 54.225.64.251 fbprod.flipboard.com
 104.244.42.1 twitter.com
@@ -750,6 +759,8 @@
 220.255.2.153 plus.google.com.hk
 220.255.2.153 plus.url.google.com
 220.255.2.153 plus.url.google.com.hk
+220.255.2.153 spaces.google.com
+220.255.2.153 vr.google.com
 220.255.2.153 reader.google.com
 220.255.2.153 research.google.com
 220.255.2.153 sb.google.com
@@ -809,6 +820,8 @@
 220.255.2.153 www.registry.google
 220.255.2.153 www.domains.google
 220.255.2.153 registry.google
+220.255.2.153 servicemanagement.clients6.google.com
+220.255.2.153 cloudconsole-pa.clients6.google.com
 220.255.2.153 geo0.ggpht.com
 220.255.2.153 geo1.ggpht.com
 220.255.2.153 geo2.ggpht.com
