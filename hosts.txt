@@ -485,7 +485,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
-127.0.0.1 s.m.baidu.com
 #gentags.net
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
@@ -1982,9 +1981,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 znsv.baidu.com
-#baidu/lbs
-127.0.0.1 lbsonline.pushct.baidu.com
-127.0.0.1 statsonline.pushct.baidu.com
 #baidu/music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com

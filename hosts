@@ -1,5 +1,5 @@
 
-;version=201605241827
+;version=201605241843
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -409,7 +409,6 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
-127.0.0.1 s.m.baidu.com
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 swa.gtimg.com
@@ -1616,8 +1615,6 @@
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 znsv.baidu.com
-127.0.0.1 lbsonline.pushct.baidu.com
-127.0.0.1 statsonline.pushct.baidu.com
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
 127.0.0.1 ttmsg.qianqian.com
