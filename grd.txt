@@ -3449,8 +3449,6 @@
 103.245.222.249  travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 64.233.188.121 www.tensorflow.org
-68.232.44.251 w3schools.com
-68.232.44.251 www.w3schools.com
 104.16.120.127 medium.com
 104.16.120.145 cdn-static-1.medium.com
 104.16.120.145 cdn-images-1.medium.com
