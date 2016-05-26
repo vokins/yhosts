@@ -2564,11 +2564,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip.shuma2.com
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com
-#www.dage123.com
 #www.dyfys.com/11tvb.com
 127.0.0.1 banmeng_1725.it760.com
 127.0.0.1 js.cyad.cc
 127.0.0.1 www.qdhongyushun.com
+#www.etdown.net
+127.0.0.1 cpc.haohaowan8.com
+127.0.0.1 tg.m.37.com
+127.0.0.1 dl.37wan.cn
+127.0.0.1 image.37wan.cn
+127.0.0.1 img.xa9t.com
+127.0.0.1 www.lessplay.com
 #www.id97.com
 127.0.0.1 c.jk2h.com
 127.0.0.1 p.imigame.com
