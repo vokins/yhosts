@@ -104,7 +104,6 @@
 127.0.0.1 dl.g.youku.com
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 e.stat.youku.com
-127.0.0.1 hudong.pl.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 mb.atm.youku.com
 127.0.0.1 mf.atm.youku.com
@@ -123,5 +122,4 @@
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 urchin.lstat.youku.com
-127.0.0.1 v.l.youku.com
 127.0.0.1 wan.youku.com

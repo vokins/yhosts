@@ -1670,6 +1670,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 themis.ykimg.com
+127.0.0.1 hudong.pl.youku.com
+127.0.0.1 v.l.youku.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 @web-cn/music
 #www.duomi.com
