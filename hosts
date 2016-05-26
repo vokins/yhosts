@@ -1,5 +1,5 @@
 
-;version=201605261015
+;version=201605261611
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -98,9 +98,6 @@
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
-127.0.0.1 mtt.eve.mdt.qq.com
-127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 push.wandoujia.com
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn

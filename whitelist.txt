@@ -57,3 +57,6 @@ v.aty.sohu.com
 zhushou.360.cn
 d1.weather.com.cn
 image.tianjimedia.com
+mtt.eve.mdt.qq.com
+oth.str.mdt.qq.com
+oth.eve.mdt.qq.com
