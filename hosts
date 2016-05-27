@@ -1,5 +1,5 @@
 
-;version=20160527 955
+;version=201605271005
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1588,6 +1588,7 @@
 127.0.0.1 api.appjiagu.com
 127.0.0.1 c.appjiagu.com
 127.0.0.1 s.appjiagu.com
+127.0.0.1 top.h.qhimg.com
 127.0.0.1 a.baidu.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com

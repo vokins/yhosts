@@ -1953,6 +1953,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.appjiagu.com
 127.0.0.1 c.appjiagu.com
 127.0.0.1 s.appjiagu.com
+127.0.0.1 top.h.qhimg.com
 #baidu
 127.0.0.1 a.baidu.com
 127.0.0.1 bdplus.baidu.com
