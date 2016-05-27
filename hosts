@@ -1,5 +1,5 @@
 
-;version=201605271434
+;version=201605272222
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -334,16 +334,33 @@
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 163.wrating.com
+127.0.0.1 a.alimama.cn
+127.0.0.1 img.alimama.cn
+127.0.0.1 afptrack.alimama.com
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 ai.m.taobao.com
+127.0.0.1 ai.taobao.com
+127.0.0.1 re.m.taobao.com
+127.0.0.1 show.re.taobao.com
+127.0.0.1 click.mz.simba.taobao.com
+127.0.0.1 fav.simba.taobao.com
+127.0.0.1 m.simba.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 srd.simba.taobao.com
+127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 tns.simba.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 i.click.taobao.com
+127.0.0.1 s.click.taobao.com
+127.0.0.1 s.click.tmall.com
+127.0.0.1 click.aliyun.com
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 gen.alicdn.com
-127.0.0.1 a.alimama.cn
-127.0.0.1 img.alimama.cn
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
@@ -459,6 +476,7 @@
 127.0.0.1 trace.ad7.com
 127.0.0.1 www.ad7.com
 127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
@@ -1481,6 +1499,7 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 games.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
