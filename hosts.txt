@@ -124,6 +124,8 @@ ff02::2 ip6-allrouters
 @mobile-cnapps
 #1kxun.com
 127.0.0.1 tcad.wedolook.com
+#caiyunapp.com
+127.0.0.1 ad.caiyunapp.com
 #mb.qq.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
@@ -546,15 +548,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 msg.cn.miaozhen.com
+127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
-127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 #adsame.com
 127.0.0.1 caixin.adsame.com

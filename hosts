@@ -1,5 +1,5 @@
 
-;version=201605271005
+;version=201605271434
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -92,6 +92,7 @@
 127.0.0.1 d.appsdt.com
 127.0.0.1 m.madthumbs.com
 127.0.0.1 tcad.wedolook.com
+127.0.0.1 ad.caiyunapp.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
@@ -461,15 +462,18 @@
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 msg.cn.miaozhen.com
+127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
+127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
-127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
@@ -2274,7 +2278,6 @@
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
-127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
@@ -2295,6 +2298,15 @@
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
+127.0.0.1 qosp.msg.71.am
+127.0.0.1 notice.iqiyi.com
+127.0.0.1 feedback.iqiyi.com
+127.0.0.1 game.pps.tv
+127.0.0.1 api.msg.pps.tv
+127.0.0.1 a.ckm.iqiyi.com
+127.0.0.1 ad.m.iqiyi.com
+127.0.0.1 data.store.iqiyi.com
+127.0.0.1 mixer.cupid.iqiyi.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
@@ -2318,8 +2330,6 @@
 127.0.0.1 lives.l.qq.com
 127.0.0.1 log.oma.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 pingmid.qq.com
 127.0.0.1 video.mpush.qq.com
