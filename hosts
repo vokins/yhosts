@@ -1,5 +1,5 @@
 
-;version=201605272222
+;version=20160528 900
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2278,6 +2278,7 @@
 127.0.0.1 api.mixpanel.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
+127.0.0.1 panel.adtify.pl
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com

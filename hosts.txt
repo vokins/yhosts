@@ -2776,3 +2776,4 @@ ff02::2 ip6-allrouters
 @sites-all/tools
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 cdn.segment.com
+127.0.0.1 panel.adtify.pl
