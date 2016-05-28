@@ -2442,6 +2442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 js3555.hongtaidichan.net
 127.0.0.1 z.xc0429.com
 127.0.0.1 imgcdn.sxxjdz.com
+127.0.0.1 img1.pszyzxh.org
 127.0.0.1 a.fhxcy.com
 127.0.0.1 a.wlcnd.com
 127.0.0.1 ad.dokrmob.com
