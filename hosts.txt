@@ -418,7 +418,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 ai.m.taobao.com
-127.0.0.1 ai.taobao.com
 127.0.0.1 re.m.taobao.com
 127.0.0.1 show.re.taobao.com
 127.0.0.1 click.mz.simba.taobao.com
@@ -430,7 +429,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.taobao.com
 127.0.0.1 s.click.tmall.com
 127.0.0.1 click.aliyun.com
 #ali-baba
@@ -1912,6 +1910,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 crashlytics.163.com
 127.0.0.1 count.mail.163.com
 127.0.0.1 r.mail.163.com
+127.0.0.1 ir.mail.163.com
+127.0.0.1 irpmt.mail.163.com
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
@@ -1942,17 +1942,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
+127.0.0.1 impservice.mail.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com
 127.0.0.1 m.clkservice.youdao.com
-127.0.0.1 p.clkservice.youdao.com
-127.0.0.1 rlogs.youdao.com
-127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 nc004x.corp.youdao.com
 127.0.0.1 nc045x.corp.youdao.com
+127.0.0.1 p.clkservice.youdao.com
 127.0.0.1 qt002x.corp.youdao.com
+127.0.0.1 rlogs.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
+127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 mini.eastday.com
 #360.cn
 127.0.0.1 ad.dev.360.cn

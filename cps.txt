@@ -11,6 +11,8 @@
 127.0.0.1 st.yixun.com
 127.0.0.1 dmtrack.yixun.com
 #taobao
+127.0.0.1 ai.taobao.com
+127.0.0.1 s.click.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 apoll.m.taobao.com
