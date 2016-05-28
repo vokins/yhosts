@@ -2449,15 +2449,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 ams.51junpin.net
 127.0.0.1 okt.xcyjzs.net
 127.0.0.1 iospage.w0shishui.com
+127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 199.nord-raum.com
+127.0.0.1 js.jianbaimei.com
+127.0.0.1 js883.anreson.net
+127.0.0.1 la.qshxc.com
 #btkitty.ws
 127.0.0.1 ghavcb.520jr.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 www.4wad.com
-127.0.0.1 199.nord-raum.com
 127.0.0.1 pic5.cstoa.com
 127.0.0.1 pic2.4001075656.com
 127.0.0.1 imgcdn.xixiwan.net
-127.0.0.1 la.qshxc.com
 127.0.0.1 ops.zibov.com
 127.0.0.1 v.dbncp.com
 127.0.0.1 jump1.pszyzxh.org
@@ -2474,13 +2477,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.yichum.com
 127.0.0.1 abc.tpd8.com
 127.0.0.1 a.tnlby.com
-127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 i.uzhiv.com
 #btlibrary.net
 127.0.0.1 j.mainbx.com
-127.0.0.1 js.jianbaimei.com
 #diggbt.net
-127.0.0.1 js883.anreson.net
 127.0.0.1 1234xm.com
 127.0.0.1 aa.scw0.com
 127.0.0.1 bb.jw90.com
