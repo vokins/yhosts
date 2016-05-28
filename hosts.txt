@@ -525,6 +525,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 ht.www.sogou.com
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
