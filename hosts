@@ -1,5 +1,5 @@
 
-;version=201605301536
+;version=201605302143
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1158,6 +1158,10 @@
 127.0.0.1 pv.enet.com.cn
 127.0.0.1 www9.enet.com.cn
 127.0.0.1 g.x.evolife.cn
+127.0.0.1 cdn.u9377w.com
+127.0.0.1 news.u9377w.com
+127.0.0.1 show.tcth8.com
+127.0.0.1 count.612.com
 127.0.0.1 yes1.feng.com
 127.0.0.1 down.xiazai2.net
 127.0.0.1 168.it168.com

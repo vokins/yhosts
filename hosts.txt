@@ -1432,6 +1432,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 www9.enet.com.cn
 #www.evolife.cn
 127.0.0.1 g.x.evolife.cn
+#www.fxxz.com
+127.0.0.1 cdn.u9377w.com
+127.0.0.1 news.u9377w.com
+127.0.0.1 show.tcth8.com
+127.0.0.1 count.612.com
 #www.feng.com
 127.0.0.1 yes1.feng.com
 #www.greenxf.com
