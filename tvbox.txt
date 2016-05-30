@@ -73,16 +73,21 @@
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 log-oma.play.aiseet.atianqi.com
 127.0.0.1 bkmdevstat.qqlive.qq.com
-127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 log.oma.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 p.l.qq.com
 127.0.0.1 pingmid.qq.com
 127.0.0.1 video.mpush.qq.com
-127.0.0.1 vmat.gtimg.com
 127.0.0.1 rlog.video.qq.com
-127.0.0.1 p.tencentmind.com
+127.0.0.1 vhothlslx.video.gtimg.com
+127.0.0.1 vhothlsws.video.gtimg.com
+127.0.0.1 rlog-video.conn.aiseet.atianqi.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 f.seals.qq.com
+127.0.0.1 omgid.qq.com
+127.0.0.1 bkrlog-video.conn.aiseet.atianqi.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
+127.0.0.1 mdevstat.play.aiseet.atianqi.com
 #sohu-video
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
