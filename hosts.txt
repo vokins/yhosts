@@ -263,7 +263,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsrich.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 like.video.qq.com
-127.0.0.1 sns.video.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 imc.l.qq.com
 127.0.0.1 l.qq.com
@@ -272,8 +271,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.tencentmind.com
-127.0.0.1 qq.m.cn.miaozhen.com
-127.0.0.1 sd.cn.miaozhen.com
 #tiantiankan123
 127.0.0.1 g.s8dj.com
 #vidown
@@ -554,8 +551,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sit.gentags.net
 #qq-iframe
 127.0.0.1 swa.gtimg.com
-127.0.0.1 c.l.qq.com
-127.0.0.1 cm.l.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 mi.gdt.qq.com
@@ -612,10 +607,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
-127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 letv.axp.admaster.com.cn
-127.0.0.1 msg.cn.miaozhen.com
-127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
@@ -732,8 +724,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
 127.0.0.1 letv.ipdx.cn.miaozhen.com
+127.0.0.1 msg.cn.miaozhen.com
+127.0.0.1 msg.mbm.cn.miaozhen.com
+127.0.0.1 qq.m.cn.miaozhen.com
+127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
@@ -927,6 +924,21 @@ ff02::2 ip6-allrouters
 #crashlytics.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 settings.crashlytics.com
+#domob.cn
+127.0.0.1 api.domob.cn
+127.0.0.1 c.domob.cn
+127.0.0.1 domob.cn
+127.0.0.1 domob.com.cn
+127.0.0.1 e.domob.cn
+127.0.0.1 e.domob.com.cn
+127.0.0.1 r.domob.cn
+127.0.0.1 r.ow.domob.cn
+127.0.0.1 s.domob.cn
+127.0.0.1 scc.domob.cn
+127.0.0.1 sd.domob.cn
+127.0.0.1 sdl.domob.cn
+127.0.0.1 sm.domob.cn
+127.0.0.1 swx.domob.cn
 #flurry.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ads.flurry.com
@@ -994,8 +1006,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
 #reachmax.cn
-127.0.0.1 m.reachmax.cn
 127.0.0.1 cm.reachmax.cn
+127.0.0.1 m.reachmax.cn
 #sina-igexin
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
@@ -2127,7 +2139,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac.o2.qq.com
 127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
-127.0.0.1 livew.l.qq.com
 127.0.0.1 mapp.qzone.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 mini2015.qq.com
@@ -2145,7 +2156,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 w.l.qq.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 tui.gtimg.com
-127.0.0.1 wa.gtimg.com
 127.0.0.1 wb.gtimg.com
 #sohu/mail
 127.0.0.1 ad.mail.sohu.com
@@ -2224,6 +2234,7 @@ ff02::2 ip6-allrouters
 #jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 ccc.x.jd.com
+127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com

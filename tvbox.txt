@@ -4,6 +4,12 @@
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
+#v.qq.com
+127.0.0.1 livew.l.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 cm.l.qq.com
+127.0.0.1 x.l.qq.com
+127.0.0.1 wa.gtimg.com
 #gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
