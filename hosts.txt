@@ -462,19 +462,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 show.re.taobao.com
-127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 fav.simba.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 tns.simba.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.tmall.com
 127.0.0.1 click.aliyun.com
 #ali-baba
 127.0.0.1 aecpm.alicdn.com
