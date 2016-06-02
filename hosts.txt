@@ -248,7 +248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
-127.0.0.1 ti.qq.com
 127.0.0.1 updatecenter.qq.com
 #tencent-qq-down
 127.0.0.1 c.gj.qq.com

@@ -60,3 +60,4 @@ image.tianjimedia.com
 mtt.eve.mdt.qq.com
 oth.str.mdt.qq.com
 oth.eve.mdt.qq.com
+ti.qq.com
