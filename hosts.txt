@@ -2442,6 +2442,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.apzeyu.com
 127.0.0.1 a.xlwnx.com
 127.0.0.1 images.xibei70.com
+127.0.0.1 a.tukeai.com
+127.0.0.1 i2.wljnj.com
 #www.i97mm.com
 127.0.0.1 upload.jxsjmg.com
 127.0.0.1 www.daima123.cc
