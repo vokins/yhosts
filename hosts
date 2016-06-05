@@ -1,5 +1,5 @@
 
-;version=201606051457
+;version=201606051505
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -111,8 +111,10 @@
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
+127.0.0.1 push.cmvideo.cn
 127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn

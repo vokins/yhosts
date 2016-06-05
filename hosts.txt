@@ -146,8 +146,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 pms.mb.qq.com
 #migu.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
+127.0.0.1 push.cmvideo.cn
 127.0.0.1 iflyad.bj.openstorage.cn
 #molitv.cn
 127.0.0.1 ad.molitv.cn
