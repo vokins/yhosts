@@ -1,5 +1,5 @@
 
-;version=201606051427
+;version=201606051457
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -110,6 +110,10 @@
 127.0.0.1 soft.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 pms.mb.qq.com
+127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 dsp.ad.cmvideo.cn
+127.0.0.1 dspserver.ad.cmvideo.cn
+127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
@@ -2387,6 +2391,7 @@
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 l.rcd.iqiyi.com
@@ -2394,12 +2399,15 @@
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 nl.rcd.iqiyi.com
+127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
-127.0.0.1 msg.71.am
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
