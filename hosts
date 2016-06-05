@@ -1,5 +1,5 @@
 
-;version=20160605 856
+;version=201606051003
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -107,7 +107,9 @@
 127.0.0.1 mdc.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 report.imtt.qq.com
+127.0.0.1 soft.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
+127.0.0.1 pms.mb.qq.com
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
@@ -150,6 +152,8 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
 127.0.0.1 dd713.bj.bcebos.com
@@ -458,6 +462,7 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 t11.baidu.com
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 swa.gtimg.com
@@ -1157,6 +1162,7 @@
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
+127.0.0.1 sugar.zhihu.com
 127.0.0.1 eezdx.erc.18183.com
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org

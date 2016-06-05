@@ -141,7 +141,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 mdc.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 report.imtt.qq.com
+127.0.0.1 soft.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
+127.0.0.1 pms.mb.qq.com
 #molitv.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
@@ -193,6 +195,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
+#wx.qq.com
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 mtt.str.mdt.qq.com
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
@@ -543,6 +548,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 t11.baidu.com
 #gentags.net
 127.0.0.1 clk.gentags.net
 127.0.0.1 sit.gentags.net
@@ -1418,6 +1424,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 127.0.0.1 adsame.libaclub.com
+#www.zhihu.com
+127.0.0.1 sugar.zhihu.com
 @web-cn/it
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
