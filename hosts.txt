@@ -2642,6 +2642,14 @@ ff02::2 ip6-allrouters
 #zimuzu.tv
 127.0.0.1 g.ousns.net
 127.0.0.1 www.lx167.com
+#henduo.tv
+127.0.0.1 cp.jiajv.net
+127.0.0.1 pv.cpc163.com
+127.0.0.1 s.5jjx.net
+127.0.0.1 t2.vbxx.net
+127.0.0.1 w2.docols.net
+127.0.0.1 www.ads80.com
+127.0.0.1 www1.boshipai.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 imgcdn.ynwqls.com
