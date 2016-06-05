@@ -1,5 +1,5 @@
 
-;version=201606051328
+;version=201606051420
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1835,6 +1835,7 @@
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
@@ -2196,6 +2197,7 @@
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
 127.0.0.1 i.zt-dq.com
+127.0.0.1 a.tnlfk.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
@@ -2382,35 +2384,15 @@
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
-127.0.0.1 v2.reachmax.cn
-127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
-127.0.0.1 ckm.iqiyi.com
-127.0.0.1 iface.iqiyi.com
-127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
-127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 nlwl.iqiyi.com
-127.0.0.1 cloudpush.iqiyi.com
-127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 static.g.ppstream.com
 127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 qosp.msg.71.am
-127.0.0.1 notice.iqiyi.com
-127.0.0.1 feedback.iqiyi.com
-127.0.0.1 game.pps.tv
-127.0.0.1 api.msg.pps.tv
-127.0.0.1 a.ckm.iqiyi.com
-127.0.0.1 ad.m.iqiyi.com
-127.0.0.1 data.store.iqiyi.com
-127.0.0.1 mixer.cupid.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com

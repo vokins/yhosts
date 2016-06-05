@@ -2244,6 +2244,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
@@ -2662,6 +2663,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.tv508.com
 #m.kb20.cc
 127.0.0.1 i.zt-dq.com
+127.0.0.1 a.tnlfk.com
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
