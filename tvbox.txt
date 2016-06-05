@@ -55,8 +55,11 @@
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
 #sohu-video
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
+127.0.0.1 api.store.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 download.wan.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
@@ -67,8 +70,6 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 da.mmarket.com
-127.0.0.1 api.store.sohu.com
-127.0.0.1 download.wan.sohu.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com

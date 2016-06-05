@@ -497,6 +497,13 @@
 220.255.2.153 www.textcube.com
 220.255.2.153 www.blogspot.com
 220.255.2.153 blogspot.com
+220.255.2.153 1.bp.blogspot.com
+220.255.2.153 2.bp.blogspot.com
+220.255.2.153 3.bp.blogspot.com
+220.255.2.153 4.bp.blogspot.com
+220.255.2.153 5.bp.blogspot.com
+220.255.2.153 6.bp.blogspot.com
+220.255.2.153 android-developers.blogspot.com
 220.255.2.153 books.google.com
 220.255.2.153 books.google.com.hk
 220.255.2.153 bks0.books.google.com
@@ -3486,3 +3493,5 @@
 54.192.111.6 secure.static.tumblr.com
 54.230.213.90 secure.static.tumblr.com
 54.230.74.143 secure.static.tumblr.com
+103.28.248.96 www.smartdnsproxy.com
+184.72.50.35 support.smartdnsproxy.com

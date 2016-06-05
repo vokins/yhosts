@@ -133,6 +133,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 fg.html5.qq.com
+127.0.0.1 game.html5.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 fg.imtt.qq.com
+127.0.0.1 log.imtt.qq.com
+127.0.0.1 mdc.imtt.qq.com
+127.0.0.1 p.imtt.qq.com
+127.0.0.1 report.imtt.qq.com
+127.0.0.1 wup.imtt.qq.com
 #molitv.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
@@ -146,6 +155,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.youku.com
 #tv.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 vmat.gtimg.com
 #wandoujia.com
@@ -2139,7 +2150,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
