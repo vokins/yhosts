@@ -1111,6 +1111,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cr.m.liebao.cn
 #miui-mi
 127.0.0.1 a.union.mi.com
+127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com
 127.0.0.1 migcreport.g.mi.com
 127.0.0.1 sg.a.stat.mi.com
@@ -1651,6 +1652,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.fjtv.net
 #www.fun.tv
 127.0.0.1 adm.funshion.com
+127.0.0.1 pv.funshion.com
 127.0.0.1 stat.funshion.net
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
