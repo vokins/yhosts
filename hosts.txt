@@ -2543,6 +2543,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 js883.anreson.net
 127.0.0.1 la.qshxc.com
+127.0.0.1 r.xcycm.com
+127.0.0.1 s.xcfe.cn
 #btkitty.ws
 127.0.0.1 ghavcb.520jr.com
 127.0.0.1 njs.myyage.com
