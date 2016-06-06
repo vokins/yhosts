@@ -1,5 +1,5 @@
 
-;version=201606051550
+;version=201606061621
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -943,6 +943,7 @@
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
@@ -2398,6 +2399,8 @@
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 cmts.iqiyi.com
+127.0.0.1 feedback.iqiyi.com
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
@@ -2407,6 +2410,7 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
+127.0.0.1 ota.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
@@ -2417,17 +2421,8 @@
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 static.g.ppstream.com
-127.0.0.1 ad.m.iqiyi.com
-127.0.0.1 data.store.iqiyi.com
-127.0.0.1 feedback.iqiyi.com
-127.0.0.1 mixer.cupid.iqiyi.com
-127.0.0.1 notice.iqiyi.com
-127.0.0.1 v2.reachmax.cn
-127.0.0.1 a.ckm.iqiyi.com
 127.0.0.1 api.msg.pps.tv
-127.0.0.1 ckm.iqiyi.com
 127.0.0.1 game.pps.tv
-127.0.0.1 qosp.msg.71.am
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 msg.m.letv.com
@@ -2475,10 +2470,6 @@
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
-
-
-127.0.0.1 app.adjust.com
-
 127.0.0.1 20160601.biz5.sandai.net
 127.0.0.1 20160601.float.sandai.net
 127.0.0.1 20160601.logic.cpm.cm.sandai.net

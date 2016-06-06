@@ -1,5 +1,8 @@
 @cps-click
 #jd
+127.0.0.1 c-nfa.jd.com
+127.0.0.1 re.m.jd.com
+127.0.0.1 union.click.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
