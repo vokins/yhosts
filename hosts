@@ -1,5 +1,5 @@
 
-;version=201606062035
+;version=201606072234
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1645,6 +1645,7 @@
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
+127.0.0.1 impservice.dictword.youdao.com
 127.0.0.1 impservice.mail.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com

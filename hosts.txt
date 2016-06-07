@@ -2024,6 +2024,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
+127.0.0.1 impservice.dictword.youdao.com
 127.0.0.1 impservice.mail.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice2.youdao.com
