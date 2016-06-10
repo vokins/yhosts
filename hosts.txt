@@ -204,9 +204,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#wx.qq.com
-127.0.0.1 mtt.eve.mdt.qq.com
-127.0.0.1 mtt.str.mdt.qq.com
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com

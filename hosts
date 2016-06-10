@@ -1,5 +1,5 @@
 
-;version=201606102202
+;version=201606102323
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -160,8 +160,6 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-127.0.0.1 mtt.eve.mdt.qq.com
-127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
 127.0.0.1 dd713.bj.bcebos.com
