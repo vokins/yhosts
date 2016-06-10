@@ -51,7 +51,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
-127.0.0.1 wap.koudaitong.com
 #domain hijack
 127.0.0.1 ss.cnnic.cn
 #ok365.com
@@ -167,6 +166,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 valf.atm.youku.com
 #tv.qq.com
 127.0.0.1 lives.l.qq.com
+127.0.0.1 video.mpush.qq.com
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 vmat.gtimg.com
@@ -250,7 +250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 qtip.kuaibo.com
 127.0.0.1 s.mini.kuaibo.com
 127.0.0.1 text-ad.kuaibo.com
-127.0.0.1 minisite.yunfan.com
 127.0.0.1 text-ad.qvod.com
 #p2pover
 127.0.0.1 cdn.netsoft2012.com
@@ -482,13 +481,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.alimama.cn
 127.0.0.1 img.alimama.cn
 127.0.0.1 afptrack.alimama.com
+127.0.0.1 afpssp.alimama.com
 #ali-taobao
+127.0.0.1 adashx.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
 #ali-baba
 127.0.0.1 aecpm.alicdn.com
+127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
@@ -1021,10 +1023,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
 #sina-igexin
+127.0.0.1 c.nz.gt.igexin.com
+127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com
 127.0.0.1 sdk.open.phone.igexin.com
+127.0.0.1 sdk.open.talk.igexin.com
+127.0.0.1 talk.nz.igexin.com
 #umeng
 127.0.0.1 alog.umeng.co
 127.0.0.1 au.umeng.co
@@ -1661,12 +1667,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
 127.0.0.1 g.gridsum.com
+127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 cfg-md.gridsumdissector.com
 127.0.0.1 cfg-vd.gridsumdissector.com
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 diag-vd.gridsumdissector.com
 127.0.0.1 geo.gridsumdissector.com
 127.0.0.1 impression.gridsumdissector.com
+127.0.0.1 recv-vd.gridsumdissector.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
@@ -1696,6 +1704,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 g3.letv.com
 127.0.0.1 minisite.letv.com
 #www.mgtv.com
+127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 stat.titan.imgo.tv
 127.0.0.1 bs.da.hunantv.com
@@ -1714,10 +1723,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
-127.0.0.1 urltracker.yunfan.com
+127.0.0.1 minisite.yunfan.com
 127.0.0.1 mtracker.yunfan.com
 127.0.0.1 stat.yunfan.com
+127.0.0.1 urltracker.yunfan.com
+127.0.0.1 app.agent.yunfancdn.com
 127.0.0.1 app.update.yunfancdn.com
+127.0.0.1 mtracker.yunfancdn.com
+127.0.0.1 statis.yunfancdn.com
+127.0.0.1 stun.yunfancdn.com
+127.0.0.1 urltracker.yunfancdn.com
 #www.pipi.cn
 127.0.0.1 afm.pipi.cn
 #www.pptv.com
@@ -2038,6 +2053,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 mini.eastday.com
 #360.cn
+127.0.0.1 ad.huajiao.com
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
@@ -2219,10 +2235,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
+127.0.0.1 s.img.mix.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
@@ -2258,6 +2276,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+#www.youzan.com
+127.0.0.1 wap.koudaitong.com
+127.0.0.1 tj.koudaitong.com
+127.0.0.1 trade.koudaitong.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 stat.55bbs.com
