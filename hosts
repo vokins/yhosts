@@ -1,5 +1,5 @@
 
-;version=201606101727
+;version=201606102157
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2399,8 +2399,21 @@
 127.0.0.1 mixpanel.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 staticxx.facebook.com
+127.0.0.1 syndication.twitter.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 panel.adtify.pl
+127.0.0.1 a.collective-media.net
+127.0.0.1 ads.pro-market.net
+127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 ce.lijit.com
+127.0.0.1 consent-st.truste.com
+127.0.0.1 consent.truste.com
+127.0.0.1 js.dmtry.com
+127.0.0.1 p.nexac.com
+127.0.0.1 rtd.tubemogul.com
+127.0.0.1 tag.crsspxl.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
