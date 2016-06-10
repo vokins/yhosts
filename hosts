@@ -1,5 +1,5 @@
 
-;version=201606072234
+;version=201606101456
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -107,7 +107,6 @@
 127.0.0.1 weblog.html5.qq.com
 127.0.0.1 fg.imtt.qq.com
 127.0.0.1 log.imtt.qq.com
-127.0.0.1 mdc.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 report.imtt.qq.com
 127.0.0.1 soft.imtt.qq.com
