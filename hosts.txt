@@ -625,6 +625,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
@@ -635,6 +636,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 #adsame.com
+127.0.0.1 botuu.adsame.com
 127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 i.adsame.com
@@ -707,6 +709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dmp.kejet.net
 127.0.0.1 m.kejet.net
 127.0.0.1 cmarket.kejet.net
+127.0.0.1 rtb-p.kejet.net
 #knet.cn
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
@@ -1750,15 +1753,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 afm.pipi.cn
 #www.pptv.com
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 m.g.pptv.com
-127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 ads.data.pplive.com
-127.0.0.1 ppvabs.pplive.com
 127.0.0.1 asimgs.pplive.cn
+127.0.0.1 ins.pplive.com
+127.0.0.1 ppvabs.pplive.com
+127.0.0.1 v2.reachmax.cn
 #www.tiantian.tv
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
@@ -2168,13 +2171,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 download.sd.baidu.com
 127.0.0.1 w.x.baidu.com
-#baidu-soft/bar
+#baidu-soft/bar-browser
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
-127.0.0.1 toolbar.baidu.com
-#baidu-soft/browser
 127.0.0.1 j.br.baidu.com
+127.0.0.1 toolbar.baidu.com
 #baidu-soft/cleaner
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th

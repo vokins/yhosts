@@ -1,5 +1,5 @@
 
-;version=201606111030
+;version=201606111056
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -530,6 +530,7 @@
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
@@ -539,6 +540,7 @@
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
+127.0.0.1 botuu.adsame.com
 127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 i.adsame.com
@@ -600,6 +602,7 @@
 127.0.0.1 dmp.kejet.net
 127.0.0.1 m.kejet.net
 127.0.0.1 cmarket.kejet.net
+127.0.0.1 rtb-p.kejet.net
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
 127.0.0.1 ss.knet.cn
@@ -1436,15 +1439,15 @@
 127.0.0.1 urltracker.yunfancdn.com
 127.0.0.1 afm.pipi.cn
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 m.g.pptv.com
-127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 ads.data.pplive.com
-127.0.0.1 ppvabs.pplive.com
 127.0.0.1 asimgs.pplive.cn
+127.0.0.1 ins.pplive.com
+127.0.0.1 ppvabs.pplive.com
+127.0.0.1 v2.reachmax.cn
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 winvvv.com
@@ -1783,8 +1786,8 @@
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
-127.0.0.1 toolbar.baidu.com
 127.0.0.1 j.br.baidu.com
+127.0.0.1 toolbar.baidu.com
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 127.0.0.1 rj.baidu.com

@@ -63,3 +63,5 @@ oth.eve.mdt.qq.com
 ti.qq.com
 mdc.imtt.qq.com
 mtt.str.mdt.qq.com
+as.aplus.pptv.com
+pub.aplus.pptv.com
