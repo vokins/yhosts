@@ -2558,6 +2558,7 @@ ff02::2 ip6-allrouters
 #www.mmycl.com
 127.0.0.1 js1116.anreson.net
 #www.shuaitong5.net
+127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
 127.0.0.1 ss.zzzkxx.com
