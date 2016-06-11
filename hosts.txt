@@ -387,8 +387,12 @@ ff02::2 ip6-allrouters
 #yahoo
 127.0.0.1 ads.yahoo.com
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
+127.0.0.1 na.ads.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
 @union-cn-iframe
 #alibaba-cnzz
@@ -812,6 +816,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 aka-cdn.adtechus.com
+127.0.0.1 ums.adtechus.com
+127.0.0.1 ums.adtechjp.com
 #ad-survey.com
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 tracking.ad-survey.com
@@ -854,6 +860,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aj-gb.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 mgid.com
 127.0.0.1 www.mgid.com
 #quantserve.com
 127.0.0.1 edge.quantserve.com
@@ -2803,70 +2810,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.clicktale.net
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 clicktalecdn.sslcs.cdngc.net
-@web-for/pan
-#uploadshub.com
-127.0.0.1 callmd5map.com
-127.0.0.1 clksite.com
-127.0.0.1 eclkmpsa.com
-127.0.0.1 pl139095.puhtml.com
-127.0.0.1 servicegetbook.net
-127.0.0.1 d1635hfcvs8ero.cloudfront.net
-#userscloud.com
-127.0.0.1 d3al52d8cojds7.cloudfront.net
-@sites-all/netstorage
-#depositfiles.com
-127.0.0.1 ads8c.depositfiles.com
-127.0.0.1 api.solvemedia.com
-127.0.0.1 s.adverigo.com
-#uptobox.com
-127.0.0.1 ads.uptobox.com
-127.0.0.1 cdn.adikteev.com
-127.0.0.1 c.ad6media.fr
-127.0.0.1 www.tradeadexchange.com
-127.0.0.1 go.onclasrv.com
-127.0.0.1 go.padsdel.com
-127.0.0.1 go.padstm.com
-#www.masterkreatif.com
-127.0.0.1 resources.infolinks.com
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
-#dvworld.com.tw
-127.0.0.1 ads.dvworld.com.tw
-#tehparadox.com
-127.0.0.1 a.komoona.com
-127.0.0.1 cdn.komoona.com
-127.0.0.1 s.komoona.com
-127.0.0.1 stat.komoona.com
-127.0.0.1 ad.turn.com
-#xhamster.com
-127.0.0.1 ads.adsclean.com
-127.0.0.1 ads.adxpansion.com
-127.0.0.1 cs.adxpansion.com
-127.0.0.1 rotator.trafficstars.com
-127.0.0.1 syndication.traffichaus.com
-#www.rlslog.net
-127.0.0.1 jsc.dt07.net
-127.0.0.1 ecpmrocks.com
-127.0.0.1 www.advanpromo.com
-#www.seedpeer.eu
-127.0.0.1 a.rvttrack.com
-127.0.0.1 j.rvttrack.com
-127.0.0.1 sc.rvtlife.com
-127.0.0.1 www.fatremovement.com
-#www.solidfiles.com
-127.0.0.1 js.avstats.com
-127.0.0.1 cdn.engine.trklnks.com
-127.0.0.1 www.appsbodyupdate.com
-#www.tube8.com
-127.0.0.1 ss.phncdn.com
-127.0.0.1 media.trafficjunky.net
-#www.vn-zoom.com
-127.0.0.1 api.adtimaserver.vn
-127.0.0.1 log.adtimaserver.vn
-127.0.0.1 static.adtimaserver.vn
-127.0.0.1 j.microad.net
-127.0.0.1 cache.send.microadinc.com
-@sites-all/adult
+127.0.0.1 cdn.segment.com
+127.0.0.1 panel.adtify.pl
+@web-for/adult
 #91porn.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 bcp.crwdcntrl.net
@@ -2874,7 +2820,22 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
 127.0.0.1 static.awempire.com
-@sites-all/bit2k
+#www.tube8.com
+127.0.0.1 ss.phncdn.com
+#xhamster.com
+127.0.0.1 vi2ishae.xhamster.com
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 cs.adxpansion.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
+127.0.0.1 pt.trafficjunky.net
+127.0.0.1 ads2.contentabc.com
+127.0.0.1 cdn11.contentabc.com
+127.0.0.1 ads.adsclean.com
+127.0.0.1 re.try9.com
+127.0.0.1 rotator.trafficstars.com
+127.0.0.1 syndication.traffichaus.com
+@web-for/bt2k
 #bts.ph
 127.0.0.1 mg.dt07.net
 #kat.cr
@@ -2886,7 +2847,35 @@ ff02::2 ip6-allrouters
 127.0.0.1 tr.cdnfile.com
 #www.mininova.org
 127.0.0.1 s.ato.mx
-@sites-all/image
+#www.rlslog.net
+127.0.0.1 jsc.dt07.net
+127.0.0.1 ecpmrocks.com
+127.0.0.1 www.advanpromo.com
+#www.seedpeer.eu
+127.0.0.1 a.rvttrack.com
+127.0.0.1 j.rvttrack.com
+127.0.0.1 sc.rvtlife.com
+127.0.0.1 www.fatremovement.com
+#www.vn-zoom.com
+127.0.0.1 api.adtimaserver.vn
+127.0.0.1 log.adtimaserver.vn
+127.0.0.1 media.adtimaserver.vn
+127.0.0.1 static.adtimaserver.vn
+127.0.0.1 admicro1.vcmedia.vn
+127.0.0.1 admicro4.vcmedia.vn
+127.0.0.1 admicro5.vcmedia.vn
+127.0.0.1 admicro6.vcmedia.vn
+127.0.0.1 lg.logging.admicro.vn
+127.0.0.1 lg1.logging.admicro.vn
+127.0.0.1 s.eclick.vn
+127.0.0.1 static.eclick.vn
+127.0.0.1 e-vcdn.anthill.vn
+127.0.0.1 f.novanet.vn
+127.0.0.1 static.novanet.vn
+127.0.0.1 j.microad.net
+127.0.0.1 cache.send.microadinc.com
+127.0.0.1 jgl.microad.net
+@web-for/image
 #freeimagehosting.net
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
@@ -2910,11 +2899,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 mixpanel.com
 127.0.0.1 api.mixpanel.com
-@sites-all/tools
-127.0.0.1 staticxx.facebook.com
-127.0.0.1 syndication.twitter.com
-127.0.0.1 cdn.segment.com
-127.0.0.1 panel.adtify.pl
+@web-for/it
+#dvworld.com.tw
+127.0.0.1 ads.dvworld.com.tw
 #sourceforge.net
 127.0.0.1 a.collective-media.net
 127.0.0.1 ads.pro-market.net
@@ -2928,3 +2915,68 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.nexac.com
 127.0.0.1 rtd.tubemogul.com
 127.0.0.1 tag.crsspxl.com
+#www.masterkreatif.com
+127.0.0.1 resources.infolinks.com
+127.0.0.1 tapestry.tapad.com
+@web-for/news
+#www.ettoday.net
+127.0.0.1 ad.ettoday.net
+127.0.0.1 cdn1.ettoday.net
+127.0.0.1 dmp.tenmax.io
+127.0.0.1 rtb-asiamax.tenmax.io
+127.0.0.1 ssp.tenmax.io
+127.0.0.1 ic.tynt.com
+127.0.0.1 tcr.tynt.com
+127.0.0.1 r.popin.cc
+127.0.0.1 rlog.popin.cc
+127.0.0.1 bw.scupio.com
+127.0.0.1 img.scupio.com
+127.0.0.1 ads.doublemax.net
+127.0.0.1 agent.aralego.com
+127.0.0.1 cdnonead-onead.cdn.hinet.net
+127.0.0.1 sync.mathtag.com
+127.0.0.1 tenmax-static.cacafly.net
+@web-for/netstorage
+#depositfiles.com
+127.0.0.1 ads8c.depositfiles.com
+127.0.0.1 api.solvemedia.com
+127.0.0.1 s.adverigo.com
+#tehparadox.com
+127.0.0.1 a.komoona.com
+127.0.0.1 cdn.komoona.com
+127.0.0.1 s.komoona.com
+127.0.0.1 stat.komoona.com
+127.0.0.1 ad.turn.com
+127.0.0.1 cdn.turn.com
+127.0.0.1 c1.adform.net
+127.0.0.1 match.basebanner.com
+127.0.0.1 p.adsymptotic.com
+127.0.0.1 px.owneriq.net
+#uploadshub.com
+127.0.0.1 callmd5map.com
+127.0.0.1 clksite.com
+127.0.0.1 eclkmpsa.com
+127.0.0.1 pl139095.puhtml.com
+127.0.0.1 servicegetbook.net
+127.0.0.1 d1635hfcvs8ero.cloudfront.net
+#uptobox.com
+127.0.0.1 ads.uptobox.com
+127.0.0.1 cdn.adikteev.com
+127.0.0.1 c.ad6media.fr
+127.0.0.1 www.tradeadexchange.com
+127.0.0.1 go.onclasrv.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 go.padstm.com
+#userscloud.com
+127.0.0.1 d3al52d8cojds7.cloudfront.net
+#www.solidfiles.com
+127.0.0.1 js.avstats.com
+127.0.0.1 cdn.engine.trklnks.com
+127.0.0.1 www.appsbodyupdate.com
+@web-for/sns
+#facebook-noads
+127.0.0.1 staticxx.facebook.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#twitter-noads
+127.0.0.1 syndication.twitter.com
