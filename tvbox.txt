@@ -58,6 +58,7 @@
 127.0.0.1 api.store.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
+127.0.0.1 hui.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com

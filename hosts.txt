@@ -172,6 +172,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.ureport.push.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 vmat.gtimg.com
+#v.dopool.com
+127.0.0.1 ad-cache.dopool.com
+127.0.0.1 ad.dopool.com
+127.0.0.1 analytics3.dopool.com
+127.0.0.1 push.dopool.com
+127.0.0.1 ad-data.starschina.com
+127.0.0.1 test.ad.starschina.com
+127.0.0.1 test.adapi.starschina.com
 #wandoujia.com
 127.0.0.1 push.wandoujia.com
 #www.uc.cn
@@ -515,6 +523,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mlt01.com
 127.0.0.1 cm.mlt01.com
 127.0.0.1 dt.tongji.linezing.com
+127.0.0.1 img.tongji.linezing.com
 127.0.0.1 js.tongji.linezing.com
 127.0.0.1 tongji.linezing.com
 127.0.0.1 jxlog.istreamsche.com
@@ -940,6 +949,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 t4.agrantsem.com
 #cocounion.com
 127.0.0.1 config.cocounion.com
+127.0.0.1 m.cocounion.com
+127.0.0.1 service.cocounion.com
 127.0.0.1 stats.cocounion.com
 #coolguang.com
 127.0.0.1 api.coolguang.com
@@ -1088,6 +1099,7 @@ ff02::2 ip6-allrouters
 #xunfei
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
 #youmi
 127.0.0.1 aos.gw.youmi.net
@@ -1107,6 +1119,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
+127.0.0.1 fotacontrol.adfuture.cn
 #cm-adkmob
 127.0.0.1 cm.adkmob.com
 127.0.0.1 ssdk.adkmob.com
@@ -1116,6 +1129,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 folder.adsunflower.com
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
+127.0.0.1 folder.advmob.cn
 #cm-ijinshan
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
@@ -1762,9 +1776,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ins.pplive.com
 127.0.0.1 ppvabs.pplive.com
 127.0.0.1 v2.reachmax.cn
-#www.tiantian.tv
-127.0.0.1 ad-data.starschina.com
-127.0.0.1 ad-cache.dopool.com
 #www.uusee.com
 127.0.0.1 winvvv.com
 #www.v1.cn
