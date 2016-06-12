@@ -1004,7 +1004,6 @@ ff02::2 ip6-allrouters
 #maysunmedia.com
 127.0.0.1 s.think.cn.maysunmedia.com
 #meizu-flyme
-127.0.0.1 aider.meizu.com
 127.0.0.1 game.res.meizu.com
 127.0.0.1 servicecut.meizu.com
 127.0.0.1 tongji-res1.meizu.com

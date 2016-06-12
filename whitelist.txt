@@ -64,3 +64,4 @@ ti.qq.com
 mdc.imtt.qq.com
 mtt.str.mdt.qq.com
 as.aplus.pptv.com
+aider.meizu.com

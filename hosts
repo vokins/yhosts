@@ -1,5 +1,5 @@
 
-;version=201606111726
+;version=201606121539
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -848,7 +848,6 @@
 127.0.0.1 imp.madserving.com
 127.0.0.1 imp.pdb.madserving.com
 127.0.0.1 s.think.cn.maysunmedia.com
-127.0.0.1 aider.meizu.com
 127.0.0.1 game.res.meizu.com
 127.0.0.1 servicecut.meizu.com
 127.0.0.1 tongji-res1.meizu.com
