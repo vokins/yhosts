@@ -2557,6 +2557,7 @@ ff02::2 ip6-allrouters
 #www.mmycl.com
 127.0.0.1 js1116.anreson.net
 #www.shuaitong5.net
+127.0.0.1 uc.xiansuper.com
 127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 s.juejdkio.com
@@ -2724,6 +2725,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www1.boshipai.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
+127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.ynwqls.com
 127.0.0.1 js1940.anreson.net
 127.0.0.1 imgcdn.mazaibang.com
