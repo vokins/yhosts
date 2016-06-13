@@ -1,5 +1,5 @@
 
-;version=201606131516
+#version=201606131516
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -15,10 +15,6 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 127.0.0.1 u.diannaodian.com
@@ -1033,7 +1029,6 @@
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn
 127.0.0.1 adm3.autoimg.cn
-127.0.0.1
 127.0.0.1 bglog.bitauto.com
 127.0.0.1 g.bitauto.com
 127.0.0.1 gimg.bitauto.com
