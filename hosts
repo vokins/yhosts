@@ -1,5 +1,5 @@
 
-;version=201606131516
+;version=20160614 056
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -43,6 +43,8 @@
 127.0.0.1 www.114so.cn
 127.0.0.1 sd.kk3g.net
 127.0.0.1 wo.iuni.com.cn
+127.0.0.1 api.dreamfull.cn
+127.0.0.1 i.dreamfull.cn
 127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror4.wo.com.cn
@@ -1533,10 +1535,19 @@
 127.0.0.1 sdn.kugou.com
 127.0.0.1 tj.kugou.com
 127.0.0.1 kuaikaiapp.com
+127.0.0.1 apk.shouji.koowo.com
+127.0.0.1 g.koowo.com
+127.0.0.1 deliver.kuwo.cn
+127.0.0.1 log.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+127.0.0.1 msphoneclick.kuwo.cn
 127.0.0.1 updatepage.kuwo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 webstat.kuwo.cn
-127.0.0.1 g.koowo.com
+127.0.0.1 api.iimedia.cn
+127.0.0.1 iimedia.cn
+127.0.0.1 mfan.iclick.com.cn
+127.0.0.1 game.51yund.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 admgr.qingting.fm
 127.0.0.1 dload.qd.qingting.fm
