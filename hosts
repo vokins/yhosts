@@ -1,5 +1,5 @@
 
-;version=201606131430
+;version=201606131511
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1229,6 +1229,7 @@
 127.0.0.1 fast.cbsi.demdex.net
 127.0.0.1 in.ml314.com
 127.0.0.1 ml314.com
+127.0.0.1 a.cn.duoyi.com
 127.0.0.1 404.safedog.cn
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 dl.2345.com
@@ -1680,8 +1681,6 @@
 127.0.0.1 mimg.126.net
 127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
-127.0.0.1 mr.da.netease.com
-127.0.0.1 pr.da.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 a.youdao.com
