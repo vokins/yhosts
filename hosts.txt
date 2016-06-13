@@ -227,6 +227,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#yuedu.163.com
+127.0.0.1 push.yuedu.163.com
+127.0.0.1 analytics.hz.netease.com
+127.0.0.1 mr.da.netease.com
+127.0.0.1 pr.da.netease.com
+127.0.0.1 rd.da.netease.com
 @soft
 #bitcomment
 127.0.0.1 inside.bitcomet.com

@@ -1,5 +1,5 @@
 
-;version=20160613 008
+;version=201606131430
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -180,6 +180,11 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 push.yuedu.163.com
+127.0.0.1 analytics.hz.netease.com
+127.0.0.1 mr.da.netease.com
+127.0.0.1 pr.da.netease.com
+127.0.0.1 rd.da.netease.com
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 i-1005.b-0.ad.bench.utorrent.com
 127.0.0.1 i-1006.b-0.ad.bench.utorrent.com
