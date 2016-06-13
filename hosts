@@ -1,5 +1,5 @@
 
-;version=201606131511
+;version=201606131514
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1230,6 +1230,9 @@
 127.0.0.1 in.ml314.com
 127.0.0.1 ml314.com
 127.0.0.1 a.cn.duoyi.com
+127.0.0.1 a.tnljx.com
+127.0.0.1 oz.cnzz.com
+127.0.0.1 www.51vipedu.com
 127.0.0.1 404.safedog.cn
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 dl.2345.com

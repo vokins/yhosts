@@ -1501,6 +1501,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 ml314.com
 #m.jb51.net
 127.0.0.1 a.cn.duoyi.com
+127.0.0.1 a.tnljx.com
+127.0.0.1 oz.cnzz.com
+127.0.0.1 www.51vipedu.com
 #safedog.cn
 127.0.0.1 404.safedog.cn
 #www.2345.com
