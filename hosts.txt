@@ -542,6 +542,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 init.phpwind.com
 127.0.0.1 match.p4p.1688.com
 #baidu-iframe
+127.0.0.1 adscdn.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 nj.baichuan.baidu.com
