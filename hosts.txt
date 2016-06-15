@@ -419,12 +419,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 icon.cnzz.com
 127.0.0.1 jserr.cnzz.com
 127.0.0.1 jssdk.cnzz.com
+127.0.0.1 oz.cnzz.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 w.cnzz.com
 127.0.0.1 s38.cnzz.com
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 s4.cnzz.com
+127.0.0.1 hm3.cnzz.com
 127.0.0.1 z11.cnzz.com
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hzs14.cnzz.com
@@ -544,6 +546,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 click.bes.baidu.com
+127.0.0.1 rplog.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 fclick.baidu.com
@@ -783,6 +786,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m1570.oadz.com
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m981.oadz.com
+127.0.0.1 m947.oadz.com
 #qtmojo.c
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
@@ -1501,7 +1505,6 @@ ff02::2 ip6-allrouters
 #m.jb51.net
 127.0.0.1 a.cn.duoyi.com
 127.0.0.1 a.tnljx.com
-127.0.0.1 oz.cnzz.com
 127.0.0.1 www.51vipedu.com
 #safedog.cn
 127.0.0.1 404.safedog.cn
@@ -1598,14 +1601,17 @@ ff02::2 ip6-allrouters
 #zdfans.com
 127.0.0.1 94776.zdfans.com
 #www.zdnet.com.cn
-127.0.0.1 chkpt.zdnet.com
 127.0.0.1 am.zdnet.com.cn
+127.0.0.1 chkpt.zdnet.com
+127.0.0.1 imp.zdnet.com.cn
 127.0.0.1 pv.zdnet.com.cn
 127.0.0.1 stat.zdnet.com.cn
 #www.zol.com.cn
 127.0.0.1 api.zol.com
+127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 dynamic.zol.com.cn
+127.0.0.1 imp.zol.com.cn
 127.0.0.1 pv.zol.com.cn
 127.0.0.1 pvc.zol.com.cn
 127.0.0.1 pvm.zol.com.cn
@@ -1619,6 +1625,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+127.0.0.1 c.betrad.com
+127.0.0.1 p.rfihub.com
 @web-cn/media
 #sohu-56
 127.0.0.1 mad.stat.v-56.com
@@ -2298,10 +2306,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
 #sina-weibo
+127.0.0.1 biz.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
-127.0.0.1 zymo.mps.weibo.com
 @web-cn/photo
 #www.fengniao.com
 127.0.0.1 pic.fengniao.com
@@ -2329,6 +2339,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 trade.koudaitong.com
 @web-cn/sns
 #55bbs.com
+127.0.0.1 icon.55bbs.com
+127.0.0.1 imp.55bbs.com
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com

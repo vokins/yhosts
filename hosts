@@ -1,5 +1,5 @@
 
-;version=201606142138
+;version=20160615 932
 127.0.0.1 localhost
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -337,12 +337,14 @@
 127.0.0.1 icon.cnzz.com
 127.0.0.1 jserr.cnzz.com
 127.0.0.1 jssdk.cnzz.com
+127.0.0.1 oz.cnzz.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 w.cnzz.com
 127.0.0.1 s38.cnzz.com
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 s4.cnzz.com
+127.0.0.1 hm3.cnzz.com
 127.0.0.1 z11.cnzz.com
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hzs14.cnzz.com
@@ -456,6 +458,7 @@
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 click.bes.baidu.com
+127.0.0.1 rplog.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 fclick.baidu.com
@@ -670,6 +673,7 @@
 127.0.0.1 m1570.oadz.com
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m981.oadz.com
+127.0.0.1 m947.oadz.com
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -1230,7 +1234,6 @@
 127.0.0.1 ml314.com
 127.0.0.1 a.cn.duoyi.com
 127.0.0.1 a.tnljx.com
-127.0.0.1 oz.cnzz.com
 127.0.0.1 www.51vipedu.com
 127.0.0.1 404.safedog.cn
 127.0.0.1 jifendownload.2345.cn
@@ -1299,13 +1302,16 @@
 127.0.0.1 y001.tianjimedia.com
 127.0.0.1 www.tianjimedia.com
 127.0.0.1 94776.zdfans.com
-127.0.0.1 chkpt.zdnet.com
 127.0.0.1 am.zdnet.com.cn
+127.0.0.1 chkpt.zdnet.com
+127.0.0.1 imp.zdnet.com.cn
 127.0.0.1 pv.zdnet.com.cn
 127.0.0.1 stat.zdnet.com.cn
 127.0.0.1 api.zol.com
+127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 dynamic.zol.com.cn
+127.0.0.1 imp.zol.com.cn
 127.0.0.1 pv.zol.com.cn
 127.0.0.1 pvc.zol.com.cn
 127.0.0.1 pvm.zol.com.cn
@@ -1319,6 +1325,8 @@
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+127.0.0.1 c.betrad.com
+127.0.0.1 p.rfihub.com
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
@@ -1896,10 +1904,12 @@
 127.0.0.1 res.icast.cn
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
+127.0.0.1 biz.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
-127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
@@ -1916,6 +1926,8 @@
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
+127.0.0.1 icon.55bbs.com
+127.0.0.1 imp.55bbs.com
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
