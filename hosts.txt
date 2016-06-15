@@ -47,6 +47,7 @@ ff02::2 ip6-allrouters
 #click
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
+127.0.0.1 click.linktech.cn
 127.0.0.1 p.yiqifa.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 wm.makeding.com
@@ -66,6 +67,7 @@ ff02::2 ip6-allrouters
 #wo.com.cn
 127.0.0.1 sd.kk3g.net
 127.0.0.1 wo.iuni.com.cn
+127.0.0.1 ds.jlbksy.com
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -1237,7 +1239,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adm2.autoimg.cn
 127.0.0.1 adm3.autoimg.cn
 #www.bitauto.com
-127.0.0.1
 127.0.0.1 bglog.bitauto.com
 127.0.0.1 g.bitauto.com
 127.0.0.1 gimg.bitauto.com
@@ -1571,6 +1572,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.it168.com
 #www.mumayi.net
 127.0.0.1 js.mumayi.net
+#www.oyksoft.com
+127.0.0.1 a.oyksoft.com
+127.0.0.1 r.71sem.com
+127.0.0.1 img.i8xz.com
 #www.pc6.com
 127.0.0.1 s.zzsusuzaoxing.com
 127.0.0.1 tj.20hn.cn
@@ -2455,6 +2460,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dl.img80.net
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
+127.0.0.1 bttt.qucaigg.com
 127.0.0.1 g.qucaigg.com
 127.0.0.1 gg.qucaigg.com
 127.0.0.1 mp4ba.qucaigg.com
@@ -2662,6 +2668,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.uzhiv.com
 #btlibrary.net
 127.0.0.1 j.mainbx.com
+127.0.0.1 tu.bolimubei.com
+127.0.0.1 js.aomeishang.com
 #diggbt.net
 127.0.0.1 1234xm.com
 127.0.0.1 aa.scw0.com

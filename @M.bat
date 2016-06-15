@@ -1,11 +1,10 @@
-ver=22:34 2016/5/23/周一
+ver=22:07 2016/6/15/周三
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
 del /f hosts grd.txt
 call :del
 rem call :bat
-call :version
 call :xunlei
 call :downgrd
 call :lyq
@@ -17,7 +16,7 @@ call :del
 exit
 
 :del
-del /f Version.txt Xunlei.txt bat.txt 1A.txt
+del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt
 goto :eof
 
 :bat
@@ -25,13 +24,6 @@ echo title yhosts>bat.txt
 echo more +5 %%~fs0^>%%systemroot%%\system32\drivers\etc\hosts>>bat.txt
 echo notepad %%windir%%\system32\drivers\etc\hosts>>bat.txt
 echo goto :eof>>bat.txt
-goto :eof
-
-:version
-echo.>Version.txt
-echo ;version=%date:~0,4%%date:~5,2%%date:~8,2%%TIME:~0,2%%TIME:~3,2%>>Version.txt
-rem echo ;version=%time% %date%>>Version.txt
-rem echo ;url=https://github.com/vokins/yhosts>>Version.txt
 goto :eof
 
 :xunlei
@@ -44,17 +36,18 @@ echo 127.0.0.1 %str%.logic.cpm.cm.sandai.net>>xunlei.txt
 if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
-:data
-set files=bat.txt Version.txt hosts.txt tvbox.txt down.txt xunlei.txt
-for %%a in (%files%) do (type "%%a">>1A.txt)
-goto :eof
-
 :lyq
-set files=Version.txt hosts.txt tvbox.txt xunlei.txt
+set files=hosts.txt tvbox.txt xunlei.txt
+for %%a in (%files%) do (type "%%a">>lyq.txt)
+"%~dp0lib\sed.exe" -i "/^#/d" lyq.txt
+"%~dp0lib\sed.exe" -i "/^@/d" lyq.txt
+"%~dp0lib\sed.exe" -i "1,6d" lyq.txt
+echo.>Version.txt
+echo #version=%date:~0,4%%date:~5,2%%date:~8,2%%TIME:~0,2%%TIME:~3,2%>>Version.txt
+rem echo ;version=%time% %date%>>Version.txt
+echo #url=https://github.com/vokins/yhosts>>Version.txt
+set files=Version.txt lyq.txt
 for %%a in (%files%) do (type "%%a">>hosts)
-"%~dp0lib\sed.exe" -i "/^#/d" hosts
-"%~dp0lib\sed.exe" -i "/^@/d" hosts
-"%~dp0lib\sed.exe" -i "3,7d" hosts
 rem 部分路由器无法添加localhost 故删除此行。"%~dp0lib\sed.exe" -i "1i\127.0.0.1 localhost" hosts
 goto :eof
 
