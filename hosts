@@ -1,5 +1,5 @@
 
-#version=201606152317
+#version=20160616 003
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -40,6 +40,7 @@
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
+127.0.0.1 navi.gd.chinamobile.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sd.kk3g.net
@@ -149,6 +150,7 @@
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
+127.0.0.1 u.uc123.com
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
 127.0.0.1 ucsec.ucweb.com
