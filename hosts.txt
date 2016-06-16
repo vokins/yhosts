@@ -170,6 +170,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vtest.api.amgmedia.cn
 #pd.youku.com/CIBN
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.youku.com
 #tv.qq.com
@@ -326,11 +327,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mm.cc
 @union
 #amazon
-127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 aax-fe-pek.amazon-adsystem.com
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
+127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 #atdmt.com
 127.0.0.1 ad.atdmt.com
@@ -381,6 +384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.googleadservices.com
 #imrworldwide.com
 127.0.0.1 q.track-cn.imrworldwide.com
+127.0.0.1 secure-chn.imrworldwide.com
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 www.imrworldwide.com
 #revsci.net
@@ -999,6 +1003,7 @@ ff02::2 ip6-allrouters
 #inmobi.com
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
+127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
@@ -1853,11 +1858,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 pc.boxshows.com
 #www.kugou.com
 127.0.0.1 ads.service.kugou.com
-127.0.0.1 p.kugou.com
-127.0.0.1 gg.kugou.com
 127.0.0.1 d.kugou.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 gad.kugou.com
+127.0.0.1 gg.kugou.com
 127.0.0.1 install.kugou.com
 127.0.0.1 install2.kugou.com
 127.0.0.1 kgmobilestat.kugou.com
@@ -1865,12 +1869,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 minidcsc.kugou.com
 127.0.0.1 mo.kugou.com
 127.0.0.1 mobilelog.kugou.com
+127.0.0.1 msg.mobile.kugou.com
 127.0.0.1 mvads.kugou.com
+127.0.0.1 p.kugou.com
 127.0.0.1 push.mobile.kugou.com
 127.0.0.1 rtmonitor.kugou.com
 127.0.0.1 sdk.game.kugou.com
 127.0.0.1 sdn.kugou.com
 127.0.0.1 tj.kugou.com
+127.0.0.1 update.mobile.kugou.com
 127.0.0.1 kuaikaiapp.com
 #www.kuwo.cn
 127.0.0.1 apk.shouji.koowo.com
