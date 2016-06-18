@@ -71,14 +71,16 @@
 127.0.0.1 da.mmarket.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 p-log.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 adp.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 c.yes.youku.com
+127.0.0.1 cm.atm.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
-127.0.0.1 e.stat.ykimg.com
 127.0.0.1 e.stat.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 mb.atm.youku.com
@@ -87,7 +89,6 @@
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 r.l.youku.com

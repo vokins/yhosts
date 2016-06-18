@@ -193,13 +193,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
-127.0.0.1 u.uc123.com
+127.0.0.1 wea.uc.cn
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
 127.0.0.1 ucus.ucweb.com
+127.0.0.1 vs6.gzct.uc.ucweb.com
+127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
+127.0.0.1 huichuan.sm.cn
 #www.yuntutv.net
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
@@ -521,6 +524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
+127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 ac.mmstat.com
@@ -745,16 +749,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 cm.mediav.com
+127.0.0.1 juxiao.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
-127.0.0.1 juxiao.mediav.com
 127.0.0.1 pv.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
+127.0.0.1 ssxd.mediav.com
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
