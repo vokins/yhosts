@@ -1,5 +1,5 @@
 
-#version=201606191357
+#version=201606191840
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1697,6 +1697,7 @@
 127.0.0.1 adm.xmfish.com
 127.0.0.1 img.adm.xmfish.com
 127.0.0.1 publish.ad.youth.cn
+127.0.0.1 tid.5yy6.com
 127.0.0.1 adm.zbinfo.net
 127.0.0.1 stat.zbii.com
 127.0.0.1 ggg.zj.com
