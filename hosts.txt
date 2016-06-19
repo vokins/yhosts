@@ -72,6 +72,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 ds.jlbksy.com
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
+127.0.0.1 144.dragonparking.com
+127.0.0.1 track.dragonparking.com
+127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror4.wo.com.cn

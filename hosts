@@ -1,5 +1,5 @@
 
-#version=201606191351
+#version=201606191357
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -48,6 +48,9 @@
 127.0.0.1 ds.jlbksy.com
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
+127.0.0.1 144.dragonparking.com
+127.0.0.1 track.dragonparking.com
+127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 sddnserror2.wo.com.cn
 127.0.0.1 sddnserror3.wo.com.cn
 127.0.0.1 sddnserror4.wo.com.cn
