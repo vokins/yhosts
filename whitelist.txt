@@ -65,3 +65,5 @@ mdc.imtt.qq.com
 mtt.str.mdt.qq.com
 as.aplus.pptv.com
 aider.meizu.com
+mdc.html5.qq.com
+wup.imtt.qq.com
