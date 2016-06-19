@@ -1,5 +1,5 @@
 
-#version=201606191117
+#version=201606191351
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2170,6 +2170,7 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 a.xhnlf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 uc.xiansuper.com
