@@ -1,5 +1,5 @@
 
-#version=201606202100
+#version=201606202111
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -101,6 +101,8 @@
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 www.maibanu.com
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 www.appodealx.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
@@ -257,6 +259,7 @@
 127.0.0.1 adv2.downsave.com
 127.0.0.1 syad.jiehunmishu.com
 127.0.0.1 www.mm.cc
+127.0.0.1 amazon-adsystem.com
 127.0.0.1 aax-fe-pek.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax-fe.amazon-adsystem.com
@@ -820,6 +823,13 @@
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 static.t.agrantsem.com
 127.0.0.1 t4.agrantsem.com
+127.0.0.1 a.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 vid.applovin.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
 127.0.0.1 service.cocounion.com
@@ -852,11 +862,13 @@
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 www.inmobi.com
 127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 ad.leadboltads.net
 127.0.0.1 ad.leadboltmobile.net
@@ -2464,7 +2476,6 @@
 127.0.0.1 contextual.media.net
 127.0.0.1 d.pixiv.org
 127.0.0.1 b.photobucket.com
-127.0.0.1 ads.rubiconproject.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.heias.com
