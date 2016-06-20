@@ -1,5 +1,5 @@
 
-#version=201606202056
+#version=201606202100
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -79,7 +79,6 @@
 127.0.0.1 m.madthumbs.com
 127.0.0.1 tcad.wedolook.com
 127.0.0.1 ggs.myzaker.com
-127.0.0.1 stat.myzaker.com
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 1.wps.cn
 127.0.0.1 android-lrcresource.wps.cn

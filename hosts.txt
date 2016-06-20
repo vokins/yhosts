@@ -112,7 +112,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tcad.wedolook.com
 #app.myzaker.com
 127.0.0.1 ggs.myzaker.com
-127.0.0.1 stat.myzaker.com
 #caiyunapp.com
 127.0.0.1 ad.caiyunapp.com
 #cm-wps
