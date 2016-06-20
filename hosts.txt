@@ -141,16 +141,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
-127.0.0.1 fg.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 weblog.html5.qq.com
-127.0.0.1 fg.imtt.qq.com
-127.0.0.1 log.imtt.qq.com
-127.0.0.1 p.imtt.qq.com
 127.0.0.1 report.imtt.qq.com
-127.0.0.1 soft.imtt.qq.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
