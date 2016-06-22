@@ -3001,6 +3001,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spcnv.i-mobile.co.jp
 127.0.0.1 spdmg-backend.i-mobile.co.jp
 127.0.0.1 spdmg.i-mobile.co.jp
+127.0.0.1 assets.gunosy.com
 #photobucket.com
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
