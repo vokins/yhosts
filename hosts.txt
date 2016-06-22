@@ -2993,9 +2993,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
 #pixiv
-127.0.0.1 sh.adingo.jp
-127.0.0.1 y.one.impact-ad.jp
 127.0.0.1 d.pixiv.org
+127.0.0.1 sh.adingo.jp
+127.0.0.1 dex.advg.jp
+127.0.0.1 y.one.impact-ad.jp
+127.0.0.1 js.mtburn.com
+127.0.0.1 spcnv.i-mobile.co.jp
+127.0.0.1 spdmg-backend.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
 #photobucket.com
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
