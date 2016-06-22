@@ -1,5 +1,5 @@
 
-#version=20160622 849
+#version=201606221354
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -102,7 +102,15 @@
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 www.maibanu.com
 127.0.0.1 ads.rubiconproject.com
+127.0.0.1 api.appodeal.com
+127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
+127.0.0.1 images.startappservice.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 dts.akamai.startappexchange.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
@@ -339,6 +347,8 @@
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 y.analytics.yahoo.com
+127.0.0.1 yads.c.yimg.jp
+127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
@@ -1440,22 +1450,26 @@
 127.0.0.1 static.gridsumdissector.com
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
+127.0.0.1 biz4.sandai.net
 127.0.0.1 biz5.sandai.net
-127.0.0.1 float.sandai.net
 127.0.0.1 click.cm.sandai.net
 127.0.0.1 count.cpm.cm.sandai.net
+127.0.0.1 float.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 pv.cm.sandai.net
 127.0.0.1 biz5.co.kankan.com
 127.0.0.1 float.co.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 pad.stat.kankan.com
-127.0.0.1 pgv.m.xunlei.com
+127.0.0.1 dm.xiazaibao.xunlei.com
+127.0.0.1 h5.showapp.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
-127.0.0.1 biz4.sandai.net
+127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 msg.client.xunlei.com
 127.0.0.1 msg2.client.xunlei.com
+127.0.0.1 pgv.m.xunlei.com
+127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
@@ -2474,6 +2488,8 @@
 127.0.0.1 jgl.microad.net
 127.0.0.1 c.mnet-ad.net
 127.0.0.1 contextual.media.net
+127.0.0.1 sh.adingo.jp
+127.0.0.1 y.one.impact-ad.jp
 127.0.0.1 d.pixiv.org
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
