@@ -1,5 +1,5 @@
 
-#version=201606202133
+#version=20160622 849
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1923,7 +1923,6 @@
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
-127.0.0.1 s.img.mix.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn

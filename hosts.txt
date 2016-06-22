@@ -2328,7 +2328,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
-127.0.0.1 s.img.mix.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
