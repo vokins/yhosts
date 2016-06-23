@@ -1,5 +1,5 @@
 
-#version=201606222109
+#version=201606231013
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2368,6 +2368,10 @@
 127.0.0.1 mvip.zhuba8.com
 127.0.0.1 vip.zhuba8.com
 127.0.0.1 vip.koukou7.com
+127.0.0.1 go.88lmimg.com
+127.0.0.1 img.88lmimg.com
+127.0.0.1 static.88lmimg.com
+127.0.0.1 pic.haowj.com.cn
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
 127.0.0.1 vip.shuma2.com
