@@ -1614,6 +1614,8 @@ ff02::2 ip6-allrouters
 #www.pc6.com
 127.0.0.1 s.zzsusuzaoxing.com
 127.0.0.1 tj.20hn.cn
+127.0.0.1 cdn.b9377h.com
+127.0.0.1 news.b9377h.com
 #CBS-pchome
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net

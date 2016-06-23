@@ -1,5 +1,5 @@
 
-#version=201606231814
+#version=201606231942
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1316,6 +1316,8 @@
 127.0.0.1 img.i8xz.com
 127.0.0.1 s.zzsusuzaoxing.com
 127.0.0.1 tj.20hn.cn
+127.0.0.1 cdn.b9377h.com
+127.0.0.1 news.b9377h.com
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net
 127.0.0.1 bestpush.pconline.com.cn
