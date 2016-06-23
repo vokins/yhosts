@@ -2883,6 +2883,7 @@ ff02::2 ip6-allrouters
 #www.xiamp4.com
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
+127.0.0.1 slb.tiangoutai.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com
