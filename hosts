@@ -1,5 +1,5 @@
 
-#version=201606231942
+#version=20160624 946
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1876,17 +1876,9 @@
 127.0.0.1 update.123juzi.net
 127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
-127.0.0.1 ac.o2.qq.com
 127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
-127.0.0.1 mapp.qzone.qq.com
-127.0.0.1 masdk.3g.qq.com
 127.0.0.1 mini2015.qq.com
-127.0.0.1 p.store.qq.com
-127.0.0.1 s.isdspeed.qq.com
-127.0.0.1 s.pcapps.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 stdl.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
