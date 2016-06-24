@@ -1,5 +1,5 @@
 
-#version=20160624 950
+#version=201606241013
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -234,6 +234,7 @@
 127.0.0.1 addl.easetuner.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
@@ -515,7 +516,6 @@
 127.0.0.1 sit.gentags.net
 127.0.0.1 swa.gtimg.com
 127.0.0.1 news.l.qq.com
-127.0.0.1 cm.e.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com

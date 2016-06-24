@@ -297,6 +297,7 @@ ff02::2 ip6-allrouters
 #tencent-qq
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
@@ -608,7 +609,6 @@ ff02::2 ip6-allrouters
 #qq-iframe
 127.0.0.1 swa.gtimg.com
 127.0.0.1 news.l.qq.com
-127.0.0.1 cm.e.qq.com
 127.0.0.1 mi.gdt.qq.com
 #sohu-iframe
 127.0.0.1 i.go.sohu.com
