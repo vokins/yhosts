@@ -1,5 +1,5 @@
 
-#version=20160624 946
+#version=20160624 950
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -120,8 +120,6 @@
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 report.imtt.qq.com
-127.0.0.1 pms.mb.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
 127.0.0.1 adxserver.ad.cmvideo.cn
@@ -236,7 +234,6 @@
 127.0.0.1 addl.easetuner.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
@@ -1882,8 +1879,6 @@
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 video.wap.mpush.qq.com
-127.0.0.1 vmind.qqvideo.tc.qq.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 tui.gtimg.com
