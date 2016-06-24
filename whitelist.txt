@@ -71,4 +71,3 @@ s.img.mix.sina.com.cn
 cm.e.qq.com
 sns.whalecloud.com
 log.umsns.com
-im.jpush.cn
