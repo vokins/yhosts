@@ -1,5 +1,5 @@
 
-#version=201606241013
+#version=201606241304
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -947,11 +947,9 @@
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
-127.0.0.1 sns.whalecloud.com
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-127.0.0.1 log.umsns.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
 127.0.0.1 ads.wapx.cn

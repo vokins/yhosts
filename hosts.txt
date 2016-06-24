@@ -1119,11 +1119,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 feedback.whalecloud.com
-127.0.0.1 sns.whalecloud.com
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-127.0.0.1 log.umsns.com
 #tapjoy
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
