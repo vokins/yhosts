@@ -2653,6 +2653,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 #btdigg.ws
+127.0.0.1 wuwho.cn
+127.0.0.1 107.wuwho.cn
+127.0.0.1 64.wuwho.cn
 127.0.0.1 a.wlfng.com
 127.0.0.1 njs.reliancevalve.com
 127.0.0.1 rc.ukeiae.com
