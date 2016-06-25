@@ -2653,6 +2653,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net
 #btdigg.ws
+127.0.0.1 s.khgj.cn
+127.0.0.1 img.khgj.cn
+127.0.0.1 ima.xcyjzs.net
+127.0.0.1 oki.xcyjzs.net
+127.0.0.1 c.dokrmob.com
 127.0.0.1 wuwho.cn
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
