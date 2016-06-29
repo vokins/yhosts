@@ -1,5 +1,5 @@
 
-#version=201606252241
+#version=201606291010
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -562,6 +562,8 @@
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
@@ -1430,8 +1432,7 @@
 127.0.0.1 web.log.kukuplay.com
 127.0.0.1 adv.fjtv.net
 127.0.0.1 adm.funshion.com
-127.0.0.1 pv.funshion.com
-127.0.0.1 stat.funshion.net
+127.0.0.1 game.funshion.com
 127.0.0.1 adv.grtn.cn
 127.0.0.1 g.gridsum.com
 127.0.0.1 recv-vd.gridsumdissector.cn
@@ -2181,6 +2182,7 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 a.tnlbd.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 a.xhnlf.com

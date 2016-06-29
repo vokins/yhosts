@@ -477,6 +477,8 @@
 220.255.2.153 accounts.blogger.com
 220.255.2.153 www.blogger.com
 220.255.2.153 blogger.com
+220.255.2.153 www.googleblog.com
+220.255.2.153 googleblog.com
 220.255.2.153 blogger.google.com
 220.255.2.153 www2.blogger.com
 220.255.2.153 www.blogblog.com
@@ -505,6 +507,13 @@
 220.255.2.153 4.bp.blogspot.com
 220.255.2.153 5.bp.blogspot.com
 220.255.2.153 6.bp.blogspot.com
+220.255.2.153 googleblog.blogspot.com
+220.255.2.153 googleforstudents.blogspot.com
+220.255.2.153 students.googleblog.com
+220.255.2.153 chrome.blogspot.com
+220.255.2.153 google-latlong.blogspot.com
+220.255.2.153 insidesearch.blogspot.com
+220.255.2.153 googleadsdeveloper.blogspot.com
 220.255.2.153 officialandroid.blogspot.com
 220.255.2.153 android-developers.blogspot.com
 220.255.2.153 android-developers.blogspot.hk
@@ -952,6 +961,7 @@
 220.255.2.153 tip.golang.org
 220.255.2.153 tour.golang.org
 220.255.2.153 goo.gl
+220.255.2.153 pay.app.goo.gl
 220.255.2.153 g.co
 220.255.2.153 www.google.org
 220.255.2.153 blog.google.org
@@ -2374,6 +2384,7 @@
 220.255.2.153 chromoting-oauth.talkgadget.google.com
 220.255.2.153 chromoting-host.talkgadget.google.com
 220.255.2.153 chromoting-client.talkgadget.google.com
+220.255.2.153 remoting-pa.googleapis.com
 220.255.2.153 contacts.google.com
 220.255.2.153 youtube.com
 220.255.2.153 www.youtube.com
@@ -3463,6 +3474,8 @@
 103.245.222.249 travis-ci-org.global.ssl.fastly.net
 192.30.252.141 gist.github.com
 64.233.188.121 www.tensorflow.org
+68.232.44.251 w3schools.com
+68.232.44.251 www.w3schools.com
 104.16.120.127 medium.com
 104.16.120.145 cdn-static-1.medium.com
 104.16.120.145 cdn-images-1.medium.com

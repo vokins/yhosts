@@ -662,6 +662,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
@@ -1744,8 +1746,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.fjtv.net
 #www.fun.tv
 127.0.0.1 adm.funshion.com
-127.0.0.1 pv.funshion.com
-127.0.0.1 stat.funshion.net
+127.0.0.1 game.funshion.com
 #www.gdtv.cn
 127.0.0.1 adv.grtn.cn
 #www.gridsum.com
@@ -2624,6 +2625,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 a.tnlbd.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 a.xhnlf.com
