@@ -1,5 +1,5 @@
 
-#version=201606291010
+#version=201606291601
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1042,6 +1042,7 @@
 127.0.0.1 tt.snnnyy.com
 127.0.0.1 img.jmlpshop.cn
 127.0.0.1 ut2.shuqistat.com
+127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 a.game.qidian.com
 127.0.0.1 abc.if.qidian.com
 127.0.0.1 cj.qidian.com
@@ -1863,6 +1864,7 @@
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 dl.client.baidu.com
+127.0.0.1 dzl.baidu.com
 127.0.0.1 j.br.baidu.com
 127.0.0.1 toolbar.baidu.com
 127.0.0.1 cleaner.baidu.com

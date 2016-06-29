@@ -619,6 +619,7 @@
 220.255.2.153 docs7.google.com
 220.255.2.153 docs8.google.com
 220.255.2.153 docs9.google.com
+220.255.2.153 firebase.google.com
 220.255.2.153 material.google.com
 220.255.2.153 writely.google.com
 220.255.2.153 upload.docs.google.com
