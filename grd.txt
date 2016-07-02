@@ -936,6 +936,7 @@
 220.255.2.153 mts2.googleapis.com
 220.255.2.153 mts3.googleapis.com
 220.255.2.153 ct.googleapis.com
+220.255.2.153 commondatastorage.googleapis.com
 220.255.2.153 www.googlehosted.com
 220.255.2.153 base.googlehosted.com
 220.255.2.153 base0.googlehosted.com
