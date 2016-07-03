@@ -1,5 +1,5 @@
 
-#version=201607032334
+#version=20160704 032
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -159,7 +159,6 @@
 127.0.0.1 uc.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
-127.0.0.1 ucus.ucweb.com
 127.0.0.1 vs6.gzct.uc.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com

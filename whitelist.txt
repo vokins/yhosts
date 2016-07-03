@@ -72,3 +72,4 @@ cm.e.qq.com
 sns.whalecloud.com
 log.umsns.com
 wea.uc.cn
+ucus.ucweb.com
