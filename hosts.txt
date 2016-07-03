@@ -199,7 +199,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 track.uc.cn
-127.0.0.1 wea.uc.cn
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
 127.0.0.1 ucsec.ucweb.com
