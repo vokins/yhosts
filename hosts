@@ -1,5 +1,5 @@
 
-#version=201607021428
+#version=201607031217
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2185,6 +2185,7 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 127.0.0.1 a.tnlbd.com
+127.0.0.1 s.polkoa.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 a.xhnlf.com
@@ -2381,7 +2382,6 @@
 127.0.0.1 s.lansha365.com
 127.0.0.1 s.sxytx.cn
 127.0.0.1 pic.wq425cj.com
-127.0.0.1 s.polkoa.com
 127.0.0.1 w.banlaa.com
 127.0.0.1 a.tnldt.com
 127.0.0.1 b.polkoa.com
