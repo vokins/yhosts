@@ -2866,6 +2866,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 rc.bizcn008.com
 127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
+#m.wxphp.com
+127.0.0.1 w6061.move7.com
+127.0.0.1 846.move7.com
 #m.xxshipin.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
