@@ -2378,10 +2378,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
-#jd.com-3rd
-127.0.0.1 c-nfa.jd.com
-127.0.0.1 re.m.jd.com
-127.0.0.1 union.click.jd.com
 #www.youzan.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tj.koudaitong.com

@@ -1,5 +1,5 @@
 
-#version=201607041410
+#version=201607041726
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1962,9 +1962,6 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
-127.0.0.1 c-nfa.jd.com
-127.0.0.1 re.m.jd.com
-127.0.0.1 union.click.jd.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
