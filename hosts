@@ -1,5 +1,5 @@
 
-#version=201607041356
+#version=201607041407
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -436,6 +436,9 @@
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 ff.win.taobao.com
+127.0.0.1 intl.wapa.taobao.com
+127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
@@ -1290,6 +1293,9 @@
 127.0.0.1 img.ads.csdn.net
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
+127.0.0.1 code12.onetad.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 ww202.keyyou.net
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
 127.0.0.1 frame.enet.com.cn
@@ -1952,6 +1958,9 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+127.0.0.1 c-nfa.jd.com
+127.0.0.1 re.m.jd.com
+127.0.0.1 union.click.jd.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com

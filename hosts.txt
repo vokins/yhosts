@@ -525,6 +525,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 ff.win.taobao.com
+127.0.0.1 intl.wapa.taobao.com
+127.0.0.1 intl.waptest.taobao.com
 #ali-baba
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afp.alicdn.com
@@ -1579,6 +1582,9 @@ ff02::2 ip6-allrouters
 #www.ctfile.com
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
+127.0.0.1 code12.onetad.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 ww202.keyyou.net
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -2368,6 +2374,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+#jd.com-3rd
+127.0.0.1 c-nfa.jd.com
+127.0.0.1 re.m.jd.com
+127.0.0.1 union.click.jd.com
 #www.youzan.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tj.koudaitong.com
