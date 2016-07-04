@@ -1580,11 +1580,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 counter.csdn.net
 127.0.0.1 img.ads.csdn.net
 #www.ctfile.com
+127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 doubleclick.tv002.com
 127.0.0.1 vip.xlingdi.com
 127.0.0.1 code12.onetad.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 ww202.keyyou.net
+127.0.0.1 vip.zhuanle360.com
+127.0.0.1 vip.jixian360.com
+127.0.0.1 js1210.yongkang6.com
 #www.dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -2471,7 +2475,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.37cs.com
 127.0.0.1 c1.keyrun.cn
 127.0.0.1 s5.keydot.net
-127.0.0.1 code12.onetad.com
 127.0.0.1 img.qiyou.com
 127.0.0.1 c.qiyou.com
 127.0.0.1 c.uoyrsd.com
@@ -2619,7 +2622,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.tukeai.com
 127.0.0.1 i2.wljnj.com
 #diggbt.me
-127.0.0.1 media.jointreport-switch.com
 127.0.0.1 js883.yongkang6.com
 127.0.0.1 1234xm.com
 127.0.0.1 a.xhnlf.com
@@ -2652,7 +2654,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 m1.xcy8.com
 127.0.0.1 njs.reliancevalve.com
 127.0.0.1 oki.xcyjzs.net
-127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 b.code.tanwanyx.com
 127.0.0.1 xd.code.tanwanyx.com
 127.0.0.1 hv.code.tanwanyx.com
@@ -2835,7 +2836,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.wtcpm.com
 127.0.0.1 img.shoubiao88.com.cn
 127.0.0.1 pic8.onetad.com
-127.0.0.1 ww202.keyyou.net
 127.0.0.1 wwv.onetad.com
 127.0.0.1 u291014.nr1234.com
 #zimuzu.tv
