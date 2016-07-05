@@ -73,3 +73,4 @@ sns.whalecloud.com
 log.umsns.com
 wea.uc.cn
 ucus.ucweb.com
+sta.ganji.com
