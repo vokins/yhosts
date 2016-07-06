@@ -3317,10 +3317,11 @@
 154.53.224.150 mega.co.nz
 154.53.224.166 mega.nz
 31.216.147.130 w.api.mega.co.nz
-65.54.187.24 account.live.com
-23.44.152.70 auth.gfx.ms
+65.55.163.79 account.live.com
+204.79.197.217 mail.live.com
+23.59.136.70 auth.gfx.ms
 131.253.61.66 login.live.com
-134.170.108.154 onedrive.live.com
+204.79.197.217 onedrive.live.com
 23.212.129.202 p.sfx.ms
 134.170.30.15 people.live.com
 134.170.30.15 profile.live.com

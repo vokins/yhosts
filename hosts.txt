@@ -2915,6 +2915,9 @@ ff02::2 ip6-allrouters
 #www.id97.com
 127.0.0.1 c.jk2h.com
 127.0.0.1 p.imigame.com
+#edu.jobui.com
+127.0.0.1 d.h5.coffeedak.cn
+127.0.0.1 cp.h5.coffeedak.cn
 #www.itv118.com
 127.0.0.1 pic.leeyuoxs.com
 127.0.0.1 km.leeyuoys.com
