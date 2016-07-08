@@ -67,6 +67,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 #wo.com.cn
+127.0.0.1 ad.1111cpc.com
+127.0.0.1 creative.1111cpc.com
+127.0.0.1 news.766ba.net
 127.0.0.1 sd.kk3g.net
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 ds.jlbksy.com
