@@ -1,5 +1,5 @@
 
-#version=20160709 918
+#version=20160709 942
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2239,7 +2239,13 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 qd.maskbaby.com.cn
+127.0.0.1 s.456juhd.com
+127.0.0.1 img.aahtek.com
 127.0.0.1 uc.xiansuper.com
+127.0.0.1 bigbos.top
+127.0.0.1 cc.bigbos.top
+127.0.0.1 kti.bigbos.top
 127.0.0.1 a.tnlbd.com
 127.0.0.1 s.polkoa.com
 127.0.0.1 s.ukeiae.com
