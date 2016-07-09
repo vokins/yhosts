@@ -1434,6 +1434,7 @@ ff02::2 ip6-allrouters
 #www.yxdown.com
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
 @web-cn/health
 #www.120ask.com
 127.0.0.1 log.120ask.com
@@ -2939,6 +2940,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
 127.0.0.1 slb.tiangoutai.com
+127.0.0.1 s.baidu7653.com
+127.0.0.1 img.aahtek.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com

@@ -1,5 +1,5 @@
 
-#version=201607081607
+#version=20160709 918
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1186,6 +1186,7 @@
 127.0.0.1 static.gg.uuu9.com
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
 127.0.0.1 log.120ask.com
 127.0.0.1 eclick.120ask.com
 127.0.0.1 x.120ask.com
@@ -2447,6 +2448,8 @@
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
 127.0.0.1 slb.tiangoutai.com
+127.0.0.1 s.baidu7653.com
+127.0.0.1 img.aahtek.com
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
