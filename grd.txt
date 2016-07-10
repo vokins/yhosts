@@ -592,6 +592,7 @@
 220.255.2.153 cloudssh.developers.google.com
 220.255.2.153 console.developers.google.com
 220.255.2.153 source.developers.google.com
+220.255.2.153 cla.developers.google.com
 220.255.2.153 design.google.com
 220.255.2.153 directory.google.com
 220.255.2.153 dir.google.com
@@ -1151,6 +1152,7 @@
 220.255.2.153 images-focus-opensocial.googleusercontent.com
 220.255.2.153 www-blogger-opensocial.googleusercontent.com
 220.255.2.153 books.googleusercontent.com
+220.255.2.153 ap2.googleusercontent.com
 220.255.2.153 ci0.googleusercontent.com
 220.255.2.153 ci1.googleusercontent.com
 220.255.2.153 ci2.googleusercontent.com
@@ -3518,3 +3520,9 @@
 54.230.74.143 secure.static.tumblr.com
 103.28.248.96 www.smartdnsproxy.com
 184.72.50.35 support.smartdnsproxy.com
+108.163.178.42 apkpure.com 
+108.163.178.42 m.apkpure.com
+108.163.178.42 a.apkpure.com
+108.163.178.42 static.apkpure.com
+108.163.178.42 translate.apkpure.com
+46.17.101.80 download.apkpure.com
