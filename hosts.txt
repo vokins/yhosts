@@ -2881,10 +2881,13 @@ ff02::2 ip6-allrouters
 #m.xxshipin.com
 127.0.0.1 101.201.29.182
 127.0.0.1 img.ajapk.com
-127.0.0.1 cker.ichishuiguo.com
+127.0.0.1 mvip.zhuba8.com
+127.0.0.1 r.5207470.com
+127.0.0.1 z2.19950501.com
+127.0.0.1 vip.koukou7.com
+127.0.0.1 jx01bv.cdn.media8.cn
 127.0.0.1 tj.51ads.com
 127.0.0.1 www.51ads.com
-127.0.0.1 r.5207470.com
 127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 vip2.7huoguo.com
@@ -2893,9 +2896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
-127.0.0.1 mvip.zhuba8.com
 127.0.0.1 vip.zhuba8.com
-127.0.0.1 vip.koukou7.com
 #m.zhizhucili.com
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
