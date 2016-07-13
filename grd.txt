@@ -922,7 +922,7 @@
 220.255.2.153 content.googleapis.com
 220.255.2.153 maps.googleapis.com
 220.255.2.153 origin-commondatastorage.googleapis.com
-216.58.221.112 commondatastorage.googleapis.com
+216.58.221.144 commondatastorage.googleapis.com
 220.255.2.153 play.googleapis.com
 220.255.2.153 plus.googleapis.com
 220.255.2.153 redirector-bigcache.googleapis.com
@@ -1152,7 +1152,15 @@
 220.255.2.153 images-focus-opensocial.googleusercontent.com
 220.255.2.153 www-blogger-opensocial.googleusercontent.com
 220.255.2.153 books.googleusercontent.com
+220.255.2.153 ap1.googleusercontent.com
 220.255.2.153 ap2.googleusercontent.com
+220.255.2.153 ap3.googleusercontent.com
+220.255.2.153 ap4.googleusercontent.com
+220.255.2.153 ap5.googleusercontent.com
+220.255.2.153 ap6.googleusercontent.com
+220.255.2.153 ap7.googleusercontent.com
+220.255.2.153 ap8.googleusercontent.com
+220.255.2.153 ap9.googleusercontent.com
 220.255.2.153 ci0.googleusercontent.com
 220.255.2.153 ci1.googleusercontent.com
 220.255.2.153 ci2.googleusercontent.com
@@ -2854,6 +2862,7 @@
 64.233.188.121 ghs46.google.com
 64.233.188.121 ghs.l.google.com
 64.233.188.121 ghs46.l.google.com
+64.233.188.121 www.nianticlabs.com
 64.233.188.121 gsamplemaps.googlepages.com
 64.233.188.121 javascript-blocker.toggleable.com
 64.233.188.121 goto.ext.google.com
@@ -3320,7 +3329,6 @@
 154.53.224.166 mega.nz
 31.216.147.130 w.api.mega.co.nz
 65.55.163.79 account.live.com
-204.79.197.217 mail.live.com
 23.59.136.70 auth.gfx.ms
 131.253.61.66 login.live.com
 204.79.197.217 onedrive.live.com
