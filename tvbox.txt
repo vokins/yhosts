@@ -103,3 +103,6 @@
 127.0.0.1 p.l.youku.com
 127.0.0.1 sdk.m.youku.com
 127.0.0.1 test.sdk.m.youku.com
+127.0.0.1 test.ott.youku.com
+127.0.0.1 store.tv.api.3g.youku.com
+127.0.0.1 store.xl.api.3g.youku.com
