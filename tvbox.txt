@@ -100,3 +100,6 @@
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 sdk.m.youku.com
+127.0.0.1 test.sdk.m.youku.com
