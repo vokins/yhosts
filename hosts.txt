@@ -2699,6 +2699,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 qd.moutaihotel.cn
+127.0.0.1 sha.shazhouapparel.com
 127.0.0.1 s.chebse.com
 127.0.0.1 qd.maskbaby.com.cn
 127.0.0.1 s.456juhd.com
@@ -3043,6 +3045,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.toourbb.com
 127.0.0.1 t1.huafeibianzhidai.com
 127.0.0.1 media-static.jointreport-switch.com
+#a.acgluna.com
+127.0.0.1 img.jiayuannongye.cn
+127.0.0.1 s.lhusy.com
 #www.gkpass.com
 127.0.0.1 ee.e701.net
 127.0.0.1 f.e703.net
