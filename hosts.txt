@@ -2297,7 +2297,6 @@ ff02::2 ip6-allrouters
 #baidu-soft/hao123
 127.0.0.1 update.123juzi.net
 #baidu-soft/pan
-127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 #qq.com
 127.0.0.1 guanjia.qq.com
@@ -2791,6 +2790,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 d3d.3dwwwgame.com
 127.0.0.1 down.gotek.com.cn
 127.0.0.1 ini.litingxin.cn
+#http://www.dy2018.com/
+127.0.0.1 img.gaore.com
 #henbt.com
 127.0.0.1 j.qiqiww.com
 #icili.me

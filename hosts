@@ -1,5 +1,5 @@
 
-#version=201607171023
+#version=201607181349
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1896,7 +1896,6 @@
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 update.123juzi.net
-127.0.0.1 issuecdn.baidupcs.com
 127.0.0.1 update.pan.baidu.com
 127.0.0.1 guanjia.qq.com
 127.0.0.1 jqmt.qq.com
@@ -2338,6 +2337,7 @@
 127.0.0.1 d3d.3dwwwgame.com
 127.0.0.1 down.gotek.com.cn
 127.0.0.1 ini.litingxin.cn
+127.0.0.1 img.gaore.com
 127.0.0.1 j.qiqiww.com
 127.0.0.1 t.zg71.com
 127.0.0.1 www.cccrir.com

@@ -517,6 +517,8 @@
 220.255.2.153 officialandroid.blogspot.com
 220.255.2.153 android-developers.blogspot.com
 220.255.2.153 android-developers.blogspot.hk
+220.255.2.135 program-think.blogspot.com
+220.255.2.153 developers.googleblog.com
 220.255.2.153 books.google.com
 220.255.2.153 books.google.com.hk
 220.255.2.153 bks0.books.google.com
@@ -938,6 +940,9 @@
 220.255.2.153 mts3.googleapis.com
 220.255.2.153 ct.googleapis.com
 220.255.2.153 commondatastorage.googleapis.com
+220.255.2.153 securetoken.googleapis.com
+220.255.2.153 firebasestorage.googleapis.com
+64.233.188.121 code.getmdl.io
 220.255.2.153 www.googlehosted.com
 220.255.2.153 base.googlehosted.com
 220.255.2.153 base0.googlehosted.com
@@ -2897,6 +2902,8 @@
 64.233.188.188 gcm-preprod.l.google.com
 64.233.188.188 gcm-preprod.googleapis.com
 64.233.171.192 supl.google.com
+216.239.38.21 madewithcode.com
+216.239.38.21 www.madewithcode.com
 5.153.35.171 humble.pubnub.com
 198.41.186.33 humblebundle.com
 203.69.81.33 humblebundle-a.akamaihd.net
