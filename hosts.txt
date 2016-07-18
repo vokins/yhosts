@@ -1131,7 +1131,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
-127.0.0.1 oc.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com

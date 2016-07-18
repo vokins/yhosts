@@ -1,5 +1,5 @@
 
-#version=201607181349
+#version=201607181821
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -959,7 +959,6 @@
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
-127.0.0.1 oc.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com
