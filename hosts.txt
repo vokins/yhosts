@@ -2697,12 +2697,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 img.aahtek.com
+127.0.0.1 s.ekeide.com
 127.0.0.1 qd.moutaihotel.cn
 127.0.0.1 sha.shazhouapparel.com
 127.0.0.1 s.chebse.com
 127.0.0.1 qd.maskbaby.com.cn
 127.0.0.1 s.456juhd.com
-127.0.0.1 img.aahtek.com
 127.0.0.1 uc.xiansuper.com
 127.0.0.1 bigbos.top
 127.0.0.1 cc.bigbos.top
