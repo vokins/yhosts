@@ -1,5 +1,5 @@
 
-#version=201607191413
+#version=201607201324
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2600,7 +2600,6 @@
 127.0.0.1 imgcdn.caolvch.com
 127.0.0.1 its.fugetech.com
 127.0.0.1 do.apkdo.com
-127.0.0.1 img.cnsofas.com
 127.0.0.1 pagead2.lxms2004.com
 127.0.0.1 www.lxms2004.com
 127.0.0.1 diaopic.14bobo.com
@@ -2608,7 +2607,7 @@
 127.0.0.1 dt.39photo.net
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
-
+127.0.0.1 extstat.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com

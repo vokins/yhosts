@@ -3110,7 +3110,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgcdn.caolvch.com
 127.0.0.1 its.fugetech.com
 127.0.0.1 do.apkdo.com
-127.0.0.1 img.cnsofas.com
 127.0.0.1 pagead2.lxms2004.com
 127.0.0.1 www.lxms2004.com
 127.0.0.1 diaopic.14bobo.com
@@ -3118,7 +3117,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 dt.39photo.net
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
-
+#m.btdog.com
+127.0.0.1 extstat.com
 @web-for/all
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com

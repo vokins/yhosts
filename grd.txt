@@ -280,6 +280,7 @@
 104.244.42.136 cdn.syndication.twitter.com
 104.244.42.2 cdn.api.twitter.com
 104.244.42.1 preview.cdn.twitter.com
+104.244.42.3 apps.twitter.com
 220.255.2.153 chatenabled.mail.google.com
 220.255.2.153 filetransferenabled.mail.google.com
 220.255.2.153 gmail.com
