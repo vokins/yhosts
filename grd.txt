@@ -3540,7 +3540,7 @@
 77.238.184.150 ying.com
 183.177.81.75 downloadr.flickr.com
 103.245.222.249 travis-ci-org.global.ssl.fastly.net
-192.30.253.119 gist.github.com
+192.30.253.112 gist.github.com
 64.233.188.121 www.tensorflow.org
 68.232.44.251 w3schools.com
 68.232.44.251 www.w3schools.com

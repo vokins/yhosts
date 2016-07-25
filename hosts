@@ -1,5 +1,5 @@
 
-#version=20160725 806
+#version=201607251836
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2796,7 +2796,6 @@
 127.0.0.1 msg.71.am
 127.0.0.1 msga.71.am
 127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 meta.video.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 static.g.ppstream.com
