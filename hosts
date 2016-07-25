@@ -1,5 +1,5 @@
 
-#version=201607201324
+#version=20160725 806
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1496,7 +1496,6 @@
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
 127.0.0.1 minisite.letv.com
-127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 stat.titan.imgo.tv
 127.0.0.1 bs.da.hunantv.com
@@ -2251,6 +2250,8 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 extstat.com
+127.0.0.1 amiok.org
 127.0.0.1 img.aahtek.com
 127.0.0.1 s.ekeide.com
 127.0.0.1 qd.moutaihotel.cn
@@ -2756,6 +2757,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 syndication.twitter.com
+127.0.0.1 img.baidu9635.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2782,7 +2784,6 @@
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 l.rcd.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com

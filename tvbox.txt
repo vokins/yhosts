@@ -29,7 +29,6 @@
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 l.rcd.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
