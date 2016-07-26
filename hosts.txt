@@ -2696,6 +2696,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 s.yy58ju.com
+127.0.0.1 img.baidu9635.com
 127.0.0.1 extstat.com
 127.0.0.1 amiok.org
 127.0.0.1 img.aahtek.com
@@ -3119,7 +3121,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
 #m.btdog.com
-127.0.0.1 extstat.com
 @web-for/all
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
@@ -3304,5 +3305,3 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.ads.linkedin.com
 #twitter-noads
 127.0.0.1 syndication.twitter.com
-#http://m.80smp4.com/
-127.0.0.1 img.baidu9635.com

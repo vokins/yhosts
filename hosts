@@ -1,5 +1,5 @@
 
-#version=201607251836
+#version=20160727 733
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2250,6 +2250,8 @@
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 s.yy58ju.com
+127.0.0.1 img.baidu9635.com
 127.0.0.1 extstat.com
 127.0.0.1 amiok.org
 127.0.0.1 img.aahtek.com
@@ -2608,7 +2610,6 @@
 127.0.0.1 dt.39photo.net
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
-127.0.0.1 extstat.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 creative.wwwpromoter.com
@@ -2757,7 +2758,6 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 syndication.twitter.com
-127.0.0.1 img.baidu9635.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
