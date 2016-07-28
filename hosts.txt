@@ -2367,12 +2367,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
 #sina-weibo
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 s.alitui.weibo.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
+127.0.0.1 promote.biz.weibo.cn
 @web-cn/photo
 #www.fengniao.com
 127.0.0.1 pic.fengniao.com
@@ -2795,6 +2798,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 ini.litingxin.cn
 #http://www.dy2018.com/
 127.0.0.1 img.gaore.com
+#m.263zw.com
+127.0.0.1 ef363.263zw.com
+127.0.0.1 ef364.263zw.com
+127.0.0.1 ef365.263zw.com
+127.0.0.1 ef366.263zw.com
+127.0.0.1 s1.sxxjdz.com
+127.0.0.1 s1.ynwqls.com
+#http://m.92mh.cc/
+127.0.0.1 img.yy89ju.com
+127.0.0.1 img.cstoa.com
+127.0.0.1 hijs.zh688.com
+127.0.0.1 p73.cd-best.cn
 #henbt.com
 127.0.0.1 j.qiqiww.com
 #icili.me

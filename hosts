@@ -1,5 +1,5 @@
 
-#version=20160727 733
+#version=20160729 753
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1958,12 +1958,15 @@
 127.0.0.1 res.icast.cn
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 s.alitui.weibo.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
+127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
@@ -2341,6 +2344,16 @@
 127.0.0.1 down.gotek.com.cn
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 img.gaore.com
+127.0.0.1 ef363.263zw.com
+127.0.0.1 ef364.263zw.com
+127.0.0.1 ef365.263zw.com
+127.0.0.1 ef366.263zw.com
+127.0.0.1 s1.sxxjdz.com
+127.0.0.1 s1.ynwqls.com
+127.0.0.1 img.yy89ju.com
+127.0.0.1 img.cstoa.com
+127.0.0.1 hijs.zh688.com
+127.0.0.1 p73.cd-best.cn
 127.0.0.1 j.qiqiww.com
 127.0.0.1 t.zg71.com
 127.0.0.1 www.cccrir.com

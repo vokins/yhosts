@@ -8,10 +8,6 @@
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union.m.jd.com
-127.0.0.1 stat.51buy.com
-127.0.0.1 st.icson.com
-127.0.0.1 st.yixun.com
-127.0.0.1 dmtrack.yixun.com
 #taobao
 127.0.0.1 ai.taobao.com
 127.0.0.1 s.click.taobao.com
