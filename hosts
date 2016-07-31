@@ -1,5 +1,5 @@
 
-#version=201607311002
+#version=201607311412
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1450,7 +1450,6 @@
 127.0.0.1 vip.koukou7.com
 127.0.0.1 c.whytoss.com
 127.0.0.1 do.apkdo.com
-127.0.0.1 img.cnsofas.com
 127.0.0.1 down.xiazaiyuan.net
 127.0.0.1 vpie.net
 127.0.0.1 pagead2.lxms2004.com
@@ -2067,7 +2066,6 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
@@ -2075,6 +2073,7 @@
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com

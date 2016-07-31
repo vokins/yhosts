@@ -1788,7 +1788,6 @@ ff02::2 ip6-allrouters
 #www.kan84.net
 127.0.0.1 c.whytoss.com
 127.0.0.1 do.apkdo.com
-127.0.0.1 img.cnsofas.com
 127.0.0.1 down.xiazaiyuan.net
 #www.ttmeiju.com
 127.0.0.1 vpie.net
