@@ -1,31 +1,33 @@
 @cps-click
 #jd
 127.0.0.1 c-nfa.jd.com
-127.0.0.1 re.m.jd.com
-127.0.0.1 union.click.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
+127.0.0.1 re.jd.com
+127.0.0.1 re.m.jd.com
 127.0.0.1 stat.m.jd.com
+127.0.0.1 union.click.jd.com
 127.0.0.1 union.m.jd.com
 #taobao
-127.0.0.1 ai.taobao.com
-127.0.0.1 s.click.taobao.com
+127.0.0.1 agoodm.m.taobao.com
+127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 ai.m.taobao.com
+127.0.0.1 ai.taobao.com
+127.0.0.1 apoll.m.taobao.com
+127.0.0.1 m.intl.taobao.com
 127.0.0.1 re.m.taobao.com
-127.0.0.1 show.re.taobao.com
+127.0.0.1 s.click.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 i.click.taobao.com
+127.0.0.1 s.click.tmall.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 m.simba.taobao.com
 127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 show.re.taobao.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.tmall.com
-127.0.0.1 agoodm.m.taobao.com
-127.0.0.1 agoodm.wapa.taobao.com
-127.0.0.1 apoll.m.taobao.com
 #meituan
 127.0.0.1 push.mobile.meituan.com

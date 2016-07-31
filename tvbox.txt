@@ -22,34 +22,47 @@
 127.0.0.1 store.ptqy.gitv.tv
 #iqiyi
 127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
-127.0.0.1 cmts.iqiyi.com
+127.0.0.1 cm.passport.iqiyi.com
 127.0.0.1 feedback.iqiyi.com
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
+127.0.0.1 iface2.qiyi.com
 127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 im-hist.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 ota.iqiyi.com
+127.0.0.1 paopao.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 msg.71.am
-127.0.0.1 msga.71.am
-127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 msg.video.qiyi.com
-127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 api.msg.pps.tv
+127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
+127.0.0.1 msg.71.am
+127.0.0.1 msga.71.am
+#iqiyi-ios
+127.0.0.1 afp.qiyi.com
+127.0.0.1 cupid.qiyi.com
+127.0.0.1 data.video.qiyi.com
+127.0.0.1 meta.video.qiyi.com
+127.0.0.1 ad.m.iqiyi.com
+127.0.0.1 cupid.iqiyi.com
+127.0.0.1 rcd.iqiyi.com
 #letv
+127.0.0.1 api.game.letvstore.com
+127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
-127.0.0.1 msg.m.letv.com
 #sohu-video
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
@@ -104,3 +117,5 @@
 127.0.0.1 test.ott.youku.com
 127.0.0.1 store.tv.api.3g.youku.com
 127.0.0.1 store.xl.api.3g.youku.com
+127.0.0.1 stats.tudou.com
+127.0.0.1 tdrec.youku.com
