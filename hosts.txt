@@ -796,6 +796,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
 127.0.0.1 ggr.yxdown.com
+127.0.0.1 img.zhihei.com
 @web-cn/health
 #120ask.com
 127.0.0.1 ax.120ask.com
@@ -969,6 +970,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ca.cbsi.com.cn
 127.0.0.1 data.cbsi.com.cn
 127.0.0.1 dmp.cbsi.com.cn
+127.0.0.1 dw.cbsi.com
 127.0.0.1 dw.cbsi.com.cn
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
@@ -1247,10 +1249,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 rtlog.vidown.cn
 127.0.0.1 tj.vidown.cn
 #wasu.cn
-127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 adsystem.wasu.tv
 127.0.0.1 afp.wasu.cn
+127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 collector.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
+127.0.0.1 beacon.securestudies.com
 127.0.0.1 img.chengruide.com
 #www.ahtv.cn
 127.0.0.1 advapi.ahtv.cn
@@ -2991,7 +2996,8 @@ ff02::2 ip6-allrouters
 #diggbt.net
 127.0.0.1 bb.jw90.com
 127.0.0.1 down.gotek.com.cn
-#http://www.dy2018.com/
+#
+127.0.0.1 www.dy2018.com/
 127.0.0.1 img.gaore.com
 #m.263zw.com
 127.0.0.1 ef363.263zw.com
@@ -2999,7 +3005,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ef365.263zw.com
 127.0.0.1 ef366.263zw.com
 127.0.0.1 s1.sxxjdz.com
-#http://m.92mh.cc/
+127.0.0.1 m.92mh.cc/
 127.0.0.1 img.yy89ju.com
 127.0.0.1 img.cstoa.com
 127.0.0.1 hijs.zh688.com
