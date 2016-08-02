@@ -228,7 +228,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
-127.0.0.1 api.m.taobao.com
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com

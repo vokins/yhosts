@@ -1,5 +1,5 @@
 
-#version=201608021635
+#version=201608021640
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -196,7 +196,6 @@
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
-127.0.0.1 api.m.taobao.com
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
