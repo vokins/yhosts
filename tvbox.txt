@@ -53,7 +53,6 @@
 #iqiyi-ios
 127.0.0.1 afp.qiyi.com
 127.0.0.1 cupid.qiyi.com
-127.0.0.1 data.video.qiyi.com
 127.0.0.1 meta.video.qiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 cupid.iqiyi.com
