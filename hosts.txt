@@ -917,6 +917,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.x.evolife.cn
 #feng.com
 127.0.0.1 yes1.feng.com
+127.0.0.1 cell.zhybzp.cn
+127.0.0.1 lynn.zgsemi.cn
+127.0.0.1 ss2.zsjuchang.cn
 #it168.com
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com
@@ -1208,6 +1211,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 mcgi.play.aiseet.atianqi.com
+#wx.qq.com
+127.0.0.1 wxsnsdy.tc.qq.com
 #uusee.com
 127.0.0.1 winvvv.com
 #v.dopool.com
@@ -2526,6 +2531,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
@@ -2919,6 +2925,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.shuaitong5.net
+127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
 127.0.0.1 img.contx.cn
 127.0.0.1 s.yy58ju.com

@@ -1,5 +1,5 @@
 
-#version=20160802 947
+#version=201608021635
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -746,6 +746,9 @@
 127.0.0.1 www9.enet.com.cn
 127.0.0.1 g.x.evolife.cn
 127.0.0.1 yes1.feng.com
+127.0.0.1 cell.zhybzp.cn
+127.0.0.1 lynn.zgsemi.cn
+127.0.0.1 ss2.zsjuchang.cn
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
@@ -998,6 +1001,7 @@
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 mcgi.play.aiseet.atianqi.com
+127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 winvvv.com
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad.dopool.com
@@ -2062,6 +2066,7 @@
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
@@ -2414,6 +2419,7 @@
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
 127.0.0.1 img.contx.cn
 127.0.0.1 s.yy58ju.com
