@@ -1,5 +1,5 @@
 
-#version=201608021640
+#version=201608042124
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2583,6 +2583,15 @@
 127.0.0.1 s.sxytx.cn
 127.0.0.1 w.banlaa.com
 127.0.0.1 a.tnldt.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
 127.0.0.1 js.chinaheh.com
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 pic.shaidouzi.com
@@ -2791,6 +2800,10 @@
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2813,8 +2826,6 @@
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
-127.0.0.1 cm.passport.iqiyi.com
-127.0.0.1 feedback.iqiyi.com
 127.0.0.1 gamecenter.iqiyi.com
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 iface2.qiyi.com

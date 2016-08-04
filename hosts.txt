@@ -3103,6 +3103,16 @@ ff02::2 ip6-allrouters
 #m.ttdyy.tv
 127.0.0.1 w.banlaa.com
 127.0.0.1 a.tnldt.com
+#www.xchssm.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
 @web-pops/video
 #m.kk3.cc
 127.0.0.1 js.chinaheh.com
@@ -3362,3 +3372,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
+#btdb.in
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 dr3k6qonw2kee.cloudfront.net
