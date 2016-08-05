@@ -377,6 +377,7 @@
 220.255.2.153 goto.google.com
 220.255.2.153 gxc.google.com
 220.255.2.153 history.google.com
+220.255.2.153 myactivity.google.com
 220.255.2.153 investor.google.com
 220.255.2.153 jmt0.google.com
 220.255.2.153 keep.google.com
@@ -3559,7 +3560,7 @@
 103.245.222.249 travis-ci-org.global.ssl.fastly.net
 192.30.253.112 gist.github.com
 64.233.188.121 www.tensorflow.org
-68.232.44.251 w3schools.com
+66.29.212.110 w3schools.com
 68.232.44.251 www.w3schools.com
 104.16.120.127 medium.com
 104.16.120.145 cdn-static-1.medium.com
