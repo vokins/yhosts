@@ -1,5 +1,5 @@
 
-#version=201608051206
+#version=201608052249
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1480,7 +1480,6 @@
 127.0.0.1 img.aahtek.com
 127.0.0.1 qd.maskbaby.com.cn
 127.0.0.1 s.456juhd.com
-127.0.0.1 uc.xiansuper.com
 127.0.0.1 bigbos.top
 127.0.0.1 cc.bigbos.top
 127.0.0.1 kti.bigbos.top
@@ -2418,6 +2417,47 @@
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+cdn.cdnimage.xyz 198.41.206.61
+cdn.cdnimage.xyz 198.41.206.62
+cdn.cdnimage.xyz 198.41.206.63
+cdn.cdnimage.xyz 198.41.206.64
+cdn.cdnimage.xyz 198.41.206.65
+cdn.cdnimage.xyz 198.41.206.66
+cdn.cdnimage.xyz 198.41.206.67
+cdn.cdnimage.xyz 198.41.206.68
+cdn.cdnimage.xyz 198.41.206.69
+cdn.cdnimage.xyz 198.41.206.70
+image.cdnimage.xyz 198.41.206.61
+image.cdnimage.xyz 198.41.206.62
+image.cdnimage.xyz 198.41.206.63
+image.cdnimage.xyz 198.41.206.64
+image.cdnimage.xyz 198.41.206.65
+image.cdnimage.xyz 198.41.206.66
+image.cdnimage.xyz 198.41.206.67
+image.cdnimage.xyz 198.41.206.68
+image.cdnimage.xyz 198.41.206.69
+image.cdnimage.xyz 198.41.206.70
+image.shuaigay.xyz 198.41.206.61
+image.shuaigay.xyz 198.41.206.62
+image.shuaigay.xyz 198.41.206.63
+image.shuaigay.xyz 198.41.206.64
+image.shuaigay.xyz 198.41.206.65
+image.shuaigay.xyz 198.41.206.66
+image.shuaigay.xyz 198.41.206.67
+image.shuaigay.xyz 198.41.206.68
+image.shuaigay.xyz 198.41.206.69
+image.shuaigay.xyz 198.41.206.70
+cdnimage.shuaigay.xyz 198.41.206.61
+cdnimage.shuaigay.xyz 198.41.206.62
+cdnimage.shuaigay.xyz 198.41.206.63
+cdnimage.shuaigay.xyz 198.41.206.64
+cdnimage.shuaigay.xyz 198.41.206.65
+cdnimage.shuaigay.xyz 198.41.206.66
+cdnimage.shuaigay.xyz 198.41.206.67
+cdnimage.shuaigay.xyz 198.41.206.68
+cdnimage.shuaigay.xyz 198.41.206.69
+cdnimage.shuaigay.xyz 198.41.206.70
+127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
 127.0.0.1 img.contx.cn

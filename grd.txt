@@ -46,6 +46,8 @@
 23.235.33.134 blog.disqus.com
 50.18.249.249 help.disqus.com
 23.235.33.134 content.disqus.com
+23.235.37.134 referrer.disqus.com
+23.235.37.134 apkpure.disqus.com
 218.254.1.13 db.tt
 218.254.1.13 dropbox.com
 218.254.1.13 m.dropbox.com
@@ -986,6 +988,8 @@
 220.255.2.153 bigcache.googleapis.com
 220.255.2.153 chart.googleapis.com
 220.255.2.153 content.googleapis.com
+220.255.2.153 khms0.googleapis.com
+220.255.2.153 khms1.googleapis.com
 220.255.2.153 maps.googleapis.com
 220.255.2.153 origin-commondatastorage.googleapis.com
 216.58.221.144 commondatastorage.googleapis.com
