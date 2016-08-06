@@ -1,5 +1,5 @@
 
-#version=201608052249
+#version=20160806 939
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1516,6 +1516,11 @@
 127.0.0.1 minfo.wps.cn
 127.0.0.1 moupdate10332052.wps.cn
 127.0.0.1 pcfg.wps.cn
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 cloudservice15.kingsoft-office-service.com
+127.0.0.1 cloudservice19.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice28.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 img.particlenews.com
