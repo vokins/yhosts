@@ -29,7 +29,6 @@
 127.0.0.1 iface.iqiyi.com
 127.0.0.1 iface2.qiyi.com
 127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 im-hist.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.video.qiyi.com
@@ -38,7 +37,6 @@
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 ota.iqiyi.com
-127.0.0.1 paopao.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com

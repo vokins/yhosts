@@ -1702,6 +1702,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 xk.xk2012.com
 127.0.0.1 cpv.czpush.com
 127.0.0.1 static.2.chenggao.cn
+127.0.0.1 js.lyrymy.com
+127.0.0.1 js3555.tiangu99.com
+127.0.0.1 js883.yijia2009.com
+127.0.0.1 nba.goodemc.com
+127.0.0.1 p1.3d-dyj.cn
+127.0.0.1 wazero.online
+127.0.0.1 cc.ccg51.win
 #dytt8.net
 127.0.0.1 www.37cs.com
 127.0.0.1 ps.haohaowan8.com
