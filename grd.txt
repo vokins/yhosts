@@ -1208,6 +1208,15 @@
 220.255.2.153 play.google.com
 220.255.2.153 payments.google.com
 220.255.2.153 android.clients.google.com
+220.255.2.153 withgoogle.com
+220.255.2.153 www.withgoogle.com
+220.255.2.153 edutrainingcenter.withgoogle.com
+220.255.2.153 earthview.withgoogle.com
+220.255.2.153 lightsaber.withgoogle.com
+220.255.2.153 britishmuseum.withgoogle.com
+220.255.2.153 beyondthemap.withgoogle.com
+220.255.2.153 analyticsacademy.withgoogle.com
+220.255.2.153 spellup.withgoogle.com
 220.255.2.153 www.googleusercontent.com
 220.255.2.153 apidata.googleusercontent.com
 220.255.2.153 androidmarket.googleusercontent.com

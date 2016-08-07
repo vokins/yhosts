@@ -1,5 +1,5 @@
 
-#version=201608071517
+#version=201608071752
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1019,7 +1019,6 @@
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 pingfore.qq.com
 127.0.0.1 pinghot.qq.com
-127.0.0.1 pingjs.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 imc.l.qq.com
 127.0.0.1 l.qq.com
