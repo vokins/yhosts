@@ -1685,7 +1685,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
-#btkitty.ws
+#btkitty.ws/red
 127.0.0.1 1234xm.com
 127.0.0.1 55336.5ip9.com
 127.0.0.1 a.xhnlf.com
@@ -1709,6 +1709,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 p1.3d-dyj.cn
 127.0.0.1 wazero.online
 127.0.0.1 cc.ccg51.win
+127.0.0.1 il722.junxiaoniu.com
+127.0.0.1 i.bsshw.net
+127.0.0.1 ck.scltn.cn
 #dytt8.net
 127.0.0.1 www.37cs.com
 127.0.0.1 ps.haohaowan8.com

@@ -51,7 +51,6 @@
 127.0.0.1 cupid.qiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 cupid.iqiyi.com
-127.0.0.1 rcd.iqiyi.com
 #letv
 127.0.0.1 api.game.letvstore.com
 127.0.0.1 msg.m.letv.com

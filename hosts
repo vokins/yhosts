@@ -1,5 +1,5 @@
 
-#version=201608071318
+#version=201608071326
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1385,6 +1385,9 @@
 127.0.0.1 p1.3d-dyj.cn
 127.0.0.1 wazero.online
 127.0.0.1 cc.ccg51.win
+127.0.0.1 il722.junxiaoniu.com
+127.0.0.1 i.bsshw.net
+127.0.0.1 ck.scltn.cn
 127.0.0.1 www.37cs.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 ini.litingxin.cn
@@ -2912,7 +2915,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 cupid.qiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 cupid.iqiyi.com
-127.0.0.1 rcd.iqiyi.com
 127.0.0.1 api.game.letvstore.com
 127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
