@@ -340,9 +340,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.csbew.com
 127.0.0.1 tga.csbew.com
 #fastapi
-127.0.0.1 g.fastapi.net
 127.0.0.1 cm.fastapi.net
+127.0.0.1 g.fastapi.net
+127.0.0.1 l.fastapi.net
 127.0.0.1 pic.fastapi.net
+127.0.0.1 s.fastapi.net
 #google
 127.0.0.1 g.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
