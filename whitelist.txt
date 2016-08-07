@@ -82,3 +82,4 @@ disp.titan.mgtv.com 刚试了下芒果TV，发现误杀导致不能播放视频：
 meta.video.qiyi.com 这个域名是网页版爱奇艺快进功能
 127.0.0.1 api.m.taobao.com
 127.0.0.1 pingjs.qq.com
+127.0.0.1 iface.iqiyi.com vip充值界面加载

@@ -2988,6 +2988,7 @@ cdnimage.shuaigay.xyz 198.41.206.67
 cdnimage.shuaigay.xyz 198.41.206.68
 cdnimage.shuaigay.xyz 198.41.206.69
 cdnimage.shuaigay.xyz 198.41.206.70
+127.0.0.1 uc.xiansuper.com
 127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com

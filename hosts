@@ -1,5 +1,5 @@
 
-#version=201608071752
+#version=201608071836
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2482,6 +2482,7 @@ cdnimage.shuaigay.xyz 198.41.206.67
 cdnimage.shuaigay.xyz 198.41.206.68
 cdnimage.shuaigay.xyz 198.41.206.69
 cdnimage.shuaigay.xyz 198.41.206.70
+127.0.0.1 uc.xiansuper.com
 127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
@@ -2905,7 +2906,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cm.passport.iqiyi.com
 127.0.0.1 gamecenter.iqiyi.com
-127.0.0.1 iface.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 msg.iqiyi.com
