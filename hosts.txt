@@ -1686,9 +1686,22 @@ ff02::2 ip6-allrouters
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
 #btkitty.ws
+127.0.0.1 1234xm.com
+127.0.0.1 55336.5ip9.com
 127.0.0.1 a.xhnlf.com
+127.0.0.1 c.code222.com
+127.0.0.1 ccg51.win
+127.0.0.1 code.jojomu.com
+127.0.0.1 ii.bsshw.net
 127.0.0.1 img.khgj.cn
+127.0.0.1 js.jianbaimei.com
+127.0.0.1 js883.chengzhao95511.com
+127.0.0.1 js883.yongkang6.com
 127.0.0.1 s.khgj.cn
+127.0.0.1 u034024.nr1234.com
+127.0.0.1 xk.xk2012.com
+127.0.0.1 cpv.czpush.com
+127.0.0.1 static.2.chenggao.cn
 #dytt8.net
 127.0.0.1 www.37cs.com
 127.0.0.1 ps.haohaowan8.com
@@ -1762,7 +1775,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
 127.0.0.1 www.baigm.com
-127.0.0.1 c.code222.com
 127.0.0.1 good.ta80.com
 127.0.0.1 z.top267.com
 127.0.0.1 cloud.zyiis.net
@@ -2896,10 +2908,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.tukeai.com
 127.0.0.1 i2.wljnj.com
 #diggbt.me
-127.0.0.1 js883.yongkang6.com
-127.0.0.1 1234xm.com
 127.0.0.1 ghavcb.520jr.com
-127.0.0.1 js.jianbaimei.com
 127.0.0.1 z.kt0731.com
 127.0.0.1 img.sxxjdz.com
 127.0.0.1 img1.pszyzxh.org
