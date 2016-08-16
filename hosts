@@ -1,5 +1,5 @@
 
-#version=201608161346
+#version=201608162301
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2815,6 +2815,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 spdmg-backend.i-mobile.co.jp
 127.0.0.1 spdmg.i-mobile.co.jp
 127.0.0.1 assets.gunosy.com
+127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 b.photobucket.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 ads.pubmatic.com
@@ -2905,6 +2906,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 content.s8bbs.com
 127.0.0.1 img.s8bbs.com
 127.0.0.1 s1.s8tu.com
+127.0.0.1 7xp1b4.com1.z0.glb.clouddn.com
 127.0.0.1 t.91chs.com
 127.0.0.1 x.55peixun.com
 127.0.0.1 rc.xxhrd.com
