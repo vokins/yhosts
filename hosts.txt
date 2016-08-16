@@ -690,6 +690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
+127.0.0.1 m.1680go.com
 #ce.cn
 127.0.0.1 ads.ce.cn
 #cnfol.com
@@ -749,7 +750,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.00oo00.com
 #17173.com
 127.0.0.1 cvda.17173.com
-127.0.0.1 images.17173.com
 127.0.0.1 log1.17173.com
 127.0.0.1 vda.17173.com
 127.0.0.1 s.17173cdn.com
@@ -2870,7 +2870,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.bx518.com
 127.0.0.1 download.m.37.com
 127.0.0.1 rc.toourbb.com
-127.0.0.1 static.sdg-china.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
@@ -3226,6 +3225,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 a.baiy.net
 127.0.0.1 b.baiy.net
 #www.xiamp4.com
+127.0.0.1 img.fhxnx.com
 127.0.0.1 lmcdn1.admin5.com
 127.0.0.1 lm.admin5.com
 127.0.0.1 slb.tiangoutai.com
