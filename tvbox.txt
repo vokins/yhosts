@@ -101,6 +101,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 s.p.youku.com
+127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 sdk.m.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
 127.0.0.1 stat.youku.com
@@ -113,3 +114,5 @@
 127.0.0.1 test.sdk.m.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 wan.youku.com
+127.0.0.1 ykrec.youku.com
+127.0.0.1 ykrectab.youku.com

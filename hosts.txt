@@ -690,6 +690,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
+#m.china.caixin.com
 127.0.0.1 m.1680go.com
 #ce.cn
 127.0.0.1 ads.ce.cn
@@ -755,6 +756,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.17173cdn.com
 127.0.0.1 imgapp.yeyou.com
 127.0.0.1 ue.yeyoucdn.com
+127.0.0.1 17173im.qtmojo.com
 127.0.0.1 samba.adsame.com
 #178.com
 127.0.0.1 analytics.wanmei.com
@@ -1587,6 +1589,18 @@ ff02::2 ip6-allrouters
 127.0.0.1 js1157.yongkang6.com
 127.0.0.1 s1.ynwqls.com
 127.0.0.1 img.baidu9635.com
+#m.80s.tw
+127.0.0.1 il728.caijuedian.com
+127.0.0.1 img.tianqi777.com
+127.0.0.1 sva88.czjiuding.cn
+#m.wangpan007.com
+127.0.0.1 a.xhnlf.com
+127.0.0.1 ag.nukefans.net
+127.0.0.1 cb.h5.coffeedak.cn
+127.0.0.1 s.ukeiae.com
+127.0.0.1 xt.xxwkjl.com
+127.0.0.1 s.xxhrd.com
+127.0.0.1 s.ekeide.com
 #m.ddmm.cc
 127.0.0.1 a.tnlbd.com
 127.0.0.1 u.yiiwoo.com
@@ -1694,7 +1708,6 @@ ff02::2 ip6-allrouters
 #btkitty.ws/red
 127.0.0.1 1234xm.com
 127.0.0.1 55336.5ip9.com
-127.0.0.1 a.xhnlf.com
 127.0.0.1 c.code222.com
 127.0.0.1 ccg51.win
 127.0.0.1 code.jojomu.com
@@ -1730,7 +1743,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.jiajv.net
 127.0.0.1 i.9le.net
 127.0.0.1 a.ydlnt.com
-127.0.0.1 ag.nukefans.net
 127.0.0.1 ig.wlknb.com
 127.0.0.1 sg.keytui.com
 #icili.me
@@ -2203,7 +2215,6 @@ ff02::2 ip6-allrouters
 #qtmojo.c
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
-127.0.0.1 17173im.qtmojo.com
 127.0.0.1 csdnim.qtmojo.com
 127.0.0.1 lejuim.qtmojo.com
 127.0.0.1 mmae.qtmojo.com
@@ -3001,11 +3012,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 s.yy58ju.com
 127.0.0.1 extstat.com
 127.0.0.1 amiok.org
-127.0.0.1 s.ekeide.com
 127.0.0.1 qd.moutaihotel.cn
 127.0.0.1 sha.shazhouapparel.com
 127.0.0.1 s.chebse.com
-127.0.0.1 s.ukeiae.com
 127.0.0.1 s.376zf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
@@ -3138,8 +3147,12 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 scimg.27admin.com
 127.0.0.1 static.tv508.com
 #m.kb20.cc
-127.0.0.1 i.zt-dq.com
+127.0.0.1 jssd.kb20.cc
 127.0.0.1 a.tnlfk.com
+127.0.0.1 csimg.zcxhl.com
+127.0.0.1 i.zt-dq.com
+127.0.0.1 sssd.qjcfzs.com
+127.0.0.1 sssd.rpayw.com
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -3192,6 +3205,10 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #m.tepian.com
 127.0.0.1 pic.shaidouzi.com
 127.0.0.1 w2.banlaa.com
+127.0.0.1 e.0313413.com
+127.0.0.1 img3.doubanio.com
+127.0.0.1 s5.0594003.com
+127.0.0.1 www.yodong.com
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
@@ -3267,6 +3284,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
 #m.btdog.com
+127.0.0.1 cc.yfi052.pw
 @web-for/all
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 cdn.viglink.com
@@ -3454,3 +3472,4 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 i.rtkshealth.com
 127.0.0.1 s.staqnet.com
 127.0.0.1 s.fytza.cn
+127.0.0.1 www.cooolyi.com
