@@ -648,6 +648,8 @@ ff02::2 ip6-allrouters
 #dabaicai
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
+#ie
+127.0.0.1 hao.qquu8.com
 @web-cn/comic
 #www.comicer.com
 127.0.0.1 js.1688988.com

@@ -1,5 +1,5 @@
 
-#version=201608162301
+#version=20160817 007
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -549,6 +549,7 @@
 127.0.0.1 down.diannaodian.com
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
+127.0.0.1 hao.qquu8.com
 127.0.0.1 js.1688988.com
 127.0.0.1 tz.1688988.com
 127.0.0.1 tj.u17t.com
