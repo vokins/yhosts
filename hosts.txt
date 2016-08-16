@@ -3485,3 +3485,16 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 content.s8bbs.com
 127.0.0.1 img.s8bbs.com
 127.0.0.1 s1.s8tu.com
+#m.biquge.cc
+127.0.0.1 t.91chs.com
+127.0.0.1 x.55peixun.com
+#m.biquge.com.tw
+127.0.0.1 rc.xxhrd.com
+127.0.0.1 img.rqgsf.com
+#m.dingdianzw.com
+127.0.0.1 img.qun89.com
+127.0.0.1 www.nbjjd.com
+#www.tianyucangqiong1.com
+127.0.0.1 id1.anreson.net
+127.0.0.1 www.iiad.com
+127.0.0.1 js3987.yzh360.com
