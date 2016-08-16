@@ -77,9 +77,10 @@ sta.ganji.com
 ifacel.iqiyi.com
 issuecdn.baidupcs.com
 oc.umeng.com 福利浏览器，误杀。
-l.rcd.iqiyi.com 爱奇艺误杀
+爱奇艺客户端观看记录图片被误杀：l.rcd.iqiyi.com
 disp.titan.mgtv.com 刚试了下芒果TV，发现误杀导致不能播放视频：
 meta.video.qiyi.com 这个域名是网页版爱奇艺快进功能
 127.0.0.1 api.m.taobao.com
 127.0.0.1 pingjs.qq.com
 127.0.0.1 iface.iqiyi.com vip充值界面加载
+avd.qidian.com 这个是起点的安全登陆验证

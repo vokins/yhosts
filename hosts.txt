@@ -21,6 +21,9 @@ ff02::2 ip6-allrouters
 #processlasso-https://bitsum.com/
 127.0.0.1 www.bitsumactivationserver.com
 @direct-site
+#dxomark
+5.196.172.196 www.dxomark.com
+43.245.63.28 cdn.dxomark.com
 #uvwxyz.xyz
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -549,7 +552,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.itaoxiaoshuo.com
 #qidian.com
 127.0.0.1 a.game.qidian.com
-127.0.0.1 avd.qidian.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 dwtrack.qidian.com
 127.0.0.1 o.if.qidian.com
@@ -894,6 +896,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 stat.chinaso.com
 #chinaz.com
 127.0.0.1 stats.chinaz.com
+#cnbeta.com
+127.0.0.1 blb.winasdaq.com
+127.0.0.1 un.winasdaq.com
 #cnmo.com
 127.0.0.1 pic.cnmo-img.com.cn
 127.0.0.1 icon.cnmo.com
@@ -2561,6 +2566,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 union.dbba.cn
 #miui-browser
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
@@ -3443,3 +3449,8 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
+#m.250sy.net
+127.0.0.1 img.baotoushanghui.com
+127.0.0.1 i.rtkshealth.com
+127.0.0.1 s.staqnet.com
+127.0.0.1 s.fytza.cn

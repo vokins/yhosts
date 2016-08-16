@@ -1,5 +1,5 @@
 
-#version=201608071836
+#version=201608161114
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -12,6 +12,8 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
 127.0.0.1 www.bitsumactivationserver.com
+5.196.172.196 www.dxomark.com
+43.245.63.28 cdn.dxomark.com
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
@@ -473,7 +475,6 @@
 127.0.0.1 tjlog.ps.easou.com
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 a.game.qidian.com
-127.0.0.1 avd.qidian.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 dwtrack.qidian.com
 127.0.0.1 o.if.qidian.com
@@ -729,6 +730,8 @@
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
+127.0.0.1 blb.winasdaq.com
+127.0.0.1 un.winasdaq.com
 127.0.0.1 pic.cnmo-img.com.cn
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
@@ -2096,6 +2099,7 @@
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 union.dbba.cn
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
@@ -2870,6 +2874,10 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
+127.0.0.1 img.baotoushanghui.com
+127.0.0.1 i.rtkshealth.com
+127.0.0.1 s.staqnet.com
+127.0.0.1 s.fytza.cn
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
