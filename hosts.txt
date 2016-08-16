@@ -1067,10 +1067,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 biz5.sandai.net
 127.0.0.1 float.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
+127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 material.ssp.xunlei.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
@@ -3203,12 +3206,15 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 #m.tepian.com
-127.0.0.1 pic.shaidouzi.com
-127.0.0.1 w2.banlaa.com
 127.0.0.1 e.0313413.com
 127.0.0.1 img3.doubanio.com
+127.0.0.1 l5.fwt0.com
+127.0.0.1 pic.shaidouzi.com
 127.0.0.1 s5.0594003.com
+127.0.0.1 w2.banlaa.com
+127.0.0.1 www.billionfocus.com
 127.0.0.1 www.yodong.com
+127.0.0.1 zz.bdstatic.com
 #www.263tvb.com
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 u.1133.cc
@@ -3473,3 +3479,10 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 s.staqnet.com
 127.0.0.1 s.fytza.cn
 127.0.0.1 www.cooolyi.com
+#showgirl88.net
+127.0.0.1 adp.s8bbs.com
+127.0.0.1 adv.s8bbs.com
+127.0.0.1 attach.s8bbs.com
+127.0.0.1 content.s8bbs.com
+127.0.0.1 img.s8bbs.com
+127.0.0.1 s1.s8tu.com

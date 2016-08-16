@@ -116,3 +116,10 @@
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
+#youku-area
+127.0.0.1 211.151.146.65
+127.0.0.1 211.157.171.237
+127.0.0.1 b.smartvideo.youku.com
+127.0.0.1 hp.smiler-ad.com
+127.0.0.1 static8.pmadx.com
+127.0.0.1 www.bfshan.cn
