@@ -2676,7 +2676,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
-127.0.0.1 znsv.baidu.com
 #baidu/music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com

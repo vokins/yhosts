@@ -1,5 +1,5 @@
 
-#version=201608161310
+#version=201608161315
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2196,7 +2196,6 @@
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
-127.0.0.1 znsv.baidu.com
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
 127.0.0.1 ttmsg.qianqian.com

@@ -86,3 +86,5 @@ meta.video.qiyi.com 这个域名是网页版爱奇艺快进功能
 avd.qidian.com 这个是起点的安全登陆验证
 127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml 图片全给XX了
 127.0.0.1 static.sdg-china.com http://dq.sdo.com/ 
+127.0.0.1 znsv.baidu.com http://www.shoudian.org/forum.php?mod=forumdisplay&fid=19
+用了你的simpleu hosts会导致左上的搜索框点击无效，你任意填个词点击搜索按钮就可以观察到效果
