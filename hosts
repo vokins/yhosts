@@ -1,5 +1,5 @@
 
-#version=20160817 946
+#version=201608172105
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -311,7 +311,6 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
-127.0.0.1 www.google-analytics.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
