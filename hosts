@@ -1,5 +1,5 @@
 
-#version=20160817 007
+#version=20160817 946
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -402,6 +402,11 @@
 127.0.0.1 sina.wrating.com
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
+127.0.0.1 cdn.innity.net
+127.0.0.1 cast.innity.com
+127.0.0.1 avn.innity.com
+127.0.0.1 cdn.media.innity.net
+127.0.0.1 ssl-cdn.media.innity.net
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com

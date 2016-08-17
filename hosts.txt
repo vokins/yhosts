@@ -462,6 +462,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 sina.wrating.com
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
+#sina.com.hk
+127.0.0.1 cdn.innity.net
+127.0.0.1 cast.innity.com
+127.0.0.1 avn.innity.com
+127.0.0.1 cdn.media.innity.net
+127.0.0.1 ssl-cdn.media.innity.net
 #sina-igexin
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
