@@ -1,5 +1,5 @@
 
-#version=201608172105
+#version=201608182314
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2681,7 +2681,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 js.chinaheh.com
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 e.0313413.com
-127.0.0.1 img3.doubanio.com
 127.0.0.1 l5.fwt0.com
 127.0.0.1 pic.shaidouzi.com
 127.0.0.1 s5.0594003.com
@@ -2921,6 +2920,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 id1.anreson.net
 127.0.0.1 www.iiad.com
 127.0.0.1 js3987.yzh360.com
+127.0.0.1 wx.8536818.com  
+127.0.0.1 hao.1235k.com
+127.0.0.1 apisoft.df0535.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com

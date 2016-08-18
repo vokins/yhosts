@@ -371,6 +371,8 @@
 220.255.2.153 contributor.google.com
 220.255.2.153 desktop.google.com
 220.255.2.153 desktop2.google.com
+220.255.2.153 dl.google.com
+220.255.2.153 dl.l.google.com
 220.255.2.153 encrypted.google.com
 220.255.2.153 encrypted-tbn0.google.com
 220.255.2.153 encrypted-tbn1.google.com
