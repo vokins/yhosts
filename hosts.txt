@@ -3446,3 +3446,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wx.8536818.com  
 127.0.0.1 hao.1235k.com
 127.0.0.1 apisoft.df0535.com
+#m.23wx.com
+127.0.0.1 c.bxjpl.cn
+127.0.0.1 img.stgemini.com
+127.0.0.1 s.bxjpl.cn
