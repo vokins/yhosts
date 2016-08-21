@@ -2951,7 +2951,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
-#www.shuaigay.cc
+#www.shuaigay.top
+127.0.0.1 js.xiansuper.com
 127.0.0.1 uc.xiansuper.com
 127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
