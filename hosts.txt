@@ -217,6 +217,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 users.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
+#55.la
+127.0.0.1 s4.55.la
 #51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
@@ -2962,16 +2964,6 @@ cdn.cdnimage.xyz 198.41.206.67
 cdn.cdnimage.xyz 198.41.206.68
 cdn.cdnimage.xyz 198.41.206.69
 cdn.cdnimage.xyz 198.41.206.70
-cdnimage.shuaigay.xyz 198.41.206.61
-cdnimage.shuaigay.xyz 198.41.206.62
-cdnimage.shuaigay.xyz 198.41.206.63
-cdnimage.shuaigay.xyz 198.41.206.64
-cdnimage.shuaigay.xyz 198.41.206.65
-cdnimage.shuaigay.xyz 198.41.206.66
-cdnimage.shuaigay.xyz 198.41.206.67
-cdnimage.shuaigay.xyz 198.41.206.68
-cdnimage.shuaigay.xyz 198.41.206.69
-cdnimage.shuaigay.xyz 198.41.206.70
 image.cdnimage.xyz 198.41.206.61
 image.cdnimage.xyz 198.41.206.62
 image.cdnimage.xyz 198.41.206.63
@@ -2992,8 +2984,17 @@ image.shuaigay.xyz 198.41.206.67
 image.shuaigay.xyz 198.41.206.68
 image.shuaigay.xyz 198.41.206.69
 image.shuaigay.xyz 198.41.206.70
+cdnimage.shuaigay.xyz 198.41.206.61
+cdnimage.shuaigay.xyz 198.41.206.62
+cdnimage.shuaigay.xyz 198.41.206.63
+cdnimage.shuaigay.xyz 198.41.206.64
+cdnimage.shuaigay.xyz 198.41.206.65
+cdnimage.shuaigay.xyz 198.41.206.66
+cdnimage.shuaigay.xyz 198.41.206.67
+cdnimage.shuaigay.xyz 198.41.206.68
+cdnimage.shuaigay.xyz 198.41.206.69
+cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 js.xiansuper.com
-127.0.0.1 uc.xiansuper.com
 127.0.0.1 z.moatads.com
 127.0.0.1 img.88duk.com
 127.0.0.1 s.ajuhd.com
