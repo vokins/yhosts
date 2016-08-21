@@ -1806,6 +1806,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 il728.caijuedian.com
 127.0.0.1 img.tianqi777.com
 127.0.0.1 sva88.czjiuding.cn
+127.0.0.1 il82.tlywgs.cn
+127.0.0.1 sva817.minjiadian.cn
 #m.wangpan007.com
 127.0.0.1 a.xhnlf.com
 127.0.0.1 ag.nukefans.net
@@ -3450,3 +3452,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.bxjpl.cn
 127.0.0.1 img.stgemini.com
 127.0.0.1 s.bxjpl.cn
+#myhktv.com
+127.0.0.1 s.010xk.com
+127.0.0.1 rc.010xk.com
+127.0.0.1 img.nsywb.com
+127.0.0.1 img.xrtzf.com
+#m.zngirls.com
+127.0.0.1 rc.szfaq.com
+#m.panduoduo.net
+127.0.0.1 s.szfaq.com
+127.0.0.1 s.bccyyc.com
+127.0.0.1 s.cooolyi.cn
