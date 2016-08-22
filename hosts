@@ -1,5 +1,5 @@
 
-#version=201608212342
+#version=20160822 957
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -359,6 +359,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 cms.opendsp.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
+127.0.0.1 ef.opendsp.tanx.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 opendsp.tanx.com
