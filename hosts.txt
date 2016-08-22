@@ -3510,3 +3510,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 s.szfaq.com
 127.0.0.1 s.bccyyc.com
 127.0.0.1 s.cooolyi.cn
+#m.a4yy.com
+127.0.0.1 slb.kanshangqiu.com
+#m.7kk.com
+127.0.0.1 img.tygws.com
+#m.5442.com
+127.0.0.1 un.xlcun.com
