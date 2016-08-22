@@ -90,3 +90,4 @@ avd.qidian.com 这个是起点的安全登陆验证
 用了你的simpleu hosts会导致左上的搜索框点击无效，你任意填个词点击搜索按钮就可以观察到效果
 www.google-analytics.com
 pr.da.netease.com # 易信公告
+127.0.0.1 minisite.letv.com letv直播

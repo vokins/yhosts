@@ -1378,7 +1378,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
-127.0.0.1 minisite.letv.com
 #mgtv.com
 127.0.0.1 stat.titan.imgo.tv
 127.0.0.1 g.wan.mgtv.com
