@@ -1,5 +1,5 @@
 
-#version=20160822 957
+#version=201608221115
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -2188,6 +2188,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 m.analytics.126.net
 127.0.0.1 mimg.126.net
 127.0.0.1 news.push.126.net
+127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
@@ -2216,6 +2217,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 ydpushserver.youdao.com
+127.0.0.1 oimagea8.ydstatic.com
 127.0.0.1 mini.eastday.com
 127.0.0.1 a.baidu.com
 127.0.0.1 bdplus.baidu.com
