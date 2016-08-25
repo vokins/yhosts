@@ -1,5 +1,5 @@
 
-#version=201608221428
+#version=201608251354
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -12,6 +12,7 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
 127.0.0.1 www.bitsumactivationserver.com
+127.0.0.1 keystone.mwbsys.com
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
 cdn.cdnimage.xyz 198.41.206.61

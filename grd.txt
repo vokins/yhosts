@@ -56,6 +56,7 @@
 218.254.1.13 m.dropbox.com
 218.254.1.13 www.v.dropbox.com
 162.125.66.1 www.dropbox.com
+52.85.76.60 linux.dropbox.com
 108.160.172.193 d.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.193 api-d.dropbox.com
@@ -359,6 +360,7 @@
 220.255.2.153 accounts.google.com
 220.255.2.153 aboutme.google.com
 220.255.2.153 passwords.google.com
+220.255.2.153 takeout.google.com
 220.255.2.153 bpui0.google.com
 220.255.2.153 cse.google.com
 220.255.2.153 clients1.google.com
@@ -371,8 +373,6 @@
 220.255.2.153 contributor.google.com
 220.255.2.153 desktop.google.com
 220.255.2.153 desktop2.google.com
-220.255.2.153 dl.google.com
-220.255.2.153 dl.l.google.com
 220.255.2.153 encrypted.google.com
 220.255.2.153 encrypted-tbn0.google.com
 220.255.2.153 encrypted-tbn1.google.com
@@ -2988,6 +2988,7 @@
 64.233.188.188 gcm-xmpp.googleapis.com
 64.233.188.188 gcm-preprod.l.google.com
 64.233.188.188 gcm-preprod.googleapis.com
+220.255.2.153 instantmessaging-pa.googleapis.com
 64.233.171.192 supl.google.com
 216.239.38.21 madewithcode.com
 216.239.38.21 www.madewithcode.com

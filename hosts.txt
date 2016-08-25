@@ -20,6 +20,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 wip.adobe.com
 #processlasso
 127.0.0.1 www.bitsumactivationserver.com
+#Malwarebytes
+127.0.0.1 keystone.mwbsys.com
 @direct-site
 #dxomark
 5.196.172.196 www.dxomark.com
