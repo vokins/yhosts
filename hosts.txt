@@ -1331,6 +1331,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
@@ -3518,3 +3519,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 img.tygws.com
 #m.5442.com
 127.0.0.1 un.xlcun.com
+#a4yy.coma4yy.com
+127.0.0.1 slb.gedawang.com
+127.0.0.1 slb.sxuantang.com
