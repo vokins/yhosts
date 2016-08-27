@@ -3522,3 +3522,11 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #a4yy.coma4yy.com
 127.0.0.1 slb.gedawang.com
 127.0.0.1 slb.sxuantang.com
+#btkitty.red
+127.0.0.1 js3555.rencai56.com
+127.0.0.1 www.youmsm.com
+127.0.0.1 kawa11.space
+127.0.0.1 qd.ywjxsp168.cn
+127.0.0.1 js.yinhaijuan.com
+#netbar
+127.0.0.1 api.g1.junfull.com
