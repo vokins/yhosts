@@ -82,6 +82,8 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 router.gwdang.com
 #domain hijack
 127.0.0.1 ss.cnnic.cn
+#fish
+127.0.0.1 hao549.com
 #ok365.com
 127.0.0.1 mm.dopa.com.cn
 127.0.0.1 pd.dopa.com.cn

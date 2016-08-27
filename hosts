@@ -1,5 +1,5 @@
 
-#version=201608272329
+#version=201608272336
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -66,6 +66,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 wm.makeding.com
 127.0.0.1 router.gwdang.com
 127.0.0.1 ss.cnnic.cn
+127.0.0.1 hao549.com
 127.0.0.1 mm.dopa.com.cn
 127.0.0.1 pd.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
