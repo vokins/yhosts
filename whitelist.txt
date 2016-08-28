@@ -91,3 +91,4 @@ avd.qidian.com 这个是起点的安全登陆验证
 www.google-analytics.com
 pr.da.netease.com # 易信公告
 127.0.0.1 minisite.letv.com letv直播
+127.0.0.1 huodong.m.taobao.com 戳我中奖之后的跳转页面

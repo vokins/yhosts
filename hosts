@@ -1,5 +1,5 @@
 
-#version=201608272336
+#version=201608281200
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -378,7 +378,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
 127.0.0.1 ff.win.taobao.com
-127.0.0.1 huodong.m.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
