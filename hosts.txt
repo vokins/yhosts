@@ -2667,12 +2667,15 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #163-youdao
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
+127.0.0.1 c.youdao.com
+127.0.0.1 clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 i.clkservice.youdao.com
 127.0.0.1 impservice-test.dictapp.youdao.com
+127.0.0.1 impservice.chnl.youdao.com
 127.0.0.1 impservice.dict.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
@@ -2686,11 +2689,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 nc045x.corp.youdao.com
 127.0.0.1 p.clkservice.youdao.com
 127.0.0.1 qt002x.corp.youdao.com
-127.0.0.1 rlogs.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 ydpushserver.youdao.com
-127.0.0.1 oimagea8.ydstatic.com
 127.0.0.1 mini.eastday.com
 #baidu-old
 127.0.0.1 a.baidu.com
