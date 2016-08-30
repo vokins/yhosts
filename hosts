@@ -1,5 +1,5 @@
 
-#version=201608281200
+#version=201608301105
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -1517,6 +1517,11 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 img.yinhemining.cn
 127.0.0.1 yv.yndianju.com
 127.0.0.1 hc.wstztt.com
+127.0.0.1 js.mstzym.com
+127.0.0.1 slb.gedawang.com
+127.0.0.1 dz.njq.net
+127.0.0.1 t4.51maiwanju.com
+127.0.0.1 t.tzcccm.com
 127.0.0.1 vip.jisucn.com
 127.0.0.1 t.3apf.com
 127.0.0.1 js1157.yongkang6.com
@@ -2917,6 +2922,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 x.55peixun.com
 127.0.0.1 rc.xxhrd.com
 127.0.0.1 img.rqgsf.com
+127.0.0.1 img.56gmz.com
+127.0.0.1 c.8l8l.com
+127.0.0.1 tt.twzui6.com
 127.0.0.1 img.qun89.com
 127.0.0.1 www.nbjjd.com
 127.0.0.1 id1.anreson.net
@@ -2939,7 +2947,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 img.tygws.com
 127.0.0.1 un.xlcun.com
-127.0.0.1 slb.gedawang.com
 127.0.0.1 slb.sxuantang.com
 127.0.0.1 js3555.rencai56.com
 127.0.0.1 www.youmsm.com

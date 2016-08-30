@@ -810,6 +810,7 @@
 220.255.2.153 mobilemaps.clients.google.com
 220.255.2.153 music.google.com
 220.255.2.153 music.googleusercontent.com
+64.233.162.81 scholar.googleusercontent.com
 220.255.2.153 uploadsj.clients.google.com
 220.255.2.153 news.google.com
 220.255.2.153 news.google.com.hk
