@@ -1,5 +1,5 @@
 
-#version=201608312132
+#version=201608312147
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -61,6 +61,11 @@ cdnimage.shuaigay.xyz 198.41.206.70
 45.35.43.170 ipv6.uvwxyz.xyz
 127.0.0.1 download.qianka.com
 127.0.0.1 m.qianka.com
+127.0.0.1 71yb1.oss-cn-beijing.aliyuncs.com
+127.0.0.1 dl.xyymall.net
+127.0.0.1 download.2345.com
+127.0.0.1 soft.mifenggame.cn
+127.0.0.1 www.sxjinglong.cn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 p.yiqifa.com
@@ -2549,6 +2554,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 img.21kas.com
 127.0.0.1 s.taobaomayu.com
 127.0.0.1 www.keydot.net
+127.0.0.1 s.zzrcz.com
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 j.jiawen88.com
 127.0.0.1 v.jtxh.net

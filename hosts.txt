@@ -75,6 +75,11 @@ cdnimage.shuaigay.xyz 198.41.206.70
 @down
 127.0.0.1 download.qianka.com
 127.0.0.1 m.qianka.com
+127.0.0.1 71yb1.oss-cn-beijing.aliyuncs.com
+127.0.0.1 dl.xyymall.net
+127.0.0.1 download.2345.com
+127.0.0.1 soft.mifenggame.cn
+127.0.0.1 www.sxjinglong.cn
 @errorpage
 #click
 127.0.0.1 c.duomai.com
@@ -3051,6 +3056,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 img.21kas.com
 127.0.0.1 s.taobaomayu.com
 127.0.0.1 www.keydot.net
+127.0.0.1 s.zzrcz.com
 127.0.0.1 www.yanjiele8.club
 @web-pops/down
 127.0.0.1 j.jiawen88.com
