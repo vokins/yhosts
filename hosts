@@ -1,5 +1,5 @@
 
-#version=201608301140
+#version=201608312132
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -59,6 +59,8 @@ cdnimage.shuaigay.xyz 198.41.206.70
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+127.0.0.1 download.qianka.com
+127.0.0.1 m.qianka.com
 127.0.0.1 c.duomai.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 p.yiqifa.com
@@ -91,6 +93,13 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
+127.0.0.1 ax.ggfeng.com
+127.0.0.1 migu.kssws.ks-cdn.com
+127.0.0.1 sc.ggdoubi.com
+127.0.0.1 sc.ggfeng.com
+127.0.0.1 ssp.kss.ksyun.com
+127.0.0.1 stjzh.gdtarget.com
+127.0.0.1 api.g1.junfull.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 sspservice.ad-survey.com
@@ -2954,7 +2963,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
 127.0.0.1 js.yinhaijuan.com
-127.0.0.1 api.g1.junfull.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com

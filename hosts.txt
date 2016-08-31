@@ -20,7 +20,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wip.adobe.com
 #processlasso
 127.0.0.1 www.bitsumactivationserver.com
-#Malwarebytes
+#malwarebytes
 127.0.0.1 keystone.mwbsys.com
 @direct-site
 #dxomark
@@ -72,6 +72,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+@down
+127.0.0.1 download.qianka.com
+127.0.0.1 m.qianka.com
 @errorpage
 #click
 127.0.0.1 c.duomai.com
@@ -113,6 +116,15 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 sddnserror4.wo.com.cn
 127.0.0.1 sddnserror7.wo.com.cn
 127.0.0.1 sddnserror9.wo.com.cn
+#wifi
+127.0.0.1 ax.ggfeng.com
+127.0.0.1 migu.kssws.ks-cdn.com
+127.0.0.1 sc.ggdoubi.com
+127.0.0.1 sc.ggfeng.com
+127.0.0.1 ssp.kss.ksyun.com
+127.0.0.1 stjzh.gdtarget.com
+#netbar
+127.0.0.1 api.g1.junfull.com
 @web/common
 #adinall.com
 127.0.0.1 ads.adinall.com
@@ -3536,5 +3548,3 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
 127.0.0.1 js.yinhaijuan.com
-#netbar
-127.0.0.1 api.g1.junfull.com
