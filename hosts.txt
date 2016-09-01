@@ -345,6 +345,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
+127.0.0.1 html.cnzzj.com.cn
 127.0.0.1 icon.cnzz.com
 127.0.0.1 jserr.cnzz.com
 127.0.0.1 jssdk.cnzz.com
@@ -2956,6 +2957,9 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 wwwimg.86sjx.com
 127.0.0.1 material.jusha.com
 #www.dm530.com
+127.0.0.1 dm531.dm530.net
+127.0.0.1 dm532.dm530.net
+127.0.0.1 union.baidustatic.guannin.com
 127.0.0.1 a.xflnk.com
 127.0.0.1 img.jc90h.com
 127.0.0.1 img3.fy1g.com
