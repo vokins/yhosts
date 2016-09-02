@@ -3577,3 +3577,7 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+#www.66yc.cc
+127.0.0.1 js1194.cnbole.net
+127.0.0.1 s1.diaojiaoji168.com
+127.0.0.1 tg.qzqywh.com

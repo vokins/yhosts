@@ -657,6 +657,7 @@
 220.255.2.153 console.cloud.google.com
 220.255.2.153 developers.google.com
 220.255.2.153 cloudssh.developers.google.com
+220.255.2.153 codelabs.developers.google.com
 220.255.2.153 console.developers.google.com
 220.255.2.153 source.developers.google.com
 220.255.2.153 cla.developers.google.com
