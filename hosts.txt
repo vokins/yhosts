@@ -3575,3 +3575,5 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #www.jiqingwenxue.com
 127.0.0.1 js4476.hongtaidichan.net
 127.0.0.1 s1.9sfang.com
+127.0.0.1 vipjs.csad.cc
+127.0.0.1 www.baidu.com.cyad456.com
