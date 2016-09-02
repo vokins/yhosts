@@ -1356,7 +1356,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 #1905.com
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
-127.0.0.1 link.1905.com
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 #baofeng.com
