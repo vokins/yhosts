@@ -93,3 +93,5 @@ pr.da.netease.com # 易信公告
 127.0.0.1 minisite.letv.com letv直播
 127.0.0.1 huodong.m.taobao.com 戳我中奖之后的跳转页面
 127.0.0.1 rlogs.youdao.com 有道翻译
+127.0.0.1 api.tw06.xlmc.sandai.net 创建任务失败
+http://minisite.letv.com
