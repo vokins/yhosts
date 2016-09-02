@@ -3558,3 +3558,17 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
 127.0.0.1 js.yinhaijuan.com
+#www.dydh.tv
+127.0.0.1 a2.openxt.cn
+127.0.0.1 bls.china360car.com
+127.0.0.1 stats.feitianma.com
+127.0.0.1 img.danzhuwan.com
+127.0.0.1 ajialive.com
+#www.dyttw.cc
+127.0.0.1 v.e704.net
+127.0.0.1 cdn3.e705.net
+#www.77kp.com
+127.0.0.1 77kb.qucaigg.com
+127.0.0.1 c.weareqy.com
+127.0.0.1 r.weareqy.com
+127.0.0.1 rc.weareqy.com

@@ -915,6 +915,8 @@
 220.255.2.153 registry.google
 220.255.2.153 servicemanagement.clients6.google.com
 220.255.2.153 cloudconsole-pa.clients6.google.com
+220.255.2.153 iam.clients6.google.com
+220.255.2.153 clientauthconfig.clients6.google.com
 220.255.2.153 360suite.google.com
 220.255.2.153 optimize.google.com
 216.58.203.85 attribution.google.com
@@ -3663,3 +3665,4 @@
 149.154.167.99 telegram.org
 149.154.167.99 desktop.telegram.org
 149.154.167.99 core.telegram.org
+149.154.167.99 macos.telegram.org
