@@ -3572,3 +3572,6 @@ cdnimage.shuaigay.xyz 198.41.206.70
 127.0.0.1 c.weareqy.com
 127.0.0.1 r.weareqy.com
 127.0.0.1 rc.weareqy.com
+#www.jiqingwenxue.com
+127.0.0.1 js4476.hongtaidichan.net
+127.0.0.1 s1.9sfang.com
