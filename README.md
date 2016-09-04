@@ -67,7 +67,7 @@ hosts文件
 * 一般到第三步你告知客服，如果还未解决进行升级投诉的时候，就应该很快会解决了。
 * 如果有问题请补充。我会继续修改。
 
-##### 优秀的Google hosts: [racaljk](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)  [盒子](http://www.360kb.com/kb/2_122.html) [facebook](http://www.360kb.com/kb/2_139.html) [laod](http://laod.cn/hosts/2016-google-hosts.html) [乱炖](http://levi.yii.so/hosts) [txthinking](https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts)
+##### 优秀的Google hosts: [racaljk](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)  [盒子](http://www.360kb.com/kb/2_150.html) [laod](http://laod.cn/hosts/2016-google-hosts.html) 
 
 ##### 游戏加速:[lucky☆star](http://bbs.a9vg.com/thread-4549081-1-1.html)
 
