@@ -106,6 +106,9 @@ cdn.bbob.vip 198.41.206.80
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
+#yhd
+127.0.0.1 www.yhd.com
+127.0.0.1 t.yhd.com
 @operators
 #chinamobile
 127.0.0.1 navi.gd.chinamobile.com

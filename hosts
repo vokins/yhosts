@@ -1,5 +1,5 @@
 
-#version=201609052245
+#version=201609061642
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -87,6 +87,8 @@ cdn.bbob.vip 198.41.206.80
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
+127.0.0.1 www.yhd.com
+127.0.0.1 t.yhd.com
 127.0.0.1 navi.gd.chinamobile.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
