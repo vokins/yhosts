@@ -794,6 +794,7 @@
 220.255.2.153 cbks1.google.com
 220.255.2.153 cbks2.google.com
 220.255.2.153 cbks3.google.com
+220.255.2.153 ipv4.google.com
 220.255.2.153 mw1.google.com
 220.255.2.153 mw2.google.com
 220.255.2.153 mt.google.com

@@ -1,5 +1,5 @@
 
-#version=201609061642
+#version=201609072207
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
@@ -299,6 +299,8 @@ cdn.bbob.vip 198.41.206.80
 127.0.0.1 s.qhupdate.com
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 top.h.qhimg.com
+127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
@@ -3079,6 +3081,28 @@ cdn.bbob.vip 198.41.206.80
 127.0.0.1 static.wauee.com
 127.0.0.1 cdn1.res.uzham.com
 127.0.0.1 www.day66.com
+127.0.0.1 img.hai61.com
+127.0.0.1 alibaba.zhihei.com
+127.0.0.1 c.bccyyc.com
+127.0.0.1 c.mytzdhz.cn
+127.0.0.1 idxhy8s.xxbiquge.com
+127.0.0.1 img.geruishengwu.com
+127.0.0.1 img.hzsharpai.com
+127.0.0.1 s.xhsxgmt.cn
+127.0.0.1 widnd.dajiadou6.com
+127.0.0.1 fx.worldqueen.org.cn
+127.0.0.1 s.msltzer.cn
+127.0.0.1 ucuc.baiducu.com
+127.0.0.1 oask.xulizui6.com
+127.0.0.1 img.sanhaoyuan.cn
+127.0.0.1 rc.nxrxt.com
+127.0.0.1 s.nxrxt.com
+127.0.0.1 cf.cdn.inmobi.com
+127.0.0.1 app.chnhtp.com
+127.0.0.1 hotav05.szjtcg.com
+127.0.0.1 c.msltzer.cn
+127.0.0.1 www.ailicee.com
+127.0.0.1 ss.cywl5.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
