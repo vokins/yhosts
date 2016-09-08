@@ -1,0 +1,15 @@
+@virus/down
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#virus-down
+
+@virus/homepage
+127.0.0.1 hao.qquu8.com
+127.0.0.1 hao549.com
