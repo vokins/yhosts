@@ -1106,9 +1106,6 @@
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
-#yhd
-127.0.0.1 www.yhd.com
-127.0.0.1 t.yhd.com
 @web-cn/sns
 #55bbs.com
 127.0.0.1 icon.55bbs.com

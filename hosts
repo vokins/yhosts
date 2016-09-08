@@ -1,5 +1,5 @@
 
-#version=201609082355
+#version=20160909 001
 #url=https://github.com/vokins/yhosts
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
@@ -1498,8 +1498,6 @@ cdn.bbob.vip 198.41.206.80
 127.0.0.1 x.jd.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
-127.0.0.1 www.yhd.com
-127.0.0.1 t.yhd.com
 127.0.0.1 icon.55bbs.com
 127.0.0.1 imp.55bbs.com
 127.0.0.1 stat.55bbs.com
