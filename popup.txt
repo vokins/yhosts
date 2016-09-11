@@ -224,6 +224,8 @@
 127.0.0.1 img.56gmz.com
 127.0.0.1 c.8l8l.com
 127.0.0.1 tt.twzui6.com
+127.0.0.1 img.balaiyani.com
+127.0.0.1 img.hai61.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -247,7 +249,6 @@
 127.0.0.1 vip.xjidian.com
 #wap.xxbiquge.com
 127.0.0.1 idxhy8s.xxbiquge.com
-127.0.0.1 img.hai61.com
 127.0.0.1 s.xhsxgmt.cn
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 c.bccyyc.com

@@ -51,6 +51,8 @@
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 qchannel01.cn
+127.0.0.1 www.qchannel01.cn
 #letv
 127.0.0.1 api.game.letvstore.com
 127.0.0.1 msg.m.letv.com

@@ -255,12 +255,14 @@
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
+127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
+127.0.0.1 rtb.admaster.com.cn 
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
@@ -517,6 +519,10 @@
 127.0.0.1 api7.tuisong.baidu.com
 127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 api9.tuisong.baidu.com
+#baidu-duapps.com
+127.0.0.1 duapps.com
+127.0.0.1 ad.duapps.com
+127.0.0.1 api.mobula.sdk.duapps.com
 #behe
 127.0.0.1 v.behe.com
 127.0.0.1 rtb.behe.com
@@ -666,6 +672,7 @@
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
 127.0.0.1 xiciim.qtmojo.com
+127.0.0.1 mon.xtgreat.com
 127.0.0.1 www.xtgreat.com
 #sina
 127.0.0.1 res.icast.cn

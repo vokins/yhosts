@@ -157,6 +157,7 @@
 #reachmax.cn
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
+127.0.0.1 v2.reachmax.cn
 127.0.0.1 c.nz.gt.igexin.com
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
@@ -426,3 +427,5 @@
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
+#toutiao
+127.0.0.1 ad.toutiao.com

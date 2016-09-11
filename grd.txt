@@ -115,6 +115,8 @@
 31.13.95.17 secure.facebook.com
 31.13.95.17 zh-cn.facebook.com
 31.13.95.17 login.facebook.com
+31.13.95.17 i.facebook.com
+31.13.95.17 im.facebook.com
 31.13.95.17 attachments.facebook.com
 31.13.95.17 touch.facebook.com
 31.13.95.17 apps.facebook.com
@@ -858,6 +860,7 @@
 220.255.2.153 plus.url.google.com
 220.255.2.153 plus.url.google.com.hk
 220.255.2.153 spaces.google.com
+220.255.2.153 pixel.google.com
 220.255.2.153 vr.google.com
 220.255.2.153 reader.google.com
 220.255.2.153 research.google.com
@@ -2991,6 +2994,7 @@
 64.233.188.121 www.thegobridgeoglepuzzle.com
 64.233.188.121 www.googlezeitgeist.com
 64.233.188.121 news.dartlang.org
+64.233.188.121 dartpad.dartlang.org
 64.233.188.188 mobile-gtalk.l.google.com
 64.233.188.188 mtalk.google.com
 64.233.188.188 gcm.googleapis.com
