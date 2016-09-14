@@ -9,7 +9,3 @@
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 #virus-down
-
-@virus/homepage
-127.0.0.1 hao.qquu8.com
-127.0.0.1 hao549.com

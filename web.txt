@@ -1,0 +1,60 @@
+@web/ali-alicdn
+127.0.0.1 asearch.alicdn.com
+127.0.0.1 atanx.alicdn.com
+127.0.0.1 atanx2.alicdn.com
+@web/ali-alimama
+127.0.0.1 a.alimama.cn
+@web/ali-cnzz
+127.0.0.1 c.cnzz.com
+@web/ali-tanx
+127.0.0.1 a.tanx.com
+127.0.0.1 cdn.tanx.com
+127.0.0.1 df.tanx.com
+127.0.0.1 p.tanx.com
+@web/ali-taobaocdn
+127.0.0.1 strip.taobaocdn.com
+@web/baidu
+127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 boscdn.bpc.baidu.com
+127.0.0.1 bzclk.baidu.com
+127.0.0.1 cm.pos.baidu.com
+127.0.0.1 eclick.baidu.com
+127.0.0.1 entry.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
+127.0.0.1 wn.pos.baidu.com
+@web/baidu-bdimg
+127.0.0.1 ecma.bdimg.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 ecmc.bdimg.com
+127.0.0.1 su.bdimg.com
+@web/baidu-static
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+@web/qihoo
+127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s1.stat.lianmeng.360.cn
+127.0.0.1 stat.lianmeng.360.cn
+@web/qq
+127.0.0.1 ta.qq.com
+127.0.0.1 tajs.qq.com
+@web/qq-jd
+127.0.0.1 u.x.jd.com
+127.0.0.1 x.jd.com
+@web/sohu
+127.0.0.1 images.sohu.com
+@web/sohu-sogou
+127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 inte.sogou.com
+127.0.0.1 p.inte.sogou.com
+@web/criteo
+127.0.0.1 static.criteo.net
+@web/google
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 www.googletagservices.com

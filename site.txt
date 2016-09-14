@@ -335,21 +335,6 @@
 127.0.0.1 creatives.ftchinese.com
 127.0.0.1 dolphin.ftimg.net
 @web-cn/game
-#pops
-127.0.0.1 c.f1zd.com
-127.0.0.1 g.f11w.com
-127.0.0.1 g.s8dj.com
-127.0.0.1 img.88rpg.net
-127.0.0.1 img.fd7c.com
-127.0.0.1 img.il8r.com
-127.0.0.1 img.twcczhu.com
-127.0.0.1 kwflvcdn.000dn.com
-127.0.0.1 log.he2d.com
-127.0.0.1 rjs.niuxgame77.com
-127.0.0.1 rwq.youle55.com
-127.0.0.1 vip.jixian360.com
-127.0.0.1 img.qiyou.com
-127.0.0.1 s.00oo00.com
 #17173.com
 127.0.0.1 cvda.17173.com
 127.0.0.1 log1.17173.com
@@ -398,11 +383,6 @@
 127.0.0.1 pt.5211game.com
 127.0.0.1 pv.5211game.com
 127.0.0.1 update.5211game.com
-#yxdown.com
-127.0.0.1 ads.yxdown.com
-127.0.0.1 gg.yxdown.com
-127.0.0.1 ggr.yxdown.com
-127.0.0.1 img.zhihei.com
 @web-cn/health
 #120ask.com
 127.0.0.1 ax.120ask.com
@@ -555,6 +535,10 @@
 127.0.0.1 33.pcpop.com
 127.0.0.1 ashow.pcpop.com
 127.0.0.1 count.pcpop.com
+#rising
+127.0.0.1 all.rising.com.cn
+127.0.0.1 game.rising.cn
+127.0.0.1 wan.rising.cn
 #safedog.cn
 127.0.0.1 404.safedog.cn
 #yesky.com
@@ -1006,6 +990,10 @@
 #huanqiu
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
+#w.huanqiu.com
+127.0.0.1 sspservice.ad-survey.com
+127.0.0.1 go.util.zlibs.com
+127.0.0.1 a1.peoplecdn.cn
 #ifeng.com
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
@@ -1112,6 +1100,9 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+#vip.com
+127.0.0.1 ms.vipstatic.com
+127.0.0.1 api.union.vip.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com

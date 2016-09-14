@@ -4,6 +4,13 @@
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
 127.0.0.1 jifendownload.2345.cn
+#down-360
+127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 hot.m.shouji.360tpcdn.com
+127.0.0.1 down.360safe.com
+127.0.0.1 ini.update.360safe.com
+127.0.0.1 pdown.stat.360safe.com
+127.0.0.1 update.360safe.com
 #down-qq
 127.0.0.1 c.gj.qq.com
 127.0.0.1 c.pc.qq.com
@@ -31,6 +38,15 @@
 127.0.0.1 news.b9377h.com
 127.0.0.1 cdn.ef9377.com
 127.0.0.1 cdn.a9377j.com
+#www.121down.com
+127.0.0.1 fe0s.nuion.cn
+#yxdown.com
+127.0.0.1 ads.yxdown.com
+127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 img.zhihei.com
+127.0.0.1 cpc.88rpg.net
+127.0.0.1 img.fd7c.com
 #down-ot
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
@@ -80,3 +96,11 @@
 127.0.0.1 www.sxjinglong.cn
 127.0.0.1 www.um0592.com
 127.0.0.1 z.xc0429.com
+127.0.0.1 down.xiazaidc.com
+127.0.0.1 ini.pinguopai.cn
+127.0.0.1 url.tduou.com
+127.0.0.1 dl.fly086.com
+127.0.0.1 down.xiazaiyuan.net
+127.0.0.1 img.qiyou.com
+127.0.0.1 r.qiyou.com
+127.0.0.1 s.00oo00.com

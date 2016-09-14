@@ -82,8 +82,17 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 navi.gd.chinamobile.com
+@hijack/miwifi
+127.0.0.1 api.miwifi.com
+127.0.0.1 browser.gwdang.com
+127.0.0.1 router.gwdang.com
 @hijack/domain
 127.0.0.1 ss.cnnic.cn
+127.0.0.1 offline-adv.oray.com
+@hijack/homepage
+127.0.0.1 hao.qquu8.com
+127.0.0.1 hao549.com
+127.0.0.1 www.i1236.net
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 @hijack/wifi
@@ -94,6 +103,7 @@
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 144.dragonparking.com
+127.0.0.1 930.dragonparking.com
 127.0.0.1 track.dragonparking.com
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 pd.ok365.com
@@ -106,6 +116,9 @@
 127.0.0.1 sc.ggdoubi.com
 127.0.0.1 sc.ggfeng.com
 127.0.0.1 sd.kk3g.net
+127.0.0.1 sp3.cndm.com
 127.0.0.1 ssp.kss.ksyun.com
 127.0.0.1 stjzh.gdtarget.com
 127.0.0.1 wo.iuni.com.cn
+@hijack/x-router
+127.0.0.1 info.yitsoftware.com

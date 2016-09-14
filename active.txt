@@ -1,6 +1,8 @@
 @active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
+#acronis
+127.0.0.1 activation.acronis.com
 #adobe
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -11,6 +13,23 @@
 127.0.0.1 na2m-pr.licenses.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
+#alcohol
+127.0.0.1 serial.alcohol-soft.com
+127.0.0.1 trial.alcohol-soft.com
+#ashampoo
+127.0.0.1 licenses.ashampoo.com
+#cuteftp
+127.0.0.1 dbregistration.cuteftp.com
+#cyberlink
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
+#lumion3d
+127.0.0.1 activate.lumion.com
+127.0.0.1 backup.lumion3d.com
+#macdrive
+127.0.0.1 act2.mediafour.com
+#nikon-imaging
+127.0.0.1 sams.nikonimaging.com
 #processlasso
 127.0.0.1 www.bitsumactivationserver.com
 #malwarebytes

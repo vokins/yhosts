@@ -429,3 +429,13 @@
 127.0.0.1 rd.da.netease.com
 #toutiao
 127.0.0.1 ad.toutiao.com
+#meituan
+127.0.0.1 push.mobile.meituan.com
+#halo
+127.0.0.1 sta.haloall.com
+127.0.0.1 a.holaworld.cn
+127.0.0.1 dh.holaworld.cn
+127.0.0.1 h5.holalauncher.com
+127.0.0.1 a.holagames.com
+#Flipboard
+127.0.0.1 ad.flipboard.com
