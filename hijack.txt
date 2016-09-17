@@ -80,6 +80,7 @@
 127.0.0.1 nfdnserror15.wo.com.cn
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
+127.0.0.1 61.156.8.189
 #10086
 127.0.0.1 navi.gd.chinamobile.com
 @hijack/miwifi

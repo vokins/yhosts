@@ -3,6 +3,7 @@
 127.0.0.1 inside.bitcomet.com
 #qq-im.qq.com
 127.0.0.1 ca.gtimg.com
+
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -20,7 +21,11 @@
 127.0.0.1 ad.docer.wps.cn
 127.0.0.1 info.wps.cn
 127.0.0.1 push.wps.cn
+127.0.0.1 news.docer.com
+127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 a.mini.eastday.com
 127.0.0.1 cnc.ef-cdn.com
 127.0.0.1 tg.7477.com
+127.0.0.1 www.jbaobao.com
 #www.winrar.com.cn
 127.0.0.1 ad.winrar.com.cn

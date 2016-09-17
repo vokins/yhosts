@@ -1,5 +1,5 @@
 
-#version=201609141659
+#version=201609172118
 #url=https://github.com/vokins/yhosts
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
@@ -91,10 +91,11 @@
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
-127.0.0.1 c.gj.qq.com
-127.0.0.1 c.pc.qq.com
+127.0.0.1 rj.baidu.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
+127.0.0.1 c.gj.qq.com
+127.0.0.1 c.pc.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 cpro.cr173.com
@@ -181,6 +182,7 @@
 127.0.0.1 down.diannaodian.com
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
+127.0.0.1 www.ahhjyl.cn@errorpage/cps-taobao
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 ai.m.taobao.com
@@ -301,6 +303,7 @@
 127.0.0.1 nfdnserror15.wo.com.cn
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
+127.0.0.1 61.156.8.189
 127.0.0.1 navi.gd.chinamobile.com
 127.0.0.1 api.miwifi.com
 127.0.0.1 browser.gwdang.com
@@ -1766,6 +1769,7 @@
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 ca.gtimg.com
+
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -1781,8 +1785,12 @@
 127.0.0.1 ad.docer.wps.cn
 127.0.0.1 info.wps.cn
 127.0.0.1 push.wps.cn
+127.0.0.1 news.docer.com
+127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 a.mini.eastday.com
 127.0.0.1 cnc.ef-cdn.com
 127.0.0.1 tg.7477.com
+127.0.0.1 www.jbaobao.com
 127.0.0.1 ad.winrar.com.cn
 127.0.0.1 s7.addthis.com
 127.0.0.1 ads.adinall.com

@@ -5,7 +5,15 @@
 @web/ali-alimama
 127.0.0.1 a.alimama.cn
 @web/ali-cnzz
+127.0.0.1 cnzz.mmstat.com
 127.0.0.1 c.cnzz.com
+127.0.0.1 c.cnzz.com
+127.0.0.1 ca.cnzz.com
+127.0.0.1 ei.cnzz.com
+127.0.0.1 jserr.cnzz.com
+127.0.0.1 pcookie.cnzz.com
+127.0.0.1 hzvs1.cnzz.com
+127.0.0.1 s95.cnzz.com
 @web/ali-tanx
 127.0.0.1 a.tanx.com
 127.0.0.1 cdn.tanx.com
@@ -14,11 +22,13 @@
 @web/ali-taobaocdn
 127.0.0.1 strip.taobaocdn.com
 @web/baidu
+127.0.0.1 api.share.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 boscdn.bpc.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 eclick.baidu.com
+127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 nsclick.baidu.com
@@ -35,6 +45,8 @@
 @web/baidu-static
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
+@web/baidu/wenku
+127.0.0.1 wkclick.baidu.com
 @web/qihoo
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn

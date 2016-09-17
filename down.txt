@@ -11,11 +11,13 @@
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
+#down-baidu
+127.0.0.1 rj.baidu.com
 #down-qq
-127.0.0.1 c.gj.qq.com
-127.0.0.1 c.pc.qq.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
+127.0.0.1 c.gj.qq.com
+127.0.0.1 c.pc.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
 #cr173.com
