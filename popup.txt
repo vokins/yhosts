@@ -724,6 +724,8 @@
 127.0.0.1 slb.sxuantang.com
 #m.btdog.com
 127.0.0.1 cc.yfi052.pw
+127.0.0.1 uimg.27admin.com
+127.0.0.1 ujs.jialiren.net
 #m.kk3.cc
 127.0.0.1 js.chinaheh.com
 #m.tepian.com

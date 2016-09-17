@@ -1,5 +1,5 @@
 
-#version=201609172118
+#version=201609172122
 #url=https://github.com/vokins/yhosts
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
@@ -3356,6 +3356,8 @@
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
 127.0.0.1 cc.yfi052.pw
+127.0.0.1 uimg.27admin.com
+127.0.0.1 ujs.jialiren.net
 127.0.0.1 js.chinaheh.com
 127.0.0.1 e.0313413.com
 127.0.0.1 l5.fwt0.com

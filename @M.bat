@@ -1,8 +1,8 @@
-ver=23:52 2016/9/8/ÖÜËÄ
+ver=21:22 2016/9/17/ÖÜÁù
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
-del /f hosts grd.txt
+del /f hosts grd.txt hosts.txt
 call :del
 rem call :bat
 call :xunlei
@@ -39,6 +39,8 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :lyq
+set files=1os.txt direct.txt active.txt down.txt virus.txt error.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt xunlei.txt popup.txt
+for %%a in (%files%) do (type "%%a">>hosts.txt)
 set files=1os.txt direct.txt active.txt down.txt virus.txt error.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt popup.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%~dp0lib\sed.exe" -i "/^#/d" lyq.txt
