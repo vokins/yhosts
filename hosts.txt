@@ -3796,6 +3796,7 @@ ff02::2 ip6-allrouters
 #m.btdog.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
+127.0.0.1 ujs.27admin.com
 127.0.0.1 ujs.jialiren.net
 #m.kk3.cc
 127.0.0.1 js.chinaheh.com
