@@ -4,6 +4,64 @@
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
+#cibntv-pd.youku.com/cibn
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 qr.cp31.ott.cibntv.net
+127.0.0.1 r.l.cp31.ott.cibntv.net
+127.0.0.1 r1.cp31.ott.cibntv.net
+127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
+127.0.0.1 val.atm.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 yktd.m.cn.miaozhen.com
+#cibntv-pptv
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 action.data.cp61.ott.cibntv.net
+127.0.0.1 asimgs.cp61.ott.cibntv.net
+127.0.0.1 de.as.cp61.ott.cibntv.net
+127.0.0.1 jp.as.cp61.ott.cibntv.net
+127.0.0.1 sdk.data.cp61.ott.cibntv.net
+127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
+#cibntv-sohu
+127.0.0.1 agn.aty.cp45.ott.cibntv.net
+127.0.0.1 images.cp45.ott.cibntv.net
+127.0.0.1 mmg.aty.cp45.ott.cibntv.net
+127.0.0.1 pb.ott.hd.cp45.ott.cibntv.net
+#cibn-voole
+127.0.0.1 adinf.voole.com
+127.0.0.1 apkinfo.voole.com
+127.0.0.1 ark.cp21.ott.cibntv.net
+127.0.0.1 dc.cp21.ott.cibntv.net
+127.0.0.1 ark.letv-epg.wasu.tv
+127.0.0.1 ark.vmoters.com
+127.0.0.1 dc.letv-epg.wasu.tv
+127.0.0.1 dc.vmoters.com
+127.0.0.1 dev.dc.letv.com
+127.0.0.1 pv.ott.hd.sohu.com
+127.0.0.1 test.ark.letv.com
+#cibn-vst
+127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
+127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
+127.0.0.1 brance.play.cp81.ott.cibntv.net
+127.0.0.1 dp3.play.cp81.ott.cibntv.net
+127.0.0.1 livep.l.cp81.ott.cibntv.net
+127.0.0.1 lives.l.cp81.ott.cibntv.net
+127.0.0.1 mcgi.play.cp81.ott.cibntv.net
+127.0.0.1 news-l.play.cp81.ott.cibntv.net
+127.0.0.1 p-l.play.cp81.ott.cibntv.net
+127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
+127.0.0.1 t-l.play.cp81.ott.cibntv.net
+#tv.qq.com
+127.0.0.1 aiseet.atianqi.com
+127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 mcgi.play.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
 #v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
@@ -117,6 +175,8 @@
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
+127.0.0.1 qr.youlu.com
+127.0.0.1 guanggaoad.youku.com
 #youku-area
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237

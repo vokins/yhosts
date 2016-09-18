@@ -17,6 +17,13 @@
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
+#vidown.cn
+127.0.0.1 cc.vidown.cn
+127.0.0.1 conf.vidown.cn
+127.0.0.1 gg.vidown.cn
+127.0.0.1 minisite.vidown.cn
+127.0.0.1 rtlog.vidown.cn
+127.0.0.1 tj.vidown.cn
 #wps.cn
 127.0.0.1 ad.docer.wps.cn
 127.0.0.1 info.wps.cn
