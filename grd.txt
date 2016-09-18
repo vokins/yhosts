@@ -3437,16 +3437,6 @@
 154.53.224.150 mega.co.nz
 154.53.224.166 mega.nz
 31.216.147.130 w.api.mega.co.nz
-65.55.163.79 account.live.com
-23.59.136.70 auth.gfx.ms
-131.253.61.66 login.live.com
-204.79.197.217 onedrive.live.com
-23.212.129.202 p.sfx.ms
-134.170.30.15 people.live.com
-134.170.30.15 profile.live.com
-134.170.111.96 skyapi.onedrive.live.com
-134.170.104.168 storage.live.com
-204.79.197.213 nhuhga.dm2301.livefilestore.com
 93.184.220.127 soundcloud.com
 93.184.220.127 www.soundcloud.com
 93.184.220.127 m.soundcloud.com

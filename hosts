@@ -1,8 +1,6 @@
 
-#version=201609181702
+#version=201609182257
 #url=https://github.com/vokins/yhosts
-5.196.172.196 www.dxomark.com
-43.245.63.28 cdn.dxomark.com
 198.41.206.65 image.bbob.vip
 198.41.206.66 image.bbob.vip
 198.41.206.67 image.bbob.vip
@@ -55,6 +53,8 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+5.196.172.196 www.dxomark.com
+43.245.63.28 cdn.dxomark.com@active
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
@@ -305,7 +305,6 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 127.0.0.1 61.156.8.189
 127.0.0.1 navi.gd.chinamobile.com
-127.0.0.1 api.miwifi.com
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
 127.0.0.1 ss.cnnic.cn
@@ -701,6 +700,7 @@
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 a.holagames.com
 127.0.0.1 ad.flipboard.com
+127.0.0.1 ad.yixin.im
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com

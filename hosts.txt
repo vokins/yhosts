@@ -7,10 +7,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 255.255.255.255	broadcasthost
 @direct/site
-#dxomark
-5.196.172.196 www.dxomark.com
-43.245.63.28 cdn.dxomark.com
-#shuaigay
+#shuaitong5
 198.41.206.65 image.bbob.vip
 198.41.206.66 image.bbob.vip
 198.41.206.67 image.bbob.vip
@@ -64,7 +61,9 @@ ff02::2 ip6-allrouters
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-@active
+#dxomark
+5.196.172.196 www.dxomark.com
+43.245.63.28 cdn.dxomark.com@active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #acronis
@@ -358,7 +357,6 @@ ff02::2 ip6-allrouters
 #10086
 127.0.0.1 navi.gd.chinamobile.com
 @hijack/miwifi
-127.0.0.1 api.miwifi.com
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
 @hijack/domain
@@ -839,8 +837,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 dh.holaworld.cn
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 a.holagames.com
-#Flipboard
+#flipboard
 127.0.0.1 ad.flipboard.com
+#yixin
+127.0.0.1 ad.yixin.im
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com
