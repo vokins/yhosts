@@ -13,6 +13,7 @@
 127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 sdk.m.cp31.ott.cibntv.net
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 #cibntv-pptv
@@ -192,3 +193,7 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
+#wasu.tv
+127.0.0.1 ads.wasu.tv
+127.0.0.1 adwasu.wasu.tv
+127.0.0.1 adsystem.wasu.tv

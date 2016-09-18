@@ -1,5 +1,5 @@
 
-#version=20160918 953
+#version=201609181702
 #url=https://github.com/vokins/yhosts
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
@@ -1338,7 +1338,6 @@
 127.0.0.1 x.l.qq.com
 127.0.0.1 p.tencentmind.com
 127.0.0.1 luckstatic.v1.cn
-127.0.0.1 adsystem.wasu.tv
 127.0.0.1 afp.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 collector.wasu.cn
@@ -2463,6 +2462,7 @@
 127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 sdk.m.cp31.ott.cibntv.net
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 127.0.0.1 ads.data.pplive.com
@@ -2628,6 +2628,9 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
+127.0.0.1 ads.wasu.tv
+127.0.0.1 adwasu.wasu.tv
+127.0.0.1 adsystem.wasu.tv
 127.0.0.1 20160901.biz5.kankan.com
 127.0.0.1 20160901.logic.cpm.cm.kankan.com
 127.0.0.1 20160901.float.kankan.com

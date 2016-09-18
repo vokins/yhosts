@@ -437,5 +437,7 @@
 127.0.0.1 dh.holaworld.cn
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 a.holagames.com
-#Flipboard
+#flipboard
 127.0.0.1 ad.flipboard.com
+#yixin
+127.0.0.1 ad.yixin.im

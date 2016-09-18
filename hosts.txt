@@ -1631,7 +1631,6 @@ ff02::2 ip6-allrouters
 #v1.cn
 127.0.0.1 luckstatic.v1.cn
 #wasu.cn
-127.0.0.1 adsystem.wasu.tv
 127.0.0.1 afp.wasu.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 collector.wasu.cn
