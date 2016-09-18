@@ -722,6 +722,7 @@
 #m.a4yy.com
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
+127.0.0.1 s.cdnny.com
 #m.btdog.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
@@ -863,6 +864,7 @@
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
 #m.5442.com
+127.0.0.1 s.iuuff.com
 127.0.0.1 un.xlcun.com
 127.0.0.1 bdjs.2344.com
 127.0.0.1 bs.5442.com
@@ -877,6 +879,7 @@
 127.0.0.1 www.6604.org
 #m.7kk.com
 127.0.0.1 img.tygws.com
+127.0.0.1 alipay.dajiadou6.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
@@ -891,6 +894,8 @@
 127.0.0.1 cdn1.res.uzham.com
 #m.zngirls.com
 127.0.0.1 rc.szfaq.com
+127.0.0.1 rc.cdnny.com
+127.0.0.1 rc.nxrxt.com
 #showgirl88.net
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com

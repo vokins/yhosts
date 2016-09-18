@@ -1,5 +1,5 @@
 
-#version=201609172124
+#version=20160918 832
 #url=https://github.com/vokins/yhosts
 5.196.172.196 www.dxomark.com
 43.245.63.28 cdn.dxomark.com
@@ -3355,6 +3355,7 @@
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
+127.0.0.1 s.cdnny.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
 127.0.0.1 ujs.27admin.com
@@ -3470,6 +3471,7 @@
 127.0.0.1 s.sxytx.cn
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
+127.0.0.1 s.iuuff.com
 127.0.0.1 un.xlcun.com
 127.0.0.1 bdjs.2344.com
 127.0.0.1 bs.5442.com
@@ -3483,6 +3485,7 @@
 127.0.0.1 www.88cncc.com
 127.0.0.1 www.6604.org
 127.0.0.1 img.tygws.com
+127.0.0.1 alipay.dajiadou6.com
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com
@@ -3493,6 +3496,7 @@
 127.0.0.1 static.wauee.com
 127.0.0.1 cdn1.res.uzham.com
 127.0.0.1 rc.szfaq.com
+127.0.0.1 rc.cdnny.com
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com
 127.0.0.1 attach.s8bbs.com
