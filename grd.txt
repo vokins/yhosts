@@ -529,6 +529,7 @@
 220.255.2.153 answers.google.com
 220.255.2.153 wenda.google.com.hk
 220.255.2.153 android.googleblog.com
+220.255.2.153 research.googleblog.com
 220.255.2.153 security.googleblog.com
 220.255.2.153 gmail.googleblog.com
 220.255.2.153 chrome.googleblog.com

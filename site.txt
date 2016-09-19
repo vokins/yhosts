@@ -670,6 +670,7 @@
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
+127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com

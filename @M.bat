@@ -39,9 +39,9 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :lyq
-set files=1os.txt direct.txt active.txt down.txt virus.txt error.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt xunlei.txt popup.txt
+set files=1os.txt direct.txt active.txt down.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt xunlei.txt popup.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=1os.txt direct.txt active.txt down.txt virus.txt error.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt popup.txt
+set files=1os.txt direct.txt active.txt down.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt popup.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%~dp0lib\sed.exe" -i "/^#/d" lyq.txt
 "%~dp0lib\sed.exe" -i "/^@/d" lyq.txt

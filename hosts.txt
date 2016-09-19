@@ -222,56 +222,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 #virus-down
-127.0.0.1 www.ahhjyl.cn@errorpage/cps-taobao
-127.0.0.1 agoodm.m.taobao.com
-127.0.0.1 agoodm.wapa.taobao.com
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 apoll.m.taobao.com
-127.0.0.1 ju.taobao.com
-127.0.0.1 m.intl.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 show.re.taobao.com
-127.0.0.1 tejia.taobao.com
-127.0.0.1 tyh.taobao.com
-@errorpage/cps-taobao/click
-127.0.0.1 g.click.taobao.com
-127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.taobao.com
-127.0.0.1 s.click.tmall.com
-@errorpage/cps-taobao/simba
-127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 fav.simba.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 tns.simba.taobao.com
-@errorpage/cps-shopping
-127.0.0.1 aos.prf.hn
-127.0.0.1 c.duomai.com
-127.0.0.1 click.lergao.com
-127.0.0.1 click.linktech.cn
-127.0.0.1 p.yiqifa.com
-127.0.0.1 count.chanet.com.cn
-127.0.0.1 u.ctrip.com
-127.0.0.1 union.click.jd.com
-127.0.0.1 union.dangdang.com
-127.0.0.1 click.union.vip.com
-127.0.0.1 you.ctrip.com
-@errorpage/click
-127.0.0.1 wm.makeding.com
-127.0.0.1 go.fcwr8.com
-127.0.0.1 www.tigerbrokers.com
-@errorpage/weixin
-127.0.0.1 wap.koudaitong.com
-127.0.0.1 tl.771tao.com
-@errorpage/inside
-127.0.0.1 tuku.jkys5.com
-127.0.0.1 img.jkys5.com
-127.0.0.1 www.jkys5.com
-@errorpage/game
-@hijack/operators
+127.0.0.1 www.ahhjyl.cn@hijack/operators
 #10000
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
@@ -1513,6 +1464,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
+127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
