@@ -1,6 +1,7 @@
 
-#version=201609191920
+#version=201609202234
 #url=https://github.com/vokins/yhosts
+127.0.0.1 iadctest.qwapi.com
 198.41.206.65 image.bbob.vip
 198.41.206.66 image.bbob.vip
 198.41.206.67 image.bbob.vip
@@ -53,8 +54,6 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-5.196.172.196 www.dxomark.com
-43.245.63.28 cdn.dxomark.com@active
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
@@ -173,16 +172,13 @@
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
 127.0.0.1 down.xiazaiyuan.net
-127.0.0.1 img.qiyou.com
-127.0.0.1 r.qiyou.com
-127.0.0.1 s.00oo00.com
 127.0.0.1 www.winbaicai.com
 127.0.0.1 down.winbaicai.com
 127.0.0.1 u.diannaodian.com
 127.0.0.1 down.diannaodian.com
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
-127.0.0.1 www.ahhjyl.cn@hijack/operators
+127.0.0.1 www.ahhjyl.cn
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -297,7 +293,6 @@
 127.0.0.1 stjzh.gdtarget.com
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 info.yitsoftware.com
-127.0.0.1 iadctest.qwapi.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 ad-locus.com
@@ -1706,7 +1701,6 @@
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 ca.gtimg.com
-
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -3506,7 +3500,6 @@
 127.0.0.1 cdn1.res.uzham.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
-127.0.0.1 rc.nxrxt.com
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com
 127.0.0.1 attach.s8bbs.com

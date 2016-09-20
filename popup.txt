@@ -895,7 +895,6 @@
 #m.zngirls.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
-127.0.0.1 rc.nxrxt.com
 #showgirl88.net
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com

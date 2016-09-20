@@ -3,7 +3,6 @@
 127.0.0.1 inside.bitcomet.com
 #qq-im.qq.com
 127.0.0.1 ca.gtimg.com
-
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com

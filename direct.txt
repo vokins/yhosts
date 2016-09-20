@@ -53,6 +53,3 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-#dxomark
-5.196.172.196 www.dxomark.com
-43.245.63.28 cdn.dxomark.com

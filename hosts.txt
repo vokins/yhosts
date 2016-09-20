@@ -6,6 +6,8 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 255.255.255.255	broadcasthost
+@1os/#itunes-radio
+127.0.0.1 iadctest.qwapi.com
 @direct/site
 #shuaitong5
 198.41.206.65 image.bbob.vip
@@ -61,9 +63,7 @@ ff02::2 ip6-allrouters
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
-#dxomark
-5.196.172.196 www.dxomark.com
-43.245.63.28 cdn.dxomark.com@active
+@active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #acronis
@@ -208,9 +208,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
 127.0.0.1 down.xiazaiyuan.net
-127.0.0.1 img.qiyou.com
-127.0.0.1 r.qiyou.com
-127.0.0.1 s.00oo00.com
 @virus/down
 #dabaicai
 127.0.0.1 www.winbaicai.com
@@ -222,7 +219,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 #virus-down
-127.0.0.1 www.ahhjyl.cn@hijack/operators
+127.0.0.1 www.ahhjyl.cn
+@hijack/operators
 #10000
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
@@ -346,9 +344,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wo.iuni.com.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
-@ios
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
 @mob/union
 #adcolony
 127.0.0.1 androidads23.adcolony.com
@@ -2114,7 +2109,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 inside.bitcomet.com
 #qq-im.qq.com
 127.0.0.1 ca.gtimg.com
-
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -3899,7 +3893,6 @@ ff02::2 ip6-allrouters
 #m.zngirls.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
-127.0.0.1 rc.nxrxt.com
 #showgirl88.net
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com

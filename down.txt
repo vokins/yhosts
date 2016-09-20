@@ -103,6 +103,3 @@
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
 127.0.0.1 down.xiazaiyuan.net
-127.0.0.1 img.qiyou.com
-127.0.0.1 r.qiyou.com
-127.0.0.1 s.00oo00.com
