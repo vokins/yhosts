@@ -3669,3 +3669,4 @@
 149.154.167.99 desktop.telegram.org
 149.154.167.99 core.telegram.org
 149.154.167.99 macos.telegram.org
+23.214.233.166 s.mzstatic.com

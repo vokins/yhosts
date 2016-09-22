@@ -10,3 +10,4 @@
 127.0.0.1 down.laomaotao.net
 #virus-down
 127.0.0.1 www.ahhjyl.cn
+127.0.0.1 hk.jtsh123.com
