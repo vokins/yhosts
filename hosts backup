@@ -1,4 +1,5 @@
-#version=20160924
+
+#version=201609222029
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 198.41.206.65 image.bbob.vip
@@ -851,6 +852,7 @@
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
+
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
@@ -3068,6 +3070,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
 127.0.0.1 j.qiqiww.com
@@ -3535,20 +3538,3 @@
 127.0.0.1 a.stka8.com
 127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
-##temporary.txt
-#@视频网
-#itv.hnr.cn
-127.0.0.1 zjs.roowap.com
-#www.bd-film.com
-127.0.0.1 www.youfumei.com
-#m.haotv8.com
-127.0.0.1 code.gutun.net
-
-#@BT网
-#bt.kltvv.com
-127.0.0.1 js.lieqitianxia.cn
-#dvd.kltvv.com
-127.0.0.1 t.e706.net
-127.0.0.1 js.lieqitianxia.cn
-127.0.0.1 f.70e.com
-

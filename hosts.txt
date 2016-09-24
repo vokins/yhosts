@@ -1022,7 +1022,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
-
 @web-cn/cars
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
@@ -3416,7 +3415,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 @popup/bt
-
 #bt.orzx.im
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
@@ -3938,3 +3936,20 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.stka8.com
 127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
+##temporary.txt
+#@视频网
+#itv.hnr.cn
+127.0.0.1 zjs.roowap.com
+#www.bd-film.com
+127.0.0.1 www.youfumei.com
+#m.haotv8.com
+127.0.0.1 code.gutun.net
+
+#@BT网
+#bt.kltvv.com
+127.0.0.1 js.lieqitianxia.cn
+#dvd.kltvv.com
+127.0.0.1 t.e706.net
+127.0.0.1 js.lieqitianxia.cn
+127.0.0.1 f.70e.com
+
