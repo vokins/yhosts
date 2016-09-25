@@ -1486,10 +1486,15 @@ ff02::2 ip6-allrouters
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
+127.0.0.1 static.xmp.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
+127.0.0.1 tips.v.xunlei.com
+127.0.0.1 jump.niu.xunlei.com
+127.0.0.1 qj.code.twyxi.com
+127.0.0.1 www.6998cdn.com
 #le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
@@ -3957,3 +3962,8 @@ ff02::2 ip6-allrouters
 #www.btmeet.net
 127.0.0.1 jishi.sfloushi.com
 127.0.0.1 s.zsdexun.com.cn
+127.0.0.1 tt.code.mytanwan.com
+127.0.0.1 rtb.behe.com
+127.0.0.1 m.cnzz.twh5.com
+127.0.0.1 g.b.twyxi.com
+127.0.0.1 pv.cnzz.twh5.com

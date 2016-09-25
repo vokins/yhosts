@@ -933,3 +933,8 @@
 #www.btmeet.net
 127.0.0.1 jishi.sfloushi.com
 127.0.0.1 s.zsdexun.com.cn
+127.0.0.1 tt.code.mytanwan.com
+127.0.0.1 rtb.behe.com
+127.0.0.1 m.cnzz.twh5.com
+127.0.0.1 g.b.twyxi.com
+127.0.0.1 pv.cnzz.twh5.com
