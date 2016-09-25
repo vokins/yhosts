@@ -8,6 +8,10 @@ ff02::2 ip6-allrouters
 255.255.255.255	broadcasthost
 @1os/#itunes-radio
 127.0.0.1 iadctest.qwapi.com
+@direct/3rd
+#dxomark
+5.196.172.196 www.dxomark.com
+185.59.221.28 cdn.dxomark.com
 @direct/site
 #shuaitong5
 198.41.206.65 image.bbob.vip
@@ -116,8 +120,30 @@ ff02::2 ip6-allrouters
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
-#down-baidu
+#down-baidu/anquan
+127.0.0.1 anquan.baidu.com
+127.0.0.1 antivirus.baidu.com
+127.0.0.1 dl-vip.bav.baidu.com
+127.0.0.1 dl2.bav.baidu.com
+127.0.0.1 download.sd.baidu.com
+127.0.0.1 w.x.baidu.com
+#down-baidu/bar-browser
+127.0.0.1 banlv.baidu.com
+127.0.0.1 bar.baidu.com
+127.0.0.1 dl.client.baidu.com
+127.0.0.1 dzl.baidu.com
+127.0.0.1 j.br.baidu.com
+127.0.0.1 toolbar.baidu.com
+#down-baidu/cleaner
+127.0.0.1 cleaner.baidu.com
+127.0.0.1 dl-vip.pcfaster.baidu.co.th
+#down-baidu/down
 127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
+#down-baidu/hao123
+127.0.0.1 update.123juzi.net
+#down-baidu/pan
+127.0.0.1 update.pan.baidu.com
 #down-qq
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
@@ -152,8 +178,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gg.yxdown.com
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 img.zhihei.com
-127.0.0.1 cpc.88rpg.net
-127.0.0.1 img.fd7c.com
 #down-ot
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
@@ -174,7 +198,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.uzhiv.com
 127.0.0.1 img.yrxmr.com
 127.0.0.1 img.zsj18.com
-127.0.0.1 ini.litingxin.cn
 127.0.0.1 iospage.w0shishui.com
 127.0.0.1 j.jiawen88.com
 127.0.0.1 js.um0592.com
@@ -198,7 +221,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.czchaole.com
 127.0.0.1 twoaaa.168wangluo.com
 127.0.0.1 v.dbncp.com
-127.0.0.1 v.jtxh.net
 127.0.0.1 www.4wad.com
 127.0.0.1 www.sxjinglong.cn
 127.0.0.1 www.um0592.com
@@ -207,7 +229,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ini.pinguopai.cn
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
-127.0.0.1 down.xiazaiyuan.net
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
@@ -799,6 +820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rd.da.netease.com
 #toutiao
 127.0.0.1 ad.toutiao.com
+127.0.0.1 partner.toutiao.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
 #halo
@@ -811,6 +833,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.flipboard.com
 #yixin
 127.0.0.1 ad.yixin.im
+#51wnl.com
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
+#www.seeyouyima.com
+127.0.0.1 ad.seeyouyima.com
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com
@@ -917,30 +944,6 @@ ff02::2 ip6-allrouters
 #baidu-soft/91
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 appx.91.com
-#baidu-soft/anquan
-127.0.0.1 anquan.baidu.com
-127.0.0.1 antivirus.baidu.com
-127.0.0.1 dl-vip.bav.baidu.com
-127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 download.sd.baidu.com
-127.0.0.1 w.x.baidu.com
-#baidu-soft/bar-browser
-127.0.0.1 banlv.baidu.com
-127.0.0.1 bar.baidu.com
-127.0.0.1 dl.client.baidu.com
-127.0.0.1 dzl.baidu.com
-127.0.0.1 j.br.baidu.com
-127.0.0.1 toolbar.baidu.com
-#baidu-soft/cleaner
-127.0.0.1 cleaner.baidu.com
-127.0.0.1 dl-vip.pcfaster.baidu.co.th
-#baidu-soft/down
-127.0.0.1 rj.baidu.com
-127.0.0.1 dlsw.br.baidu.com
-#baidu-soft/hao123
-127.0.0.1 update.123juzi.net
-#baidu-soft/pan
-127.0.0.1 update.pan.baidu.com
 #qq.com
 127.0.0.1 guanjia.qq.com
 127.0.0.1 mini2015.qq.com
@@ -1216,6 +1219,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 dpvc2.qqyy.com
 127.0.0.1 dpvchos.qqyy.com
 127.0.0.1 dpvcimg.qqyy.com
+#www.bjmama.net
+127.0.0.1 as.bjmama.net
 #xywy.com
 127.0.0.1 a.xywy.com
 127.0.0.1 gg.xywy.com
@@ -1292,7 +1297,6 @@ ff02::2 ip6-allrouters
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
-127.0.0.1 aos.prf.hn
 127.0.0.1 blb.winasdaq.com
 127.0.0.1 un.winasdaq.com
 #cnmo.com
@@ -1552,6 +1556,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ins.pplive.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 ads.aplusapi.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
@@ -1778,7 +1783,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 #w.huanqiu.com
-127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
 #ifeng.com
@@ -1879,7 +1883,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 click.dangdang.com
 127.0.0.1 schprompt.dangdang.com
 127.0.0.1 t.dangdang.com
-127.0.0.1 union.dangdang.com
 #jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 bdsp.x.jd.com
@@ -3367,6 +3370,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
+#tuku.cc
+127.0.0.1 bdjm.tuku.cc
+127.0.0.1 sougouwap.tuku.cc
 #www.dm530.com
 127.0.0.1 dm531.dm530.net
 127.0.0.1 dm532.dm530.net
@@ -3477,10 +3483,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 js883.yzh360.com
 127.0.0.1 jump2.pszyzxh.org
 127.0.0.1 kt.kt220.com
-127.0.0.1 lg2.jointreport-switch.com
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.kt0731.com
-127.0.0.1 media.jointreport-switch.com
 127.0.0.1 nba.goodemc.com
 127.0.0.1 pic.shadowsmell.com
 127.0.0.1 pic494036.images9999.com
@@ -3521,11 +3525,9 @@ ff02::2 ip6-allrouters
 #dytt8.net
 127.0.0.1 cf.37cs.com
 127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 js.xtgreat.com
 127.0.0.1 p.99mssj.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 rs.haohaowan8.com
-127.0.0.1 s.x.cn.xtgreat.com
 127.0.0.1 www.37cs.com
 #henbt.com
 127.0.0.1 js1151.yongkang6.com
@@ -3738,11 +3740,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 js.133u.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
-127.0.0.1 static.googleadsserving.cn
 #m.a4yy.com
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
 127.0.0.1 s.cdnny.com
+127.0.0.1 js3492.yongkang6.com
+127.0.0.1 u.123hala.com
+127.0.0.1 uimg.123hala.com
+127.0.0.1 www.higame123.com
+127.0.0.1 uimg.1qwe3r.com
+127.0.0.1 record.4399.com
 #m.btdog.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
@@ -3936,20 +3943,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.stka8.com
 127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
-##temporary.txt
-#@视频网
+#bt.kltvv.com
+127.0.0.1 js.lieqitianxia.cn
+#dvd.kltvv.com
+127.0.0.1 t.e706.net
+127.0.0.1 f.70e.com
 #itv.hnr.cn
 127.0.0.1 zjs.roowap.com
 #www.bd-film.com
 127.0.0.1 www.youfumei.com
 #m.haotv8.com
 127.0.0.1 code.gutun.net
-
-#@BT网
-#bt.kltvv.com
-127.0.0.1 js.lieqitianxia.cn
-#dvd.kltvv.com
-127.0.0.1 t.e706.net
-127.0.0.1 js.lieqitianxia.cn
-127.0.0.1 f.70e.com
-

@@ -7,7 +7,6 @@
 @web/ali-cnzz
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 c.cnzz.com
-127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
 127.0.0.1 jserr.cnzz.com

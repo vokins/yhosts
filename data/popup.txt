@@ -346,6 +346,9 @@
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
+#tuku.cc
+127.0.0.1 bdjm.tuku.cc
+127.0.0.1 sougouwap.tuku.cc
 #www.dm530.com
 127.0.0.1 dm531.dm530.net
 127.0.0.1 dm532.dm530.net
@@ -394,7 +397,6 @@
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 @popup/bt
-
 #bt.orzx.im
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
@@ -457,10 +459,8 @@
 127.0.0.1 js883.yzh360.com
 127.0.0.1 jump2.pszyzxh.org
 127.0.0.1 kt.kt220.com
-127.0.0.1 lg2.jointreport-switch.com
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.kt0731.com
-127.0.0.1 media.jointreport-switch.com
 127.0.0.1 nba.goodemc.com
 127.0.0.1 pic.shadowsmell.com
 127.0.0.1 pic494036.images9999.com
@@ -501,11 +501,9 @@
 #dytt8.net
 127.0.0.1 cf.37cs.com
 127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 js.xtgreat.com
 127.0.0.1 p.99mssj.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 rs.haohaowan8.com
-127.0.0.1 s.x.cn.xtgreat.com
 127.0.0.1 www.37cs.com
 #henbt.com
 127.0.0.1 js1151.yongkang6.com
@@ -718,11 +716,16 @@
 127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 js.133u.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
-127.0.0.1 static.googleadsserving.cn
 #m.a4yy.com
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
 127.0.0.1 s.cdnny.com
+127.0.0.1 js3492.yongkang6.com
+127.0.0.1 u.123hala.com
+127.0.0.1 uimg.123hala.com
+127.0.0.1 www.higame123.com
+127.0.0.1 uimg.1qwe3r.com
+127.0.0.1 record.4399.com
 #m.btdog.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
@@ -916,3 +919,14 @@
 127.0.0.1 a.stka8.com
 127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
+#bt.kltvv.com
+127.0.0.1 js.lieqitianxia.cn
+#dvd.kltvv.com
+127.0.0.1 t.e706.net
+127.0.0.1 f.70e.com
+#itv.hnr.cn
+127.0.0.1 zjs.roowap.com
+#www.bd-film.com
+127.0.0.1 www.youfumei.com
+#m.haotv8.com
+127.0.0.1 code.gutun.net

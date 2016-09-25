@@ -4,6 +4,11 @@
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
+#cibn
+127.0.0.1 s.gdatacube.net
+127.0.0.1 cf.gdatacube.net
+127.0.0.1 js.hls.ott.cibntv.net
+127.0.0.1 hls01.ott.disp.cibntv.net
 #cibntv-pd.youku.com/cibn
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
@@ -15,7 +20,6 @@
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 sdk.m.cp31.ott.cibntv.net
 127.0.0.1 g.dtv.cn.miaozhen.com
-127.0.0.1 yktd.m.cn.miaozhen.com
 #cibntv-pptv
 127.0.0.1 ads.data.pplive.com
 127.0.0.1 action.data.cp61.ott.cibntv.net
@@ -74,8 +78,6 @@
 #v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
-127.0.0.1 cm.l.qq.com
-127.0.0.1 x.l.qq.com
 127.0.0.1 wa.gtimg.com
 #iqiyi-gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
@@ -186,6 +188,7 @@
 127.0.0.1 ykrectab.youku.com
 127.0.0.1 qr.youlu.com
 127.0.0.1 guanggaoad.youku.com
+127.0.0.1 cmstool.youku.com
 #youku-area
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237

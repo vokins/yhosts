@@ -11,8 +11,30 @@
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
-#down-baidu
+#down-baidu/anquan
+127.0.0.1 anquan.baidu.com
+127.0.0.1 antivirus.baidu.com
+127.0.0.1 dl-vip.bav.baidu.com
+127.0.0.1 dl2.bav.baidu.com
+127.0.0.1 download.sd.baidu.com
+127.0.0.1 w.x.baidu.com
+#down-baidu/bar-browser
+127.0.0.1 banlv.baidu.com
+127.0.0.1 bar.baidu.com
+127.0.0.1 dl.client.baidu.com
+127.0.0.1 dzl.baidu.com
+127.0.0.1 j.br.baidu.com
+127.0.0.1 toolbar.baidu.com
+#down-baidu/cleaner
+127.0.0.1 cleaner.baidu.com
+127.0.0.1 dl-vip.pcfaster.baidu.co.th
+#down-baidu/down
 127.0.0.1 rj.baidu.com
+127.0.0.1 dlsw.br.baidu.com
+#down-baidu/hao123
+127.0.0.1 update.123juzi.net
+#down-baidu/pan
+127.0.0.1 update.pan.baidu.com
 #down-qq
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
@@ -47,8 +69,6 @@
 127.0.0.1 gg.yxdown.com
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 img.zhihei.com
-127.0.0.1 cpc.88rpg.net
-127.0.0.1 img.fd7c.com
 #down-ot
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
@@ -69,7 +89,6 @@
 127.0.0.1 i.uzhiv.com
 127.0.0.1 img.yrxmr.com
 127.0.0.1 img.zsj18.com
-127.0.0.1 ini.litingxin.cn
 127.0.0.1 iospage.w0shishui.com
 127.0.0.1 j.jiawen88.com
 127.0.0.1 js.um0592.com
@@ -93,7 +112,6 @@
 127.0.0.1 t.czchaole.com
 127.0.0.1 twoaaa.168wangluo.com
 127.0.0.1 v.dbncp.com
-127.0.0.1 v.jtxh.net
 127.0.0.1 www.4wad.com
 127.0.0.1 www.sxjinglong.cn
 127.0.0.1 www.um0592.com
@@ -102,4 +120,3 @@
 127.0.0.1 ini.pinguopai.cn
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
-127.0.0.1 down.xiazaiyuan.net

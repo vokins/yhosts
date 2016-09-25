@@ -429,6 +429,7 @@
 127.0.0.1 rd.da.netease.com
 #toutiao
 127.0.0.1 ad.toutiao.com
+127.0.0.1 partner.toutiao.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
 #halo
@@ -441,3 +442,8 @@
 127.0.0.1 ad.flipboard.com
 #yixin
 127.0.0.1 ad.yixin.im
+#51wnl.com
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
+#www.seeyouyima.com
+127.0.0.1 ad.seeyouyima.com
