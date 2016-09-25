@@ -936,5 +936,8 @@
 127.0.0.1 tt.code.mytanwan.com
 127.0.0.1 rtb.behe.com
 127.0.0.1 m.cnzz.twh5.com
-127.0.0.1 g.b.twyxi.com
 127.0.0.1 pv.cnzz.twh5.com
+127.0.0.1 g.b.twyxi.com
+127.0.0.1 thunder.365sky.com
+127.0.0.1 qj.code.twyxi.com
+127.0.0.1 pc.code.twyxi.com
