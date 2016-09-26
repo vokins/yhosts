@@ -1,5 +1,5 @@
 
-#version=20160926 017
+#version=20160926 820
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -1966,7 +1966,7 @@
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
-127.0.0.1 rtb.admaster.com.cn 
+127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
@@ -3006,7 +3006,7 @@
 127.0.0.1 id1.anreson.net
 127.0.0.1 www.iiad.com
 127.0.0.1 js3987.yzh360.com
-127.0.0.1 wx.8536818.com  
+127.0.0.1 wx.8536818.com
 127.0.0.1 hao.1235k.com
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 img.yy89ju.com
@@ -3561,3 +3561,8 @@
 127.0.0.1 thunder.365sky.com
 127.0.0.1 qj.code.twyxi.com
 127.0.0.1 pc.code.twyxi.com
+127.0.0.1 pic183025.images9999.com
+127.0.0.1 la.gydag.com
+127.0.0.1 img2.hrccb.com
+127.0.0.1 js1597.anreson.net
+127.0.0.1 js1597.cnbole.net
