@@ -2,3 +2,6 @@
 127.0.0.1 qr.cp31.ott.cibntv.net   这条优酷机顶盒版（CIBN全球——暂停视频 广告
 127.0.0.1 qr.youlu.com 这条优酷XL版暂停视频 广告
 127.0.0.1 guanggaoad.youku.com （这条是优酷的APP IOS的广告）
+
+cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default_img_dir/广告图片缓存
+屏蔽广告：删除fresco_default_img_dir文件夹，新建空白文件，文件名改为fresco_default_img_dir即可。
