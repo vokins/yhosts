@@ -243,7 +243,7 @@
 54.225.64.251 fbprod.flipboard.com
 104.244.42.3 twitter.com
 104.244.42.3 www.twitter.com
-104.244.42.5 t.co
+185.45.5.36 t.co
 104.244.42.3 api.twitter.com
 104.244.42.3 mobile.twitter.com
 104.244.42.3 support.twitter.com

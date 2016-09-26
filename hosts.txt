@@ -3268,6 +3268,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.zzrcz.com
 #m.biquge.la
+127.0.0.1 tt.biquge.la
+127.0.0.1 g.hw6.com
+127.0.0.1 img.hunlimishu.com
 127.0.0.1 t.91chs.com
 127.0.0.1 x.55peixun.com
 127.0.0.1 rc.xxhrd.com
