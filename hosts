@@ -1,5 +1,4 @@
-
-#version=201609261630
+#version=20160928
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -1591,7 +1590,6 @@
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
 127.0.0.1 static.awempire.com
-127.0.0.1 ss.phncdn.com
 127.0.0.1 vi2ishae.xhamster.com
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 cs.adxpansion.com
@@ -3575,3 +3573,24 @@
 127.0.0.1 img2.hrccb.com
 127.0.0.1 js1597.anreson.net
 127.0.0.1 js1597.cnbole.net
+##temporary.txt
+#@视频网
+#www.pronhub.com
+127.0.0.1 cdn2.reporo.net
+127.0.0.1 cdn11.i-stream.pl
+127.0.0.1 media.i-stream.pl
+127.0.0.1 cdn1.reporo.net
+127.0.0.1 cdn-a2.contentabc.com
+
+#@BT网
+#http://www.btmango.com/
+127.0.0.1 souacode.com
+127.0.0.1 freespace.juchaojie.com
+
+#@漫画网
+#http://m.xieeyn.com/sexi/
+127.0.0.1 vip.zzbzwy.com
+ 
+#@小说网
+#m.biquge.la
+127.0.0.1 llsp.gfd80.com
