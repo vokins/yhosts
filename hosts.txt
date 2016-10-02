@@ -918,7 +918,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
-127.0.0.1 sp1.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
@@ -3991,16 +3990,30 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.i-stream.pl
 127.0.0.1 cdn1.reporo.net
 127.0.0.1 cdn-a2.contentabc.com
-
 #@BT网
 #http://www.btmango.com/
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
-
 #@漫画网
 #http://m.xieeyn.com/sexi/
 127.0.0.1 vip.zzbzwy.com
- 
 #@小说网
 #m.biquge.la
 127.0.0.1 llsp.gfd80.com
+#谷歌广告
+127.0.0.1 adclick.g.doublecklick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 googleadservices.com
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 video-ad-stats.googlesyndication.com
+#spotofy
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 ads-fa.spotify.com
+127.0.0.1 analytics.spotify.com
+127.0.0.1 audio2.spotify.com
+127.0.0.1 crashdump.spotify.com
+127.0.0.1 desktop.spotify.com
+127.0.0.1 log.spotify.com
+127.0.0.1 open.spotify.com
+127.0.0.1 weblb-wg.gslb.spotify.com
