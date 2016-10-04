@@ -1,4 +1,4 @@
-#version=20161004
+#version=20161004b
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -3581,7 +3581,7 @@
 127.0.0.1 cdn-a2.contentabc.com
 #
 #@BT网
-#http://www.btmango.com/
+#www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
 #btdigg.pw\diggbt.co
@@ -3594,12 +3594,24 @@
 127.0.0.1 yl.apyuelang.com
 #
 #@漫画网
-#http://m.xieeyn.com/sexi/
+#m.xieeyn.com
 127.0.0.1 vip.zzbzwy.com
 #
 #@小说网
 #m.biquge.la
 127.0.0.1 llsp.gfd80.com
+127.0.0.1 kiki.ykjmy.com
+#7788xs.net
+127.0.0.1 www.yiranxian.cn
+127.0.0.1 a.7788xs.net
+127.0.0.1 b.7788xs.net
+#m.nenzei.net
+127.0.0.1 js.yiwuds.com
+127.0.0.1 s.xiaobiaoucai.cn
+127.0.0.1 s95.cnzz.com
+127.0.0.1 news.s9377.com
+127.0.0.1 img.tkguolugs.com
+127.0.0.1 tu.szefe.com
 #
 #@谷歌广告
 127.0.0.1 adclick.g.doublecklick.net
