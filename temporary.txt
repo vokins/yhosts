@@ -6,6 +6,22 @@
 127.0.0.1 media.i-stream.pl
 127.0.0.1 cdn1.reporo.net
 127.0.0.1 cdn-a2.contentabc.com
+#爱奇艺泡泡
+127.0.0.1 iface2.qiyi.com
+127.0.0.1 paopao1.qiyipic.com
+127.0.0.1 subscription.iqiyi.com
+127.0.0.1 downapp.baidu.com
+127.0.0.1 paopao2.qiyipic.com
+127.0.0.1 paopao.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 emoticon.sns.iqiyi.com
+127.0.0.1 tracker.sns.iqiyi.com
+127.0.0.1 hotchat-im.iqiyi.com
+127.0.0.1 iface.iqiyi.com
+127.0.0.1 paopao0.qiyipic.com
+127.0.0.1 paopao3.qiyipic.com
+#优酷
+127.0.0.1 wisem-cm.cn.miaozhen.com
 #
 #@BT网
 #www.btmango.com
@@ -16,7 +32,7 @@
 127.0.0.1 js.yiwuds.com
 127.0.0.1 ss.apyuelang.com
 127.0.0.1 ig.nukefans.net
-127.0.0.1 js3555.rencai56.com:
+127.0.0.1 js3555.rencai56.com
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 yl.apyuelang.com
 #
@@ -64,3 +80,6 @@
 #手机迅雷
 127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 static2.ssp.xunlei.com
+#down
+127.0.0.1 dl.ops.baidu.com
+127.0.0.1 android.rqd.qq.com 
