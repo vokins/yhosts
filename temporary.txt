@@ -87,3 +87,7 @@
 #down
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 android.rqd.qq.com 
+#www.zhaifu.cc
+127.0.0.1 b.nxrxt.com
+127.0.0.1 mob.coolnay.com
+127.0.0.1 b.cdnny.com
