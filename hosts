@@ -1,4 +1,4 @@
-#version=20161005
+#version=20161005b
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -3608,6 +3608,10 @@
 127.0.0.1 js3555.rencai56.com
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 yl.apyuelang.com
+127.0.0.1 js3555.zzbaowen.com
+127.0.0.1 t.7jiajiao.com
+127.0.0.1 m78.yatemy.cn
+127.0.0.1 m71.qhdzfs.cn
 #
 #@漫画网
 #m.xieeyn.com
