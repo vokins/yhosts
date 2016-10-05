@@ -1,4 +1,4 @@
-#version=20161005c
+#version=20161006
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -3660,3 +3660,6 @@
 #down
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 android.rqd.qq.com 
+#www.zhaifu.cc
+127.0.0.1 mob.coolnay.com
+127.0.0.1 b.cdnny.com
