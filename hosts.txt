@@ -1919,8 +1919,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.ea3w.com
 127.0.0.1 pic.ea3w.com
 127.0.0.1 stat.ea3w.com
-#facebook-noads
-127.0.0.1 staticxx.facebook.com
 #jd-bbs.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
