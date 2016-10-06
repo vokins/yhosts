@@ -138,6 +138,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 #down-baidu/down
+127.0.0.1 downapp.baidu.com
+127.0.0.1 dl.ops.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
 #down-baidu/hao123
@@ -151,6 +153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.pc.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
+127.0.0.1 android.rqd.qq.com
 #cr173.com
 127.0.0.1 cpro.cr173.com
 127.0.0.1 tj.tt1386.com
@@ -843,6 +846,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-android.51wnl.com
 #www.seeyouyima.com
 127.0.0.1 ad.seeyouyima.com
+#spotofy
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 ads-fa.spotify.com
+127.0.0.1 analytics.spotify.com
+127.0.0.1 crashdump.spotify.com
+127.0.0.1 desktop.spotify.com
+127.0.0.1 log.spotify.com
+127.0.0.1 open.spotify.com
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 weblb-wg.gslb.spotify.com
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com
@@ -1416,11 +1429,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 #baofeng.com
-127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com
 127.0.0.1 addl.logger.baofeng.com
 127.0.0.1 areacode.baofeng.com
+127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 clicklog.moviebox.baofeng.com
 127.0.0.1 dailylog.storm.baofeng.com
 127.0.0.1 eventlog.hd.baofeng.com
@@ -1436,6 +1449,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 vdinfo.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
+127.0.0.1 wisem-cm.cn.miaozhen.com
 #baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 config.baofeng.net
@@ -1496,8 +1510,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 tips.v.xunlei.com
 127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 niu.xunlei.com
-127.0.0.1 qj.code.twyxi.com
 127.0.0.1 www.6998cdn.com
+#xunlei-mob
+127.0.0.1 api.tw06.xlmc.sandai.net
+127.0.0.1 static2.ssp.xunlei.com
 #le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
@@ -1984,6 +2000,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.try9.com
 127.0.0.1 rotator.trafficstars.com
 127.0.0.1 syndication.traffichaus.com
+#www.pronhub.com
+127.0.0.1 cdn2.reporo.net
+127.0.0.1 cdn11.i-stream.pl
+127.0.0.1 media.i-stream.pl
+127.0.0.1 cdn1.reporo.net
+127.0.0.1 cdn-a2.contentabc.com
 @web-for/bt2k
 #bts.ph
 127.0.0.1 mg.dt07.net
@@ -2239,32 +2261,38 @@ ff02::2 ip6-allrouters
 #effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 sg-cdn.effectivemeasure.net
-#google
-127.0.0.1 g.doubleclick.net
+#google-doubleclick
+127.0.0.1 ad-apac.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.jp.doubleclick.net
+127.0.0.1 adclick.g.doublecklick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+#google-syndication
+127.0.0.1 afs.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 video-ad-stats.googlesyndication.com
+#google-adservices
+127.0.0.1 www.googleadservices.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
+#google-others
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 ad-apac.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.jp.doubleclick.net
-127.0.0.1 adclick.g.doubleclick.net
-127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
-127.0.0.1 www.googleadservices.com
 #gosquared.com
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
@@ -2934,99 +2962,99 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
-127.0.0.1 20160901.biz5.kankan.com
-127.0.0.1 20160901.logic.cpm.cm.kankan.com
-127.0.0.1 20160901.float.kankan.com
-127.0.0.1 20160902.biz5.kankan.com
-127.0.0.1 20160902.logic.cpm.cm.kankan.com
-127.0.0.1 20160902.float.kankan.com
-127.0.0.1 20160903.biz5.kankan.com
-127.0.0.1 20160903.logic.cpm.cm.kankan.com
-127.0.0.1 20160903.float.kankan.com
-127.0.0.1 20160904.biz5.kankan.com
-127.0.0.1 20160904.logic.cpm.cm.kankan.com
-127.0.0.1 20160904.float.kankan.com
-127.0.0.1 20160905.biz5.kankan.com
-127.0.0.1 20160905.logic.cpm.cm.kankan.com
-127.0.0.1 20160905.float.kankan.com
-127.0.0.1 20160906.biz5.kankan.com
-127.0.0.1 20160906.logic.cpm.cm.kankan.com
-127.0.0.1 20160906.float.kankan.com
-127.0.0.1 20160907.biz5.kankan.com
-127.0.0.1 20160907.logic.cpm.cm.kankan.com
-127.0.0.1 20160907.float.kankan.com
-127.0.0.1 20160908.biz5.kankan.com
-127.0.0.1 20160908.logic.cpm.cm.kankan.com
-127.0.0.1 20160908.float.kankan.com
-127.0.0.1 20160909.biz5.kankan.com
-127.0.0.1 20160909.logic.cpm.cm.kankan.com
-127.0.0.1 20160909.float.kankan.com
-127.0.0.1 20160910.biz5.kankan.com
-127.0.0.1 20160910.logic.cpm.cm.kankan.com
-127.0.0.1 20160910.float.kankan.com
-127.0.0.1 20160911.biz5.kankan.com
-127.0.0.1 20160911.logic.cpm.cm.kankan.com
-127.0.0.1 20160911.float.kankan.com
-127.0.0.1 20160912.biz5.kankan.com
-127.0.0.1 20160912.logic.cpm.cm.kankan.com
-127.0.0.1 20160912.float.kankan.com
-127.0.0.1 20160913.biz5.kankan.com
-127.0.0.1 20160913.logic.cpm.cm.kankan.com
-127.0.0.1 20160913.float.kankan.com
-127.0.0.1 20160914.biz5.kankan.com
-127.0.0.1 20160914.logic.cpm.cm.kankan.com
-127.0.0.1 20160914.float.kankan.com
-127.0.0.1 20160915.biz5.kankan.com
-127.0.0.1 20160915.logic.cpm.cm.kankan.com
-127.0.0.1 20160915.float.kankan.com
-127.0.0.1 20160916.biz5.kankan.com
-127.0.0.1 20160916.logic.cpm.cm.kankan.com
-127.0.0.1 20160916.float.kankan.com
-127.0.0.1 20160917.biz5.kankan.com
-127.0.0.1 20160917.logic.cpm.cm.kankan.com
-127.0.0.1 20160917.float.kankan.com
-127.0.0.1 20160918.biz5.kankan.com
-127.0.0.1 20160918.logic.cpm.cm.kankan.com
-127.0.0.1 20160918.float.kankan.com
-127.0.0.1 20160919.biz5.kankan.com
-127.0.0.1 20160919.logic.cpm.cm.kankan.com
-127.0.0.1 20160919.float.kankan.com
-127.0.0.1 20160920.biz5.kankan.com
-127.0.0.1 20160920.logic.cpm.cm.kankan.com
-127.0.0.1 20160920.float.kankan.com
-127.0.0.1 20160921.biz5.kankan.com
-127.0.0.1 20160921.logic.cpm.cm.kankan.com
-127.0.0.1 20160921.float.kankan.com
-127.0.0.1 20160922.biz5.kankan.com
-127.0.0.1 20160922.logic.cpm.cm.kankan.com
-127.0.0.1 20160922.float.kankan.com
-127.0.0.1 20160923.biz5.kankan.com
-127.0.0.1 20160923.logic.cpm.cm.kankan.com
-127.0.0.1 20160923.float.kankan.com
-127.0.0.1 20160924.biz5.kankan.com
-127.0.0.1 20160924.logic.cpm.cm.kankan.com
-127.0.0.1 20160924.float.kankan.com
-127.0.0.1 20160925.biz5.kankan.com
-127.0.0.1 20160925.logic.cpm.cm.kankan.com
-127.0.0.1 20160925.float.kankan.com
-127.0.0.1 20160926.biz5.kankan.com
-127.0.0.1 20160926.logic.cpm.cm.kankan.com
-127.0.0.1 20160926.float.kankan.com
-127.0.0.1 20160927.biz5.kankan.com
-127.0.0.1 20160927.logic.cpm.cm.kankan.com
-127.0.0.1 20160927.float.kankan.com
-127.0.0.1 20160928.biz5.kankan.com
-127.0.0.1 20160928.logic.cpm.cm.kankan.com
-127.0.0.1 20160928.float.kankan.com
-127.0.0.1 20160929.biz5.kankan.com
-127.0.0.1 20160929.logic.cpm.cm.kankan.com
-127.0.0.1 20160929.float.kankan.com
-127.0.0.1 20160930.biz5.kankan.com
-127.0.0.1 20160930.logic.cpm.cm.kankan.com
-127.0.0.1 20160930.float.kankan.com
-127.0.0.1 20160931.biz5.kankan.com
-127.0.0.1 20160931.logic.cpm.cm.kankan.com
-127.0.0.1 20160931.float.kankan.com
+127.0.0.1 20161001.biz5.kankan.com
+127.0.0.1 20161001.logic.cpm.cm.kankan.com
+127.0.0.1 20161001.float.kankan.com
+127.0.0.1 20161002.biz5.kankan.com
+127.0.0.1 20161002.logic.cpm.cm.kankan.com
+127.0.0.1 20161002.float.kankan.com
+127.0.0.1 20161003.biz5.kankan.com
+127.0.0.1 20161003.logic.cpm.cm.kankan.com
+127.0.0.1 20161003.float.kankan.com
+127.0.0.1 20161004.biz5.kankan.com
+127.0.0.1 20161004.logic.cpm.cm.kankan.com
+127.0.0.1 20161004.float.kankan.com
+127.0.0.1 20161005.biz5.kankan.com
+127.0.0.1 20161005.logic.cpm.cm.kankan.com
+127.0.0.1 20161005.float.kankan.com
+127.0.0.1 20161006.biz5.kankan.com
+127.0.0.1 20161006.logic.cpm.cm.kankan.com
+127.0.0.1 20161006.float.kankan.com
+127.0.0.1 20161007.biz5.kankan.com
+127.0.0.1 20161007.logic.cpm.cm.kankan.com
+127.0.0.1 20161007.float.kankan.com
+127.0.0.1 20161008.biz5.kankan.com
+127.0.0.1 20161008.logic.cpm.cm.kankan.com
+127.0.0.1 20161008.float.kankan.com
+127.0.0.1 20161009.biz5.kankan.com
+127.0.0.1 20161009.logic.cpm.cm.kankan.com
+127.0.0.1 20161009.float.kankan.com
+127.0.0.1 20161010.biz5.kankan.com
+127.0.0.1 20161010.logic.cpm.cm.kankan.com
+127.0.0.1 20161010.float.kankan.com
+127.0.0.1 20161011.biz5.kankan.com
+127.0.0.1 20161011.logic.cpm.cm.kankan.com
+127.0.0.1 20161011.float.kankan.com
+127.0.0.1 20161012.biz5.kankan.com
+127.0.0.1 20161012.logic.cpm.cm.kankan.com
+127.0.0.1 20161012.float.kankan.com
+127.0.0.1 20161013.biz5.kankan.com
+127.0.0.1 20161013.logic.cpm.cm.kankan.com
+127.0.0.1 20161013.float.kankan.com
+127.0.0.1 20161014.biz5.kankan.com
+127.0.0.1 20161014.logic.cpm.cm.kankan.com
+127.0.0.1 20161014.float.kankan.com
+127.0.0.1 20161015.biz5.kankan.com
+127.0.0.1 20161015.logic.cpm.cm.kankan.com
+127.0.0.1 20161015.float.kankan.com
+127.0.0.1 20161016.biz5.kankan.com
+127.0.0.1 20161016.logic.cpm.cm.kankan.com
+127.0.0.1 20161016.float.kankan.com
+127.0.0.1 20161017.biz5.kankan.com
+127.0.0.1 20161017.logic.cpm.cm.kankan.com
+127.0.0.1 20161017.float.kankan.com
+127.0.0.1 20161018.biz5.kankan.com
+127.0.0.1 20161018.logic.cpm.cm.kankan.com
+127.0.0.1 20161018.float.kankan.com
+127.0.0.1 20161019.biz5.kankan.com
+127.0.0.1 20161019.logic.cpm.cm.kankan.com
+127.0.0.1 20161019.float.kankan.com
+127.0.0.1 20161020.biz5.kankan.com
+127.0.0.1 20161020.logic.cpm.cm.kankan.com
+127.0.0.1 20161020.float.kankan.com
+127.0.0.1 20161021.biz5.kankan.com
+127.0.0.1 20161021.logic.cpm.cm.kankan.com
+127.0.0.1 20161021.float.kankan.com
+127.0.0.1 20161022.biz5.kankan.com
+127.0.0.1 20161022.logic.cpm.cm.kankan.com
+127.0.0.1 20161022.float.kankan.com
+127.0.0.1 20161023.biz5.kankan.com
+127.0.0.1 20161023.logic.cpm.cm.kankan.com
+127.0.0.1 20161023.float.kankan.com
+127.0.0.1 20161024.biz5.kankan.com
+127.0.0.1 20161024.logic.cpm.cm.kankan.com
+127.0.0.1 20161024.float.kankan.com
+127.0.0.1 20161025.biz5.kankan.com
+127.0.0.1 20161025.logic.cpm.cm.kankan.com
+127.0.0.1 20161025.float.kankan.com
+127.0.0.1 20161026.biz5.kankan.com
+127.0.0.1 20161026.logic.cpm.cm.kankan.com
+127.0.0.1 20161026.float.kankan.com
+127.0.0.1 20161027.biz5.kankan.com
+127.0.0.1 20161027.logic.cpm.cm.kankan.com
+127.0.0.1 20161027.float.kankan.com
+127.0.0.1 20161028.biz5.kankan.com
+127.0.0.1 20161028.logic.cpm.cm.kankan.com
+127.0.0.1 20161028.float.kankan.com
+127.0.0.1 20161029.biz5.kankan.com
+127.0.0.1 20161029.logic.cpm.cm.kankan.com
+127.0.0.1 20161029.float.kankan.com
+127.0.0.1 20161030.biz5.kankan.com
+127.0.0.1 20161030.logic.cpm.cm.kankan.com
+127.0.0.1 20161030.float.kankan.com
+127.0.0.1 20161031.biz5.kankan.com
+127.0.0.1 20161031.logic.cpm.cm.kankan.com
+127.0.0.1 20161031.float.kankan.com
 @popup/web
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 pop.code.poyang.cn
@@ -3207,6 +3235,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.qiyou.com
 127.0.0.1 s.00oo00.com
 @popup/books
+#7788xs.net
+127.0.0.1 www.yiranxian.cn
+127.0.0.1 a.7788xs.net
+127.0.0.1 b.7788xs.net
 #aabook.club
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
@@ -3274,6 +3306,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 tt.twzui6.com
 127.0.0.1 img.balaiyani.com
 127.0.0.1 img.hai61.com
+127.0.0.1 llsp.gfd80.com
+127.0.0.1 kiki.ykjmy.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -3291,6 +3325,12 @@ ff02::2 ip6-allrouters
 #m.dingdianzw.com
 127.0.0.1 img.qun89.com
 127.0.0.1 www.nbjjd.com
+#m.nenzei.net
+127.0.0.1 js.yiwuds.com
+127.0.0.1 s.xiaobiaoucai.cn
+127.0.0.1 news.s9377.com
+127.0.0.1 img.tkguolugs.com
+127.0.0.1 tu.szefe.com
 #m.shenmaxiaoshuo.com
 127.0.0.1 rc.123juhd.com
 127.0.0.1 cp.5jjx.net
@@ -3380,6 +3420,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
+#m.xieeyn.com
+127.0.0.1 vip.zzbzwy.com
 #tuku.cc
 127.0.0.1 bdjm.tuku.cc
 127.0.0.1 sougouwap.tuku.cc
@@ -3439,7 +3481,17 @@ ff02::2 ip6-allrouters
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
-#btdigg.ws
+#btdigg.ws\btdigg.pw\diggbt.co
+127.0.0.1 ns.apyuelang.com
+127.0.0.1 ss.apyuelang.com
+127.0.0.1 ig.nukefans.net
+127.0.0.1 js3555.rencai56.com
+127.0.0.1 baidu.bosiwangzi.cn
+127.0.0.1 yl.apyuelang.com
+127.0.0.1 js3555.zzbaowen.com
+127.0.0.1 t.7jiajiao.com
+127.0.0.1 m78.yatemy.cn
+127.0.0.1 m71.qhdzfs.cn
 127.0.0.1 a.wlfng.com
 127.0.0.1 c.dokrmob.com
 127.0.0.1 ima.xcyjzs.net
@@ -3474,7 +3526,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ck.scltn.cn
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 img.smart-idea.com.cn
-127.0.0.1 js3555.rencai56.com
 127.0.0.1 www.youmsm.com
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
@@ -3962,11 +4013,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.youfumei.com
 #m.haotv8.com
 127.0.0.1 code.gutun.net
+#www.btmango.com
+127.0.0.1 souacode.com
+127.0.0.1 freespace.juchaojie.com
 #www.btmeet.net
 127.0.0.1 jishi.sfloushi.com
 127.0.0.1 s.zsdexun.com.cn
 127.0.0.1 tt.code.mytanwan.com
-127.0.0.1 rtb.behe.com
 127.0.0.1 m.cnzz.twh5.com
 127.0.0.1 pv.cnzz.twh5.com
 127.0.0.1 g.b.twyxi.com
@@ -3980,95 +4033,6 @@ ff02::2 ip6-allrouters
 #www.cilijidi.com
 127.0.0.1 js1597.anreson.net
 127.0.0.1 js1597.cnbole.net
-##temporary.txt
-#@视频网
-#www.pronhub.com
-127.0.0.1 cdn2.reporo.net
-127.0.0.1 cdn11.i-stream.pl
-127.0.0.1 media.i-stream.pl
-127.0.0.1 cdn1.reporo.net
-127.0.0.1 cdn-a2.contentabc.com
-#爱奇艺泡泡
-127.0.0.1 iface2.qiyi.com
-127.0.0.1 paopao1.qiyipic.com
-127.0.0.1 subscription.iqiyi.com
-127.0.0.1 downapp.baidu.com
-127.0.0.1 paopao2.qiyipic.com
-127.0.0.1 paopao.iqiyi.com
-127.0.0.1 cloudpush.iqiyi.com
-127.0.0.1 emoticon.sns.iqiyi.com
-127.0.0.1 tracker.sns.iqiyi.com
-127.0.0.1 hotchat-im.iqiyi.com
-127.0.0.1 iface.iqiyi.com
-127.0.0.1 paopao0.qiyipic.com
-127.0.0.1 paopao3.qiyipic.com
-#优酷
-127.0.0.1 wisem-cm.cn.miaozhen.com
-#
-#@BT网
-#www.btmango.com
-127.0.0.1 souacode.com
-127.0.0.1 freespace.juchaojie.com
-#btdigg.pw\diggbt.co
-127.0.0.1 ns.apyuelang.com
-127.0.0.1 js.yiwuds.com
-127.0.0.1 ss.apyuelang.com
-127.0.0.1 ig.nukefans.net
-127.0.0.1 js3555.rencai56.com
-127.0.0.1 baidu.bosiwangzi.cn
-127.0.0.1 yl.apyuelang.com
-127.0.0.1 js3555.zzbaowen.com
-127.0.0.1 t.7jiajiao.com
-127.0.0.1 m78.yatemy.cn
-127.0.0.1 m71.qhdzfs.cn
-#
-#@漫画网
-#m.xieeyn.com
-127.0.0.1 vip.zzbzwy.com
-#
-#@小说网
-#m.biquge.la
-127.0.0.1 llsp.gfd80.com
-127.0.0.1 kiki.ykjmy.com
-#7788xs.net
-127.0.0.1 www.yiranxian.cn
-127.0.0.1 a.7788xs.net
-127.0.0.1 b.7788xs.net
-#m.nenzei.net
-127.0.0.1 js.yiwuds.com
-127.0.0.1 s.xiaobiaoucai.cn
-127.0.0.1 s95.cnzz.com
-127.0.0.1 news.s9377.com
-127.0.0.1 img.tkguolugs.com
-127.0.0.1 tu.szefe.com
-#
-#@谷歌广告
-127.0.0.1 adclick.g.doublecklick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 googleadservices.com
-127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 video-ad-stats.googlesyndication.com
-#
-#@音乐
-#spotofy
-127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 ads-fa.spotify.com
-127.0.0.1 analytics.spotify.com
-127.0.0.1 audio2.spotify.com
-127.0.0.1 crashdump.spotify.com
-127.0.0.1 desktop.spotify.com
-127.0.0.1 log.spotify.com
-127.0.0.1 open.spotify.com
-127.0.0.1 weblb-wg.gslb.spotify.com
-#
-#@下载
-#手机迅雷
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 static2.ssp.xunlei.com
-#down
-127.0.0.1 dl.ops.baidu.com
-127.0.0.1 android.rqd.qq.com 
 #www.zhaifu.cc
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com

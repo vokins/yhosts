@@ -447,3 +447,13 @@
 127.0.0.1 ad-android.51wnl.com
 #www.seeyouyima.com
 127.0.0.1 ad.seeyouyima.com
+#spotofy
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 ads-fa.spotify.com
+127.0.0.1 analytics.spotify.com
+127.0.0.1 crashdump.spotify.com
+127.0.0.1 desktop.spotify.com
+127.0.0.1 log.spotify.com
+127.0.0.1 open.spotify.com
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 weblb-wg.gslb.spotify.com

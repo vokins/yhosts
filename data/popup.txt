@@ -178,6 +178,10 @@
 127.0.0.1 img.qiyou.com
 127.0.0.1 s.00oo00.com
 @popup/books
+#7788xs.net
+127.0.0.1 www.yiranxian.cn
+127.0.0.1 a.7788xs.net
+127.0.0.1 b.7788xs.net
 #aabook.club
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
@@ -245,6 +249,8 @@
 127.0.0.1 tt.twzui6.com
 127.0.0.1 img.balaiyani.com
 127.0.0.1 img.hai61.com
+127.0.0.1 llsp.gfd80.com
+127.0.0.1 kiki.ykjmy.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -262,6 +268,12 @@
 #m.dingdianzw.com
 127.0.0.1 img.qun89.com
 127.0.0.1 www.nbjjd.com
+#m.nenzei.net
+127.0.0.1 js.yiwuds.com
+127.0.0.1 s.xiaobiaoucai.cn
+127.0.0.1 news.s9377.com
+127.0.0.1 img.tkguolugs.com
+127.0.0.1 tu.szefe.com
 #m.shenmaxiaoshuo.com
 127.0.0.1 rc.123juhd.com
 127.0.0.1 cp.5jjx.net
@@ -351,6 +363,8 @@
 127.0.0.1 static.uuzu.com
 127.0.0.1 vda.m.youzu.com
 127.0.0.1 s.123juhd.com
+#m.xieeyn.com
+127.0.0.1 vip.zzbzwy.com
 #tuku.cc
 127.0.0.1 bdjm.tuku.cc
 127.0.0.1 sougouwap.tuku.cc
@@ -410,7 +424,17 @@
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
-#btdigg.ws
+#btdigg.ws\btdigg.pw\diggbt.co
+127.0.0.1 ns.apyuelang.com
+127.0.0.1 ss.apyuelang.com
+127.0.0.1 ig.nukefans.net
+127.0.0.1 js3555.rencai56.com
+127.0.0.1 baidu.bosiwangzi.cn
+127.0.0.1 yl.apyuelang.com
+127.0.0.1 js3555.zzbaowen.com
+127.0.0.1 t.7jiajiao.com
+127.0.0.1 m78.yatemy.cn
+127.0.0.1 m71.qhdzfs.cn
 127.0.0.1 a.wlfng.com
 127.0.0.1 c.dokrmob.com
 127.0.0.1 ima.xcyjzs.net
@@ -445,7 +469,6 @@
 127.0.0.1 ck.scltn.cn
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 img.smart-idea.com.cn
-127.0.0.1 js3555.rencai56.com
 127.0.0.1 www.youmsm.com
 127.0.0.1 kawa11.space
 127.0.0.1 qd.ywjxsp168.cn
@@ -933,11 +956,13 @@
 127.0.0.1 www.youfumei.com
 #m.haotv8.com
 127.0.0.1 code.gutun.net
+#www.btmango.com
+127.0.0.1 souacode.com
+127.0.0.1 freespace.juchaojie.com
 #www.btmeet.net
 127.0.0.1 jishi.sfloushi.com
 127.0.0.1 s.zsdexun.com.cn
 127.0.0.1 tt.code.mytanwan.com
-127.0.0.1 rtb.behe.com
 127.0.0.1 m.cnzz.twh5.com
 127.0.0.1 pv.cnzz.twh5.com
 127.0.0.1 g.b.twyxi.com
@@ -951,3 +976,6 @@
 #www.cilijidi.com
 127.0.0.1 js1597.anreson.net
 127.0.0.1 js1597.cnbole.net
+#www.zhaifu.cc
+127.0.0.1 mob.coolnay.com
+127.0.0.1 b.cdnny.com

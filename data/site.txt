@@ -73,7 +73,6 @@
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
-127.0.0.1 sp1.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
@@ -424,7 +423,6 @@
 127.0.0.1 ganjituiguang.ganji.com
 127.0.0.1 sta.ganji.com
 127.0.0.1 tralog.ganji.com
-127.0.0.1 sta.ganjistatic1.com
 #house365.com
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
@@ -573,11 +571,11 @@
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 #baofeng.com
-127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com
 127.0.0.1 addl.logger.baofeng.com
 127.0.0.1 areacode.baofeng.com
+127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 clicklog.moviebox.baofeng.com
 127.0.0.1 dailylog.storm.baofeng.com
 127.0.0.1 eventlog.hd.baofeng.com
@@ -593,6 +591,7 @@
 127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 vdinfo.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
+127.0.0.1 wisem-cm.cn.miaozhen.com
 #baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 config.baofeng.net
@@ -653,8 +652,10 @@
 127.0.0.1 tips.v.xunlei.com
 127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 niu.xunlei.com
-127.0.0.1 qj.code.twyxi.com
 127.0.0.1 www.6998cdn.com
+#xunlei-mob
+127.0.0.1 api.tw06.xlmc.sandai.net
+127.0.0.1 static2.ssp.xunlei.com
 #le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
@@ -1076,8 +1077,6 @@
 127.0.0.1 js.ea3w.com
 127.0.0.1 pic.ea3w.com
 127.0.0.1 stat.ea3w.com
-#facebook-noads
-127.0.0.1 staticxx.facebook.com
 #jd-bbs.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
@@ -1130,8 +1129,6 @@
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 ssl.sitemaji.com
 127.0.0.1 static.awempire.com
-#www.tube8.com
-127.0.0.1 ss.phncdn.com
 #xhamster.com
 127.0.0.1 vi2ishae.xhamster.com
 127.0.0.1 ads.adxpansion.com
@@ -1145,6 +1142,12 @@
 127.0.0.1 re.try9.com
 127.0.0.1 rotator.trafficstars.com
 127.0.0.1 syndication.traffichaus.com
+#www.pronhub.com
+127.0.0.1 cdn2.reporo.net
+127.0.0.1 cdn11.i-stream.pl
+127.0.0.1 media.i-stream.pl
+127.0.0.1 cdn1.reporo.net
+127.0.0.1 cdn-a2.contentabc.com
 @web-for/bt2k
 #bts.ph
 127.0.0.1 mg.dt07.net

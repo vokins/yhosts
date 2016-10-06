@@ -98,3 +98,9 @@ http://minisite.letv.com
 127.0.0.1 link.1905.com
 http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
 xmp.down.sandai.net 解码器相关
+#facebook-noads
+127.0.0.1 staticxx.facebook.com 部分游戏app页面兼容性有问题
+127.0.0.1 sp1.baidu.com
+127.0.0.1 sta.ganjistatic1.com
+#www.tube8.com
+127.0.0.1 ss.phncdn.com
