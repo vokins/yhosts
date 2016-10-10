@@ -16,3 +16,6 @@
 #www.dongshengge.com
 127.0.0.1 www.darnle.net
 127.0.0.1 js.alclear.net
+#
+#@屏蔽隐私上传
+127.0.0.1 pmir.3g.qq.com
