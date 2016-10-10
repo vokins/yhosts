@@ -1,5 +1,4 @@
-
-#version=201610061747
+#version=20161010
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -3627,3 +3626,24 @@
 127.0.0.1 js1597.cnbole.net
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com
+##temporary.txt
+#@BT
+#btdb.in
+127.0.0.1 serv.clicksor.net
+127.0.0.1 www.predictivadvertising.com
+#
+#@视频网
+#www.zimuzu.tv
+127.0.0.1 www.schborg.com
+#
+#@小说网
+#biquge.la
+127.0.0.1 ss.biquge.la
+#
+#@博客
+#www.dongshengge.com
+127.0.0.1 www.darnle.net
+127.0.0.1 js.alclear.net
+#
+#@屏蔽隐私上传
+127.0.0.1 pmir.3g.qq.com

@@ -4036,3 +4036,24 @@ ff02::2 ip6-allrouters
 #www.zhaifu.cc
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com
+##temporary.txt
+#@BT
+#btdb.in
+127.0.0.1 serv.clicksor.net
+127.0.0.1 www.predictivadvertising.com
+#
+#@视频网
+#www.zimuzu.tv
+127.0.0.1 www.schborg.com
+#
+#@小说网
+#biquge.la
+127.0.0.1 ss.biquge.la
+#
+#@博客
+#www.dongshengge.com
+127.0.0.1 www.darnle.net
+127.0.0.1 js.alclear.net
+#
+#@屏蔽隐私上传
+127.0.0.1 pmir.3g.qq.com
