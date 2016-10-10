@@ -1,7 +1,18 @@
 ##temporary.txt
-#@谷歌广告
-127.0.0.1 doubleclick.net
-127.0.0.1 googleadservices.com
+#@BT
+#btdb.in
+127.0.0.1 serv.clicksor.net
+127.0.0.1 www.predictivadvertising.com
 #
-#@下载
-#down
+#@视频网
+#www.zimuzu.tv
+127.0.0.1 www.schborg.com
+#
+#@小说网
+#biquge.la
+127.0.0.1 ss.biquge.la
+#
+#@博客
+#www.dongshengge.com
+127.0.0.1 www.darnle.net
+127.0.0.1 js.alclear.net
