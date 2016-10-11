@@ -1,7 +1,7 @@
 @direct/3rd
 #dxomark
 5.196.172.196 www.dxomark.com
-185.59.221.28 cdn.dxomark.com
+43.245.63.22 cdn.dxomark.com
 @direct/site
 #shuaitong5
 198.41.206.65 image.bbob.vip
