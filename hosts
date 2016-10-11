@@ -1,4 +1,4 @@
-#version=20161010
+#version=20161011
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
@@ -3635,6 +3635,9 @@
 #@视频网
 #www.zimuzu.tv
 127.0.0.1 www.schborg.com
+#m.80s.tw
+127.0.0.1 c.top267.com
+127.0.0.1 c8.top267.com
 #
 #@小说网
 #biquge.la
