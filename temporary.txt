@@ -7,6 +7,9 @@
 #@视频网
 #www.zimuzu.tv
 127.0.0.1 www.schborg.com
+#m.80s.tw
+127.0.0.1 c.top267.com
+127.0.0.1 c8.top267.com
 #
 #@小说网
 #biquge.la
