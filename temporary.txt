@@ -3,6 +3,9 @@
 #btdb.in
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
+#btdigg.pw
+127.0.0.1 t.linkpage.cn
+127.0.0.1 code.guomob.com
 #
 #@视频网
 #www.zimuzu.tv
