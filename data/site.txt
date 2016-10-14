@@ -752,7 +752,6 @@
 #v.qq.com
 127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
-127.0.0.1 vmat.gtimg.com
 127.0.0.1 adsrich.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
