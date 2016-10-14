@@ -1,8 +1,8 @@
-#version=20161011
+#version=20161015
 #url=https://github.com/vokins/yhosts
 127.0.0.1 iadctest.qwapi.com
 5.196.172.196 www.dxomark.com
-185.59.221.28 cdn.dxomark.com
+43.245.63.22 cdn.dxomark.com
 198.41.206.65 image.bbob.vip
 198.41.206.66 image.bbob.vip
 198.41.206.67 image.bbob.vip
@@ -1315,7 +1315,6 @@
 127.0.0.1 test.adapi.starschina.com
 127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
-127.0.0.1 vmat.gtimg.com
 127.0.0.1 adsrich.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
@@ -2354,7 +2353,6 @@
 127.0.0.1 tcss.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 pingtcss.qq.com
-127.0.0.1 discuz.gtimg.cn
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
@@ -3631,6 +3629,9 @@
 #btdb.in
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
+#btdigg.pw
+127.0.0.1 t.linkpage.cn
+127.0.0.1 code.guomob.com
 #
 #@视频网
 #www.zimuzu.tv

@@ -11,7 +11,7 @@ ff02::2 ip6-allrouters
 @direct/3rd
 #dxomark
 5.196.172.196 www.dxomark.com
-185.59.221.28 cdn.dxomark.com
+43.245.63.22 cdn.dxomark.com
 @direct/site
 #shuaitong5
 198.41.206.65 image.bbob.vip
@@ -1610,7 +1610,6 @@ ff02::2 ip6-allrouters
 #v.qq.com
 127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
-127.0.0.1 vmat.gtimg.com
 127.0.0.1 adsrich.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
@@ -2856,7 +2855,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tcss.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 pingtcss.qq.com
-127.0.0.1 discuz.gtimg.cn
 #qtmojo
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -4041,6 +4039,9 @@ ff02::2 ip6-allrouters
 #btdb.in
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
+#btdigg.pw
+127.0.0.1 t.linkpage.cn
+127.0.0.1 code.guomob.com
 #
 #@视频网
 #www.zimuzu.tv
