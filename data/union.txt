@@ -654,13 +654,14 @@
 127.0.0.1 m947.oadz.com
 #qq
 127.0.0.1 swa.gtimg.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 e.qq.com
 127.0.0.1 cm.e.qq.com
-127.0.0.1 tcss.qq.com
-127.0.0.1 tajs.qq.com
+127.0.0.1 e.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 news.l.qq.com
 127.0.0.1 pingtcss.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 tajs.qq.com
+127.0.0.1 tcss.qq.com
 #qtmojo
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn

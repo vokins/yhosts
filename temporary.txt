@@ -1,27 +1,14 @@
 ##temporary.txt
 #@BT
-#btdb.in
-127.0.0.1 serv.clicksor.net
-127.0.0.1 www.predictivadvertising.com
-#btdigg.pw
-127.0.0.1 t.linkpage.cn
-127.0.0.1 code.guomob.com
+
 #
 #@视频网
-#www.zimuzu.tv
-127.0.0.1 www.schborg.com
-#m.80s.tw
-127.0.0.1 c.top267.com
-127.0.0.1 c8.top267.com
+
 #
 #@小说网
-#biquge.la
-127.0.0.1 ss.biquge.la
+
 #
 #@博客
-#www.dongshengge.com
-127.0.0.1 www.darnle.net
-127.0.0.1 js.alclear.net
+
 #
 #@屏蔽隐私上传
-127.0.0.1 pmir.3g.qq.com

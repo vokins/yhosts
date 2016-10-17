@@ -100,7 +100,12 @@ http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
 xmp.down.sandai.net 解码器相关
 #facebook-noads
 127.0.0.1 staticxx.facebook.com 部分游戏app页面兼容性有问题
-127.0.0.1 sp1.baidu.com
+
 127.0.0.1 sta.ganjistatic1.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
+修复误杀：vmat.gtimg.com 导致腾讯云视听扫码登录的二维码无法正常显示
+修复误杀： discuz.gtimg.cn 导致discuz论坛的相关主题处出现404（比如卡饭）
+ livew.l.qq.com 导致腾讯视频去广告失败 （被检测到开启去广告插件，强制等待）以放入tvbox数据内，电脑端数据不再包含。
+发现一处误杀，手机开热点给电脑使用，百度翻译不能翻译
+URL:sp1.baidu.com

@@ -1,7 +1,6 @@
-#version=20161015
+
+#version=20161017 855
 #url=https://github.com/vokins/yhosts
-127.0.0.1 iadctest.qwapi.com
-5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
 198.41.206.65 image.bbob.vip
 198.41.206.66 image.bbob.vip
@@ -1194,6 +1193,7 @@
 127.0.0.1 adm.funshion.com
 127.0.0.1 game.funshion.com
 127.0.0.1 adv.grtn.cn
+127.0.0.1 iadctest.qwapi.com
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 a.hpg.cn.miaozhen.com
@@ -2346,13 +2346,14 @@
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m947.oadz.com
 127.0.0.1 swa.gtimg.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 e.qq.com
 127.0.0.1 cm.e.qq.com
-127.0.0.1 tcss.qq.com
-127.0.0.1 tajs.qq.com
+127.0.0.1 e.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 news.l.qq.com
 127.0.0.1 pingtcss.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 tajs.qq.com
+127.0.0.1 tcss.qq.com
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
@@ -2963,6 +2964,7 @@
 127.0.0.1 s1.sxxjdz.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.zzrcz.com
+127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
@@ -3132,6 +3134,10 @@
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
+127.0.0.1 serv.clicksor.net
+127.0.0.1 www.predictivadvertising.com
+127.0.0.1 t.linkpage.cn
+127.0.0.1 code.guomob.com
 127.0.0.1 ns.apyuelang.com
 127.0.0.1 ss.apyuelang.com
 127.0.0.1 ig.nukefans.net
@@ -3427,6 +3433,8 @@
 127.0.0.1 www.mbai.cn
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
+127.0.0.1 c.top267.com
+127.0.0.1 c8.top267.com
 127.0.0.1 ias816.ujikdd041o.cn
 127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 js.133u.com
@@ -3522,6 +3530,7 @@
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
+127.0.0.1 www.schborg.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 down.by8974.com
@@ -3622,32 +3631,7 @@
 127.0.0.1 img2.hrccb.com
 127.0.0.1 js1597.anreson.net
 127.0.0.1 js1597.cnbole.net
-127.0.0.1 mob.coolnay.com
-127.0.0.1 b.cdnny.com
-##temporary.txt
-#@BT
-#btdb.in
-127.0.0.1 serv.clicksor.net
-127.0.0.1 www.predictivadvertising.com
-#btdigg.pw
-127.0.0.1 t.linkpage.cn
-127.0.0.1 code.guomob.com
-#
-#@视频网
-#www.zimuzu.tv
-127.0.0.1 www.schborg.com
-#m.80s.tw
-127.0.0.1 c.top267.com
-127.0.0.1 c8.top267.com
-#
-#@小说网
-#biquge.la
-127.0.0.1 ss.biquge.la
-#
-#@博客
-#www.dongshengge.com
 127.0.0.1 www.darnle.net
 127.0.0.1 js.alclear.net
-#
-#@屏蔽隐私上传
-127.0.0.1 pmir.3g.qq.com
+127.0.0.1 mob.coolnay.com
+127.0.0.1 b.cdnny.com

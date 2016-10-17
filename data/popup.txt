@@ -237,6 +237,7 @@
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.zzrcz.com
 #m.biquge.la
+127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
@@ -424,7 +425,12 @@
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
+#btdb.in
+127.0.0.1 serv.clicksor.net
+127.0.0.1 www.predictivadvertising.com
 #btdigg.ws\btdigg.pw\diggbt.co
+127.0.0.1 t.linkpage.cn
+127.0.0.1 code.guomob.com
 127.0.0.1 ns.apyuelang.com
 127.0.0.1 ss.apyuelang.com
 127.0.0.1 ig.nukefans.net
@@ -738,6 +744,8 @@
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
 #m.80s.tw
+127.0.0.1 c.top267.com
+127.0.0.1 c8.top267.com
 127.0.0.1 ias816.ujikdd041o.cn
 127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 js.133u.com
@@ -855,6 +863,8 @@
 127.0.0.1 a.xigua110.com
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
+#www.zimuzu.tv
+127.0.0.1 www.schborg.com
 #y5558.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
@@ -976,6 +986,9 @@
 #www.cilijidi.com
 127.0.0.1 js1597.anreson.net
 127.0.0.1 js1597.cnbole.net
+#www.dongshengge.com
+127.0.0.1 www.darnle.net
+127.0.0.1 js.alclear.net
 #www.zhaifu.cc
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com

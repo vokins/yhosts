@@ -613,6 +613,8 @@
 127.0.0.1 game.funshion.com
 #gdtv.cn
 127.0.0.1 adv.grtn.cn
+#itunes-radio
+127.0.0.1 iadctest.qwapi.com
 #jstv.com
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
