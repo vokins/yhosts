@@ -1,0 +1,37 @@
+@soft
+#bitcomet.com
+127.0.0.1 inside.bitcomet.com
+#qq-im.qq.com
+127.0.0.1 ca.gtimg.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 analy.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 updatecenter.qq.com
+#qq-mob-im.qq.com
+127.0.0.1 activeqq.3g.qq.com
+127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 mqqad.cs0309.html5.qq.com
+127.0.0.1 mqqad.html5.qq.com
+#vidown.cn
+127.0.0.1 cc.vidown.cn
+127.0.0.1 conf.vidown.cn
+127.0.0.1 gg.vidown.cn
+127.0.0.1 minisite.vidown.cn
+127.0.0.1 rtlog.vidown.cn
+127.0.0.1 tj.vidown.cn
+#wps.cn
+127.0.0.1 ad.docer.wps.cn
+127.0.0.1 info.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 news.docer.com
+127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 a.mini.eastday.com
+127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 tg.7477.com
+127.0.0.1 www.jbaobao.com
+#www.winrar.com.cn
+127.0.0.1 ad.winrar.com.cn

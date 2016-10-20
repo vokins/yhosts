@@ -14,7 +14,7 @@ hosts文件
 * AD hosts爱好群：201973909
 
 ### 数据名称及含义:
-1. [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 是基础数据，其他数据需叠加此数据使用。仅使用此数据，可过滤掉测试链接1 内的广告，无法过滤 测试连接2 内的广告。
+1. [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 是基础数据，其他数据需叠加此数据使用。仅使用此数据，可过滤掉测试链接1 内的广告，无法过滤 测试连接2 内的广告。电脑PC用户务必用这个源，不要用3的源！！！
 2. [tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt) 是附加数据，针对电视平台，更好的过滤一些APP的广告。如果家里面有多个可支持hosts过滤的路由器，可在主路由器部署hosts.txt并将此数据部署到客厅盒子的路由上。
 3. [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)是完整数据，可用于路由器平台（方便iPad等设备无广告浏览）。包含hosts.txt和tvbox.txt，并删除所有注释行，方便路由器添加和更新。
 * 不及时更新的http:// ：http://code.taobao.org/svn/yhosts/hosts
