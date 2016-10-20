@@ -323,6 +323,7 @@
 127.0.0.1 s128.cnzz.com
 127.0.0.1 s13.cnzz.com
 127.0.0.1 s132.cnzz.com
+127.0.0.1 s96.cnzz.com
 127.0.0.1 s134.cnzz.com
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
@@ -351,7 +352,6 @@
 127.0.0.1 s92.cnzz.com
 127.0.0.1 s94.cnzz.com
 127.0.0.1 s95.cnzz.com
-127.0.0.1 s96.cnzz.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 v4.cnzz.com
 127.0.0.1 v6.cnzz.com

@@ -2473,6 +2473,7 @@
 127.0.0.1 s128.cnzz.com
 127.0.0.1 s13.cnzz.com
 127.0.0.1 s132.cnzz.com
+127.0.0.1 s96.cnzz.com
 127.0.0.1 s134.cnzz.com
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
@@ -2501,7 +2502,6 @@
 127.0.0.1 s92.cnzz.com
 127.0.0.1 s94.cnzz.com
 127.0.0.1 s95.cnzz.com
-127.0.0.1 s96.cnzz.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 v4.cnzz.com
 127.0.0.1 v6.cnzz.com
@@ -3249,6 +3249,14 @@
 127.0.0.1 ef365.263zw.com
 127.0.0.1 ef366.263zw.com
 127.0.0.1 s1.sxxjdz.com
+127.0.0.1 c.nongsalei.com
+127.0.0.1 sc.bypbwm.cn
+127.0.0.1 www.cy8888.top
+127.0.0.1 xs.bypbwm.cn
+127.0.0.1 app.tanwan.com
+127.0.0.1 c.facebookma.cn
+127.0.0.1 iospage.zy9s.net
+127.0.0.1 s.shiftrro.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.zzrcz.com
