@@ -556,6 +556,10 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+@mob/lenovo
+127.0.0.1 fsr.lenovomm.com
+127.0.0.1 lds.lenovomm.com
+127.0.0.1 susapi.lenovomm.com
 @mob/meizu
 #meizu-flyme
 127.0.0.1 game.res.meizu.com
@@ -1763,9 +1767,10 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 games.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 games.ifeng.com
 127.0.0.1 stadig.ifeng.com
 #infzm.com
 127.0.0.1 x.infzm.com
@@ -3226,6 +3231,10 @@
 127.0.0.1 s.bypbwm.cn
 127.0.0.1 www.baodafu.com.cn
 #m.250sy.net
+127.0.0.1 img.royaltianjin.com
+127.0.0.1 s.sucodb.com
+127.0.0.1 s.nongsalei.com
+127.0.0.1 img.qtdfg.com
 127.0.0.1 img.baotoushanghui.com
 127.0.0.1 i.rtkshealth.com
 127.0.0.1 s.staqnet.com

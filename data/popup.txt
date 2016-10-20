@@ -219,6 +219,10 @@
 127.0.0.1 s.bypbwm.cn
 127.0.0.1 www.baodafu.com.cn
 #m.250sy.net
+127.0.0.1 img.royaltianjin.com
+127.0.0.1 s.sucodb.com
+127.0.0.1 s.nongsalei.com
+127.0.0.1 img.qtdfg.com
 127.0.0.1 img.baotoushanghui.com
 127.0.0.1 i.rtkshealth.com
 127.0.0.1 s.staqnet.com

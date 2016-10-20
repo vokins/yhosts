@@ -956,9 +956,10 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 games.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 games.ifeng.com
 127.0.0.1 stadig.ifeng.com
 #infzm.com
 127.0.0.1 x.infzm.com

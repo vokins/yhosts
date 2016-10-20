@@ -1,5 +1,5 @@
 
-#version=20161017 912
+#version=201610201848
 #url=https://github.com/vokins/yhosts
 43.245.63.22 cdn.dxomark.com
 45.35.43.168 uvwxyz.xyz
@@ -456,6 +456,9 @@
 127.0.0.1 track.dmp.youmi.net
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+127.0.0.1 fsr.lenovomm.com
+127.0.0.1 lds.lenovomm.com
+127.0.0.1 susapi.lenovomm.com
 127.0.0.1 game.res.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
@@ -1429,9 +1432,10 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 games.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 games.ifeng.com
 127.0.0.1 stadig.ifeng.com
 127.0.0.1 x.infzm.com
 127.0.0.1 g3.iqilu.com
@@ -2901,6 +2905,10 @@
 127.0.0.1 s.bxjpl.cn
 127.0.0.1 s.bypbwm.cn
 127.0.0.1 www.baodafu.com.cn
+127.0.0.1 img.royaltianjin.com
+127.0.0.1 s.sucodb.com
+127.0.0.1 s.nongsalei.com
+127.0.0.1 img.qtdfg.com
 127.0.0.1 img.baotoushanghui.com
 127.0.0.1 i.rtkshealth.com
 127.0.0.1 s.staqnet.com

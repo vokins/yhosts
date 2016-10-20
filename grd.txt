@@ -174,6 +174,7 @@
 23.34.45.177 s-static.ak.fbcdn.net
 45.64.40.68 static.thefacebook.com
 45.64.40.68 attachment.fbsbx.com
+31.13.73.7 staticxx.facebook.com
 31.13.73.7 connect.facebook.net
 192.0.78.13 live.fb.com
 192.0.78.13 work.fb.com
@@ -2650,10 +2651,6 @@
 220.255.2.153 impactchallenge.withgoogle.com
 220.255.2.153 virustotalcloud.appspot.com
 220.255.2.153 eduproducts.withgoogle.com
-64.233.188.129 corp.google.com
-64.233.188.129 login.corp.google.com
-64.233.188.129 uberproxy.corp.google.com
-64.233.188.129 uberproxy.l.google.com
 220.255.2.153 certificate-transparency.org
 220.255.2.153 www.certificate-transparency.org
 220.255.2.153 abc.xyz
@@ -3009,7 +3006,7 @@
 149.154.167.99 core.telegram.org
 149.154.167.99 macos.telegram.org
 149.154.167.120 web.telegram.org
-103.245.224.193 travis-ci-org.global.ssl.fastly.net
+151.101.76.249 travis-ci-org.global.ssl.fastly.net
 66.6.33.193 tumblr.com
 66.6.32.4 tumblr.co
 66.6.32.4 api.tumblr.com
@@ -3135,8 +3132,10 @@
 198.245.92.39 click.email.vimeo.com
 66.29.212.110 w3schools.com
 68.232.44.251 www.w3schools.com
-198.35.26.96 zh.wikipedia.org
-198.35.26.96 zh.m.wikipedia.org
+91.198.174.192 wuu.wikipedia.org
+91.198.174.192 zh-yue.wikipedia.org
+91.198.174.192 zh.wikipedia.org
+91.198.174.192 zh.m.wikipedia.org
 68.232.44.121 www.gravatar.com
 68.232.44.121 0.gravatar.com
 68.232.44.121 1.gravatar.com
