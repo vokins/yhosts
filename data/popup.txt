@@ -1004,3 +1004,4 @@
 #www.zhaifu.cc
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com
+127.0.0.1 wm.lrswl.com
