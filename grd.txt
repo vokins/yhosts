@@ -1,4 +1,9 @@
 @racaljk/hosts
+93.184.220.39 cache.armorgames.com
+93.184.220.39 gamemedia.armorgames.com
+93.184.220.39 quests.armorgames.com
+93.184.220.39 armatars.armorgames.com
+93.184.220.39 agi.armorgames.com
 54.239.31.69 aws.amazon.com
 54.239.30.25 console.aws.amazon.com
 54.239.96.90 ap-northeast-1.console.aws.amazon.com

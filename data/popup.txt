@@ -1005,3 +1005,11 @@
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com
 127.0.0.1 wm.lrswl.com
+#avso.pw
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 syndication.exoclick.com
+127.0.0.1 alxsite.com
+127.0.0.1 us.netcdn.space
+#btso.pw
+127.0.0.1 www.bnhtml.com
+127.0.0.1 www.urldelivery.com
