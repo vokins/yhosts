@@ -1,4 +1,4 @@
-ver=下午 5:43 2016/10/6/周四
+ver=下午 12:12 2016/10/27 星期四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -49,7 +49,7 @@ set files=1os.txt direct.txt active.txt down.txt error.txt virus.txt hijack.txt 
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%lib%\sed.exe" -i "/^#/d" lyq.txt
 "%lib%\sed.exe" -i "/^@/d" lyq.txt
-"%lib%\sed.exe" -i "1,6d" lyq.txt
+"%lib%\sed.exe" -i "1,2d" lyq.txt
 echo.>Version.txt
 echo #version=%date:~0,4%%date:~5,2%%date:~8,2%%TIME:~0,2%%TIME:~3,2%>>Version.txt
 rem echo ;version=%time% %date%>>Version.txt

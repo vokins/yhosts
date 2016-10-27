@@ -1,11 +1,10 @@
-@1os/common
-127.0.0.1 localhost
 @1os/ios
-127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
 @1os/#miwifi
 127.0.0.1 XiaoQiang
+@1os/common
+127.0.0.1 localhost
 @direct/3rd
 #dxomark
 5.196.172.196 www.dxomark.com

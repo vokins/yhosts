@@ -1,6 +1,9 @@
 
-#version=20161027 322
+#version=201610271215
 #url=https://github.com/vokins/yhosts
+127.0.0.1 XiaoQiang
+127.0.0.1 localhost
+5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
