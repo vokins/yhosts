@@ -1539,6 +1539,9 @@
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 img1.g.pptv.com
+127.0.0.1 img2.g.pptv.com
+127.0.0.1 img3.g.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
@@ -2116,6 +2119,7 @@
 #qq-im.qq.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
@@ -3062,6 +3066,7 @@
 127.0.0.1 dl.img80.net
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
+127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 bttt.qucaigg.com
 127.0.0.1 g.qucaigg.com
 127.0.0.1 gg.qucaigg.com

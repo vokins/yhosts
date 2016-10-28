@@ -51,6 +51,7 @@
 127.0.0.1 dl.img80.net
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
+127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 bttt.qucaigg.com
 127.0.0.1 g.qucaigg.com
 127.0.0.1 gg.qucaigg.com

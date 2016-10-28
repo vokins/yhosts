@@ -231,6 +231,7 @@
 220.255.2.153 accounts.google.com
 220.255.2.153 accounts.google.cn
 220.255.2.153 aboutme.google.com
+220.255.2.153 atap.google.com
 220.255.2.153 assistant.google.com
 220.255.2.153 passwords.google.com
 220.255.2.153 privacy.google.com
