@@ -4026,3 +4026,8 @@
 #btso.pw
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
+##temporary.txt
+#@app
+#<NGA玩家社区> 
+127.0.0.1 att.stargame.com
+127.0.0.1 appsupport.stargame.com

@@ -1,7 +1,12 @@
 ##temporary.txt
-#@BT
+#@app
+#<NGA玩家社区> 
+127.0.0.1 att.stargame.com
+#（app启动广告闪图、任务界面广告图）
+127.0.0.1 appsupport.stargame.com
+#（app启动强制检查更新）
 
-#
+
 #@视频网
 
 #
@@ -10,5 +15,3 @@
 #
 #@博客
 
-#
-#@屏蔽隐私上传

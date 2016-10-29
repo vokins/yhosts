@@ -1,5 +1,5 @@
 
-#version=201610281042
+#version=20161029
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3615,3 +3615,8 @@
 127.0.0.1 alxsite.com
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
+##temporary.txt
+#@app
+#<NGA玩家社区> 
+127.0.0.1 att.stargame.com
+127.0.0.1 appsupport.stargame.com
