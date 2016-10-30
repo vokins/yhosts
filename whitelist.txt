@@ -93,7 +93,6 @@ pr.da.netease.com # 易信公告
 127.0.0.1 minisite.letv.com letv直播
 127.0.0.1 huodong.m.taobao.com 戳我中奖之后的跳转页面
 127.0.0.1 rlogs.youdao.com 有道翻译
-127.0.0.1 api.tw06.xlmc.sandai.net 创建任务失败
 http://minisite.letv.com
 127.0.0.1 link.1905.com
 http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
@@ -109,3 +108,5 @@ xmp.down.sandai.net 解码器相关
  livew.l.qq.com 导致腾讯视频去广告失败 （被检测到开启去广告插件，强制等待）以放入tvbox数据内，电脑端数据不再包含。
 发现一处误杀，手机开热点给电脑使用，百度翻译不能翻译
 URL:sp1.baidu.com
+
+@老蛇子 127.0.0.1 iface2.qiyi.com 影响爱奇艺WINDOWS版 app(WIN手机和WIN8 WIN10的 爱奇艺APP)  正常播放 屏蔽后 无法读取数据 无法播放 无法进入APP首页

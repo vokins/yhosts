@@ -5,3 +5,7 @@
 
 cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default_img_dir/广告图片缓存
 屏蔽广告：删除fresco_default_img_dir文件夹，新建空白文件，文件名改为fresco_default_img_dir即可。
+
+#<NGA玩家社区> app
+127.0.0.1 att.stargame.com（app启动广告图、任务界面广告图）
+127.0.0.1 appsupport.stargame.com（app启动强制检查更新）

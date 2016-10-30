@@ -348,6 +348,9 @@
 @mob/union
 #adcolony
 127.0.0.1 androidads23.adcolony.com
+#adirects
+127.0.0.1 adirects.com
+127.0.0.1 stat.adirects.com
 #ad-locus.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 ad-locus.com
@@ -370,16 +373,25 @@
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+#adsage
+127.0.0.1 zt.adsage.com
 #adsmogo
+127.0.0.1 api2.adsmogo.com
 127.0.0.1 cfg.adsmogo.com
+127.0.0.1 click1forhz.adsmogo.com
+127.0.0.1 click2forhz.adsmogo.com
+127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 cus.adsmogo.com
 127.0.0.1 imp.adsmogo.com
 127.0.0.1 storage.adsmogo.com
+127.0.0.1 api2.adsmogo.mobi
 127.0.0.1 cfg.adsmogo.mobi
 127.0.0.1 imp.adsmogo.mobi
 127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 api2.adsmogo.net
 127.0.0.1 imp.adsmogo.net
 127.0.0.1 cfg.adsmogo.net
+127.0.0.1 api2.adsmogo.org
 127.0.0.1 cfg.adsmogo.org
 127.0.0.1 cus.adsmogo.org
 #adview.cn
@@ -492,6 +504,8 @@
 127.0.0.1 ads.mydas.mobi
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 cvt.mydas.mobi
+#pxene
+127.0.0.1 ip2.pxene.com
 #jesgoo.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
@@ -509,6 +523,12 @@
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
+#soquair
+127.0.0.1 m.soquair.com
+127.0.0.1 t.soquair.com
+#tapjoy
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 tapjoy.cn
 #umeng
 127.0.0.1 www.umeng.co
 127.0.0.1 api.wsq.umeng.com
@@ -523,9 +543,6 @@
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-#tapjoy
-127.0.0.1 ws.tapjoyads.com
-127.0.0.1 tapjoy.cn
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
@@ -808,6 +825,11 @@
 127.0.0.1 open.spotify.com
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 weblb-wg.gslb.spotify.com
+#NGA-app
+127.0.0.1 att.stargame.com
+127.0.0.1 appsupport.stargame.com
+#www.yidianzixun.com
+127.0.0.1 x.vamaker.com
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com
@@ -2920,6 +2942,7 @@
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
+127.0.0.1 z.sora.yoyi.com.cn
 127.0.0.1 20161001.biz5.kankan.com
 127.0.0.1 20161001.logic.cpm.cm.kankan.com
 127.0.0.1 20161001.float.kankan.com
@@ -4026,8 +4049,3 @@
 #btso.pw
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
-##temporary.txt
-#@app
-#<NGA玩家社区> 
-127.0.0.1 att.stargame.com
-127.0.0.1 appsupport.stargame.com

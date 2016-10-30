@@ -1,5 +1,5 @@
 
-#version=20161029
+#version=201610302251
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -288,6 +288,8 @@
 127.0.0.1 www.202m.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
+127.0.0.1 adirects.com
+127.0.0.1 stat.adirects.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 ad-locus.com
 127.0.0.1 api.ad-locus.com
@@ -305,15 +307,23 @@
 127.0.0.1 pro.cn
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+127.0.0.1 zt.adsage.com
+127.0.0.1 api2.adsmogo.com
 127.0.0.1 cfg.adsmogo.com
+127.0.0.1 click1forhz.adsmogo.com
+127.0.0.1 click2forhz.adsmogo.com
+127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 cus.adsmogo.com
 127.0.0.1 imp.adsmogo.com
 127.0.0.1 storage.adsmogo.com
+127.0.0.1 api2.adsmogo.mobi
 127.0.0.1 cfg.adsmogo.mobi
 127.0.0.1 imp.adsmogo.mobi
 127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 api2.adsmogo.net
 127.0.0.1 imp.adsmogo.net
 127.0.0.1 cfg.adsmogo.net
+127.0.0.1 api2.adsmogo.org
 127.0.0.1 cfg.adsmogo.org
 127.0.0.1 cus.adsmogo.org
 127.0.0.1 adfill.adview.cn
@@ -406,6 +416,7 @@
 127.0.0.1 ads.mydas.mobi
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 cvt.mydas.mobi
+127.0.0.1 ip2.pxene.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 im.jpush.cn
@@ -420,6 +431,10 @@
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
+127.0.0.1 m.soquair.com
+127.0.0.1 t.soquair.com
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 tapjoy.cn
 127.0.0.1 www.umeng.co
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
@@ -433,8 +448,6 @@
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-127.0.0.1 ws.tapjoyads.com
-127.0.0.1 tapjoy.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
@@ -665,6 +678,9 @@
 127.0.0.1 open.spotify.com
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 weblb-wg.gslb.spotify.com
+127.0.0.1 att.stargame.com
+127.0.0.1 appsupport.stargame.com
+127.0.0.1 x.vamaker.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -2411,6 +2427,7 @@
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
+127.0.0.1 z.sora.yoyi.com.cn
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2529,7 +2546,6 @@
 127.0.0.1 androidgo.duapp.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 api.cupid.qiyi.com
-127.0.0.1 iface2.qiyi.com
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.game.letvstore.com
@@ -3615,8 +3631,3 @@
 127.0.0.1 alxsite.com
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
-##temporary.txt
-#@app
-#<NGA玩家社区> 
-127.0.0.1 att.stargame.com
-127.0.0.1 appsupport.stargame.com

@@ -767,3 +767,4 @@
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
+127.0.0.1 z.sora.yoyi.com.cn

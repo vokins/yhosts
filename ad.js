@@ -1,12 +1,12 @@
 /*************************************************
-* version=下午 12:16 2016/10/27 星期四           *
+* version=下午 10:52 2016/10/30 星期日           *
 * fork=https://github.com/MikeWang000000/ad.js   *
 * http://bbs.feng.com/read-htm-tid-10180969.html *
 * https://github.com/fulicat/hosts.pac           *
 *                                                *
 *************************************************/
 /*
-
+     
 */
 
 function FindProxyForURL(url, host){
@@ -74,13 +74,19 @@ function FindProxyForURL(url, host){
 "brand.sogou.com",
 //<v>
 "admaster.com.cn",
+"biddingx.com",
 "criteo.net",
-"irs01.com",
-"miaozhen.com",
-"wrating.com",
 "gridsum.com",
 "gridsumdissector.cn",
 "gridsumdissector.com",
+"ipinyou.com",
+"irs01.com",
+"kejet.net",
+"miaozhen.com",
+"reachmax.cn",
+"revsci.net",
+"scorecardresearch.com",
+"wrating.com",
 //<v-baofeng>
 "logger.baofeng.com",
 "houyi.baofeng.net",
@@ -97,19 +103,27 @@ function FindProxyForURL(url, host){
 "kkpgv.kankan.com",
 "kkpgv2.kankan.com",
 "kkpgv2.xunlei.com",
-"material.ssp.xunlei.com",
+"material.ssp.xunlei.com",     
 //<v-iqiyi>
 "cupid.iqiyi.com",
 "cupid.ptqy.gitv.tv",
 "cupid.qiyi.com",
 //<v-letv>
 "ark.letv.com",
+"fz.letv.com",
+"g3.letv.com",
 "msg.m.letv.com",
 "n.mark.letv.com",
 //<v-pptv>
-"aplus.pptv.com",
-"g.pptv.com",
-"ads.data.pplive.com",
+"asimgs.pplive.cn",
+"ads.aplus.pptv.com",
+"ads.aplusapi.pptv.com",
+"de.as.pptv.com",
+"imagecache.g.pptv.com",
+"static.g.pptv.com",
+"tj.g.pptv.com",
+"asimgs.cp61.ott.cibntv.net",
+"de.as.cp61.ott.cibntv.net",   
 //<v-qq>
 "aiseet.atianqi.com",
 "l.qq.com",
@@ -121,7 +135,21 @@ function FindProxyForURL(url, host){
 "ad.api.3g.tudou.com",
 "ad.api.3g.youku.com",
 "atm.youku.com",
+"b.smartvideo.youku.com",
+"dev-push.m.youku.com",
+"dl.g.youku.com",
 "gamex.mobile.youku.com",
+"guanggaoad.youku.com",
+"hudong.pl.youku.com",
+"lstat.youku.com",
+"mobilemsg.youku.com",
+"passport-log.youku.com",
+"push.m.youku.com",
+"wan.youku.com",
+"yes.youku.com",
+"e.stat.ykimg.com",
+"p-log.ykimg.com",
+"themis.ykimg.com",
 //<m-itunes-radio>
 "iadctest.qwapi.com",
 //<m-qingting.fm>
