@@ -830,6 +830,8 @@
 127.0.0.1 appsupport.stargame.com
 #www.yidianzixun.com
 127.0.0.1 x.vamaker.com
+#m.jiemian.com
+127.0.0.1 ad.jiemian.com
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com

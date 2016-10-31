@@ -1,5 +1,5 @@
 
-#version=201610311009
+#version=201610311306
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -681,6 +681,7 @@
 127.0.0.1 att.stargame.com
 127.0.0.1 appsupport.stargame.com
 127.0.0.1 x.vamaker.com
+127.0.0.1 ad.jiemian.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
