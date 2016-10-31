@@ -118,7 +118,6 @@
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 paopao3.qiyipic.com
-127.0.0.1 subscription.iqiyi.com
 127.0.0.1 tracker.sns.iqiyi.com
 #iqiyi-pps
 127.0.0.1 count.game.pps.tv

@@ -1,5 +1,5 @@
 
-#version=201610311321
+#version=201610311854
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -2540,7 +2540,6 @@
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 paopao3.qiyipic.com
-127.0.0.1 subscription.iqiyi.com
 127.0.0.1 tracker.sns.iqiyi.com
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
