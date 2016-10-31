@@ -265,6 +265,7 @@
 127.0.0.1 img.hai61.com
 127.0.0.1 llsp.gfd80.com
 127.0.0.1 kiki.ykjmy.com
+127.0.0.1 myjj.pyzkk.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -1011,3 +1012,8 @@
 #btso.pw
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
+#m.hao76.com
+127.0.0.1 ioa.hdkrs.com
+127.0.0.1 cycy.kxrxh.com
+127.0.0.1 mimg2.hao76.com
+127.0.0.1 mimg1.hao76.com
