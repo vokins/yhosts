@@ -111,3 +111,5 @@ URL:sp1.baidu.com
 
 @老蛇子 127.0.0.1 iface2.qiyi.com 影响爱奇艺WINDOWS版 app(WIN手机和WIN8 WIN10的 爱奇艺APP)  正常播放 屏蔽后 无法读取数据 无法播放 无法进入APP首页
 爱奇艺app VIP电影预约功能被误杀：subscription.iqiyi.com
+
+#修复误杀：浏览器上贴吧没法看头像和图片 gsp1.baidu.com
