@@ -472,7 +472,11 @@
 127.0.0.1 ad.leadboltmobile.net
 #madserving.com
 127.0.0.1 ad.madserving.com
+127.0.0.1 ads.static.madserving.com
 127.0.0.1 adv.madserving.com
+127.0.0.1 ae.madserving.com
+127.0.0.1 appsrv1.madserving.com
+127.0.0.1 appsrv4.madserving.com
 127.0.0.1 clk.madserving.com
 127.0.0.1 clk.pdb.madserving.com
 127.0.0.1 imp.madserving.com
