@@ -60,7 +60,6 @@
 127.0.0.1 cb.baidu.com
 127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 dxp.baidu.com
-127.0.0.1 gsp1.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 imageplus.baidu.com
