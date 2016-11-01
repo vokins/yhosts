@@ -1016,5 +1016,4 @@
 #m.hao76.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 cycy.kxrxh.com
-127.0.0.1 mimg2.hao76.com
-127.0.0.1 mimg1.hao76.com
+127.0.0.1 www.vipkdy.com
