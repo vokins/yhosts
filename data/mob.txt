@@ -392,6 +392,7 @@
 127.0.0.1 init.startappexchange.com
 127.0.0.1 www.startappexchange.com
 #mb.qq.com
+127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
@@ -489,3 +490,5 @@
 127.0.0.1 x.vamaker.com
 #m.jiemian.com
 127.0.0.1 ad.jiemian.com
+#moji
+127.0.0.1 ad.api.moji.com
