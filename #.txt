@@ -9,3 +9,10 @@ cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default
 #<NGA玩家社区> app
 127.0.0.1 att.stargame.com（app启动广告图、任务界面广告图）
 127.0.0.1 appsupport.stargame.com（app启动强制检查更新）
+#moji（墨迹天气）
+127.0.0.1 ad.api.moji.com
+#QQ(腾讯反广告过滤）
+127.0.0.1 adfilter.imtt.qq.com
+#LETV
+127.0.0.1 letv.m.cn.miaozhen.com
+127.0.0.1 58749.admaster.com.cn
