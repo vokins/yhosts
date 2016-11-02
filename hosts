@@ -1,5 +1,5 @@
 
-#version=201611022056
+#version=201611022112
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -832,6 +832,7 @@
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 dd.iaskgo.com
+127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 rack.ra.icast.cn
@@ -3644,5 +3645,4 @@
 127.0.0.1 www.urldelivery.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 cycy.kxrxh.com
-127.0.0.1 www.vipkdy.com
 127.0.0.1 www.100fenlm.com

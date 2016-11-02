@@ -1002,6 +1002,7 @@
 127.0.0.1 woocall.sina.com.cn
 #m.iask.sina.com.cn
 127.0.0.1 dd.iaskgo.com
+127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
 #sina-icast
 127.0.0.1 cast.ra.icast.cn
@@ -4065,6 +4066,5 @@
 #m.hao76.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 cycy.kxrxh.com
-127.0.0.1 www.vipkdy.com
 #www.myhktv.com
 127.0.0.1 www.100fenlm.com

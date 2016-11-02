@@ -161,6 +161,7 @@
 127.0.0.1 woocall.sina.com.cn
 #m.iask.sina.com.cn
 127.0.0.1 dd.iaskgo.com
+127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
 #sina-icast
 127.0.0.1 cast.ra.icast.cn
