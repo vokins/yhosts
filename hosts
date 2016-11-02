@@ -1,5 +1,5 @@
 
-#version=201611022044
+#version=201611022047
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -1721,10 +1721,6 @@
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
-127.0.0.1 c1.popads.net
-127.0.0.1 c2.popads.net
-127.0.0.1 serve.popads.net
-127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
@@ -3135,6 +3131,10 @@
 127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 serve.popads.net
+127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 t.linkpage.cn

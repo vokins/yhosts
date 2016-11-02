@@ -1299,8 +1299,3 @@
 127.0.0.1 js.avstats.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 www.appsbodyupdate.com
-#btdb.in
-127.0.0.1 c1.popads.net
-127.0.0.1 c2.popads.net
-127.0.0.1 serve.popads.net
-127.0.0.1 dr3k6qonw2kee.cloudfront.net
