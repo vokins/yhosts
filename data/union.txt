@@ -188,6 +188,7 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
 #360
+127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
@@ -393,6 +394,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 opendsp.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
 #ali-taobao-mob

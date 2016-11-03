@@ -1,5 +1,5 @@
 
-#version=201611022121
+#version=201611031535
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -519,6 +519,7 @@
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
@@ -1925,6 +1926,7 @@
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
+127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
@@ -2116,6 +2118,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 opendsp.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 agoodm.m.taobao.com
