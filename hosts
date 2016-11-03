@@ -1,5 +1,5 @@
 
-#version=201611031535
+#version=201611031611
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -1483,6 +1483,7 @@
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
 127.0.0.1 c1.ifengimg.com
+127.0.0.1 api.newad.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 games.ifeng.com

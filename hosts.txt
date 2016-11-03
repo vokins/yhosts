@@ -1822,6 +1822,7 @@
 127.0.0.1 a1.peoplecdn.cn
 #ifeng.com
 127.0.0.1 c1.ifengimg.com
+127.0.0.1 api.newad.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 games.ifeng.com
