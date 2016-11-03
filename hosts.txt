@@ -868,7 +868,6 @@
 #163-youdao
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
-127.0.0.1 c.youdao.com
 127.0.0.1 clkservice.youdao.com
 127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
@@ -1821,6 +1820,9 @@
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
 #ifeng.com
+127.0.0.1 ids.deliver.ifeng.com
+127.0.0.1 iis3g.deliver.ifeng.com
+127.0.0.1 api2.analysys.cn
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com

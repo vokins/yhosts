@@ -113,3 +113,6 @@ URL:sp1.baidu.com
 爱奇艺app VIP电影预约功能被误杀：subscription.iqiyi.com
 
 #修复误杀：浏览器上贴吧没法看头像和图片 gsp1.baidu.com
+
+127.0.0.1 c.youdao.com 影响有道词典下载
+http://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
