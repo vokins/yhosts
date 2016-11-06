@@ -3271,6 +3271,8 @@
 127.0.0.1 s.bypbwm.cn
 127.0.0.1 www.baodafu.com.cn
 #m.250sy.net
+127.0.0.1 s.tbaocdn.com
+127.0.0.1 s.liangziweixg.com
 127.0.0.1 img.royaltianjin.com
 127.0.0.1 s.sucodb.com
 127.0.0.1 s.nongsalei.com
@@ -3814,6 +3816,7 @@
 127.0.0.1 img.jiayuannongye.cn
 127.0.0.1 s.lhusy.com
 #m.80s.tw
+127.0.0.1 qd.80s.tw
 127.0.0.1 jake.80s.tw
 127.0.0.1 c.top267.com
 127.0.0.1 c8.top267.com
@@ -3974,6 +3977,8 @@
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
 #m.5442.com
+127.0.0.1 hl.butou.cn
+127.0.0.1 d5.doudou583.com
 127.0.0.1 iskdpg.com
 127.0.0.1 s.iuuff.com
 127.0.0.1 un.xlcun.com
