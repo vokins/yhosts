@@ -1,5 +1,5 @@
 
-#version=201611071748
+#version=201611072248
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3596,6 +3596,9 @@
 127.0.0.1 www.6604.org
 127.0.0.1 img.tygws.com
 127.0.0.1 alipay.dajiadou6.com
+127.0.0.1 js.kqy1.com
+127.0.0.1 lz.kqy1.com
+127.0.0.1 img.kqy1.com
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com

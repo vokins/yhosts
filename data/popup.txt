@@ -945,6 +945,9 @@
 #m.7kk.com
 127.0.0.1 img.tygws.com
 127.0.0.1 alipay.dajiadou6.com
+127.0.0.1 js.kqy1.com
+127.0.0.1 lz.kqy1.com
+127.0.0.1 img.kqy1.com
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
