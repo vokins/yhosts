@@ -343,6 +343,7 @@
 127.0.0.1 47.89.59.182
 127.0.0.1 stuff.202m.com
 127.0.0.1 www.202m.com
+127.0.0.1 s.jlminte.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @mob/union
