@@ -1029,3 +1029,9 @@
 127.0.0.1 cycy.kxrxh.com
 #www.myhktv.com
 127.0.0.1 www.100fenlm.com
+#m.733dm.net
+127.0.0.1 www.beibeigoudai.com
+127.0.0.1 www.koudai6.com
+127.0.0.1 die.ytguowang.com
+127.0.0.1 ruby.emkfl.com
+127.0.0.1 c.wangsufast.com
