@@ -2925,6 +2925,12 @@
 127.0.0.1 wangmeng.sogou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+#touclick
+127.0.0.1 cap.touclick.com
+127.0.0.1 captcha-static.touclick.com
+127.0.0.1 cdnjs.touclick.com
+127.0.0.1 ver.touclick.com
+127.0.0.1 www.touclick.com
 #usingde
 127.0.0.1 g.usingde.com
 127.0.0.1 pic.usingde.com
@@ -3095,6 +3101,7 @@
 127.0.0.1 js1116.cnbole.net
 127.0.0.1 js1210.cnbole.net
 127.0.0.1 js1315.cnbole.net
+127.0.0.1 js4110.cnbole.net
 127.0.0.1 js2294.cnbole.net
 127.0.0.1 js436.cnbole.net
 127.0.0.1 js883.cnbole.net
@@ -3185,6 +3192,7 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 js986.cnbole.net
 127.0.0.1 rc.andmejs.com
+127.0.0.1 p.andmejs.com
 127.0.0.1 media-static.jointreport-switch.com
 127.0.0.1 vip.7huoguo.com
 127.0.0.1 jjhd47.115seo.com
@@ -3776,6 +3784,7 @@
 127.0.0.1 e.a907907.com
 127.0.0.1 s1.kutongji.com
 127.0.0.1 i.qihaoqu.com
+127.0.0.1 j.qihaoqu.com
 127.0.0.1 t.qihaoqu.com
 127.0.0.1 p.whytoss.com
 127.0.0.1 x.892155.com

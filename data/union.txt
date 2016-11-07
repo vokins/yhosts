@@ -718,6 +718,12 @@
 127.0.0.1 wangmeng.sogou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+#touclick
+127.0.0.1 cap.touclick.com
+127.0.0.1 captcha-static.touclick.com
+127.0.0.1 cdnjs.touclick.com
+127.0.0.1 ver.touclick.com
+127.0.0.1 www.touclick.com
 #usingde
 127.0.0.1 g.usingde.com
 127.0.0.1 pic.usingde.com
