@@ -187,6 +187,7 @@
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
 #umeng
+127.0.0.1 log.umtrack.com
 127.0.0.1 www.umeng.co
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com

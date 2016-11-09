@@ -990,6 +990,7 @@
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
+127.0.0.1 exp.3g.ifeng.com
 #infzm.com
 127.0.0.1 x.infzm.com
 #iqilu.com

@@ -535,6 +535,7 @@
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
 #umeng
+127.0.0.1 log.umtrack.com
 127.0.0.1 www.umeng.co
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
@@ -1836,6 +1837,7 @@
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
+127.0.0.1 exp.3g.ifeng.com
 #infzm.com
 127.0.0.1 x.infzm.com
 #iqilu.com
@@ -3542,6 +3544,14 @@
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
 #btkitty.bid
+127.0.0.1 kaf.hnoka.com
+127.0.0.1 s.ryre.cn
+127.0.0.1 s1.idaguang.com
+127.0.0.1 s1.limeishang.com
+127.0.0.1 stats.anreson.net
+127.0.0.1 t16119.bafuhotel.com
+127.0.0.1 t6.ljzwlj.com
+127.0.0.1 www.bncmf.com
 127.0.0.1 55336.5ip9.com
 127.0.0.1 ccg51.win
 127.0.0.1 code.jojomu.com
