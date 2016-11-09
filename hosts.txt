@@ -3544,6 +3544,8 @@
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
 #btkitty.bid
+127.0.0.1 js.jianbaimei.com
+127.0.0.1 h.ju33.com
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 s.ryre.cn
 127.0.0.1 s1.idaguang.com
@@ -3580,9 +3582,7 @@
 127.0.0.1 cip6.czpush.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 do.apkdo.com
-127.0.0.1 h.ju33.com
 127.0.0.1 img1.pszyzxh.org
-127.0.0.1 js.jianbaimei.com
 127.0.0.1 js3555.alitianxia168.com
 127.0.0.1 js883.yongkang6.com
 127.0.0.1 js883.yongkang6.com:81
