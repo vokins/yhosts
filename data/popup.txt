@@ -257,6 +257,9 @@
 #m.biquge.la
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
+127.0.0.1 5568.gjghy.com
+127.0.0.1 gggo.xmbhj.com
+127.0.0.1 cycy.kxrxh.com
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
 127.0.0.1 t.91chs.com
@@ -1032,7 +1035,6 @@
 127.0.0.1 www.urldelivery.com
 #m.hao76.com
 127.0.0.1 ioa.hdkrs.com
-127.0.0.1 cycy.kxrxh.com
 #www.myhktv.com
 127.0.0.1 www.100fenlm.com
 #m.733dm.net

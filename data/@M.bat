@@ -1,4 +1,4 @@
-ver=下午 12:12 2016/10/27 星期四
+ver=上午 9:25 2016/11/9 星期三
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -9,7 +9,7 @@ call :xunlei
 call :downgrd
 call :lyq
 rem call :data
-rem "%~dp0lib\dos2unix.exe" -n 1A.txt hosts.txt
+rem "%~dp0win\dos2unix.exe" -n 1A.txt hosts.txt
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
@@ -41,22 +41,22 @@ goto :eof
 :lyq
 @SET CURRENTDIR=%cd%
 @cd..
-@SET lib=%cd%\lib
+@SET win=%cd%\win
 @cd %CURRENTDIR%
 set files=1os.txt direct.txt active.txt down.txt error.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt xunlei.txt popup.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
 set files=1os.txt direct.txt active.txt down.txt error.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt popup.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
-"%lib%\sed.exe" -i "/^#/d" lyq.txt
-"%lib%\sed.exe" -i "/^@/d" lyq.txt
-"%lib%\sed.exe" -i "1,2d" lyq.txt
+"%win%\sed.exe" -i "/^#/d" lyq.txt
+"%win%\sed.exe" -i "/^@/d" lyq.txt
+"%win%\sed.exe" -i "1,2d" lyq.txt
 echo.>Version.txt
 echo #version=%date:~0,4%%date:~5,2%%date:~8,2%%TIME:~0,2%%TIME:~3,2%>>Version.txt
 rem echo ;version=%time% %date%>>Version.txt
 echo #url=https://github.com/vokins/yhosts>>Version.txt
 set files=Version.txt lyq.txt
 for %%a in (%files%) do (type "%%a">>hosts)
-rem 部分路由器无法添加localhost 故删除此行。"%~dp0lib\sed.exe" -i "1i\127.0.0.1 localhost" hosts
+rem 部分路由器无法添加localhost 故删除此行。"%~dp0win\sed.exe" -i "1i\127.0.0.1 localhost" hosts
 move /y hosts.txt "%~dp0..\"
 move /y hosts "%~dp0..\"
 goto :eof
@@ -72,23 +72,23 @@ goto :eof
 :downgrd
 @SET CURRENTDIR=%cd%
 @cd..
-@SET lib=%cd%\lib
+@SET win=%cd%\win
 @cd %CURRENTDIR%
-"%lib%\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-rem "%~dp01lib\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
+"%win%\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+rem "%~dp01win\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 rem 删除前13行注释内容
-"%lib%\sed.exe" -i "1,13d" grd.txt
+"%win%\sed.exe" -i "1,13d" grd.txt
 rem 删除广告域名
-"%lib%\sed.exe" -i "/googlesyndication/d" grd.txt
-"%lib%\sed.exe" -i "/googleadservices/d" grd.txt
-rem "%lib%\sed.exe" -i "/127.0.0.1/d" grd.txt
+"%win%\sed.exHe" -i "/googlesyndication/d" grd.txt
+"%win%\sed.exe" -i "/googleadservices/d" grd.txt
+rem "%win%\sed.exe" -i "/127.0.0.1/d" grd.txt
 rem 删除所有#注释行
-"%lib%\sed.exe" -i "/^#/d" grd.txt
+"%win%\sed.exe" -i "/^#/d" grd.txt
 rem 把TAB符替换为空格符
-"%lib%\sed.exe" -i "s/\t/ /g" grd.txt
+"%win%\sed.exe" -i "s/\t/ /g" grd.txt
 rem 删除空行
-"%lib%\sed.exe" -i "/^$/d" grd.txt
+"%win%\sed.exe" -i "/^$/d" grd.txt
 rem 添加作者信息
-"%lib%\sed.exe" -i "1i\@racaljk/hosts" grd.txt
+"%win%\sed.exe" -i "1i\@racaljk/hosts" grd.txt
 move /y grd.txt "%~dp0..\"
 goto :eof

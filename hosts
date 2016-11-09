@@ -1,5 +1,5 @@
 
-#version=201611072341
+#version=20161109 935
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -9,6 +9,31 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+151.101.100.133 raw.githubusercontent.com
+192.30.253.113 github.com
+192.30.253.113 www.github.com
+151.101.60.133 help.github.com
+192.30.253.120 nodeload.github.com
+151.101.60.133 raw.github.com
+151.101.60.133 documentcloud.github.com
+192.30.253.118 gist.github.com
+151.101.60.133 developer.github.com
+192.30.253.117 api.github.com
+151.101.60.133 assets-cdn.github.com
+151.101.60.133 raw.githubusercontent.com
+151.101.60.133 camo.githubusercontent.com
+151.101.60.133 gist.githubusercontent.com
+151.101.60.133 cloud.githubusercontent.com
+151.101.60.133 avatars0.githubusercontent.com
+151.101.60.133 avatars1.githubusercontent.com
+151.101.60.133 avatars2.githubusercontent.com
+151.101.60.133 avatars3.githubusercontent.com
+151.101.60.133 avatars4.githubusercontent.com
+151.101.60.133 avatars5.githubusercontent.com
+151.101.60.133 avatars6.githubusercontent.com
+151.101.60.133 avatars7.githubusercontent.com
+151.101.60.133 avatars8.githubusercontent.com
+151.101.60.133 avatars9.githubusercontent.com
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
@@ -2980,6 +3005,9 @@
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
+127.0.0.1 5568.gjghy.com
+127.0.0.1 gggo.xmbhj.com
+127.0.0.1 cycy.kxrxh.com
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
 127.0.0.1 t.91chs.com
@@ -3668,7 +3696,6 @@
 127.0.0.1 www.bnhtml.com
 127.0.0.1 www.urldelivery.com
 127.0.0.1 ioa.hdkrs.com
-127.0.0.1 cycy.kxrxh.com
 127.0.0.1 www.100fenlm.com
 127.0.0.1 www.beibeigoudai.com
 127.0.0.1 www.koudai6.com

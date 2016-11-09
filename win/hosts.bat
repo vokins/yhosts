@@ -29,17 +29,21 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :downgrd
-"%~dp0lib\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-"%~dp0lib\wget.exe" -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-"%~dp0lib\sed.exe" -i "1,18d" 1.txt
-"%~dp0lib\sed.exe" -i "s/\t/ /g" 1.txt
-"%~dp0lib\sed.exe" -i "s/[ ]\{2,\}/ /g" 1.txt
-"%~dp0lib\sed.exe" -i "/googlesyndication/d" 1.txt
-"%~dp0lib\sed.exe" -i "/googleadservices/d" 1.txt
-"%~dp0lib\sed.exe" -i "/127.0.0.1/d" 1.txt
-"%~dp0lib\sed.exe" -i "/^$/d" 1.txt
-"%~dp0lib\sed.exe" -i "/^#/d" 1.txt
-"%~dp0lib\sed.exe" -i "1i\@racaljk/hosts" 1.txt
+@SET CURRENTDIR=%cd%
+@cd..
+@SET win=%cd%\win
+@cd %CURRENTDIR%
+"%~dp0win\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+"%~dp0win\wget.exe" -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+"%~dp0win\sed.exe" -i "1,18d" 1.txt
+"%~dp0win\sed.exe" -i "s/\t/ /g" 1.txt
+"%~dp0win\sed.exe" -i "s/[ ]\{2,\}/ /g" 1.txt
+"%~dp0win\sed.exe" -i "/googlesyndication/d" 1.txt
+"%~dp0win\sed.exe" -i "/googleadservices/d" 1.txt
+"%~dp0win\sed.exe" -i "/127.0.0.1/d" 1.txt
+"%~dp0win\sed.exe" -i "/^$/d" 1.txt
+"%~dp0win\sed.exe" -i "/^#/d" 1.txt
+"%~dp0win\sed.exe" -i "1i\@racaljk/hosts" 1.txt
 goto :eof
 
 :winhosts
