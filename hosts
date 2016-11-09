@@ -1,5 +1,5 @@
 
-#version=20161109 938
+#version=201611091045
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -690,6 +690,8 @@
 127.0.0.1 x.vamaker.com
 127.0.0.1 ad.jiemian.com
 127.0.0.1 ad.api.moji.com
+127.0.0.1 s.trafficjam.cn  
+127.0.0.1 sdk.cdnmaster.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com

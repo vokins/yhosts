@@ -841,6 +841,9 @@
 127.0.0.1 ad.jiemian.com
 #moji
 127.0.0.1 ad.api.moji.com
+#udbac.com
+127.0.0.1 s.trafficjam.cn  
+127.0.0.1 sdk.cdnmaster.com
 @web-cn/portals
 #163
 127.0.0.1 adgeo.163.com
