@@ -1,5 +1,5 @@
 
-#version=201611101404
+#version=20161112
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3663,6 +3663,9 @@
 127.0.0.1 zjs.roowap.com
 127.0.0.1 www.youfumei.com
 127.0.0.1 code.gutun.net
+127.0.0.1 sa.xalongli.cn
+127.0.0.1 di.xalongli.cn
+127.0.0.1 vip.jisucn.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
 127.0.0.1 jishi.sfloushi.com

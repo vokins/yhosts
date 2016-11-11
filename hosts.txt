@@ -4077,6 +4077,9 @@
 127.0.0.1 www.youfumei.com
 #m.haotv8.com
 127.0.0.1 code.gutun.net
+127.0.0.1 sa.xalongli.cn
+127.0.0.1 di.xalongli.cn
+127.0.0.1 vip.jisucn.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
