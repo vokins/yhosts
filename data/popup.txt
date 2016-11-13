@@ -961,6 +961,7 @@
 127.0.0.1 ww.ao29.com
 127.0.0.1 www.88cncc.com
 127.0.0.1 www.6604.org
+127.0.0.1 www.symmz.com
 #m.7kk.com
 127.0.0.1 img.tygws.com
 127.0.0.1 alipay.dajiadou6.com
@@ -1017,6 +1018,11 @@
 127.0.0.1 sa.xalongli.cn
 127.0.0.1 di.xalongli.cn
 127.0.0.1 vip.jisucn.com
+#m.quankan.tv
+127.0.0.1 s.mxmrt.com
+127.0.0.1 s.ybnrm.com
+127.0.0.1 rc.ybnrm.com
+127.0.0.1 rc.mxmrt.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com

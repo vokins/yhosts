@@ -201,6 +201,7 @@
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
+127.0.0.1 alog.umengcloud.com
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
@@ -419,6 +420,8 @@
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 huichuan.sm.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 cms.ucweb.com
 #www.jiedaibao.com
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com

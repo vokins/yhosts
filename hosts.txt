@@ -549,6 +549,7 @@
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
+127.0.0.1 alog.umengcloud.com
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
@@ -767,6 +768,8 @@
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 huichuan.sm.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 cms.ucweb.com
 #www.jiedaibao.com
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -4024,6 +4027,7 @@
 127.0.0.1 ww.ao29.com
 127.0.0.1 www.88cncc.com
 127.0.0.1 www.6604.org
+127.0.0.1 www.symmz.com
 #m.7kk.com
 127.0.0.1 img.tygws.com
 127.0.0.1 alipay.dajiadou6.com
@@ -4080,6 +4084,11 @@
 127.0.0.1 sa.xalongli.cn
 127.0.0.1 di.xalongli.cn
 127.0.0.1 vip.jisucn.com
+#m.quankan.tv
+127.0.0.1 s.mxmrt.com
+127.0.0.1 s.ybnrm.com
+127.0.0.1 rc.ybnrm.com
+127.0.0.1 rc.mxmrt.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
