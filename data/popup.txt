@@ -706,6 +706,8 @@
 127.0.0.1 sssd.rpayw.com
 127.0.0.1 m.cartekj.com
 127.0.0.1 pic1.59wd.com
+127.0.0.1 m.snow001.com
+127.0.0.1 img.sankezhi.cn
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com

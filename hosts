@@ -1,5 +1,5 @@
 
-#version=20161113
+#version=20161114
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3408,6 +3408,8 @@
 127.0.0.1 sssd.rpayw.com
 127.0.0.1 m.cartekj.com
 127.0.0.1 pic1.59wd.com
+127.0.0.1 m.snow001.com
+127.0.0.1 img.sankezhi.cn
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
