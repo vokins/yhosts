@@ -1,5 +1,5 @@
 
-#version=20161114
+#version=20161115
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3707,3 +3707,10 @@
 127.0.0.1 die.ytguowang.com
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
+##temporary.txt
+#@小说笔趣阁
+#qu.la
+127.0.0.1 nnd.xyssp.com
+#
+#12306
+127.0.0.1 ad.12306.cn

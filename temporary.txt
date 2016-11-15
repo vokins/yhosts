@@ -1,4 +1,7 @@
 ##temporary.txt
-#@
+#@小说笔趣阁
+#qu.la
+127.0.0.1 nnd.xyssp.com
 #
-
+#12306
+127.0.0.1 ad.12306.cn
