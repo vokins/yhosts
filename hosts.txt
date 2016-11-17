@@ -4134,9 +4134,25 @@
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
 ##temporary.txt
-#@小说笔趣阁
+#@小说
 #qu.la
 127.0.0.1 nnd.xyssp.com
+#m.shu008.com
+127.0.0.1 baidu.shu008.com
+127.0.0.1 w.aidizi.com
+127.0.0.1 tmall.shu008.com
+#m.shubao520.com
+127.0.0.1 js.ojj258.com
+127.0.0.1 tu.njflfd.com
+127.0.0.1 tu.jstztk.com
+127.0.0.1 www.xiaoyq.com
+127.0.0.1 j.jqbee.com
 #
 #12306
 127.0.0.1 ad.12306.cn
+#
+#@视频网
+#m.80s.tw
+127.0.0.1 tubie.bthengyuan.com
+127.0.0.1 s.shbywsd.cn
+127.0.0.1 qqzy1.cc
