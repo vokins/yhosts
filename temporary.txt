@@ -21,3 +21,7 @@
 127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
+#
+#@新闻网
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com

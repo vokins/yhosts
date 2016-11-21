@@ -1025,6 +1025,7 @@
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
+127.0.0.1 in.xnjpg.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com

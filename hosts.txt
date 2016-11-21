@@ -4091,6 +4091,7 @@
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
+127.0.0.1 in.xnjpg.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
@@ -4134,7 +4135,6 @@
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
 ##temporary.txt
-#@小说
 #qu.la
 127.0.0.1 nnd.xyssp.com
 #m.shu008.com
@@ -4147,12 +4147,11 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
-#
 #12306
 127.0.0.1 ad.12306.cn
-#
-#@视频网
 #m.80s.tw
 127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
