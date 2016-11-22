@@ -1,4 +1,4 @@
-#version=20161121
+#version=20161123
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3516,6 +3516,8 @@
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
 127.0.0.1 in.xnjpg.com
+127.0.0.1 ll.livehapp.com
+127.0.0.1 nl.wodhid.com
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
