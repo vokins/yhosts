@@ -1,5 +1,5 @@
 
-#version=201611231312
+#version=201611231332
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3625,6 +3625,7 @@
 127.0.0.1 s.sxytx.cn
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
+127.0.0.1 52.fushibooks.com
 127.0.0.1 hl.butou.cn
 127.0.0.1 d5.doudou583.com
 127.0.0.1 iskdpg.com
@@ -3658,6 +3659,7 @@
 127.0.0.1 cdn1.res.uzham.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
+127.0.0.1 ppco.trwba.com
 127.0.0.1 adp.s8bbs.com
 127.0.0.1 adv.s8bbs.com
 127.0.0.1 attach.s8bbs.com
@@ -3685,9 +3687,7 @@
 127.0.0.1 code.gutun.net
 127.0.0.1 sa.xalongli.cn
 127.0.0.1 di.xalongli.cn
-127.0.0.1 vip.jisucn.com
 127.0.0.1 s.mxmrt.com
-127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
 127.0.0.1 in.xnjpg.com
@@ -3724,3 +3724,5 @@
 127.0.0.1 die.ytguowang.com
 127.0.0.1 ruby.emkfl.com
 127.0.0.1 c.wangsufast.com
+127.0.0.1 js.lpshl.com
+127.0.0.1 ujake.shouji56.com
