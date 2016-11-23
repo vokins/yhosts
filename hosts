@@ -1,5 +1,5 @@
 
-#version=201611231357
+#version=201611232215
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -1211,20 +1211,29 @@
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 biz5.sandai.net
 127.0.0.1 float.sandai.net
+127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics.xunlei.com
 127.0.0.1 cop.my.xunlei.com
+127.0.0.1 ct.niu.xunlei.com
+127.0.0.1 dy.niu.xunlei.com
 127.0.0.1 hezuo.down.xunlei.com
+127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 niu.xunlei.com
 127.0.0.1 pv.xmp.stat.xunlei.com
 127.0.0.1 stat.download.xunlei.com
+127.0.0.1 static2.ssp.xunlei.com
+127.0.0.1 sys7.msg.xunlei.com
 127.0.0.1 thunderqtypv.union.xunlei.com
+127.0.0.1 tips.v.xunlei.com
 127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
@@ -1238,12 +1247,7 @@
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
-127.0.0.1 tips.v.xunlei.com
-127.0.0.1 jump.niu.xunlei.com
-127.0.0.1 niu.xunlei.com
 127.0.0.1 www.6998cdn.com
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 static2.ssp.xunlei.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com
