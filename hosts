@@ -1,5 +1,5 @@
 
-#version=201611231354
+#version=201611231357
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -1314,9 +1314,9 @@
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
+127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 cm.zhiziyun.com
-127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 addl.easetuner.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
