@@ -1,4 +1,6 @@
 @web-cn/portals
+#12306
+127.0.0.1 ad.12306.cn
 #163
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -974,6 +976,8 @@
 #huanqiu
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
 #w.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn

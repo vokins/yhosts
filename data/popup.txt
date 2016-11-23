@@ -199,6 +199,16 @@
 127.0.0.1 aavideo.xyz
 127.0.0.1 twbill.xyz
 127.0.0.1 www.aaportal.com
+#m.shu008.com
+127.0.0.1 baidu.shu008.com
+127.0.0.1 tmall.shu008.com
+127.0.0.1 w.aidizi.com
+#m.shubao520.com
+127.0.0.1 js.ojj258.com
+127.0.0.1 tu.njflfd.com
+127.0.0.1 tu.jstztk.com
+127.0.0.1 www.xiaoyq.com
+127.0.0.1 j.jqbee.com
 #m.01bz.xyz
 127.0.0.1 cp.efo.cc
 127.0.0.1 w.efo.cc
@@ -257,6 +267,7 @@
 #m.biquge.la
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
+127.0.0.1 nnd.xyssp.com
 127.0.0.1 5568.gjghy.com
 127.0.0.1 gggo.xmbhj.com
 127.0.0.1 cycy.kxrxh.com
@@ -788,6 +799,9 @@
 #m.80s.tw
 127.0.0.1 qd.80s.tw
 127.0.0.1 jake.80s.tw
+127.0.0.1 tubie.bthengyuan.com
+127.0.0.1 s.shbywsd.cn
+127.0.0.1 qqzy1.cc
 127.0.0.1 c.top267.com
 127.0.0.1 c8.top267.com
 127.0.0.1 ias816.ujikdd041o.cn
