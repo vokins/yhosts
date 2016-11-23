@@ -1610,6 +1610,8 @@
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 cm.zhiziyun.com
+127.0.0.1 pptv.m.cn.miaozhen.com
 #sopcast.cn
 127.0.0.1 addl.easetuner.com
 #tv.cctv.com
