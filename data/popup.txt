@@ -1096,3 +1096,5 @@
 127.0.0.1 v1.meiti1.net
 127.0.0.1 vvv.weixindmp.com
 127.0.0.1 www.founseezb.cn
+127.0.0.1 hh.livehapp.com
+127.0.0.1 tie.hibianji.com
