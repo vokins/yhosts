@@ -1,5 +1,5 @@
 
-#version=201611241442
+#version=201611251208
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -432,7 +432,9 @@
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
+127.0.0.1 m2374.oadz.com
 127.0.0.1 c.nz.gt.igexin.com
+127.0.0.1 c.sz.gt.igexin.com
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
