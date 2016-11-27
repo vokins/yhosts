@@ -245,6 +245,8 @@
 61.91.161.217 clients4.google.com
 61.91.161.217 clients5.google.com
 61.91.161.217 clients6.google.com
+61.91.161.217 clouderrorreporting.clients6.google.com
+61.91.161.217 datastore.clients6.google.com
 61.91.161.217 contributor.google.com
 61.91.161.217 dns.google.com
 61.91.161.217 desktop.google.com
@@ -507,6 +509,7 @@
 61.91.161.217 packages.cloud.google.com
 61.91.161.217 console.cloud.google.com
 61.91.161.217 status.cloud.google.com
+61.91.161.217 ssh.cloud.google.com
 61.91.161.217 developers.google.com
 61.91.161.217 cloudssh.developers.google.com
 61.91.161.217 codelabs.developers.google.com

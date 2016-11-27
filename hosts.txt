@@ -4004,6 +4004,8 @@
 127.0.0.1 xiazai.cdren.com
 #www.zimuzu.tv
 127.0.0.1 www.schborg.com
+#www.zimuku.net
+127.0.0.1 js3743.yongkang6.com
 #y5558.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
