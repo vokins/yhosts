@@ -1,5 +1,5 @@
 
-#version=20161127 813
+#version=20161129 844
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -669,6 +669,7 @@
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
+127.0.0.1 www.qchannel04.cn
 127.0.0.1 ad.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 push.mobile.meituan.com
@@ -2344,6 +2345,7 @@
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
+127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com

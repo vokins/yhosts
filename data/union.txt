@@ -623,6 +623,7 @@
 127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
 #miaozhen
+127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com

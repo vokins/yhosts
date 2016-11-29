@@ -460,6 +460,7 @@
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
+127.0.0.1 www.qchannel04.cn
 #toutiao
 127.0.0.1 ad.toutiao.com
 127.0.0.1 partner.toutiao.com

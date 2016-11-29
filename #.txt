@@ -16,3 +16,4 @@ cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default
 #LETV
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
+http://www.qchannel04.cn/  网易新闻 安卓app 反广告
