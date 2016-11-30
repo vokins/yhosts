@@ -1,5 +1,5 @@
 
-#version=201611301750
+#version=201611302230
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -1315,7 +1315,6 @@
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
-127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com
 127.0.0.1 img3.g.pptv.com
@@ -2160,8 +2159,6 @@
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 tns.simba.taobao.com
@@ -2659,6 +2656,8 @@
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 cmstool.youku.com
 127.0.0.1 cms.laifeng.com
+127.0.0.1 ld.kuaigames.com
+127.0.0.1 rd.kuaigames.com
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237
 127.0.0.1 b.smartvideo.youku.com

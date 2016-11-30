@@ -21,3 +21,6 @@ http://www.qchannel04.cn/  网易新闻 安卓app 反广告
 pmptrack-yidianzixunxm.gentags.net                                     image.gentags.com                                                                                                   cmpp.gentags.net                       类似于秒针的广告统计、跟踪 ，通过一点咨询APP 安卓版 发现
 
 adm.10jqka.com.cn  同花顺财经 广告
+
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com

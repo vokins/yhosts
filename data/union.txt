@@ -415,8 +415,6 @@
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 tns.simba.taobao.com

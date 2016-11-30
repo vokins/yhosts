@@ -756,7 +756,6 @@
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
-127.0.0.1 pub.aplus.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com
 127.0.0.1 img3.g.pptv.com
