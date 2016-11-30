@@ -1132,6 +1132,7 @@
 @web-cn/finance
 #10jqka.com.cn
 127.0.0.1 ad.thsi.cn
+127.0.0.1 adm.10jqka.com.cn
 #bbs.macd.cn
 127.0.0.1 xc.macd.cn
 #caixin.com
@@ -2801,6 +2802,9 @@
 127.0.0.1 s.fastapi.net
 #gentags.net
 127.0.0.1 clk.gentags.net
+127.0.0.1 cmpp.gentags.net
+127.0.0.1 image.gentags.com
+127.0.0.1 pmptrack-yidianzixunxm.gentags.net
 127.0.0.1 sit.gentags.net
 #irs
 127.0.0.1 irs01.net

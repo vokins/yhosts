@@ -279,6 +279,7 @@
 @web-cn/finance
 #10jqka.com.cn
 127.0.0.1 ad.thsi.cn
+127.0.0.1 adm.10jqka.com.cn
 #bbs.macd.cn
 127.0.0.1 xc.macd.cn
 #caixin.com

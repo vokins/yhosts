@@ -17,3 +17,7 @@ cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
 http://www.qchannel04.cn/  网易新闻 安卓app 反广告
+
+pmptrack-yidianzixunxm.gentags.net                                     image.gentags.com                                                                                                   cmpp.gentags.net                       类似于秒针的广告统计、跟踪 ，通过一点咨询APP 安卓版 发现
+
+adm.10jqka.com.cn  同花顺财经 广告
