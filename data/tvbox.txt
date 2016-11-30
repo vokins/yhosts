@@ -199,6 +199,7 @@
 127.0.0.1 qr.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 cmstool.youku.com
+127.0.0.1 cms.laifeng.com
 #youku-area
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237

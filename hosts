@@ -1,5 +1,5 @@
 
-#version=201611301617
+#version=201611301750
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -2155,10 +2155,13 @@
 127.0.0.1 ai.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 tns.simba.taobao.com
@@ -2171,6 +2174,9 @@
 127.0.0.1 oc.umeng.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
+127.0.0.1 ex.umengcloud.com
 127.0.0.1 163.wrating.com
 127.0.0.1 c.wrating.com
 127.0.0.1 click.wrating.com
@@ -2652,6 +2658,7 @@
 127.0.0.1 qr.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 cmstool.youku.com
+127.0.0.1 cms.laifeng.com
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237
 127.0.0.1 b.smartvideo.youku.com

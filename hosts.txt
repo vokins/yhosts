@@ -2638,10 +2638,13 @@
 127.0.0.1 ai.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 click.aliyun.com
+127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 tns.simba.taobao.com
@@ -2655,6 +2658,9 @@
 127.0.0.1 oc.umeng.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
+127.0.0.1 ex.umengcloud.com
 #ali-wrating
 127.0.0.1 163.wrating.com
 127.0.0.1 c.wrating.com
