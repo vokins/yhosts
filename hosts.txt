@@ -86,7 +86,6 @@
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 #down-baidu/down
-127.0.0.1 downapp.baidu.com
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com

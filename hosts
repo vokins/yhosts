@@ -1,5 +1,5 @@
 
-#version=201611302230
+#version=20161202
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -59,7 +59,6 @@
 127.0.0.1 toolbar.baidu.com
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
-127.0.0.1 downapp.baidu.com
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
