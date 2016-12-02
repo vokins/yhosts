@@ -108,6 +108,9 @@
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
+127.0.0.1 cpro.9xu.com
+127.0.0.1 dl.9xu.com
+127.0.0.1 cszlks.com
 127.0.0.1 ax.ggfeng.com
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 ds.jlbksy.com

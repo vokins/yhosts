@@ -1,5 +1,5 @@
 
-#version=201612021725
+#version=201612022148
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -270,6 +270,9 @@
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
+127.0.0.1 cpro.9xu.com
+127.0.0.1 dl.9xu.com
+127.0.0.1 cszlks.com
 127.0.0.1 ax.ggfeng.com
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 ds.jlbksy.com
@@ -3205,6 +3208,12 @@
 127.0.0.1 dr3k6qonw2kee.cloudfront.net
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
+127.0.0.1 js883.yzh360.com
+127.0.0.1 js883.yongkang6.com
+127.0.0.1 m.ever-lohas.com
+127.0.0.1 b99u.top
+127.0.0.1 wgn.wgnlz.com
+127.0.0.1 wff.wgnmp.com
 127.0.0.1 t.linkpage.cn
 127.0.0.1 code.guomob.com
 127.0.0.1 ns.apyuelang.com
@@ -3270,12 +3279,9 @@
 127.0.0.1 do.apkdo.com
 127.0.0.1 img1.pszyzxh.org
 127.0.0.1 js3555.alitianxia168.com
-127.0.0.1 js883.yongkang6.com
 127.0.0.1 js883.yongkang6.com:81
-127.0.0.1 js883.yzh360.com
 127.0.0.1 jump2.pszyzxh.org
 127.0.0.1 kt.kt220.com
-127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.kt0731.com
 127.0.0.1 nba.goodemc.com
 127.0.0.1 pic.shadowsmell.com
@@ -3760,3 +3766,8 @@
 127.0.0.1 www.founseezb.cn
 127.0.0.1 hh.livehapp.com
 127.0.0.1 tie.hibianji.com
+127.0.0.1 m.yooli.com
+127.0.0.1 js4273.zhudiaosz.com
+127.0.0.1 t10.yijia2009.com
+127.0.0.1 js4273.yzh360.com
+127.0.0.1 www.appfh.com
