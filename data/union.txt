@@ -499,7 +499,6 @@
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 rplog.baidu.com
 127.0.0.1 share.baidu.com
-127.0.0.1 tongji.baidu.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
