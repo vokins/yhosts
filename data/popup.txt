@@ -475,6 +475,7 @@
 127.0.0.1 serv.clicksor.net
 127.0.0.1 www.predictivadvertising.com
 #btdigg.ws\btdigg.pw\diggbt.co
+127.0.0.1 s.glasszz.com
 127.0.0.1 js883.yzh360.com
 127.0.0.1 js883.yongkang6.com
 127.0.0.1 m.ever-lohas.com
