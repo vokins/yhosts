@@ -1,5 +1,5 @@
 
-#version=201612021718
+#version=201612021725
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -167,6 +167,8 @@
 127.0.0.1 down.laomaotao.net
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hk.jtsh123.com
+127.0.0.1 hao.tiandi.com
+127.0.0.1 hao916.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -2020,7 +2022,6 @@
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
-127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
@@ -2314,7 +2315,6 @@
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 easou.irs01.com
-127.0.0.1 iqiyi.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 sohu.irs01.com
@@ -2363,7 +2363,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
-127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 letv.ipdx.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
@@ -2560,6 +2559,9 @@
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 qchannel01.cn
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 iqiyi.irs01.com
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv

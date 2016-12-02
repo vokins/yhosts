@@ -269,7 +269,6 @@
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
-127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
@@ -588,7 +587,6 @@
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 easou.irs01.com
-127.0.0.1 iqiyi.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 sohu.irs01.com
@@ -642,7 +640,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
-127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 letv.ipdx.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com

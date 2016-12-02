@@ -99,6 +99,9 @@
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 qchannel01.cn
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 iqiyi.irs01.com
+127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 #iqiyi-gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv

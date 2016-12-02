@@ -11,3 +11,5 @@
 #virus-down
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hk.jtsh123.com
+127.0.0.1 hao.tiandi.com
+127.0.0.1 hao916.com
