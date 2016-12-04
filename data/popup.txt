@@ -807,6 +807,7 @@
 #m.80s.tw
 127.0.0.1 qd.80s.tw
 127.0.0.1 jake.80s.tw
+127.0.0.1 www.hxstfxx.cn
 127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
@@ -1114,3 +1115,15 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+#www.5zdm.com
+127.0.0.1 pic.hkivs.cn
+127.0.0.1 w.yinyuehu.cn
+127.0.0.1 w3.yinyuehu.cn
+127.0.0.1 image.vlook.cn
+#m.booktxt.net
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 e.pubbirdf.com
+127.0.0.1 tt.booktxt.net
+127.0.0.1 sou.dkdlsj.com
+127.0.0.1 m.pubbirdf.com
+127.0.0.1 jdian.tianshicto.com
