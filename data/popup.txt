@@ -1128,3 +1128,18 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
 127.0.0.1 bobo.xmwty.com
+#yxpjw.net(zhaofuli.xyz)
+127.0.0.1 changan.bama555.com
+127.0.0.1 119.29.240.147
+127.0.0.1 www.5345ll.com
+127.0.0.1 d.soxoo.cc
+127.0.0.1 e.liuliu666.com
+127.0.0.1 m.eddong.com
+127.0.0.1 pic.9doo.cn
+127.0.0.1 s.wyttech.cn
+127.0.0.1 www.eddong.com
+127.0.0.1 m.wufu.info
+127.0.0.1 q.0451106.com
+127.0.0.1 www.5634.com
+127.0.0.1 www.888zr022.com
+127.0.0.1 xj40666.vip
