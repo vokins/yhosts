@@ -289,6 +289,8 @@
 127.0.0.1 llsp.gfd80.com
 127.0.0.1 kiki.ykjmy.com
 127.0.0.1 myjj.pyzkk.com
+127.0.0.1 cszlks.com
+127.0.0.1 bobo.xmwty.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -1120,7 +1122,6 @@
 127.0.0.1 weld.pnaea.com
 127.0.0.1 weldc1.021ye.com
 127.0.0.1 js.526d.com
-127.0.0.1 i1.chinauui.com
 127.0.0.1 js3768.zhudiaosz.com
 #m.meitulu.com
 127.0.0.1 js.lpshl.com
@@ -1152,7 +1153,6 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
-127.0.0.1 bobo.xmwty.com
 #yxpjw.net(zhaofuli.xyz)
 127.0.0.1 changan.bama555.com
 127.0.0.1 119.29.240.147
@@ -1169,3 +1169,25 @@
 127.0.0.1 www.888zr022.com
 127.0.0.1 xj40666.vip
 127.0.0.1 js4163.yongkang6.com
+#www.diyiapp.com
+127.0.0.1 yn.xsu.cc
+127.0.0.1 jsqcdn1124.0101122.com
+127.0.0.1 u291014.pr00001.com
+127.0.0.1 s.jzv1.com
+127.0.0.1 ss.shuajuzu.com
+127.0.0.1 fsjsp.com
+127.0.0.1 fz863.com
+127.0.0.1 js.ychun03.com
+127.0.0.1 lz.ychun03.com
+127.0.0.1 m.anzhuotan.com
+127.0.0.1 package01.com
+127.0.0.1 pf.h5game.cn
+127.0.0.1 s5.qhmsg.com
+127.0.0.1 static-one.ffwap.com
+127.0.0.1 static-two.ffwap.com
+127.0.0.1 wgz.wgnlz.com
+127.0.0.1 worldh5.gamehz.cn
+127.0.0.1 www.shouyoutan.com
+127.0.0.1 yjxzs.com
+127.0.0.1 zgty365.com
+127.0.0.1 p.skimresources.com
