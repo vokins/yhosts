@@ -289,7 +289,6 @@
 127.0.0.1 llsp.gfd80.com
 127.0.0.1 kiki.ykjmy.com
 127.0.0.1 myjj.pyzkk.com
-127.0.0.1 cszlks.com
 127.0.0.1 bobo.xmwty.com
 #m.bookben.com
 127.0.0.1 fx.worldqueen.org.cn

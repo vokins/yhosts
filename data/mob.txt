@@ -188,22 +188,6 @@
 #tapjoy
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
-#umeng
-127.0.0.1 log.umtrack.com
-127.0.0.1 www.umeng.co
-127.0.0.1 api.wsq.umeng.com
-127.0.0.1 au.apk.umeng.com
-127.0.0.1 dev.umeng.com
-127.0.0.1 fb.umeng.com
-127.0.0.1 feedback.umeng.com
-127.0.0.1 www.umeng.com
-127.0.0.1 ex.umengcloud.com
-127.0.0.1 msg.umengcloud.com
-127.0.0.1 feedback.whalecloud.com
-127.0.0.1 cdn0.mobmore.com
-127.0.0.1 ex.mobmore.com
-127.0.0.1 ex.puata.info
-127.0.0.1 alog.umengcloud.com
 #wapx.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn

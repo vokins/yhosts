@@ -420,16 +420,28 @@
 127.0.0.1 strip.taobaocdn.com
 #ali-umeng
 127.0.0.1 au.umeng.co
-127.0.0.1 au.umeng.com
 127.0.0.1 alog.umeng.co
-127.0.0.1 alog.umeng.com
 127.0.0.1 oc.umeng.co
+127.0.0.1 www.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 api.wsq.umeng.com
+127.0.0.1 au.apk.umeng.com
+127.0.0.1 au.umeng.com
+127.0.0.1 dev.umeng.com
+127.0.0.1 fb.umeng.com
+127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
+127.0.0.1 www.umeng.com
+127.0.0.1 alog.umengcloud.com
+127.0.0.1 ex.umengcloud.com
+127.0.0.1 msg.umengcloud.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 utop.umengcloud.com
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 ex.puata.info
-127.0.0.1 ex.umengcloud.com
+127.0.0.1 log.umtrack.com
+127.0.0.1 feedback.whalecloud.com
 #ali-wrating
 127.0.0.1 163.wrating.com
 127.0.0.1 c.wrating.com
