@@ -27,3 +27,11 @@ adm.10jqka.com.cn  同花顺财经 广告
 
 删除tongji.baidu.com 
 和127.0.0.1 downapp.baidu.com
+上面发得是初稿，这个修改了一下，添加了屏蔽企鹅fm和软件推广，好像还有少量广告，不过大部分应该都pass了，有广告的截图我看下能不能干掉#(乖)
+
+127.0.0.1 h5.qzone.qq.com正在直播(这个会导致群相册打不开)
+127.0.0.1 c.gdt.qq.com空间广告近期热门推荐
+127.0.0.1 mobile.qzone.qq.com视频推荐
+127.0.0.1 d3g.qq.com软件推广
+127.0.0.1 qzs.qq.com推荐关注
+127.0.0.1 fm.qzone.qq.com企鹅fm

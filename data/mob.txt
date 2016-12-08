@@ -362,7 +362,6 @@
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 www.gongzhushe.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
@@ -391,6 +390,9 @@
 127.0.0.1 novelsns.html5.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 sdk.e.qq.com
 #wandoujia.com
 127.0.0.1 push.wandoujia.com
 #www.uc.cn

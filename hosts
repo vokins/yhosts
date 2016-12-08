@@ -1,5 +1,5 @@
 
-#version=20161208 600
+#version=201612081705
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -586,7 +586,6 @@
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 www.gongzhushe.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
@@ -613,6 +612,9 @@
 127.0.0.1 novelsns.html5.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 push.wandoujia.com
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
@@ -3842,3 +3844,15 @@
 127.0.0.1 yjxzs.com
 127.0.0.1 zgty365.com
 127.0.0.1 p.skimresources.com
+127.0.0.1 img.tz00008.cn
+127.0.0.1 b.9dreams.net
+127.0.0.1 gum.criteo.com
+127.0.0.1 tu.bpmask.com
+127.0.0.1 cdn.adstract.com
+127.0.0.1 eyjs.b7nkd.cn
+127.0.0.1 g.daman.cc
+127.0.0.1 js.eyouv.cn
+127.0.0.1 cdn.adsk2.co
+127.0.0.1 s.hnruisi.com
+127.0.0.1 s.sinbadacn.com
+127.0.0.1 js.csxjys.com
