@@ -634,6 +634,7 @@
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 #fun.tv
+127.0.0.1 vas.fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 game.funshion.com
 #gdtv.cn
@@ -757,6 +758,7 @@
 127.0.0.1 ads.aplusapi.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
+127.0.0.1 jp.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com

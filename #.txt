@@ -35,3 +35,13 @@ adm.10jqka.com.cn  同花顺财经 广告
 127.0.0.1 d3g.qq.com软件推广
 127.0.0.1 qzs.qq.com推荐关注
 127.0.0.1 fm.qzone.qq.com企鹅fm
+
+
+<html><head><meta name="viewport" content="width=device-width, minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"><title></title><style>body {margin:0;color:#000;overflow:hidden;padding:0;height:100%;font-family:Arial}a{cursor:pointer;display:block;position:absolute;border:0px;border-radius:1em;padding-top:1px;background-color:#444;color:#fff; opacity:.8;z-index:3;right:5px;top:5px; height:10px; overflow:hidden;text-align:center;width:10px;font-size:8px}#x{position:fixed;z-index:2;bottom:2px;width:100%;height:60px}#i{display:block; position:absolute; z-index:1; width:100%; height:100%}</style></head><body onload="a7.u()"><div id="i"><iframe id="m" width="100%" height="100%" frameborder="0" src="http://wapbaike.baidu.com/subview/15940/10921567.htm?fromid=122360&amp;type=syn&amp;fromtitle=%E8%BE%BE%E8%8A%AC%E5%A5%87&amp;fr=aladdin&amp;ref=wise&amp;ssid=0&amp;from=1011440l&amp;uid=0&amp;pu=usm@6,sz@320_1001,ta@iphone_2_5.1_3_537&amp;bd_page_type=1&amp;baiduid=4B00CF7CDAD4CBF4087E5EBD77E73E9C&amp;tj=Xv_1_0_10_title&amp;_t_t_t=0.7507742992602289"></iframe></div><div id="x" style="display: block;"><a onclick="a7.c()" style="text-decoration: none;">X</a><iframe id="a" width="100%" height="60" scrolling="no" frameborder="0" src="http://122.225.103.120:8080/xzn/zn/1206/2.html"></iframe></div><script>(function(w){var a7= w.a7 || {} ;var d=document;a7.u = function() {        var f = d.location.href;   var ua = navigator.userAgent.toLowerCase(); var im = d.getElementById("m");            im.src=f+(f.indexOf("?")<0 ? '?':'&')+'_t_t_t='+Math.random(); if (ua.indexOf("iphone") > 0) {im.width=window.innerWidth;im.scrolling="no";};           };a7.c = function() {d.getElementById('x').style.display="none";};w.a7 = a7;})(window);</script><script>function s(){document.getElementById('x').style.display = 'block';}setTimeout(function(){document.getElementById('a').src = 'http://122.225.103.120:8080/xzn/zn/1206/2.html';},500);setTimeout("s()",1000);</script></body></html>
+http://cdn.ads.jlscds.com/r1.html w
+http://139.224.26.92/ssll/abcd.html
+=http://222.187.226.96/meng.html
+
+<iframe src="http://jp.as.pptv.com/webcollect/click?pos=200129&tid=TA201611291629283478&vchid=0&ln=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dy5jY6i4J9kavcNMBh_dAQBlq7K5Mh-jWGIVfAx66-vkec9bwpgtKk9kvyY7JAdX9%26wd%3D%26eqid%3D96ce7d720000ea4c00000004583d3dd4" width="0" marginwidth="0" height="0" marginheight="0"scrolling="no" frameborder="0"></iframe>
+
+<iframe src="http://vas.fun.tv/market/ext/udc/c68908960.html?meng" w

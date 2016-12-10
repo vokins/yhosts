@@ -1116,7 +1116,6 @@
 127.0.0.1 vip.hys4.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.jisucn.com
-127.0.0.1 122.225.103.120
 127.0.0.1 www-360se-cn.newtech-beauty.com
 127.0.0.1 data.3975.com
 127.0.0.1 img752.de92.com
@@ -1194,7 +1193,6 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 img.tz00008.cn
 127.0.0.1 b.9dreams.net
-127.0.0.1 gum.criteo.com
 127.0.0.1 tu.bpmask.com
 #m.daman.cc
 127.0.0.1 cdn.adstract.com

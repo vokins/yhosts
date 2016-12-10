@@ -1,5 +1,5 @@
 
-#version=201612101553
+#version=201612101710
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -287,10 +287,18 @@
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 114.55.123.44
 127.0.0.1 222.186.61.94
+127.0.0.1 122.225.103.120
 127.0.0.1 47.89.59.182
+127.0.0.1 139.224.26.92
+127.0.0.1 222.187.226.96
+127.0.0.1 ip.l9po.com
+127.0.0.1 cdn.ads.jlscds.com
 127.0.0.1 stuff.202m.com
 127.0.0.1 www.202m.com
 127.0.0.1 s.jlminte.com
+127.0.0.1 clickme.net
+127.0.0.1 ssp.86str.com
+127.0.0.1 s2.yandui.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -1197,6 +1205,7 @@
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
+127.0.0.1 vas.fun.tv
 127.0.0.1 adm.funshion.com
 127.0.0.1 game.funshion.com
 127.0.0.1 adv.grtn.cn
@@ -1307,6 +1316,7 @@
 127.0.0.1 ads.aplusapi.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
+127.0.0.1 jp.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com
@@ -1972,6 +1982,7 @@
 127.0.0.1 icon.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
+127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
 127.0.0.1 users.51.la
 127.0.0.1 web.51.la
@@ -3780,7 +3791,6 @@
 127.0.0.1 vip.hys4.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.jisucn.com
-127.0.0.1 122.225.103.120
 127.0.0.1 www-360se-cn.newtech-beauty.com
 127.0.0.1 data.3975.com
 127.0.0.1 img752.de92.com
@@ -3850,7 +3860,6 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 img.tz00008.cn
 127.0.0.1 b.9dreams.net
-127.0.0.1 gum.criteo.com
 127.0.0.1 tu.bpmask.com
 127.0.0.1 cdn.adstract.com
 127.0.0.1 eyjs.b7nkd.cn

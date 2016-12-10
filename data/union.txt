@@ -222,6 +222,7 @@
 127.0.0.1 icon.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
+127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
 127.0.0.1 users.51.la
 127.0.0.1 web.51.la
