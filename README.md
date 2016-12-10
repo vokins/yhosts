@@ -74,7 +74,7 @@ http://vokins.github.io/yhosts/ad.js
 
 ##### 软件后台下载:[zsm2014](http://bbs.kafan.cn/thread-1798022-1-1.html)
 
-##### 路由器hosts:[dd-wrt](http://code.taobao.org/svn/dd-wrt/hosts) [gargoyle](http://code.taobao.org/svn/gargoyle/hosts)
+##### 路由器hosts:[dd-wrt](http://code.taobao.org/svn/dd-wrt/hosts) 
 
 ##### 恶意网站: [MWSL](http://www.mwsl.org.cn/hosts/hosts)
 
@@ -86,4 +86,4 @@ http://vokins.github.io/yhosts/ad.js
 
 ##### 优秀软件推荐: [AkelPad](http://akelpad.sf.net/) QQ群：290230398
 
-##### 特别感谢：~~ESword bt-soso.com 提供国内http镜像~~
+##### 特别感谢：ESword bt-soso.com 提供国内http镜像

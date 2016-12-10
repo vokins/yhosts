@@ -399,6 +399,7 @@
 127.0.0.1 e4.6dad.com
 127.0.0.1 ad.btba.com.cn
 #m.lldm.com
+127.0.0.1 you.ymfzs.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 a.bx518.com
@@ -728,6 +729,7 @@
 127.0.0.1 pic1.59wd.com
 127.0.0.1 m.snow001.com
 127.0.0.1 img.sankezhi.cn
+127.0.0.1 e.0313413.com
 #m.piaov.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -836,7 +838,6 @@
 #m.kk3.cc
 127.0.0.1 js.chinaheh.com
 #m.tepian.com
-127.0.0.1 e.0313413.com
 127.0.0.1 l5.fwt0.com
 127.0.0.1 pic.shaidouzi.com
 127.0.0.1 s5.0594003.com
@@ -1204,3 +1205,10 @@
 127.0.0.1 s.hnruisi.com
 127.0.0.1 s.sinbadacn.com
 127.0.0.1 js.csxjys.com
+#m.dy4410.com
+127.0.0.1 al.nkcz8.com
+#www.dyaihao.com
+127.0.0.1 im.tlcs666.com
+127.0.0.1 im.tuan520.com
+127.0.0.1 mm.8qzone.com
+127.0.0.1 vimg.dwstatic.com
