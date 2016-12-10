@@ -1,5 +1,5 @@
 
-#version=201612101710
+#version=201612102016
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -248,7 +248,6 @@
 127.0.0.1 nfdnserror15.wo.com.cn
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
-127.0.0.1 61.156.8.189
 127.0.0.1 navi.gd.chinamobile.com
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
@@ -285,12 +284,6 @@
 127.0.0.1 ssp.kss.ksyun.com
 127.0.0.1 stjzh.gdtarget.com
 127.0.0.1 wo.iuni.com.cn
-127.0.0.1 114.55.123.44
-127.0.0.1 222.186.61.94
-127.0.0.1 122.225.103.120
-127.0.0.1 47.89.59.182
-127.0.0.1 139.224.26.92
-127.0.0.1 222.187.226.96
 127.0.0.1 ip.l9po.com
 127.0.0.1 cdn.ads.jlscds.com
 127.0.0.1 stuff.202m.com
