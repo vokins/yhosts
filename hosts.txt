@@ -570,6 +570,9 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+@mob/amigo
+127.0.0.1 ads.gionee.com
+127.0.0.1 adres.myaora.net
 @mob/lenovo
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com

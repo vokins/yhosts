@@ -1,5 +1,5 @@
 
-#version=201612102016
+#version=20161212 759
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -471,6 +471,8 @@
 127.0.0.1 track.dmp.youmi.net
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+127.0.0.1 ads.gionee.com
+127.0.0.1 adres.myaora.net
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
