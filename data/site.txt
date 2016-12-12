@@ -694,7 +694,6 @@
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
 #mgtv.com
-127.0.0.1 stat.titan.imgo.tv
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 s.mini.kuaibo.com
@@ -709,7 +708,6 @@
 127.0.0.1 log.elk.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.hunantv.com
-127.0.0.1 log.rc.hunantv.com
 127.0.0.1 log.so.hunantv.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 mobile.log.hunantv.com
