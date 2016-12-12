@@ -338,6 +338,8 @@
 127.0.0.1 wwwimg.86sjx.com
 127.0.0.1 material.jusha.com
 #www.shuaigay.top
+127.0.0.1 sss.jusha.com
+127.0.0.1 s.mgwcn.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 s.mxmrt
 127.0.0.1 www.punuomisi.cn
