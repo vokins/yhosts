@@ -3357,15 +3357,18 @@
 #m.biquge.la
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
-127.0.0.1 yang.93manhua.com
+127.0.0.1 you.ymfzs.com
+127.0.0.1 cycy.kxrxh.com
+127.0.0.1 lol.pnhfc.com
+127.0.0.1 s.mgwcn.com
 127.0.0.1 gog9.qzdfc.com
+127.0.0.1 yang.93manhua.com
 127.0.0.1 ttkx.qyctj.com
 127.0.0.1 download.350.com
 127.0.0.1 nnd.xyssp.com
 127.0.0.1 9990.spqsd.com
 127.0.0.1 5568.gjghy.com
 127.0.0.1 gggo.xmbhj.com
-127.0.0.1 cycy.kxrxh.com
 127.0.0.1 g.hw6.com
 127.0.0.1 img.hunlimishu.com
 127.0.0.1 t.91chs.com
@@ -3429,7 +3432,6 @@
 127.0.0.1 material.jusha.com
 #www.shuaigay.top
 127.0.0.1 sss.jusha.com
-127.0.0.1 s.mgwcn.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 s.mxmrt
 127.0.0.1 www.punuomisi.cn
@@ -3492,7 +3494,6 @@
 127.0.0.1 e4.6dad.com
 127.0.0.1 ad.btba.com.cn
 #m.lldm.com
-127.0.0.1 you.ymfzs.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 a.bx518.com
