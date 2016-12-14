@@ -50,3 +50,4 @@ http://rtax.criteo.com/delivery/rta/rta.js?netId=3832&cookieName=crtg_rta&rnd=33
 https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
 
 /Volumes/K MPUME/Andorid/Xiaomi/sdcard/Books/一千多小说资源/rtf/安娜新坑.doc.txt
+127.0.0.1 i2.muzisoft.com

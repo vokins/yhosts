@@ -1242,4 +1242,3 @@
 127.0.0.1 d7.muzisoft.com
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
-127.0.0.1 i2.muzisoft.com
