@@ -1235,3 +1235,11 @@
 127.0.0.1 mememe.dlsjyj.com
 #m.xunbo14.com
 127.0.0.1 wwe.xiankandy.com
+#m.muzisoft.com
+127.0.0.1 d.ltss8.com
+127.0.0.1 down.qiqi.cc
+127.0.0.1 s.69duk.com
+127.0.0.1 d7.muzisoft.com
+127.0.0.1 d8.muzisoft.com
+127.0.0.1 d9.muzisoft.com
+127.0.0.1 i2.muzisoft.com
