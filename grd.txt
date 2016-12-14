@@ -2980,7 +2980,6 @@
 131.253.61.97 api.login.live.com
 207.46.101.29 ssw.live.com
 207.46.101.29 ssw-df.live.com
-204.79.197.213 docs.live.net
 204.79.197.217 mail.live.com
 204.79.197.217 people.live.com
 204.79.197.217 profile.live.com
@@ -2991,7 +2990,6 @@
 204.79.197.217 skyapi.policies.live.net
 134.170.108.24 apis.live.net
 134.170.108.24 l.live.net
-134.170.108.24 d.docs.live.net
 23.44.152.70 auth.gfx.ms
 65.55.52.23 directory.services.live.com
 204.79.197.213 bn1306.storage.skyprod.akadns.net

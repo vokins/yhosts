@@ -130,5 +130,6 @@
 127.0.0.1 clickme.net
 127.0.0.1 ssp.86str.com
 127.0.0.1 s2.yandui.com
+127.0.0.1 www.tz-dsp.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
