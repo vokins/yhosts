@@ -18,7 +18,6 @@ http://vokins.github.io/yhosts/ad.js
 1. [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 是基础数据，其他数据需叠加此数据使用。仅使用此数据，可过滤掉测试链接1 内的广告，无法过滤 测试连接2 内的广告。电脑PC用户务必用这个源，不要用3的源！！！
 2. [tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt) 是附加数据，针对电视平台，更好的过滤一些APP的广告。如果家里面有多个可支持hosts过滤的路由器，可在主路由器部署hosts.txt并将此数据部署到客厅盒子的路由上。
 3. [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)是完整数据，可用于路由器平台（方便iPad等设备无广告浏览）。包含hosts.txt和tvbox.txt，并删除所有注释行，方便路由器添加和更新。
-* 不及时更新的http:// ：http://code.taobao.org/svn/yhosts/hosts
 
 ### 反馈请看：
 * 如果你用了本hosts文件，还是有广告，请你截图说明具体那里有广告？
@@ -73,8 +72,6 @@ http://vokins.github.io/yhosts/ad.js
 ##### 游戏加速:[lucky☆star](http://bbs.a9vg.com/thread-4549081-1-1.html)
 
 ##### 软件后台下载:[zsm2014](http://bbs.kafan.cn/thread-1798022-1-1.html)
-
-##### 路由器hosts:[dd-wrt](http://code.taobao.org/svn/dd-wrt/hosts) 
 
 ##### 恶意网站: [MWSL](http://www.mwsl.org.cn/hosts/hosts)
 
