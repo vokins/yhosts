@@ -1,5 +1,4 @@
-
-#version=201612142304
+#version=20161222
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3007,6 +3006,8 @@
 127.0.0.1 img.95duk.com
 127.0.0.1 img.xrtzf.com
 127.0.0.1 s.meimeidaren.com
+127.0.0.1 m.sdhzstone.net
+127.0.0.1 m.ucxxii.com
 127.0.0.1 ef363.263zw.com
 127.0.0.1 ef364.263zw.com
 127.0.0.1 ef365.263zw.com
@@ -3051,6 +3052,7 @@
 127.0.0.1 kiki.ykjmy.com
 127.0.0.1 myjj.pyzkk.com
 127.0.0.1 bobo.xmwty.com
+127.0.0.1 hao.dian500.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 ucuc.baiducu.com
@@ -3463,6 +3465,8 @@
 127.0.0.1 m.snow001.com
 127.0.0.1 img.sankezhi.cn
 127.0.0.1 e.0313413.com
+127.0.0.1 img2.cs153.com
+127.0.0.1 img.yingkeduo.cn
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
@@ -3487,7 +3491,6 @@
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
-127.0.0.1 pic.haowj.com.cn
 127.0.0.1 99qqc.com
 127.0.0.1 www.5188yy.com
 127.0.0.1 gg.btnk024.com
@@ -3892,3 +3895,26 @@
 127.0.0.1 d7.muzisoft.com
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
+##temporary.txt
+127.0.0.1 imgwx3.2345.com
+127.0.0.1 pb3.pstatp.com
+127.0.0.1 s3m.mediav.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 kiss.cncy8.com
+127.0.0.1 titi.18tzx.com
+127.0.0.1 s.faloo.com
+127.0.0.1 cpu.baidu.com
+127.0.0.1 wapad11.btdcw.com
+127.0.0.1 wapad12.btdcw.com
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+127.0.0.1 api.vungle.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 wpc.32df9.rhocdn.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net
+127.0.0.1 rt.applovin.com
