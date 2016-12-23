@@ -1063,6 +1063,10 @@
 127.0.0.1 in.xnjpg.com
 127.0.0.1 ll.livehapp.com
 127.0.0.1 nl.wodhid.com
+127.0.0.1 s.80sjw.com
+127.0.0.1 mob.huimee.net
+127.0.0.1 img3.trxxn.com
+127.0.0.1 img2.trxxn.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
@@ -1253,4 +1257,12 @@
 127.0.0.1 wapad12.btdcw.com
 #m.q4yy.com
 127.0.0.1 kiss.cncy8.com
+#m.meijukankan.net
+127.0.0.1 taob.bjjlcfw.com
+127.0.0.1 www.6kwan.com
+127.0.0.1 m.hfsteel.net
+#m.daizhuzai.com
 127.0.0.1 titi.18tzx.com
+127.0.0.1 mm.ttlowe.com
+127.0.0.1 e.mingysh.com
+127.0.0.1 m.mingysh.com
