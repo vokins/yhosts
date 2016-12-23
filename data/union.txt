@@ -184,6 +184,7 @@
 127.0.0.1 yads.yahoo.co.jp
 @web-cn/common
 #2345
+127.0.0.1 imgwx3.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
@@ -494,6 +495,7 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
@@ -631,6 +633,7 @@
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
 127.0.0.1 pv.mediav.com
+127.0.0.1 s3m.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show.g.mediav.com

@@ -219,6 +219,7 @@
 127.0.0.1 z1.zedo.com
 @mob/amigo
 127.0.0.1 ads.gionee.com
+127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 @mob/lenovo
 127.0.0.1 fsr.lenovomm.com
@@ -451,6 +452,7 @@
 127.0.0.1 www.qchannel04.cn
 #toutiao
 127.0.0.1 ad.toutiao.com
+127.0.0.1 dsp.toutiao.com
 127.0.0.1 partner.toutiao.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
@@ -491,3 +493,13 @@
 #udbac.com
 127.0.0.1 s.trafficjam.cn  
 127.0.0.1 sdk.cdnmaster.com
+#vpn
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+127.0.0.1 api.vungle.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 wpc.32df9.rhocdn.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net
+#ark-vpn
+127.0.0.1 newswifiapi.dfshurufa.com

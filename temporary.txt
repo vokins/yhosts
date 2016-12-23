@@ -1,35 +1,13 @@
 ##temporary.txt
 ##视频网
-#华数tv
-127.0.0.1 imgwx3.2345.com
-127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3m.mediav.com
-127.0.0.1 dsp.toutiao.com
-#m.q4yy.com
-127.0.0.1 kiss.cncy8.com
-127.0.0.1 titi.18tzx.com
+
+
+
+
+
 #
 ##小说
-#wap.faloo.com
-127.0.0.1 s.faloo.com
-#m.3y.uu456.com（网站使用了百度网盟广告）
-127.0.0.1 cpu.baidu.com
-127.0.0.1 wapad11.btdcw.com
-127.0.0.1 wapad12.btdcw.com
-#m.iask.sina.com.cn新浪问答
-127.0.0.1 qiyezs.aiwen.cc
-127.0.0.1 qiyem.aiwen.cc
-#（上面是百度网盟广告，下面是广告图片与跳转）
-127.0.0.1 m.haowj.com.cn
-127.0.0.1 pic.haowj.com.cn
+
 #
 ##其他
 #各种VPN APP 内置广告
-127.0.0.1 analytics.rayjump.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 setting.rayjump.com
-127.0.0.1 api.vungle.com
-127.0.0.1 tdcv3.talkingdata.net
-127.0.0.1 wpc.32df9.rhocdn.net
-127.0.0.1 d3v1lb83psg9di.cloudfront.net
-127.0.0.1 rt.applovin.com

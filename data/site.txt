@@ -162,9 +162,14 @@
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 #m.iask.sina.com.cn
+127.0.0.1 dd.iask.cn
 127.0.0.1 dd.iaskgo.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 #sina-icast
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 rack.ra.icast.cn
@@ -460,6 +465,7 @@
 127.0.0.1 www.finead.cn
 #zhihu.com
 127.0.0.1 sugar.zhihu.com
+127.0.0.1 zhihu-web-analytics.zhihu.com
 @web-cn/it
 #admin5.com
 127.0.0.1 100.admin5.com

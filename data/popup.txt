@@ -1246,3 +1246,11 @@
 127.0.0.1 d7.muzisoft.com
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
+#wap.faloo.com
+127.0.0.1 s.faloo.com
+#m.3y.uu456.com
+127.0.0.1 wapad11.btdcw.com
+127.0.0.1 wapad12.btdcw.com
+#m.q4yy.com
+127.0.0.1 kiss.cncy8.com
+127.0.0.1 titi.18tzx.com

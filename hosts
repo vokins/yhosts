@@ -1,4 +1,5 @@
-#version=20161223
+
+#version=201612232140
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -471,6 +472,7 @@
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
 127.0.0.1 ads.gionee.com
+127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com
@@ -663,6 +665,7 @@
 127.0.0.1 rd.da.netease.com
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 ad.toutiao.com
+127.0.0.1 dsp.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 push.mobile.meituan.com
 127.0.0.1 sta.haloall.com
@@ -691,6 +694,14 @@
 127.0.0.1 ad.api.moji.com
 127.0.0.1 s.trafficjam.cn  
 127.0.0.1 sdk.cdnmaster.com
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+127.0.0.1 api.vungle.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 wpc.32df9.rhocdn.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net
+127.0.0.1 newswifiapi.dfshurufa.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -835,9 +846,14 @@
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
+127.0.0.1 dd.iask.cn
 127.0.0.1 dd.iaskgo.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 rack.ra.icast.cn
 127.0.0.1 res.icast.cn
@@ -1057,6 +1073,7 @@
 127.0.0.1 finead.cn
 127.0.0.1 www.finead.cn
 127.0.0.1 sugar.zhihu.com
+127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 100.admin5.com
 127.0.0.1 eezdx.erc.18183.com
 127.0.0.1 outer.anquan.org
@@ -1938,6 +1955,7 @@
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
+127.0.0.1 imgwx3.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
@@ -2226,6 +2244,7 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
@@ -2347,6 +2366,7 @@
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
 127.0.0.1 pv.mediav.com
+127.0.0.1 s3m.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show.g.mediav.com
@@ -2672,6 +2692,7 @@
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
+127.0.0.1 pb3.pstatp.com
 127.0.0.1 20161201.biz5.kankan.com
 127.0.0.1 20161201.logic.cpm.cm.kankan.com
 127.0.0.1 20161201.float.kankan.com
@@ -3894,26 +3915,8 @@
 127.0.0.1 d7.muzisoft.com
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
-##temporary.txt
-127.0.0.1 imgwx3.2345.com
-127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3m.mediav.com
-127.0.0.1 dsp.toutiao.com
-127.0.0.1 kiss.cncy8.com
-127.0.0.1 titi.18tzx.com
 127.0.0.1 s.faloo.com
-127.0.0.1 cpu.baidu.com
 127.0.0.1 wapad11.btdcw.com
 127.0.0.1 wapad12.btdcw.com
-127.0.0.1 qiyezs.aiwen.cc
-127.0.0.1 qiyem.aiwen.cc
-127.0.0.1 m.haowj.com.cn
-127.0.0.1 pic.haowj.com.cn
-127.0.0.1 analytics.rayjump.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 setting.rayjump.com
-127.0.0.1 api.vungle.com
-127.0.0.1 tdcv3.talkingdata.net
-127.0.0.1 wpc.32df9.rhocdn.net
-127.0.0.1 d3v1lb83psg9di.cloudfront.net
-127.0.0.1 rt.applovin.com
+127.0.0.1 kiss.cncy8.com
+127.0.0.1 titi.18tzx.com

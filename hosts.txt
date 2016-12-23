@@ -572,6 +572,7 @@
 127.0.0.1 z1.zedo.com
 @mob/amigo
 127.0.0.1 ads.gionee.com
+127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 @mob/lenovo
 127.0.0.1 fsr.lenovomm.com
@@ -804,6 +805,7 @@
 127.0.0.1 www.qchannel04.cn
 #toutiao
 127.0.0.1 ad.toutiao.com
+127.0.0.1 dsp.toutiao.com
 127.0.0.1 partner.toutiao.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
@@ -844,6 +846,16 @@
 #udbac.com
 127.0.0.1 s.trafficjam.cn  
 127.0.0.1 sdk.cdnmaster.com
+#vpn
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+127.0.0.1 api.vungle.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 wpc.32df9.rhocdn.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net
+#ark-vpn
+127.0.0.1 newswifiapi.dfshurufa.com
 @web-cn/portals
 #12306
 127.0.0.1 ad.12306.cn
@@ -1008,9 +1020,14 @@
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 #m.iask.sina.com.cn
+127.0.0.1 dd.iask.cn
 127.0.0.1 dd.iaskgo.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 #sina-icast
 127.0.0.1 cast.ra.icast.cn
 127.0.0.1 rack.ra.icast.cn
@@ -1306,6 +1323,7 @@
 127.0.0.1 www.finead.cn
 #zhihu.com
 127.0.0.1 sugar.zhihu.com
+127.0.0.1 zhihu-web-analytics.zhihu.com
 @web-cn/it
 #admin5.com
 127.0.0.1 100.admin5.com
@@ -2405,6 +2423,7 @@
 127.0.0.1 yads.yahoo.co.jp
 @web-cn/common
 #2345
+127.0.0.1 imgwx3.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
@@ -2715,6 +2734,7 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
@@ -2852,6 +2872,7 @@
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
 127.0.0.1 pv.mediav.com
+127.0.0.1 s3m.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show.g.mediav.com
@@ -4335,38 +4356,11 @@
 127.0.0.1 d7.muzisoft.com
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
-##temporary.txt
-##视频网
-#华数tv
-127.0.0.1 imgwx3.2345.com
-127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3m.mediav.com
-127.0.0.1 dsp.toutiao.com
+#wap.faloo.com
+127.0.0.1 s.faloo.com
+#m.3y.uu456.com
+127.0.0.1 wapad11.btdcw.com
+127.0.0.1 wapad12.btdcw.com
 #m.q4yy.com
 127.0.0.1 kiss.cncy8.com
 127.0.0.1 titi.18tzx.com
-#
-##小说
-#wap.faloo.com
-127.0.0.1 s.faloo.com
-#m.3y.uu456.com（网站使用了百度网盟广告）
-127.0.0.1 cpu.baidu.com
-127.0.0.1 wapad11.btdcw.com
-127.0.0.1 wapad12.btdcw.com
-#m.iask.sina.com.cn新浪问答
-127.0.0.1 qiyezs.aiwen.cc
-127.0.0.1 qiyem.aiwen.cc
-#（上面是百度网盟广告，下面是广告图片与跳转）
-127.0.0.1 m.haowj.com.cn
-127.0.0.1 pic.haowj.com.cn
-#
-##其他
-#各种VPN APP 内置广告
-127.0.0.1 analytics.rayjump.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 setting.rayjump.com
-127.0.0.1 api.vungle.com
-127.0.0.1 tdcv3.talkingdata.net
-127.0.0.1 wpc.32df9.rhocdn.net
-127.0.0.1 d3v1lb83psg9di.cloudfront.net
-127.0.0.1 rt.applovin.com
