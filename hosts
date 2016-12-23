@@ -1,10 +1,23 @@
 
-#version=201612232226
+#version=201612232334
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
+218.93.127.136 cdn.pcbeta.attachment.inimc.com
+218.93.127.136 cdn.pcbeta.css.inimc.com
+218.93.127.136 cdn.pcbeta.img.inimc.com
+218.93.127.136 cdn.pcbeta.js.inimc.com
+218.93.127.136 cdn.pcbeta.static.inimc.com
+218.93.127.136 bbs.pcbeta.com
+218.93.127.136 i.pcbeta.com
+218.93.127.136 m.pcbeta.com
+218.93.127.136 pcbeta.com
+218.93.127.136 static.template.pcbeta.com
+218.93.127.136 uc.pcbeta.com
+218.93.127.136 web.pcbeta.com
+218.93.127.136 www.pcbeta.com
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
