@@ -846,15 +846,16 @@
 #udbac.com
 127.0.0.1 s.trafficjam.cn  
 127.0.0.1 sdk.cdnmaster.com
-#vpn
+#vpn-appvpn
 127.0.0.1 analytics.rayjump.com
 127.0.0.1 net.rayjump.com
 127.0.0.1 setting.rayjump.com
+#vpn-betternet
 127.0.0.1 api.vungle.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
-#ark-vpn
+#vpn-ark
 127.0.0.1 newswifiapi.dfshurufa.com
 @web-cn/portals
 #12306

@@ -1,8 +1,5 @@
-##temporary.txt
+﻿##temporary.txt
 ##视频网
-
-
-
 
 
 #
@@ -10,4 +7,4 @@
 
 #
 ##其他
-#各种VPN APP 内置广告
+

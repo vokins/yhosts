@@ -1,4 +1,4 @@
-127.0.0.1 pub.aplus.pptv.com Ó°ÏìµÇÂ½http://vip.pptv.com/?plt=&aid=
+ï»¿127.0.0.1 pub.aplus.pptv.com å½±å“ç™»é™†http://vip.pptv.com/?plt=&aid=
 a.gdown.baidu.com
 app.video.baidu.com
 appsearchcdn.baidu.com
@@ -77,44 +77,44 @@ ucus.ucweb.com
 sta.ganji.com
 ifacel.iqiyi.com
 issuecdn.baidupcs.com
-oc.umeng.com ¸£Àûä¯ÀÀÆ÷£¬ÎóÉ±¡£
-°®ÆæÒÕ¿Í»§¶Ë¹Û¿´¼ÇÂ¼Í¼Æ¬±»ÎóÉ±£ºl.rcd.iqiyi.com
-disp.titan.mgtv.com ¸ÕÊÔÁËÏÂÃ¢¹ûTV£¬·¢ÏÖÎóÉ±µ¼ÖÂ²»ÄÜ²¥·ÅÊÓÆµ£º
-meta.video.qiyi.com Õâ¸öÓòÃûÊÇÍøÒ³°æ°®ÆæÒÕ¿ì½ø¹¦ÄÜ
+oc.umeng.com ç¦åˆ©æµè§ˆå™¨ï¼Œè¯¯æ€ã€‚
+çˆ±å¥‡è‰ºå®¢æˆ·ç«¯è§‚çœ‹è®°å½•å›¾ç‰‡è¢«è¯¯æ€ï¼šl.rcd.iqiyi.com
+disp.titan.mgtv.com åˆšè¯•äº†ä¸‹èŠ’æœTVï¼Œå‘ç°è¯¯æ€å¯¼è‡´ä¸èƒ½æ’­æ”¾è§†é¢‘ï¼š
+meta.video.qiyi.com è¿™ä¸ªåŸŸåæ˜¯ç½‘é¡µç‰ˆçˆ±å¥‡è‰ºå¿«è¿›åŠŸèƒ½
 127.0.0.1 api.m.taobao.com
 127.0.0.1 pingjs.qq.com
-127.0.0.1 iface.iqiyi.com vip³äÖµ½çÃæ¼ÓÔØ
-avd.qidian.com Õâ¸öÊÇÆğµãµÄ°²È«µÇÂ½ÑéÖ¤
-127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml Í¼Æ¬È«¸øXXÁË
+127.0.0.1 iface.iqiyi.com vipå……å€¼ç•Œé¢åŠ è½½
+avd.qidian.com è¿™ä¸ªæ˜¯èµ·ç‚¹çš„å®‰å…¨ç™»é™†éªŒè¯
+127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml å›¾ç‰‡å…¨ç»™XXäº†
 127.0.0.1 static.sdg-china.com http://dq.sdo.com/ 
 127.0.0.1 znsv.baidu.com http://www.shoudian.org/forum.php?mod=forumdisplay&fid=19
-ÓÃÁËÄãµÄsimpleu hosts»áµ¼ÖÂ×óÉÏµÄËÑË÷¿òµã»÷ÎŞĞ§£¬ÄãÈÎÒâÌî¸ö´Êµã»÷ËÑË÷°´Å¥¾Í¿ÉÒÔ¹Û²ìµ½Ğ§¹û
+ç”¨äº†ä½ çš„simpleu hostsä¼šå¯¼è‡´å·¦ä¸Šçš„æœç´¢æ¡†ç‚¹å‡»æ— æ•ˆï¼Œä½ ä»»æ„å¡«ä¸ªè¯ç‚¹å‡»æœç´¢æŒ‰é’®å°±å¯ä»¥è§‚å¯Ÿåˆ°æ•ˆæœ
 www.google-analytics.com
-pr.da.netease.com # Ò×ĞÅ¹«¸æ
-127.0.0.1 minisite.letv.com letvÖ±²¥
-127.0.0.1 huodong.m.taobao.com ´ÁÎÒÖĞ½±Ö®ºóµÄÌø×ªÒ³Ãæ
-127.0.0.1 rlogs.youdao.com ÓĞµÀ·­Òë
+pr.da.netease.com # æ˜“ä¿¡å…¬å‘Š
+127.0.0.1 minisite.letv.com letvç›´æ’­
+127.0.0.1 huodong.m.taobao.com æˆ³æˆ‘ä¸­å¥–ä¹‹åçš„è·³è½¬é¡µé¢
+127.0.0.1 rlogs.youdao.com æœ‰é“ç¿»è¯‘
 http://minisite.letv.com
 127.0.0.1 link.1905.com
 http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
-xmp.down.sandai.net ½âÂëÆ÷Ïà¹Ø
+xmp.down.sandai.net è§£ç å™¨ç›¸å…³
 #facebook-noads
-127.0.0.1 staticxx.facebook.com ²¿·ÖÓÎÏ·appÒ³Ãæ¼æÈİĞÔÓĞÎÊÌâ
+127.0.0.1 staticxx.facebook.com éƒ¨åˆ†æ¸¸æˆappé¡µé¢å…¼å®¹æ€§æœ‰é—®é¢˜
 
 127.0.0.1 sta.ganjistatic1.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
-ĞŞ¸´ÎóÉ±£ºvmat.gtimg.com µ¼ÖÂÌÚÑ¶ÔÆÊÓÌıÉ¨ÂëµÇÂ¼µÄ¶şÎ¬ÂëÎŞ·¨Õı³£ÏÔÊ¾
-ĞŞ¸´ÎóÉ±£º discuz.gtimg.cn µ¼ÖÂdiscuzÂÛÌ³µÄÏà¹ØÖ÷Ìâ´¦³öÏÖ404£¨±ÈÈç¿¨·¹£©
- livew.l.qq.com µ¼ÖÂÌÚÑ¶ÊÓÆµÈ¥¹ã¸æÊ§°Ü £¨±»¼ì²âµ½¿ªÆôÈ¥¹ã¸æ²å¼ş£¬Ç¿ÖÆµÈ´ı£©ÒÔ·ÅÈëtvboxÊı¾İÄÚ£¬µçÄÔ¶ËÊı¾İ²»ÔÙ°üº¬¡£
-·¢ÏÖÒ»´¦ÎóÉ±£¬ÊÖ»ú¿ªÈÈµã¸øµçÄÔÊ¹ÓÃ£¬°Ù¶È·­Òë²»ÄÜ·­Òë
+ä¿®å¤è¯¯æ€ï¼švmat.gtimg.com å¯¼è‡´è…¾è®¯äº‘è§†å¬æ‰«ç ç™»å½•çš„äºŒç»´ç æ— æ³•æ­£å¸¸æ˜¾ç¤º
+ä¿®å¤è¯¯æ€ï¼š discuz.gtimg.cn å¯¼è‡´discuzè®ºå›çš„ç›¸å…³ä¸»é¢˜å¤„å‡ºç°404ï¼ˆæ¯”å¦‚å¡é¥­ï¼‰
+ livew.l.qq.com å¯¼è‡´è…¾è®¯è§†é¢‘å»å¹¿å‘Šå¤±è´¥ ï¼ˆè¢«æ£€æµ‹åˆ°å¼€å¯å»å¹¿å‘Šæ’ä»¶ï¼Œå¼ºåˆ¶ç­‰å¾…ï¼‰ä»¥æ”¾å…¥tvboxæ•°æ®å†…ï¼Œç”µè„‘ç«¯æ•°æ®ä¸å†åŒ…å«ã€‚
+å‘ç°ä¸€å¤„è¯¯æ€ï¼Œæ‰‹æœºå¼€çƒ­ç‚¹ç»™ç”µè„‘ä½¿ç”¨ï¼Œç™¾åº¦ç¿»è¯‘ä¸èƒ½ç¿»è¯‘
 URL:sp1.baidu.com
 
-@ÀÏÉß×Ó 127.0.0.1 iface2.qiyi.com Ó°Ïì°®ÆæÒÕWINDOWS°æ app(WINÊÖ»úºÍWIN8 WIN10µÄ °®ÆæÒÕAPP)  Õı³£²¥·Å ÆÁ±Îºó ÎŞ·¨¶ÁÈ¡Êı¾İ ÎŞ·¨²¥·Å ÎŞ·¨½øÈëAPPÊ×Ò³
-°®ÆæÒÕapp VIPµçÓ°Ô¤Ô¼¹¦ÄÜ±»ÎóÉ±£ºsubscription.iqiyi.com
+@è€è›‡å­ 127.0.0.1 iface2.qiyi.com å½±å“çˆ±å¥‡è‰ºWINDOWSç‰ˆ app(WINæ‰‹æœºå’ŒWIN8 WIN10çš„ çˆ±å¥‡è‰ºAPP)  æ­£å¸¸æ’­æ”¾ å±è”½å æ— æ³•è¯»å–æ•°æ® æ— æ³•æ’­æ”¾ æ— æ³•è¿›å…¥APPé¦–é¡µ
+çˆ±å¥‡è‰ºapp VIPç”µå½±é¢„çº¦åŠŸèƒ½è¢«è¯¯æ€ï¼šsubscription.iqiyi.com
 
-#gsp1.baidu.comä¯ÀÀÆ÷ÉÏÌù°ÉÃ»·¨¿´Í·ÏñºÍÍ¼Æ¬ 
-#c.youdao.com Ó°ÏìÓĞµÀ´ÊµäÏÂÔØhttp://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
-#downapp.baidu.comÕâ¸ö»áµ¼ÖÂÎŞ·¨ÔÚ¿á°²ÏÂÔØ¡°°Ù¶ÈÌù°É¡±app
-imglf0.nosdn.127.net»áµ¼ÖÂlofter appÒ»Ğ©Í¼Æ¬ÎŞ·¨¼ÓÔØ¡£
-clickme.netÍøÕ¾²»ÊÇ¹ã¸æ
+#gsp1.baidu.comæµè§ˆå™¨ä¸Šè´´å§æ²¡æ³•çœ‹å¤´åƒå’Œå›¾ç‰‡ 
+#c.youdao.com å½±å“æœ‰é“è¯å…¸ä¸‹è½½http://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
+#downapp.baidu.comè¿™ä¸ªä¼šå¯¼è‡´æ— æ³•åœ¨é…·å®‰ä¸‹è½½â€œç™¾åº¦è´´å§â€app
+imglf0.nosdn.127.netä¼šå¯¼è‡´lofter appä¸€äº›å›¾ç‰‡æ— æ³•åŠ è½½ã€‚
+clickme.netç½‘ç«™ä¸æ˜¯å¹¿å‘Š
