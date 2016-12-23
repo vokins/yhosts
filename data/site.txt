@@ -1287,6 +1287,14 @@
 127.0.0.1 resources.infolinks.com
 127.0.0.1 tapestry.tapad.com
 @web-for/news
+#clickme.net
+127.0.0.1 ad.doublemax.net
+127.0.0.1 cdn.doublemax.net
+127.0.0.1 kxcdn.doublemax.net
+127.0.0.1 lg.doublemax.net
+127.0.0.1 m.doublemax.net
+127.0.0.1 dmp.eland-tech.com
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 #www.ettoday.net
 127.0.0.1 ad.ettoday.net
 127.0.0.1 cdn1.ettoday.net
