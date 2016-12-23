@@ -12,7 +12,7 @@ hosts文件
 ```
 * AD hosts爱好群：201973909
 
-http://vokins.github.io/yhosts/ad.js
+* ios 使用这个视频去广告PAC：https://vokins.github.io/ad.js/ad.js
 
 ### 数据名称及含义:
 1. [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 是基础数据，其他数据需叠加此数据使用。仅使用此数据，可过滤掉测试链接1 内的广告，无法过滤 测试连接2 内的广告。电脑PC用户务必用这个源，不要用3的源！！！
