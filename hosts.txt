@@ -346,7 +346,6 @@
 127.0.0.1 stuff.202m.com
 127.0.0.1 www.202m.com
 127.0.0.1 s.jlminte.com
-127.0.0.1 clickme.net
 127.0.0.1 ssp.86str.com
 127.0.0.1 s2.yandui.com
 127.0.0.1 www.tz-dsp.com

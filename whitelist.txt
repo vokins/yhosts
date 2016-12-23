@@ -117,3 +117,4 @@ URL:sp1.baidu.com
 #c.youdao.com 影响有道词典下载http://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
 #downapp.baidu.com这个会导致无法在酷安下载“百度贴吧”app
 imglf0.nosdn.127.net会导致lofter app一些图片无法加载。
+clickme.net网站不是广告
