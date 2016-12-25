@@ -873,9 +873,9 @@
 127.0.0.1 newswifiapi.dfshurufa.com
 #exview
 127.0.0.1 cpx24.com
+127.0.0.1 www.cpx24.com
 127.0.0.1 ue.ueadlian.com
 127.0.0.1 wm.lrswl.com
-127.0.0.1 www.cpx24.com
 127.0.0.1 www.feixin2.com
 @web-cn/portals
 #12306
@@ -1125,6 +1125,9 @@
 127.0.0.1 dx.crsky.com
 127.0.0.1 images.crsky.com
 #ctfile.com
+127.0.0.1 doubleclick.ctfile.com
+127.0.0.1 homestatic.ctfile.com
+127.0.0.1 mydisplay.ctfile.com
 127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 lg2.jointreport-switch.com
@@ -1364,6 +1367,12 @@
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
+127.0.0.1 analytics.jiuzhilan.com
+127.0.0.1 app.jiuzhilan.com
+127.0.0.1 cdn.jiuzhilan.com
+127.0.0.1 img2.jiuzhilan.com
+127.0.0.1 jmonitor.jiuzhilan.com
+127.0.0.1 lp.jiuzhilan.com
 127.0.0.1 blb.winasdaq.com
 127.0.0.1 un.winasdaq.com
 #cnmo.com
