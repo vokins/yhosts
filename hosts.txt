@@ -871,6 +871,12 @@
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 #vpn-ark
 127.0.0.1 newswifiapi.dfshurufa.com
+#exview
+127.0.0.1 cpx24.com
+127.0.0.1 ue.ueadlian.com
+127.0.0.1 wm.lrswl.com
+127.0.0.1 www.cpx24.com
+127.0.0.1 www.feixin2.com
 @web-cn/portals
 #12306
 127.0.0.1 ad.12306.cn

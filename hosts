@@ -1,5 +1,5 @@
 
-#version=201612232334
+#version=201612251427
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -715,6 +715,11 @@
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 newswifiapi.dfshurufa.com
+127.0.0.1 cpx24.com
+127.0.0.1 ue.ueadlian.com
+127.0.0.1 wm.lrswl.com
+127.0.0.1 www.cpx24.com
+127.0.0.1 www.feixin2.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
