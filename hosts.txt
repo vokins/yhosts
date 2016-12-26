@@ -1719,6 +1719,7 @@
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vid.atm.youku.com
+127.0.0.1 reply.lomark.cn
 @web-cn/music
 #duomi.com
 127.0.0.1 service.ad.duomi.com
