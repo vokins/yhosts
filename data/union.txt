@@ -714,6 +714,8 @@
 127.0.0.1 sdk.open.lbs.igexin.com
 127.0.0.1 sdk.open.phone.igexin.com
 #sohu
+127.0.0.1 ad.mail.sohu.com
+127.0.0.1 adnet.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com

@@ -991,19 +991,6 @@
 127.0.0.1 lb.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wb.gtimg.com
-#sohu/mail
-127.0.0.1 ad.mail.sohu.com
-#sohu/video
-127.0.0.1 click.hd.sohu.com.cn
-127.0.0.1 click2.hd.sohu.com
-127.0.0.1 count.vrs.sohu.com
-127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 p.aty.sohu.com
-127.0.0.1 pb.hd.sohu.com.cn
-127.0.0.1 pv.hd.sohu.com
-127.0.0.1 vg.aty.sohu.com
-127.0.0.1 vm.aty.sohu.com
-127.0.0.1 wl.hd.sohu.com
 #sina.cn
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 r.dmp.sina.cn
@@ -2991,6 +2978,8 @@
 127.0.0.1 sdk.open.lbs.igexin.com
 127.0.0.1 sdk.open.phone.igexin.com
 #sohu
+127.0.0.1 ad.mail.sohu.com
+127.0.0.1 adnet.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com

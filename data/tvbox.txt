@@ -50,7 +50,6 @@
 127.0.0.1 ark.vmoters.com
 127.0.0.1 dc.letv-epg.wasu.tv
 127.0.0.1 dc.vmoters.com
-127.0.0.1 pv.ott.hd.sohu.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
@@ -145,18 +144,30 @@
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 api.store.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 pg.aty.sohu.com
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 push.tv.sohu.com
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 v.aty.sohu.com
+127.0.0.1 vg.aty.sohu.com
+127.0.0.1 vm.aty.sohu.com
+127.0.0.1 wl.hd.sohu.com
 127.0.0.1 zz.m.sohu.com
+127.0.0.1 f.aty.sohu.com
 127.0.0.1 da.mmarket.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com

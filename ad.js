@@ -96,7 +96,7 @@ function FindProxyForURL(url, host){
 "kkpgv.kankan.com",
 "kkpgv2.kankan.com",
 "kkpgv2.xunlei.com",
-"material.ssp.xunlei.com",     
+"material.ssp.xunlei.com",
 //<v-iqiyi>
 "cupid.ptqy.gitv.tv",
 "msg.71.am",
@@ -104,8 +104,7 @@ function FindProxyForURL(url, host){
 "cupid.qiyi.com",
 "msg.iqiyi.com",
 //<v-letv>
-"api.mob.app.letv.com", 
-"ark.letv.com",
+"api.mob.app.letv.com",
 "fz.letv.com",
 "g3.letv.com",
 "msg.m.letv.com",
@@ -118,7 +117,7 @@ function FindProxyForURL(url, host){
 "static.g.pptv.com",
 "tj.g.pptv.com",
 "asimgs.cp61.ott.cibntv.net",
-"de.as.cp61.ott.cibntv.net",   
+"de.as.cp61.ott.cibntv.net",
 //<v-qq>
 "aiseet.atianqi.com",
 "l.qq.com",
