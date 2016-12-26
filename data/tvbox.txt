@@ -134,7 +134,6 @@
 127.0.0.1 msg2.video.qiyi.com
 #letv
 127.0.0.1 api.game.letvstore.com
-127.0.0.1 api.mob.app.letv.com
 127.0.0.1 dev.dc.letv.com
 127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com

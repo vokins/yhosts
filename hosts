@@ -1,5 +1,5 @@
 
-#version=201612261453
+#version=201612262334
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -2640,7 +2640,6 @@
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.game.letvstore.com
-127.0.0.1 api.mob.app.letv.com
 127.0.0.1 dev.dc.letv.com
 127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
