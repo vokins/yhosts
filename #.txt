@@ -76,3 +76,17 @@ apk/res/drawable-hdpi/pause_0_111.jpg
 apk/res/drawable-mdpi/pause_0_111.jpg
 
 这个软件要完整去广告可以反编译apk。我尝试修改apk后安装提示无网络，网络签名验证我搞不定。
+#LETV IOS(可过滤广告，无黑屏或卡在读秒现象），测试线路联通，IPHONE 4S
+127.0.0.1 api.mob.app.letv.com
+
+
+石像鬼 OP路由 加广告HOSTS脚本后 在DNSMASQ加这些规则 后爱奇艺 乐视 就没广告了address=/msga.cupid.iqiyi.com/127.0.0.1
+address=/msg.71.am/127.0.0.1
+address=/msg.iqiyi.com/127.0.0.1
+address=/ark.letv.com/127.0.0.1
+address=/g3.letv.com/127.0.0.1
+address=/api.mob.app.letv.com/127.0.0.1 
+
+删除youkuarea锝ip地址
+127.0.0.1 211.151.146.65
+127.0.0.1 211.157.171.237

@@ -1,5 +1,5 @@
 
-#version=201612252020
+#version=20161226 920
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -2573,9 +2573,7 @@
 127.0.0.1 ark.vmoters.com
 127.0.0.1 dc.letv-epg.wasu.tv
 127.0.0.1 dc.vmoters.com
-127.0.0.1 dev.dc.letv.com
 127.0.0.1 pv.ott.hd.sohu.com
-127.0.0.1 test.ark.letv.com
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net
@@ -2651,9 +2649,12 @@
 127.0.0.1 msg.video.qiyi.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 api.game.letvstore.com
+127.0.0.1 api.mob.app.letv.com
+127.0.0.1 dev.dc.letv.com
 127.0.0.1 msg.m.letv.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
+127.0.0.1 test.ark.letv.com
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 api.store.sohu.com
@@ -2675,6 +2676,7 @@
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 adp.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 c.yes.youku.com
@@ -2717,8 +2719,6 @@
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
-127.0.0.1 211.151.146.65
-127.0.0.1 211.157.171.237
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
@@ -3188,7 +3188,6 @@
 127.0.0.1 www.iiad.com
 127.0.0.1 js3987.yzh360.com
 127.0.0.1 wx.8536818.com
-127.0.0.1 hao.1235k.com
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 img.yy89ju.com
 127.0.0.1 img.cstoa.com
