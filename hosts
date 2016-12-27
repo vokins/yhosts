@@ -1,5 +1,5 @@
 
-#version=201612271733
+#version=201612271929
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -731,6 +731,7 @@
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
+127.0.0.1 temp.163.com
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 android.push.126.net
 127.0.0.1 img1.126.net
