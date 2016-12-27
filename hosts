@@ -1,5 +1,5 @@
 
-#version=201612262334
+#version=201612271733
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -3064,6 +3064,8 @@
 127.0.0.1 s.meimeidaren.com
 127.0.0.1 m.sdhzstone.net
 127.0.0.1 m.ucxxii.com
+127.0.0.1 m.detuns.com
+127.0.0.1 m.laikahotel.com
 127.0.0.1 ef363.263zw.com
 127.0.0.1 ef364.263zw.com
 127.0.0.1 ef365.263zw.com
@@ -3109,6 +3111,7 @@
 127.0.0.1 myjj.pyzkk.com
 127.0.0.1 bobo.xmwty.com
 127.0.0.1 hao.dian500.com
+127.0.0.1 miss.stn88.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 ucuc.baiducu.com
