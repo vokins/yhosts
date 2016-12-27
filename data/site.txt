@@ -235,7 +235,6 @@
 127.0.0.1 images.crsky.com
 #ctfile.com
 127.0.0.1 doubleclick.ctfile.com
-127.0.0.1 homestatic.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
 127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com

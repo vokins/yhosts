@@ -1,5 +1,5 @@
 
-#version=201612271929
+#version=201612271937
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
@@ -923,7 +923,6 @@
 127.0.0.1 dx.crsky.com
 127.0.0.1 images.crsky.com
 127.0.0.1 doubleclick.ctfile.com
-127.0.0.1 homestatic.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
 127.0.0.1 popup.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com
