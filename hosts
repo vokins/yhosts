@@ -1,5 +1,5 @@
 
-#version=201612292156
+#version=201612292333
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -1289,6 +1289,9 @@
 127.0.0.1 g3.letv.com
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
+127.0.0.1 cdn.zampdsp.com
+127.0.0.1 s.zampdsp.com
+127.0.0.1 www.zamplus.com
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 s.mini.kuaibo.com

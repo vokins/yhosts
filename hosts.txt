@@ -1579,6 +1579,9 @@
 127.0.0.1 g3.letv.com
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
+127.0.0.1 cdn.zampdsp.com
+127.0.0.1 s.zampdsp.com
+127.0.0.1 www.zamplus.com
 #mgtv.com
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
