@@ -3667,13 +3667,19 @@
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 199.nord-raum.com
 127.0.0.1 wuwho.cn
+127.0.0.1 268mob.cn
+127.0.0.1 js883.xingyeshangye.com
+127.0.0.1 www.268mob.cn
+127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 dj1229.zuodianshangmao.com
+127.0.0.1 pp.268mob.com
+127.0.0.1 s1.limeishang.com
 #btkitty.bid
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 h.ju33.com
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 s.ryre.cn
 127.0.0.1 s1.idaguang.com
-127.0.0.1 s1.limeishang.com
 127.0.0.1 stats.anreson.net
 127.0.0.1 t16119.bafuhotel.com
 127.0.0.1 t6.ljzwlj.com
