@@ -1,5 +1,5 @@
 
-#version=201612291504
+#version=201612291528
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -3990,3 +3990,6 @@
 127.0.0.1 zhidao.baidu.com.mjjdfl.com
 127.0.0.1 www.icdxc.com
 127.0.0.1 www.70lm.com
+127.0.0.1 edtp.shushu8.com
+127.0.0.1 edtz.shushu8.com
+127.0.0.1 ed.shushu8.com

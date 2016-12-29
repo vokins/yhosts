@@ -1287,3 +1287,7 @@
 127.0.0.1 zhidao.baidu.com.mjjdfl.com
 127.0.0.1 www.icdxc.com
 127.0.0.1 www.70lm.com
+#m.shushu8.com
+127.0.0.1 edtp.shushu8.com
+127.0.0.1 edtz.shushu8.com
+127.0.0.1 ed.shushu8.com
