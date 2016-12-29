@@ -1,7 +1,12 @@
 
-#version=201612291254
+#version=201612291451
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
+192.168.99.1 x.du
+192.168.99.1 newifi.com
+192.168.99.1 wi.fi
+192.168.99.1 ok.go
+192.168.99.1 xyun.co
 127.0.0.1 localhost
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
