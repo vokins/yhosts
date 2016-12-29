@@ -3523,6 +3523,11 @@
 127.0.0.1 s.taobaomayu.com
 127.0.0.1 www.keydot.net
 127.0.0.1 www.yanjiele8.club
+127.0.0.1 img1.trxxn.com
+127.0.0.1 img2.trxxn.com
+127.0.0.1 in.mgwcn.com
+127.0.0.1 material.juejdkio.com
+127.0.0.1 s.hxadt.com
 #www.tianyucangqiong1.com
 127.0.0.1 id1.anreson.net
 127.0.0.1 www.iiad.com
@@ -4206,7 +4211,6 @@
 127.0.0.1 s.80sjw.com
 127.0.0.1 mob.huimee.net
 127.0.0.1 img3.trxxn.com
-127.0.0.1 img2.trxxn.com
 #www.btmango.com
 127.0.0.1 souacode.com
 127.0.0.1 freespace.juchaojie.com
@@ -4233,7 +4237,6 @@
 #www.zhaifu.cc
 127.0.0.1 mob.coolnay.com
 127.0.0.1 b.cdnny.com
-127.0.0.1 wm.lrswl.com
 127.0.0.1 f.716120.com
 #btso.pw
 127.0.0.1 alxsite.com
@@ -4406,3 +4409,10 @@
 127.0.0.1 mm.ttlowe.com
 127.0.0.1 e.mingysh.com
 127.0.0.1 m.mingysh.com
+#m.33yq.com
+127.0.0.1 yyk.dalianbaojie.com
+127.0.0.1 dadi.c0563.com
+127.0.0.1 dlian.shimingxiyue.com
+127.0.0.1 m.fxfssl.com
+127.0.0.1 m.haiwengji.net
+127.0.0.1 sj.uukanshu.com
