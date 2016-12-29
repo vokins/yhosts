@@ -1,5 +1,5 @@
 
-#version=201612291535
+#version=201612291537
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -2084,6 +2084,8 @@
 127.0.0.1 gen.alicdn.com
 127.0.0.1 strip.alicdn.com
 127.0.0.1 promotion.aliyun.com
+127.0.0.1 zjs.cnzz.net
+127.0.0.1 z.cnzz.net
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com

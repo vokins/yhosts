@@ -296,6 +296,8 @@
 127.0.0.1 strip.alicdn.com
 127.0.0.1 promotion.aliyun.com
 #ali-cnzz
+127.0.0.1 zjs.cnzz.net
+127.0.0.1 z.cnzz.net
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
