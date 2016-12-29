@@ -1,5 +1,5 @@
 
-#version=201612291537
+#version=201612291619
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -3329,11 +3329,17 @@
 127.0.0.1 dj1229.zuodianshangmao.com
 127.0.0.1 pp.268mob.com
 127.0.0.1 s1.limeishang.com
+127.0.0.1 i.wowips.com
+127.0.0.1 j.coyie.com
+127.0.0.1 js.wka8.com
+127.0.0.1 s1.idaguang.com
+127.0.0.1 static-one.ffwap.com
+127.0.0.1 static-two.ffwap.com
+127.0.0.1 wgz.wgnlz.com
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 h.ju33.com
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 s.ryre.cn
-127.0.0.1 s1.idaguang.com
 127.0.0.1 stats.anreson.net
 127.0.0.1 t16119.bafuhotel.com
 127.0.0.1 t6.ljzwlj.com
@@ -3926,9 +3932,6 @@
 127.0.0.1 package01.com
 127.0.0.1 pf.h5game.cn
 127.0.0.1 s5.qhmsg.com
-127.0.0.1 static-one.ffwap.com
-127.0.0.1 static-two.ffwap.com
-127.0.0.1 wgz.wgnlz.com
 127.0.0.1 worldh5.gamehz.cn
 127.0.0.1 www.shouyoutan.com
 127.0.0.1 yjxzs.com
