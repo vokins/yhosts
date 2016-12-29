@@ -1923,6 +1923,10 @@
 127.0.0.1 data.adserve2.tomoimg.cn
 #www.enorth.com.cn
 127.0.0.1 eap.enorth.com.cn
+#www.mnw.cn
+127.0.0.1 g.mnw.cn
+127.0.0.1 sk.junshio.com
+127.0.0.1 www.skwo.net
 #xinhuanet.com
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 webd.home.news.cn

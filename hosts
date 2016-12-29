@@ -1,5 +1,5 @@
 
-#version=201612291619
+#version=201612292156
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -1567,6 +1567,9 @@
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 data.adserve2.tomoimg.cn
 127.0.0.1 eap.enorth.com.cn
+127.0.0.1 g.mnw.cn
+127.0.0.1 sk.junshio.com
+127.0.0.1 www.skwo.net
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 webd.home.news.cn
 127.0.0.1 www2.xinmin.cn
