@@ -318,6 +318,9 @@
 127.0.0.1 hzs2.cnzz.com
 127.0.0.1 hzs3.cnzz.com
 127.0.0.1 hzs5.cnzz.com
+127.0.0.1 s4.cnzz.com
+127.0.0.1 z11.cnzz.com
+127.0.0.1 cnzz.mmstat.com
 127.0.0.1 hzs7.cnzz.com
 127.0.0.1 q12.cnzz.com
 127.0.0.1 q14.cnzz.com
@@ -341,7 +344,6 @@
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s25.cnzz.com
 127.0.0.1 s38.cnzz.com
-127.0.0.1 s4.cnzz.com
 127.0.0.1 s5.cnzz.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 s62.cnzz.com
@@ -360,7 +362,6 @@
 127.0.0.1 v6.cnzz.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 z1.cnzz.com
-127.0.0.1 z11.cnzz.com
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
 127.0.0.1 z5.cnzz.com
@@ -376,7 +377,6 @@
 #ali-mm
 127.0.0.1 i.mmcdn.cn
 127.0.0.1 ac.mmstat.com
-127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 go.mmstat.com
 127.0.0.1 log.mmstat.com

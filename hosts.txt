@@ -2589,6 +2589,9 @@
 127.0.0.1 hzs2.cnzz.com
 127.0.0.1 hzs3.cnzz.com
 127.0.0.1 hzs5.cnzz.com
+127.0.0.1 s4.cnzz.com
+127.0.0.1 z11.cnzz.com
+127.0.0.1 cnzz.mmstat.com
 127.0.0.1 hzs7.cnzz.com
 127.0.0.1 q12.cnzz.com
 127.0.0.1 q14.cnzz.com
@@ -2612,7 +2615,6 @@
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s25.cnzz.com
 127.0.0.1 s38.cnzz.com
-127.0.0.1 s4.cnzz.com
 127.0.0.1 s5.cnzz.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 s62.cnzz.com
@@ -2631,7 +2633,6 @@
 127.0.0.1 v6.cnzz.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 z1.cnzz.com
-127.0.0.1 z11.cnzz.com
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
 127.0.0.1 z5.cnzz.com
@@ -2647,7 +2648,6 @@
 #ali-mm
 127.0.0.1 i.mmcdn.cn
 127.0.0.1 ac.mmstat.com
-127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 go.mmstat.com
 127.0.0.1 log.mmstat.com
@@ -4410,6 +4410,10 @@
 127.0.0.1 taob.bjjlcfw.com
 127.0.0.1 www.6kwan.com
 127.0.0.1 m.hfsteel.net
+127.0.0.1 dlian.shimingxiyue.com
+127.0.0.1 i.xyqsnc.com
+127.0.0.1 kpwzxz.cn
+127.0.0.1 m.fxfssl.com
 #m.daizhuzai.com
 127.0.0.1 titi.18tzx.com
 127.0.0.1 mm.ttlowe.com
@@ -4418,7 +4422,12 @@
 #m.33yq.com
 127.0.0.1 yyk.dalianbaojie.com
 127.0.0.1 dadi.c0563.com
-127.0.0.1 dlian.shimingxiyue.com
-127.0.0.1 m.fxfssl.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+#www.dysfz.net
+127.0.0.1 afesd.zjytyz.com
+127.0.0.1 img.ccxuanhang.com
+127.0.0.1 m1u1227.yyhlp.com
+127.0.0.1 zhidao.baidu.com.mjjdfl.com
+127.0.0.1 www.icdxc.com
+127.0.0.1 www.70lm.com

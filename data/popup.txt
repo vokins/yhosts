@@ -1266,6 +1266,10 @@
 127.0.0.1 taob.bjjlcfw.com
 127.0.0.1 www.6kwan.com
 127.0.0.1 m.hfsteel.net
+127.0.0.1 dlian.shimingxiyue.com
+127.0.0.1 i.xyqsnc.com
+127.0.0.1 kpwzxz.cn
+127.0.0.1 m.fxfssl.com
 #m.daizhuzai.com
 127.0.0.1 titi.18tzx.com
 127.0.0.1 mm.ttlowe.com
@@ -1274,7 +1278,12 @@
 #m.33yq.com
 127.0.0.1 yyk.dalianbaojie.com
 127.0.0.1 dadi.c0563.com
-127.0.0.1 dlian.shimingxiyue.com
-127.0.0.1 m.fxfssl.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+#www.dysfz.net
+127.0.0.1 afesd.zjytyz.com
+127.0.0.1 img.ccxuanhang.com
+127.0.0.1 m1u1227.yyhlp.com
+127.0.0.1 zhidao.baidu.com.mjjdfl.com
+127.0.0.1 www.icdxc.com
+127.0.0.1 www.70lm.com
