@@ -4469,6 +4469,8 @@
 127.0.0.1 m.jheva.com
 127.0.0.1 w.yunluge.com
 127.0.0.1 weixinssp.14684.com
+127.0.0.1 c1.yunluge.com
+127.0.0.1 c.jheva.com
 #www.santaihu.com
 127.0.0.1 c.xingjuhe.com
 127.0.0.1 dm.santaihu.net
