@@ -486,6 +486,7 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
+127.0.0.1 zz.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
@@ -497,6 +498,7 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
@@ -755,6 +757,14 @@
 127.0.0.1 ads.vamaker.com
 127.0.0.1 cm.vamaker.com
 127.0.0.1 cdn.vamaker.com
+#wumi
+127.0.0.1 app.wumii.com
+127.0.0.1 s.jimdo.com
+127.0.0.1 static.wumii.cn
+127.0.0.1 u.jimdo.com
+127.0.0.1 widget.wumii.cn
+127.0.0.1 wumii-cc.wumii.cn
+127.0.0.1 www.umiwi.com
 #xtgreat.com
 127.0.0.1 cc.xtgreat.com
 127.0.0.1 g.x.cn.xtgreat.com

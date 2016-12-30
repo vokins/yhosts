@@ -1,5 +1,5 @@
 
-#version=201612292333
+#version=201612302256
 #url=https://github.com/vokins/yhosts
 127.0.0.1 XiaoQiang
 192.168.99.1 x.du
@@ -1344,14 +1344,14 @@
 127.0.0.1 ins.pplive.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 ads.aplusapi.pptv.com
 127.0.0.1 as.aplus.pptv.com
+127.0.0.1 ads.aplusapi.pptv.com
 127.0.0.1 de.as.pptv.com
-127.0.0.1 jp.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 img1.g.pptv.com
 127.0.0.1 img2.g.pptv.com
 127.0.0.1 img3.g.pptv.com
+127.0.0.1 jp.as.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
@@ -2270,6 +2270,7 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
+127.0.0.1 zz.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
@@ -2281,6 +2282,7 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
@@ -2511,6 +2513,13 @@
 127.0.0.1 ads.vamaker.com
 127.0.0.1 cm.vamaker.com
 127.0.0.1 cdn.vamaker.com
+127.0.0.1 app.wumii.com
+127.0.0.1 s.jimdo.com
+127.0.0.1 static.wumii.cn
+127.0.0.1 u.jimdo.com
+127.0.0.1 widget.wumii.cn
+127.0.0.1 wumii-cc.wumii.cn
+127.0.0.1 www.umiwi.com
 127.0.0.1 cc.xtgreat.com
 127.0.0.1 g.x.cn.xtgreat.com
 127.0.0.1 js.xtgreat.com
@@ -4010,3 +4019,15 @@
 127.0.0.1 edtp.shushu8.com
 127.0.0.1 edtz.shushu8.com
 127.0.0.1 ed.shushu8.com
+127.0.0.1 h.jxhdzs365.com
+127.0.0.1 iospage.linghting.net
+127.0.0.1 m.jheva.com
+127.0.0.1 w.yunluge.com
+127.0.0.1 weixinssp.14684.com
+127.0.0.1 c.xingjuhe.com
+127.0.0.1 dm.santaihu.net
+127.0.0.1 j.santaihu.com
+127.0.0.1 js.santaihu.net
+127.0.0.1 s.media.xingjuhe.com
+127.0.0.1 dm.lexueyy.com
+127.0.0.1 js.lexueyy.com
