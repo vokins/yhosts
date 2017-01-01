@@ -4480,3 +4480,8 @@
 #www.ccnovel.com
 127.0.0.1 dm.lexueyy.com
 127.0.0.1 js.lexueyy.com
+##temporary.txt
+##视频网
+#gitv(爱奇异tv,tvbox) 
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+#

@@ -1,10 +1,5 @@
 ﻿##temporary.txt
 ##视频网
-
-
+#gitv(爱奇异tv,tvbox) 
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
 #
-##小说
-
-#
-##其他
-
