@@ -2,4 +2,13 @@
 ##视频网
 #gitv(爱奇异tv,tvbox) 
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
+#myhktv.com
+127.0.0.1 s.nxrhs.com
+127.0.0.1 in.nxrhs.com
+127.0.0.1 in.mxmrt.com
 #
+#@小说网
+#www.ltxsc.info
+127.0.0.1 m.shjk123.net
+127.0.0.1 pp.skatehot.net
+127.0.0.1 img.pdsywd.com
