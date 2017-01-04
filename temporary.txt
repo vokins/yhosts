@@ -12,3 +12,17 @@
 127.0.0.1 m.shjk123.net
 127.0.0.1 pp.skatehot.net
 127.0.0.1 img.pdsywd.com
+#m.qindouxs.co
+127.0.0.1 a.qindouxs.co
+127.0.0.1 b.qindouxs.co
+127.0.0.1 c.qindouxs.co
+#
+#@浏览器
+#Opera moble browser
+127.0.0.1 img-ad.oupeng.com
+127.0.0.1 opgirl-tmp.adbxb.cn
+#
+#@论坛
+#2chcn.com
+127.0.0.1 code1.2chcn.net
+127.0.0.1 search1.2chcn.net
