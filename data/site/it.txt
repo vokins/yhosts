@@ -1,0 +1,153 @@
+@site/it
+#admin5.com
+127.0.0.1 100.admin5.com
+#android.18183.com
+127.0.0.1 eezdx.erc.18183.com
+#anquan
+127.0.0.1 outer.anquan.org
+127.0.0.1 static.anquan.org
+#blueidea.com
+127.0.0.1 gg.blueidea.com
+#chinaso.com
+127.0.0.1 adq.chinaso.com
+127.0.0.1 stat.chinaso.com
+#chinaz.com
+127.0.0.1 stats.chinaz.com
+#cnbeta.com
+127.0.0.1 analytics.jiuzhilan.com
+127.0.0.1 app.jiuzhilan.com
+127.0.0.1 cdn.jiuzhilan.com
+127.0.0.1 img2.jiuzhilan.com
+127.0.0.1 jmonitor.jiuzhilan.com
+127.0.0.1 lp.jiuzhilan.com
+127.0.0.1 blb.winasdaq.com
+127.0.0.1 un.winasdaq.com
+#cnmo.com
+127.0.0.1 pic.cnmo-img.com.cn
+127.0.0.1 icon.cnmo.com
+127.0.0.1 js.cnmo.com
+127.0.0.1 stat.cnmo.com
+#csdn.net
+127.0.0.1 ad.csdn.net
+127.0.0.1 ads.csdn.net
+127.0.0.1 counter.csdn.net
+127.0.0.1 dc.csdn.net
+127.0.0.1 dc2.csdn.net
+127.0.0.1 img.ads.csdn.net
+#dedecms.com
+127.0.0.1 ad.dedecms.com
+127.0.0.1 stat.dedecms.com
+#enet.com.cn
+127.0.0.1 images.enet.com.cn
+127.0.0.1 frame.enet.com.cn
+127.0.0.1 pv.enet.com.cn
+127.0.0.1 www9.enet.com.cn
+#evolife.cn
+127.0.0.1 g.x.evolife.cn
+#feng.com
+127.0.0.1 yes1.feng.com
+127.0.0.1 cell.zhybzp.cn
+127.0.0.1 lynn.zgsemi.cn
+127.0.0.1 ss2.zsjuchang.cn
+#it168.com
+127.0.0.1 168.it168.com
+127.0.0.1 adshow.it168.com
+127.0.0.1 stat.it168.com
+127.0.0.1 m1268.oadz.com
+#mumayi.net
+127.0.0.1 js.mumayi.net
+#pchome
+127.0.0.1 js-1.pchome.net
+127.0.0.1 stat.pchome.net
+#pconline
+127.0.0.1 imgad0.3conline.com
+127.0.0.1 jwz.3conline.com
+127.0.0.1 ivy.pcauto.com.cn
+127.0.0.1 ivy.pcbaby.com.cn
+127.0.0.1 ivy.pclady.com.cn
+127.0.0.1 ivy.pconline.com.cn
+127.0.0.1 count5.pconline.com.cn
+127.0.0.1 count6.pconline.com.cn
+127.0.0.1 imgad0.pconline.com.cn
+127.0.0.1 m981.oadz.com
+#pcpop.com
+127.0.0.1 33.pcpop.com
+127.0.0.1 ashow.pcpop.com
+127.0.0.1 count.pcpop.com
+#rising
+127.0.0.1 all.rising.com.cn
+127.0.0.1 game.rising.cn
+127.0.0.1 wan.rising.cn
+#safedog.cn
+127.0.0.1 404.safedog.cn
+#yesky.com
+127.0.0.1 counter.yesky.com
+127.0.0.1 yeskyimedia.qtmojo.com
+127.0.0.1 media.tianjimedia.com
+#zdfans.com
+127.0.0.1 94776.zdfans.com
+#zdnet.com.cn
+127.0.0.1 am.zdnet.com.cn
+127.0.0.1 imp.zdnet.com.cn
+127.0.0.1 pv.zdnet.com.cn
+127.0.0.1 stat.zdnet.com.cn
+#zol.com.cn
+127.0.0.1 api.zol.com
+127.0.0.1 afp.zol-img.com.cn
+127.0.0.1 pic.zol-img.com.cn
+127.0.0.1 dynamic.zol.com.cn
+127.0.0.1 imp.zol.com.cn
+127.0.0.1 pv.zol.com.cn
+127.0.0.1 pvc.zol.com.cn
+127.0.0.1 pvm.zol.com.cn
+127.0.0.1 pvmsite.zol.com.cn
+127.0.0.1 pvsite.zol.com.cn
+127.0.0.1 stat.zol.com.cn
+127.0.0.1 ca.cbsi.com.cn
+127.0.0.1 data.cbsi.com.cn
+127.0.0.1 dmp.cbsi.com.cn
+127.0.0.1 dw.cbsi.com
+127.0.0.1 dw.cbsi.com.cn
+127.0.0.1 stat.cbsi.com.cn
+127.0.0.1 ca.w8.com.cn
+127.0.0.1 zdw.w8.com.cn
+@site/it-down
+#cr173.com
+127.0.0.1 cpro.cr173.com
+127.0.0.1 tj.tt1386.com
+#crsky.com
+127.0.0.1 count.crsky.com
+127.0.0.1 dx.crsky.com
+127.0.0.1 images.crsky.com
+#ctfile.com
+127.0.0.1 doubleclick.ctfile.com
+127.0.0.1 mydisplay.ctfile.com
+127.0.0.1 popup.jointreport-switch.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 lg2.jointreport-switch.com
+#fxxz.com
+127.0.0.1 show.tcth8.com
+127.0.0.1 count.612.com
+127.0.0.1 c5.97you.net
+#greenxf.com
+127.0.0.1 down.xiazai2.net
+#oyksoft.com
+127.0.0.1 a.oyksoft.com
+127.0.0.1 r.71sem.com
+127.0.0.1 img.i8xz.com
+#pc6.com
+127.0.0.1 tj.20hn.cn
+127.0.0.1 c2.97you.net
+127.0.0.1 cdn.b9377h.com
+127.0.0.1 news.b9377h.com
+127.0.0.1 cdn.ef9377.com
+127.0.0.1 cdn.a9377j.com
+#rayfile.com
+127.0.0.1 rayfilead.roxcdn.com
+#www.121down.com
+127.0.0.1 fe0s.nuion.cn
+#yxdown.com
+127.0.0.1 ads.yxdown.com
+127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 img.zhihei.com

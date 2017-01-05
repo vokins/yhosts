@@ -109,6 +109,7 @@
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 msg.c002.ottcn.com
 #iqiyi-paopao
 127.0.0.1 emoticon.sns.iqiyi.com

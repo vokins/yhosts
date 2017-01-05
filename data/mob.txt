@@ -307,6 +307,12 @@
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
+@mob/opera
+#Opera moble browser
+127.0.0.1 img-ad.oupeng.com
+127.0.0.1 c.bxb.oupeng.com
+127.0.0.1 r.bxb.oupeng.com
+127.0.0.1 opgirl-tmp.adbxb.cn
 @mob/apps
 #1mobile.com
 127.0.0.1 ads-banner.1mobile.com

@@ -11,6 +11,8 @@
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
+127.0.0.1 shouji.360.cn
+127.0.0.1 msoftdl.360.cn
 #down-baidu/anquan
 127.0.0.1 anquan.baidu.com
 127.0.0.1 antivirus.baidu.com
@@ -44,37 +46,23 @@
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 android.rqd.qq.com
-#cr173.com
-127.0.0.1 cpro.cr173.com
-127.0.0.1 tj.tt1386.com
-#fxxz.com
-127.0.0.1 show.tcth8.com
-127.0.0.1 count.612.com
-127.0.0.1 c5.97you.net
-#greenxf.com
-127.0.0.1 down.xiazai2.net
-#oyksoft.com
-127.0.0.1 a.oyksoft.com
-127.0.0.1 r.71sem.com
-127.0.0.1 img.i8xz.com
-#pc6.com
-127.0.0.1 tj.20hn.cn
-127.0.0.1 c2.97you.net
-127.0.0.1 cdn.b9377h.com
-127.0.0.1 news.b9377h.com
-127.0.0.1 cdn.ef9377.com
-127.0.0.1 cdn.a9377j.com
-#www.121down.com
-127.0.0.1 fe0s.nuion.cn
-#yxdown.com
-127.0.0.1 ads.yxdown.com
-127.0.0.1 gg.yxdown.com
-127.0.0.1 ggr.yxdown.com
-127.0.0.1 img.zhihei.com
-#down-ot
+@down/virus
+#dabaicai
+127.0.0.1 www.winbaicai.com
+127.0.0.1 down.winbaicai.com
+#diannaodian
+127.0.0.1 u.diannaodian.com
+127.0.0.1 down.diannaodian.com
+#laomaotao
+127.0.0.1 www.laomaotao.net
+127.0.0.1 down.laomaotao.net
+#down-virus
+127.0.0.1 www.ahhjyl.cn
+127.0.0.1 hk.jtsh123.com
+127.0.0.1 hao.tiandi.com
+127.0.0.1 hao916.com
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
-127.0.0.1 71yb1.oss-cn-beijing.aliyuncs.com
 127.0.0.1 98.4001075656.com
 127.0.0.1 a.7baike.com
 127.0.0.1 a.fhxcy.com

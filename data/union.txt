@@ -208,6 +208,7 @@
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 s.union.360.cn
 #360-qihoo
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
@@ -238,6 +239,7 @@
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
 127.0.0.1 count51.51yes.com
+127.0.0.1 count14.51yes.com
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
@@ -750,6 +752,11 @@
 127.0.0.1 cdnjs.touclick.com
 127.0.0.1 ver.touclick.com
 127.0.0.1 www.touclick.com
+#ujian
+127.0.0.1 api.ujian.cc
+127.0.0.1 img.ujian.cc
+127.0.0.1 v1.ujian.cc
+127.0.0.1 www.ujian.cc
 #usingde
 127.0.0.1 g.usingde.com
 127.0.0.1 pic.usingde.com
