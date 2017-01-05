@@ -1,6 +1,14 @@
 @soft
 #bitcomet.com
 127.0.0.1 inside.bitcomet.com
+#player.gomlab.com
+127.0.0.1 info.gomlab.com
+127.0.0.1 playinfo.gomlab.com
+127.0.0.1 promotion.gomlab.com
+#potplayer.daum.net
+127.0.0.1 adimg.daumcdn.net
+127.0.0.1 analytics.ad.daum.net
+127.0.0.1 display.ad.daum.net
 #qq-im.qq.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 pgdt.gtimg.cn

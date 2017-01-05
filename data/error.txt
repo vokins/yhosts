@@ -20,4 +20,3 @@
 127.0.0.1 tuku.jkys5.com
 127.0.0.1 img.jkys5.com
 127.0.0.1 www.jkys5.com
-@errorpage/game
