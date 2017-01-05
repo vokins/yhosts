@@ -218,6 +218,8 @@
 127.0.0.1 as.bjmama.net
 #xywy.com
 127.0.0.1 a.xywy.com
+127.0.0.1 bdmm.xywy.com
+127.0.0.1 bdmjs.xywy.com
 127.0.0.1 gg.xywy.com
 127.0.0.1 o.xywy.com
 127.0.0.1 page.xywy.com

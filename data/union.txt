@@ -488,6 +488,7 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
+127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
