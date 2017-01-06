@@ -58,6 +58,8 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+#jb51.net
+127.0.0.1 bdjs.jb51.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
 #pchome

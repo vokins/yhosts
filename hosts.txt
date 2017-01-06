@@ -814,14 +814,12 @@
 127.0.0.1 www.qchannel04.cn
 #toutiao
 127.0.0.1 ad.toutiao.com
-127.0.0.1 dsp.toutiao.com
+127.0.0.1 d.toutiao.com
 127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 s3.bytecdn.cn
-127.0.0.1 s3.pstatp.com
-127.0.0.1 nativeapp.toutiao.com
-127.0.0.1 ichannel.snssdk.com
-127.0.0.1 du.jd.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
 #halo
@@ -2025,6 +2023,8 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+#jb51.net
+127.0.0.1 bdjs.jb51.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
 #pchome
@@ -2143,6 +2143,7 @@
 #jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 du.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
@@ -3836,6 +3837,7 @@
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
 127.0.0.1 mipcache.bdstatic.com
+127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com

@@ -1139,6 +1139,8 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+#jb51.net
+127.0.0.1 bdjs.jb51.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
 #pchome
@@ -1257,6 +1259,7 @@
 #jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 du.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com

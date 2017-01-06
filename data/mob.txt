@@ -468,14 +468,12 @@
 127.0.0.1 www.qchannel04.cn
 #toutiao
 127.0.0.1 ad.toutiao.com
-127.0.0.1 dsp.toutiao.com
+127.0.0.1 d.toutiao.com
 127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 s3.bytecdn.cn
-127.0.0.1 s3.pstatp.com
-127.0.0.1 nativeapp.toutiao.com
-127.0.0.1 ichannel.snssdk.com
-127.0.0.1 du.jd.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
 #halo
