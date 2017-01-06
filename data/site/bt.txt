@@ -4,16 +4,11 @@
 127.0.0.1 img.xinzhongwo.com.cn
 127.0.0.1 m.xc0429.com
 127.0.0.1 t1.xc0429.com
-127.0.0.1 u.1133.cc
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
-127.0.0.1 bdimg.share.baidu.com
-127.0.0.1 c.top267.com
 127.0.0.1 njs.hcm94alliance.com
-127.0.0.1 njs.reliancevalve.com
 #btdigg.pw
 127.0.0.1 code.guomob.com
-127.0.0.1 js.yiwuds.com
 127.0.0.1 b99u.top
 127.0.0.1 s.glasszz.com
 127.0.0.1 js883.yzh360.com
@@ -48,16 +43,12 @@
 127.0.0.1 268mob.cn
 127.0.0.1 js883.xingyeshangye.com
 127.0.0.1 www.268mob.cn
-127.0.0.1 alm1.tongyuanhejishu.com
 127.0.0.1 dj1229.zuodianshangmao.com
 127.0.0.1 pp.268mob.com
-127.0.0.1 s1.limeishang.com
 127.0.0.1 i.wowips.com
 127.0.0.1 j.coyie.com
 127.0.0.1 js.wka8.com
-127.0.0.1 s1.idaguang.com
 127.0.0.1 static-one.ffwap.com
-127.0.0.1 static-two.ffwap.com
 127.0.0.1 wgz.wgnlz.com
 #btkitty.bid/btlibrary.net/storebt.com
 127.0.0.1 cloud.zyiis.net
@@ -81,7 +72,6 @@
 127.0.0.1 s.khgj.cn
 127.0.0.1 cpv.czpush.com
 127.0.0.1 static.2.chenggao.cn
-127.0.0.1 js.lyrymy.com
 127.0.0.1 js3555.tiangu99.com
 127.0.0.1 js883.yijia2009.com
 127.0.0.1 p1.3d-dyj.cn
@@ -117,12 +107,10 @@
 127.0.0.1 t3.51maiwanju.com
 127.0.0.1 t6.51maiwanju.com
 127.0.0.1 tjf.lyhuayun.com
-127.0.0.1 u034024.nr1234.com
 127.0.0.1 www.5293.com
 127.0.0.1 www.liangao.com
 127.0.0.1 xk.xk2012.com
 127.0.0.1 yoo.yiiyoo.net
-127.0.0.1 j.mainbx.com
 #diggbt.net
 127.0.0.1 bb.jw90.com
 127.0.0.1 down.gotek.com.cn
@@ -149,12 +137,10 @@
 127.0.0.1 s1.0594003.com
 127.0.0.1 s2.0594003.com
 127.0.0.1 tj.yule8.net
-127.0.0.1 vip.id528.com
 #icili.org
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
 127.0.0.1 js.578965.com
-127.0.0.1 rjs.niuxgame77.com
 127.0.0.1 v.hr41.cn
 127.0.0.1 img2.578965.com
 127.0.0.1 t.pingzei.com
@@ -196,7 +182,6 @@
 127.0.0.1 80s.qucaigg.com
 127.0.0.1 img.ytlm.cn
 127.0.0.1 m1.xcy8.com
-127.0.0.1 u.xcy8.com
 127.0.0.1 www.ads8.com
 127.0.0.1 yeyou.3393.com
 127.0.0.1 4.4001075656.com
@@ -206,7 +191,6 @@
 127.0.0.1 u5.8ox.cn
 127.0.0.1 d2.maohetrade.com
 127.0.0.1 js916.lishuanghao.com
-127.0.0.1 cpc.88rpg.net
 127.0.0.1 f.e719.net
 127.0.0.1 cpc.haohaowan8.com
 127.0.0.1 66.8ox.cn
@@ -252,7 +236,6 @@
 127.0.0.1 media.zgc66.com
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 news.poxi5.com
-127.0.0.1 g.ousns.net
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 www.lx167.com
 127.0.0.1 s.baidu7653.com
@@ -281,7 +264,6 @@
 127.0.0.1 m9.xcdf.cn
 127.0.0.1 c1.xcy8.com
 127.0.0.1 m9.xcy8.com
-127.0.0.1 js.qixing777.com
 127.0.0.1 link.jiduan.cc
 127.0.0.1 gm682.com
 127.0.0.1 ffwap.com
@@ -298,12 +280,7 @@
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
 #www.btmango.com
-127.0.0.1 vip.hys4.com
-127.0.0.1 www.iiad.com
 127.0.0.1 www.soua.com
-127.0.0.1 s.hnruisi.com
-127.0.0.1 s.sinbadacn.com
-127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 j.sc1369.com
 127.0.0.1 js658.51weidashi.com
@@ -313,12 +290,7 @@
 127.0.0.1 freespace.juchaojie.com
 #www.bturls.net
 127.0.0.1 js993.dugbvb.com
-127.0.0.1 media.jointreport-switch.com
-127.0.0.1 popup.jointreport-switch.com
-127.0.0.1 app.nterbx.com
 127.0.0.1 cacaca.wgnlz.com
-127.0.0.1 ffre.ffrepair.com
-127.0.0.1 t.cnsjx.net
 127.0.0.1 pic183025.images9999.com
 127.0.0.1 la.gydag.com
 127.0.0.1 img2.hrccb.com

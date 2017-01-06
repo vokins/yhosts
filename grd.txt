@@ -126,6 +126,7 @@
 157.240.0.17 api.facebook.com
 157.240.0.17 secure.facebook.com
 157.240.0.17 zh-cn.facebook.com
+157.240.0.17 l.facebook.com
 157.240.0.17 login.facebook.com
 157.240.0.17 attachments.facebook.com
 157.240.0.17 touch.facebook.com

@@ -6,7 +6,6 @@
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 rs.haohaowan8.com
 127.0.0.1 www.37cs.com
-127.0.0.1 rwq.youle55.com
 #m.80s.tw
 127.0.0.1 qd.80s.tw
 127.0.0.1 jake.80s.tw
@@ -14,21 +13,16 @@
 127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
-127.0.0.1 c.top267.com
 127.0.0.1 c8.top267.com
 127.0.0.1 ias816.ujikdd041o.cn
-127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 js.133u.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
 #m.dianying.fr
-127.0.0.1 35baba.cn
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 clk.umelly.com
 127.0.0.1 static.tv508.com
-127.0.0.1 ujs.27admin.com
 127.0.0.1 www.duocpa1.cn
 127.0.0.1 www.nvshenfan.com
-127.0.0.1 njs.reliancevalve.com
 127.0.0.1 w.3big.net
 127.0.0.1 scimg.27admin.com
 #m.dydh.tv
@@ -43,23 +37,18 @@
 127.0.0.1 a.baiy.net
 127.0.0.1 b.baiy.net
 127.0.0.1 5zkj.com
-127.0.0.1 js.qixing777.com
 127.0.0.1 m.77vcd.com
 127.0.0.1 q.ox11.com
-127.0.0.1 ss.cywl5.com
 #m.xunbo14.com
 127.0.0.1 wwe.xiankandy.com
 #www.181bt.com
 127.0.0.1 c.jk2h.com
 127.0.0.1 p.imigame.com
 #www.5zdm.com
-127.0.0.1 al.nkcz8.com
 127.0.0.1 pic.hkivs.cn
-127.0.0.1 w.yinyuehu.cn
 127.0.0.1 w3.yinyuehu.cn
 127.0.0.1 image.vlook.cn
 #www.66yc.cc
-127.0.0.1 vip.jisucn.com
 127.0.0.1 js1194.cnbole.net
 127.0.0.1 tg.qzqywh.com
 #www.bd-film.com
@@ -67,7 +56,6 @@
 #www.dy2018.com
 127.0.0.1 img.gaore.com
 #www.dysfz.net
-127.0.0.1 vip.media8.cn
 127.0.0.1 www.70lm.com
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 img.ccxuanhang.com
@@ -81,9 +69,6 @@
 127.0.0.1 dl.37wan.cn
 127.0.0.1 www.lessplay.com
 #www.myhktv.com
-127.0.0.1 s.nxrhs.com
-127.0.0.1 mob.huimee.net
-127.0.0.1 in.nxrhs.com
 127.0.0.1 www.100fenlm.com
 127.0.0.1 in.mxmrt.com
 127.0.0.1 s.010xk.com
@@ -96,7 +81,6 @@
 127.0.0.1 sv719.dreamdays.cn
 127.0.0.1 w.werpig.com
 127.0.0.1 cks.gongyituan.cn
-127.0.0.1 di.xalongli.cn
 127.0.0.1 hfkro.zhenghd.cn
 127.0.0.1 t.uvcourse.net
 127.0.0.1 www.17un.com
@@ -104,10 +88,7 @@
 127.0.0.1 down.bossbas.com
 #www.wawatv.cc
 127.0.0.1 e.e7001.com
-127.0.0.1 q.0451106.com
 127.0.0.1 s.0594529.com
-127.0.0.1 v.e7002.com
-127.0.0.1 vip.id528.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 down.by8974.com
@@ -147,4 +128,3 @@
 127.0.0.1 js3743.yongkang6.com
 #www.zimuzu.tv
 127.0.0.1 www.schborg.com
-127.0.0.1 g.ousns.net

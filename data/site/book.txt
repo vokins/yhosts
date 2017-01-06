@@ -1,4 +1,4 @@
-@popup/books-apps
+@site/books-apps
 #book.easou.com
 127.0.0.1 adm.easou.com
 127.0.0.1 assets.easou.com
@@ -49,10 +49,8 @@
 127.0.0.1 ef366.263zw.com
 127.0.0.1 e.saferwet.com
 127.0.0.1 m.saferwet.com
-127.0.0.1 dlian.shimingxiyue.com
 127.0.0.1 e.yxbag.net
 127.0.0.1 m.yxbag.net
-127.0.0.1 taob.bjjlcfw.com
 127.0.0.1 s1.sxxjdz.com
 127.0.0.1 c.nongsalei.com
 127.0.0.1 sc.bypbwm.cn
@@ -92,8 +90,6 @@
 127.0.0.1 www.zhzywl.cc
 #m.bookben.com
 127.0.0.1 dt.bookben.com
-127.0.0.1 in.nxrhs.com
-127.0.0.1 s.nxrhs.com
 127.0.0.1 s.xnjpg.com
 127.0.0.1 uu.85655095.com
 127.0.0.1 fx.worldqueen.org.cn
@@ -107,20 +103,16 @@
 127.0.0.1 hotav05.szjtcg.com
 127.0.0.1 c.msltzer.cn
 127.0.0.1 www.ailicee.com
-127.0.0.1 ss.cywl5.com
 #m.booktxt.net
 127.0.0.1 e.lanxiangji.com
-127.0.0.1 fen.dkdlsj.com
 127.0.0.1 gog9.qzdfc.com
 127.0.0.1 m.lanxiangji.com
-127.0.0.1 sou.dkdlsj.com
 127.0.0.1 yang.93manhua.com
 127.0.0.1 e.pubbirdf.com
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
 #m.daizhuzai.com
-127.0.0.1 e.wikigifth.com
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 titi.18tzx.com
 127.0.0.1 mm.ttlowe.com
@@ -137,15 +129,11 @@
 127.0.0.1 img.qun89.com
 127.0.0.1 www.nbjjd.com
 #m.lanseshuba.com
-127.0.0.1 njs.reliancevalve.com
-127.0.0.1 s.sinbadacn.com
 127.0.0.1 js.csxjys.com
-127.0.0.1 s.hnruisi.com
 #m.nenzei.net
 127.0.0.1 e.huashengtai.net
 127.0.0.1 m.huashengtai.net
 127.0.0.1 u.luxinkm.com
-127.0.0.1 js.yiwuds.com
 127.0.0.1 s.xiaobiaoucai.cn
 127.0.0.1 news.s9377.com
 127.0.0.1 img.tkguolugs.com
@@ -185,7 +173,6 @@
 127.0.0.1 hao.dian500.com
 127.0.0.1 miss.stn88.com
 #m.shenmaxiaoshuo.com
-127.0.0.1 rc.nxrhs.com
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 rc.123juhd.com
 127.0.0.1 cp.5jjx.net
@@ -207,24 +194,18 @@
 127.0.0.1 j.jqbee.com
 #m.shuotxts.com
 127.0.0.1 t.shuotxts.com
-127.0.0.1 s.wyttech.cn
-127.0.0.1 vip.jisucn.com
 127.0.0.1 c3.gostats.cn
 #m.shushu8.com
 127.0.0.1 edtp.shushu8.com
 127.0.0.1 edtz.shushu8.com
 127.0.0.1 ed.shushu8.com
 127.0.0.1 m.gdyyyg.net
-127.0.0.1 sa.xalongli.cn
-127.0.0.1 sas816.ujikdd041o.cn
 #m.sodu520.net
 127.0.0.1 img.hzkcbs.com
-127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
 #m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 #m.xs177.com
-127.0.0.1 w.yinyuehu.cn
 127.0.0.1 b.nxrhs.com
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn
@@ -239,9 +220,6 @@
 127.0.0.1 c.mytzdhz.cn
 127.0.0.1 widnd.dajiadou6.com
 #www.00sy.com
-127.0.0.1 u.xcy8.com
-127.0.0.1 u034024.nr1234.com
-127.0.0.1 u.1133.cc
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.day66.com
 #www.d8qu.com
@@ -255,18 +233,14 @@
 127.0.0.1 vip.5leji.com
 127.0.0.1 vip.9wjc.com
 127.0.0.1 s.polkoi.com
-127.0.0.1 t.cnsjx.net
 127.0.0.1 wwwimg.86sjx.com
 127.0.0.1 material.jusha.com
 #www.danmei123.cc
 127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 qb.xindream.cn
-127.0.0.1 m.51geqiang.net
-127.0.0.1 m.snow001.com
 127.0.0.1 jiu.njdkgm.com
 127.0.0.1 tf.caohua.com
 127.0.0.1 mm.bbrpg.cn
-127.0.0.1 c1.keyrun.cn
 127.0.0.1 h.kfxyyy.com
 127.0.0.1 txt.dongyihongbei.com
 127.0.0.1 v.meiti1.net
@@ -323,13 +297,8 @@
 127.0.0.1 in.mgwcn.com
 127.0.0.1 material.juejdkio.com
 #www.tianyucangqiong1.com
-127.0.0.1 alm1.tongyuanhejishu.com
 127.0.0.1 js3987.vdhufs.com
-127.0.0.1 s1.idaguang.com
-127.0.0.1 s1.limeishang.com
-127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 id1.anreson.net
-127.0.0.1 www.iiad.com
 127.0.0.1 js3987.yzh360.com
 127.0.0.1 wx.8536818.com
 127.0.0.1 apisoft.df0535.com

@@ -183,6 +183,60 @@
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
 @web-cn/common
+#163
+127.0.0.1 adgeo.163.com
+127.0.0.1 iad.g.163.com
+127.0.0.1 crashlytics.163.com
+127.0.0.1 count.mail.163.com
+127.0.0.1 r.mail.163.com
+127.0.0.1 ir.mail.163.com
+127.0.0.1 irpmt.mail.163.com
+127.0.0.1 rec.g.163.com
+127.0.0.1 g.163.com
+127.0.0.1 g1.163.com
+127.0.0.1 temp.163.com
+#163-12x
+127.0.0.1 analytics.ws.126.net
+127.0.0.1 android.push.126.net
+127.0.0.1 img1.126.net
+127.0.0.1 img2.126.net
+127.0.0.1 m.analytics.126.net
+127.0.0.1 mimg.126.net
+127.0.0.1 news.push.126.net
+127.0.0.1 b.bst.126.net
+127.0.0.1 haitaoad.nosdn.127.net
+#163-netease
+127.0.0.1 statis.push.netease.com
+127.0.0.1 wr.da.netease.com
+127.0.0.1 pr.da.netease.com
+#163-youdao
+127.0.0.1 a.youdao.com
+127.0.0.1 b.clkservice.youdao.com
+127.0.0.1 clkservice.youdao.com
+127.0.0.1 conv.youdao.com
+127.0.0.1 d.clkservice.youdao.com
+127.0.0.1 dsp-impr2.youdao.com
+127.0.0.1 gorgon.youdao.com
+127.0.0.1 i.clkservice.youdao.com
+127.0.0.1 impservice-test.dictapp.youdao.com
+127.0.0.1 impservice.chnl.youdao.com
+127.0.0.1 impservice.dict.youdao.com
+127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 impservice.dictvista.youdao.com
+127.0.0.1 impservice.dictweb.youdao.com
+127.0.0.1 impservice.dictword.youdao.com
+127.0.0.1 impservice.mail.youdao.com
+127.0.0.1 impservice.union.youdao.com
+127.0.0.1 impservice2.youdao.com
+127.0.0.1 m.clkservice.youdao.com
+127.0.0.1 nc004x.corp.youdao.com
+127.0.0.1 nc045x.corp.youdao.com
+127.0.0.1 p.clkservice.youdao.com
+127.0.0.1 qt002x.corp.youdao.com
+127.0.0.1 tb060x.corp.youdao.com
+127.0.0.1 tb104x.corp.youdao.com
+127.0.0.1 ydpushserver.youdao.com
+127.0.0.1 mini.eastday.com
 #2345
 127.0.0.1 imgwx3.2345.com
 127.0.0.1 app.50bang.org
@@ -411,19 +465,21 @@
 127.0.0.1 w.m.taobao.com
 #ali-taobao
 127.0.0.1 adash.m.taobao.com
+127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 ai.taobao.com
 127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 click.aliyun.com
 127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 re.taobao.com
+127.0.0.1 simba.m.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
+127.0.0.1 click.aliyun.com
 #ali-umeng
 127.0.0.1 au.umeng.co
 127.0.0.1 alog.umeng.co
@@ -548,6 +604,56 @@
 127.0.0.1 api7.tuisong.baidu.com
 127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 api9.tuisong.baidu.com
+#baidu-old
+127.0.0.1 a.baidu.com
+127.0.0.1 bdplus.baidu.com
+127.0.0.1 btlaunch.baidu.com
+127.0.0.1 c.baidu.com
+127.0.0.1 cb.baidu.com
+127.0.0.1 charge.adapp.baidu.com
+127.0.0.1 dxp.baidu.com
+127.0.0.1 hdj.baidu.com
+127.0.0.1 hmma.baidu.com
+127.0.0.1 imageplus.baidu.com
+127.0.0.1 inside.baidu.com
+127.0.0.1 kstj.baidu.com
+127.0.0.1 mobads-logs.baidu.com
+127.0.0.1 mobads-speed.baidu.com
+127.0.0.1 mobads.baidu.com
+127.0.0.1 mssp.baidu.com
+127.0.0.1 nlog.baidu.com
+127.0.0.1 openrcv.baidu.com
+127.0.0.1 rp.baidu.com
+127.0.0.1 testwn.baidu.com
+127.0.0.1 tipsdk.baidu.com
+127.0.0.1 unstat.baidu.com
+#baidu/music
+127.0.0.1 log.music.baidu.com
+127.0.0.1 pups.baidu.com
+127.0.0.1 ttmsg.qianqian.com
+127.0.0.1 ttpack.qianqian.com
+127.0.0.1 ttplayer.qianqian.com
+#baidu/player
+127.0.0.1 ad.player.baidu.com
+#baidu/tieba
+127.0.0.1 static.pay.baidu.com
+127.0.0.1 img.taotaosou.cn
+127.0.0.1 img01.taotaosou.cn
+#baidu/tuisong
+127.0.0.1 release.baidu.com
+127.0.0.1 sa1.tuisong.baidu.com
+#baidu/video
+127.0.0.1 nsclickvideo.baidu.com
+127.0.0.1 sestat.baidu.com
+127.0.0.1 stat.v.baidu.com
+127.0.0.1 videopush.baidu.com
+127.0.0.1 wisepush.video.baidu.com
+#baidu-zhidao
+127.0.0.1 stat.zhidahao.baidu.com
+127.0.0.1 tongji.zhidao.baidu.com
+#baidu-soft/91
+127.0.0.1 adsearch.appx.91.com
+127.0.0.1 appx.91.com
 #baidu-duapps.com
 127.0.0.1 duapps.com
 127.0.0.1 ad.duapps.com
@@ -692,6 +798,12 @@
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
+127.0.0.1 mini2015.qq.com
+127.0.0.1 ta.qq.com
+127.0.0.1 w.l.qq.com
+127.0.0.1 lb.gtimg.com
+127.0.0.1 tui.gtimg.com
+127.0.0.1 wb.gtimg.com
 #qtmojo
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -709,17 +821,81 @@
 #sina
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 sina.wrating.com
+#sina.cn
+127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sax.sina.cn
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 slog.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
+#sina.com.cn
+127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 d00.sina.com.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 d9.sina.com.cn
+127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.amp.ad.sina.com.cn
+127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.mix.sina.com.cn
+127.0.0.1 m.beacon.sina.com.cn
+127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 motu.p4p.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
+127.0.0.1 rm.sina.com.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 slog.sina.com.cn
+127.0.0.1 staticadm.leju.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
 #sina.com.hk
 127.0.0.1 cdn.innity.net
 127.0.0.1 cast.innity.com
 127.0.0.1 avn.innity.com
 127.0.0.1 cdn.media.innity.net
 127.0.0.1 ssl-cdn.media.innity.net
+#sina-icast
+127.0.0.1 cast.ra.icast.cn
+127.0.0.1 rack.ra.icast.cn
+127.0.0.1 res.icast.cn
+127.0.0.1 rmtx.ra.icast.cn
+127.0.0.1 track.ra.icast.cn
+#sina-weibo
+127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 biz.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 zymo.mps.weibo.com
+127.0.0.1 game.weibo.cn
+127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 m.game.weibo.cn
+127.0.0.1 promote.biz.weibo.cn
 #sina-igexin
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com
 127.0.0.1 sdk.open.phone.igexin.com
+#m.iask.sina.com.cn
+127.0.0.1 dd.iask.cn
+127.0.0.1 dd.iaskgo.com
+127.0.0.1 whn.star-media.cn
+127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 #sohu
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adnet.sohu.com

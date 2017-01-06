@@ -1,4 +1,4 @@
-ver=上午 9:25 2016/11/9 星期三
+ver=14:02 2017/1/6/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -43,9 +43,9 @@ goto :eof
 @cd..
 @SET win=%cd%\win
 @cd %CURRENTDIR%
-set files=1os.txt direct.txt active.txt down.txt error.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt xunlei.txt popup.txt
+set files=1os.txt direct.txt active.txt down.txt error.txt hijack.txt mob.txt site.txt soft.txt union.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=1os.txt direct.txt active.txt down.txt error.txt virus.txt hijack.txt ios.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt popup.txt
+set files=1os.txt direct.txt active.txt down.txt error.txt hijack.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt

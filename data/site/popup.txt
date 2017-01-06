@@ -1,4 +1,4 @@
-@popup/web
+@site/popup
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 pop.code.poyang.cn
 127.0.0.1 js1210.lishuanghao.com
@@ -65,7 +65,6 @@
 127.0.0.1 c.ns8d.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 e.lndjj.com
-127.0.0.1 fengche.cpv6.com
 127.0.0.1 js.a3p4.net
 127.0.0.1 t.iz55.com
 127.0.0.1 t.ju33.com
@@ -180,112 +179,58 @@
 127.0.0.1 vip.jixian360.com
 127.0.0.1 img.qiyou.com
 127.0.0.1 s.00oo00.com
-
-@popup/movie
-#wx.xh115.com
-127.0.0.1 s.lansha365.com
-127.0.0.1 s.sxytx.cn
-#m.xxshipin.com
-127.0.0.1 img.ajapk.com
-127.0.0.1 mvip.zhuba8.com
-127.0.0.1 r.5207470.com
-127.0.0.1 z2.19950501.com
-127.0.0.1 tj.51ads.com
-127.0.0.1 www.51ads.com
-127.0.0.1 img.qj.media8.cn
-127.0.0.1 vip2.7huoguo.com
-127.0.0.1 vip6.7huoguo.com
-127.0.0.1 imgcdn.de92.com
-127.0.0.1 526dimg.uunice.com
-127.0.0.1 526d.uunice.com
-127.0.0.1 static-alias-1.360buyimg.com
-@popup/others
-#m.panduoduo.net
-127.0.0.1 s.szfaq.com
-127.0.0.1 s.bccyyc.com
-127.0.0.1 s.cooolyi.cn
-#m.vccoo.com
-127.0.0.1 script.vccoo.com
-127.0.0.1 stat.vccoo.com
-127.0.0.1 u.qoxyo.cn
-127.0.0.1 static.wauee.com
-127.0.0.1 cdn1.res.uzham.com
-#www.xchssm.com
+127.0.0.1 dlian.shimingxiyue.com
+127.0.0.1 taob.bjjlcfw.com
+127.0.0.1 in.nxrhs.com
+127.0.0.1 s.nxrhs.com
+127.0.0.1 ss.cywl5.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 sou.dkdlsj.com
+127.0.0.1 e.wikigifth.com
+127.0.0.1 njs.reliancevalve.com
+127.0.0.1 s.sinbadacn.com
+127.0.0.1 s.hnruisi.com
+127.0.0.1 js.yiwuds.com
+127.0.0.1 rc.nxrhs.com
+127.0.0.1 s.wyttech.cn
+127.0.0.1 vip.jisucn.com
+127.0.0.1 sa.xalongli.cn
+127.0.0.1 sas816.ujikdd041o.cn
+127.0.0.1 js.hzkcbs.com
+127.0.0.1 w.yinyuehu.cn
+127.0.0.1 u.xcy8.com
+127.0.0.1 u034024.nr1234.com
+127.0.0.1 u.1133.cc
+127.0.0.1 t.cnsjx.net
+127.0.0.1 m.51geqiang.net
+127.0.0.1 m.snow001.com
+127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 s1.idaguang.com
+127.0.0.1 s1.limeishang.com
+127.0.0.1 zs0105.zuodianshangmao.com
+127.0.0.1 www.iiad.com
+127.0.0.1 c.top267.com
+127.0.0.1 static-two.ffwap.com
+127.0.0.1 js.lyrymy.com
 127.0.0.1 j.mainbx.com
-127.0.0.1 js4775.tiangu99.com
-127.0.0.1 adimg.bbcss.com
-127.0.0.1 c1.sxxjdz.com
-127.0.0.1 e.dzairen.com
-127.0.0.1 g.chinapxg.com
-127.0.0.1 img.xinjunshi.com
-127.0.0.1 js4775.hongtaidichan.net
-127.0.0.1 k.zrwhcy.com
-127.0.0.1 p.chinapxg.com
-127.0.0.1 www.86kx.com
-127.0.0.1 a.stka8.com
-127.0.0.1 a.wlmnt.com
-127.0.0.1 rc.376zf.com
-#m.hao76.com
-127.0.0.1 ioa.hdkrs.com
-#m.shouji56.com
-127.0.0.1 ujake.shouji56.com
-#www.diyiapp.com
-127.0.0.1 yn.xsu.cc
-127.0.0.1 jsqcdn1124.0101122.com
-127.0.0.1 u291014.pr00001.com
-127.0.0.1 s.jzv1.com
-127.0.0.1 ss.shuajuzu.com
-127.0.0.1 fsjsp.com
-127.0.0.1 fz863.com
-127.0.0.1 js.ychun03.com
-127.0.0.1 lz.ychun03.com
-127.0.0.1 m.anzhuotan.com
-127.0.0.1 package01.com
-127.0.0.1 pf.h5game.cn
-127.0.0.1 s5.qhmsg.com
-127.0.0.1 worldh5.gamehz.cn
-127.0.0.1 www.shouyoutan.com
-127.0.0.1 yjxzs.com
-127.0.0.1 zgty365.com
-127.0.0.1 p.skimresources.com
-127.0.0.1 img.tz00008.cn
-127.0.0.1 b.9dreams.net
-127.0.0.1 tu.bpmask.com
-#m.gushiwen.org
-127.0.0.1 bai3.gushiwen.org
-#m.cidianwang.com
-127.0.0.1 cr.wowxt.com
-127.0.0.1 vr.mt145.com
-127.0.0.1 zzad.com
-127.0.0.1 s.shaxiq.com
-127.0.0.1 stat.ff.zmres.com
-127.0.0.1 request.zzad.com
-127.0.0.1 zjs.zzad.com
-127.0.0.1 zz.cc.zzad.com
-127.0.0.1 fghm.ga25.com
-127.0.0.1 fghmc.ga25.com
-127.0.0.1 fghmimg.ga25.com
-#m.muzisoft.com
-127.0.0.1 d.ltss8.com
-127.0.0.1 down.qiqi.cc
-127.0.0.1 s.69duk.com
-127.0.0.1 d7.muzisoft.com
-127.0.0.1 d8.muzisoft.com
-127.0.0.1 d9.muzisoft.com
-#m.3y.uu456.com
-127.0.0.1 wapad11.btdcw.com
-127.0.0.1 wapad12.btdcw.com
-#www.santaihu.com
-127.0.0.1 c.xingjuhe.com
-127.0.0.1 dm.santaihu.net
-127.0.0.1 j.santaihu.com
-127.0.0.1 js.santaihu.net
-127.0.0.1 s.media.xingjuhe.com
-#www.ccnovel.com
-127.0.0.1 dm.lexueyy.com
-127.0.0.1 js.lexueyy.com
-127.0.0.1 aec.woutyo.info
-#m.7791.com.cn
-127.0.0.1 cpro.7791.com.cn
-127.0.0.1 mimg.7791.com.cn
-127.0.0.1 imgcdn.mazaibang.com
+127.0.0.1 vip.id528.com
+127.0.0.1 cpc.88rpg.net
+127.0.0.1 g.ousns.net
+127.0.0.1 js.qixing777.com
+127.0.0.1 vip.hys4.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 popup.jointreport-switch.com
+127.0.0.1 app.nterbx.com
+127.0.0.1 ffre.ffrepair.com
+127.0.0.1 v.e7002.com
+127.0.0.1 js.kqy1.com
+127.0.0.1 ujs.27admin.com
+127.0.0.1 al.nkcz8.com
+127.0.0.1 35baba.cn
+127.0.0.1 cdn1.res.uzham.com
+127.0.0.1 di.xalongli.cn
+127.0.0.1 images.xibei70.com
+127.0.0.1 r.5207470.com
+127.0.0.1 mob.huimee.net
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 q.0451106.com

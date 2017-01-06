@@ -1,0 +1,146 @@
+@site/life-buy
+#12306
+127.0.0.1 ad.12306.cn
+#egou.com
+127.0.0.1 ad.egou.com
+#dangdang
+127.0.0.1 a.dangdang.com
+127.0.0.1 click.dangdang.com
+127.0.0.1 schprompt.dangdang.com
+127.0.0.1 t.dangdang.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 bdsp.x.jd.com
+127.0.0.1 im-x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
+#vip.com
+127.0.0.1 ms.vipstatic.com
+127.0.0.1 api.union.vip.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+127.0.0.1 trade.koudaitong.com
+@site/life-fashion
+#haibao.cn
+127.0.0.1 hats.haibao.cn
+#laonanren.com
+127.0.0.1 ac.laonanren.com
+#onlylady.com
+127.0.0.1 btn.onlylady.com
+127.0.0.1 olpv.onlylady.com
+127.0.0.1 olpvimg.onlylady.com
+127.0.0.1 olstats.onlylady.com
+#www.xchssm.com
+127.0.0.1 js4775.tiangu99.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
+127.0.0.1 a.stka8.com
+127.0.0.1 a.wlmnt.com
+127.0.0.1 rc.376zf.com
+#yoka.com
+127.0.0.1 adcount.yoka.com
+127.0.0.1 yokaimedia.qtmojo.com
+@site/life-health
+#120ask.com
+127.0.0.1 ax.120ask.com
+127.0.0.1 bdjs.120askimages.com
+127.0.0.1 eclick.120ask.com
+127.0.0.1 log.120ask.com
+127.0.0.1 x.120ask.com
+#39.net
+127.0.0.1 app-g.39.net
+127.0.0.1 d.39.net
+127.0.0.1 dpvc.39.net
+#babytree.com
+127.0.0.1 titan.babytree.com
+127.0.0.1 titan01.babytree.com
+#ci123.com
+127.0.0.1 tc.ci123.com
+#qqyy.com
+127.0.0.1 dpvc1.qqyy.com
+127.0.0.1 dpvc2.qqyy.com
+127.0.0.1 dpvchos.qqyy.com
+127.0.0.1 dpvcimg.qqyy.com
+#www.bjmama.net
+127.0.0.1 as.bjmama.net
+#xywy.com
+127.0.0.1 a.xywy.com
+127.0.0.1 bdmm.xywy.com
+127.0.0.1 bdmjs.xywy.com
+127.0.0.1 gg.xywy.com
+127.0.0.1 o.xywy.com
+127.0.0.1 page.xywy.com
+127.0.0.1 hao123.xywy.com
+127.0.0.1 stat-y.xywy.com
+127.0.0.1 stat-z.xywy.com
+127.0.0.1 stat.xywy.com
+127.0.0.1 static.front.xywy.com
+#yaolan.com
+127.0.0.1 adnetpub.yaolan.com
+127.0.0.1 adpub.yaolan.com
+127.0.0.1 adpubs.yaolan.com
+127.0.0.1 ylads.yaolan.com
+127.0.0.1 a.codevm.com
+@site/life-home
+#1fangchan.com
+127.0.0.1 adhome.1fangchan.com
+#58.com
+127.0.0.1 adshow.58.com
+127.0.0.1 brandshow.58.com
+127.0.0.1 jing.58.com
+127.0.0.1 track.58.com
+127.0.0.1 tracklog.58.com
+127.0.0.1 58.xgo.com.cn
+127.0.0.1 imp.xgo.com.cn
+127.0.0.1 stat.xgo.com.cn
+#fang.com
+127.0.0.1 click1n.soufun.com
+127.0.0.1 clickm.fang.com
+127.0.0.1 clickn.fang.com
+127.0.0.1 countpvn.light.fang.com
+127.0.0.1 countubn.light.soufun.com
+127.0.0.1 mshow.fang.com
+127.0.0.1 tongji.home.soufun.com
+#ganji.com
+127.0.0.1 ad.ganji.com
+127.0.0.1 analytics.ganji.com
+127.0.0.1 click.ganji.com
+127.0.0.1 ganjituiguang.ganji.com
+127.0.0.1 sta.ganji.com
+127.0.0.1 tralog.ganji.com
+#house365.com
+127.0.0.1 ad.house365.com
+127.0.0.1 adadmin.house365.com
+127.0.0.1 ads.house365.com
+@site/life-info
+#jandan.net
+127.0.0.1 s.jandan.com
+#m.7791.com.cn
+127.0.0.1 cpro.7791.com.cn
+127.0.0.1 mimg.7791.com.cn
+127.0.0.1 imgcdn.mazaibang.com
+#m.vccoo.com
+127.0.0.1 script.vccoo.com
+127.0.0.1 stat.vccoo.com
+127.0.0.1 u.qoxyo.cn
+127.0.0.1 static.wauee.com
+#m.xxshipin.com
+127.0.0.1 img.ajapk.com
+127.0.0.1 mvip.zhuba8.com
+127.0.0.1 z2.19950501.com
+127.0.0.1 tj.51ads.com
+127.0.0.1 www.51ads.com
+127.0.0.1 img.qj.media8.cn
+127.0.0.1 vip2.7huoguo.com
+127.0.0.1 vip6.7huoguo.com
+127.0.0.1 imgcdn.de92.com
+127.0.0.1 526dimg.uunice.com
+127.0.0.1 526d.uunice.com

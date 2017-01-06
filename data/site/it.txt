@@ -37,6 +37,10 @@
 #dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
+#ea3w.com
+127.0.0.1 js.ea3w.com
+127.0.0.1 pic.ea3w.com
+127.0.0.1 stat.ea3w.com
 #enet.com.cn
 127.0.0.1 images.enet.com.cn
 127.0.0.1 frame.enet.com.cn
@@ -122,8 +126,6 @@
 #ctfile.com
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 popup.jointreport-switch.com
-127.0.0.1 media.jointreport-switch.com
 127.0.0.1 lg2.jointreport-switch.com
 #fxxz.com
 127.0.0.1 show.tcth8.com
@@ -131,6 +133,17 @@
 127.0.0.1 c5.97you.net
 #greenxf.com
 127.0.0.1 down.xiazai2.net
+#m.muzisoft.com
+127.0.0.1 d.ltss8.com
+127.0.0.1 down.qiqi.cc
+127.0.0.1 s.69duk.com
+127.0.0.1 d7.muzisoft.com
+127.0.0.1 d8.muzisoft.com
+127.0.0.1 d9.muzisoft.com
+#m.panduoduo.net
+127.0.0.1 s.szfaq.com
+127.0.0.1 s.bccyyc.com
+127.0.0.1 s.cooolyi.cn
 #oyksoft.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com
@@ -149,5 +162,4 @@
 #yxdown.com
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
-127.0.0.1 ggr.yxdown.com
 127.0.0.1 img.zhihei.com

@@ -1,7 +1,10 @@
-@1os/ios
+@1os
+#ios
 255.255.255.255	broadcasthost
 ::1             localhost
-@1os/#miwifi
-127.0.0.1 XiaoQiang
-@1os/common
+#common
 127.0.0.1 localhost
+#android
+::1             ip6-localhost
+#miwifi
+127.0.0.1 XiaoQiang

@@ -227,9 +227,17 @@
 127.0.0.1 susapi.lenovomm.com
 @mob/meizu
 #meizu-flyme
-127.0.0.1 game.res.meizu.com
+127.0.0.1 upush.meizu.com
+127.0.0.1 api-push.meizu.com
+127.0.0.1 api-flow.flyme.cn
+127.0.0.1 api-game.meizu.com
+127.0.0.1 openapi-news.meizu.com
+127.0.0.1 t-e.flyme.cn
+127.0.0.1 t-flow.flyme.cn
+127.0.0.1 compaign.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
+127.0.0.1 game.res.meizu.com
 127.0.0.1 upush.res.meizu.com
 @mob/miui
 #cm-adfuture
@@ -304,6 +312,8 @@
 127.0.0.1 ppurifier.game.xiaomi.com
 #miui-sec
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
@@ -459,7 +469,13 @@
 #toutiao
 127.0.0.1 ad.toutiao.com
 127.0.0.1 dsp.toutiao.com
+127.0.0.1 dm.toutiao.com
 127.0.0.1 partner.toutiao.com
+127.0.0.1 s3.bytecdn.cn
+127.0.0.1 s3.pstatp.com
+127.0.0.1 nativeapp.toutiao.com
+127.0.0.1 ichannel.snssdk.com
+127.0.0.1 du.jd.com
 #meituan
 127.0.0.1 push.mobile.meituan.com
 #halo
@@ -516,3 +532,9 @@
 127.0.0.1 ue.ueadlian.com
 127.0.0.1 wm.lrswl.com
 127.0.0.1 www.feixin2.com
+#wufafuwu.com
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
