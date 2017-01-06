@@ -1,15 +1,18 @@
-ï»¿echo è¯·å³é”®â€œä»¥ç®¡ç†å‘˜èº«ä»½è¿è¡Œâ€
+echo ÇëÓÒ¼ü¡°ÒÔ¹ÜÀíÔ±Éí·İÔËĞĞ¡±
 
-::å»é™¤å¿«æ·æ–¹å¼å­—æ ·
+::8:52 2017/1/6/ÖÜÎå
+start http://www.2345.com/?k66560772
+
+::È¥³ı¿ì½İ·½Ê½×ÖÑù
 REG ADD "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer" /v link /t REG_BINARY /d 00000000 /f
 
-::å»é™¤ä¼‘çœ æ–‡ä»¶
+::È¥³ıĞİÃßÎÄ¼ş
 powercfg -h off
 
-::win7ç¦»å¼€æ¨¡å¼
+::win7Àë¿ªÄ£Ê½
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayModeEnabled /t REG_DWORD /d 00000001 /f
 
-::å³é”®èœå•æ·»åŠ æ˜¾ç¤ºåç¼€éšè—æ–‡ä»¶
+::ÓÒ¼ü²Ëµ¥Ìí¼ÓÏÔÊ¾ºó×ºÒş²ØÎÄ¼ş
 >"%windir%\SuperHidden.vbs" echo Dim WSHShell
 >>"%windir%\SuperHidden.vbs" echo Set WSHShell = WScript.CreateObject("WScript.Shell")
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\CLSID", "{13709620-C279-11CE-A49E-444553540000}", "REG_SZ"
@@ -18,13 +21,15 @@ reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayMod
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "0", "REG_DWORD"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "2", "REG_DWORD"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "1", "REG_DWORD"
->>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "æ˜¾ç¤ºæ‰©å±•ååŠæ–‡ä»¶", "REG_SZ"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "ÏÔÊ¾À©Õ¹Ãû¼°ÎÄ¼ş", "REG_SZ"
+::>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "Display", "REG_SZ"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.SendKeys "{F5}e"
 >>"%windir%\SuperHidden.vbs" echo else
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "1", "REG_DWORD"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "1", "REG_DWORD"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "0", "REG_DWORD"
->>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "éšè—æ‰©å±•ååŠæ–‡ä»¶", "REG_SZ"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "Òş²ØÎÄ¼şºÍÀ©Õ¹Ãû", "REG_SZ"
+::>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "HideSth", "REG_SZ"
 >>"%windir%\SuperHidden.vbs" echo WSHShell.SendKeys "{F5}e"
 >>"%windir%\SuperHidden.vbs" echo end if
 >>"%windir%\SuperHidden.vbs" echo Set WSHShell = Nothing
@@ -33,8 +38,10 @@ reg export "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" "%
 for /f "tokens=2 delims==" %%. in ('find/i "HideFileExt" "%temp%\__.reg"') do set v=%%~.
 del "%temp%\__.reg"
 set v=%v:~-1%
-if %v% equ 0 set vv=éšè—æ‰©å±•ååŠæ–‡ä»¶
-if %v% equ 1 set vv=æ˜¾ç¤ºæ‰©å±•ååŠæ–‡ä»¶
+if %v% equ 0 set vv=Òş²ØÎÄ¼şºÍÀ©Õ¹Ãû
+if %v% equ 1 set vv=ÏÔÊ¾À©Õ¹Ãû¼°ÎÄ¼ş
+::if %v% equ 0 set vv=HideSth
+::if %v% equ 1 set vv=Display
 >"%temp%\_.reg" echo REGEDIT4
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\SuperHidden]
 >>"%temp%\_.reg" echo @="{00000000-0000-0000-0000-000000000012}"
@@ -51,19 +58,19 @@ if %v% equ 1 set vv=æ˜¾ç¤ºæ‰©å±•ååŠæ–‡ä»¶
 >>"%temp%\_.reg" echo "command"="%vv%"
 regedit /s "%temp%\_.reg"
 del /f /q "%temp%\_.reg"
-echo.&echo å·²æ·»åŠ å³é”® %vv%
+::ÒÑÌí¼ÓÓÒ¼ü %vv%
 
-::é€€å‡ºç¨‹åºæ—¶è‡ªåŠ¨æ¸…ç†å†…å­˜ä¸­çš„DLL
+::ÍË³ö³ÌĞòÊ±×Ô¶¯ÇåÀíÄÚ´æÖĞµÄDLL
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v AlwaysUnloadDll /t REG_DWORD /d 00000001 /f
 
-::å…³é—­ç¨‹åºå…¼å®¹æ€§åŠ©æ‰‹
+::¹Ø±Õ³ÌĞò¼æÈİĞÔÖúÊÖ
 sc stop PcsSvc 
 sc config PcsSvc start= disabled
 
-::å…³é—­UAC
+::¹Ø±ÕUAC
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v EnableLUA /t REG_DWORD /d 00000000 /f
 
-::æ¸…ç†å³é”®æ–°å»ºé¡¹ç›®
+::ÇåÀíÓÒ¼üĞÂ½¨ÏîÄ¿
 reg delete HKEY_CLASSES_ROOT\.bmp\ShellNew /f
 reg delete HKEY_CLASSES_ROOT\.rar\ShellNew /f
 reg delete HKEY_CLASSES_ROOT\.zip\ShellNew /f
@@ -74,45 +81,45 @@ reg delete HKEY_CLASSES_ROOT\.contact\ShellNew /f
 reg delete HKEY_CLASSES_ROOT\.rtf\ShellNew /f
 reg delete HKEY_CLASSES_ROOT\.zip\CompressedFolder\ShellNew /f
 
-::åœæ­¢ç³»ç»Ÿè¿˜åŸä¸å¤‡ä»½
+::Í£Ö¹ÏµÍ³»¹Ô­Óë±¸·İ
 net stop SDRSVC
 
-::æ¸…é™¤å³é”®æ˜¾å¡èœå•é¡¹
+::Çå³ıÓÒ¼üÏÔ¿¨²Ëµ¥Ïî
 regsvr32 /u igfxpph.dll /s
 regsvr32 /u atiacmxx.dll /s
 regsvr32 /u nvcpl.dll /s
 
-::å»é™¤æ“ä½œä¸­å¿ƒ
+::È¥³ı²Ù×÷ÖĞĞÄ
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "HideSCAHealth" /d 1 /t REG_DWORD /f
 
-::ä»»åŠ¡æ æ˜¾ç¤ºæ˜ŸæœŸå‡ 
-reg add "HKEY_CURRENT_USER\Control Panel\International" /v "sLongDate" /d "yyyy'å¹´'M'æœˆ'd'æ—¥', dddd" /t REG_SZ /f
+::ÈÎÎñÀ¸ÏÔÊ¾ĞÇÆÚ¼¸
+reg add "HKEY_CURRENT_USER\Control Panel\International" /v "sLongDate" /d "yyyy'Äê'M'ÔÂ'd'ÈÕ', dddd" /t REG_SZ /f
 reg add "HKEY_CURRENT_USER\Control Panel\International" /v "sShortDate" /d "yyyy/M/d/ddd" /t REG_SZ /f
 
-::å…³é—­è‡ªåŠ¨æ’­æ”¾
+::¹Ø±Õ×Ô¶¯²¥·Å
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDriveTypeAutoRun" /d 255 /t REG_DWORD /f
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDriveTypeAutoRun" /d 255 /t REG_DWORD /f
 
-::å³é”®èœå•æ·»åŠ ç”¨è®°äº‹æœ¬æ‰“å¼€
-reg add "HKEY_CLASSES_ROOT\*\shell\Noteped" /ve /d ä½¿ç”¨è®°äº‹æœ¬æ‰“å¼€ /f
+::ÓÒ¼ü²Ëµ¥Ìí¼ÓÓÃ¼ÇÊÂ±¾´ò¿ª
+reg add "HKEY_CLASSES_ROOT\*\shell\Noteped" /ve /d Ê¹ÓÃ¼ÇÊÂ±¾´ò¿ª /f
 reg add "HKEY_CLASSES_ROOT\*\shell\Noteped\command" /ve /d "notepad.exe %%1" /f
 
-::å³é”®èœå•æ·»åŠ ç®¡ç†å‘˜å–å¾—æ‰€æœ‰æƒ
+::ÓÒ¼ü²Ëµ¥Ìí¼Ó¹ÜÀíÔ±È¡µÃËùÓĞÈ¨
 >"%temp%\_.reg" echo Windows Registry Editor Version 5.00
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\*\shell\runas]
->>"%temp%\_.reg" echo @="ç®¡ç†å‘˜å–å¾—æ‰€æœ‰æƒ"
+>>"%temp%\_.reg" echo @="¹ÜÀíÔ±È¡µÃËùÓĞÈ¨"
 >>"%temp%\_.reg" echo "NoWorkingDirectory"=""
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\*\shell\runas\command]
 >>"%temp%\_.reg" echo @="cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 >>"%temp%\_.reg" echo "IsolatedCommand"="cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\exefile\shell\runas2]
->>"%temp%\_.reg" echo @="ç®¡ç†å‘˜å–å¾—æ‰€æœ‰æƒ"
+>>"%temp%\_.reg" echo @="¹ÜÀíÔ±È¡µÃËùÓĞÈ¨"
 >>"%temp%\_.reg" echo "NoWorkingDirectory"=""
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\exefile\shell\runas2\command]
 >>"%temp%\_.reg" echo @="cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 >>"%temp%\_.reg" echo "IsolatedCommand"="cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\Directory\shell\runas]
->>"%temp%\_.reg" echo @="ç®¡ç†å‘˜å–å¾—æ‰€æœ‰æƒ"
+>>"%temp%\_.reg" echo @="¹ÜÀíÔ±È¡µÃËùÓĞÈ¨"
 >>"%temp%\_.reg" echo "NoWorkingDirectory"=""
 >>"%temp%\_.reg" echo [HKEY_CLASSES_ROOT\Directory\shell\runas\command]
 >>"%temp%\_.reg" echo @="cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t"
@@ -120,87 +127,142 @@ reg add "HKEY_CLASSES_ROOT\*\shell\Noteped\command" /ve /d "notepad.exe %%1" /f
 regedit /s "%temp%\_.reg"
 del /f /q "%temp%\_.reg"
 
-::å¼€æœºç£ç›˜æ‰«æç­‰å¾…æ—¶é—´
+::¿ª»ú´ÅÅÌÉ¨ÃèµÈ´ıÊ±¼ä
 chkntfs /t:2
 
-::åŠ å¿«èœå•ä¸ä»»åŠ¡æ é¢„è§ˆçš„æ˜¾ç¤ºé€Ÿåº¦
+::¼Ó¿ì²Ëµ¥ÓëÈÎÎñÀ¸Ô¤ÀÀµÄÏÔÊ¾ËÙ¶È
 reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /d 0 /t REG_SZ /f
 reg add "HKEY_CURRENT_USER\Control Panel\Mouse" /v MouseHoverTime /d 0 /t REG_SZ /f
 
-::æ¸…é™¤å³é”®èœå•å…¼å®¹æ€§ç–‘éš¾è§£ç­”
+::Çå³ıÓÒ¼ü²Ëµ¥¼æÈİĞÔÒÉÄÑ½â´ğ
 reg delete "HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\Compatibility" /f
 reg delete "HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\Compatibility" /f
 reg delete "HKEY_CLASSES_ROOT\batfile\ShellEx\ContextMenuHandlers\Compatibility" /f
 
-::æ¸…é™¤å³é”®èœå•è¿˜åŸä»¥å‰çš„ç‰ˆæœ¬
+::Çå³ıÓÒ¼ü²Ëµ¥»¹Ô­ÒÔÇ°µÄ°æ±¾
 reg delete "HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
 reg delete "HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
 
-::å…³é—­DEP
+::¹Ø±ÕDEP %systemroot%\system32\bcdedit.exe /timeout 3
 bcdedit /set nx alwaysoff
 
-::æ‰§è¡Œå…³æœºæ—¶å¼ºåˆ¶é€€å‡ºåº”ç”¨ç¨‹åº
+::Ö´ĞĞ¹Ø»úÊ±Ç¿ÖÆÍË³öÓ¦ÓÃ³ÌĞò
 reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v WaitToKillAppTimeout /d 1000 /t REG_SZ /f
 
-echo æ˜¾ç¤ºå·²çŸ¥æ–‡ä»¶æ‰©å±•å
+:: My Opt
+
+:: ÇåÀíÆô¶¯Ïî
+attrib -s -h -r "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\*.*"
+attrib -s -h -r "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.*"
+attrib -s -h -r "C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.*"
+del /f /q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\*.*"
+del /f /q "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.*"
+del /f /q "C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.*"
+:: ÈÃIEÖ§³ÖWAPÍøÒ³
+reg add "HKCU\Software\Classes\MIME\Database\Content Type\text/vnd.wap.wml" /v "CLSID" /d "{25336920-03F9-11cf-8FD0-00AA00686F13}" /f
+reg add "HKCU\Software\Classes\MIME\Database\Content Type\application/xhtml+xml" /v "CLSID" /d "{25336920-03F9-11cf-8FD0-00AA00686F13}" /f
+reg add "HKCU\Software\Classes\MIME\Database\Content Type\application/vnd.wap.xhtml+xml" /v "CLSID" /d "{25336920-03F9-11cf-8FD0-00AA00686F13}" /f
+:: ÈÃWMPÖ§³Ö²¥·ÅSWF
+reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_LOCALMACHINE_LOCKDOWN" /v "wmplayer.exe" /d "0" /f
+:: ¼ÇÊÂ±¾ÏÔÊ¾×´Ì¬À¸
+reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
+:: ¼ÇÊÂ±¾×Ô¶¯»»ĞĞ
+reg add "HKCU\Software\Microsoft\NotePad" /v "fwrap" /t REG_DWORD /d 1 /f
+:: ÏÔÊ¾ÒÑÖªÎÄ¼şÀ©Õ¹Ãû
+reg add "HKU\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /f /v "HideFileExt" /t REG_DWORD /d 0
 reg add HKCU\Software\Microsoft\Windows\Currentversion\Explorer\Advanced /v HideFileExt /t REG_DWORD /d 0 /f
-echo å–æ¶ˆæ‰“å¼€æ–‡ä»¶è­¦å‘Š
+:: È¡Ïû´ò¿ªÎÄ¼ş¾¯¸æ
 reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Associations /v ModRiskFileTypes /t REG_SZ /d .bat;.cmd;.exe;.vbs /f
-echo å…³é—­æ¡Œé¢å°å·¥å…·
-echo reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Windows\Sidebar" /v "TurnOffSidebar" /t REG_DWORD /d 1 /f
-reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\Gadgets" /f
-echo å…³é—­æ¡Œé¢å³é”®èœå•-æ˜¾å¡éƒ¨åˆ†
+:: ÓÒ¼ü²Ëµ¥-ÎÒµÄµçÄÔ
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\1.Éè±¸¹ÜÀíÆ÷\command" /ve /d "mmc.exe devmgmt.msc" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\1.Ìí¼Ó»òÉ¾³ı³ÌĞò\command" /ve /d "control appwiz.cpl" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\1.¿ØÖÆÃæ°å\command" /ve /d "rundll32.exe shell32.dll,Control_RunDLL" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\2.Æô¶¯Ïî\Command" /ve /d "\"C:\windows\system32\Msconfig.exe\" -4" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\2.×¢²á±í\Command" /ve /d "Regedit.exe" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\2.·şÎñ\Command" /ve /d "mmc.exe services.msc" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\3.×é²ßÂÔ\Command" /ve /d "mmc.exe gpedit.msc" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\3.±¾µØ°²È«²ßÂÔ\Command" /ve /d "mmc.exe secpol.msc" /f
+reg add "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\3.È¡Ïû¹Ø»ú\Command" /ve /d "shutdown.exe -a" /f
+:: ÓÒ¼ü²Ëµ¥Ìí¼ÓDLL/OCXÎÄ¼şÓÒ¼ü¼ÓÉÏ(·´)×¢²á
+reg add "HKCR\Dllfile\shell\×¢²á DLL\Command" /ve /d "Regsvr32 %%1" /f
+reg add "HKCR\Dllfile\shell\×¢Ïú DLL\Command" /ve /d "Regsvr32 /u %%1" /f
+reg add "HKCR\Ocxfile\shell\×¢²á OCX\Command" /ve /d "Regsvr32 %%1" /f
+reg add "HKCR\Ocxfile\shell\×¢Ïú OCX\Command" /ve /d "Regsvr32 /u %%1" /f
+:: ÓÒ¼ü²Ëµ¥Ìí¼Ócmd¿ìËÙÍ¨µÀ
+reg add "HKCR\folder\shell\cmd" /ve /d "CMD¿ìËÙÍ¨µÀ" /f
+reg add "HKCR\folder\shell\cmd\command" /ve /d "cmd.exe /k cd %%1" /f
+:: ÓÒ¼ü²Ëµ¥-¹Ø±Õ×ÀÃæÏÔ¿¨²¿·Ö
 reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\ACE" /f
 reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\NvCplDesktopContext" /f
 reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\igfxDTCM" /f
 reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\igfxcui" /f
 reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v HotKeysCmds /f
 reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v IgfxTray /f
-echo æ¸…é™¤å³é”®èœå•è¿˜åŸä»¥å‰çš„ç‰ˆæœ¬ï¼šæ–‡ä»¶å¤¹ã€é©±åŠ¨å™¨
+:: ÓÒ¼ü²Ëµ¥-Çå³ı»¹Ô­ÒÔÇ°µÄ°æ±¾£ºÎÄ¼ş¼Ğ¡¢Çı¶¯Æ÷
 reg delete "HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
-reg delete "HKEY_CLASSES_ROOT\Directory\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
 reg delete "HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
+reg delete "HKEY_CLASSES_ROOT\Directory\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
 reg delete "HKEY_CLASSES_ROOT\Drive\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f
-echo å…³é—­Windows Defender
+:: ÔÚ×ÀÃæÏÔÊ¾ ¼ÆËã»ú-ÎÒµÄµçÄÔ
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{20D04FE0-3AEA-1069-A2D8-08002B30309D}" /t REG_DWORD /d 0
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{20D04FE0-3AEA-1069-A2D8-08002B30309D}" /t REG_DWORD /d 0
+:: ÔÚ×ÀÃæÏÔÊ¾ ¸öÈËÎÄ¼ş¼Ğ-ÎÒµÄÎÄµµ
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{59031a47-3f72-44a7-89c5-5595fe6b30ee}" /t REG_DWORD /d 0
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{59031a47-3f72-44a7-89c5-5595fe6b30ee}" /t REG_DWORD /d 0
+:: ÔÚ×ÀÃæÏÔÊ¾ ÍøÂç
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}" /t REG_DWORD /d 0
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}" /t REG_DWORD /d 0
+:: ÔÚ×ÀÃæÏÔÊ¾ »ØÊÕÕ¾
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{645FF040-5081-101B-9F08-00AA002F954E}" /t REG_DWORD /d 0
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{645FF040-5081-101B-9F08-00AA002F954E}" /t REG_DWORD /d 0
+:: ÔÚ×ÀÃæÒş²Ø ¿ØÖÆÃæ°å
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0}" /t REG_DWORD /d 1
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0}" /t REG_DWORD /d 1
+:: ¹Ø±Õ×ÀÃæĞ¡¹¤¾ß
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Windows\Sidebar" /v "TurnOffSidebar" /t REG_DWORD /d 1 /f
+reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\Gadgets" /f
+:: ¹Ø±ÕWindows Defender
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
 sc stop WinDefend >nul
 sc config WinDefend start= disabled >nul
-echo å…³é—­Windowsé˜²ç«å¢™
+:: ¹Ø±ÕWindows·À»ğÇ½
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
 sc stop MpsSvc
 sc config MpsSvc start=disabled >nul
-echo å…³é—­Windowså‡çº§æœåŠ¡
+:: ¹Ø±ÕWindowsÉı¼¶·şÎñ
 net stop wuauserv >nul
 sc config wuauserv start=disabled >nul
-echo å…³é—­Windowså®‰å…¨ä¸­å¿ƒ
+:: ¹Ø±ÕWindows°²È«ÖĞĞÄ
 sc stop wscsvc >nul
 sc config wscsvc start= disabled >nul
-echo ç¦ç”¨å¹¶åœæ­¢ç¡¬ä»¶è‡ªåŠ¨æ’­æ”¾æœåŠ¡
+:: ½ûÓÃ²¢Í£Ö¹Ó²¼ş×Ô¶¯²¥·Å·şÎñ
 sc config ShellHWDetection start= disabled
 sc stop ShellHWDetection
-echo å…³é—­Smartscreenåº”ç”¨ç­›é€‰å™¨
+:: ¹Ø±ÕSmartscreenÓ¦ÓÃÉ¸Ñ¡Æ÷
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScreenEnabled" /d off /t REG_SZ /f
-echo è§£é”IEä¸»é¡µ
+:: ½âËøIEÖ÷Ò³
 reg delete "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /f >nul
-echo è®¾ç½®IEä¸»é¡µ http://www.baidu.com/?tn=baidulocal
+:: ÉèÖÃIEÖ÷Ò³ http://www.baidu.com/?tn=baidulocal
 reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Start Page" /d "https://www.baidu.com/?tn=baiduhome" /f
-echo é”å®šIEä¸»é¡µ
+:: Ëø¶¨IEÖ÷Ò³
 reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /d 1 /f >nul
-echo å…³é—­Windows10å‡çº§æç¤º
+:: ¹Ø±ÕWindows10Éı¼¶ÌáÊ¾
 taskkill /F /IM GWX.exe
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Gwx" /v DisableGwx /t REG_DWORD /d 1 /f
 del /f /s /a /q %SystemRoot%\System32\GWX
-gpupdate /force
-echo åŠ«æŒä¸€äº›ä¿®æ”¹ä¸»é¡µå’Œåå°ä¸‹è½½æ¨å¹¿çš„æ–‡ä»¶
+:: ½Ù³ÖÒ»Ğ©ĞŞ¸ÄÖ÷Ò³ºÍºóÌ¨ÏÂÔØÍÆ¹ãµÄÎÄ¼ş
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345MiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345Movie.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345PicHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Downloader_2345Explorer.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\HaoZipHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
+gpupdate /force
 taskkill /f /im explorer.exe
 start %systemroot%\explorer
 exit
 
 start "title" /b /wait WUSA.exe /quiet /norestart /uninstall /kb:3035583
+Start /WAIT %~dp0Flash.exe -iv -install -au
+%~dp0"Windows Loader.exe" /silent /preactivate

@@ -3,11 +3,5 @@
 ::1             localhost
 @1os/#miwifi
 127.0.0.1 XiaoQiang
-#1os/#newifi
-192.168.99.1 x.du
-192.168.99.1 newifi.com
-192.168.99.1 wi.fi
-192.168.99.1 ok.go
-192.168.99.1 xyun.co
 @1os/common
 127.0.0.1 localhost
