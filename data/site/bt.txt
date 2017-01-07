@@ -8,6 +8,7 @@
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
 #btdigg.pw
+127.0.0.1 js.zgyemy.com
 127.0.0.1 code.guomob.com
 127.0.0.1 b99u.top
 127.0.0.1 s.glasszz.com

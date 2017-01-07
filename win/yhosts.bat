@@ -1,5 +1,5 @@
 @echo off
-ver=22:38 2016/5/23/周一
+ver=23:19 2017/1/7/周六
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo.&Echo 请使用右键“以管理员身份运行”&&Pause >NUL&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableExtensions
@@ -29,21 +29,17 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :downgrd
-@SET CURRENTDIR=%cd%
-@cd..
-@SET win=%cd%\win
-@cd %CURRENTDIR%
-"%~dp0win\wget.exe" -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-"%~dp0win\wget.exe" -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-"%~dp0win\sed.exe" -i "1,18d" 1.txt
-"%~dp0win\sed.exe" -i "s/\t/ /g" 1.txt
-"%~dp0win\sed.exe" -i "s/[ ]\{2,\}/ /g" 1.txt
-"%~dp0win\sed.exe" -i "/googlesyndication/d" 1.txt
-"%~dp0win\sed.exe" -i "/googleadservices/d" 1.txt
-"%~dp0win\sed.exe" -i "/127.0.0.1/d" 1.txt
-"%~dp0win\sed.exe" -i "/^$/d" 1.txt
-"%~dp0win\sed.exe" -i "/^#/d" 1.txt
-"%~dp0win\sed.exe" -i "1i\@racaljk/hosts" 1.txt
+wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+wget -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+sed -i "1,18d" 1.txt
+sed -i "s/\t/ /g" 1.txt
+sed -i "s/[ ]\{2,\}/ /g" 1.txt
+sed -i "/googlesyndication/d" 1.txt
+sed -i "/googleadservices/d" 1.txt
+sed -i "/127.0.0.1/d" 1.txt
+sed -i "/^$/d" 1.txt
+sed -i "/^#/d" 1.txt
+sed -i "1i\@racaljk/hosts" 1.txt
 goto :eof
 
 :winhosts

@@ -1,5 +1,5 @@
 
-#version=201701061521
+#version=201701072328
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1088,6 +1088,7 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 js.zgyemy.com
 127.0.0.1 code.guomob.com
 127.0.0.1 b99u.top
 127.0.0.1 s.glasszz.com
@@ -1398,6 +1399,10 @@
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
 127.0.0.1 js.lieqitianxia.cn
+127.0.0.1 vns800600.net
+127.0.0.1 www.yl850555.com
+127.0.0.1 www.8033bb.com
+127.0.0.1 www.5814889.com
 127.0.0.1 t.e706.net
 127.0.0.1 f.70e.com
 127.0.0.1 v.e704.net

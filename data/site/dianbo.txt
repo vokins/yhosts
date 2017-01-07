@@ -1,6 +1,11 @@
 @site/dianbo
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
+#caoliuporn.info/aassd.com
+127.0.0.1 vns800600.net
+127.0.0.1 www.yl850555.com
+127.0.0.1 www.8033bb.com
+127.0.0.1 www.5814889.com
 #dvd.kltvv.com
 127.0.0.1 t.e706.net
 127.0.0.1 f.70e.com
