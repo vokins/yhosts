@@ -1,11 +1,9 @@
 
-#version=201701072328
+#version=201701081732
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
-5.196.172.196 www.dxomark.com
-43.245.63.22 cdn.dxomark.com
 218.93.127.136 cdn.pcbeta.attachment.inimc.com
 218.93.127.136 cdn.pcbeta.css.inimc.com
 218.93.127.136 cdn.pcbeta.img.inimc.com
@@ -23,6 +21,53 @@
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
+5.196.172.196 www.dxomark.com
+43.245.63.22 cdn.dxomark.com
+119.160.254.197 assets.tumblr.com
+119.160.254.215 secure.assets.tumblr.com
+128.127.159.1 94.media.tumblr.com
+151.101.76.249 98.media.tumblr.com
+192.229.237.185 42.media.tumblr.com
+192.229.237.98 30.media.tumblr.com
+192.229.237.98 40.media.tumblr.com
+192.229.237.98 44.media.tumblr.com
+192.229.237.98 46.media.tumblr.com
+192.229.237.98 49.media.tumblr.com
+192.229.237.98 66.media.tumblr.com
+192.229.237.98 97.media.tumblr.com
+209.197.3.20 39.media.tumblr.com
+209.197.3.20 41.media.tumblr.com
+209.197.3.20 43.media.tumblr.com
+209.197.3.20 45.media.tumblr.com
+209.197.3.20 48.media.tumblr.com
+209.197.3.20 67.media.tumblr.com
+209.197.3.20 99.media.tumblr.com
+216.115.100.125 24.media.tumblr.com
+216.115.100.125 90.media.tumblr.com
+216.115.100.126 31.media.tumblr.com
+216.115.100.126 33.media.tumblr.com
+216.115.100.126 37.media.tumblr.com
+216.115.100.126 38.media.tumblr.com
+216.115.100.126 68.media.tumblr.com
+216.115.100.126 vtt.tumblr.com
+23.2.16.8 95.media.tumblr.com
+52.85.155.236 32.media.tumblr.com
+52.85.155.236 96.media.tumblr.com
+54.182.6.6 secure.static.tumblr.com
+54.192.234.133 47.media.tumblr.com
+54.192.234.244 50.media.tumblr.com
+54.230.142.156 65.media.tumblr.com
+54.230.158.13 36.media.tumblr.com
+54.230.74.143 vt.tumblr.com
+66.6.32.162 ls.srvcs.tumblr.com
+66.6.32.162 px.srvcs.tumblr.com
+66.6.32.22 cynicallys.tumblr.com
+66.6.32.22 mx.tumblr.com
+66.6.32.4 api.tumblr.com
+66.6.32.4 tumblr.co
+66.6.32.4 www.tumblr.com
+66.6.44.4 media.tumblr.com
+66.6.33.193 tumblr.com
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activation.acronis.com
 127.0.0.1 activate.adobe.com
