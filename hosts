@@ -1,5 +1,5 @@
 
-#version=201701081732
+#version=201701101003
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3770,10 +3770,12 @@
 127.0.0.1 t-l.play.cp81.ott.cibntv.net
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
-127.0.0.1 mcgi.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 mcgi.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 otheve.play.aiseet.atianqi.com
+127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 p-l.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
