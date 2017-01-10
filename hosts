@@ -1,5 +1,5 @@
 
-#version=201701101003
+#version=201701101127
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -595,9 +595,11 @@
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
-127.0.0.1 img-ad.oupeng.com
 127.0.0.1 c.bxb.oupeng.com
+127.0.0.1 cp.oupeng.com
+127.0.0.1 img-ad.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
+127.0.0.1 startup.oupeng.com
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 ads-banner.1mobile.com
 127.0.0.1 ads.1mobile.com
@@ -3773,12 +3775,18 @@
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 mcgi.play.aiseet.atianqi.com
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.aiseet.atianqi.com
 127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 pingmid.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
+127.0.0.1 vv.play.aiseet.atianqi.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
+127.0.0.1 sv-video.play.aiseet.atianqi.com
+127.0.0.1 tv.aiseet.atianqi.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 wa.gtimg.com

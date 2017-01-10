@@ -1,4 +1,12 @@
-﻿数据按照分类模式分成:转向数据，站点数据（知名站点，比如天涯等，按照内容分类，比如sns，在线影音。it），验证屏蔽（adobe等），mobapp数据（wps等），禁止下载（比如一些软件站的诱导病毒下载，非wlan环境下直接使用数据流量下载），运营商劫持，广告浮动和弹出（同样按照分类，比如图书，电影等）
+﻿你把这个文件夹删除掉，建立一个文本文件权限设置成只读就行了
+qq视频 tv版本：
+/mnt/sdcard/qcache/data/ad_cache
+/mnt/sdcard/Tencent/TPush
+秀控视频
+/mnt/sdcard/cache/com.zbmv/files/adv
+/mnt/sdcard/com.zbmv/files/image
+
+数据按照分类模式分成:转向数据，站点数据（知名站点，比如天涯等，按照内容分类，比如sns，在线影音。it），验证屏蔽（adobe等），mobapp数据（wps等），禁止下载（比如一些软件站的诱导病毒下载，非wlan环境下直接使用数据流量下载），运营商劫持，广告浮动和弹出（同样按照分类，比如图书，电影等）
 127.0.0.1 qr.cp31.ott.cibntv.net   这条优酷机顶盒版（CIBN全球——暂停视频 广告
 127.0.0.1 qr.youlu.com 这条优酷XL版暂停视频 广告
 127.0.0.1 guanggaoad.youku.com （这条是优酷的APP IOS的广告）
