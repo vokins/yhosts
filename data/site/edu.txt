@@ -29,3 +29,6 @@
 127.0.0.1 stat.ff.zmres.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
+#www.xuexila.com
+127.0.0.1 abc.yjbys.org
+127.0.0.1 dm.yjbys.org

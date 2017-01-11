@@ -1,5 +1,5 @@
 
-#version=201701112111
+#version=201701112118
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1613,6 +1613,8 @@
 127.0.0.1 s.shaxiq.com
 127.0.0.1 stat.ff.zmres.com
 127.0.0.1 bai3.gushiwen.org
+127.0.0.1 abc.yjbys.org
+127.0.0.1 dm.yjbys.org
 127.0.0.1 ad.thsi.cn
 127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 xc.macd.cn
