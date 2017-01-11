@@ -1,5 +1,5 @@
 
-#version=201701112332
+#version=20170112 026
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -785,6 +785,23 @@
 127.0.0.1 dr.holaworld.cn
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
+127.0.0.1 adm.easou.com
+127.0.0.1 assets.easou.com
+127.0.0.1 tjlog.easou.com
+127.0.0.1 tjlog.ps.easou.com
+127.0.0.1 api.itaoxiaoshuo.com
+127.0.0.1 a.game.qidian.com
+127.0.0.1 cj.qidian.com
+127.0.0.1 dwtrack.qidian.com
+127.0.0.1 o.if.qidian.com
+127.0.0.1 tongji.qidian.com
+127.0.0.1 uedas.qidian.com
+127.0.0.1 uedas.qdmm.com
+127.0.0.1 s1.cmfu.com
+127.0.0.1 ut2.shuqistat.com
+127.0.0.1 ad.zhangyue.com
+127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -871,23 +888,6 @@
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
-127.0.0.1 adm.easou.com
-127.0.0.1 assets.easou.com
-127.0.0.1 tjlog.easou.com
-127.0.0.1 tjlog.ps.easou.com
-127.0.0.1 api.itaoxiaoshuo.com
-127.0.0.1 a.game.qidian.com
-127.0.0.1 cj.qidian.com
-127.0.0.1 dwtrack.qidian.com
-127.0.0.1 o.if.qidian.com
-127.0.0.1 tongji.qidian.com
-127.0.0.1 uedas.qidian.com
-127.0.0.1 uedas.qdmm.com
-127.0.0.1 s1.cmfu.com
-127.0.0.1 ut2.shuqistat.com
-127.0.0.1 ad.zhangyue.com
-127.0.0.1 img.ad.zhangyue.com
-127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 s.tbaocdn.com
 127.0.0.1 s.liangziweixg.com
 127.0.0.1 img.royaltianjin.com
