@@ -116,6 +116,9 @@
 127.0.0.1 keystone.mwbsys.com
 #tableau-desktop
 127.0.0.1 licensing.tableausoftware.com
+#totalfinder
+127.0.0.1 binaryage-leechgate.herokuapp.com
+127.0.0.1 updates-s3.binaryage.com
 #wondershare.com
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
@@ -930,6 +933,15 @@
 127.0.0.1 www.finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
+#holalauncher
+127.0.0.1 mo.haloapps.cn
+127.0.0.1 mo.test.haloapps.com
+127.0.0.1 i.haloapps.com
+127.0.0.1 sta.holagames.com
+127.0.0.1 st.holaworld.cn
+127.0.0.1 dr.holaworld.cn
+127.0.0.1 i.holalauncher.com
+127.0.0.1 st.holalauncher.com
 @site/area
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
@@ -4092,6 +4104,7 @@
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 cm.mediav.com
+127.0.0.1 g1max.mediav.com
 127.0.0.1 juxiao.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
