@@ -740,6 +740,7 @@
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 cm.mediav.com
+127.0.0.1 g1max.mediav.com
 127.0.0.1 juxiao.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com

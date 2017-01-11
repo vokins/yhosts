@@ -538,3 +538,12 @@
 127.0.0.1 www.finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
+#holalauncher
+127.0.0.1 mo.haloapps.cn
+127.0.0.1 mo.test.haloapps.com
+127.0.0.1 i.haloapps.com
+127.0.0.1 sta.holagames.com
+127.0.0.1 st.holaworld.cn
+127.0.0.1 dr.holaworld.cn
+127.0.0.1 i.holalauncher.com
+127.0.0.1 st.holalauncher.com

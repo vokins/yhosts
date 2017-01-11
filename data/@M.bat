@@ -44,6 +44,7 @@ goto :eof
 @cd..
 @SET win=%cd%\win
 @cd %CURRENTDIR%
+"%win%\sed.exe" -i "$d" site.txt
 set files=direct.txt active.txt down.txt error.txt hijack.txt mob.txt site.txt soft.txt union.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
 set files=direct.txt active.txt down.txt error.txt hijack.txt mob.txt site.txt soft.txt union.txt tvbox.txt xunlei.txt
