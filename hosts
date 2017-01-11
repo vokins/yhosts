@@ -1,5 +1,5 @@
 
-#version=201701112118
+#version=201701112332
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2053,6 +2053,8 @@
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
 127.0.0.1 www.6998cdn.com
+127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi1.mzy2014.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 g3.letv.com

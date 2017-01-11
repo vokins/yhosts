@@ -100,6 +100,9 @@
 127.0.0.1 pv.cnzz.leiouxiong.com
 127.0.0.1 www.155.com
 127.0.0.1 www.6998cdn.com
+#ku6.com
+127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi1.mzy2014.com
 #le.com
 127.0.0.1 ark.letv.com
 127.0.0.1 fz.letv.com
