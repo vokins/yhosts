@@ -1,6 +1,6 @@
 echo 请右键“以管理员身份运行”
 
-::8:52 2017/1/6/周五
+::23:08 2017/1/11/周三
 start http://www.2345.com/?k66560772
 
 ::去除快捷方式字样
@@ -218,6 +218,8 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcon
 :: 在桌面隐藏 控制面板
 reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0}" /t REG_DWORD /d 1
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /f /v "{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0}" /t REG_DWORD /d 1
+:: 在开始菜单显示“运行”栏
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "Start_ShowRun" /t REG_DWORD /d 1 /f
 :: 关闭桌面小工具
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Windows\Sidebar" /v "TurnOffSidebar" /t REG_DWORD /d 1 /f
 reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\Gadgets" /f
@@ -251,6 +253,9 @@ reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v Ho
 :: 关闭Windows10升级提示
 taskkill /F /IM GWX.exe
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Gwx" /v DisableGwx /t REG_DWORD /d 1 /f
+:: No-Win10
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpadate" /v "DisableOSUpgrade" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade" /v "ReservationsAllowed" /t REG_DWORD /d 0 /f
 del /f /s /a /q %SystemRoot%\System32\GWX
 :: 劫持一些修改主页和后台下载推广的文件
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345MiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
