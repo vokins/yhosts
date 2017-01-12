@@ -1,5 +1,5 @@
 
-#version=201701121115
+#version=201701121952
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1870,6 +1870,8 @@
 127.0.0.1 trade.koudaitong.com
 127.0.0.1 hats.haibao.cn
 127.0.0.1 ac.laonanren.com
+127.0.0.1 1.nanrenwo.net
+127.0.0.1 2.nanrenwo.net
 127.0.0.1 btn.onlylady.com
 127.0.0.1 olpv.onlylady.com
 127.0.0.1 olpvimg.onlylady.com
@@ -3381,6 +3383,7 @@
 127.0.0.1 rplog.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 tuijian.baidu.com
+127.0.0.1 unionimage.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 zhanzhang.baidu.com

@@ -27,6 +27,9 @@
 127.0.0.1 hats.haibao.cn
 #laonanren.com
 127.0.0.1 ac.laonanren.com
+#m.nanrenwo.net
+127.0.0.1 1.nanrenwo.net
+127.0.0.1 2.nanrenwo.net
 #onlylady.com
 127.0.0.1 btn.onlylady.com
 127.0.0.1 olpv.onlylady.com
