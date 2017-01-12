@@ -423,6 +423,8 @@
 127.0.0.1 d.adroll.com
 #adsage
 127.0.0.1 zt.adsage.com
+#adsensor.org
+127.0.0.1 chance.adsensor.org
 #adsmogo
 127.0.0.1 api2.adsmogo.com
 127.0.0.1 cfg.adsmogo.com
@@ -471,6 +473,7 @@
 #cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
+127.0.0.1 res.cocounion.com
 127.0.0.1 service.cocounion.com
 127.0.0.1 stats.cocounion.com
 #coolguang.com
@@ -518,6 +521,8 @@
 #leadbolt.com
 127.0.0.1 ad.leadboltads.net
 127.0.0.1 ad.leadboltmobile.net
+#lenzmx.com
+127.0.0.1 tracking.lenzmx.com
 #madserving.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 ads.static.madserving.com
@@ -577,6 +582,8 @@
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
+#rtbasia.com
+127.0.0.1 trace.rtbasia.com
 #soquair
 127.0.0.1 m.soquair.com
 127.0.0.1 t.soquair.com
