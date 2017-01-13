@@ -1156,6 +1156,11 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+#m.biqumo.com
+127.0.0.1 m.breezily168.com
+127.0.0.1 e.breezily168.com
+127.0.0.1 e.968lele.com
+127.0.0.1 itho.nfylyyzlk.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
@@ -1759,6 +1764,11 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+#m.kankanwu.com
+127.0.0.1 rc.fthcz.com
+127.0.0.1 s.fthcz.com
+127.0.0.1 rc.mgwcn.com
+127.0.0.1 img1.zqzxz.com
 #m.kb20.cc
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com

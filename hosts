@@ -1,5 +1,5 @@
 
-#version=201701121952
+#version=201701132325
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -947,6 +947,10 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+127.0.0.1 m.breezily168.com
+127.0.0.1 e.breezily168.com
+127.0.0.1 e.968lele.com
+127.0.0.1 itho.nfylyyzlk.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
 127.0.0.1 pp.2945.com
@@ -1497,6 +1501,10 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 rc.fthcz.com
+127.0.0.1 s.fthcz.com
+127.0.0.1 rc.mgwcn.com
+127.0.0.1 img1.zqzxz.com
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
 127.0.0.1 jssd.kb20.cc

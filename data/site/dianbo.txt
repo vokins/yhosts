@@ -46,6 +46,11 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+#m.kankanwu.com
+127.0.0.1 rc.fthcz.com
+127.0.0.1 s.fthcz.com
+127.0.0.1 rc.mgwcn.com
+127.0.0.1 img1.zqzxz.com
 #m.kb20.cc
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
