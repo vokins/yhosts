@@ -1,4 +1,5 @@
-﻿127.0.0.1 pub.aplus.pptv.com 影响登陆http://vip.pptv.com/?plt=&aid=
+﻿#127.0.0.1 r1.cp31.ott.cibntv.net 这张开了就没CIBN环球影音的缩略图 
+127.0.0.1 pub.aplus.pptv.com 影响登陆http://vip.pptv.com/?plt=&aid=
 a.gdown.baidu.com
 app.video.baidu.com
 appsearchcdn.baidu.com

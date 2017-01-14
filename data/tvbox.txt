@@ -14,7 +14,6 @@
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 qr.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 r1.cp31.ott.cibntv.net
 127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
