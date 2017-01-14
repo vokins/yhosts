@@ -29,6 +29,7 @@
 127.0.0.1 apk.shouji.koowo.com
 127.0.0.1 g.koowo.com
 127.0.0.1 deliver.kuwo.cn
+127.0.0.1 kwmsg.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 msclick2.kuwo.cn

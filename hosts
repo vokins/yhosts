@@ -1,5 +1,5 @@
 
-#version=20170114 017
+#version=201701141132
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -935,6 +935,11 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 j.fd7c.com
+127.0.0.1 m.laigame7.net
+127.0.0.1 rwq.youle55.com
+127.0.0.1 edge.yunjiasu.com
+127.0.0.1 cs.twcczhu.com
 127.0.0.1 s.69shuwu.com
 127.0.0.1 s.nxrxt.com
 127.0.0.1 s.zzrcz.com
@@ -1073,7 +1078,6 @@
 127.0.0.1 www.day66.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 in.hxadt.com
-127.0.0.1 m.breezily168.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com
 127.0.0.1 fota4.adups.cn
@@ -2353,6 +2357,7 @@
 127.0.0.1 apk.shouji.koowo.com
 127.0.0.1 g.koowo.com
 127.0.0.1 deliver.kuwo.cn
+127.0.0.1 kwmsg.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 msclick2.kuwo.cn
@@ -3441,6 +3446,10 @@
 127.0.0.1 unstat.baidu.com
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
+127.0.0.1 push.music.baidu.com
+127.0.0.1 static.safe.baidu.com
+127.0.0.1 udc.safe.baidu.com
+127.0.0.1 click.qianqian.com
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
@@ -3592,6 +3601,7 @@
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wb.gtimg.com
+127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 creatim.qtmojo.cn
@@ -3820,6 +3830,7 @@
 127.0.0.1 tv.aiseet.atianqi.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 api.yuedu.iqiyi.com

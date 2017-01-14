@@ -45,6 +45,12 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+#m.37zw.com
+127.0.0.1 j.fd7c.com
+127.0.0.1 m.laigame7.net
+127.0.0.1 rwq.youle55.com
+127.0.0.1 edge.yunjiasu.com
+127.0.0.1 cs.twcczhu.com
 #m.69shuwu.com
 127.0.0.1 s.69shuwu.com
 127.0.0.1 s.nxrxt.com
@@ -207,7 +213,6 @@
 #www.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 in.hxadt.com
-127.0.0.1 m.breezily168.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com
 127.0.0.1 fota4.adups.cn

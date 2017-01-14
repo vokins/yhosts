@@ -632,6 +632,10 @@
 #baidu/music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
+127.0.0.1 push.music.baidu.com
+127.0.0.1 static.safe.baidu.com
+127.0.0.1 udc.safe.baidu.com
+127.0.0.1 click.qianqian.com
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
@@ -807,6 +811,7 @@
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wb.gtimg.com
 #qq-mob
+127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 #qtmojo
