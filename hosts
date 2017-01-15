@@ -1,5 +1,5 @@
 
-#version=201701151121
+#version=201701151151
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -685,19 +685,24 @@
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 push.wandoujia.com
 127.0.0.1 adslot.uc.cn
+127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
+127.0.0.1 gj.applog.uc.cn
 127.0.0.1 track.uc.cn
+127.0.0.1 cms.ucweb.com
+127.0.0.1 puds.ucweb.com
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com
+127.0.0.1 ucus.ucweb.com
 127.0.0.1 ucsec.ucweb.com
 127.0.0.1 ucsec1.ucweb.com
 127.0.0.1 vs6.gzct.uc.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 huichuan.sm.cn
-127.0.0.1 gj.applog.uc.cn
-127.0.0.1 cms.ucweb.com
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 iflow.uczzd.cn
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
