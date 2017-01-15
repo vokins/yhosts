@@ -1,5 +1,5 @@
 
-#version=201701152127
+#version=201701152327
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -975,6 +975,10 @@
 127.0.0.1 rc.123juhd.com
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
+127.0.0.1 i.zgzjjp.com
+127.0.0.1 image.qj175.com
+127.0.0.1 ms.myyage.com
+127.0.0.1 m.ssjy168.com
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
@@ -1473,6 +1477,8 @@
 127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
 127.0.0.1 kiss.cncy8.com
+127.0.0.1 vvv.sqjgdx.com
+127.0.0.1 h.51scj.com
 127.0.0.1 s.mxmrt.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com
@@ -3688,6 +3694,12 @@
 127.0.0.1 qiyem.aiwen.cc
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 pic.haowj.com.cn
+127.0.0.1 mjs.sinaimg.cn
+127.0.0.1 n.sinaimg.cn
+127.0.0.1 dl.kjava.sina.cn
+127.0.0.1 hehe1.200218.com
+127.0.0.1 sscm1.mipujia.com
+127.0.0.1 sscm3.mipujia.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adnet.sohu.com
 127.0.0.1 i.go.sohu.com

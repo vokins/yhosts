@@ -87,6 +87,8 @@
 #m.q4yy.com
 127.0.0.1 kiss.cncy8.com
 #m.quankan.tv
+127.0.0.1 vvv.sqjgdx.com
+127.0.0.1 h.51scj.com
 127.0.0.1 s.mxmrt.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 rc.mxmrt.com

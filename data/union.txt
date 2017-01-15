@@ -973,6 +973,13 @@
 127.0.0.1 qiyem.aiwen.cc
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 pic.haowj.com.cn
+#blog.sina.cn
+127.0.0.1 mjs.sinaimg.cn
+127.0.0.1 n.sinaimg.cn
+127.0.0.1 dl.kjava.sina.cn
+127.0.0.1 hehe1.200218.com
+127.0.0.1 sscm1.mipujia.com
+127.0.0.1 sscm3.mipujia.com
 #sohu
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adnet.sohu.com
