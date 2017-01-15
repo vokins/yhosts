@@ -26,9 +26,11 @@ cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广�
 127.0.0.1 58749.admaster.com.cn
 http://www.qchannel04.cn/  网易新闻 安卓app 反广告
 
-pmptrack-yidianzixunxm.gentags.net                                     image.gentags.com                                                                                                   cmpp.gentags.net                       类似于秒针的广告统计、跟踪 ，通过一点咨询APP 安卓版 发现
+pmptrack-yidianzixunxm.gentags.net
+image.gentags.com
+cmpp.gentags.net
+类似于秒针的广告统计、跟踪 ，通过一点咨询APP 安卓版 发现
 
-adm.10jqka.com.cn  同花顺财经 广告
 
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
@@ -37,7 +39,6 @@ adm.10jqka.com.cn  同花顺财经 广告
 和127.0.0.1 downapp.baidu.com
 上面发得是初稿，这个修改了一下，添加了屏蔽企鹅fm和软件推广，好像还有少量广告，不过大部分应该都pass了，有广告的截图我看下能不能干掉#(乖)
 
-127.0.0.1 c.gdt.qq.com空间广告近期热门推荐
 127.0.0.1 d3g.qq.com软件推广
 
 
@@ -78,7 +79,8 @@ http://exview.gtool.ml/gad/gad_top_468_60.html
 @老蛇子 这个视频软件的广告我研究了下，里面的广告有两种。
 1.http://ww3.sinaimg.cn/large/006Ct16Vgw1fa282k3n3cj30le09gjy0.jpg
 这个广告是来自
-v.szfirstlive.com与223.6.253.229，单纯屏蔽v.szfirstlive.com他会选择223.6.253.229直连。不过没关系，广告图片缓存在/data/data/com.zbmv/files/image/和/storage/sdcard1/com.zbmv/files/image/pause_1_611748977.png，禁止写入权限即可。
+v.szfirstlive.com与223.6.253.229，单纯屏蔽v.szfirstlive.com他会选择223.6.253.229直连。不过没关系，
+广告图片缓存在/data/data/com.zbmv/files/image/和/storage/sdcard1/com.zbmv/files/image/pause_1_611748977.png，禁止写入权限即可。
 2，还有一个广告，找了半天，原来在apk包内，这个没法屏蔽，只能解包删除。
 apk/res/drawable-hdpi/pause_0_111.jpg
 apk/res/drawable-mdpi/pause_0_111.jpg

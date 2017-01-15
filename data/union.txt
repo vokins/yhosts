@@ -243,26 +243,27 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
 #360
-127.0.0.1 commercial.shouji.360.cn
-127.0.0.1 api.so.lianmeng.360.cn
-127.0.0.1 s.lianmeng.360.cn
-127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
+127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 cm.lianmeng.360.cn
+127.0.0.1 commercial.shouji.360.cn
+127.0.0.1 cpull.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s.union.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 service.jiagu.360.cn
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.m.360.cn
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
-127.0.0.1 s.union.360.cn
 #360-qihoo
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
