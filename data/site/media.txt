@@ -4,6 +4,8 @@
 127.0.0.1 counter.m1905.com
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
+#1kxun.com
+127.0.0.1 tcad.wedolook.com
 #56
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com

@@ -16,6 +16,8 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+#meituan.com
+127.0.0.1 push.mobile.meituan.com
 #vip.com
 127.0.0.1 ms.vipstatic.com
 127.0.0.1 api.union.vip.com
@@ -75,6 +77,8 @@
 127.0.0.1 dpvcimg.qqyy.com
 #www.bjmama.net
 127.0.0.1 as.bjmama.net
+#www.seeyouyima.com
+127.0.0.1 ad.seeyouyima.com
 #xywy.com
 127.0.0.1 a.xywy.com
 127.0.0.1 bdmm.xywy.com
@@ -125,6 +129,11 @@
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
 @site/life-info
+#51wnl.com
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
+#caiyunapp.com
+127.0.0.1 ad.caiyunapp.com
 #jandan.net
 127.0.0.1 s.jandan.com
 #m.7791.com.cn
@@ -148,3 +157,5 @@
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
+#moji
+127.0.0.1 ad.api.moji.com

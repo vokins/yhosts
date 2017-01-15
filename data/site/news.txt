@@ -1,4 +1,6 @@
 @site/news
+#app.myzaker.com
+127.0.0.1 ggs.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
@@ -20,6 +22,8 @@
 #chinanews.com
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 i8.chinanews.com
+#flipboard
+127.0.0.1 ad.flipboard.com
 #gmw.cn
 127.0.0.1 ad.gmw.cn
 #ifeng.com
@@ -38,6 +42,8 @@
 127.0.0.1 exp.3g.ifeng.com
 #infzm.com
 127.0.0.1 x.infzm.com
+#m.jiemian.com
+127.0.0.1 ad.jiemian.com
 #people.com.cn
 127.0.0.1 pmm.people.com.cn
 #southcn.com
@@ -56,11 +62,27 @@
 127.0.0.1 youle.tom.com
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 data.adserve2.tomoimg.cn
+#toutiao.com
+127.0.0.1 ad.toutiao.com
+127.0.0.1 d.toutiao.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
+127.0.0.1 partner.toutiao.com
+127.0.0.1 s3.bytecdn.cn
 #w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
+#wufafuwu.com
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
+#www.yidianzixun.com
+127.0.0.1 x.vamaker.com
 #xilu.com
 127.0.0.1 newspage.xilu.com
 #xinhuanet.com

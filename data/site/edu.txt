@@ -29,6 +29,11 @@
 127.0.0.1 stat.ff.zmres.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
+#www.jiakaobaodian.com
+127.0.0.1 123.click.kakamobi.cn
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
 #www.xuexila.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org

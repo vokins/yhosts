@@ -155,6 +155,14 @@
 127.0.0.1 bsch.serving-sys.com
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 secure-ds.serving-sys.com
+#startapp.com
+127.0.0.1 lp.startapp.com
+127.0.0.1 images.startappservice.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 dts.akamai.startappexchange.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
 #statcounter.com
 127.0.0.1 c1.statcounter.com
 127.0.0.1 c2.statcounter.com
@@ -209,6 +217,8 @@
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
+#163-yixin
+127.0.0.1 ad.yixin.im
 #163-youdao
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
@@ -237,6 +247,12 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 mini.eastday.com
+#163-yuedu
+127.0.0.1 push.yuedu.163.com
+127.0.0.1 analytics.hz.netease.com
+127.0.0.1 mr.da.netease.com
+127.0.0.1 rd.da.netease.com
+127.0.0.1 www.qchannel04.cn
 #2345
 127.0.0.1 imgwx3.2345.com
 127.0.0.1 app.50bang.org
@@ -481,6 +497,26 @@
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
+#www.uc.cn
+127.0.0.1 api.mp.uc.cn
+127.0.0.1 puds.ucweb.com
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 iflow.uczzd.cn
+127.0.0.1 iflow.uczzd.com.cn
+127.0.0.1 adslot.uc.cn
+127.0.0.1 applog.uc.cn
+127.0.0.1 dispatcher.upmc.uc.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 cms.ucweb.com
+127.0.0.1 safe.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 ucsec.ucweb.com
+127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 vs6.gzct.uc.ucweb.com
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
+127.0.0.1 huichuan.sm.cn
 #ali-umeng
 127.0.0.1 au.umeng.co
 127.0.0.1 alog.umeng.co
@@ -505,6 +541,8 @@
 127.0.0.1 ex.puata.info
 127.0.0.1 log.umtrack.com
 127.0.0.1 feedback.whalecloud.com
+#ali-wandoujia.com
+127.0.0.1 push.wandoujia.com
 #ali-wrating
 127.0.0.1 163.wrating.com
 127.0.0.1 c.wrating.com
@@ -796,13 +834,15 @@
 127.0.0.1 m1570.oadz.com
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m947.oadz.com
-#qq
+#qq-union
 127.0.0.1 cm.e.qq.com
+127.0.0.1 d3g.qq.com
 127.0.0.1 e.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 pingtcss.qq.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
@@ -811,10 +851,36 @@
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 wb.gtimg.com
-#qq-mob
+#qq-im.qq.com
+127.0.0.1 ca.gtimg.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 ad.qun.qq.com
+127.0.0.1 analy.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 updatecenter.qq.com
+#qq-mob-im.qq.com
+127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 aeventlog.beacon.qq.com
-127.0.0.1 pmir.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+#qq-mb.qq.com
+127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 adsense.html5.qq.com
+127.0.0.1 cooperation.html5.qq.com
+127.0.0.1 game.html5.qq.com
+127.0.0.1 jpush.html5.qq.com
+127.0.0.1 mqqad.cs0309.html5.qq.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 tpush.html5.qq.com
+127.0.0.1 zixuncooperation.html5.qq.com
 #qtmojo
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn

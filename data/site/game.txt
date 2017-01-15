@@ -36,6 +36,8 @@
 127.0.0.1 bmp.ali213.net
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 web.ali213.net
+#gameloft
+127.0.0.1 imp-mdsp.avazutracking.net
 #gamersky.com
 127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
@@ -48,6 +50,9 @@
 127.0.0.1 hl.quw18.com
 127.0.0.1 uqd168.shouji56.com
 127.0.0.1 s.mt145.com
+#nga.cn
+127.0.0.1 att.stargame.com
+127.0.0.1 appsupport.stargame.com
 #tgbus.com
 127.0.0.1 gg.tgbus.com
 127.0.0.1 vista.tgbus.com
