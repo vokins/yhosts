@@ -64,21 +64,19 @@
 #tv.qq.com
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 mcgi.play.aiseet.atianqi.com
-127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
+127.0.0.1 vmindhls.tc.qq.com
+127.0.0.1 wa.gtimg.com
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
-127.0.0.1 p-l.play.aiseet.atianqi.com
-127.0.0.1 pingmid.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
-127.0.0.1 dp3.play.aiseet.atianqi.com
-127.0.0.1 sv-video.play.aiseet.atianqi.com
-127.0.0.1 tv.aiseet.atianqi.com
 #v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com

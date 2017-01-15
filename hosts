@@ -1,5 +1,5 @@
 
-#version=201701151435
+#version=201701152127
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -872,7 +872,6 @@
 127.0.0.1 sj.uukanshu.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
-127.0.0.1 rwq.youle55.com
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 cs.twcczhu.com
 127.0.0.1 s.69shuwu.com
@@ -3814,21 +3813,19 @@
 127.0.0.1 t-l.play.cp81.ott.cibntv.net
 127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 mcgi.play.aiseet.atianqi.com
-127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
+127.0.0.1 vmindhls.tc.qq.com
+127.0.0.1 wa.gtimg.com
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
-127.0.0.1 p-l.play.aiseet.atianqi.com
-127.0.0.1 pingmid.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
-127.0.0.1 dp3.play.aiseet.atianqi.com
-127.0.0.1 sv-video.play.aiseet.atianqi.com
-127.0.0.1 tv.aiseet.atianqi.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
