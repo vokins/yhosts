@@ -1,5 +1,5 @@
 
-#version=201701152327
+#version=201701152354
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3694,11 +3694,12 @@
 127.0.0.1 qiyem.aiwen.cc
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 pic.haowj.com.cn
-127.0.0.1 mjs.sinaimg.cn
 127.0.0.1 n.sinaimg.cn
 127.0.0.1 dl.kjava.sina.cn
 127.0.0.1 hehe1.200218.com
+127.0.0.1 hehe2.200218.com
 127.0.0.1 sscm1.mipujia.com
+127.0.0.1 sscm2.mipujia.com
 127.0.0.1 sscm3.mipujia.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adnet.sohu.com
