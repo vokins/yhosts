@@ -261,6 +261,7 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
 #360
+127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
@@ -753,6 +754,11 @@
 127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+#eqxiu.com
+127.0.0.1 as.eqxiu.com
+127.0.0.1 da.eqxiu.com
+127.0.0.1 lib.eqh5.com
+127.0.0.1 res1.eqh5.com
 #fastapi
 127.0.0.1 cm.fastapi.net
 127.0.0.1 g.fastapi.net
@@ -893,6 +899,7 @@
 127.0.0.1 novelsns.html5.qq.com
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 tpush.html5.qq.com
+127.0.0.1 wup.imtt.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
 #qq-weixin
 127.0.0.1 wxsnsdy.video.qq.com
