@@ -4354,7 +4354,6 @@
 127.0.0.1 txt.go.sohu.com
 #sogou-mb
 127.0.0.1 bazinga.mse.sogou.com
-127.0.0.1 get.sogou.com
 #sogou
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
