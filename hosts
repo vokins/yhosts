@@ -1,5 +1,5 @@
 
-#version=201701161348
+#version=201701161358
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3627,6 +3627,7 @@
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
