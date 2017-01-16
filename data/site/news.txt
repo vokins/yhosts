@@ -44,6 +44,13 @@
 127.0.0.1 x.infzm.com
 #m.jiemian.com
 127.0.0.1 ad.jiemian.com
+#one
+127.0.0.1 v3.wufazhuce.com
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
 #people.com.cn
 127.0.0.1 pmm.people.com.cn
 #southcn.com
@@ -75,12 +82,6 @@
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
-#wufafuwu.com
-127.0.0.1 click.focusad.cn
-127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
-127.0.0.1 fengche.cpv6.com
-127.0.0.1 www.cpv6.com
 #www.yidianzixun.com
 127.0.0.1 x.vamaker.com
 #xilu.com

@@ -1,5 +1,5 @@
 
-#version=201701152354
+#version=201701161209
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -486,6 +486,9 @@
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 startup.oupeng.com
+127.0.0.1 zixun.oupeng.com
+127.0.0.1 img.zixun.oupeng.com
+127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 ip2.pxene.com
 127.0.0.1 cdn.jesgoo.com
@@ -2374,6 +2377,12 @@
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 x.infzm.com
 127.0.0.1 ad.jiemian.com
+127.0.0.1 v3.wufazhuce.com
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
 127.0.0.1 pmm.people.com.cn
 127.0.0.1 sgg.southcn.com
 127.0.0.1 ad.thepaper.cn
@@ -2398,11 +2407,6 @@
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
-127.0.0.1 click.focusad.cn
-127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
-127.0.0.1 fengche.cpv6.com
-127.0.0.1 www.cpv6.com
 127.0.0.1 x.vamaker.com
 127.0.0.1 newspage.xilu.com
 127.0.0.1 embed.xinhuanet.com
@@ -3063,6 +3067,9 @@
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 mbrowser.news.haosou.com
+127.0.0.1 mbrowser.news.so.com
+127.0.0.1 mbs.hao.360.cn
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
 127.0.0.1 s.qhupdate.com
@@ -3120,6 +3127,7 @@
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
+127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -3343,6 +3351,7 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
+127.0.0.1 mbrowser.bdstatic.com
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
@@ -3352,15 +3361,16 @@
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 adscdn.baidu.com
+127.0.0.1 api.cpu.baidu.com
 127.0.0.1 api.share.baidu.com
 127.0.0.1 bce.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cm.baidu.com
-127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
+127.0.0.1 cpu.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 eclick.baidu.com
@@ -3718,6 +3728,7 @@
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
