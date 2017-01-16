@@ -1,4 +1,6 @@
-﻿一个app的ad链接：
+﻿127.0.0.1 upush.meizu.com meizu-flyme 升级
+
+一个app的ad链接：
 v3.wufazhuce.com:8000/api/adstat/pv/1840
 屏蔽后app信息无法加载
 请使用app屏蔽： */adstat/*

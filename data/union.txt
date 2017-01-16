@@ -254,7 +254,9 @@
 127.0.0.1 rd.da.netease.com
 127.0.0.1 www.qchannel04.cn
 #2345
+127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 imgwx3.2345.com
+127.0.0.1 houtai.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org

@@ -252,18 +252,17 @@
 127.0.0.1 susapi.lenovomm.com
 @mob/meizu
 #meizu-flyme
-127.0.0.1 upush.meizu.com
-127.0.0.1 api-push.meizu.com
-127.0.0.1 api-flow.flyme.cn
 127.0.0.1 api-game.meizu.com
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 t-e.flyme.cn
-127.0.0.1 t-flow.flyme.cn
+127.0.0.1 api-push.meizu.com
 127.0.0.1 compaign.meizu.com
+127.0.0.1 game.res.meizu.com
+127.0.0.1 openapi-news.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
-127.0.0.1 game.res.meizu.com
 127.0.0.1 upush.res.meizu.com
+127.0.0.1 api-flow.flyme.cn
+127.0.0.1 t-e.flyme.cn
+127.0.0.1 t-flow.flyme.cn
 @mob/miui
 #cm-adfuture
 127.0.0.1 adfuture.cn
