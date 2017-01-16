@@ -1,5 +1,5 @@
 
-#version=201701161321
+#version=201701161348
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -570,6 +570,7 @@
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
+127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 dl.union.ijinshan.com
@@ -577,6 +578,7 @@
 127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
+127.0.0.1 sdk.mobad.ijinshan.com
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 beha.ksmobile.com
@@ -3613,15 +3615,16 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 adfilter.imtt.qq.com
-127.0.0.1 adsolution.imtt.qq.com
-127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 adsense.html5.qq.com
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
 127.0.0.1 creatim.qtmojo.cn
@@ -3740,6 +3743,8 @@
 127.0.0.1 pb.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 wangmeng.sogou.com
+127.0.0.1 rd.e.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 cap.touclick.com

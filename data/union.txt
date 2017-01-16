@@ -882,15 +882,16 @@
 127.0.0.1 oth.str.mdt.qq.com
 #qq-mb.qq.com
 127.0.0.1 adfilter.imtt.qq.com
-127.0.0.1 adsolution.imtt.qq.com
-127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 adsense.html5.qq.com
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
 #qtmojo
@@ -1022,6 +1023,8 @@
 127.0.0.1 pb.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 wangmeng.sogou.com
+127.0.0.1 rd.e.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
 #touclick

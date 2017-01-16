@@ -280,6 +280,7 @@
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
 #cm-ijinshan
+127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 dl.union.ijinshan.com
@@ -287,6 +288,7 @@
 127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
+127.0.0.1 sdk.mobad.ijinshan.com
 #cm-ksmobile
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ups.ksmobile.net

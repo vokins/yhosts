@@ -1,4 +1,7 @@
 ﻿127.0.0.1 upush.meizu.com meizu-flyme 升级
+tbs链接： soft.tbs.imtt.qq.com
+可以在hosts里添加
+soft.tbs.imtt.qq.com/17421/tbs_res_imtt_tbs_release_mini_qb_1.9.1.2005_01092005_20161207_130458_beta.tbs
 
 一个app的ad链接：
 v3.wufazhuce.com:8000/api/adstat/pv/1840
