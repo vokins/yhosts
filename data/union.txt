@@ -588,7 +588,6 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
-127.0.0.1 mbrowser.bdstatic.com
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
@@ -640,6 +639,10 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+#baidu-mb
+127.0.0.1 als.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 mbrowser.bdstatic.com
 #baidu-mob
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
@@ -998,6 +1001,9 @@
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+#sogou-mb
+127.0.0.1 bazinga.mse.sogou.com
+127.0.0.1 get.sogou.com
 #sogou
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com

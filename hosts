@@ -1,5 +1,5 @@
 
-#version=201701161209
+#version=201701161255
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -615,6 +615,7 @@
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
+127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 a.mini.eastday.com
@@ -2377,7 +2378,6 @@
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 x.infzm.com
 127.0.0.1 ad.jiemian.com
-127.0.0.1 v3.wufazhuce.com
 127.0.0.1 click.focusad.cn
 127.0.0.1 finead.cn
 127.0.0.1 www.finead.cn
@@ -3351,7 +3351,6 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
-127.0.0.1 mbrowser.bdstatic.com
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
@@ -3402,6 +3401,9 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 als.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 mbrowser.bdstatic.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
@@ -3720,6 +3722,8 @@
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 bazinga.mse.sogou.com
+127.0.0.1 get.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 dsp.brand.sogou.com

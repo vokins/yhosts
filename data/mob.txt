@@ -328,6 +328,7 @@
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
+127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 a.mini.eastday.com

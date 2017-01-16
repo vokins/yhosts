@@ -1,4 +1,9 @@
-﻿你把这个文件夹删除掉，建立一个文本文件权限设置成只读就行了
+﻿一个app的ad链接：
+v3.wufazhuce.com:8000/api/adstat/pv/1840
+屏蔽后app信息无法加载
+请使用app屏蔽： */adstat/*
+
+你把这个文件夹删除掉，建立一个文本文件权限设置成只读就行了
 qq视频 tv版本：
 /mnt/sdcard/qcache/data/ad_cache
 /mnt/sdcard/Tencent/TPush

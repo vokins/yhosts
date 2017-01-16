@@ -45,7 +45,6 @@
 #m.jiemian.com
 127.0.0.1 ad.jiemian.com
 #one
-127.0.0.1 v3.wufazhuce.com
 127.0.0.1 click.focusad.cn
 127.0.0.1 finead.cn
 127.0.0.1 www.finead.cn
