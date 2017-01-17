@@ -1,5 +1,5 @@
 
-#version=201701171020
+#version=201701171306
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -438,11 +438,13 @@
 127.0.0.1 ads.heyzap.com
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
+127.0.0.1 au-cn.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 et-cn.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
