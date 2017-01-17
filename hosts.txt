@@ -1318,6 +1318,19 @@
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
 #btdigg.pw
+127.0.0.1 cpv-ads.ggytc.com
+127.0.0.1 p2.hyz86.com 
+127.0.0.1 um29.com
+127.0.0.1 m.hascosafety.com
+127.0.0.1 js.xxcgdq.com
+127.0.0.1 js883.njqunyi.com
+127.0.0.1 t2.ugg66.com
+127.0.0.1 c.ugg66.com
+127.0.0.1 s.if1512.com
+127.0.0.1 cs.xitao3.com
+127.0.0.1 wap.txwdn.com
+127.0.0.1 sj.ggymob.top
+127.0.0.1 cp.ggyapp.com
 127.0.0.1 js.zgyemy.com
 127.0.0.1 code.guomob.com
 127.0.0.1 b99u.top
@@ -1402,7 +1415,6 @@
 127.0.0.1 do.apkdo.com
 127.0.0.1 img1.pszyzxh.org
 127.0.0.1 js3555.alitianxia168.com
-127.0.0.1 js883.yongkang6.com:81
 127.0.0.1 jump2.pszyzxh.org
 127.0.0.1 kt.kt220.com
 127.0.0.1 m.kt0731.com
