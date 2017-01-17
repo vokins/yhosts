@@ -120,3 +120,5 @@ URL:sp1.baidu.com
 imglf0.nosdn.127.net会导致lofter app一些图片无法加载。
 clickme.net网站不是广告
 homestatic.ctfile.com
+
+get.sogou.com :误杀，会造成搜狗输入法表情内图片加载不了
