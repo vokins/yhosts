@@ -4209,7 +4209,6 @@
 127.0.0.1 cm.e.qq.com
 127.0.0.1 d3g.qq.com
 127.0.0.1 e.qq.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 pingtcss.qq.com
