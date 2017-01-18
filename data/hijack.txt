@@ -82,6 +82,9 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 navi.gd.chinamobile.com
+@hijack/microsoft
+127.0.0.1 ieonline.microsoft.com
+127.0.0.1 www.msn.com
 @hijack/miwifi
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
