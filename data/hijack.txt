@@ -82,6 +82,10 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 navi.gd.chinamobile.com
+@hijack/apk-down
+127.0.0.1 m.kubiqq.com
+127.0.0.1 m.3944540.com
+127.0.0.1 m5.apk.67mo.com
 @hijack/microsoft
 127.0.0.1 ieonline.microsoft.com
 127.0.0.1 www.msn.com

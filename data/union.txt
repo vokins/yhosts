@@ -502,6 +502,7 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 temai.taobao.com
+127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
@@ -630,6 +631,11 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 zhanzhang.baidu.com
+127.0.0.1 sp0.baidu.com
+127.0.0.1 sp1.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 #baidu-iframe
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com

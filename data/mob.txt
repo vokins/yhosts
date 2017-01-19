@@ -467,6 +467,7 @@
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
+127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 #www.kuaiya.cn

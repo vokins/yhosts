@@ -196,10 +196,8 @@
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 p.l.youku.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 push.m.youku.com
-127.0.0.1 r.l.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com

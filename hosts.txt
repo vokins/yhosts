@@ -351,6 +351,10 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 navi.gd.chinamobile.com
+@hijack/apk-down
+127.0.0.1 m.kubiqq.com
+127.0.0.1 m.3944540.com
+127.0.0.1 m5.apk.67mo.com
 @hijack/microsoft
 127.0.0.1 ieonline.microsoft.com
 127.0.0.1 www.msn.com
@@ -873,6 +877,7 @@
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
+127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 #www.kuaiya.cn
@@ -2079,8 +2084,12 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+#wap.ithome.com
+127.0.0.1 1.win7china.com
+127.0.0.1 2.win7china.com
 #jb51.net
 127.0.0.1 bdjs.jb51.net
+127.0.0.1 files.jb51.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
 #pchome
@@ -2486,6 +2495,7 @@
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
 #mgtv.com
+127.0.0.1 pcaliyun.res.mgtv.com
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 s.mini.kuaibo.com
@@ -2605,7 +2615,10 @@
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 m.yes.youku.com
 127.0.0.1 miaozhen.atm.youku.com
+127.0.0.1 p.l.youku.com
 127.0.0.1 player.lstat.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 reply.lomark.cn
 127.0.0.1 static.atm.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 v2html.atm.youku.com
@@ -2615,7 +2628,6 @@
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vid.atm.youku.com
-127.0.0.1 reply.lomark.cn
 @site/movie
 #dytt8.net
 127.0.0.1 url.222bz.com
@@ -3872,6 +3884,7 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 temai.taobao.com
+127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
@@ -4000,6 +4013,11 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 zhanzhang.baidu.com
+127.0.0.1 sp0.baidu.com
+127.0.0.1 sp1.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 #baidu-iframe
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
