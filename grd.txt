@@ -699,7 +699,9 @@
 61.91.161.217 scholar.google.com.hk
 61.91.161.217 scholar.google.com.tw
 61.91.161.217 sites.google.com
+61.91.161.217 surveys.google.com
 61.91.161.217 sketchup.google.com
+61.91.161.217 tagmanager.google.com
 61.91.161.217 talkgadget.google.com
 61.91.161.217 tools.google.com
 61.91.161.217 toolbar.google.com

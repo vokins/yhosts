@@ -1,5 +1,5 @@
 
-#version=201701192355
+#version=201701202304
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3650,9 +3650,11 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
-127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 rm.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
+127.0.0.1 win.gdt.qq.com
 127.0.0.1 updatecenter.qq.com
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 aeventlog.beacon.qq.com
