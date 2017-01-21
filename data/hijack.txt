@@ -102,6 +102,13 @@
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 @hijack/wifi
+127.0.0.1 c.minisplat.cn
+127.0.0.1 c1.minisplat.cn
+127.0.0.1 l.minisplat.cn
+127.0.0.1 o.minisplat.cn
+127.0.0.1 u0.s.minisplat.cn
+127.0.0.1 u1.s.minisplat.cn
+127.0.0.1 u2.s.minisplat.cn
 127.0.0.1 ad.1111cpc.com
 127.0.0.1 creative.1111cpc.com
 127.0.0.1 mm.dopa.com.cn

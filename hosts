@@ -1,5 +1,5 @@
 
-#version=201701212138
+#version=201701212146
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -316,6 +316,13 @@
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
 127.0.0.1 api.g1.junfull.com
+127.0.0.1 c.minisplat.cn
+127.0.0.1 c1.minisplat.cn
+127.0.0.1 l.minisplat.cn
+127.0.0.1 o.minisplat.cn
+127.0.0.1 u0.s.minisplat.cn
+127.0.0.1 u1.s.minisplat.cn
+127.0.0.1 u2.s.minisplat.cn
 127.0.0.1 ad.1111cpc.com
 127.0.0.1 creative.1111cpc.com
 127.0.0.1 mm.dopa.com.cn
@@ -483,13 +490,6 @@
 127.0.0.1 cdn.millennialmedia.com
 127.0.0.1 images.millennialmedia.com
 127.0.0.1 millennialmedia.com
-127.0.0.1 c.minisplat.cn
-127.0.0.1 c1.minisplat.cn
-127.0.0.1 l.minisplat.cn
-127.0.0.1 o.minisplat.cn
-127.0.0.1 u0.s.minisplat.cn
-127.0.0.1 u1.s.minisplat.cn
-127.0.0.1 u2.s.minisplat.cn
 127.0.0.1 api.moogos.com
 127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.moogos.com
@@ -4072,6 +4072,7 @@
 127.0.0.1 iyes.youku.com
 127.0.0.1 api.mobile.youku.com
 127.0.0.1 down.api.mobile.youku.com
+127.0.0.1 das.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com

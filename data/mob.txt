@@ -152,14 +152,6 @@
 127.0.0.1 cdn.millennialmedia.com
 127.0.0.1 images.millennialmedia.com
 127.0.0.1 millennialmedia.com
-#minisplat.cn
-127.0.0.1 c.minisplat.cn
-127.0.0.1 c1.minisplat.cn
-127.0.0.1 l.minisplat.cn
-127.0.0.1 o.minisplat.cn
-127.0.0.1 u0.s.minisplat.cn
-127.0.0.1 u1.s.minisplat.cn
-127.0.0.1 u2.s.minisplat.cn
 #moogos.com
 127.0.0.1 api.moogos.com
 127.0.0.1 c3.moogos.com
