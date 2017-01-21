@@ -887,6 +887,7 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
+127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com

@@ -1,5 +1,5 @@
 
-#version=201701212112
+#version=201701212122
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3667,6 +3667,7 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
+127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -4067,7 +4068,7 @@
 127.0.0.1 rd.kuaigames.com
 127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 iyes.youku.com
-127.0.0.1 r1.ykimg.com
+127.0.0.1 api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
