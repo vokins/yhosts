@@ -139,5 +139,7 @@
 127.0.0.1 www.tz-dsp.com
 127.0.0.1 eee.kj78.org
 127.0.0.1 www.706529.com
+127.0.0.1 maxwebsearch.com
+127.0.0.1 www.searchswapper.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
