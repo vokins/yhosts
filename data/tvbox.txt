@@ -190,6 +190,7 @@
 127.0.0.1 dl.g.youku.com
 127.0.0.1 e.stat.youku.com
 127.0.0.1 lstat.youku.com
+127.0.0.1 m.atm.youku.com
 127.0.0.1 mb.atm.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
@@ -221,6 +222,9 @@
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
+127.0.0.1 a-dxk.play.api.3g.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 r1.ykimg.com
 #youku-area
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com

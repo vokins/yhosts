@@ -270,5 +270,6 @@
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.shuzilm.cn
+127.0.0.1 daa.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
 127.0.0.1 reply.lomark.cn

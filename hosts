@@ -1,5 +1,5 @@
 
-#version=201701212030
+#version=201701212112
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2217,6 +2217,7 @@
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.shuzilm.cn
+127.0.0.1 daa.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
 127.0.0.1 reply.lomark.cn
 127.0.0.1 url.222bz.com
@@ -3299,26 +3300,34 @@
 127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
+127.0.0.1 acs.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 w.m.taobao.com
+127.0.0.1 hz.pre.tbusergw.taobao.net
+127.0.0.1 hz.tbusergw.taobao.net
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 ai.taobao.com
+127.0.0.1 amdc.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
+127.0.0.1 huodong.m.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 temai.taobao.com
-127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
@@ -4024,6 +4033,7 @@
 127.0.0.1 dl.g.youku.com
 127.0.0.1 e.stat.youku.com
 127.0.0.1 lstat.youku.com
+127.0.0.1 m.atm.youku.com
 127.0.0.1 mb.atm.youku.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mi.atm.youku.com
@@ -4055,6 +4065,9 @@
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
+127.0.0.1 a-dxk.play.api.3g.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 r1.ykimg.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
