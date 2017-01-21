@@ -224,9 +224,6 @@
 127.0.0.1 rd.kuaigames.com
 127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 iyes.youku.com
-127.0.0.1 api.mobile.youku.com
-127.0.0.1 down.api.mobile.youku.com
-127.0.0.1 das.api.mobile.youku.com
 #youku-area
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
