@@ -1,5 +1,5 @@
 
-#version=201701211807
+#version=201701211913
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3653,6 +3653,7 @@
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 c.gdt.qq.com
+127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 v.gdt.qq.com

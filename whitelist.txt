@@ -123,5 +123,6 @@ homestatic.ctfile.com
 
 get.sogou.com  :误杀，会造成搜狗输入法表情内图片加载不了
 mi.gdt.qq.com ：误杀，会导致旗鱼影视首页无法加载。
+删除mi.gdt.qq.com这条数据 会造成 部分广告屏蔽不完美 造成迅雷界面的各种广告
 sqdd.myapp.com ：多重用途，可以屏蔽手机QQ后台偷偷下载安装包 ，但会造成QQ群成员里查看“最近发言”功能无法使用。
 127.0.0.1 upush.meizu.com meizu-flyme 升级
