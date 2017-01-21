@@ -77,6 +77,8 @@
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
+127.0.0.1 omgmta1.qq.com
+127.0.0.1 dp3.qq.com
 #v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
@@ -224,6 +226,10 @@
 127.0.0.1 rd.kuaigames.com
 127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 iyes.youku.com
+127.0.0.1 l.ftx.fancyapi.com
+127.0.0.1 w.fancyapi.com
+127.0.0.1 l.fancyapi.com
+127.0.0.1 image.uczzd.cn
 #youku-area
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com

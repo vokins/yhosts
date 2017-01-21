@@ -2636,7 +2636,9 @@
 127.0.0.1 api.shuzilm.cn
 127.0.0.1 daa.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
+127.0.0.1 cb.lomark.cn
 127.0.0.1 reply.lomark.cn
+127.0.0.1 rm.lomark.cn
 @site/movie
 #dytt8.net
 127.0.0.1 url.222bz.com
