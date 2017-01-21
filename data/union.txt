@@ -894,6 +894,7 @@
 127.0.0.1 jrlt.beacon.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 log.tbs.qq.com
 #qq-mb.qq.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
