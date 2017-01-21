@@ -1,5 +1,5 @@
 
-#version=201701212122
+#version=201701212138
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -355,6 +355,7 @@
 127.0.0.1 www.706529.com
 127.0.0.1 maxwebsearch.com
 127.0.0.1 www.searchswapper.com
+127.0.0.1 ssp.thescenseproject.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -3617,29 +3618,30 @@
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 tran.mediav.com
-127.0.0.1 tytx.m.cn.miaozhen.com
-127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
-127.0.0.1 e.cn.miaozhen.com
-127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 js.miaozhen.com
-127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 a.ads.cn.miaozhen.com
+127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 c.x.cn.miaozhen.com
 127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 e.ads.cn.miaozhen.com
+127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
+127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 g.miaozhen.com
+127.0.0.1 js.miaozhen.com
 127.0.0.1 letv.ipdx.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 sd.cn.miaozhen.com
+127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sohutv.hpg.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
+127.0.0.1 tytx.m.cn.miaozhen.com
+127.0.0.1 yktd.ads.cn.miaozhen.com
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 127.0.0.1 2311.oadz.com
@@ -4069,6 +4071,7 @@
 127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 iyes.youku.com
 127.0.0.1 api.mobile.youku.com
+127.0.0.1 down.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
