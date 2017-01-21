@@ -245,6 +245,8 @@
 127.0.0.1 ini.pinguopai.cn
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
+127.0.0.1 liuliang.duoqu124.com
+127.0.0.1 www.duoqu124.com
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
