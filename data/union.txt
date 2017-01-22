@@ -191,6 +191,10 @@
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
 @web-cn/common
+#00oo00.com
+127.0.0.1 i.00oo00.com
+127.0.0.1 link.00oo00.com
+127.0.0.1 s.00oo00.com
 #163
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -298,6 +302,14 @@
 127.0.0.1 api.appjiagu.com
 127.0.0.1 c.appjiagu.com
 127.0.0.1 s.appjiagu.com
+#37cs.com
+127.0.0.1 code.37cs.com
+127.0.0.1 fb.37cs.com
+#3ygww.com
+127.0.0.1 b.3ygww.com
+127.0.0.1 in.3ygww.com
+127.0.0.1 s.3ygww.com
+127.0.0.1 sc.3ygww.com
 #51.la
 127.0.0.1 icon.51.la
 127.0.0.1 img.users.51.la
@@ -321,6 +333,18 @@
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
+#6dad.com
+127.0.0.1 e4.6dad.com
+127.0.0.1 www.6dad.com
+#8ox.cn
+127.0.0.1 d16b4.8ox.cn
+127.0.0.1 66.8ox.cn
+127.0.0.1 u5.8ox.cn
+127.0.0.1 89.8ox.cn
+127.0.0.1 dl.8ox.cn
+#88rpg.net
+127.0.0.1 img.88rpg.net
+127.0.0.1 cpc.88rpg.net
 #acs86.com
 127.0.0.1 amob.acs86.com
 127.0.0.1 minisite.acs86.com
@@ -334,6 +358,10 @@
 127.0.0.1 js.ad7.com
 127.0.0.1 trace.ad7.com
 127.0.0.1 www.ad7.com
+#admin6.com
+127.0.0.1 code.admin6.com
+127.0.0.1 js.admin6.com
+127.0.0.1 jump.admin6.com
 #admaster
 127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
@@ -514,7 +542,7 @@
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
-#www.uc.cn
+#ali-uc.cn
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 puds.ucweb.com
 127.0.0.1 log.cs.pp.cn
@@ -594,6 +622,15 @@
 #allyes
 127.0.0.1 1.allyes.com.cn
 127.0.0.1 creatim.allyes.com.cn
+#anreson.net
+127.0.0.1 js1116.anreson.net
+127.0.0.1 js1315.anreson.net
+127.0.0.1 js1597.anreson.net
+127.0.0.1 js1940.anreson.net
+127.0.0.1 js2294.anreson.net
+127.0.0.1 js883.anreson.net
+127.0.0.1 ms.anreson.net
+127.0.0.1 stats.anreson.net
 #baidu
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -763,6 +800,22 @@
 127.0.0.1 www.optimix.cn
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
+#cnbole.net
+127.0.0.1 ji.cnbole.net
+127.0.0.1 js1116.cnbole.net
+127.0.0.1 js1210.cnbole.net
+127.0.0.1 js1315.cnbole.net
+127.0.0.1 js1597.cnbole.net
+127.0.0.1 js2294.cnbole.net
+127.0.0.1 js3077.cnbole.net
+127.0.0.1 js3636.cnbole.net
+127.0.0.1 js3698.cnbole.net
+127.0.0.1 js4110.cnbole.net
+127.0.0.1 js436.cnbole.net
+127.0.0.1 js453.cnbole.net
+127.0.0.1 js883.cnbole.net
+127.0.0.1 js986.cnbole.net
+127.0.0.1 stat1.cnbole.net
 #emarbox.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com
@@ -800,6 +853,11 @@
 127.0.0.1 id.jiathis.com
 127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
+#jointreport-switch.com
+127.0.0.1 lg2.jointreport-switch.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 popup.jointreport-switch.com
+127.0.0.1 media-static.jointreport-switch.com
 #kejet
 127.0.0.1 as.kejet.net
 127.0.0.1 aw.kejet.net
@@ -812,6 +870,18 @@
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
 127.0.0.1 ss.knet.cn
+#lishuanghao.com
+127.0.0.1 js1210.lishuanghao.com
+127.0.0.1 js1406.lishuanghao.com
+127.0.0.1 js1500.lishuanghao.com
+127.0.0.1 js1867.lishuanghao.com
+127.0.0.1 js2294.lishuanghao.com
+127.0.0.1 js2608.lishuanghao.com
+127.0.0.1 js2645.lishuanghao.com
+127.0.0.1 js2707.lishuanghao.com
+127.0.0.1 js859.lishuanghao.com
+127.0.0.1 js883.lishuanghao.com
+127.0.0.1 js916.lishuanghao.com
 #mediav
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
@@ -867,6 +937,17 @@
 127.0.0.1 m1570.oadz.com
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m947.oadz.com
+#onetad.com
+127.0.0.1 code12.onetad.com
+127.0.0.1 pic8.onetad.com
+127.0.0.1 ww101.onetad.com
+127.0.0.1 wwv.onetad.com
+#qiyou.com
+127.0.0.1 c.qiyou.com
+127.0.0.1 img.qiyou.com
+127.0.0.1 p.qiyou.com
+127.0.0.1 r.qiyou.com
+127.0.0.1 rs.qiyou.com
 #qq-union
 127.0.0.1 cm.e.qq.com
 127.0.0.1 d3g.qq.com
@@ -888,7 +969,6 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
-127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
@@ -922,6 +1002,17 @@
 127.0.0.1 zixuncooperation.html5.qq.com
 #qq-weixin
 127.0.0.1 wxsnsdy.video.qq.com
+#qucaigg.com
+127.0.0.1 2018.qucaigg.com
+127.0.0.1 2tu.qucaigg.com
+127.0.0.1 80s.qucaigg.com
+127.0.0.1 bttt.qucaigg.com
+127.0.0.1 dygang.kkcaicai.com
+127.0.0.1 g.qucaigg.com
+127.0.0.1 gg.qucaigg.com
+127.0.0.1 mp4ba.qucaigg.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 px.qucaigg.com
 #qtmojo
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
@@ -1072,6 +1163,10 @@
 127.0.0.1 ads.vamaker.com
 127.0.0.1 cm.vamaker.com
 127.0.0.1 cdn.vamaker.com
+#wgnlz.com
+127.0.0.1 cacaca.wgnlz.com
+127.0.0.1 wgn.wgnlz.com
+127.0.0.1 wgz.wgnlz.com
 #wumi
 127.0.0.1 app.wumii.com
 127.0.0.1 s.jimdo.com
@@ -1105,3 +1200,6 @@
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 z.sora.yoyi.com.cn
+#zqzxz.com
+127.0.0.1 img2.zqzxz.com
+127.0.0.1 img3.zqzxz.com

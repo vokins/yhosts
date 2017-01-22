@@ -112,6 +112,8 @@
 #xitek.com
 127.0.0.1 www8.xitek.com
 @site/pic-tu
+#hotmm.tk
+127.0.0.1 url.hotmm.tk
 #m.5442.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 hl.butou.cn

@@ -132,13 +132,18 @@
 #ctfile.com
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 lg2.jointreport-switch.com
 #fxxz.com
 127.0.0.1 show.tcth8.com
 127.0.0.1 count.612.com
 127.0.0.1 c5.97you.net
 #greenxf.com
 127.0.0.1 down.xiazai2.net
+#gueizu.com
+127.0.0.1 imxiexie.cn
+127.0.0.1 oatdbtwdu.qnssl.com
+127.0.0.1 u193035.pr00001.com
+127.0.0.1 www.94lm.com
+127.0.0.1 www.sg-huanya.com
 #m.muzisoft.com
 127.0.0.1 d.ltss8.com
 127.0.0.1 down.qiqi.cc
