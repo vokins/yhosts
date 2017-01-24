@@ -247,6 +247,10 @@
 127.0.0.1 dl.fly086.com
 127.0.0.1 liuliang.duoqu124.com
 127.0.0.1 www.duoqu124.com
+127.0.0.1 morepoweronmac.trade
+127.0.0.1 tr.offtrackads.com
+127.0.0.1 onclkds.com
+127.0.0.1 xiazai.downok.com
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
@@ -1718,7 +1722,6 @@
 127.0.0.1 rc.fthcz.com
 127.0.0.1 s.fthcz.com
 127.0.0.1 rc.mgwcn.com
-127.0.0.1 img1.zqzxz.com
 #m.kb20.cc
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
@@ -1779,6 +1782,10 @@
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
+#vip.ihuan.me
+127.0.0.1 js3810.yzh360.com
+127.0.0.1 js3810.zhudiaosz.com
+127.0.0.1 js3810.yongkang6.com
 #www.8gdyhd.com
 127.0.0.1 u349036.778669.com
 127.0.0.1 vip.shuma2.com
@@ -2427,18 +2434,29 @@
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 dy.niu.xunlei.com
 127.0.0.1 hezuo.down.xunlei.com
+127.0.0.1 jiuwo.xunlei.com
 127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 jump2.niu.xunlei.com
 127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 kkpgv3.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
+127.0.0.1 material.xl7.xunlei.com
+127.0.0.1 msg.client.xunlei.com
+127.0.0.1 msg2.client.xunlei.com
+127.0.0.1 niu.ag.xldp.xunlei.com
 127.0.0.1 niu.xunlei.com
 127.0.0.1 pv.xmp.stat.xunlei.com
+127.0.0.1 setup.stat.v.xunlei.com
 127.0.0.1 stat.download.xunlei.com
 127.0.0.1 static2.ssp.xunlei.com
 127.0.0.1 sys7.msg.xunlei.com
 127.0.0.1 thunderqtypv.union.xunlei.com
 127.0.0.1 tips.v.xunlei.com
 127.0.0.1 upgrade.m.xunlei.com
+127.0.0.1 v2.boxcfg.niu.xunlei.com
+127.0.0.1 viewerproxy.niu.xunlei.com
+127.0.0.1 xl7.cash.xunlei.com
+127.0.0.1 xl7xml.client.xunlei.com
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
 127.0.0.1 biz5.kankan.com
@@ -2604,6 +2622,7 @@
 127.0.0.1 themis.ykimg.com
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 m.yes.youku.com
+127.0.0.1 myes.youku.com
 127.0.0.1 p.l.youku.com
 127.0.0.1 player.lstat.youku.com
 127.0.0.1 r.l.youku.com
@@ -3624,6 +3643,7 @@
 #360-qihoo
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
+127.0.0.1 s.sh.qihoo.com
 127.0.0.1 s.qhupdate.com
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 top.h.qhimg.com
@@ -3846,12 +3866,8 @@
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 w.m.taobao.com
-127.0.0.1 hz.pre.tbusergw.taobao.net
-127.0.0.1 hz.tbusergw.taobao.net
 #ali-taobao
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
@@ -4212,6 +4228,9 @@
 127.0.0.1 js859.lishuanghao.com
 127.0.0.1 js883.lishuanghao.com
 127.0.0.1 js916.lishuanghao.com
+#ljrtb.cn
+127.0.0.1 w.bid.ljrtb.cn
+127.0.0.1 res.bid.ljrtb.cn
 #mediav
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
@@ -4531,6 +4550,7 @@
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 z.sora.yoyi.com.cn
 #zqzxz.com
+127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com
 127.0.0.1 img3.zqzxz.com
 127.0.0.1 20170101.biz5.kankan.com

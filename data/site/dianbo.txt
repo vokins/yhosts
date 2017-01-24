@@ -50,7 +50,6 @@
 127.0.0.1 rc.fthcz.com
 127.0.0.1 s.fthcz.com
 127.0.0.1 rc.mgwcn.com
-127.0.0.1 img1.zqzxz.com
 #m.kb20.cc
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
@@ -111,6 +110,10 @@
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
+#vip.ihuan.me
+127.0.0.1 js3810.yzh360.com
+127.0.0.1 js3810.zhudiaosz.com
+127.0.0.1 js3810.yongkang6.com
 #www.8gdyhd.com
 127.0.0.1 u349036.778669.com
 127.0.0.1 vip.shuma2.com

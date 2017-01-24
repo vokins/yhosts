@@ -294,6 +294,7 @@
 #360-qihoo
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
+127.0.0.1 s.sh.qihoo.com
 127.0.0.1 s.qhupdate.com
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 top.h.qhimg.com
@@ -516,12 +517,8 @@
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 w.m.taobao.com
-127.0.0.1 hz.pre.tbusergw.taobao.net
-127.0.0.1 hz.tbusergw.taobao.net
 #ali-taobao
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
@@ -882,6 +879,9 @@
 127.0.0.1 js859.lishuanghao.com
 127.0.0.1 js883.lishuanghao.com
 127.0.0.1 js916.lishuanghao.com
+#ljrtb.cn
+127.0.0.1 w.bid.ljrtb.cn
+127.0.0.1 res.bid.ljrtb.cn
 #mediav
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
@@ -1201,5 +1201,6 @@
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 z.sora.yoyi.com.cn
 #zqzxz.com
+127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com
 127.0.0.1 img3.zqzxz.com

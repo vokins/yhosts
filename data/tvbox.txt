@@ -218,7 +218,6 @@
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
-127.0.0.1 qr.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 cmstool.youku.com
 127.0.0.1 cms.laifeng.com
