@@ -65,6 +65,7 @@
 127.0.0.1 e.0313413.com
 127.0.0.1 img2.cs153.com
 127.0.0.1 img.yingkeduo.cn
+127.0.0.1 v.xiucm.com
 #m.kk3.cc
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com

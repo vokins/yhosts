@@ -1737,6 +1737,7 @@
 127.0.0.1 e.0313413.com
 127.0.0.1 img2.cs153.com
 127.0.0.1 img.yingkeduo.cn
+127.0.0.1 v.xiucm.com
 #m.kk3.cc
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
@@ -3555,7 +3556,6 @@
 127.0.0.1 rec.g.163.com
 127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
-127.0.0.1 temp.163.com
 #163-12x
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 android.push.126.net
