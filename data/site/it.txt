@@ -116,7 +116,6 @@
 127.0.0.1 ca.cbsi.com.cn
 127.0.0.1 data.cbsi.com.cn
 127.0.0.1 dmp.cbsi.com.cn
-127.0.0.1 dw.cbsi.com
 127.0.0.1 dw.cbsi.com.cn
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
@@ -173,4 +172,6 @@
 #yxdown.com
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com

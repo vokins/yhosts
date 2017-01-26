@@ -89,6 +89,13 @@
 #m.q4yy.com
 127.0.0.1 kiss.cncy8.com
 #m.quankan.tv
+127.0.0.1 img3.km.com
+127.0.0.1 img2.km.com
+127.0.0.1 img1.km.com
+127.0.0.1 dx01.daomengad.com
+127.0.0.1 v.360daidai.net
+127.0.0.1 www.bjyjytz.com
+127.0.0.1 m.wuhcontrol.com
 127.0.0.1 vvv.sqjgdx.com
 127.0.0.1 h.51scj.com
 127.0.0.1 s.mxmrt.com

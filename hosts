@@ -1,5 +1,5 @@
 
-#version=201701261729
+#version=201701261951
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1315,7 +1315,6 @@
 127.0.0.1 f.e719.net
 127.0.0.1 cpc.haohaowan8.com
 127.0.0.1 www.baigm.com
-127.0.0.1 good.ta80.com
 127.0.0.1 z.top267.com
 127.0.0.1 dougou88.com
 127.0.0.1 v.6dvip.com
@@ -1508,6 +1507,13 @@
 127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
 127.0.0.1 kiss.cncy8.com
+127.0.0.1 img3.km.com
+127.0.0.1 img2.km.com
+127.0.0.1 img1.km.com
+127.0.0.1 dx01.daomengad.com
+127.0.0.1 v.360daidai.net
+127.0.0.1 www.bjyjytz.com
+127.0.0.1 m.wuhcontrol.com
 127.0.0.1 vvv.sqjgdx.com
 127.0.0.1 h.51scj.com
 127.0.0.1 s.mxmrt.com
@@ -1683,7 +1689,6 @@
 127.0.0.1 ja.gamersky.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ujake.shouji56.com
-127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 uqd168.shouji56.com
@@ -1807,7 +1812,6 @@
 127.0.0.1 ca.cbsi.com.cn
 127.0.0.1 data.cbsi.com.cn
 127.0.0.1 dmp.cbsi.com.cn
-127.0.0.1 dw.cbsi.com
 127.0.0.1 dw.cbsi.com.cn
 127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
@@ -1850,6 +1854,8 @@
 127.0.0.1 fe0s.nuion.cn
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.egou.com
@@ -2643,7 +2649,6 @@
 127.0.0.1 sy.flash.mytanwan.com
 127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 rrr.youle55.com
-127.0.0.1 js.ta80.com
 127.0.0.1 s5.keydot.net
 127.0.0.1 imgcdn.ynwqls.com
 127.0.0.1 vip.yoyozz.net
@@ -2807,7 +2812,6 @@
 127.0.0.1 images.xibei70.com
 127.0.0.1 r.5207470.com
 127.0.0.1 mob.huimee.net
-127.0.0.1 ggr.yxdown.com
 127.0.0.1 q.0451106.com
 127.0.0.1 ad.thinkmedia.cn
 127.0.0.1 erebor.douban.com
@@ -3859,6 +3863,8 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 js.ta80.com
+127.0.0.1 good.ta80.com
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com
 127.0.0.1 cdnjs.touclick.com

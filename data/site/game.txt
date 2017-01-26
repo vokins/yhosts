@@ -45,7 +45,6 @@
 127.0.0.1 ioa.hdkrs.com
 #m.shouji56.com
 127.0.0.1 ujake.shouji56.com
-127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 uqd168.shouji56.com

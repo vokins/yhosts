@@ -17,7 +17,6 @@
 127.0.0.1 sy.flash.mytanwan.com
 127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 rrr.youle55.com
-127.0.0.1 js.ta80.com
 127.0.0.1 s5.keydot.net
 127.0.0.1 imgcdn.ynwqls.com
 127.0.0.1 vip.yoyozz.net
@@ -181,5 +180,4 @@
 127.0.0.1 images.xibei70.com
 127.0.0.1 r.5207470.com
 127.0.0.1 mob.huimee.net
-127.0.0.1 ggr.yxdown.com
 127.0.0.1 q.0451106.com

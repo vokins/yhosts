@@ -1145,6 +1145,9 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+#ta80.com
+127.0.0.1 js.ta80.com
+127.0.0.1 good.ta80.com
 #touclick
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com

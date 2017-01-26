@@ -196,7 +196,6 @@
 127.0.0.1 f.e719.net
 127.0.0.1 cpc.haohaowan8.com
 127.0.0.1 www.baigm.com
-127.0.0.1 good.ta80.com
 127.0.0.1 z.top267.com
 127.0.0.1 dougou88.com
 127.0.0.1 v.6dvip.com
