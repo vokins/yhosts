@@ -1723,6 +1723,8 @@
 127.0.0.1 rc.fthcz.com
 127.0.0.1 s.fthcz.com
 127.0.0.1 rc.mgwcn.com
+127.0.0.1 rc.3ygww.com
+127.0.0.1 js.jermr.com
 #m.kb20.cc
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
@@ -3078,6 +3080,10 @@
 127.0.0.1 alipay.dajiadou6.com
 127.0.0.1 lz.kqy1.com
 127.0.0.1 img.kqy1.com
+127.0.0.1 js.139y.com
+127.0.0.1 image.139y.com
+127.0.0.1 malacca.inveno.com
+127.0.0.1 ssplog.geekwide.cn
 #m.meitulu.com
 127.0.0.1 js.lpshl.com
 #m.zngirls.com

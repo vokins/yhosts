@@ -127,3 +127,23 @@ mi.gdt.qq.com ：误杀，会导致旗鱼影视首页无法加载。
 sqdd.myapp.com ：多重用途，可以屏蔽手机QQ后台偷偷下载安装包 ，但会造成QQ群成员里查看“最近发言”功能无法使用。
 127.0.0.1 upush.meizu.com meizu-flyme 升级
 127.0.0.1 temp.163.com 语音，本地新闻等
+网页版去掉 t7z.cupid.iqiyi.com 就可以播放了
+s.img.mix.sina.com.cn会把sina的slide图片阻断了，希望能够去掉
+影响youdao翻译功能的是 rlogs.youdao.com
+staticxx.facebook.com會導致Facebook應用程式或遊戲 無法發布貼文以及傳送邀請
+PC 上面使用，qzs.qq.com，这个导致空间打不开图片。
+
+能否去除手机网页版百度贴吧内的推广以及底部app推广链接？
+http://tb1.bdstatic.com/tb/cms/ngmis/adsense/file_1454764255628.gif
+
+比如这个可以用urlfilter拦截_/adsense/_但是不能拦截tb1.bdstatic.com主域名,因为主域名放了css文件,屏蔽了页面显示也不正常.
+avd.qidian.com 删除这条记录后才能正常登录起点
+#miui-system-update 127.0.0.1 update.miui.com
+
+Please on next update remove that line. Thank you.
+
+127.0.0.1 images.17173.com 这条误杀太严重了
+http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml 图片全给XX了
+
+dw.cbsi.com建议去除
+无法下载iobui系列官方软件
