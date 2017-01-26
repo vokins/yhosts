@@ -85,3 +85,5 @@ hosts文件
 ##### 优秀软件推荐: [AkelPad](http://akelpad.sf.net/) QQ群：290230398
 
 ##### 特别感谢：ESword https://www.esword.cn/
+
+osx hosts管理软件：https://github.com/oldj/SwitchHosts/releases
