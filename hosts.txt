@@ -3924,6 +3924,7 @@
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com

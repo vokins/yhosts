@@ -1,5 +1,5 @@
 
-#version=20170126 950
+#version=20170126 953
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3339,6 +3339,7 @@
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 au.apk.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
