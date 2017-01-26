@@ -3087,6 +3087,7 @@
 #m.meitulu.com
 127.0.0.1 js.lpshl.com
 #m.zngirls.com
+127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 rc.cdnny.com
 127.0.0.1 ppco.trwba.com
