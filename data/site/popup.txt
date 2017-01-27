@@ -147,7 +147,6 @@
 127.0.0.1 vip.jisucn.com
 127.0.0.1 sa.xalongli.cn
 127.0.0.1 sas816.ujikdd041o.cn
-127.0.0.1 js.hzkcbs.com
 127.0.0.1 w.yinyuehu.cn
 127.0.0.1 u.xcy8.com
 127.0.0.1 u034024.nr1234.com

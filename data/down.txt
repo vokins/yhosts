@@ -126,3 +126,4 @@
 127.0.0.1 tr.offtrackads.com
 127.0.0.1 onclkds.com
 127.0.0.1 xiazai.downok.com
+127.0.0.1 downlaod.xiaocen.com

@@ -53,6 +53,8 @@
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
+127.0.0.1 e.0313413.com
+127.0.0.1 img.yingkeduo.cn
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
 127.0.0.1 jssd.kb20.cc
@@ -64,9 +66,7 @@
 127.0.0.1 m.cartekj.com
 127.0.0.1 pic1.59wd.com
 127.0.0.1 img.sankezhi.cn
-127.0.0.1 e.0313413.com
 127.0.0.1 img2.cs153.com
-127.0.0.1 img.yingkeduo.cn
 127.0.0.1 v.xiucm.com
 #m.kk3.cc
 127.0.0.1 slb.gedawang.com

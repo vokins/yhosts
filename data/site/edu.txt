@@ -1,4 +1,7 @@
 @site/edu
+#360doc.cn
+127.0.0.1 scriptwap1.360doc.cn
+127.0.0.1 scriptwap2.360doc.cn
 #baike.com
 127.0.0.1 ad1.baike.com
 127.0.0.1 stat.baike.com

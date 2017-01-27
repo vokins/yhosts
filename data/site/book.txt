@@ -138,6 +138,12 @@
 127.0.0.1 w37.govgift.com
 127.0.0.1 img.qun89.com
 127.0.0.1 www.nbjjd.com
+#m.kewaishu.org
+127.0.0.1 m.cgskqg.com
+127.0.0.1 gmtw.wzflourish.com
+127.0.0.1 static1.2436.cn
+127.0.0.1 e.yanglaopt.net
+127.0.0.1 link.yida558.com
 #m.lanseshuba.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
@@ -217,6 +223,7 @@
 127.0.0.1 m.gdyyyg.net
 #m.sodu520.net
 127.0.0.1 img.hzkcbs.com
+127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
 #m.uuxs.net
 127.0.0.1 ss2p.uuxs.net

@@ -1,4 +1,8 @@
-﻿127.0.0.1 nbsdk-baichuan.taobao.com
+﻿http://m.kb20.cc/js/fumeiti.js
+http://m.kb20.cc/js/uaredirectformobile.js
+acs.m.taobao.com移除下上面的域名，不移除会导致淘宝登录不了。
+同时移出了127.0.0.1 unitacs.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 hz.pre.tbusergw.taobao.net
 127.0.0.1 hz.tbusergw.taobao.net

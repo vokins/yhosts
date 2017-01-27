@@ -64,6 +64,9 @@
 #jb51.net
 127.0.0.1 bdjs.jb51.net
 127.0.0.1 files.jb51.net
+#jz5u.net
+127.0.0.1 baidu.jz5u.net
+127.0.0.1 cp.jz5u.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
 #pchome
@@ -154,6 +157,9 @@
 127.0.0.1 s.szfaq.com
 127.0.0.1 s.bccyyc.com
 127.0.0.1 s.cooolyi.cn
+#m.qqtn.com
+127.0.0.1 a1.5h.com
+127.0.0.1 show.5h.com
 #oyksoft.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com
