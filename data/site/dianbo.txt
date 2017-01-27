@@ -53,6 +53,7 @@
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
+127.0.0.1 www.ybtianxi.com
 127.0.0.1 e.0313413.com
 127.0.0.1 img.yingkeduo.cn
 127.0.0.1 wo1.menghuanzs.com

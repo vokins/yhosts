@@ -25,6 +25,10 @@
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
 @site/life-fashion
+#eastlady.cn
+127.0.0.1 abc.eastlady.cn
+127.0.0.1 jb.eastlady.cn
+127.0.0.1 wl.eastlady.cn
 #haibao.cn
 127.0.0.1 hats.haibao.cn
 #laonanren.com

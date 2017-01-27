@@ -1733,6 +1733,7 @@
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
+127.0.0.1 www.ybtianxi.com
 127.0.0.1 e.0313413.com
 127.0.0.1 img.yingkeduo.cn
 127.0.0.1 wo1.menghuanzs.com
@@ -2248,6 +2249,10 @@
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
 @site/life-fashion
+#eastlady.cn
+127.0.0.1 abc.eastlady.cn
+127.0.0.1 jb.eastlady.cn
+127.0.0.1 wl.eastlady.cn
 #haibao.cn
 127.0.0.1 hats.haibao.cn
 #laonanren.com

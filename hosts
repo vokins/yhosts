@@ -1,5 +1,5 @@
 
-#version=201701271945
+#version=20170128 617
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1483,6 +1483,7 @@
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
+127.0.0.1 www.ybtianxi.com
 127.0.0.1 e.0313413.com
 127.0.0.1 img.yingkeduo.cn
 127.0.0.1 wo1.menghuanzs.com
@@ -1888,6 +1889,9 @@
 127.0.0.1 api.union.vip.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
+127.0.0.1 abc.eastlady.cn
+127.0.0.1 jb.eastlady.cn
+127.0.0.1 wl.eastlady.cn
 127.0.0.1 hats.haibao.cn
 127.0.0.1 ac.laonanren.com
 127.0.0.1 1.nanrenwo.net
