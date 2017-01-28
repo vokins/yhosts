@@ -661,6 +661,7 @@
 127.0.0.1 gclick.cn
 127.0.0.1 reddot-api.gclick.cn
 #xunfei
+127.0.0.1 ads.voiceads.cn
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
@@ -1733,6 +1734,11 @@
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
+127.0.0.1 cache.xw126.com
+127.0.0.1 www.baidu.com.mjjdfl.com
+127.0.0.1 www.deweizhanye.cn
+127.0.0.1 www.diediao.com
+127.0.0.1 zl.yoomj.com
 127.0.0.1 www.ybtianxi.com
 127.0.0.1 e.0313413.com
 127.0.0.1 img.yingkeduo.cn
@@ -3788,6 +3794,7 @@
 127.0.0.1 strip.alicdn.com
 127.0.0.1 promotion.aliyun.com
 #ali-cnzz
+127.0.0.1 www.cnzz.com
 127.0.0.1 zjs.cnzz.net
 127.0.0.1 z.cnzz.net
 127.0.0.1 js.adm.cnzz.net

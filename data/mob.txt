@@ -232,6 +232,7 @@
 127.0.0.1 gclick.cn
 127.0.0.1 reddot-api.gclick.cn
 #xunfei
+127.0.0.1 ads.voiceads.cn
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
