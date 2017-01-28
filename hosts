@@ -1,5 +1,5 @@
 
-#version=201701281128
+#version=201701282200
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -210,6 +210,10 @@
 127.0.0.1 onclkds.com
 127.0.0.1 xiazai.downok.com
 127.0.0.1 downlaod.xiaocen.com
+127.0.0.1 cdn.img.liuxingyul.cn
+127.0.0.1 cdn.app.liuxingyul.cn
+127.0.0.1 cdn.img.kachapt.cn
+127.0.0.1 hwt.player888.cn
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -1852,6 +1856,10 @@
 127.0.0.1 u193035.pr00001.com
 127.0.0.1 www.94lm.com
 127.0.0.1 www.sg-huanya.com
+127.0.0.1 c.kxbeta.com
+127.0.0.1 d.kxbeta.com
+127.0.0.1 f.kxbeta.com
+127.0.0.1 g.kxbeta.com
 127.0.0.1 d.ltss8.com
 127.0.0.1 down.qiqi.cc
 127.0.0.1 s.69duk.com
@@ -3101,6 +3109,7 @@
 127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 huid.ad.360.cn
+127.0.0.1 ps.dev.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.lianmeng.360.cn
