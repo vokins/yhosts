@@ -11,8 +11,6 @@
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 na2m-pr.licenses.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 wip.adobe.com
 #alcohol
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
@@ -26,8 +24,11 @@
 #faronicslabs-deepfreeze
 127.0.0.1 upd.faronicslabs.com
 #lumion3d
-127.0.0.1 activate.lumion.com
+127.0.0.1 activate.lumion.net
 127.0.0.1 backup.lumion3d.com
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.com
+127.0.0.1 license.lumion3d.net
 #macdrive
 127.0.0.1 act2.mediafour.com
 #nikon-imaging

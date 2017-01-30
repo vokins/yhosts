@@ -149,8 +149,6 @@
 #kxbeta.com
 127.0.0.1 c.kxbeta.com
 127.0.0.1 d.kxbeta.com
-127.0.0.1 f.kxbeta.com
-127.0.0.1 g.kxbeta.com
 #m.muzisoft.com
 127.0.0.1 d.ltss8.com
 127.0.0.1 down.qiqi.cc

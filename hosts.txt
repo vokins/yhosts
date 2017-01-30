@@ -29,6 +29,8 @@
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
 @direct/3rd
+#alfred
+139.162.207.229 www.alfredapp.com
 #dxomark
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
@@ -91,8 +93,6 @@
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 na2m-pr.licenses.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 wip.adobe.com
 #alcohol
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
@@ -106,8 +106,11 @@
 #faronicslabs-deepfreeze
 127.0.0.1 upd.faronicslabs.com
 #lumion3d
-127.0.0.1 activate.lumion.com
+127.0.0.1 activate.lumion.net
 127.0.0.1 backup.lumion3d.com
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.com
+127.0.0.1 license.lumion3d.net
 #macdrive
 127.0.0.1 act2.mediafour.com
 #nikon-imaging
@@ -201,32 +204,25 @@
 127.0.0.1 107.wuwho.cn
 127.0.0.1 64.wuwho.cn
 127.0.0.1 98.4001075656.com
-127.0.0.1 a.7baike.com
-127.0.0.1 a.fhxcy.com
 127.0.0.1 a.tnlby.com
 127.0.0.1 a.wlcnd.com
 127.0.0.1 a.yichum.com
 127.0.0.1 abc.tpd8.com
 127.0.0.1 ad.dokrmob.com
-127.0.0.1 ams.51junpin.net
 127.0.0.1 b.ukeiae.com
 127.0.0.1 c1.668559.com
 127.0.0.1 dl.xyymall.net
 127.0.0.1 download.qianka.com
 127.0.0.1 i.uzhiv.com
-127.0.0.1 img.yrxmr.com
 127.0.0.1 img.zsj18.com
 127.0.0.1 iospage.w0shishui.com
 127.0.0.1 j.jiawen88.com
 127.0.0.1 js.um0592.com
-127.0.0.1 jump1.pszyzxh.org
 127.0.0.1 kl.hfdforging.com
 127.0.0.1 la.qshxc.com
 127.0.0.1 m.qianka.com
 127.0.0.1 njs.manhuahome.com
-127.0.0.1 njs.myhx120.com
 127.0.0.1 njs.myyage.com
-127.0.0.1 okt.xcyjzs.net
 127.0.0.1 ops.zibov.com
 127.0.0.1 pic2.4001075656.com
 127.0.0.1 pic5.cstoa.com
@@ -234,7 +230,6 @@
 127.0.0.1 rc.ukeiae.com
 127.0.0.1 s.pdsjycm.com
 127.0.0.1 s.xcfe.cn
-127.0.0.1 soft.mifenggame.cn
 127.0.0.1 ss.subo.me
 127.0.0.1 t.czchaole.com
 127.0.0.1 twoaaa.168wangluo.com
@@ -248,7 +243,6 @@
 127.0.0.1 url.tduou.com
 127.0.0.1 dl.fly086.com
 127.0.0.1 liuliang.duoqu124.com
-127.0.0.1 www.duoqu124.com
 127.0.0.1 morepoweronmac.trade
 127.0.0.1 tr.offtrackads.com
 127.0.0.1 onclkds.com
@@ -2204,8 +2198,6 @@
 #kxbeta.com
 127.0.0.1 c.kxbeta.com
 127.0.0.1 d.kxbeta.com
-127.0.0.1 f.kxbeta.com
-127.0.0.1 g.kxbeta.com
 #m.muzisoft.com
 127.0.0.1 d.ltss8.com
 127.0.0.1 down.qiqi.cc

@@ -29,6 +29,8 @@
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
 @direct/3rd
+#alfred
+139.162.207.229 www.alfredapp.com
 #dxomark
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
