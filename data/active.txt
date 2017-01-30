@@ -23,6 +23,8 @@
 #cyberlink
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
+#faronicslabs-deepfreeze
+127.0.0.1 upd.faronicslabs.com
 #lumion3d
 127.0.0.1 activate.lumion.com
 127.0.0.1 backup.lumion3d.com

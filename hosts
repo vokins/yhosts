@@ -1,5 +1,5 @@
 
-#version=201701282200
+#version=20170130 954
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -85,6 +85,7 @@
 127.0.0.1 dbregistration.cuteftp.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
+127.0.0.1 upd.faronicslabs.com
 127.0.0.1 activate.lumion.com
 127.0.0.1 backup.lumion3d.com
 127.0.0.1 act2.mediafour.com
@@ -3552,6 +3553,7 @@
 127.0.0.1 tongji.zhidao.baidu.com
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 appx.91.com
+127.0.0.1 e.91.com
 127.0.0.1 duapps.com
 127.0.0.1 ad.duapps.com
 127.0.0.1 api.mobula.sdk.duapps.com

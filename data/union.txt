@@ -760,6 +760,7 @@
 #baidu-soft/91
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 appx.91.com
+127.0.0.1 e.91.com
 #baidu-duapps.com
 127.0.0.1 duapps.com
 127.0.0.1 ad.duapps.com
