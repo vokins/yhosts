@@ -1,4 +1,10 @@
-﻿http://m.kb20.cc/js/fumeiti.js
+﻿UC一定要在设置关掉各种垃圾功能和广告，多仔细翻翻，另外加两条去广告的host
+127.0.0.1 server.m.pp.cn
+127.0.0.1 patriot.cs.pp.cn
+第一个是下载页面的APP推广广告。
+第二个是下载APK文件时，会自动变成PP助手的下载链接的host。
+
+http://m.kb20.cc/js/fumeiti.js
 http://m.kb20.cc/js/uaredirectformobile.js
 acs.m.taobao.com移除下上面的域名，不移除会导致淘宝登录不了。
 同时移出了127.0.0.1 unitacs.m.taobao.com

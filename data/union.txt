@@ -557,6 +557,8 @@
 127.0.0.1 vs6.gzct.uc.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
+127.0.0.1 server.m.pp.cn
+127.0.0.1 patriot.cs.pp.cn
 127.0.0.1 huichuan.sm.cn
 #ali-umeng
 127.0.0.1 au.umeng.co

@@ -1,5 +1,5 @@
 
-#version=201701301844
+#version=201701312238
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -979,6 +979,12 @@
 127.0.0.1 news.s9377.com
 127.0.0.1 img.tkguolugs.com
 127.0.0.1 tu.szefe.com
+127.0.0.1 e.eyd77s.com
+127.0.0.1 e.rxchuben.net
+127.0.0.1 js.xxcgdq.com
+127.0.0.1 m.eyd77s.com
+127.0.0.1 m.rxchuben.net
+127.0.0.1 sion.gzhbyc.com
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
@@ -1042,6 +1048,7 @@
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
 127.0.0.1 ss2p.uuxs.net
+127.0.0.1 v.oq68.com
 127.0.0.1 b.nxrhs.com
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn
@@ -3359,6 +3366,8 @@
 127.0.0.1 vs6.gzct.uc.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
+127.0.0.1 server.m.pp.cn
+127.0.0.1 patriot.cs.pp.cn
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 au.umeng.co
 127.0.0.1 alog.umeng.co
