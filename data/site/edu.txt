@@ -4,7 +4,9 @@
 127.0.0.1 scriptwap2.360doc.cn
 #baike.com
 127.0.0.1 ad1.baike.com
+127.0.0.1 ehd.baike.com
 127.0.0.1 stat.baike.com
+127.0.0.1 ll.hudong.com
 #edu.jobui.com
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn

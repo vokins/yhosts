@@ -511,6 +511,13 @@
 127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
+#ali-taobao-test
+127.0.0.1 hz.pre.tbusergw.taobao.net
+127.0.0.1 hz.tbusergw.taobao.net
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 sdkinit.taobao.com
+127.0.0.1 unitacs.m.taobao.com
 #ali-taobao-mob
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
@@ -572,6 +579,7 @@
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
+127.0.0.1 uop.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com
