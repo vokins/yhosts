@@ -156,7 +156,6 @@
 127.0.0.1 tu.szefe.com
 127.0.0.1 e.eyd77s.com
 127.0.0.1 e.rxchuben.net
-127.0.0.1 js.xxcgdq.com
 127.0.0.1 m.eyd77s.com
 127.0.0.1 m.rxchuben.net
 127.0.0.1 sion.gzhbyc.com

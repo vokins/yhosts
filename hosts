@@ -1,5 +1,5 @@
 
-#version=201701312238
+#version=201701312242
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -677,9 +677,11 @@
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 union.dbba.cn
 127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
+127.0.0.1 browserapi.micloud.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
@@ -981,7 +983,6 @@
 127.0.0.1 tu.szefe.com
 127.0.0.1 e.eyd77s.com
 127.0.0.1 e.rxchuben.net
-127.0.0.1 js.xxcgdq.com
 127.0.0.1 m.eyd77s.com
 127.0.0.1 m.rxchuben.net
 127.0.0.1 sion.gzhbyc.com
@@ -1611,7 +1612,9 @@
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 ad1.baike.com
+127.0.0.1 ehd.baike.com
 127.0.0.1 stat.baike.com
+127.0.0.1 ll.hudong.com
 127.0.0.1 d.h5.coffeedak.cn
 127.0.0.1 cp.h5.coffeedak.cn
 127.0.0.1 pv.img.eol.cn
@@ -3323,6 +3326,12 @@
 127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 rdstat.tanx.com
+127.0.0.1 hz.pre.tbusergw.taobao.net
+127.0.0.1 hz.tbusergw.taobao.net
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 sdkinit.taobao.com
+127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 api.wapa.taobao.com
@@ -3382,6 +3391,7 @@
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
+127.0.0.1 uop.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com

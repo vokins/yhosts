@@ -1,17 +1,26 @@
+
 ﻿UC一定要在设置关掉各种垃圾功能和广告，多仔细翻翻，另外加两条去广告的host
 127.0.0.1 server.m.pp.cn
 127.0.0.1 patriot.cs.pp.cn
 第一个是下载页面的APP推广广告。
 第二个是下载APK文件时，会自动变成PP助手的下载链接的host。
+=======
+﻿file.market.xiaomi.com/thumbnail/jpeg/w0q20/AdCenter/0591585a19a1e4e9a3fbe93cd9618bdad3f3f29a0/AdCenter0591585a19a1e4e9a3fbe93cd9618bdad3f3f29a0.jpg
+2.market.xiaomi.com/download/MiSafe/07fa342631698e7a938055ddeba7cb3f87243dbf3/a.webp
+所以小米的一些广告请使用
+*/AdCenter/*
+进行过滤
 
 http://m.kb20.cc/js/fumeiti.js
 http://m.kb20.cc/js/uaredirectformobile.js
 acs.m.taobao.com移除下上面的域名，不移除会导致淘宝登录不了。
-同时移出了127.0.0.1 unitacs.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
+同时移出了
 127.0.0.1 hz.pre.tbusergw.taobao.net
 127.0.0.1 hz.tbusergw.taobao.net
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 sdkinit.taobao.com
+127.0.0.1 unitacs.m.taobao.com
 暂时删除
 http://bbs.huorong.cn/thread-7869-1-1.html 屏蔽掉微软跳转cps
 
