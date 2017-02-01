@@ -1,5 +1,5 @@
 
-#version=20170201 854
+#version=201702011014
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -559,6 +559,7 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
+127.0.0.1 log.voicecloud.cn
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 au.youmi.net
@@ -1889,6 +1890,8 @@
 127.0.0.1 www.sg-huanya.com
 127.0.0.1 c.kxbeta.com
 127.0.0.1 d.kxbeta.com
+127.0.0.1 apkpure.disqus.com
+127.0.0.1 disqusads.com
 127.0.0.1 d.ltss8.com
 127.0.0.1 down.qiqi.cc
 127.0.0.1 s.69duk.com
