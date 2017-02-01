@@ -1,3 +1,12 @@
+安卓版百度云app启动广告：
+issuecdn.baidupcs.com/issue/netdisk/guanggao/cj720-1062-0203.jpg?network_type=wifi&vip=0
+issuecdn.baidupcs.com/issue/netdisk/guanggao/xditu720-1062-0201.jpg?network_type=wifi&vip=0
+但是此域名会影响解码器和搜索下载
+issuecdn.baidupcs.com/issue/netdisk/videosdk/baidu_product_1_7_5_1/cyberplayer-core-armv7-neon-1.7.zip
+可以下载解码器后屏蔽此域名。
+127.0.0.1 issuecdn.baidupcs.com
+或者屏蔽：
+*/guanggao/*
 
 ﻿UC一定要在设置关掉各种垃圾功能和广告，多仔细翻翻，另外加两条去广告的host
 127.0.0.1 server.m.pp.cn
