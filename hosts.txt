@@ -4581,15 +4581,17 @@
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
-127.0.0.1 vps.inte.sogou.com
+127.0.0.1 iwan.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
-127.0.0.1 vjoz.lu.sogou.com
-127.0.0.1 wangmeng.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 vjoz.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
+127.0.0.1 wangmeng.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
+127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
 #ta80.com

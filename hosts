@@ -1,5 +1,5 @@
 
-#version=201702011055
+#version=201702011506
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3925,15 +3925,17 @@
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
-127.0.0.1 vps.inte.sogou.com
+127.0.0.1 iwan.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
-127.0.0.1 vjoz.lu.sogou.com
-127.0.0.1 wangmeng.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 vjoz.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
+127.0.0.1 wangmeng.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
+127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 js.ta80.com
