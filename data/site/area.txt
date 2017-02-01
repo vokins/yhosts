@@ -40,6 +40,7 @@
 127.0.0.1 g.mnw.cn
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
+127.0.0.1 ios.ann5.net
 #min-www.santaihu.com
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net

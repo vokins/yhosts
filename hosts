@@ -1,5 +1,5 @@
 
-#version=201702011506
+#version=201702011845
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -789,6 +789,7 @@
 127.0.0.1 g.mnw.cn
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
+127.0.0.1 ios.ann5.net
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net
 127.0.0.1 js.santaihu.net
