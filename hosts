@@ -1,5 +1,5 @@
 
-#version=201702011845
+#version=201702012358
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1172,6 +1172,11 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 yunbofangbt.com
+127.0.0.1 js3555.doupuer.com
+127.0.0.1 images.beilic.com
+127.0.0.1 j.91cmzx.com
+127.0.0.1 j.mzdmzd.com
 127.0.0.1 cpv-ads.ggytc.com
 127.0.0.1 p2.hyz86.com 
 127.0.0.1 um29.com
@@ -2220,6 +2225,7 @@
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 cm.zhiziyun.com
 127.0.0.1 addl.easetuner.com
+127.0.0.1 ss.ting55.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
@@ -2675,6 +2681,9 @@
 127.0.0.1 content.s8bbs.com
 127.0.0.1 img.s8bbs.com
 127.0.0.1 s1.s8tu.com
+127.0.0.1 img.tan5858.com
+127.0.0.1 img1.tan5858.com
+127.0.0.1 maccms.tan5858.com
 127.0.0.1 upload.jxsjmg.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 e.70e.com
@@ -3990,6 +3999,8 @@
 127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com
 127.0.0.1 img3.zqzxz.com
+127.0.0.1 ad.video.51togic.com
+127.0.0.1 cdn.ad.video.51togic.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com

@@ -8,6 +8,11 @@
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
 #btdigg.pw
+127.0.0.1 yunbofangbt.com
+127.0.0.1 js3555.doupuer.com
+127.0.0.1 images.beilic.com
+127.0.0.1 j.91cmzx.com
+127.0.0.1 j.mzdmzd.com
 127.0.0.1 cpv-ads.ggytc.com
 127.0.0.1 p2.hyz86.com 
 127.0.0.1 um29.com

@@ -1398,6 +1398,11 @@
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
 #btdigg.pw
+127.0.0.1 yunbofangbt.com
+127.0.0.1 js3555.doupuer.com
+127.0.0.1 images.beilic.com
+127.0.0.1 j.91cmzx.com
+127.0.0.1 j.mzdmzd.com
 127.0.0.1 cpv-ads.ggytc.com
 127.0.0.1 p2.hyz86.com 
 127.0.0.1 um29.com
@@ -2637,6 +2642,8 @@
 127.0.0.1 cm.zhiziyun.com
 #sopcast.cn
 127.0.0.1 addl.easetuner.com
+#ting55.com
+127.0.0.1 ss.ting55.com
 #tv.cctv.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
@@ -3180,6 +3187,10 @@
 127.0.0.1 content.s8bbs.com
 127.0.0.1 img.s8bbs.com
 127.0.0.1 s1.s8tu.com
+#www.bbrandymelvilleusa.com
+127.0.0.1 img.tan5858.com
+127.0.0.1 img1.tan5858.com
+127.0.0.1 maccms.tan5858.com
 #www.i97mm.com
 127.0.0.1 upload.jxsjmg.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com

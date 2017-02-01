@@ -1,4 +1,7 @@
 @tvbox
+#51togic.com
+127.0.0.1 ad.video.51togic.com
+127.0.0.1 cdn.ad.video.51togic.com
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdate.aliyun.com

@@ -156,6 +156,10 @@
 127.0.0.1 content.s8bbs.com
 127.0.0.1 img.s8bbs.com
 127.0.0.1 s1.s8tu.com
+#www.bbrandymelvilleusa.com
+127.0.0.1 img.tan5858.com
+127.0.0.1 img1.tan5858.com
+127.0.0.1 maccms.tan5858.com
 #www.i97mm.com
 127.0.0.1 upload.jxsjmg.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com

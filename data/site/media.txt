@@ -194,6 +194,8 @@
 127.0.0.1 cm.zhiziyun.com
 #sopcast.cn
 127.0.0.1 addl.easetuner.com
+#ting55.com
+127.0.0.1 ss.ting55.com
 #tv.cctv.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
