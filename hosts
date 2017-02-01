@@ -1,5 +1,5 @@
 
-#version=201702012358
+#version=20170202 007
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2226,6 +2226,9 @@
 127.0.0.1 cm.zhiziyun.com
 127.0.0.1 addl.easetuner.com
 127.0.0.1 ss.ting55.com
+127.0.0.1 csdn1718.jiejuefangan741.com
+127.0.0.1 www.dianwo1958.com
+127.0.0.1 static2.5411.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
