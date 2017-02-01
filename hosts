@@ -1,5 +1,5 @@
 
-#version=201702011014
+#version=201702011055
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -682,7 +682,6 @@
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 browserapi.micloud.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com

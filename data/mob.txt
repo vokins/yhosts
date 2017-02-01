@@ -378,7 +378,6 @@
 127.0.0.1 r.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 browserapi.micloud.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 #miui-download
 127.0.0.1 sousuo.xm.sjzhushou.com
