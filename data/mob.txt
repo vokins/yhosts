@@ -211,7 +211,7 @@
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
 #udbac.com
-127.0.0.1 s.trafficjam.cn  
+127.0.0.1 s.trafficjam.cn
 127.0.0.1 sdk.cdnmaster.com
 #union-wifi.com
 127.0.0.1 js.union-wifi.com

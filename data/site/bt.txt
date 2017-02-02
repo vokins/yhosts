@@ -14,7 +14,7 @@
 127.0.0.1 j.91cmzx.com
 127.0.0.1 j.mzdmzd.com
 127.0.0.1 cpv-ads.ggytc.com
-127.0.0.1 p2.hyz86.com 
+127.0.0.1 p2.hyz86.com
 127.0.0.1 um29.com
 127.0.0.1 m.hascosafety.com
 127.0.0.1 js.xxcgdq.com
