@@ -80,7 +80,6 @@
 127.0.0.1 846.move7.com
 127.0.0.1 new.yokaunion.com
 127.0.0.1 r.uoyrsd.com
-127.0.0.1 tui.yeshen.com
 127.0.0.1 1.xytom.com
 127.0.0.1 js.mingxianshanghang.cn
 127.0.0.1 www.7540.com
