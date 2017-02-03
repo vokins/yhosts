@@ -35,7 +35,6 @@
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
 #tumblr
-
 119.161.8.100 www.tumblr.com
 119.161.8.100 tumblr.com
 119.161.8.100 31.media.tumblr.com
