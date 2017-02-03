@@ -66,6 +66,15 @@
 #effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 sg-cdn.effectivemeasure.net
+#exdynsrv.com
+127.0.0.1 ads.exdynsrv.com
+127.0.0.1 main.exdynsrv.com
+127.0.0.1 syndication.exdynsrv.com
+#exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 main.exoclick.com
+127.0.0.1 static-ssl.exoclick.com
+127.0.0.1 syndication.exoclick.com
 #google-doubleclick
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net

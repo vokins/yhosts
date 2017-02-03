@@ -1380,6 +1380,18 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+#btdb.in
+127.0.0.1 c.codeonclick.com
+127.0.0.1 clickadu.com
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 www.predictivadvertising.com
+127.0.0.1 www.shglegle.com
+127.0.0.1 www.yobobobox.com
+127.0.0.1 epqzviy9.bid
+127.0.0.1 diomedis.online
+127.0.0.1 lotraden.online
+127.0.0.1 satoriomo.xyz
+127.0.0.1 www.czgzs.net
 #btdigg.pw
 127.0.0.1 yunbofangbt.com
 127.0.0.1 js3555.doupuer.com
@@ -3499,6 +3511,15 @@
 #effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 sg-cdn.effectivemeasure.net
+#exdynsrv.com
+127.0.0.1 ads.exdynsrv.com
+127.0.0.1 main.exdynsrv.com
+127.0.0.1 syndication.exdynsrv.com
+#exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 main.exoclick.com
+127.0.0.1 static-ssl.exoclick.com
+127.0.0.1 syndication.exoclick.com
 #google-doubleclick
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net

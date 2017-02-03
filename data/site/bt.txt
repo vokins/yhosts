@@ -7,6 +7,18 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+#btdb.in
+127.0.0.1 c.codeonclick.com
+127.0.0.1 clickadu.com
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 www.predictivadvertising.com
+127.0.0.1 www.shglegle.com
+127.0.0.1 www.yobobobox.com
+127.0.0.1 epqzviy9.bid
+127.0.0.1 diomedis.online
+127.0.0.1 lotraden.online
+127.0.0.1 satoriomo.xyz
+127.0.0.1 www.czgzs.net
 #btdigg.pw
 127.0.0.1 yunbofangbt.com
 127.0.0.1 js3555.doupuer.com
