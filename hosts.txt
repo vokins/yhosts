@@ -1383,6 +1383,7 @@
 127.0.0.1 cz2.rhgyg.com
 127.0.0.1 jsecdn123.86666608.com
 127.0.0.1 js3610.51weidashi.com
+127.0.0.1 qjfcdn1220.0101122.com
 #btdb.in
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
