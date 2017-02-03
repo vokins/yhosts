@@ -1,5 +1,5 @@
 
-#version=201702031123
+#version=201702032315
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1154,6 +1154,9 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 cz2.rhgyg.com
+127.0.0.1 jsecdn123.86666608.com
+127.0.0.1 js3610.51weidashi.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com

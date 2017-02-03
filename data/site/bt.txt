@@ -7,6 +7,10 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+#btbtdy.com
+127.0.0.1 cz2.rhgyg.com
+127.0.0.1 jsecdn123.86666608.com
+127.0.0.1 js3610.51weidashi.com
 #btdb.in
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
