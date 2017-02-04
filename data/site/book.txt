@@ -122,6 +122,17 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
+#m.chenhuixs.net
+127.0.0.1 ab.bontech-zh.com
+127.0.0.1 jkjdkw365.laishai.net
+127.0.0.1 js2254.njqunyi.com
+127.0.0.1 st.zzhyyj.com
+127.0.0.1 tj.zhaes.com
+127.0.0.1 z2.mmxcy.com
+127.0.0.1 z3.mmxcy.com
+127.0.0.1 z67.zzhyyj.com
+127.0.0.1 im.opiuat.com
+127.0.0.1 jk.pingao.com
 #m.daizhuzai.com
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 titi.18tzx.com

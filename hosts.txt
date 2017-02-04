@@ -400,6 +400,7 @@
 127.0.0.1 www.202m.com
 127.0.0.1 s.jlminte.com
 127.0.0.1 ssp.86str.com
+127.0.0.1 ssp.0531kt.com
 127.0.0.1 s2.yandui.com
 127.0.0.1 www.tz-dsp.com
 127.0.0.1 eee.kj78.org
@@ -1134,6 +1135,17 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
+#m.chenhuixs.net
+127.0.0.1 ab.bontech-zh.com
+127.0.0.1 jkjdkw365.laishai.net
+127.0.0.1 js2254.njqunyi.com
+127.0.0.1 st.zzhyyj.com
+127.0.0.1 tj.zhaes.com
+127.0.0.1 z2.mmxcy.com
+127.0.0.1 z3.mmxcy.com
+127.0.0.1 z67.zzhyyj.com
+127.0.0.1 im.opiuat.com
+127.0.0.1 jk.pingao.com
 #m.daizhuzai.com
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 titi.18tzx.com
@@ -4672,6 +4684,10 @@
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 z.sora.yoyi.com.cn
+#youxiaoad.com
+127.0.0.1 api.youxiaoad.com
+127.0.0.1 source.youxiaoad.com
+127.0.0.1 ssp.youxiaoad.com
 #zqzxz.com
 127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com

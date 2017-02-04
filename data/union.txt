@@ -1225,6 +1225,10 @@
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 z.sora.yoyi.com.cn
+#youxiaoad.com
+127.0.0.1 api.youxiaoad.com
+127.0.0.1 source.youxiaoad.com
+127.0.0.1 ssp.youxiaoad.com
 #zqzxz.com
 127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com

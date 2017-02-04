@@ -142,6 +142,7 @@
 127.0.0.1 www.202m.com
 127.0.0.1 s.jlminte.com
 127.0.0.1 ssp.86str.com
+127.0.0.1 ssp.0531kt.com
 127.0.0.1 s2.yandui.com
 127.0.0.1 www.tz-dsp.com
 127.0.0.1 eee.kj78.org
