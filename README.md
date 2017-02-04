@@ -92,4 +92,4 @@ hosts文件
 
 ##### 特别感谢：ESword https://www.esword.cn/
 
-osx hosts管理软件：https://github.com/oldj/SwitchHosts/releases
+##### osx hosts管理软件：https://github.com/oldj/SwitchHosts/releases
