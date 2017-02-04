@@ -97,8 +97,6 @@
 127.0.0.1 counter.yesky.com
 127.0.0.1 yeskyimedia.qtmojo.com
 127.0.0.1 media.tianjimedia.com
-#zdfans.com
-127.0.0.1 94776.zdfans.com
 #zdnet.com.cn
 127.0.0.1 am.zdnet.com.cn
 127.0.0.1 imp.zdnet.com.cn
