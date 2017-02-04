@@ -1,4 +1,6 @@
-﻿127.0.0.1 tui.yeshen.com  安卓模拟器下载
+﻿#HOLA桌面启动器 误杀
+a.holaworld.cn
+127.0.0.1 tui.yeshen.com  安卓模拟器下载
 127.0.0.1 browserapi.micloud.xiaomi.net 影响同步
 127.0.0.1 dw.cbsi.com dw.cbsi.com建议去除
 无法下载iobui系列官方软件

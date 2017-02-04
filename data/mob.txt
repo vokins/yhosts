@@ -413,7 +413,6 @@
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
-127.0.0.1 a.holaworld.cn
 127.0.0.1 dh.holaworld.cn
 127.0.0.1 dr.holaworld.cn
 127.0.0.1 st.holaworld.cn
