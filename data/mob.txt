@@ -114,6 +114,7 @@
 #inmobi.com
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
+127.0.0.1 apptv.w.inmobi.com
 127.0.0.1 au-cn.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
