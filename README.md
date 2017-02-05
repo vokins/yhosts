@@ -1,9 +1,15 @@
+本项目使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源，
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
 # yhosts
 `
 主观 简洁 任性
 `
    的
 hosts文件
+
 
 ### 特色：
 
@@ -86,4 +92,4 @@ hosts文件
 
 ##### 特别感谢：ESword https://www.esword.cn/
 
-osx hosts管理软件：https://github.com/oldj/SwitchHosts/releases
+##### osx hosts管理软件：https://github.com/oldj/SwitchHosts/releases
