@@ -122,3 +122,6 @@
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 cdn.img.kachapt.cn
 127.0.0.1 hwt.player888.cn
+127.0.0.1 cs.wanwandou.com
+127.0.0.1 ad.sojoyo.com
+127.0.0.1 tj.zonglm.com
