@@ -1,5 +1,5 @@
 
-#version=201702051543
+#version=20170206 114
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2105,6 +2105,8 @@
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 vas.fun.tv
 127.0.0.1 adm.funshion.com
+127.0.0.1 stat.funshion.net
+127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 game.funshion.com
 127.0.0.1 adv.grtn.cn
 127.0.0.1 iadctest.qwapi.com

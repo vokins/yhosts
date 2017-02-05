@@ -51,6 +51,8 @@
 #fun.tv
 127.0.0.1 vas.fun.tv
 127.0.0.1 adm.funshion.com
+127.0.0.1 stat.funshion.net
+127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 game.funshion.com
 #gdtv.cn
 127.0.0.1 adv.grtn.cn
