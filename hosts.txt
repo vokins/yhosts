@@ -1549,7 +1549,6 @@
 127.0.0.1 hv.code.tanwanyx.com
 127.0.0.1 s1.keytui.com
 #henbt.com
-127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 t8.dnvus.com
 127.0.0.1 js1151.yongkang6.com
 127.0.0.1 qj906nc.cdn.media8.cn
@@ -1703,7 +1702,6 @@
 127.0.0.1 js1597.51weidashi.com
 #www.zhongzigou.net
 127.0.0.1 m.yooli.com
-127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
@@ -3391,6 +3389,9 @@
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
+127.0.0.1 js453.zhudiaosz.com
+127.0.0.1 js1151.zhudiaosz.com
+127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 www.iiad.com
 127.0.0.1 c.top267.com
 127.0.0.1 static-two.ffwap.com
@@ -3799,12 +3800,13 @@
 #55.la
 127.0.0.1 s4.55.la
 #51yes.com
+127.0.0.1 count14.51yes.com
 127.0.0.1 count20.51yes.com
+127.0.0.1 count21.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
 127.0.0.1 count51.51yes.com
-127.0.0.1 count14.51yes.com
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
@@ -4298,6 +4300,13 @@
 127.0.0.1 js883.cnbole.net
 127.0.0.1 js986.cnbole.net
 127.0.0.1 stat1.cnbole.net
+#cpmchina.co
+127.0.0.1 adimg.cpmchina.co
+127.0.0.1 click.cpmchina.co
+127.0.0.1 click.onesoft.im
+127.0.0.1 r.cpmchina.co
+127.0.0.1 www.cpmchina.co
+127.0.0.1 www.cpmchina.co
 #emarbox.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com

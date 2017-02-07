@@ -161,7 +161,6 @@
 127.0.0.1 hv.code.tanwanyx.com
 127.0.0.1 s1.keytui.com
 #henbt.com
-127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 t8.dnvus.com
 127.0.0.1 js1151.yongkang6.com
 127.0.0.1 qj906nc.cdn.media8.cn
@@ -315,7 +314,6 @@
 127.0.0.1 js1597.51weidashi.com
 #www.zhongzigou.net
 127.0.0.1 m.yooli.com
-127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com

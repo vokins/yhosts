@@ -534,6 +534,8 @@
 61.91.161.217 directory.google.com
 61.91.161.217 dir.google.com
 61.91.161.217 events.google.com
+61.91.161.217 savethedate.foo
+61.91.161.217 www.savethedate.foo
 61.91.161.217 googledrive.com
 61.91.161.217 docs.google.com
 61.91.161.217 drive.google.com
@@ -3197,8 +3199,8 @@
 104.156.85.217 vimeo.com
 104.156.85.217 www.vimeo.com
 104.156.85.217 player.vimeo.com
-103.245.224.143 i.vimeocdn.com
-103.245.224.143 f.vimeocdn.com
+151.101.73.133 i.vimeocdn.com
+151.101.73.133 f.vimeocdn.com
 103.245.222.249 vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39 click.email.vimeo.com
 66.29.212.110 w3schools.com
