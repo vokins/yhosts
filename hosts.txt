@@ -1150,6 +1150,7 @@
 127.0.0.1 z67.zzhyyj.com
 127.0.0.1 im.opiuat.com
 127.0.0.1 jk.pingao.com
+127.0.0.1 js2254.szfm1.com
 #m.daizhuzai.com
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 titi.18tzx.com
