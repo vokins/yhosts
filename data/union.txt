@@ -840,7 +840,6 @@
 127.0.0.1 click.onesoft.im
 127.0.0.1 r.cpmchina.co
 127.0.0.1 www.cpmchina.co
-127.0.0.1 www.cpmchina.co
 #emarbox.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com

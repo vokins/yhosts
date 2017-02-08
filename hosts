@@ -1,5 +1,5 @@
 
-#version=201702071949
+#version=201702081739
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -304,6 +304,8 @@
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
 127.0.0.1 api.g1.junfull.com
+127.0.0.1 ggle.lywf.me
+127.0.0.1 oss.portal.lywf.me
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
 127.0.0.1 l.minisplat.cn
@@ -2367,6 +2369,7 @@
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 www.youfumei.com
 127.0.0.1 img.gaore.com
+127.0.0.1 dd.70yst.com
 127.0.0.1 www.70lm.com
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 img.ccxuanhang.com
@@ -3678,7 +3681,6 @@
 127.0.0.1 click.cpmchina.co
 127.0.0.1 click.onesoft.im
 127.0.0.1 r.cpmchina.co
-127.0.0.1 www.cpmchina.co
 127.0.0.1 www.cpmchina.co
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com

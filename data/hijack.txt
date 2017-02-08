@@ -101,6 +101,9 @@
 127.0.0.1 www.i1236.net
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
+@hijack/wifi-leyue100.com
+127.0.0.1 ggle.lywf.me
+127.0.0.1 oss.portal.lywf.me
 @hijack/wifi
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn

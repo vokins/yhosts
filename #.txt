@@ -1,3 +1,8 @@
+http://m.kankanwu.com/js/20X4a.js
+http://m.kankanwu.com/js/weixin.js
+http://m.kankanwu.com/js/hui.js
+http://m.kankanwu.com/js/jusha.js
+
 http://tjs.sjs.sinajs.cn/open/analytics/js/suda.js
 https://shusheng.ctfile.com/ad_display.php?ad_pos=0
 小米视频：http://file.market.xiaomi.com/download/AdCenter/0acfd591acff21bf5df3a74e865a7c1fe78403ddb/AdCenter0acfd591acff21bf5df3a74e865a7c1fe78403ddb.jpg
