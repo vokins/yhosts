@@ -34,34 +34,6 @@
 #dxomark
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
-#tumblr
-119.161.8.100 www.tumblr.com
-119.161.8.100 tumblr.com
-119.161.8.100 31.media.tumblr.com
-119.161.8.100 33.media.tumblr.com
-119.161.8.100 37.media.tumblr.com
-119.161.8.100 38.media.tumblr.com
-119.161.8.100 68.media.tumblr.com
-119.161.8.100 vt.media.tumblr.com
-119.161.8.100 vt.tumblr.com
-119.161.8.100 vtt.tumblr.com
-119.161.8.100 api.tumblr.com
-52.222.211.243 secure.static.tumblr.com
-54.239.176.79 media.tumblr.com
-54.239.176.79 32.media.tumblr.com
-54.239.176.79 36.media.tumblr.com
-54.239.176.79 65.media.tumblr.com
-192.229.237.98 40.media.tumblr.com
-192.229.237.98 46.media.tumblr.com
-192.229.237.98 66.media.tumblr.com
-209.197.3.20 67.media.tumblr.com
-192.229.237.97 mx.tumblr.com
-119.161.8.99 assets.tumblr.com
-119.161.8.99 secure.assets.tumblr.com
-66.6.32.162 t.umblr.com
-66.6.32.162 saber.srvcs.tumblr.com
-66.6.32.162 px.srvcs.tumblr.com
-66.6.32.162 ls.srvcs.tumblr.com
 @active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
@@ -362,9 +334,6 @@
 127.0.0.1 www.i1236.net
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
-@hijack/wifi-leyue100.com
-127.0.0.1 ggle.lywf.me
-127.0.0.1 oss.portal.lywf.me
 @hijack/wifi
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
@@ -387,6 +356,7 @@
 127.0.0.1 www.ok365.com
 127.0.0.1 cpro.9xu.com
 127.0.0.1 dl.9xu.com
+127.0.0.1 ggle.lywf.me
 127.0.0.1 cszlks.com
 127.0.0.1 ax.ggfeng.com
 127.0.0.1 cloudcdn.yousee.com
