@@ -1,5 +1,5 @@
 
-#version=201702091042
+#version=201702092039
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1090,6 +1090,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 s.xmcmn.com
 127.0.0.1 s.nmqbg.com
 127.0.0.1 sss.jusha.com
 127.0.0.1 s.ybnrm.com
