@@ -1902,6 +1902,9 @@
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
 127.0.0.1 js.willads.pw
+#www.zaizai8.com
+127.0.0.1 www.sgogogo.com
+127.0.0.1 www.ju12345.com
 @site/edu
 #360doc.cn
 127.0.0.1 scriptwap1.360doc.cn
