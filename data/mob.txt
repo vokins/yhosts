@@ -465,6 +465,8 @@
 127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
+#lbesec.com
+127.0.0.1 cdn1.lbesec.com
 #www.kuaiya.cn
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net

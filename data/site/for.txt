@@ -1,0 +1,3 @@
+@web/foregin
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com

@@ -167,6 +167,7 @@
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
+127.0.0.1 log1.molitv.cn
 127.0.0.1 track.molitv.cn
 127.0.0.1 stat.moliplayer.com
 127.0.0.1 v.api.amgmedia.cn

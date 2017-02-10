@@ -1,3 +1,11 @@
+http://m.qu.la/stylewap/js/wap.js
+
+103.41.141.81/6772632867E3579B8619B5C0F/03000801005865DE9FE4FE003E88039F2C1589-8C1F-6049-61EC-BBA0577FF985.mp4.ts?ts_start=0&ts_end=5&ts_seg_no=0&ts_keyframe=0&sid=1488189762973_00&sign=f0ac9ae7b2578180eeabb65fc0699af0&ctype=50&t=1486703057091
+103.41.141.81/6772632867E3579B8619B5C0F/03000801005865DE9FE4FE003E88039F2C1589-8C1F-6049-61EC-BBA0577FF985.mp4.ts?ts_start=0&ts_end=5&ts_seg_no=0&ts_keyframe=0&sid=1488189762973_00&sign=f0ac9ae7b2578180eeabb65fc0699af0&ctype=50&t=1486703072093
+
+
+cdn1.lbesec.com/parallel.com/static/icon/watch3.gif
+
 影檬app：
 tupian.lemon95.com:8088/Pictures/VediosAD/2017-01-17/201711711333138554.jpg
 */VediosAD/*

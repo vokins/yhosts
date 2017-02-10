@@ -13,7 +13,6 @@
 127.0.0.1 js.hls.ott.cibntv.net
 127.0.0.1 hls01.ott.disp.cibntv.net
 #cibntv-pd.youku.com/cibn
-127.0.0.1 valf.atm.youku.com
 127.0.0.1 push.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 qr.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
@@ -190,10 +189,13 @@
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
+127.0.0.1 cmstool.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
 127.0.0.1 e.stat.youku.com
+127.0.0.1 guanggaoad.youku.com
+127.0.0.1 ipm.atm.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 m.atm.youku.com
 127.0.0.1 mb.atm.youku.com
@@ -218,11 +220,10 @@
 127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 test.sdk.m.youku.com
 127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 valf.atm.youku.com
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
-127.0.0.1 guanggaoad.youku.com
-127.0.0.1 cmstool.youku.com
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com

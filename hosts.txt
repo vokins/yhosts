@@ -224,6 +224,7 @@
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
+127.0.0.1 pro.yyhudong.com
 @errorpage/weixin
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
@@ -853,6 +854,8 @@
 127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
+#lbesec.com
+127.0.0.1 cdn1.lbesec.com
 #www.kuaiya.cn
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
@@ -1166,8 +1169,9 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
-127.0.0.1 yiqi.whpxy.com
+127.0.0.1 diwang.nzezn.com
 127.0.0.1 download.350.com
+127.0.0.1 yiqi.whpxy.com
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
 127.0.0.1 you.ymfzs.com
@@ -1996,6 +2000,9 @@
 #www.ftchinese.com
 127.0.0.1 creatives.ftchinese.com
 127.0.0.1 dolphin.ftimg.net
+@web/foregin
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
 @site/game
 #17173.com
 127.0.0.1 cvda.17173.com
@@ -2601,6 +2608,7 @@
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
+127.0.0.1 log1.molitv.cn
 127.0.0.1 track.molitv.cn
 127.0.0.1 stat.moliplayer.com
 127.0.0.1 v.api.amgmedia.cn
