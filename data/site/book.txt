@@ -323,6 +323,9 @@
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 #www.shuaigay.top
+127.0.0.1 zz12x.net
+127.0.0.1 zhtjdl.com
+127.0.0.1 s.bxgmb.com
 127.0.0.1 s.xmcmn.com
 127.0.0.1 rc.xmcmn.com
 127.0.0.1 s.nmqbg.com

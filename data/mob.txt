@@ -374,6 +374,7 @@
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 union.dbba.cn
 #miui-browser
+127.0.0.1 mb.yidianzixun.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
