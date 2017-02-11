@@ -2397,7 +2397,6 @@
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
 127.0.0.1 track.58.com
-127.0.0.1 tracklog.58.com
 127.0.0.1 58.xgo.com.cn
 127.0.0.1 imp.xgo.com.cn
 127.0.0.1 stat.xgo.com.cn

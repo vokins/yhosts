@@ -1,6 +1,6 @@
-﻿127.0.0.1 n.sinaimg.cn 在news.sina.com.cn会导致大部分图片无法显示.
-#HOLA桌面启动器 误杀
-a.holaworld.cn
+﻿127.0.0.1 tracklog.58.com 导致58同城登录页面无法使用账号和密码登录
+127.0.0.1 n.sinaimg.cn 在news.sina.com.cn会导致大部分图片无法显示.
+#HOLA桌面启动器 误杀 a.holaworld.cn
 127.0.0.1 tui.yeshen.com  安卓模拟器下载
 127.0.0.1 browserapi.micloud.xiaomi.net 影响同步
 127.0.0.1 dw.cbsi.com dw.cbsi.com建议去除
