@@ -2,11 +2,14 @@
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-![点此捐助6.60元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/660.png)
+捐助6.60元
+![捐助6.60元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/660.png)
 
-![点此捐助19.80元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/198.png)
+捐助19.80元
+![捐助19.80元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/198.png)
 
-![捐助521.00元，向我表白。](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
+捐助521.00元
+![捐助521.00元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
 
 # yhosts
 `
