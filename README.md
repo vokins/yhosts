@@ -6,7 +6,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ![点此捐助19.80元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/198.png)
 
-![点此捐助521.00元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
+![捐助521.00元，向我表白。](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
 
 # yhosts
 `
