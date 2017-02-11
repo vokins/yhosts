@@ -1,5 +1,5 @@
 
-#version=201702111714
+#version=201702112019
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1516,6 +1516,7 @@
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
+127.0.0.1 www.oaojd.com
 127.0.0.1 ioscdn.ywpod3.com
 127.0.0.1 iospage.lalazhuan.net
 127.0.0.1 cache.xw126.com

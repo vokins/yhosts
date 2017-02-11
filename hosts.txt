@@ -1772,6 +1772,7 @@
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
+127.0.0.1 www.oaojd.com
 127.0.0.1 ioscdn.ywpod3.com
 127.0.0.1 iospage.lalazhuan.net
 127.0.0.1 cache.xw126.com
