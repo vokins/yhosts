@@ -8,8 +8,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 捐助  19.80  元
 ![捐助19.80元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/198.png)
 
-捐助  521.00 元
-![捐助521.00元](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
+[点此捐助521元，向我表白！](https://raw.githubusercontent.com/vokins/yhosts/master/donate/521.png)
 
 # yhosts
 `
