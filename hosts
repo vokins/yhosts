@@ -1,5 +1,5 @@
 
-#version=201702121105
+#version=201702121108
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
