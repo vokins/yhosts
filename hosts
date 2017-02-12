@@ -1,5 +1,5 @@
 
-#version=201702121627
+#version=201702121703
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1784,6 +1784,16 @@
 127.0.0.1 img.tz00008.cn
 127.0.0.1 b.9dreams.net
 127.0.0.1 tu.bpmask.com
+127.0.0.1 images2.4hw.com.cn
+127.0.0.1 jb.4hw.com.cn
+127.0.0.1 ssp.4hw.com.cn
+127.0.0.1 jb.mbaidu.top
+127.0.0.1 js.mbaidu.top
+127.0.0.1 ios.ann5.net
+127.0.0.1 d1.mobaders.com
+127.0.0.1 db.xhbqczl.com
+127.0.0.1 funexist.com
+127.0.0.1 ww.jiaeasy.net
 127.0.0.1 100.admin5.com
 127.0.0.1 eezdx.erc.18183.com
 127.0.0.1 outer.anquan.org
@@ -1956,6 +1966,8 @@
 127.0.0.1 olpv.onlylady.com
 127.0.0.1 olpvimg.onlylady.com
 127.0.0.1 olstats.onlylady.com
+127.0.0.1 b17.shangc.net
+127.0.0.1 j17.shangc.net
 127.0.0.1 js4775.tiangu99.com
 127.0.0.1 adimg.bbcss.com
 127.0.0.1 c1.sxxjdz.com

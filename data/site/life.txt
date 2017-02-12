@@ -41,6 +41,9 @@
 127.0.0.1 olpv.onlylady.com
 127.0.0.1 olpvimg.onlylady.com
 127.0.0.1 olstats.onlylady.com
+#shangc.net
+127.0.0.1 b17.shangc.net
+127.0.0.1 j17.shangc.net
 #www.xchssm.com
 127.0.0.1 js4775.tiangu99.com
 127.0.0.1 adimg.bbcss.com
