@@ -566,6 +566,7 @@
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 gj.applog.uc.cn
 127.0.0.1 track.uc.cn
+127.0.0.1 client.video.ucweb.com
 127.0.0.1 cms.ucweb.com
 127.0.0.1 safe.ucweb.com
 127.0.0.1 uc.ucweb.com

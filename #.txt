@@ -1,4 +1,5 @@
-
+#uc国际版 视频播放界面扰人的“视频推荐”垃圾功能
+127.0.0.1 client.video.ucweb.com
 
 http://pic.zaizai8.com/wap/zaidibu.js
 http://m.qu.la/stylewap/js/wap.js

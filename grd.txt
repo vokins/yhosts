@@ -268,6 +268,16 @@
 61.91.161.217 fit.google.com
 61.91.161.217 fiber.google.com
 61.91.161.217 fonts.google.com
+61.91.161.217 firebase.google.com
+61.91.161.217 console.firebase.google.com
+61.91.161.217 mobilesdk-pa.clients6.google.com
+61.91.161.217 cloudusersettings-pa.clients6.google.com
+61.91.161.217 firebasestorage.clients6.google.com
+61.91.161.217 firebaserules.clients6.google.com
+61.91.161.217 firebasedurablelinks-pa.clients6.google.com
+61.91.161.217 cloudconfig.clients6.google.com
+61.91.161.217 gcmcontextualcampaign-pa.clients6.google.com
+61.91.161.217 mobilecrashreporting.clients6.google.com
 61.91.161.217 goto.google.com
 61.91.161.217 gxc.google.com
 61.91.161.217 get.google.com
