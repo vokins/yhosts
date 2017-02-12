@@ -1685,6 +1685,10 @@
 127.0.0.1 img2.hrccb.com
 #www.cilijidi.com
 127.0.0.1 js1597.51weidashi.com
+#www.dytt.net
+127.0.0.1 m1s116.yyhlp.com
+127.0.0.1 news.baidu.com.mjjdfl.com
+127.0.0.1 s.iroby.com
 #www.zhongzigou.net
 127.0.0.1 m.yooli.com
 127.0.0.1 t10.yijia2009.com

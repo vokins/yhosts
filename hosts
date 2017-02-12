@@ -1,5 +1,5 @@
 
-#version=201702121703
+#version=201702121822
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1447,6 +1447,9 @@
 127.0.0.1 la.gydag.com
 127.0.0.1 img2.hrccb.com
 127.0.0.1 js1597.51weidashi.com
+127.0.0.1 m1s116.yyhlp.com
+127.0.0.1 news.baidu.com.mjjdfl.com
+127.0.0.1 s.iroby.com
 127.0.0.1 m.yooli.com
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
