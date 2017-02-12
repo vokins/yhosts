@@ -1136,6 +1136,7 @@
 127.0.0.1 m.mingysh.com
 #m.dingdianzw.com
 127.0.0.1 img.shangxize.cn
+127.0.0.1 p4.95558000.com
 127.0.0.1 p6.95558000.com
 127.0.0.1 p7.95558000.com
 127.0.0.1 p8.95558000.com
@@ -2186,10 +2187,6 @@
 127.0.0.1 imgad0.pconline.com.cn
 127.0.0.1 m981.oadz.com
 127.0.0.1 c.ypmob.com
-127.0.0.1 p4.95558000.com
-127.0.0.1 p6.95558000.com
-127.0.0.1 p8.95558000.com
-127.0.0.1 t2.kele4.com
 #pcpop.com
 127.0.0.1 33.pcpop.com
 127.0.0.1 ashow.pcpop.com

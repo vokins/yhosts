@@ -142,6 +142,7 @@
 127.0.0.1 m.mingysh.com
 #m.dingdianzw.com
 127.0.0.1 img.shangxize.cn
+127.0.0.1 p4.95558000.com
 127.0.0.1 p6.95558000.com
 127.0.0.1 p7.95558000.com
 127.0.0.1 p8.95558000.com
