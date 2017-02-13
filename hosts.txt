@@ -385,6 +385,7 @@
 127.0.0.1 maxwebsearch.com
 127.0.0.1 www.searchswapper.com
 127.0.0.1 ssp.thescenseproject.com
+127.0.0.1 m.duobao999.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @mob/union
@@ -1689,6 +1690,11 @@
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
+127.0.0.1 j.sc1369.com
+127.0.0.1 vip.id528.com
+127.0.0.1 huoying666.com
+127.0.0.1 s2.huoying666.com
+127.0.0.1 u.huoying666.com
 #www.zhongzigou.net
 127.0.0.1 m.yooli.com
 127.0.0.1 t10.yijia2009.com
@@ -2145,6 +2151,9 @@
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
+#codego.net
+127.0.0.1 z22.jxydsb.com
+127.0.0.1 qjgcdn123.86666608.com
 #csdn.net
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
@@ -2181,7 +2190,6 @@
 127.0.0.1 2.win7china.com
 #jb51.net
 127.0.0.1 bdjs.jb51.net
-127.0.0.1 files.jb51.net
 #jz5u.net
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net
@@ -2253,6 +2261,7 @@
 127.0.0.1 mydisplay.ctfile.com
 #fxxz.com
 127.0.0.1 show.tcth8.com
+127.0.0.1 t1.612.com
 127.0.0.1 count.612.com
 127.0.0.1 c5.97you.net
 #greenxf.com
@@ -2283,6 +2292,8 @@
 #m.qqtn.com
 127.0.0.1 a1.5h.com
 127.0.0.1 show.5h.com
+#m.wanyx.com
+127.0.0.1 shili.wanyx.com
 #oyksoft.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com

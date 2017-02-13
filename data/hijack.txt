@@ -151,5 +151,6 @@
 127.0.0.1 maxwebsearch.com
 127.0.0.1 www.searchswapper.com
 127.0.0.1 ssp.thescenseproject.com
+127.0.0.1 m.duobao999.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com

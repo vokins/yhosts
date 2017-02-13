@@ -1,5 +1,5 @@
 
-#version=201702121822
+#version=201702131833
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -327,6 +327,7 @@
 127.0.0.1 maxwebsearch.com
 127.0.0.1 www.searchswapper.com
 127.0.0.1 ssp.thescenseproject.com
+127.0.0.1 m.duobao999.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -1450,6 +1451,11 @@
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
+127.0.0.1 j.sc1369.com
+127.0.0.1 vip.id528.com
+127.0.0.1 huoying666.com
+127.0.0.1 s2.huoying666.com
+127.0.0.1 u.huoying666.com
 127.0.0.1 m.yooli.com
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
@@ -1817,6 +1823,8 @@
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
+127.0.0.1 z22.jxydsb.com
+127.0.0.1 qjgcdn123.86666608.com
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
 127.0.0.1 counter.csdn.net
@@ -1844,7 +1852,6 @@
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
 127.0.0.1 bdjs.jb51.net
-127.0.0.1 files.jb51.net
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net
 127.0.0.1 js.mumayi.net
@@ -1901,6 +1908,7 @@
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
 127.0.0.1 show.tcth8.com
+127.0.0.1 t1.612.com
 127.0.0.1 count.612.com
 127.0.0.1 c5.97you.net
 127.0.0.1 down.xiazai2.net
@@ -1924,6 +1932,7 @@
 127.0.0.1 s.cooolyi.cn
 127.0.0.1 a1.5h.com
 127.0.0.1 show.5h.com
+127.0.0.1 shili.wanyx.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com
 127.0.0.1 img.i8xz.com

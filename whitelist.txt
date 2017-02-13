@@ -1,4 +1,5 @@
-﻿127.0.0.1 tracklog.58.com 导致58同城登录页面无法使用账号和密码登录
+﻿files.jb51.net,网址http://www.jb51.net/article/57889.htm 虽然杀了广告，但是正文的图片也看不到了
+127.0.0.1 tracklog.58.com 导致58同城登录页面无法使用账号和密码登录
 127.0.0.1 n.sinaimg.cn 在news.sina.com.cn会导致大部分图片无法显示.
 #HOLA桌面启动器 误杀 a.holaworld.cn
 127.0.0.1 tui.yeshen.com  安卓模拟器下载
