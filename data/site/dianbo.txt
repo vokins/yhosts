@@ -81,6 +81,10 @@
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 #m.kkkkba.com
+127.0.0.1 js.wjnpxk.com
+127.0.0.1 j.bjlanjin.com
+127.0.0.1 m.966886.org
+127.0.0.1 vip.968228.org
 127.0.0.1 m78.xhydrs.cn
 #m.meijukankan.net
 127.0.0.1 m.hfsteel.net
