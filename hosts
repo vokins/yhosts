@@ -1,5 +1,5 @@
 
-#version=201702151557
+#version=201702161044
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4145,7 +4145,6 @@
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 notice.iqiyi.com
-127.0.0.1 ota.iqiyi.com
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
