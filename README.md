@@ -5,8 +5,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 支付宝捐助
 ![支付宝捐助](https://raw.githubusercontent.com/vokins/yhosts/master/donate/alipay.png)
 
-维信  捐助
-![维信  捐助](https://raw.githubusercontent.com/vokins/yhosts/master/donate/wechat.png)
+微信  捐助
+![微信  捐助](https://raw.githubusercontent.com/vokins/yhosts/master/donate/wechat.png)
 
 # yhosts
 `
@@ -30,7 +30,7 @@ hosts文件
 2. [tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt) 是附加数据，针对电视平台，更好的过滤一些APP的广告。如果家里面有多个可支持hosts过滤的路由器，可在主路由器部署hosts.txt并将此数据部署到客厅盒子的路由上。
 3. [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)是完整数据，可用于路由器平台（方便iPad等设备无广告浏览）。包含hosts.txt和tvbox.txt，并删除所有注释行，方便路由器添加和更新。
 4. [site部分](https://github.com/vokins/yhosts/wiki/%E6%95%B0%E6%8D%AE%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)是站点具体数据，点击此链接查看具体站点详情。
-5. [down.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/down.txt) 禁止推广下载数据，会导致各种市场推广无法下载。默认没有加入主数据，需要请自行叠加。
+5. [down.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/down.txt) 禁止推广下载数据，会导致各种市场推广无法下载。
 6. [cps.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/cps.txt) 屏蔽连接返利数据,默认没有加入主数据，需要请自行叠加。
 
 ### 反馈请看：

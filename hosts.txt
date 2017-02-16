@@ -3812,6 +3812,9 @@
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+#360-total security
+127.0.0.1 display.360totalsecurity.com
+127.0.0.1 static.ts.360.com
 #360-mb
 127.0.0.1 mbrowser.news.haosou.com
 127.0.0.1 mbrowser.news.so.com
