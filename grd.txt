@@ -464,8 +464,6 @@
 61.91.161.217 googleforstudents.blogspot.com
 61.91.161.217 students.googleblog.com
 61.91.161.217 chrome.blogspot.com
-61.91.161.217 googleadservices.com
-61.91.161.217 www.googleadservices.com
 61.91.161.217 google-latlong.blogspot.com
 61.91.161.217 insidesearch.blogspot.com
 61.91.161.217 googleadsdeveloper.blogspot.com
