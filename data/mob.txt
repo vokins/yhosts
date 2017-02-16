@@ -305,6 +305,7 @@
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 counter.kingsoft.com
+127.0.0.1 up.wps.kingsoft.com
 127.0.0.1 ads.dh.duba.com
 #cm-liebao
 127.0.0.1 j.wan.liebao.cn
@@ -317,6 +318,7 @@
 127.0.0.1 info.wps.cn
 127.0.0.1 minfo.wps.cn
 127.0.0.1 moupdate10332052.wps.cn
+127.0.0.1 notify.wps.cn
 127.0.0.1 pcfg.wps.cn
 127.0.0.1 push.wps.cn
 127.0.0.1 cloudservice13.kingsoft-office-service.com
@@ -331,11 +333,19 @@
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
 127.0.0.1 s.ma.social-touch.com
+127.0.0.1 bole.shangshufang.ksosoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
+127.0.0.1 pc.uf.ksosoft.com
+127.0.0.1 startpage.ic.ksosoft.com
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 news.docer.com
+127.0.0.1 api.vas.wpscdn.cn
+127.0.0.1 dl.op.wpscdn.cn
+127.0.0.1 img1.pcfg.cache.wpscdn.cn
+127.0.0.1 js1.pcfg.cache.wpscdn.cn
 127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 switch.pcfg.cache.wpscdn.cn
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
@@ -343,10 +353,13 @@
 127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
+127.0.0.1 dfnews.rdtuijian.com
+127.0.0.1 ic.rdtuijian.com
 127.0.0.1 a.mini.eastday.com
 127.0.0.1 cnc.ef-cdn.com
-127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 tg.7477.com
+127.0.0.1 tg.602.com
+127.0.0.1 tg.654321wan.com
 127.0.0.1 www.gongzhushe.com
 127.0.0.1 www.jbaobao.com
 127.0.0.1 www.maibanu.com
