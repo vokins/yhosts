@@ -18,6 +18,9 @@
 127.0.0.1 static.anquan.org
 #blueidea.com
 127.0.0.1 gg.blueidea.com
+#chinacsky.com
+127.0.0.1 sq1.chinacsky.com
+127.0.0.1 sq2.chinacsky.com
 #chinaso.com
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com

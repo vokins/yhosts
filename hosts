@@ -1,5 +1,5 @@
 
-#version=201702162305
+#version=20170217 625
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1825,6 +1825,8 @@
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
 127.0.0.1 gg.blueidea.com
+127.0.0.1 sq1.chinacsky.com
+127.0.0.1 sq2.chinacsky.com
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
