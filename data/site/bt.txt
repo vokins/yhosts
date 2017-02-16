@@ -316,7 +316,6 @@
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
-127.0.0.1 j.sc1369.com
 127.0.0.1 vip.id528.com
 127.0.0.1 huoying666.com
 127.0.0.1 s2.huoying666.com

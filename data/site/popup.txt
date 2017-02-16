@@ -165,7 +165,6 @@
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 j.mainbx.com
-127.0.0.1 vip.id528.com
 127.0.0.1 g.ousns.net
 127.0.0.1 js.qixing777.com
 127.0.0.1 vip.hys4.com

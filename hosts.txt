@@ -1705,7 +1705,6 @@
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
-127.0.0.1 j.sc1369.com
 127.0.0.1 vip.id528.com
 127.0.0.1 huoying666.com
 127.0.0.1 s2.huoying666.com
@@ -2137,7 +2136,6 @@
 127.0.0.1 ssp.4hw.com.cn
 127.0.0.1 jb.mbaidu.top
 127.0.0.1 js.mbaidu.top
-127.0.0.1 ios.ann5.net
 127.0.0.1 d1.mobaders.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 funexist.com
@@ -2772,6 +2770,14 @@
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
+#www.pingshu8.com
+127.0.0.1 a1.kuku99.com
+127.0.0.1 a2.kuku99.com
+127.0.0.1 yn.001fzc.com
+127.0.0.1 ve.tsdlp.com
+#www.xijucn.com
+127.0.0.1 w.xiaopiaoyou.com
+127.0.0.1 ww.xiaopiaoyou.com
 #www.yuntutv.net
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
@@ -3447,7 +3453,6 @@
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 j.mainbx.com
-127.0.0.1 vip.id528.com
 127.0.0.1 g.ousns.net
 127.0.0.1 js.qixing777.com
 127.0.0.1 vip.hys4.com
