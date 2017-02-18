@@ -1,6 +1,7 @@
 http://sys.zhangyue.com/zybook/u/p/api.php?Act=sysini2&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1&package=com.chaozh.iReaderFree
 http://push.zhangyue.com/message/advice/addGidBaseInfo?aid=538e8e409e2514136c57c353&cid=d300998dab754b5cb1b053ac409cbb05&pf=3&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1
-
+aider-res.meizu.com/static/system/ad/homead.json
+umid.orion.meizu.com/umid/generator
 bro.flyme.cn/channel_ad/list?channelId=35&imei=866002024182577&vc=6001001
 bro.flyme.cn/channel_ad/list?channelId=44&imei=866002024182577&vc=6001001
 infocenter.meizu.com/android/unauth/config/getconfig
@@ -13,6 +14,8 @@ ebook.res.meizu.com/pic/manage_1450343731142.jpg
 ebook.meizu.com/api/v1/public/homepage
 aries.mzres.com/index/index.html
 push.res.meizu.com/push/app/1486979727721/ebook_2.0.213_2017020914275623_prd.apk
+aider.meizu.com/v3/weather/city?cityId=285000&bizId=aider_app&timestamp=1487428555088&sign=2e5564eb6e25d8f84d7553623f6dbc64
+g.meizu.com/open/api/system/getconfig.do?appversion=6.0.02&imei=866002024182577
 
 http://www.pingshu8.com/a/F.js?1.001
 http://m.chenhuixs.net/js/hfz.js

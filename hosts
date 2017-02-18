@@ -1,5 +1,5 @@
 
-#version=201702182123
+#version=201702182251
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -561,6 +561,8 @@
 127.0.0.1 infocenter.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
+127.0.0.1 aider-res.meizu.com
+127.0.0.1 umid.orion.meizu.com
 127.0.0.1 uxip.meizu.com
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn

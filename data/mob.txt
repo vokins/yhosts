@@ -290,7 +290,10 @@
 #flyme-tongji
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
+#flyme-weather
+127.0.0.1 aider-res.meizu.com
 #flyme-privacy
+127.0.0.1 umid.orion.meizu.com
 127.0.0.1 uxip.meizu.com
 @mob/miui
 #cm-adfuture
