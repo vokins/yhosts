@@ -1033,6 +1033,8 @@
 127.0.0.1 m.ad.zhangyue.com
 @site/book
 #m.250sy.net
+127.0.0.1 m.uzpmrbek.com
+127.0.0.1 s.xhsxgmt.cn
 127.0.0.1 s.tbaocdn.com
 127.0.0.1 s.liangziweixg.com
 127.0.0.1 img.royaltianjin.com
@@ -1073,7 +1075,6 @@
 #m.33yq.com
 127.0.0.1 baby.yf898.com
 127.0.0.1 m.twldmx.com
-127.0.0.1 s.xhsxgmt.cn
 127.0.0.1 yyk.dalianbaojie.com
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
@@ -1124,8 +1125,12 @@
 127.0.0.1 c.msltzer.cn
 127.0.0.1 www.ailicee.com
 #m.booktxt.net
-127.0.0.1 e.lanxiangji.com
+127.0.0.1 m.lengrom.cn
+127.0.0.1 diwang.nzezn.com
 127.0.0.1 gog9.qzdfc.com
+127.0.0.1 m.chnhty.com
+127.0.0.1 aders.jjhsjgj.com
+127.0.0.1 e.lanxiangji.com
 127.0.0.1 m.lanxiangji.com
 127.0.0.1 yang.93manhua.com
 127.0.0.1 e.pubbirdf.com
@@ -1134,13 +1139,20 @@
 127.0.0.1 jdian.tianshicto.com
 #m.chenhuixs.net
 127.0.0.1 ab.bontech-zh.com
+127.0.0.1 st.zzhyyj.com
+127.0.0.1 z67.zzhyyj.com
+127.0.0.1 s.yylys.com
+127.0.0.1 v.yylys.com
+127.0.0.1 tj.zhaes.com
+127.0.0.1 appcdn.ywjiawen.com
+127.0.0.1 iospage.achongwu.net
+127.0.0.1 s.obaolu.net
+127.0.0.1 js2254.hfxcsl.cn
+127.0.0.1 p2.ykauto.cn
 127.0.0.1 jkjdkw365.laishai.net
 127.0.0.1 js2254.njqunyi.com
-127.0.0.1 st.zzhyyj.com
-127.0.0.1 tj.zhaes.com
 127.0.0.1 z2.mmxcy.com
 127.0.0.1 z3.mmxcy.com
-127.0.0.1 z67.zzhyyj.com
 127.0.0.1 im.opiuat.com
 127.0.0.1 jk.pingao.com
 127.0.0.1 js2254.szfm1.com
@@ -1168,6 +1180,9 @@
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 link.yida558.com
 #m.lanseshuba.com
+127.0.0.1 api.ahjinshu.com
+127.0.0.1 m.ssjy168.com
+127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
 127.0.0.1 e.huashengtai.net
@@ -1187,8 +1202,9 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
-127.0.0.1 diwang.nzezn.com
 127.0.0.1 download.350.com
+127.0.0.1 wudi.xdbwc.com
+127.0.0.1 huhu.jzm81.com
 127.0.0.1 yiqi.whpxy.com
 127.0.0.1 ss.biquge.la
 127.0.0.1 tt.biquge.la
@@ -1218,6 +1234,10 @@
 127.0.0.1 bobo.xmwty.com
 127.0.0.1 hao.dian500.com
 127.0.0.1 miss.stn88.com
+127.0.0.1 cdns.cqwgy.com
+127.0.0.1 sese.chmae.com
+127.0.0.1 ad.jsnbrynb.com
+127.0.0.1 img.tcdxt.com
 #m.shenmaxiaoshuo.com
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 rc.123juhd.com
@@ -1227,7 +1247,6 @@
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 image.qj175.com
 127.0.0.1 ms.myyage.com
-127.0.0.1 m.ssjy168.com
 #m.shu008.com
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
@@ -1387,6 +1406,14 @@
 127.0.0.1 js3987.yzh360.com
 127.0.0.1 wx.8536818.com
 127.0.0.1 apisoft.df0535.com
+#www.zhaishuge.com
+127.0.0.1 m.csmdzj.com
+127.0.0.1 xue2b.meiti1.com
+127.0.0.1 m.jxhdzs365.com
+127.0.0.1 wap.sunian888.com
+127.0.0.1 tt.zrpfk.com
+127.0.0.1 ts.xitao3.com
+127.0.0.1 pv.fq9r.com
 @site/bt
 #bt.orzx.im
 127.0.0.1 c.code222.com
@@ -3944,6 +3971,7 @@
 127.0.0.1 promotion.aliyun.com
 #ali-cnzz
 127.0.0.1 www.cnzz.com
+127.0.0.1 c.cnzz.coml.cc
 127.0.0.1 zjs.cnzz.net
 127.0.0.1 z.cnzz.net
 127.0.0.1 js.adm.cnzz.net
@@ -4368,6 +4396,8 @@
 127.0.0.1 click.onesoft.im
 127.0.0.1 r.cpmchina.co
 127.0.0.1 www.cpmchina.co
+#dmrtb.com
+127.0.0.1 track.dmrtb.com
 #emarbox.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com
