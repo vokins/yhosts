@@ -1,5 +1,5 @@
 
-#version=20170218 941
+#version=201702181655
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -545,11 +545,13 @@
 127.0.0.1 api-push.meizu.com
 127.0.0.1 compaign.meizu.com
 127.0.0.1 game.res.meizu.com
+127.0.0.1 infocenter.meizu.com
 127.0.0.1 openapi-news.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
 127.0.0.1 upush.res.meizu.com
 127.0.0.1 api-flow.flyme.cn
+127.0.0.1 bro.flyme.cn
 127.0.0.1 t-e.flyme.cn
 127.0.0.1 t-flow.flyme.cn
 127.0.0.1 adfuture.cn
@@ -3908,20 +3910,22 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 log.tbs.qq.com
-127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
-127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
-127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 pvstat.html5.qq.com
+127.0.0.1 recmd.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-127.0.0.1 wup.imtt.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com

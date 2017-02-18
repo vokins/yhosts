@@ -1,3 +1,8 @@
+bro.flyme.cn/channel_ad/list?channelId=35&imei=866002024182577&vc=6001001
+bro.flyme.cn/channel_ad/list?channelId=44&imei=866002024182577&vc=6001001
+infocenter.meizu.com/android/unauth/config/getconfig
+http://infocenter.meizu.com/android/unauth/hotword/gethotword
+
 http://www.pingshu8.com/a/F.js?1.001
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzx.js

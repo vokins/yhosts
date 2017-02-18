@@ -1020,20 +1020,22 @@
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 log.tbs.qq.com
 #qq-mb.qq.com
-127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsense.html5.qq.com
-127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
-127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 pvstat.html5.qq.com
+127.0.0.1 recmd.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-127.0.0.1 wup.imtt.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 mqqadr.reader.qq.com
 #qq-weixin
 127.0.0.1 wxsnsdy.video.qq.com
 #qucaigg.com

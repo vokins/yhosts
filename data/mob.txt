@@ -267,11 +267,13 @@
 127.0.0.1 api-push.meizu.com
 127.0.0.1 compaign.meizu.com
 127.0.0.1 game.res.meizu.com
+127.0.0.1 infocenter.meizu.com
 127.0.0.1 openapi-news.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
 127.0.0.1 upush.res.meizu.com
 127.0.0.1 api-flow.flyme.cn
+127.0.0.1 bro.flyme.cn
 127.0.0.1 t-e.flyme.cn
 127.0.0.1 t-flow.flyme.cn
 @mob/miui
