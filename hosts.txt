@@ -659,6 +659,7 @@
 127.0.0.1 game.res.meizu.com
 127.0.0.1 infocenter.meizu.com
 127.0.0.1 openapi-news.meizu.com
+127.0.0.1 reader.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
 127.0.0.1 upush.res.meizu.com
@@ -4123,6 +4124,7 @@
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 puds.ucweb.com
 127.0.0.1 log.cs.pp.cn
+127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 adslot.uc.cn

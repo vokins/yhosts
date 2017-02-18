@@ -269,6 +269,7 @@
 127.0.0.1 game.res.meizu.com
 127.0.0.1 infocenter.meizu.com
 127.0.0.1 openapi-news.meizu.com
+127.0.0.1 reader.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
 127.0.0.1 upush.res.meizu.com
