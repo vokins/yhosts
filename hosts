@@ -1,5 +1,5 @@
 
-#version=201702181655
+#version=201702181700
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -819,6 +819,7 @@
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
+127.0.0.1 www.5066.net
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
 127.0.0.1 cc.dace.hupu.com

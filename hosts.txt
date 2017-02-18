@@ -996,6 +996,8 @@
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
+#bbs.gpsuu.com
+127.0.0.1 www.5066.net
 #bbs.kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
