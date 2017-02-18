@@ -1,5 +1,5 @@
 
-#version=201702182108
+#version=201702182113
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -585,8 +585,6 @@
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 beha.ksmobile.com
-127.0.0.1 counter.kingsoft.com
-127.0.0.1 up.wps.kingsoft.com
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 cr.m.liebao.cn
@@ -603,6 +601,9 @@
 127.0.0.1 pcfg.wps.cn
 127.0.0.1 push.wps.cn
 127.0.0.1 wpsweb-dc.wps.cn
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 up.wps.kingsoft.com
+127.0.0.1 bannera.kingsoft-office-service.com
 127.0.0.1 cloudservice13.kingsoft-office-service.com
 127.0.0.1 cloudservice15.kingsoft-office-service.com
 127.0.0.1 cloudservice19.kingsoft-office-service.com
