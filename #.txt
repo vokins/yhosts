@@ -3,6 +3,13 @@ bro.flyme.cn/channel_ad/list?channelId=44&imei=866002024182577&vc=6001001
 infocenter.meizu.com/android/unauth/config/getconfig
 http://infocenter.meizu.com/android/unauth/hotword/gethotword
 openapi.mobile.youku.com/adv?_t_=1487409010&e=md5&_s_=81c24b7337afd847f13c4a351c382686&vid=XMjQ4MTc0ODMyOA==&site=1&position=7&is_fullscreen=0&player_type=mdevice&sessionid=29fa0cf9e64191bd0e7d029258f634d8&device_type=phone&device_brand=Meizu&net=1000&mdl=MX4+Pro&dvw=1536&dvh=2560&dprm=4000&osv=5.1.1&aid=8431a420cd43c2a3&aw=a&rst=flv&noqt=0&dq=mp4&version=1.0&vc=0&pid=57ec04e0e9e14167&guid=55cbe78250f487e015e6e8158a8c5834&mac=38:bc:1a:cb:ec:bd&imei=866002024182577&ver=4.7.1&operator=CHN-UNICOM_46001&network=WIFI&atm=185824fc055c6fb60e8f8aa1b669de7fa&partnerid=1d530496bf4150b9
+http://cal.meizu.com/android/unauth/subscribecard/get.do?id=1
+http://cal.meizu.com/android/unauth/subscribecard/list.do
+uxip.meizu.com/api/upload
+ebook.res.meizu.com/pic/manage_1450343731142.jpg
+ebook.meizu.com/api/v1/public/homepage
+aries.mzres.com/index/index.html
+push.res.meizu.com/push/app/1486979727721/ebook_2.0.213_2017020914275623_prd.apk
 
 http://www.pingshu8.com/a/F.js?1.001
 http://m.chenhuixs.net/js/hfz.js

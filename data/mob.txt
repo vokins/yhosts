@@ -262,21 +262,36 @@
 127.0.0.1 mb.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
 @mob/meizu
-#meizu-flyme
-127.0.0.1 api-game.meizu.com
-127.0.0.1 api-push.meizu.com
-127.0.0.1 compaign.meizu.com
-127.0.0.1 game.res.meizu.com
-127.0.0.1 infocenter.meizu.com
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 reader.meizu.com
-127.0.0.1 tongji-res1.meizu.com
-127.0.0.1 tongji.meizu.com
-127.0.0.1 upush.res.meizu.com
+#flyme-ads
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
 127.0.0.1 t-e.flyme.cn
 127.0.0.1 t-flow.flyme.cn
+#flyme-calendar
+127.0.0.1 cal.meizu.com
+#flyme-ebook
+127.0.0.1 aries.mzres.com
+127.0.0.1 ebook.meizu.com
+127.0.0.1 ebook.res.meizu.com
+#flyme-game
+127.0.0.1 api-game.meizu.com
+127.0.0.1 game.res.meizu.com
+127.0.0.1 game-res.meizu.com
+#flyme-push
+127.0.0.1 api-push.meizu.com
+127.0.0.1 push.res.meizu.com
+127.0.0.1 upush.res.meizu.com
+#flyme-reader
+127.0.0.1 openapi-news.meizu.com
+127.0.0.1 reader.meizu.com
+127.0.0.1 reader.res.meizu.com
+#flyme-search
+127.0.0.1 infocenter.meizu.com
+#flyme-tongji
+127.0.0.1 tongji-res1.meizu.com
+127.0.0.1 tongji.meizu.com
+#flyme-privacy
+127.0.0.1 uxip.meizu.com
 @mob/miui
 #cm-adfuture
 127.0.0.1 adfuture.cn
