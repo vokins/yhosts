@@ -1052,6 +1052,7 @@
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
+127.0.0.1 push.zhangyue.com
 @site/book
 #m.250sy.net
 127.0.0.1 m.uzpmrbek.com

@@ -1,3 +1,6 @@
+http://sys.zhangyue.com/zybook/u/p/api.php?Act=sysini2&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1&package=com.chaozh.iReaderFree
+http://push.zhangyue.com/message/advice/addGidBaseInfo?aid=538e8e409e2514136c57c353&cid=d300998dab754b5cb1b053ac409cbb05&pf=3&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1
+
 bro.flyme.cn/channel_ad/list?channelId=35&imei=866002024182577&vc=6001001
 bro.flyme.cn/channel_ad/list?channelId=44&imei=866002024182577&vc=6001001
 infocenter.meizu.com/android/unauth/config/getconfig
