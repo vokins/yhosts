@@ -2827,6 +2827,7 @@
 127.0.0.1 v.l.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 html.atm.youku.com
+127.0.0.1 ipm.atm.youku.com
 127.0.0.1 miaozhen.atm.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 v2html.atm.youku.com
@@ -2842,6 +2843,7 @@
 127.0.0.1 cb.lomark.cn
 127.0.0.1 reply.lomark.cn
 127.0.0.1 rm.lomark.cn
+127.0.0.1 p-cn.acxiom-online.com
 @site/movie
 #dytt8.net
 127.0.0.1 url.222bz.com
@@ -4061,6 +4063,7 @@
 127.0.0.1 ac.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 go.mmstat.com
+127.0.0.1 gxb.mmstat.com
 127.0.0.1 log.mmstat.com
 127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
@@ -4073,12 +4076,14 @@
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
 127.0.0.1 ef.opendsp.tanx.com
+127.0.0.1 ef.tanx.com
+127.0.0.1 et.tanx.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 opendsp.tanx.com
 127.0.0.1 p.tanx.com
-127.0.0.1 phs.tanx.com
 127.0.0.1 pcookie.tanx.com
+127.0.0.1 phs.tanx.com
 127.0.0.1 rdstat.tanx.com
 #ali-taobao-test
 127.0.0.1 hz.pre.tbusergw.taobao.net

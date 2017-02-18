@@ -1,6 +1,7 @@
 ﻿127.0.0.1 img1.pcfg.cache.wpscdn.cn
 127.0.0.1 switch.pcfg.cache.wpscdn.cn
-
+127.0.0.1 openapi.mobile.youku.com
+127.0.0.1 k.youku.com
 下载地址域名：ota.iqiyi.com
 files.jb51.net,网址http://www.jb51.net/article/57889.htm 虽然杀了广告，但是正文的图片也看不到了
 127.0.0.1 tracklog.58.com 导致58同城登录页面无法使用账号和密码登录
