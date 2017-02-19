@@ -1,5 +1,5 @@
 
-#version=20170219 947
+#version=20170219 956
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3519,9 +3519,10 @@
 127.0.0.1 puds.ucweb.com
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 iflow.uczzd.cn
+127.0.0.1 iflow.uczzd.com
+127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
-127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 dispatcher.upmc.uc.cn
