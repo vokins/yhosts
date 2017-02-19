@@ -1,3 +1,5 @@
+http://aider.meizu.com/v3/news/list?oneset=0&cityId=285000&bizId=aider_app&timestamp=1487430858819&sign=85ec06840c90d62b8f0e1c0c3897f6e2
+
 http://sys.zhangyue.com/zybook/u/p/api.php?Act=sysini2&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1&package=com.chaozh.iReaderFree
 http://push.zhangyue.com/message/advice/addGidBaseInfo?aid=538e8e409e2514136c57c353&cid=d300998dab754b5cb1b053ac409cbb05&pf=3&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1
 aider-res.meizu.com/static/system/ad/homead.json

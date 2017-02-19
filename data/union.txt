@@ -566,8 +566,9 @@
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 puds.ucweb.com
 127.0.0.1 log.cs.pp.cn
-127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
+127.0.0.1 image.uczzd.cn
+127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 adslot.uc.cn
 127.0.0.1 applog.uc.cn
