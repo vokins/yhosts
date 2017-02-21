@@ -1836,6 +1836,9 @@
 127.0.0.1 c.weareqy.com
 127.0.0.1 r.weareqy.com
 127.0.0.1 rc.weareqy.com
+#m.80smp4.com
+127.0.0.1 in.jghcy.com
+127.0.0.1 s.jghcy.com
 #m.a4yy.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 slb.kanshangqiu.com
