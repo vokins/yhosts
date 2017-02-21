@@ -855,6 +855,7 @@
 61.91.161.217 www--google--com--hk.safenup.googleusercontent.com
 64.233.188.121 code.getmdl.io
 64.233.189.128 storage.googleapis.com
+64.233.189.128 chromedriver.storage.googleapis.com
 61.91.161.217 www.googlehosted.com
 61.91.161.217 base.googlehosted.com
 61.91.161.217 base0.googlehosted.com
@@ -2255,7 +2256,7 @@
 216.58.196.236 compress.googlezip.net
 216.58.196.236 proxy-dev.googlezip.net
 216.239.34.21 polymer-project.org
-61.91.161.217 www.polymer-project.org
+216.58.199.243 www.polymer-project.org
 61.91.161.217 talkgadget.l.google.com
 61.91.161.217 hangouts.google.com
 61.91.161.217 hangout.google.com
@@ -3345,7 +3346,7 @@
 106.10.193.20 open.login.yahoo.com
 216.39.54.12 overview.mail.yahoo.com
 119.160.254.215 p.yimg.com
-216.115.100.106 s.yimg.com
+124.108.101.57 s.yimg.com
 119.160.254.215 s1.yimg.com
 106.10.193.20 sa.edit.yahoo.com
 208.71.44.31 secure.flickr.com
