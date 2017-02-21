@@ -1,5 +1,5 @@
 
-#version=201702211914
+#version=201702211924
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1237,6 +1237,7 @@
 127.0.0.1 www.czgzs.net
 127.0.0.1 t.fujianryt.com
 127.0.0.1 www.nmpcdn.com
+127.0.0.1 js883.szfm1.com
 127.0.0.1 js3555.eduzzjy.com
 127.0.0.1 js3555.doupuer.com
 127.0.0.1 images.beilic.com
