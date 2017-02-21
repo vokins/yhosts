@@ -11,3 +11,4 @@ http://m.qu.la/stylewap/js/wap.js
 http://pic.zaizai8.com/wap/zaidibu.js
 http://www.pingshu8.com/a/F.js?1.001
 http://exview.gtool.ml/gad/gad_top_468_60.html
+http://m.biquge.com.tw/wap/skin/wap.js
