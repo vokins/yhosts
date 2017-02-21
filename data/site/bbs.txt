@@ -13,6 +13,7 @@
 #bbs.gxsky.com
 127.0.0.1 ll.gxsky.com
 127.0.0.1 j.nnsky.com
+127.0.0.1 dd.022aifang.com
 #bbs.kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
