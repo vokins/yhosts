@@ -1,5 +1,5 @@
 
-#version=201702211945
+#version=201702212035
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -836,6 +836,8 @@
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
 127.0.0.1 www.5066.net
+127.0.0.1 ll.gxsky.com
+127.0.0.1 j.nnsky.com
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
 127.0.0.1 cc.dace.hupu.com
@@ -1528,6 +1530,8 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+127.0.0.1 bd1.52che.com
+127.0.0.1 bd2.52che.com
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn

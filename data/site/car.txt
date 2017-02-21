@@ -1,4 +1,7 @@
 @site/car
+#52che.com
+127.0.0.1 bd1.52che.com
+127.0.0.1 bd2.52che.com
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn

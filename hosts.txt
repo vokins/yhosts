@@ -1023,6 +1023,9 @@
 127.0.0.1 zpv.55bbs.com
 #bbs.gpsuu.com
 127.0.0.1 www.5066.net
+#bbs.gxsky.com
+127.0.0.1 ll.gxsky.com
+127.0.0.1 j.nnsky.com
 #bbs.kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
@@ -1780,6 +1783,9 @@
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
 @site/car
+#52che.com
+127.0.0.1 bd1.52che.com
+127.0.0.1 bd2.52che.com
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
