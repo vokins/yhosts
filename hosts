@@ -1,5 +1,5 @@
 
-#version=201702212039
+#version=201702212146
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4322,7 +4322,6 @@
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
-127.0.0.1 cmstool.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
