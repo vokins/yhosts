@@ -1,5 +1,5 @@
 
-#version=20170221 920
+#version=201702211907
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1235,7 +1235,8 @@
 127.0.0.1 lotraden.online
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
-127.0.0.1 yunbofangbt.com
+127.0.0.1 www.nmpcdn.com
+127.0.0.1 js3555.eduzzjy.com
 127.0.0.1 js3555.doupuer.com
 127.0.0.1 images.beilic.com
 127.0.0.1 j.91cmzx.com

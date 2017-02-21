@@ -1475,7 +1475,8 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
-127.0.0.1 yunbofangbt.com
+127.0.0.1 www.nmpcdn.com
+127.0.0.1 js3555.eduzzjy.com
 127.0.0.1 js3555.doupuer.com
 127.0.0.1 images.beilic.com
 127.0.0.1 j.91cmzx.com
