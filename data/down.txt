@@ -125,3 +125,6 @@
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 ad.sojoyo.com
 127.0.0.1 tj.zonglm.com
+127.0.0.1 ld.mediaget.com
+127.0.0.1 download.mediaget.com
+127.0.0.1 c.silvinst.com

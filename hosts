@@ -1,5 +1,5 @@
 
-#version=201702222254
+#version=20170223 011
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -166,6 +166,9 @@
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 ad.sojoyo.com
 127.0.0.1 tj.zonglm.com
+127.0.0.1 ld.mediaget.com
+127.0.0.1 download.mediaget.com
+127.0.0.1 c.silvinst.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
