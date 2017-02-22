@@ -128,3 +128,6 @@
 127.0.0.1 ld.mediaget.com
 127.0.0.1 download.mediaget.com
 127.0.0.1 c.silvinst.com
+127.0.0.1 cdn.holdlakh.com
+127.0.0.1 cdn.wwwpromoter.com
+127.0.0.1 creative.wwwpromoter.com
