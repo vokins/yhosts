@@ -621,6 +621,7 @@
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 imgcdn.wapx.cn
+127.0.0.1 wapscdn.wapx.cn
 #xiaoyun
 127.0.0.1 client-stats.gclick.cn
 127.0.0.1 community.cms.gclick.cn
@@ -829,6 +830,10 @@
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
+@mob/mokee
+127.0.0.1 ads.waps.cn
+127.0.0.1 app.waps.cn
+127.0.0.1 stats.mokeedev.com
 @mob/apps
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp
@@ -1171,6 +1176,9 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
+#m.bxwx9.org
+<img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt="">
+<a id="bottomLink" target="_blank" href="http://down.bugeyu.com/fish_master_android_61_1.2.1.apk"><img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt=""></a>
 #m.chenhuixs.net
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
@@ -3705,6 +3713,7 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
+127.0.0.1 csi.gstatic.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com

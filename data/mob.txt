@@ -226,6 +226,7 @@
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 imgcdn.wapx.cn
+127.0.0.1 wapscdn.wapx.cn
 #xiaoyun
 127.0.0.1 client-stats.gclick.cn
 127.0.0.1 community.cms.gclick.cn
@@ -434,6 +435,10 @@
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
+@mob/mokee
+127.0.0.1 ads.waps.cn
+127.0.0.1 app.waps.cn
+127.0.0.1 stats.mokeedev.com
 @mob/apps
 #habitbrowser
 127.0.0.1 ad.adfurikun.jp

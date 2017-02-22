@@ -231,7 +231,6 @@
 127.0.0.1 l.ftx.fancyapi.com
 127.0.0.1 w.fancyapi.com
 127.0.0.1 l.fancyapi.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
