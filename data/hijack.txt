@@ -102,6 +102,7 @@
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
+127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
 @hijack/wifi
 127.0.0.1 c.minisplat.cn

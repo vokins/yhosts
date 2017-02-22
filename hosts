@@ -1,5 +1,5 @@
 
-#version=201702222250
+#version=201702222254
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -279,6 +279,7 @@
 127.0.0.1 www.i1236.net
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
+127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
@@ -2574,6 +2575,7 @@
 127.0.0.1 rtmonitor.kugou.com
 127.0.0.1 sdk.game.kugou.com
 127.0.0.1 sdn.kugou.com
+127.0.0.1 song.fanxing.kugou.com
 127.0.0.1 tj.kugou.com
 127.0.0.1 update.mobile.kugou.com
 127.0.0.1 kuaikaiapp.com

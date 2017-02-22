@@ -22,6 +22,7 @@
 127.0.0.1 rtmonitor.kugou.com
 127.0.0.1 sdk.game.kugou.com
 127.0.0.1 sdn.kugou.com
+127.0.0.1 song.fanxing.kugou.com
 127.0.0.1 tj.kugou.com
 127.0.0.1 update.mobile.kugou.com
 127.0.0.1 kuaikaiapp.com

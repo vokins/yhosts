@@ -336,6 +336,7 @@
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
+127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
 @hijack/wifi
 127.0.0.1 c.minisplat.cn
@@ -3058,6 +3059,7 @@
 127.0.0.1 rtmonitor.kugou.com
 127.0.0.1 sdk.game.kugou.com
 127.0.0.1 sdn.kugou.com
+127.0.0.1 song.fanxing.kugou.com
 127.0.0.1 tj.kugou.com
 127.0.0.1 update.mobile.kugou.com
 127.0.0.1 kuaikaiapp.com
