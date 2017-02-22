@@ -1,4 +1,5 @@
-﻿127.0.0.1 cmstool.youku.com 这个域名影响删除记录
+﻿127.0.0.1 c.wrating.com 影响网站 土豆任何人的主页不能正常显示 如 http://v.tudou.com/DSnvlaoshi/?wc=0
+127.0.0.1 cmstool.youku.com 这个域名影响删除记录
 127.0.0.1 img1.pcfg.cache.wpscdn.cn
 127.0.0.1 switch.pcfg.cache.wpscdn.cn
 127.0.0.1 openapi.mobile.youku.com

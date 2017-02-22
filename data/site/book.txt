@@ -129,8 +129,7 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
 #m.bxwx9.org
-<img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt="">
-<a id="bottomLink" target="_blank" href="http://down.bugeyu.com/fish_master_android_61_1.2.1.apk"><img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt=""></a>
+127.0.0.1 down.bugeyu.com
 #m.chenhuixs.net
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com

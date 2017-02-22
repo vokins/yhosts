@@ -1,5 +1,5 @@
 
-#version=20170222 925
+#version=201702221738
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -966,8 +966,7 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
-<img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt="">
-<a id="bottomLink" target="_blank" href="http://down.bugeyu.com/fish_master_android_61_1.2.1.apk"><img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt=""></a>
+127.0.0.1 down.bugeyu.com
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
 127.0.0.1 z67.zzhyyj.com
@@ -3595,7 +3594,6 @@
 127.0.0.1 feedback.whalecloud.com
 127.0.0.1 push.wandoujia.com
 127.0.0.1 163.wrating.com
-127.0.0.1 c.wrating.com
 127.0.0.1 click.wrating.com
 127.0.0.1 g.wrating.com
 127.0.0.1 m.wrating.com
@@ -3975,6 +3973,8 @@
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 btrace.qq.com
+127.0.0.1 btrace.video.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
