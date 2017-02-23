@@ -1,5 +1,5 @@
 
-#version=20170223 015
+#version=20170223 953
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3145,7 +3145,6 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 csi.gstatic.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com

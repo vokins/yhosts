@@ -3722,7 +3722,6 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 csi.gstatic.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
