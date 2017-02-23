@@ -1,5 +1,5 @@
 
-#version=20170223 953
+#version=201702231922
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2044,6 +2044,10 @@
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
 127.0.0.1 ad.12306.cn
+127.0.0.1 bdfpb1.8684.com
+127.0.0.1 bdfpb2.8684.com
+127.0.0.1 js.2011.8684.com
+127.0.0.1 media.2011.8684.com
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
