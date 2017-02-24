@@ -152,6 +152,9 @@
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com
+#m.v4.cc
+127.0.0.1 db1.fuz.cc
+127.0.0.1 db2.fuz.cc
 #m.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com

@@ -1,5 +1,5 @@
 
-#version=20170224 844
+#version=20170224 941
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2170,6 +2170,8 @@
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com
+127.0.0.1 db1.fuz.cc
+127.0.0.1 db2.fuz.cc
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com
 127.0.0.1 u.qoxyo.cn
@@ -3706,6 +3708,9 @@
 127.0.0.1 t10.baidu.com
 127.0.0.1 t11.baidu.com
 127.0.0.1 t12.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 click.bes.baidu.com
