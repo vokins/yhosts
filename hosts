@@ -1,5 +1,5 @@
 
-#version=201702241120
+#version=201702241124
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4091,6 +4091,7 @@
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 promote.biz.weibo.cn
+127.0.0.1 api.gi.igexin.com
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com

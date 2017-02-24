@@ -1142,6 +1142,7 @@
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 promote.biz.weibo.cn
 #sina-igexin
+127.0.0.1 api.gi.igexin.com
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com

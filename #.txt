@@ -1,4 +1,6 @@
 
+#igexin.com 移动广告营销平台
+127.0.0.1 api.gi.igexin.com
 https://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose3.png
 
 http://db1.fuz.cc/2e4d8bc2a586a36a.js
