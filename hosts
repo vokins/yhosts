@@ -1,5 +1,5 @@
 
-#version=20170224 941
+#version=20170224 952
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3341,7 +3341,10 @@
 127.0.0.1 top.h.qhimg.com
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
+127.0.0.1 b.appjiagu.com
 127.0.0.1 c.appjiagu.com
+127.0.0.1 j.appjiagu.com
+127.0.0.1 p.appjiagu.com
 127.0.0.1 s.appjiagu.com
 127.0.0.1 code.37cs.com
 127.0.0.1 fb.37cs.com
@@ -3974,6 +3977,7 @@
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 c.gdt.qq.com
+127.0.0.1 d.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com

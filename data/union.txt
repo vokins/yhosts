@@ -313,7 +313,10 @@
 #360-safe
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
+127.0.0.1 b.appjiagu.com
 127.0.0.1 c.appjiagu.com
+127.0.0.1 j.appjiagu.com
+127.0.0.1 p.appjiagu.com
 127.0.0.1 s.appjiagu.com
 #37cs.com
 127.0.0.1 code.37cs.com
@@ -1013,6 +1016,7 @@
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 c.gdt.qq.com
+127.0.0.1 d.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
