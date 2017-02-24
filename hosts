@@ -1,5 +1,5 @@
 
-#version=201702241229
+#version=201702241639
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -562,10 +562,17 @@
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
+127.0.0.1 adapi.lenovogame.com
 127.0.0.1 fsr.lenovomm.com
+127.0.0.1 imfsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com
-127.0.0.1 mb.lenovomm.com
+127.0.0.1 mfsr.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
+127.0.0.1 fw.mb.lenovomm.com
+127.0.0.1 mb.lenovomm.com
+127.0.0.1 news.mb.lenovomm.com
+127.0.0.1 ad.gtbrowser.com
+127.0.0.1 api.gtbrowser.com
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
 127.0.0.1 t-e.flyme.cn
@@ -3272,6 +3279,8 @@
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
+127.0.0.1 c.m.163.com
+127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 ad.yixin.im
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com

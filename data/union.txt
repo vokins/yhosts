@@ -229,6 +229,9 @@
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
+#163-news
+127.0.0.1 c.m.163.com
+127.0.0.1 c-hzgt2.getui.com
 #163-yixin
 127.0.0.1 ad.yixin.im
 #163-youdao

@@ -673,10 +673,18 @@
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 @mob/lenovo
+127.0.0.1 adapi.lenovogame.com
 127.0.0.1 fsr.lenovomm.com
+127.0.0.1 imfsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com
-127.0.0.1 mb.lenovomm.com
+127.0.0.1 mfsr.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
+#lenovo-mb
+127.0.0.1 fw.mb.lenovomm.com
+127.0.0.1 mb.lenovomm.com
+127.0.0.1 news.mb.lenovomm.com
+127.0.0.1 ad.gtbrowser.com
+127.0.0.1 api.gtbrowser.com
 @mob/meizu
 #flyme-ads
 127.0.0.1 api-flow.flyme.cn
@@ -3876,6 +3884,9 @@
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
+#163-news
+127.0.0.1 c.m.163.com
+127.0.0.1 c-hzgt2.getui.com
 #163-yixin
 127.0.0.1 ad.yixin.im
 #163-youdao
