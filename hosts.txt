@@ -1091,6 +1091,12 @@
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 push.zhangyue.com
 @site/book
+#m.1xiaoshuo.com
+127.0.0.1 oodd.m.1xiaoshuo.com
+127.0.0.1 e.jkangfu.com
+127.0.0.1 e.lengrom.cn
+127.0.0.1 enco.qqduckshop.com
+127.0.0.1 m.syofew6o.net
 #m.250sy.net
 127.0.0.1 m.uzpmrbek.com
 127.0.0.1 s.xhsxgmt.cn

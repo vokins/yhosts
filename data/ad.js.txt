@@ -13,3 +13,5 @@ http://www.pingshu8.com/a/F.js?1.001
 http://exview.gtool.ml/gad/gad_top_468_60.html
 http://m.biquge.com.tw/wap/skin/wap.js
 http://m.bxwx9.org/mjs/wap.js
+http://oodd.m.1xiaoshuo.com/456/1/1.html
+http://m.1xiaoshuo.com/js/common.js
