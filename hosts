@@ -1,5 +1,5 @@
 
-#version=20170224 832
+#version=20170224 844
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1751,6 +1751,8 @@
 127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
 127.0.0.1 js.willads.pw
+127.0.0.1 pic.whdmny.com
+127.0.0.1 jin.hesxz.com
 127.0.0.1 www.sgogogo.com
 127.0.0.1 www.ju12345.com
 127.0.0.1 www.68aj.com
