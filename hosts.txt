@@ -34,6 +34,17 @@
 #dxomark
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
+#github
+151.101.76.249 github.global.ssl.fastly.net
+151.101.192.133 avatars1.githubusercontent.com
+151.101.192.133 avatars2.githubusercontent.com
+151.101.192.133 avatars3.githubusercontent.com
+151.101.192.133 camo.githubusercontent.com
+151.101.192.133 cloud.githubusercontent.com
+151.101.192.133 raw.githubusercontent.com
+151.101.192.133 assets-cdn.github.com
+192.30.253.116 api.github.com
+192.30.253.113 github.com
 @active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
@@ -1403,6 +1414,7 @@
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 #www.shuaigay.top
+127.0.0.1 s.dgpzx.com
 127.0.0.1 img1.pxpbj.com
 127.0.0.1 img2.pxpbj.com
 127.0.0.1 img3.pxpbj.com
@@ -2087,7 +2099,6 @@
 127.0.0.1 xc.macd.cn
 #caixin.com
 127.0.0.1 caixin.adsame.com
-127.0.0.1 2012.8684.com
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
@@ -2430,6 +2441,7 @@
 #12306
 127.0.0.1 ad.12306.cn
 #8684.cn
+127.0.0.1 2012.8684.com
 127.0.0.1 bdfpb1.8684.com
 127.0.0.1 bdfpb2.8684.com
 127.0.0.1 js.2011.8684.com

@@ -346,6 +346,7 @@
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 #www.shuaigay.top
+127.0.0.1 s.dgpzx.com
 127.0.0.1 img1.pxpbj.com
 127.0.0.1 img2.pxpbj.com
 127.0.0.1 img3.pxpbj.com

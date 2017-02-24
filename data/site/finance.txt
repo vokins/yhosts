@@ -6,7 +6,6 @@
 127.0.0.1 xc.macd.cn
 #caixin.com
 127.0.0.1 caixin.adsame.com
-127.0.0.1 2012.8684.com
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
