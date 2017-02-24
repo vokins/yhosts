@@ -4530,7 +4530,6 @@
 127.0.0.1 easou.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 qq.irs01.com
-127.0.0.1 sohu.irs01.com
 #jiathis.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
@@ -4813,6 +4812,7 @@
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 pv.focus.cn
 #sogou-mb
 127.0.0.1 bazinga.mse.sogou.com
 #sogou
@@ -4837,6 +4837,7 @@
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 clk.optaim.com
 #ta80.com
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com

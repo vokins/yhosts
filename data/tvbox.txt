@@ -149,6 +149,7 @@
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
 #sohu-video
+127.0.0.1 sohu.irs01.com
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com

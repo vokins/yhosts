@@ -1,5 +1,5 @@
 
-#version=201702241100
+#version=201702241120
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3864,7 +3864,6 @@
 127.0.0.1 easou.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 qq.irs01.com
-127.0.0.1 sohu.irs01.com
 127.0.0.1 i.jiathis.com
 127.0.0.1 id.jiathis.com
 127.0.0.1 v2.jiathis.com
@@ -4119,6 +4118,7 @@
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 pv.focus.cn
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
@@ -4141,6 +4141,7 @@
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 clk.optaim.com
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com
 127.0.0.1 cap.touclick.com
@@ -4328,6 +4329,7 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
+127.0.0.1 sohu.irs01.com
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 push.tv.sohu.com
 127.0.0.1 agn.aty.sohu.com
