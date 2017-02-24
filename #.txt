@@ -223,21 +223,10 @@ address=/api.mob.app.letv.com/127.0.0.1
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237
 
-
 http://weibo.com/ttarticle/p/show?id=2309404050175378245820
 
 @site/404
 #aabook.club
-127.0.0.1 ads.exoclick.com
-127.0.0.1 main.exoclick.com
-127.0.0.1 static.exoclick.com
-127.0.0.1 syndication.exoclick.com
-127.0.0.1 ads-a.juicyads.com
-127.0.0.1 adserver.juicyads.com
-127.0.0.1 ads.juicyads.com
-127.0.0.1 ck.juicyads.com
-127.0.0.1 c.statcounter.com
-127.0.0.1 www.statcounter.com
 127.0.0.1 aavideo.xyz
 127.0.0.1 twbill.xyz
 127.0.0.1 www.aaportal.com

@@ -1860,6 +1860,9 @@
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
 @site/dianbo
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 ads2.contentabc.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #caoliuporn.info/aassd.com
@@ -3735,6 +3738,7 @@
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
 127.0.0.1 static-ssl.exoclick.com
+127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
 #google-doubleclick
 127.0.0.1 ad-apac.doubleclick.net
@@ -3790,6 +3794,11 @@
 127.0.0.1 secure-chn.imrworldwide.com
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 www.imrworldwide.com
+#juicyads.com
+127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads.juicyads.com
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 ck.juicyads.com
 #mgid.com
 127.0.0.1 aa-gb.mgid.com
 127.0.0.1 ab-gb.mgid.com
@@ -3834,9 +3843,11 @@
 127.0.0.1 init.startappexchange.com
 127.0.0.1 www.startappexchange.com
 #statcounter.com
+127.0.0.1 c.statcounter.com
 127.0.0.1 c1.statcounter.com
 127.0.0.1 c2.statcounter.com
 127.0.0.1 secure.statcounter.com
+127.0.0.1 www.statcounter.com
 #webterren.com
 127.0.0.1 cl.webterren.com
 127.0.0.1 cl0.webterren.com

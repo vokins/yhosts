@@ -1,5 +1,5 @@
 
-#version=201702242023
+#version=201702242233
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1596,6 +1596,8 @@
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 ads2.contentabc.com
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 vns800600.net
 127.0.0.1 www.yl850555.com
@@ -3156,6 +3158,7 @@
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
 127.0.0.1 static-ssl.exoclick.com
+127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net
@@ -3202,6 +3205,10 @@
 127.0.0.1 secure-chn.imrworldwide.com
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 www.imrworldwide.com
+127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads.juicyads.com
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 ck.juicyads.com
 127.0.0.1 aa-gb.mgid.com
 127.0.0.1 ab-gb.mgid.com
 127.0.0.1 ac-gb.mgid.com
@@ -3237,9 +3244,11 @@
 127.0.0.1 dts.akamai.startappexchange.com
 127.0.0.1 init.startappexchange.com
 127.0.0.1 www.startappexchange.com
+127.0.0.1 c.statcounter.com
 127.0.0.1 c1.statcounter.com
 127.0.0.1 c2.statcounter.com
 127.0.0.1 secure.statcounter.com
+127.0.0.1 www.statcounter.com
 127.0.0.1 cl.webterren.com
 127.0.0.1 cl0.webterren.com
 127.0.0.1 cl2.webterren.com
