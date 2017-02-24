@@ -1211,6 +1211,9 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
 #m.bxwx9.org
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 code.wantaico.com
+127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 #m.chenhuixs.net
 127.0.0.1 ab.bontech-zh.com
@@ -2430,6 +2433,9 @@
 #m.qqtn.com
 127.0.0.1 a1.5h.com
 127.0.0.1 show.5h.com
+#m.shuaji.com
+127.0.0.1 p.abcache.com
+127.0.0.1 s.abcache.com
 #m.wanyx.com
 127.0.0.1 shili.wanyx.com
 #oyksoft.com

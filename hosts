@@ -1,5 +1,5 @@
 
-#version=201702241639
+#version=201702242023
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -997,6 +997,9 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 code.wantaico.com
+127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
@@ -2050,6 +2053,8 @@
 127.0.0.1 s.cooolyi.cn
 127.0.0.1 a1.5h.com
 127.0.0.1 show.5h.com
+127.0.0.1 p.abcache.com
+127.0.0.1 s.abcache.com
 127.0.0.1 shili.wanyx.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com
