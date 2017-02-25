@@ -2288,8 +2288,6 @@
 127.0.0.1 img2.jiuzhilan.com
 127.0.0.1 jmonitor.jiuzhilan.com
 127.0.0.1 lp.jiuzhilan.com
-127.0.0.1 blb.winasdaq.com
-127.0.0.1 un.winasdaq.com
 #cnmo.com
 127.0.0.1 pic.cnmo-img.com.cn
 127.0.0.1 icon.cnmo.com
@@ -4895,6 +4893,13 @@
 127.0.0.1 ads.vamaker.com
 127.0.0.1 cm.vamaker.com
 127.0.0.1 cdn.vamaker.com
+#winasdaq.com
+127.0.0.1 blb.winasdaq.com
+127.0.0.1 nav.winasdaq.com
+127.0.0.1 un.winasdaq.com
+127.0.0.1 l1.soarfi.cn
+127.0.0.1 l2.soarfi.cn
+127.0.0.1 un.soarfi.cn
 #wgnlz.com
 127.0.0.1 cacaca.wgnlz.com
 127.0.0.1 wgn.wgnlz.com

@@ -33,8 +33,6 @@
 127.0.0.1 img2.jiuzhilan.com
 127.0.0.1 jmonitor.jiuzhilan.com
 127.0.0.1 lp.jiuzhilan.com
-127.0.0.1 blb.winasdaq.com
-127.0.0.1 un.winasdaq.com
 #cnmo.com
 127.0.0.1 pic.cnmo-img.com.cn
 127.0.0.1 icon.cnmo.com
