@@ -24,6 +24,17 @@
 127.0.0.1 mediapro.pro.cn
 127.0.0.1 adx.pro.cn
 127.0.0.1 pro.cn
+#adpush.cn
+127.0.0.1 adpush.cn
+127.0.0.1 bc.adpush.cn
+127.0.0.1 dmp.adpush.cn
+127.0.0.1 img.adpush.cn
+127.0.0.1 net.adpush.cn
+127.0.0.1 seo.adpush.cn
+127.0.0.1 ssp.adpush.cn
+127.0.0.1 www.adpush.cn
+127.0.0.1 wzlm.adpush.cn
+127.0.0.1 zc.adpush.cn
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com

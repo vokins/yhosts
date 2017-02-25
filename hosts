@@ -1,5 +1,5 @@
 
-#version=201702251109
+#version=201702251126
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -372,6 +372,16 @@
 127.0.0.1 mediapro.pro.cn
 127.0.0.1 adx.pro.cn
 127.0.0.1 pro.cn
+127.0.0.1 adpush.cn
+127.0.0.1 bc.adpush.cn
+127.0.0.1 dmp.adpush.cn
+127.0.0.1 img.adpush.cn
+127.0.0.1 net.adpush.cn
+127.0.0.1 seo.adpush.cn
+127.0.0.1 ssp.adpush.cn
+127.0.0.1 www.adpush.cn
+127.0.0.1 wzlm.adpush.cn
+127.0.0.1 zc.adpush.cn
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
 127.0.0.1 zt.adsage.com
@@ -2205,11 +2215,14 @@
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
 127.0.0.1 ad.api.moji.com
+127.0.0.1 cdn.moji.com
+127.0.0.1 fds.api.moji.com
 127.0.0.1 pc.moji.com
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 app.moji001.com
 127.0.0.1 cdn.moji002.com
+127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
