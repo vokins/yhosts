@@ -1,3 +1,14 @@
+pc.moji.com/push/json/push/sync_terminal
+stat.moji.com/aMoUp
+v1.log.moji.com/ad/data/print
+cdn.moji.com/adlink/avatarcard/60/39/fa/7e/6039fa7e722c21929288815b952bd4dd.png
+cdn.moji.com/adlink/common/61/17/99/36/6117993688209469390bb5f34a87f011.png
+cdn.moji.com/advert/background/1484561686000_weather_bg_org_1213.zip?md5=e3d26142344c7185a8dda3d1b7a854a5
+api721.analysys.cn:8097/sdk-stop-gather?deviceId=579296aba40873d4&appkey=2738098230608310a&endTime=1487991052597
+app.moji001.com/appbind/application/getApplication.do?Location=-1&ChannelNumber=5599&UserId=&Mversion=1006020502&PartnerID=5599&IMEI=863818035818120&Model=MI%205s%20Plus&OsVersion=23&Device=phone&Platform=1000
+
+cfg.imtt.qq.com/tbs?v=2&mk=a82301c05407208c4f30f6b255987cdf7afb07e9db27cab227c2e2887598c393e119537fbd18ae3e64f313bd272bbd7a898649e2c30f8a01066497a99eab271af7ecae08ba0385be671a1a54bdfbec404937193ae9c578ba4e76018d25d83859427b497f72ade3b3d5a25098921f2adf47378597587c7cd99763683d7103bc31
+
 
 #igexin.com 移动广告营销平台
 127.0.0.1 api.gi.igexin.com

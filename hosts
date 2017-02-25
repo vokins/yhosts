@@ -1,5 +1,5 @@
 
-#version=201702251017
+#version=201702251109
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2205,6 +2205,12 @@
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
 127.0.0.1 ad.api.moji.com
+127.0.0.1 pc.moji.com
+127.0.0.1 stat.moji.com
+127.0.0.1 v1.log.moji.com
+127.0.0.1 app.moji001.com
+127.0.0.1 cdn.moji002.com
+127.0.0.1 api721.analysys.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
@@ -4031,6 +4037,7 @@
 127.0.0.1 zixuncooperation.html5.qq.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com

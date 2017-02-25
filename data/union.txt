@@ -1056,6 +1056,7 @@
 127.0.0.1 zixuncooperation.html5.qq.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com
