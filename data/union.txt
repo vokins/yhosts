@@ -1016,6 +1016,7 @@
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 w.l.qq.com
+127.0.0.1 beacon.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com

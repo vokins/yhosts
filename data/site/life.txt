@@ -180,6 +180,7 @@
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 app.moji001.com
+127.0.0.1 ugc.moji001.com
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn

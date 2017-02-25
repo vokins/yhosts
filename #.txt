@@ -1,4 +1,5 @@
 img.adpush.cn/ap/20170224/0e6b7e679fcd5d40569fae92b2bea894.jpg
+beacon.gtimg.com/mig_op/beacon/sdk_modules/0C000S8VDZ1GVR6M/all/1.zip
 http://img.adpush.cn/ap/20150104/33254cb104a4df83651b6ab005265b90.jpg
 http://fds.api.moji.com/card/homepage_recommend
 pc.moji.com/push/json/push/sync_terminal

@@ -1,5 +1,5 @@
 
-#version=201702251126
+#version=201702251134
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2221,6 +2221,7 @@
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 app.moji001.com
+127.0.0.1 ugc.moji001.com
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
@@ -4013,6 +4014,7 @@
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 w.l.qq.com
+127.0.0.1 beacon.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
