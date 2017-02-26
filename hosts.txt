@@ -3175,6 +3175,7 @@
 #app.myzaker.com
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
+127.0.0.1 hotphone.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com

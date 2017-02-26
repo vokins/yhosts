@@ -1,5 +1,5 @@
 
-#version=201702262252
+#version=201702262327
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2677,6 +2677,7 @@
 127.0.0.1 adweb.ximalaya.com
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
+127.0.0.1 hotphone.myzaker.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
 127.0.0.1 dvser.china.com
