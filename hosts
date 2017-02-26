@@ -1,5 +1,5 @@
 
-#version=201702251134
+#version=201702262252
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -297,6 +297,8 @@
 127.0.0.1 api.g2.junfull.com
 127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
+127.0.0.1 n.a.mosenni.com
+127.0.0.1 gamead.swjoy.com
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
 127.0.0.1 l.minisplat.cn
@@ -2673,6 +2675,7 @@
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adweb.test.ximalaya.com
 127.0.0.1 adweb.ximalaya.com
+127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com

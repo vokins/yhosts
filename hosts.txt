@@ -355,6 +355,8 @@
 127.0.0.1 api.g2.junfull.com
 127.0.0.1 abc.xtyx918.com
 127.0.0.1 p.sdu8cvc.com
+127.0.0.1 n.a.mosenni.com
+127.0.0.1 gamead.swjoy.com
 @hijack/wifi
 127.0.0.1 c.minisplat.cn
 127.0.0.1 c1.minisplat.cn
@@ -3171,6 +3173,7 @@
 127.0.0.1 adweb.ximalaya.com
 @site/news
 #app.myzaker.com
+127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com

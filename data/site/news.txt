@@ -1,5 +1,6 @@
 @site/news
 #app.myzaker.com
+127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com
