@@ -1,4 +1,4 @@
-ver=上午10:42 2017/2/16/周四
+ver=下午8:08 2017/2/27
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -76,6 +76,7 @@ goto :eof
 @cd..
 @SET win=%cd%\win
 @cd %CURRENTDIR%
+rem "%win%\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts -e use_proxy=yes -e http_proxy=127.0.0.1:9666
 "%win%\wget.exe" -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 rem "%~dp01win\curl.exe" https://raw.githubusercontent.com/racaljk/hosts/master/hosts > grd.txt
 rem 删除前13行注释内容

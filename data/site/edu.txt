@@ -42,3 +42,7 @@
 #www.xuexila.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org
+#yjbys.com
+127.0.0.1 a.gzpinda.com
+127.0.0.1 abc.gzpinda.com
+127.0.0.1 dm.gzpinda.com

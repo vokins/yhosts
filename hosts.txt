@@ -1114,6 +1114,7 @@
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
+127.0.0.1 m.czdqhyo1.net
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.lengrom.cn
 127.0.0.1 enco.qqduckshop.com
@@ -1403,6 +1404,7 @@
 #wap.faloo.com
 127.0.0.1 s.faloo.com
 #wap.xxbiquge.com
+127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 idxhy8s.xxbiquge.com
 127.0.0.1 alibaba.zhihei.com
@@ -2126,6 +2128,10 @@
 #www.xuexila.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org
+#yjbys.com
+127.0.0.1 a.gzpinda.com
+127.0.0.1 abc.gzpinda.com
+127.0.0.1 dm.gzpinda.com
 @site/finance
 #10jqka.com.cn
 127.0.0.1 ad.thsi.cn
