@@ -1,5 +1,6 @@
 ﻿127.0.0.1 api.store.sohu.com sohu vip movie
-
+127.0.0.1 a.app.qq.com qq应用宝下载
+127.0.0.1 i1.go2yd.com 一点资讯图床
 127.0.0.1 csi.gstatic.com 骨骼地图
 csi.gstatic.com/csi?v=2&s=mapsapi3&v3v=27.12&action=apiboot2&libraries=common%2Cgeometry%2Cmap%2Csearch&e=google-maps-lite&rt=firstmap.341
 127.0.0.1 c.wrating.com 影响网站 土豆任何人的主页不能正常显示 如 http://v.tudou.com/DSnvlaoshi/?wc=0

@@ -48,7 +48,6 @@
 127.0.0.1 www.jiedaibao.com
 #down-qq
 127.0.0.1 guanjia.qq.com
-127.0.0.1 a.app.qq.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 c.gj.qq.com

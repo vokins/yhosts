@@ -2298,8 +2298,8 @@
 61.91.161.217 i9.ytimg.com
 61.91.161.217 s.ytimg.com
 61.91.161.217 manifest.googlevideo.com
-64.233.162.83 onetoday.google.com
-64.233.162.83 notifications.google.com
+61.91.161.217 onetoday.google.com
+61.91.161.217 notifications.google.com
 61.91.161.217 google.ad
 61.91.161.217 google.ae
 61.91.161.217 google.al

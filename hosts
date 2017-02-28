@@ -1,5 +1,5 @@
 
-#version=201702272014
+#version=201702281621
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -104,7 +104,6 @@
 127.0.0.1 hd.jiedaibao.com
 127.0.0.1 www.jiedaibao.com
 127.0.0.1 guanjia.qq.com
-127.0.0.1 a.app.qq.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 c.gj.qq.com
@@ -677,7 +676,6 @@
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
-127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 dfnews.rdtuijian.com
@@ -1206,6 +1204,7 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 s.yfycy.com
 127.0.0.1 s.dgpzx.com
 127.0.0.1 img1.pxpbj.com
 127.0.0.1 img2.pxpbj.com
@@ -3207,6 +3206,7 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
+127.0.0.1 www.gstatic.cn
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com
@@ -3486,6 +3486,7 @@
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
+127.0.0.1 alimama.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
@@ -4203,6 +4204,10 @@
 127.0.0.1 clk.optaim.com
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com
+127.0.0.1 baidu.dsp.tansuotv.com
+127.0.0.1 i.tansuotv.com
+127.0.0.1 m.tansuotv.com
+127.0.0.1 s1.tansuotv.com
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com
 127.0.0.1 cdnjs.touclick.com
