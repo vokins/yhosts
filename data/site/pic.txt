@@ -10,7 +10,6 @@
 127.0.0.1 c.wangsufast.com
 127.0.0.1 ads.cndandi.cn
 127.0.0.1 dd.dante2007.com
-127.0.0.1 in.hystq.com
 127.0.0.1 jfhe.0769371.com
 127.0.0.1 jp.2015nian.com
 127.0.0.1 m.dante2007.com
@@ -18,8 +17,6 @@
 127.0.0.1 m3h126.85626666.com
 127.0.0.1 mmbb.dzjzg.com
 127.0.0.1 oe.zbttxs.com
-127.0.0.1 rc.hystq.com
-127.0.0.1 s.hystq.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.jisucn.com
 127.0.0.1 www-360se-cn.newtech-beauty.com
@@ -147,7 +144,6 @@
 #m.zngirls.com
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com
-127.0.0.1 rc.cdnny.com
 127.0.0.1 ppco.trwba.com
 #showgirl88.net
 127.0.0.1 adp.s8bbs.com

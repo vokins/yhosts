@@ -23,14 +23,10 @@
 127.0.0.1 c.weareqy.com
 127.0.0.1 r.weareqy.com
 127.0.0.1 rc.weareqy.com
-#m.80smp4.com
-127.0.0.1 in.jghcy.com
-127.0.0.1 s.jghcy.com
 #m.a4yy.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
-127.0.0.1 s.cdnny.com
 127.0.0.1 js3492.yongkang6.com
 127.0.0.1 u.123hala.com
 127.0.0.1 uimg.123hala.com
@@ -53,15 +49,11 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
-127.0.0.1 rc.fthcz.com
-127.0.0.1 s.fthcz.com
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
 #m.kb20.cc
 127.0.0.1 www.oaojd.com
-127.0.0.1 ioscdn.ywpod3.com
-127.0.0.1 iospage.lalazhuan.net
 127.0.0.1 cache.xw126.com
 127.0.0.1 www.baidu.com.mjjdfl.com
 127.0.0.1 www.deweizhanye.cn
@@ -119,10 +111,6 @@
 127.0.0.1 m.wuhcontrol.com
 127.0.0.1 vvv.sqjgdx.com
 127.0.0.1 h.51scj.com
-127.0.0.1 s.mxmrt.com
-127.0.0.1 rc.ybnrm.com
-127.0.0.1 rc.mxmrt.com
-127.0.0.1 in.xnjpg.com
 127.0.0.1 ll.livehapp.com
 127.0.0.1 nl.wodhid.com
 127.0.0.1 s.80sjw.com
@@ -188,7 +176,6 @@
 127.0.0.1 m.hugae.net
 127.0.0.1 m.mansorychina.net
 127.0.0.1 h.jxhdzs365.com
-127.0.0.1 iospage.linghting.net
 127.0.0.1 m.jheva.com
 127.0.0.1 w.yunluge.com
 127.0.0.1 weixinssp.14684.com

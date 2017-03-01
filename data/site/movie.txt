@@ -77,9 +77,6 @@
 127.0.0.1 www.cckke.com
 #www.myhktv.com
 127.0.0.1 www.100fenlm.com
-127.0.0.1 in.mxmrt.com
-127.0.0.1 s.010xk.com
-127.0.0.1 rc.010xk.com
 127.0.0.1 img.nsywb.com
 #www.nk77.com
 127.0.0.1 clk.uunt.com
@@ -130,7 +127,6 @@
 127.0.0.1 www.70e.com
 127.0.0.1 ee.e7006.com
 127.0.0.1 mob.coolnay.com
-127.0.0.1 b.cdnny.com
 #www.zimuku.net
 127.0.0.1 js3743.yongkang6.com
 #www.zimuzu.tv

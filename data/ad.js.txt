@@ -15,3 +15,4 @@ http://m.biquge.com.tw/wap/skin/wap.js
 http://m.bxwx9.org/mjs/wap.js
 http://oodd.m.1xiaoshuo.com/456/1/1.html
 http://m.1xiaoshuo.com/js/common.js
+http://m.shumilou.co/style/html5.js?v=0.1

@@ -131,8 +131,6 @@
 127.0.0.1 vip.jixian360.com
 127.0.0.1 dlian.shimingxiyue.com
 127.0.0.1 taob.bjjlcfw.com
-127.0.0.1 in.nxrhs.com
-127.0.0.1 s.nxrhs.com
 127.0.0.1 ss.cywl5.com
 127.0.0.1 fen.dkdlsj.com
 127.0.0.1 sou.dkdlsj.com
@@ -141,7 +139,6 @@
 127.0.0.1 s.sinbadacn.com
 127.0.0.1 s.hnruisi.com
 127.0.0.1 js.yiwuds.com
-127.0.0.1 rc.nxrhs.com
 127.0.0.1 s.wyttech.cn
 127.0.0.1 vip.jisucn.com
 127.0.0.1 sa.xalongli.cn

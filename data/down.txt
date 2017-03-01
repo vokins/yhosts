@@ -84,7 +84,6 @@
 127.0.0.1 download.qianka.com
 127.0.0.1 i.uzhiv.com
 127.0.0.1 img.zsj18.com
-127.0.0.1 iospage.w0shishui.com
 127.0.0.1 j.jiawen88.com
 127.0.0.1 js.um0592.com
 127.0.0.1 kl.hfdforging.com
