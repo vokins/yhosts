@@ -1,5 +1,5 @@
 
-#version=201703012235
+#version=201703012304
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -17,10 +17,14 @@
 218.93.127.136 uc.pcbeta.com
 218.93.127.136 web.pcbeta.com
 218.93.127.136 www.pcbeta.com
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
+74.222.26.86 bbs.uvwxyz.xyz
+74.222.26.86 ipv6.uvwxyz.xyz
+74.222.26.86 uvwxyz.xyz
+74.222.26.86 www.uvwxyz.xyz
+74.222.26.90 bbs.uvwxyz.xyz
+74.222.26.90 ipv6.uvwxyz.xyz
+74.222.26.90 uvwxyz.xyz
+74.222.26.90 www.uvwxyz.xyz
 139.162.207.229 www.alfredapp.com
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com

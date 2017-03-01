@@ -24,10 +24,14 @@
 218.93.127.136 web.pcbeta.com
 218.93.127.136 www.pcbeta.com
 #uvwxyz.xyz
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
+74.222.26.86 bbs.uvwxyz.xyz
+74.222.26.86 ipv6.uvwxyz.xyz
+74.222.26.86 uvwxyz.xyz
+74.222.26.86 www.uvwxyz.xyz
+74.222.26.90 bbs.uvwxyz.xyz
+74.222.26.90 ipv6.uvwxyz.xyz
+74.222.26.90 uvwxyz.xyz
+74.222.26.90 www.uvwxyz.xyz
 @direct/3rd
 #alfred
 139.162.207.229 www.alfredapp.com
