@@ -18,15 +18,12 @@ hosts文件
 ```
 * AD hosts爱好群：201973909
 
-* ios 使用这个视频去广告PAC：https://vokins.github.io/ad.js/ad.js
-
 ### 数据名称及含义:
 | 系统 | 使用源 | 注释 | 特别说明 |
 | :--:   | :--:  |   :--:  |   :--  |
 | 电脑PC  | [hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)  | 基础数据。|PC/Mac用户务必用这个，以保证部分视频平台的兼容性！|
 | Android | [hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts) | 包含[hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) 和[tvbox.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt) 并删除了注释行。 |若部署此数据源至路由器，则连接到该路由器的PC无法访问部分视频网站，如：爱奇艺，搜书视频，腾讯视频等；连接到该路由器的电视盒子可以过滤掉大部分的广告内容。因此建议仅在客厅的电视盒子旁边的路由器部署此数据源，其他路由器可以仅部署[hosts.txt](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt) ，并在电脑上使用[adbyby](http://www.adbyby.com/)软件或者与浏览器的urlfilter或abp等功能配合使用。  |
 | iOS 10  | [ad.js](https://vokins.github.io/ad.js/ad.js) | 过滤常用视频APP广告和常见广告联盟。 |  使用说明： 1. 打开 设置 - 无线局域网；  2. 点击已经连接成功的无线网络名称右侧的 ⓘ 按钮；  3. 进入界面后下拉至底部，在“HTTP 代理”一栏中点击“自动”标签；  4. 在 URL 框中输入：https://vokins.github.io/ad.js/ad.js   5. 点击屏幕左上角【 ＜无线局域网 】返回即可保存设置。 |
-
 1. 
 [site部分](https://github.com/vokins/yhosts/wiki/%E6%95%B0%E6%8D%AE%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E)是站点具体数据，点击此链接查看具体站点详情。
 2. [down.txt](https://raw.githubusercontent.com/vokins/yhosts/master/data/down.txt) 禁止推广下载数据，会导致各种市场推广无法下载。
