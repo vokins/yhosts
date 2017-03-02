@@ -841,7 +841,11 @@
 #baidu/player
 127.0.0.1 ad.player.baidu.com
 #baidu/tieba
+127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
+127.0.0.1 bj.bcebos.com
+127.0.0.1 dd713.bj.bcebos.com
+127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
 #baidu/tuisong

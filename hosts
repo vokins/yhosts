@@ -1,5 +1,5 @@
 
-#version=201703012304
+#version=201703022003
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3845,7 +3845,11 @@
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
 127.0.0.1 ad.player.baidu.com
+127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
+127.0.0.1 bj.bcebos.com
+127.0.0.1 dd713.bj.bcebos.com
+127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
 127.0.0.1 release.baidu.com
