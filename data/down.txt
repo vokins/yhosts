@@ -129,3 +129,5 @@
 127.0.0.1 cdn.holdlakh.com
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 hd.hd.hhyhfs.com
+127.0.0.1 gi.xi.gxabj.com

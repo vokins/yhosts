@@ -1,5 +1,5 @@
 
-#version=201703022326
+#version=201703031701
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -184,6 +184,8 @@
 127.0.0.1 cdn.holdlakh.com
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 hd.hd.hhyhfs.com
+127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
