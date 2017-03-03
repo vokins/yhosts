@@ -946,9 +946,6 @@
 #gaoqingmianfeiyingshi
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
-127.0.0.1 bj.bcebos.com
-127.0.0.1 dd713.bj.bcebos.com
-127.0.0.1 vv84.bj.bcebos.com
 #lbesec.com
 127.0.0.1 cdn1.lbesec.com
 #www.kuaiya.cn
@@ -1141,7 +1138,6 @@
 127.0.0.1 s.fytza.cn
 127.0.0.1 www.cooolyi.com
 127.0.0.1 img.geruishengwu.com
-127.0.0.1 img.95duk.com
 127.0.0.1 img.xrtzf.com
 127.0.0.1 s.meimeidaren.com
 127.0.0.1 m.sdhzstone.net

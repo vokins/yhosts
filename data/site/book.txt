@@ -47,7 +47,6 @@
 127.0.0.1 s.fytza.cn
 127.0.0.1 www.cooolyi.com
 127.0.0.1 img.geruishengwu.com
-127.0.0.1 img.95duk.com
 127.0.0.1 img.xrtzf.com
 127.0.0.1 s.meimeidaren.com
 127.0.0.1 m.sdhzstone.net
