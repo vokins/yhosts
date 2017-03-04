@@ -150,14 +150,6 @@
 127.0.0.1 t.cnsjx.net
 127.0.0.1 m.51geqiang.net
 127.0.0.1 m.snow001.com
-127.0.0.1 alm1.tongyuanhejishu.com
-127.0.0.1 s1.idaguang.com
-127.0.0.1 s1.limeishang.com
-127.0.0.1 zs0105.zuodianshangmao.com
-127.0.0.1 js453.zhudiaosz.com
-127.0.0.1 js1151.zhudiaosz.com
-127.0.0.1 js4273.zhudiaosz.com
-127.0.0.1 www.iiad.com
 127.0.0.1 c.top267.com
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com

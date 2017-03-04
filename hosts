@@ -1,5 +1,5 @@
 
-#version=201703032257
+#version=201703041008
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -735,6 +735,7 @@
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
@@ -1550,6 +1551,19 @@
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
+127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 js1151.zhudiaosz.com
+127.0.0.1 js3743.dgxinhuan.com
+127.0.0.1 js3743.tongqing2015.com
+127.0.0.1 js4273.zhudiaosz.com
+127.0.0.1 js453.zhudiaosz.com
+127.0.0.1 p.shagent.com
+127.0.0.1 s1.idaguang.com
+127.0.0.1 s1.limeishang.com
+127.0.0.1 s2.limeishang.com
+127.0.0.1 zs0105.zuodianshangmao.com
+127.0.0.1 zs0304.tiansue.com
+127.0.0.1 www.iiad.com
 127.0.0.1 www.soua.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 j.sc1369.com
@@ -3029,14 +3043,6 @@
 127.0.0.1 t.cnsjx.net
 127.0.0.1 m.51geqiang.net
 127.0.0.1 m.snow001.com
-127.0.0.1 alm1.tongyuanhejishu.com
-127.0.0.1 s1.idaguang.com
-127.0.0.1 s1.limeishang.com
-127.0.0.1 zs0105.zuodianshangmao.com
-127.0.0.1 js453.zhudiaosz.com
-127.0.0.1 js1151.zhudiaosz.com
-127.0.0.1 js4273.zhudiaosz.com
-127.0.0.1 www.iiad.com
 127.0.0.1 c.top267.com
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com
