@@ -1,4 +1,5 @@
-﻿127.0.0.1 api.store.sohu.com sohu vip movie
+﻿127.0.0.1 c.m.163.com
+127.0.0.1 api.store.sohu.com sohu vip movie
 127.0.0.1 a.app.qq.com qq应用宝下载
 127.0.0.1 i1.go2yd.com 一点资讯图床
 127.0.0.1 csi.gstatic.com 骨骼地图

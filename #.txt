@@ -1,3 +1,10 @@
+今日头条广告屏蔽：
+<script src="//s3.pstatp.com/adstatic/resource/ad_wap/dist/1.0.17/static/js/ed.js" data-from="toutiao"></script>
+div[id^="detailAd"]
+http://*.pstatp.com/origin/*
+http://p3.pstatp.com/origin/13f0001502118e0b55f5
+http://p1.pstatp.com/origin/9ed000c3531d923b91a
+
 <img class="hover_btn" src="http://tb1.bdstatic.com/tb/cms/ngmis/images/file_1488278710570.jpg" data-hover="http://tb1.bdstatic.com/tb/cms/ngmis/images/file_1488278715485.jpg">
 <script src="http://js3743.tongqing2015.com/m-26224"></script>
 http://img.jgchq.com/mt/9054/1/118c2a083129ee5afeb3be5d8264aa95.gif

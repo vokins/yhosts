@@ -3906,7 +3906,6 @@
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
 #163-news
-127.0.0.1 c.m.163.com
 127.0.0.1 c-hzgt2.getui.com
 #163-yixin
 127.0.0.1 ad.yixin.im
@@ -4145,6 +4144,7 @@
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 alimama.alicdn.com
+127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
@@ -4360,7 +4360,6 @@
 127.0.0.1 sohu.wrating.com
 127.0.0.1 tongji.wrating.com
 #ali-baba
-127.0.0.1 asearch.alicdn.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 i.ipinyou.com
 127.0.0.1 stats.ipinyou.com
