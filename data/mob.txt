@@ -455,7 +455,6 @@
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
-127.0.0.1 weatherapi.market.xiaomi.com
 @mob/mokee
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn

@@ -26,3 +26,4 @@ http://v5.lol5s.com/template/wusha/ads/gd3.js
 http://v5.lol5s.com/template/wusha/ads/gd4.js
 http://v5.lol5s.com/template/wusha/ads/baidu1.js
 http://v5.lol5s.com/template/wusha/ads/tbwx.js
+https://www.shuaigay.top/lunbo.js

@@ -1,5 +1,5 @@
 
-#version=201703051955
+#version=20170306 753
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -735,7 +735,6 @@
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
-127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
@@ -1204,6 +1203,10 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 img.bdaerfa.com
+127.0.0.1 lz.bdaerfa.com
+127.0.0.1 lz.chaelc.com
+127.0.0.1 www.a0c77.com
 127.0.0.1 s.yfycy.com
 127.0.0.1 img1.pxpbj.com
 127.0.0.1 img2.pxpbj.com
