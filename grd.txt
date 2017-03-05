@@ -3434,3 +3434,14 @@
 183.177.81.73 downloadr.flickr.com
 50.18.192.250 duckduckgo-owned-server.yahoo.net
 116.214.11.98 tw.mobi.yahoo.com
+218.93.127.136 pcbeta.com
+218.93.127.136 uc.pcbeta.com
+218.93.127.136 m.pcbeta.com
+218.93.127.136 web.pcbeta.com
+218.93.127.136 i.pcbeta.com
+218.93.127.136 bbs.pcbeta.com
+218.93.127.136 www.pcbeta.com
+218.93.127.136 cdn.pcbeta.attachment.inimc.com
+218.93.127.136 cdn.pcbeta.static.inimc.com
+218.93.127.136 cdn.pcbeta.css.inimc.com
+134.170.178.89 achievements.xboxlive.com

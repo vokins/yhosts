@@ -788,6 +788,8 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+#baidu-game
+127.0.0.1 g.baidu.com
 #baidu-mb
 127.0.0.1 als.baidu.com
 127.0.0.1 afd.baidu.com

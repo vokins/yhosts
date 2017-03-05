@@ -1,5 +1,5 @@
 
-#version=201703042348
+#version=20170305 855
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1867,6 +1867,8 @@
 127.0.0.1 samba.adsame.com
 127.0.0.1 analytics.wanmei.com
 127.0.0.1 gg.stargame.com
+127.0.0.1 img1.18183.com
+127.0.0.1 zpe.klre.18183.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
 127.0.0.1 gg.5173.com
@@ -3803,6 +3805,7 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 g.baidu.com
 127.0.0.1 als.baidu.com
 127.0.0.1 afd.baidu.com
 127.0.0.1 mbrowser.bdstatic.com

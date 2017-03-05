@@ -11,6 +11,9 @@
 #178.com
 127.0.0.1 analytics.wanmei.com
 127.0.0.1 gg.stargame.com
+#18183
+127.0.0.1 img1.18183.com
+127.0.0.1 zpe.klre.18183.com
 #265g.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
