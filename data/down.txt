@@ -5,6 +5,11 @@
 127.0.0.1 g.wan.2345.com
 127.0.0.1 jifendownload.2345.cn
 #down-360
+127.0.0.1 sd.360.cn
+127.0.0.1 down.360safe.cn
+127.0.0.1 down.360.cn
+127.0.0.1 dl.360safe.com
+127.0.0.1 down.sandai.net
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 down.360safe.com
@@ -14,6 +19,8 @@
 127.0.0.1 shouji.360.cn
 127.0.0.1 msoftdl.360.cn
 #down-baidu/anquan
+127.0.0.1 shadu.baidu.com
+127.0.0.1 weishi.baidu.com
 127.0.0.1 anquan.baidu.com
 127.0.0.1 antivirus.baidu.com
 127.0.0.1 dl-vip.bav.baidu.com
@@ -31,6 +38,8 @@
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 #down-baidu/down
+127.0.0.1 123juzi.com
+127.0.0.1 dl1sw.baidu.com
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
@@ -55,6 +64,32 @@
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 android.rqd.qq.com
+#Kingsoft
+127.0.0.1 download.ijinshan.com
+127.0.0.1 dl.ijinshan.com
+127.0.0.1 wifi.liebao.cn
+127.0.0.1 dl.cm.ksmobile.com
+127.0.0.1 dl.liebao.cn
+127.0.0.1 cd001.www.duba.net
+127.0.0.1 cd002.www.duba.net
+127.0.0.1 cd003.www.duba.net
+127.0.0.1 cd004.www.duba.net
+127.0.0.1 cd005.www.duba.net
+127.0.0.1 cd006.www.duba.net
+127.0.0.1 cd007.www.duba.net
+127.0.0.1 cd008.www.duba.net
+127.0.0.1 cd009.www.duba.net
+127.0.0.1 cd010.www.duba.net
+127.0.0.1 cd011.www.duba.net
+127.0.0.1 cd012.www.duba.net
+#Rising 
+127.0.0.1 cnrdn.com
+127.0.0.1 rsdownload.rising.com.cn
+127.0.0.1 down.rising.net.cn
+127.0.0.1 down.rising.com.cn
+127.0.0.1 download.rising.com.cn
+127.0.0.1 hao.rising.cn
+127.0.0.1 pm.myapp.com
 @down/virus
 #dabaicai
 127.0.0.1 www.winbaicai.com
