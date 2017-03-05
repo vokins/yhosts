@@ -129,6 +129,10 @@
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
+#v5.lol5s.com
+127.0.0.1 1.770765.cn
+127.0.0.1 2.770765.cn
+127.0.0.1 www.esptj.com
 #vip.ihuan.me
 127.0.0.1 js3810.yzh360.com
 127.0.0.1 js3810.zhudiaosz.com

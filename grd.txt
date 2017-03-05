@@ -852,6 +852,7 @@
 61.91.161.217 ct.googleapis.com
 61.91.161.217 securetoken.googleapis.com
 61.91.161.217 firebasestorage.googleapis.com
+61.91.161.217 www-tactile-opensocial.googleusercontent.com
 61.91.161.217 www--google--com.safenup.googleusercontent.com
 61.91.161.217 www--google--com--hk.safenup.googleusercontent.com
 64.233.188.121 code.getmdl.io
@@ -3154,6 +3155,16 @@
 204.79.197.217 skyweb.skyprod.akadns.net
 204.79.197.217 webedgegeo.skyprod.akadns.net
 13.107.42.11 outlook.live.com
+218.93.127.136 pcbeta.com
+218.93.127.136 uc.pcbeta.com
+218.93.127.136 m.pcbeta.com
+218.93.127.136 web.pcbeta.com
+218.93.127.136 i.pcbeta.com
+218.93.127.136 bbs.pcbeta.com
+218.93.127.136 www.pcbeta.com
+218.93.127.136 cdn.pcbeta.attachment.inimc.com
+218.93.127.136 cdn.pcbeta.static.inimc.com
+218.93.127.136 cdn.pcbeta.css.inimc.com
 54.239.168.4 psiphon3.com
 54.239.168.4 www.psiphon3.com
 104.20.39.14 psiphon.ca
@@ -3360,6 +3371,7 @@
 198.35.26.96 zh-yue.wikipedia.org
 198.35.26.96 zh.wikipedia.org
 198.35.26.96 zh.m.wikipedia.org
+134.170.178.89 achievements.xboxlive.com
 192.0.79.32 code.flickr.com
 119.161.10.150 api.flickr.com
 202.43.194.205 c5.ah.yahoo.com
@@ -3434,14 +3446,3 @@
 183.177.81.73 downloadr.flickr.com
 50.18.192.250 duckduckgo-owned-server.yahoo.net
 116.214.11.98 tw.mobi.yahoo.com
-218.93.127.136 pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 www.pcbeta.com
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-134.170.178.89 achievements.xboxlive.com

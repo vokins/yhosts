@@ -20,3 +20,9 @@ http://js3743.tongqing2015.com/m-26224
 http://js3743.tongqing2015.com/m/m.js
 http://js3743.dgxinhuan.com/js/v/rh_b.js
 http://js3743.dgxinhuan.com/s-19297
+http://v5.lol5s.com/template/wusha/ads/gd1.js
+http://v5.lol5s.com/template/wusha/ads/gd2.js
+http://v5.lol5s.com/template/wusha/ads/gd3.js
+http://v5.lol5s.com/template/wusha/ads/gd4.js
+http://v5.lol5s.com/template/wusha/ads/baidu1.js
+http://v5.lol5s.com/template/wusha/ads/tbwx.js

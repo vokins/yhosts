@@ -1,5 +1,5 @@
 
-#version=20170305 855
+#version=201703051955
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -911,6 +911,7 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 push.zhangyue.com
+127.0.0.1 m.hlipqiuo.net
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.kimgfvz.com
@@ -1723,6 +1724,9 @@
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
+127.0.0.1 1.770765.cn
+127.0.0.1 2.770765.cn
+127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
 127.0.0.1 js3810.zhudiaosz.com
 127.0.0.1 js3810.yongkang6.com
