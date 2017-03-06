@@ -1,5 +1,5 @@
 
-#version=20170306 753
+#version=201703061915
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3754,7 +3754,6 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdimg.com
-127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 cpro.baidustatic.com

@@ -1,4 +1,4 @@
-﻿
+﻿127.0.0.1 mipcache.bdstatic.com m.zngirls.com/gallery 翻页有问题
 127.0.0.1 weatherapi.market.xiaomi.com  可以去除15日趋势的广告，天加后会导致一些第三方app无法更新天气，比如pure天气
 127.0.0.1 c.m.163.com
 127.0.0.1 api.store.sohu.com sohu vip movie
