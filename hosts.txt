@@ -1939,6 +1939,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 wan.8mfty.com
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
@@ -2882,6 +2883,7 @@
 127.0.0.1 www.dianwo1958.com
 127.0.0.1 static2.5411.com
 #tv.cctv.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
@@ -3387,6 +3389,10 @@
 #xitek.com
 127.0.0.1 www8.xitek.com
 @site/pic-tu
+#asqql.com
+127.0.0.1 jb.asqql.com
+127.0.0.1 ss.cnczjy.com
+127.0.0.1 ms.cnczjy.com
 #hotmm.tk
 127.0.0.1 url.hotmm.tk
 #m.5442.com

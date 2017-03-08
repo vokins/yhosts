@@ -109,6 +109,10 @@
 #xitek.com
 127.0.0.1 www8.xitek.com
 @site/pic-tu
+#asqql.com
+127.0.0.1 jb.asqql.com
+127.0.0.1 ss.cnczjy.com
+127.0.0.1 ms.cnczjy.com
 #hotmm.tk
 127.0.0.1 url.hotmm.tk
 #m.5442.com

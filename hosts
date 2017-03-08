@@ -1,5 +1,5 @@
 
-#version=20170308 928
+#version=20170308 936
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1660,6 +1660,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 wan.8mfty.com
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
 127.0.0.1 js.jermr.com
@@ -2422,6 +2423,7 @@
 127.0.0.1 csdn1718.jiejuefangan741.com
 127.0.0.1 www.dianwo1958.com
 127.0.0.1 static2.5411.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
@@ -2844,6 +2846,9 @@
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 util.nphoto.net
 127.0.0.1 www8.xitek.com
+127.0.0.1 jb.asqql.com
+127.0.0.1 ss.cnczjy.com
+127.0.0.1 ms.cnczjy.com
 127.0.0.1 url.hotmm.tk
 127.0.0.1 52.fushibooks.com
 127.0.0.1 hl.butou.cn
