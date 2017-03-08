@@ -203,6 +203,7 @@
 127.0.0.1 www.dianwo1958.com
 127.0.0.1 static2.5411.com
 #tv.cctv.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 cntv.wrating.com
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn

@@ -1,3 +1,6 @@
+#央视影音-启动广告
+127.0.0.1 galaxy.bjcathay.com
+
 今日头条广告屏蔽：
 <script src="//s3.pstatp.com/adstatic/resource/ad_wap/dist/1.0.17/static/js/ed.js" data-from="toutiao"></script>
 div[id^="detailAd"]
