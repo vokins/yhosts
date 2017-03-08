@@ -1,5 +1,5 @@
 
-#version=20170308 936
+#version=201703081135
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -725,6 +725,7 @@
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 tw13b093.sandai.net

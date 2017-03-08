@@ -1,3 +1,5 @@
+etl.xlmc.sandai.net/api/stat/rt?appId=6&discardCount=0&sig=9d121dd48b21aae96c14ec1258b5c5c9&callId=1488943654693&octet=f21cd9d35054462594b16128bdaf16dd
+api.tw06.xlmc.sec.miui.com/api/ad/get
 #央视影音-启动广告
 127.0.0.1 galaxy.bjcathay.com
 
