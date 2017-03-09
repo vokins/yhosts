@@ -303,15 +303,18 @@
 127.0.0.1 static.88lmimg.com
 #pianyuan.net
 127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 go1.justsoftware.cn
 127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3743.tongqing2015.com
 127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 js453.zhudiaosz.com
 127.0.0.1 p.shagent.com
+127.0.0.1 s1.huiqituan.com
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 s2.limeishang.com
+127.0.0.1 s3.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
