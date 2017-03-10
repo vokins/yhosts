@@ -49,6 +49,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 qu.geryi.com
 127.0.0.1 wan.8mfty.com
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com

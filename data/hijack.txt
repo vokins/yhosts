@@ -162,5 +162,13 @@
 127.0.0.1 www.searchswapper.com
 127.0.0.1 ssp.thescenseproject.com
 127.0.0.1 m.duobao999.com
+127.0.0.1 a.qiao024.com
+127.0.0.1 ssp.chaohutechan.com
+127.0.0.1 a.dounanhuahui.com
+127.0.0.1 dl.sybspools.com
+127.0.0.1 kr.sybspools.com
+127.0.0.1 p.kjwx8.com
+127.0.0.1 sta.jcjk0451.com
+127.0.0.1 1.yhzm.cc
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com

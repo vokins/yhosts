@@ -78,6 +78,7 @@
 127.0.0.1 app-g.39.net
 127.0.0.1 d.39.net
 127.0.0.1 dpvc.39.net
+127.0.0.1 thetestpage.39.net
 #babytree.com
 127.0.0.1 titan.babytree.com
 127.0.0.1 titan01.babytree.com

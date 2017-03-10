@@ -1,3 +1,10 @@
+if(rand<1.70){
+	go_url="http://www.duba.com/union2.html?u2076946_320_48_pg";
+}else{
+	go_url="http://kr.sybspools.com/cl/zy/";
+}
+http://p.kjwx8.com/js/126891.js
+http://dl.sybspools.com/img/mbd.js
 etl.xlmc.sandai.net/api/stat/rt?appId=6&discardCount=0&sig=9d121dd48b21aae96c14ec1258b5c5c9&callId=1488943654693&octet=f21cd9d35054462594b16128bdaf16dd
 api.tw06.xlmc.sec.miui.com/api/ad/get
 #央视影音-启动广告

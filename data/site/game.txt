@@ -39,6 +39,7 @@
 127.0.0.1 bmp.ali213.net
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 web.ali213.net
+127.0.0.1 a.fengyx.com
 #gameloft
 127.0.0.1 imp-mdsp.avazutracking.net
 #gamersky.com
