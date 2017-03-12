@@ -328,6 +328,8 @@
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
+127.0.0.1 ebootv5.adsunflower.com
+127.0.0.1 bigdata.adups.com
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn

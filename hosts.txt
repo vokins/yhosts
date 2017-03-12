@@ -343,7 +343,6 @@
 127.0.0.1 m5.apk.67mo.com
 @hijack/microsoft
 127.0.0.1 ieonline.microsoft.com
-127.0.0.1 www.msn.com
 @hijack/miwifi
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
@@ -757,6 +756,8 @@
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
+127.0.0.1 ebootv5.adsunflower.com
+127.0.0.1 bigdata.adups.com
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
@@ -1125,6 +1126,7 @@
 127.0.0.1 push.zhangyue.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.hlipqiuo.net
@@ -1362,6 +1364,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 m.12306media.com
 127.0.0.1 s.xpqfc.com
 127.0.0.1 mm.ahyau.com
 127.0.0.1 api.ahjinshu.com
