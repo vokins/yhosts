@@ -334,7 +334,6 @@
 127.0.0.1 in.hxadt.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com
-127.0.0.1 fota4.adups.cn
 127.0.0.1 img.jx.media8.cn
 127.0.0.1 vip.5leji.com
 127.0.0.1 vip.9wjc.com

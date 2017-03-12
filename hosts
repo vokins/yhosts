@@ -1,5 +1,5 @@
 
-#version=201703121540
+#version=201703121618
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -99,7 +99,6 @@
 127.0.0.1 rj.baidu.com
 127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 update.123juzi.net
-127.0.0.1 update.pan.baidu.com
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
 127.0.0.1 rmw.jdburl.com
@@ -630,6 +629,7 @@
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 ebootv5.adsunflower.com
 127.0.0.1 bigdata.adups.com
+127.0.0.1 fota4.adups.cn
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
 127.0.0.1 andmlbf.tj.ijinshan.com
@@ -1197,7 +1197,6 @@
 127.0.0.1 in.hxadt.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com
-127.0.0.1 fota4.adups.cn
 127.0.0.1 img.jx.media8.cn
 127.0.0.1 vip.5leji.com
 127.0.0.1 vip.9wjc.com

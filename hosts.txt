@@ -135,8 +135,6 @@
 127.0.0.1 dlsw.br.baidu.com
 #down-baidu/hao123
 127.0.0.1 update.123juzi.net
-#down-baidu/pan
-127.0.0.1 update.pan.baidu.com
 #down-jiedaibao
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -758,6 +756,7 @@
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 ebootv5.adsunflower.com
 127.0.0.1 bigdata.adups.com
+127.0.0.1 fota4.adups.cn
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
@@ -1436,7 +1435,6 @@
 127.0.0.1 in.hxadt.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com
-127.0.0.1 fota4.adups.cn
 127.0.0.1 img.jx.media8.cn
 127.0.0.1 vip.5leji.com
 127.0.0.1 vip.9wjc.com

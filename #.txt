@@ -1,3 +1,6 @@
+
+#down-baidu/pan
+127.0.0.1 update.pan.baidu.com
 http://statics.zdface.com/js/m/zw_zdy.js
 http://image.fsyule.net/2016-09-23/69a273181712d507171a18fd654ffb0d.jpg
 http://ent1.12584.cn/sd7e50c7dcf6ceff31964a26dbf9ac67bf05.js

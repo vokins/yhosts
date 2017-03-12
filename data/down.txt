@@ -36,8 +36,6 @@
 127.0.0.1 dlsw.br.baidu.com
 #down-baidu/hao123
 127.0.0.1 update.123juzi.net
-#down-baidu/pan
-127.0.0.1 update.pan.baidu.com
 #down-jiedaibao
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
