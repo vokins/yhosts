@@ -1870,6 +1870,32 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+@site/buy
+#12306
+127.0.0.1 ad.12306.cn
+#egou.com
+127.0.0.1 ad.egou.com
+#dangdang
+127.0.0.1 a.dangdang.com
+127.0.0.1 click.dangdang.com
+127.0.0.1 schprompt.dangdang.com
+127.0.0.1 t.dangdang.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 bdsp.x.jd.com
+127.0.0.1 du.jd.com
+127.0.0.1 im-x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
+#meituan.com
+127.0.0.1 push.mobile.meituan.com
+#vip.com
+127.0.0.1 api.union.vip.com
+127.0.0.1 ms.vipstatic.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+127.0.0.1 trade.koudaitong.com
 @site/car
 #52che.com
 127.0.0.1 bd1.52che.com
@@ -2152,6 +2178,53 @@
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
 127.0.0.1 dm.gzpinda.com
+@site/fashion
+#eastlady.cn
+127.0.0.1 abc.eastlady.cn
+127.0.0.1 jb.eastlady.cn
+127.0.0.1 wl.eastlady.cn
+#haibao.cn
+127.0.0.1 hats.haibao.cn
+#laonanren.com
+127.0.0.1 ac.laonanren.com
+#m.nanrenwo.net
+127.0.0.1 1.nanrenwo.net
+127.0.0.1 2.nanrenwo.net
+#onlylady.com
+127.0.0.1 btn.onlylady.com
+127.0.0.1 olpv.onlylady.com
+127.0.0.1 olpvimg.onlylady.com
+127.0.0.1 olstats.onlylady.com
+#shangc.net
+127.0.0.1 b17.shangc.net
+127.0.0.1 j17.shangc.net
+#www.xchssm.com
+127.0.0.1 js4775.tiangu99.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
+127.0.0.1 a.stka8.com
+127.0.0.1 a.wlmnt.com
+127.0.0.1 rc.376zf.com
+#yoka.com
+127.0.0.1 adcount.yoka.com
+127.0.0.1 yokaimedia.qtmojo.com
+#zdface.com
+127.0.0.1 ent1.12584.cn
+127.0.0.1 health1.12584.cn
+127.0.0.1 img.12584.cn
+127.0.0.1 s2.zdface.com
+127.0.0.1 image.fsyule.net
+127.0.0.1 fozhu.rrsdl.com
+127.0.0.1 heimo.rrsdl.com
+127.0.0.1 kuaigao.rrsdl.com
+127.0.0.1 m.rrsdl.com
 @site/finance
 #10jqka.com.cn
 127.0.0.1 ad.thsi.cn
@@ -2296,6 +2369,80 @@
 127.0.0.1 img.tz00008.cn
 127.0.0.1 b.9dreams.net
 127.0.0.1 tu.bpmask.com
+@site/health
+#120ask.com
+127.0.0.1 ax.120ask.com
+127.0.0.1 bdjs.120askimages.com
+127.0.0.1 eclick.120ask.com
+127.0.0.1 log.120ask.com
+127.0.0.1 x.120ask.com
+#39.net
+127.0.0.1 app-g.39.net
+127.0.0.1 d.39.net
+127.0.0.1 dpvc.39.net
+127.0.0.1 thetestpage.39.net
+#babytree.com
+127.0.0.1 titan.babytree.com
+127.0.0.1 titan01.babytree.com
+#ci123.com
+127.0.0.1 tc.ci123.com
+#qqyy.com
+127.0.0.1 dpvc1.qqyy.com
+127.0.0.1 dpvc2.qqyy.com
+127.0.0.1 dpvchos.qqyy.com
+127.0.0.1 dpvcimg.qqyy.com
+#www.bjmama.net
+127.0.0.1 as.bjmama.net
+#www.seeyouyima.com
+127.0.0.1 ad.seeyouyima.com
+#xywy.com
+127.0.0.1 a.xywy.com
+127.0.0.1 bdmm.xywy.com
+127.0.0.1 bdmjs.xywy.com
+127.0.0.1 gg.xywy.com
+127.0.0.1 o.xywy.com
+127.0.0.1 page.xywy.com
+127.0.0.1 hao123.xywy.com
+127.0.0.1 stat-y.xywy.com
+127.0.0.1 stat-z.xywy.com
+127.0.0.1 stat.xywy.com
+127.0.0.1 static.front.xywy.com
+#yaolan.com
+127.0.0.1 adnetpub.yaolan.com
+127.0.0.1 adpub.yaolan.com
+127.0.0.1 adpubs.yaolan.com
+127.0.0.1 ylads.yaolan.com
+127.0.0.1 a.codevm.com
+@site/home
+#1fangchan.com
+127.0.0.1 adhome.1fangchan.com
+#58.com
+127.0.0.1 adshow.58.com
+127.0.0.1 brandshow.58.com
+127.0.0.1 jing.58.com
+127.0.0.1 track.58.com
+127.0.0.1 58.xgo.com.cn
+127.0.0.1 imp.xgo.com.cn
+127.0.0.1 stat.xgo.com.cn
+#fang.com
+127.0.0.1 click1n.soufun.com
+127.0.0.1 clickm.fang.com
+127.0.0.1 clickn.fang.com
+127.0.0.1 countpvn.light.fang.com
+127.0.0.1 countubn.light.soufun.com
+127.0.0.1 mshow.fang.com
+127.0.0.1 tongji.home.soufun.com
+#ganji.com
+127.0.0.1 ad.ganji.com
+127.0.0.1 analytics.ganji.com
+127.0.0.1 click.ganji.com
+127.0.0.1 ganjituiguang.ganji.com
+127.0.0.1 sta.ganji.com
+127.0.0.1 tralog.ganji.com
+#house365.com
+127.0.0.1 ad.house365.com
+127.0.0.1 adadmin.house365.com
+127.0.0.1 ads.house365.com
 @site/it
 #4hw.com.cn
 127.0.0.1 images2.4hw.com.cn
@@ -2503,153 +2650,16 @@
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
-@site/life-buy
-#12306
-127.0.0.1 ad.12306.cn
+@site/life-info
+#51wnl.com
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
 #8684.cn
 127.0.0.1 2012.8684.com
 127.0.0.1 bdfpb1.8684.com
 127.0.0.1 bdfpb2.8684.com
 127.0.0.1 js.2011.8684.com
 127.0.0.1 media.2011.8684.com
-#egou.com
-127.0.0.1 ad.egou.com
-#dangdang
-127.0.0.1 a.dangdang.com
-127.0.0.1 click.dangdang.com
-127.0.0.1 schprompt.dangdang.com
-127.0.0.1 t.dangdang.com
-#jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 bdsp.x.jd.com
-127.0.0.1 du.jd.com
-127.0.0.1 im-x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
-#meituan.com
-127.0.0.1 push.mobile.meituan.com
-#vip.com
-127.0.0.1 ms.vipstatic.com
-127.0.0.1 api.union.vip.com
-#www.youzan.com
-127.0.0.1 tj.koudaitong.com
-127.0.0.1 trade.koudaitong.com
-@site/life-fashion
-#eastlady.cn
-127.0.0.1 abc.eastlady.cn
-127.0.0.1 jb.eastlady.cn
-127.0.0.1 wl.eastlady.cn
-#haibao.cn
-127.0.0.1 hats.haibao.cn
-#laonanren.com
-127.0.0.1 ac.laonanren.com
-#m.nanrenwo.net
-127.0.0.1 1.nanrenwo.net
-127.0.0.1 2.nanrenwo.net
-#onlylady.com
-127.0.0.1 btn.onlylady.com
-127.0.0.1 olpv.onlylady.com
-127.0.0.1 olpvimg.onlylady.com
-127.0.0.1 olstats.onlylady.com
-#shangc.net
-127.0.0.1 b17.shangc.net
-127.0.0.1 j17.shangc.net
-#www.xchssm.com
-127.0.0.1 js4775.tiangu99.com
-127.0.0.1 adimg.bbcss.com
-127.0.0.1 c1.sxxjdz.com
-127.0.0.1 e.dzairen.com
-127.0.0.1 g.chinapxg.com
-127.0.0.1 img.xinjunshi.com
-127.0.0.1 js4775.hongtaidichan.net
-127.0.0.1 k.zrwhcy.com
-127.0.0.1 p.chinapxg.com
-127.0.0.1 www.86kx.com
-127.0.0.1 a.stka8.com
-127.0.0.1 a.wlmnt.com
-127.0.0.1 rc.376zf.com
-#yoka.com
-127.0.0.1 adcount.yoka.com
-127.0.0.1 yokaimedia.qtmojo.com
-@site/life-health
-#120ask.com
-127.0.0.1 ax.120ask.com
-127.0.0.1 bdjs.120askimages.com
-127.0.0.1 eclick.120ask.com
-127.0.0.1 log.120ask.com
-127.0.0.1 x.120ask.com
-#39.net
-127.0.0.1 app-g.39.net
-127.0.0.1 d.39.net
-127.0.0.1 dpvc.39.net
-127.0.0.1 thetestpage.39.net
-#babytree.com
-127.0.0.1 titan.babytree.com
-127.0.0.1 titan01.babytree.com
-#ci123.com
-127.0.0.1 tc.ci123.com
-#qqyy.com
-127.0.0.1 dpvc1.qqyy.com
-127.0.0.1 dpvc2.qqyy.com
-127.0.0.1 dpvchos.qqyy.com
-127.0.0.1 dpvcimg.qqyy.com
-#www.bjmama.net
-127.0.0.1 as.bjmama.net
-#www.seeyouyima.com
-127.0.0.1 ad.seeyouyima.com
-#xywy.com
-127.0.0.1 a.xywy.com
-127.0.0.1 bdmm.xywy.com
-127.0.0.1 bdmjs.xywy.com
-127.0.0.1 gg.xywy.com
-127.0.0.1 o.xywy.com
-127.0.0.1 page.xywy.com
-127.0.0.1 hao123.xywy.com
-127.0.0.1 stat-y.xywy.com
-127.0.0.1 stat-z.xywy.com
-127.0.0.1 stat.xywy.com
-127.0.0.1 static.front.xywy.com
-#yaolan.com
-127.0.0.1 adnetpub.yaolan.com
-127.0.0.1 adpub.yaolan.com
-127.0.0.1 adpubs.yaolan.com
-127.0.0.1 ylads.yaolan.com
-127.0.0.1 a.codevm.com
-@site/life-home
-#1fangchan.com
-127.0.0.1 adhome.1fangchan.com
-#58.com
-127.0.0.1 adshow.58.com
-127.0.0.1 brandshow.58.com
-127.0.0.1 jing.58.com
-127.0.0.1 track.58.com
-127.0.0.1 58.xgo.com.cn
-127.0.0.1 imp.xgo.com.cn
-127.0.0.1 stat.xgo.com.cn
-#fang.com
-127.0.0.1 click1n.soufun.com
-127.0.0.1 clickm.fang.com
-127.0.0.1 clickn.fang.com
-127.0.0.1 countpvn.light.fang.com
-127.0.0.1 countubn.light.soufun.com
-127.0.0.1 mshow.fang.com
-127.0.0.1 tongji.home.soufun.com
-#ganji.com
-127.0.0.1 ad.ganji.com
-127.0.0.1 analytics.ganji.com
-127.0.0.1 click.ganji.com
-127.0.0.1 ganjituiguang.ganji.com
-127.0.0.1 sta.ganji.com
-127.0.0.1 tralog.ganji.com
-#house365.com
-127.0.0.1 ad.house365.com
-127.0.0.1 adadmin.house365.com
-127.0.0.1 ads.house365.com
-@site/life-info
-#51wnl.com
-127.0.0.1 ad.51wnl.com
-127.0.0.1 ad-android.51wnl.com
 #caiyunapp.com
 127.0.0.1 ad.caiyunapp.com
 #jandan.net
@@ -3291,6 +3301,11 @@
 #xinhuanet.com
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 webd.home.news.cn
+#ynet.com
+127.0.0.1 life.ynet.com
+127.0.0.1 rss.ynet.com
+127.0.0.1 t.ynet.com
+127.0.0.1 wxif.ynet.com
 #youth.cn
 127.0.0.1 publish.ad.youth.cn
 127.0.0.1 d.youth.cn
@@ -4949,7 +4964,7 @@
 #sogou-mb
 127.0.0.1 123.sogou.com
 127.0.0.1 bazinga.mse.sogou.com
-#sogou
+#sogou.
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 dsp.brand.sogou.com
@@ -4959,11 +4974,15 @@
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 iwan.sogou.com
+127.0.0.1 kthxd.lu.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
+127.0.0.1 pjyu.golden1.sogou.com
+127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 rjgw.theta.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 wan.sogou.com

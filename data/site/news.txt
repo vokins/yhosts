@@ -90,6 +90,11 @@
 #xinhuanet.com
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 webd.home.news.cn
+#ynet.com
+127.0.0.1 life.ynet.com
+127.0.0.1 rss.ynet.com
+127.0.0.1 t.ynet.com
+127.0.0.1 wxif.ynet.com
 #youth.cn
 127.0.0.1 publish.ad.youth.cn
 127.0.0.1 d.youth.cn

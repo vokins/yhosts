@@ -1245,7 +1245,7 @@
 #sogou-mb
 127.0.0.1 123.sogou.com
 127.0.0.1 bazinga.mse.sogou.com
-#sogou
+#sogou.
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 dsp.brand.sogou.com
@@ -1255,11 +1255,15 @@
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 iwan.sogou.com
+127.0.0.1 kthxd.lu.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
+127.0.0.1 pjyu.golden1.sogou.com
+127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 rjgw.theta.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 wan.sogou.com
