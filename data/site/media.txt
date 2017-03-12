@@ -10,6 +10,9 @@
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
+#64ma
+127.0.0.1 dev.jwpltx.com
+127.0.0.1 n.jwpltx.com
 #baofeng.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com

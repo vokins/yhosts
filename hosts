@@ -1,5 +1,5 @@
 
-#version=201703121939
+#version=201703122153
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2423,6 +2423,8 @@
 127.0.0.1 mad.stat.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
+127.0.0.1 dev.jwpltx.com
+127.0.0.1 n.jwpltx.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com
 127.0.0.1 addl.logger.baofeng.com
