@@ -130,3 +130,4 @@
 127.0.0.1 hd.hd.hhyhfs.com
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
+127.0.0.1 url.tudown.com
