@@ -1,3 +1,5 @@
+imeclient.openspeech.cn/adservice/getAdsForClient?c=6001&v=2.0&t=20170312171758
+imeclient.openspeech.cn/adservice/notice/view?key=1&data=5CMD4GeBcXqXACvMFbNjEe7tRUsQ3hzEZ3FmlVzNQD9VhGSd8ar9XesTvO5STc5GEpMr6YVHghDGcv27APw%2FmdhtMNWGg8lZggg1eMMvI7LUcRlGj%2Bn6utZhbZAIKWTgZEekuJ%2B4P8DfGkxl9CADScQgmrwM6qkXYtE3aPMVm286d5%2FrWg6Zdg%3D%3D
 
 #down-baidu/pan
 127.0.0.1 update.pan.baidu.com

@@ -228,6 +228,7 @@
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 hd.hd.hhyhfs.com
 127.0.0.1 gi.xi.gxabj.com
+127.0.0.1 cdn1.njjlg.com
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
@@ -1363,6 +1364,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 vip.cainiaofx.com
 127.0.0.1 m.12306media.com
 127.0.0.1 s.xpqfc.com
 127.0.0.1 mm.ahyau.com
@@ -2220,6 +2222,7 @@
 #360doc.cn
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
+127.0.0.1 scriptwap3.360doc.cn
 #baike.com
 127.0.0.1 ad1.baike.com
 127.0.0.1 ehd.baike.com

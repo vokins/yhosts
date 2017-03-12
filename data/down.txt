@@ -129,3 +129,4 @@
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 hd.hd.hhyhfs.com
 127.0.0.1 gi.xi.gxabj.com
+127.0.0.1 cdn1.njjlg.com

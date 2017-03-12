@@ -1,5 +1,5 @@
 
-#version=201703121705
+#version=201703121721
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -185,6 +185,7 @@
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 hd.hd.hhyhfs.com
 127.0.0.1 gi.xi.gxabj.com
+127.0.0.1 cdn1.njjlg.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -1135,6 +1136,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 vip.cainiaofx.com
 127.0.0.1 m.12306media.com
 127.0.0.1 s.xpqfc.com
 127.0.0.1 mm.ahyau.com
@@ -1905,6 +1907,7 @@
 127.0.0.1 kkyy.liliyy.com
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
+127.0.0.1 scriptwap3.360doc.cn
 127.0.0.1 ad1.baike.com
 127.0.0.1 ehd.baike.com
 127.0.0.1 stat.baike.com

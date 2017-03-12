@@ -262,6 +262,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 vip.cainiaofx.com
 127.0.0.1 m.12306media.com
 127.0.0.1 s.xpqfc.com
 127.0.0.1 mm.ahyau.com
