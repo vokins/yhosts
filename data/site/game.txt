@@ -6,8 +6,6 @@
 127.0.0.1 s.17173cdn.com
 127.0.0.1 imgapp.yeyou.com
 127.0.0.1 ue.yeyoucdn.com
-127.0.0.1 17173im.qtmojo.com
-127.0.0.1 samba.adsame.com
 #178.com
 127.0.0.1 analytics.wanmei.com
 127.0.0.1 gg.stargame.com
@@ -45,14 +43,6 @@
 #gamersky.com
 127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
-#m.hao76.com
-127.0.0.1 ioa.hdkrs.com
-#m.shouji56.com
-127.0.0.1 ujake.shouji56.com
-127.0.0.1 p.tamenshuo.com
-127.0.0.1 hl.quw18.com
-127.0.0.1 uqd168.shouji56.com
-127.0.0.1 s.mt145.com
 #nga.cn
 127.0.0.1 att.stargame.com
 127.0.0.1 appsupport.stargame.com
@@ -64,25 +54,3 @@
 #uuu9.com
 127.0.0.1 gg.uuu9.com
 127.0.0.1 static.gg.uuu9.com
-#www.diyiapp.com
-127.0.0.1 yn.xsu.cc
-127.0.0.1 jsqcdn1124.0101122.com
-127.0.0.1 u291014.pr00001.com
-127.0.0.1 s.jzv1.com
-127.0.0.1 ss.shuajuzu.com
-127.0.0.1 fsjsp.com
-127.0.0.1 fz863.com
-127.0.0.1 js.ychun03.com
-127.0.0.1 lz.ychun03.com
-127.0.0.1 m.anzhuotan.com
-127.0.0.1 package01.com
-127.0.0.1 pf.h5game.cn
-127.0.0.1 s5.qhmsg.com
-127.0.0.1 worldh5.gamehz.cn
-127.0.0.1 www.shouyoutan.com
-127.0.0.1 yjxzs.com
-127.0.0.1 zgty365.com
-127.0.0.1 p.skimresources.com
-127.0.0.1 img.tz00008.cn
-127.0.0.1 b.9dreams.net
-127.0.0.1 tu.bpmask.com

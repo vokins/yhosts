@@ -5,3 +5,9 @@ m.iask.sina.com.cn
 download.macromedia.com
 www.macromedia.com
 t.cn
+ww1.sinaimg.cn
+ww2.sinaimg.cn
+ww3.sinaimg.cn
+ww4.sinaimg.cn
+image.5442.com
+m.5442.com

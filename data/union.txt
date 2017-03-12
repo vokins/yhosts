@@ -11,6 +11,7 @@
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 g.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 secure-sin.adnxs.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 sin1.g.adnxs.com
 #adtechus.com
@@ -23,6 +24,10 @@
 #ad-survey.com
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 tracking.ad-survey.com
+#adsfactor.net
+127.0.0.1 bdaz.adsfactor.net
+127.0.0.1 cdn.adsfactor.net
+127.0.0.1 servedby.adsfactor.net
 #amazon
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 aax-fe-pek.amazon-adsystem.com
@@ -464,13 +469,15 @@
 127.0.0.1 wisemedia.cm.admaster.com.cn
 #adsame.com
 127.0.0.1 botuu.adsame.com
+127.0.0.1 caixin.adsame.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 i.adsame.com
 127.0.0.1 oeeee.adsame.com
 127.0.0.1 qianlong.adsame.com
+127.0.0.1 samba.adsame.com
 127.0.0.1 sammix.adsame.com
-127.0.0.1 techweb.iv.adsame.com
 127.0.0.1 techweb.adsame.com
+127.0.0.1 techweb.iv.adsame.com
 127.0.0.1 uusee.adsame.com
 #ali-cdn
 127.0.0.1 aecpm.alicdn.com
@@ -1123,6 +1130,7 @@
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
+127.0.0.1 77kb.qucaigg.com
 127.0.0.1 80s.qucaigg.com
 127.0.0.1 bttt.qucaigg.com
 127.0.0.1 dygang.kkcaicai.com
@@ -1135,7 +1143,9 @@
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
+127.0.0.1 17173im.qtmojo.com
 127.0.0.1 cm.qtmojo.com
+127.0.0.1 cnfolimedia.qtmojo.com
 127.0.0.1 csdnim.qtmojo.com
 127.0.0.1 lejuim.qtmojo.com
 127.0.0.1 mmae.qtmojo.com
@@ -1143,6 +1153,8 @@
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
 127.0.0.1 xiciim.qtmojo.com
+127.0.0.1 yeskyimedia.qtmojo.com
+127.0.0.1 yokaimedia.qtmojo.com
 127.0.0.1 mon.xtgreat.com
 127.0.0.1 www.xtgreat.com
 #sina
@@ -1268,6 +1280,7 @@
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 wan.sogou.com
 127.0.0.1 wangmeng.sogou.com
+127.0.0.1 ztrpm.lu.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com

@@ -19,7 +19,6 @@
 #m.77kp.com
 127.0.0.1 js.72bss.com
 127.0.0.1 aa.cywl5.com
-127.0.0.1 77kb.qucaigg.com
 127.0.0.1 c.weareqy.com
 127.0.0.1 r.weareqy.com
 127.0.0.1 rc.weareqy.com

@@ -3,8 +3,6 @@
 127.0.0.1 ad.thinkmedia.cn
 #douban.com
 127.0.0.1 erebor.douban.com
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #mop.com
 127.0.0.1 pub.mop.com
 #renren.com
@@ -21,8 +19,6 @@
 127.0.0.1 bdj.tianya.cn
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com
-#twitter.com
-127.0.0.1 syndication.twitter.com
 #xici.net
 127.0.0.1 adimgs.xici.net
 #zhihu.com
