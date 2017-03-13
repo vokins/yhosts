@@ -1,5 +1,5 @@
 http://live.64ma.com/tv/images/jwpsrv.js
-
+http://sub.adtchrome.com/adt-chinalist-easylist.txt
 api.ad.xiaomi.com/brand/appupgrade
 api.ad.xiaomi.com/brand/splashConfig
 file.market.xiaomi.com/download/AppStore/045ae50f7cdfab4bacc3acdb818ee6bfe4443db78
