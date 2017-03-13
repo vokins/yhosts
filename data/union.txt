@@ -101,7 +101,6 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 #google-adservices
-127.0.0.1 www.googleadservices.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.gstatic.cn
@@ -112,7 +111,6 @@
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 #gosquared.com
 127.0.0.1 data.gosquared.com

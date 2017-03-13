@@ -2370,8 +2370,6 @@
 127.0.0.1 dc.ads.linkedin.com
 #m.cn.rfi.fr
 127.0.0.1 nexus.ensighten.com
-#twitter.com
-127.0.0.1 syndication.twitter.com
 
 @site/game
 #17173.com
@@ -2782,7 +2780,6 @@
 127.0.0.1 c.kxbeta.com
 127.0.0.1 d.kxbeta.com
 #m.apkpure.com
-127.0.0.1 apkpure.disqus.com
 127.0.0.1 disqusads.com
 #m.muzisoft.com
 127.0.0.1 d.ltss8.com
@@ -3828,7 +3825,6 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 #google-adservices
-127.0.0.1 www.googleadservices.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.gstatic.cn
@@ -3839,7 +3835,6 @@
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 #gosquared.com
 127.0.0.1 data.gosquared.com

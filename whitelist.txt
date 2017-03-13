@@ -1,4 +1,8 @@
-﻿127.0.0.1 log.voicecloud.cn 讯飞语音升级
+﻿127.0.0.1 apkpure.disqus.com 这个是 Disqus 的评论
+127.0.0.1 syndication.twitter.com  有一个是cdn
+127.0.0.1 www.googleadservices.com 谷歌广告投放平台
+127.0.0.1 www.googletagmanager.com 这个也不是广告，这个是谷歌的代码管理器
+127.0.0.1 log.voicecloud.cn 讯飞语音升级
 127.0.0.1 mipcache.bdstatic.com m.zngirls.com/gallery 翻页有问题
 127.0.0.1 weatherapi.market.xiaomi.com  可以去除15日趋势的广告，天加后会导致一些第三方app无法更新天气，比如pure天气
 127.0.0.1 c.m.163.com
