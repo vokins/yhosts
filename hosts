@@ -1,5 +1,5 @@
 
-#version=201703141452
+#version=201703141455
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -366,6 +366,7 @@
 127.0.0.1 p.kjwx8.com
 127.0.0.1 sta.jcjk0451.com
 127.0.0.1 1.yhzm.cc
+127.0.0.1 www.hao934.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
