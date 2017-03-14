@@ -1,8 +1,10 @@
 @site/girl
 #hotmm.tk
 127.0.0.1 url.hotmm.tk
+127.0.0.1 pic.csad.cc
 127.0.0.1 ios.syjlzs.com
 127.0.0.1 wsx.xstjf.com
+127.0.0.1 www.2016bobo.cf
 #m.5442.com
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
@@ -62,6 +64,8 @@
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+#www.semmdh.net
+127.0.0.1 wap.zgqlxw.com
 #zhaofuli.xyz
 127.0.0.1 changan.bama555.com
 127.0.0.1 www.5345ll.com
