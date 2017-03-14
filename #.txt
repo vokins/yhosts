@@ -1,3 +1,10 @@
+#美图秀秀启动页面广告
+127.0.0.1 meitubeauty.meitudata.com
+meitubeauty.meitudata.com/c3ff3aa147195498a807a813ebc6ebd9-2858.jpg?imageView2/2/w/960 
+
+
+http://max.ad.xiaomi.com/selfService/static/main.html#!/document?cuid=9E02795AF5024CA0C7B8F3A3C878DFC6|021818530818368&timestamp=1489413736508&_client_version=7.1.4
+
 http://live.64ma.com/tv/images/jwpsrv.js
 http://sub.adtchrome.com/adt-chinalist-easylist.txt
 api.ad.xiaomi.com/brand/appupgrade

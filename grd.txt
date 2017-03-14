@@ -805,6 +805,7 @@
 61.91.161.217 maps.gstatic.com
 61.91.161.217 ssl.gstatic.com
 61.91.161.217 www.gstatic.com
+61.91.161.217 connectivitycheck.gstatic.com
 61.91.161.217 encrypted-tbn0.gstatic.com
 61.91.161.217 encrypted-tbn1.gstatic.com
 61.91.161.217 encrypted-tbn2.gstatic.com
@@ -834,6 +835,7 @@
 61.91.161.217 bigcache.googleapis.com
 61.91.161.217 chart.googleapis.com
 61.91.161.217 content.googleapis.com
+61.91.161.217 growth-pa.googleapis.com
 61.91.161.217 khms0.googleapis.com
 61.91.161.217 khms1.googleapis.com
 61.91.161.217 maps.googleapis.com
@@ -3183,6 +3185,9 @@
 149.154.167.99 core.telegram.org
 149.154.167.99 macos.telegram.org
 149.154.167.120 web.telegram.org
+149.154.167.57 venus.web.telegram.org
+149.154.171.22 flora.web.telegram.org
+149.154.171.22 flora-1.web.telegram.org
 154.35.132.70 torproject.org
 154.35.132.70 www.torproject.org
 82.195.75.101 archive.torproject.org

@@ -1,5 +1,5 @@
 
-#version=201703131440
+#version=201703141441
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1909,6 +1909,10 @@
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
+127.0.0.1 js.xtcake.com
+127.0.0.1 img.xtcake.com
+127.0.0.1 www.a0b33.com
+127.0.0.1 www.jusha.com
 127.0.0.1 ad1.baike.com
 127.0.0.1 ehd.baike.com
 127.0.0.1 stat.baike.com
@@ -2937,6 +2941,7 @@
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
 127.0.0.1 pro.heiguang.com
+127.0.0.1 meitubeauty.meitudata.com
 127.0.0.1 ad.unimhk.com
 127.0.0.1 pixel-hk.pixelinteractivemedia.com
 127.0.0.1 snap.snapmobile.asia

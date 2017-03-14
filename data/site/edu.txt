@@ -3,6 +3,11 @@
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
+#ajpsp.com
+127.0.0.1 js.xtcake.com
+127.0.0.1 img.xtcake.com
+127.0.0.1 www.a0b33.com
+127.0.0.1 www.jusha.com
 #baike.com
 127.0.0.1 ad1.baike.com
 127.0.0.1 ehd.baike.com
