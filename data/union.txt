@@ -404,8 +404,10 @@
 127.0.0.1 s4.55.la
 #51yes.com
 127.0.0.1 count14.51yes.com
+127.0.0.1 count2.51yes.com
 127.0.0.1 count20.51yes.com
 127.0.0.1 count21.51yes.com
+127.0.0.1 count23.51yes.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 count32.51yes.com
 127.0.0.1 count46.51yes.com
