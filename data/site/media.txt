@@ -76,8 +76,10 @@
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
+127.0.0.1 adsp.xunlei.com
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 cop.my.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 dy.niu.xunlei.com
@@ -114,9 +116,11 @@
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 img.momocdn.com
+127.0.0.1 www.155.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
-127.0.0.1 www.155.com
 127.0.0.1 www.6998cdn.com
 #ku6.com
 127.0.0.1 vi0.mzy2014.com

@@ -1,5 +1,5 @@
 
-#version=201703141456
+#version=201703161937
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1294,6 +1294,17 @@
 127.0.0.1 jsecdn123.86666608.com
 127.0.0.1 js3610.51weidashi.com
 127.0.0.1 qjfcdn1220.0101122.com
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 servicer.adskeeper.co.uk
+127.0.0.1 jsc.adskeeper.co.uk
+127.0.0.1 affiliategroove.com
+127.0.0.1 www.hvfzshrpfueb.com
+127.0.0.1 hvfzshrpfueb.com
+127.0.0.1 www.kfwpyyctzmpk.com
+127.0.0.1 kfwpyyctzmpk.com
+127.0.0.1 ap76rmx3.accountant
+127.0.0.1 go.onclasrv.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
@@ -2488,8 +2499,10 @@
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
+127.0.0.1 adsp.xunlei.com
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 cop.my.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 dy.niu.xunlei.com
@@ -2526,9 +2539,11 @@
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 img.momocdn.com
+127.0.0.1 www.155.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com
-127.0.0.1 www.155.com
 127.0.0.1 www.6998cdn.com
 127.0.0.1 vi0.mzy2014.com
 127.0.0.1 vi1.mzy2014.com

@@ -13,6 +13,17 @@
 127.0.0.1 js3610.51weidashi.com
 127.0.0.1 qjfcdn1220.0101122.com
 #btdb.in
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 servicer.adskeeper.co.uk
+127.0.0.1 jsc.adskeeper.co.uk
+127.0.0.1 affiliategroove.com
+127.0.0.1 www.hvfzshrpfueb.com
+127.0.0.1 hvfzshrpfueb.com
+127.0.0.1 www.kfwpyyctzmpk.com
+127.0.0.1 kfwpyyctzmpk.com
+127.0.0.1 ap76rmx3.accountant
+127.0.0.1 go.onclasrv.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com

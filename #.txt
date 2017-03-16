@@ -1,3 +1,17 @@
+﻿#迅雷app下载列表广告
+127.0.0.1 img.momocdn.com
+127.0.0.1 adsp.xunlei.com
+#去迅雷推荐、发现等垃圾功能
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
+#迅雷会员推广这个不用加
+127.0.0.1 try.service.cdn.vip.xunlei.com
+隐私信息
+adsp.xunlei.com/api/adp/agget?positionId=1137&devicetype=1&make=
+img.momocdn.com/ad/D8/8D/D88D02BA-FC2A-C60C-5406-1E52500C7EC5_L.jpg
+static.m.sjzhushou.com/pss/static/android/red_point_cfg.json?versionCode=10830
+api-shoulei-ssl.xunlei.com/paysitter/api/subjects/random?flag=search_page_rec&timestamp=1489647317&nonce=233735894&accesskey=android.m.xunlei&sig=YKZ07YPioXUgF_K6j9jWxduqXI8=
+
 #美图秀秀启动页面广告
 127.0.0.1 meitubeauty.meitudata.com
 meitubeauty.meitudata.com/c3ff3aa147195498a807a813ebc6ebd9-2858.jpg?imageView2/2/w/960 
