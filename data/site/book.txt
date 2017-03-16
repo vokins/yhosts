@@ -98,6 +98,8 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+#m.biquge.com.tw
+127.0.0.1 di.zymro.com
 #m.biqumo.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
