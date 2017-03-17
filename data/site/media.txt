@@ -288,6 +288,7 @@
 127.0.0.1 log.xigua.com
 127.0.0.1 ad1.62seo.com
 127.0.0.1 guoguo.client51.com
+127.0.0.1 down1.bcibc.com
 #youku.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 themis.ykimg.com
