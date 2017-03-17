@@ -284,6 +284,10 @@
 #www.yuntutv.net
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
+#xigua.com
+127.0.0.1 log.xigua.com
+127.0.0.1 ad1.62seo.com
+127.0.0.1 guoguo.client51.com
 #youku.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 themis.ykimg.com

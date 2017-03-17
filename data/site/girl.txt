@@ -73,7 +73,6 @@
 127.0.0.1 www.4207008.com
 127.0.0.1 www-777563.com
 127.0.0.1 www.222627.com
-127.0.0.1 www.222627.com
 #zhaofuli.xyz
 127.0.0.1 changan.bama555.com
 127.0.0.1 www.5345ll.com

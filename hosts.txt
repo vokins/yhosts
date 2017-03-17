@@ -2560,7 +2560,6 @@
 127.0.0.1 www.4207008.com
 127.0.0.1 www-777563.com
 127.0.0.1 www.222627.com
-127.0.0.1 www.222627.com
 #zhaofuli.xyz
 127.0.0.1 changan.bama555.com
 127.0.0.1 www.5345ll.com
@@ -3193,6 +3192,10 @@
 #www.yuntutv.net
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
+#xigua.com
+127.0.0.1 log.xigua.com
+127.0.0.1 ad1.62seo.com
+127.0.0.1 guoguo.client51.com
 #youku.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 themis.ykimg.com
