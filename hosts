@@ -1,5 +1,5 @@
 
-#version=201703171054
+#version=201703171611
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -170,9 +170,10 @@
 127.0.0.1 onclkds.com
 127.0.0.1 xiazai.downok.com
 127.0.0.1 downlaod.xiaocen.com
-127.0.0.1 cdn.img.liuxingyul.cn
+127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 cdn.img.kachapt.cn
+127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 hwt.player888.cn
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 ad.sojoyo.com
@@ -201,6 +202,7 @@
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
 127.0.0.1 pro.yyhudong.com
+127.0.0.1 marketres.feidee.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tuku.jkys5.com
@@ -4016,10 +4018,14 @@
 127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+127.0.0.1 a.eqxiu.com
 127.0.0.1 as.eqxiu.com
 127.0.0.1 da.eqxiu.com
+127.0.0.1 as.eqh5.com
 127.0.0.1 lib.eqh5.com
+127.0.0.1 res.eqh5.com
 127.0.0.1 res1.eqh5.com
+127.0.0.1 res2.eqh5.com
 127.0.0.1 cm.fastapi.net
 127.0.0.1 g.fastapi.net
 127.0.0.1 l.fastapi.net

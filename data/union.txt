@@ -938,10 +938,14 @@
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
 #eqxiu.com
+127.0.0.1 a.eqxiu.com
 127.0.0.1 as.eqxiu.com
 127.0.0.1 da.eqxiu.com
+127.0.0.1 as.eqh5.com
 127.0.0.1 lib.eqh5.com
+127.0.0.1 res.eqh5.com
 127.0.0.1 res1.eqh5.com
+127.0.0.1 res2.eqh5.com
 #fastapi
 127.0.0.1 cm.fastapi.net
 127.0.0.1 g.fastapi.net

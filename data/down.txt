@@ -114,9 +114,10 @@
 127.0.0.1 onclkds.com
 127.0.0.1 xiazai.downok.com
 127.0.0.1 downlaod.xiaocen.com
-127.0.0.1 cdn.img.liuxingyul.cn
+127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 cdn.img.kachapt.cn
+127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 hwt.player888.cn
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 ad.sojoyo.com
