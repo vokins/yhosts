@@ -1,5 +1,5 @@
 
-#version=201703171642
+#version=201703182220
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -203,6 +203,7 @@
 127.0.0.1 www.tigerbrokers.com
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
+127.0.0.1 app.shandjj.com
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tuku.jkys5.com
@@ -1032,6 +1033,16 @@
 127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
+127.0.0.1 j7182.hfxcsl.cn
+127.0.0.1 js.1maode.com
+127.0.0.1 js.pxblmj.com
+127.0.0.1 mm.ahyau.com
+127.0.0.1 w.gd8023.com
+127.0.0.1 s8.weixinfb.cn
+127.0.0.1 iospage.manjiangshuyue.com
+127.0.0.1 pic.hui598.cn
+127.0.0.1 2w.edu0.cn
+127.0.0.1 js1.bjchengren.com
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
 127.0.0.1 z67.zzhyyj.com
@@ -1148,7 +1159,6 @@
 127.0.0.1 imgcdn2.pdsywd.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 m.12306media.com
-127.0.0.1 mm.ahyau.com
 127.0.0.1 mssp.yuanfenba.net
 127.0.0.1 s.xpqfc.com
 127.0.0.1 vip.cainiaofx.com
@@ -3227,6 +3237,8 @@
 127.0.0.1 www.bidvertiser.com
 127.0.0.1 as.casalemedia.com
 127.0.0.1 ssum.casalemedia.com
+127.0.0.1 site.cdnmaster.com
+127.0.0.1 tag.cdnmaster.cn
 127.0.0.1 s.cr-nielsen.com
 127.0.0.1 t.cr-nielsen.com
 127.0.0.1 cat.sh.cn.criteo.com
@@ -3242,6 +3254,8 @@
 127.0.0.1 s.csbew.com
 127.0.0.1 static.csbew.com
 127.0.0.1 tga.csbew.com
+127.0.0.1 cdn.dsp.com
+127.0.0.1 secure.dsp.com
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 ads.exdynsrv.com
@@ -3252,6 +3266,7 @@
 127.0.0.1 static-ssl.exoclick.com
 127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
+127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.net
@@ -3494,6 +3509,7 @@
 127.0.0.1 in.nxrhs.com
 127.0.0.1 rc.nxrhs.com
 127.0.0.1 s.nxrhs.com
+127.0.0.1 s.jkmxy.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 s.xmcmn.com

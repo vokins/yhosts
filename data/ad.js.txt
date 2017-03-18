@@ -1,6 +1,7 @@
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzs.js
 http://m.chenhuixs.net/js/hfzx.js
+http://m.chenhuiwx.org/js/foot.js
 http://m.kankanwu.com/js/20X4a.js
 http://m.kankanwu.com/js/hui.js
 http://m.kankanwu.com/js/jusha.js

@@ -143,6 +143,16 @@
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 #m.chenhuixs.net
+127.0.0.1 j7182.hfxcsl.cn
+127.0.0.1 js.1maode.com
+127.0.0.1 js.pxblmj.com
+127.0.0.1 mm.ahyau.com
+127.0.0.1 w.gd8023.com
+127.0.0.1 s8.weixinfb.cn
+127.0.0.1 iospage.manjiangshuyue.com
+127.0.0.1 pic.hui598.cn
+127.0.0.1 2w.edu0.cn
+127.0.0.1 js1.bjchengren.com
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
 127.0.0.1 z67.zzhyyj.com
@@ -271,7 +281,6 @@
 127.0.0.1 imgcdn2.pdsywd.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 m.12306media.com
-127.0.0.1 mm.ahyau.com
 127.0.0.1 mssp.yuanfenba.net
 127.0.0.1 s.xpqfc.com
 127.0.0.1 vip.cainiaofx.com

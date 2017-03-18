@@ -50,6 +50,9 @@
 #casalemedia.com
 127.0.0.1 as.casalemedia.com
 127.0.0.1 ssum.casalemedia.com
+#cdnmaster.com
+127.0.0.1 site.cdnmaster.com
+127.0.0.1 tag.cdnmaster.cn
 #cr-nielsen.com
 127.0.0.1 s.cr-nielsen.com
 127.0.0.1 t.cr-nielsen.com
@@ -68,6 +71,9 @@
 127.0.0.1 s.csbew.com
 127.0.0.1 static.csbew.com
 127.0.0.1 tga.csbew.com
+#dsp.com
+127.0.0.1 cdn.dsp.com
+127.0.0.1 secure.dsp.com
 #effectivemeasure.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 sg-cdn.effectivemeasure.net
@@ -82,6 +88,7 @@
 127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
 #google-doubleclick
+127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.net
@@ -363,6 +370,7 @@
 127.0.0.1 in.nxrhs.com
 127.0.0.1 rc.nxrhs.com
 127.0.0.1 s.nxrhs.com
+127.0.0.1 s.jkmxy.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
 127.0.0.1 s.xmcmn.com

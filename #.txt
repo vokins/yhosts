@@ -1,4 +1,10 @@
-﻿Host:  ad1.62seo.com\r\n西瓜
+﻿127.0.0.1 c.go-mpulse.net
+127.0.0.1 114.55.123.44:7702
+127.0.0.1 222.186.61.97:9002
+127.0.0.1 222.186.61.97:9988
+127.0.0.1 47.89.59.182:7788
+
+Host:  ad1.62seo.com\r\n西瓜
 【链接】NotFound
 http://guoguo.client51.com
 http://log.xigua.com:8080/stat?pccode=318C6E66-0-4358444e34345850575234473053504833384433-001C42C9912F-D02B4F6F&product=xigua&subproduct=xgp&version=2.9.0.34&channel=0&ReportName=StartUp&Command=%22C%3A%5CProgram%20Files%20%28x86%29%5Cxigua%5C2%2E9%2E1%2E36%5Cxigua%2Eexe%22%20&Source=&Parent=setup%5Fxigua%5FInstall%2E1411715361%2Eexe&StartType=Unknown&machineid=318C6E66-0-4358444e34345850575234473053504833384433-001C42C9912F-D02B4F6F

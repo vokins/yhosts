@@ -15,6 +15,7 @@
 127.0.0.1 www.tigerbrokers.com
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
+127.0.0.1 app.shandjj.com
 @errorpage/weixin
 127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
