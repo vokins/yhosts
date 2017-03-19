@@ -1,5 +1,5 @@
 
-#version=201703182220
+#version=201703191730
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -791,7 +791,6 @@
 127.0.0.1 setting.rayjump.com
 127.0.0.1 newswifiapi.dfshurufa.com
 127.0.0.1 api.vungle.com
-127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 adeventtracker.spotify.com
@@ -4356,6 +4355,9 @@
 127.0.0.1 clk.optaim.com
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com
+127.0.0.1 a.adnet.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 lnk0.com
 127.0.0.1 baidu.dsp.tansuotv.com
 127.0.0.1 i.tansuotv.com
 127.0.0.1 m.tansuotv.com

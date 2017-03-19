@@ -1301,6 +1301,10 @@
 #ta80.com
 127.0.0.1 js.ta80.com
 127.0.0.1 good.ta80.com
+#talkingdata.net
+127.0.0.1 a.adnet.com
+127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 lnk0.com
 #tansuotv.com
 127.0.0.1 baidu.dsp.tansuotv.com
 127.0.0.1 i.tansuotv.com
