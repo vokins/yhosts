@@ -24,6 +24,7 @@
 127.0.0.1 push.zhangyue.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com

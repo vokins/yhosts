@@ -1130,6 +1130,7 @@
 127.0.0.1 push.zhangyue.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com
@@ -2177,6 +2178,7 @@
 #v5.lol5s.com
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
+127.0.0.1 www.a0b11.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 #vip.ihuan.me
@@ -3513,7 +3515,6 @@
 127.0.0.1 dsp.toutiao.com
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
-127.0.0.1 s3.bytecdn.cn
 #w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com

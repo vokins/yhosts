@@ -77,7 +77,6 @@
 127.0.0.1 dsp.toutiao.com
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
-127.0.0.1 s3.bytecdn.cn
 #w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com

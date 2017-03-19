@@ -1,5 +1,5 @@
 
-#version=201703191730
+#version=201703192246
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -926,6 +926,7 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 push.zhangyue.com
+127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com
@@ -1871,6 +1872,7 @@
 127.0.0.1 f.chunqiu360.com
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
+127.0.0.1 www.a0b11.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
@@ -2964,7 +2966,6 @@
 127.0.0.1 dsp.toutiao.com
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
-127.0.0.1 s3.bytecdn.cn
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
