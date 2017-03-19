@@ -1,5 +1,5 @@
 
-#version=201703192246
+#version=201703192309
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -939,6 +939,7 @@
 127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.syofew6o.net
 127.0.0.1 mm.hlipqiuo.net
+127.0.0.1 m.sigbusa.com
 127.0.0.1 m.uzpmrbek.com
 127.0.0.1 s.xhsxgmt.cn
 127.0.0.1 s.tbaocdn.com
@@ -963,6 +964,7 @@
 127.0.0.1 ef364.263zw.com
 127.0.0.1 ef365.263zw.com
 127.0.0.1 ef366.263zw.com
+127.0.0.1 m.onlifjj.net
 127.0.0.1 e.saferwet.com
 127.0.0.1 m.saferwet.com
 127.0.0.1 e.yxbag.net
@@ -975,6 +977,7 @@
 127.0.0.1 app.tanwan.com
 127.0.0.1 c.facebookma.cn
 127.0.0.1 s.shiftrro.com
+127.0.0.1 webkit.ccyqmy.com
 127.0.0.1 baby.yf898.com
 127.0.0.1 m.twldmx.com
 127.0.0.1 yyk.dalianbaojie.com
@@ -1000,12 +1003,17 @@
 127.0.0.1 e.breezily168.com
 127.0.0.1 e.968lele.com
 127.0.0.1 itho.nfylyyzlk.com
+127.0.0.1 m.dlzjdesign.com
+127.0.0.1 e.dlzjdesign.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
 127.0.0.1 pp.2945.com
+127.0.0.1 hwimg.jtd51.com
+127.0.0.1 wdfw.ksmsmk.com
 127.0.0.1 zhzywl.cc
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 dt.bookben.com
+127.0.0.1 gufft.m.bookben.com
 127.0.0.1 uu.85655095.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -1017,6 +1025,8 @@
 127.0.0.1 hotav05.szjtcg.com
 127.0.0.1 c.msltzer.cn
 127.0.0.1 www.ailicee.com
+127.0.0.1 e.vwws6.net
+127.0.0.1 ethod.gzgmjcx.com
 127.0.0.1 m.lengrom.cn
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 gog9.qzdfc.com

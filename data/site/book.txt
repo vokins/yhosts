@@ -109,10 +109,14 @@
 127.0.0.1 e.breezily168.com
 127.0.0.1 e.968lele.com
 127.0.0.1 itho.nfylyyzlk.com
+127.0.0.1 m.dlzjdesign.com
+127.0.0.1 e.dlzjdesign.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
 127.0.0.1 pp.2945.com
+127.0.0.1 hwimg.jtd51.com
+127.0.0.1 wdfw.ksmsmk.com
 127.0.0.1 zhzywl.cc
 127.0.0.1 www.zhzywl.cc
 #m.bookben.com

@@ -1,10 +1,6 @@
 http://exview.gtool.ml/gad/gad_top_468_60.html
 http://hotmm.tk/bofangtv/tanbd.js
 http://hotmm.tk/show-tv/tuitan.js
-http://js3743.dgxinhuan.com/js/v/rh_b.js
-http://js3743.dgxinhuan.com/s-19297
-http://js3743.tongqing2015.com/m-26224
-http://js3743.tongqing2015.com/m/m.js
 http://m.1xiaoshuo.com/js/common.js
 http://m.250sy.net/wap/wap.js
 http://m.263zw.com/wap/xbaixs/wap.js
@@ -20,8 +16,8 @@ http://m.bmwen.com/gao/bmxptj_3.js
 http://m.bmwen.com/js/wap.js
 http://m.booktxt.net/wap/qijixs/wap.js
 http://m.bxwx9.org/mjs/wap.js
-http://m.chenhuiwx.org/js/foot.js
 http://m.bxwx9.org/mjs/wap.js
+http://m.chenhuiwx.org/js/foot.js
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzs.js
 http://m.chenhuixs.net/js/hfzx.js
@@ -33,7 +29,6 @@ http://m.kb20.cc/js/fumeiti.js
 http://m.kb20.cc/js/uaredirectformobile.js
 http://m.qu.la/stylewap/js/wap.js
 http://m.shumilou.co/style/html5.js?v=0.1
-http://oodd.m.1xiaoshuo.com/456/1/1.html
 http://pic.zaizai8.com/wap/zaidibu.js
 http://v5.lol5s.com/template/wusha/ads/baidu1.js
 http://v5.lol5s.com/template/wusha/ads/gd1.js
