@@ -14,3 +14,5 @@ shang.qq.com
 image.5442.com
 m.5442.com
 www.qq.com
+itunes.apple.com
+
