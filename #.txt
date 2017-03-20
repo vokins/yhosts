@@ -1,4 +1,26 @@
-﻿127.0.0.1 c.go-mpulse.net
+﻿cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com/SKIN_AD/SkinHappyRoosterYear.apk
+cootek-file.cdn.cootekservice.com/ad/material/adno_4338_1488769614.png
+cootek-file.cdn.cootekservice.com/ad/material/adno_4487_1489649542.jpeg
+data-news.cdn.cootekservice.com/news/2017-03-20/img/219-3792974780575716270-thumbnail2%40192w_144h_90Q
+dialer.cdn.cootekservice.com/AD/hang_up/css/style_2016_02_29.min.css
+dialer.cdn.cootekservice.com/AD/hang_up/img/commercial_below_mask_black.png
+dialer.cdn.cootekservice.com/AD/hang_up/js/cootek_ad_handler.js
+dialer.cdn.cootekservice.com/AD/lib/fc.js
+dialer.cdn.cootekservice.com/AD/lib/jq.js
+dialer.cdn.cootekservice.com/APP_SKINS/apks/new/version
+dialer.cdn.cootekservice.com/android/default/visualKeyboard/dialer_hotphones_visualization_v14.txt
+touchlife.cootekservice.com/native_index/index_mini_banner?_sign=0CENWi-RhiisIfOMN_R13A&_token=&_ts=1489970855&_v=3&app_name=cootek.contactplus.android.public&app_version=6023&city=%E5%85%A8%E5%9B%BD&geo_city=%E5%85%A8%E5%9B%BD&latitude=-1&longitude=-1&network=WIFI&version=1
+touchlife.cootekservice.com/page_v3/get_commercial_call_content_img_link?_token=0b386b0d-3350-4491-93fa-616121f97d71
+ws2.cootekservice.com/ad/sspstat?type=1&sspid=0&placement_id=&product=2&ch=cootek.contactplus.android.public&v=6023&s=96bb9348fbf4c08795913cf04bdad046&tu=3&token=0b386b0d-3350-4491-93fa-616121f97d71&adn=0&prt=1489971223459&ftu=108&nt=WIFI
+ws2.cootekservice.com/ad/voip?adclass=EMBEDDED&adn=1&at=IMG&ch=cootek.contactplus.android.public&city=%E5%85%A8%E5%9B%BD&h=190&nt=WIFI&prt=1489970861657&rt=JSON&token=0b386b0d-3350-4491-93fa-616121f97d71&tu=304&v=6023&w=190
+ws2.cootekservice.com/ad/voip?ch=com%2Ecootek%2Esmartdialer&v=6023&prt=1489970860&at=IMG%7CVIDEO&tu=1&adn=2&adclass=EMBEDDED&nt=WIFI&rt=HTML&w=1080&h=1920&city=&addr=&longtitude=0.000000&latitude=0.000000&other_phone=&call_type=&vt=&ito=0&et=0&open_free_call=false&contactname=&pf=1&ck=c30ec799%2D2f0c%2D40ea%2Dbfc3%2Da6a406a66f3e
+ws2.cootekservice.com/news/feeds?addr=%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%B8%B4%E6%B2%82%E5%B8%82%E5%85%B0%E5%B1%B1%E5%8C%BA%E5%8C%97%E4%BA%AC%E8%B7%AF&ch=cootek.contactplus.android.public&city=%E4%B8%B4%E6%B2%82&ct=MULTI&ctclass=EMBEDDED&ctn=12&fid=1489971223437&latitude=35.112771&layout=31&longitude=118.324196&mode=1&noad=1&nt=WIFI&prt=1489971223466&rt=JSON&s=&token=0b386b0d-3350-4491-93fa-616121f97d71&tu=108&v=6023
+ws2.cootekservice.com/statistic/usage?type=dialer_new&send_time=1489970878609
+ws2.cootekservice.com/test/test.html?source=online
+
+
+
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 114.55.123.44:7702
 127.0.0.1 222.186.61.97:9002
 127.0.0.1 222.186.61.97:9988

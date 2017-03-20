@@ -542,3 +542,9 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#cootek
+127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 cootek-file.cdn.cootekservice.com
+127.0.0.1 data-news.cdn.cootekservice.com
+127.0.0.1 dialer.cdn.cootekservice.com
+127.0.0.1 ws2.cootekservice.com

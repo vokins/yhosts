@@ -1,0 +1,5 @@
+cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com/
+cootek-file.cdn.cootekservice.com/
+data-news.cdn.cootekservice.com/
+dialer.cdn.cootekservice.com/
+ws2.cootekservice.com/

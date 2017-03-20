@@ -1,5 +1,5 @@
 
-#version=201703192320
+#version=20170320 941
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -817,6 +817,11 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 cootek-file.cdn.cootekservice.com
+127.0.0.1 data-news.cdn.cootekservice.com
+127.0.0.1 dialer.cdn.cootekservice.com
+127.0.0.1 ws2.cootekservice.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -1090,6 +1095,7 @@
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
+127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 static1.2436.cn
@@ -1167,6 +1173,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
 127.0.0.1 img.95duk.com
@@ -1311,6 +1318,7 @@
 127.0.0.1 tt.zrpfk.com
 127.0.0.1 ts.xitao3.com
 127.0.0.1 pv.fq9r.com
+
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
 127.0.0.1 m.xc0429.com

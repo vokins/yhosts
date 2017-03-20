@@ -974,6 +974,12 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#cootek
+127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 cootek-file.cdn.cootekservice.com
+127.0.0.1 data-news.cdn.cootekservice.com
+127.0.0.1 dialer.cdn.cootekservice.com
+127.0.0.1 ws2.cootekservice.com
 @site/area
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
@@ -1310,6 +1316,7 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
+127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 static1.2436.cn
@@ -1396,6 +1403,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
 127.0.0.1 img.95duk.com
@@ -1555,6 +1563,7 @@
 127.0.0.1 tt.zrpfk.com
 127.0.0.1 ts.xitao3.com
 127.0.0.1 pv.fq9r.com
+
 @site/bt
 #bt.orzx.im
 127.0.0.1 c.code222.com
