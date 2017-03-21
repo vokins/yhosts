@@ -1,17 +1,9 @@
 @site/life-info
-#51wnl.com
-127.0.0.1 ad.51wnl.com
-127.0.0.1 ad-android.51wnl.com
-#8684.cn
-127.0.0.1 2012.8684.com
-127.0.0.1 bdfpb1.8684.com
-127.0.0.1 bdfpb2.8684.com
-127.0.0.1 js.2011.8684.com
-127.0.0.1 media.2011.8684.com
-#caiyunapp.com
-127.0.0.1 ad.caiyunapp.com
 #jandan.net
 127.0.0.1 s.jandan.com
+#meishij
+127.0.0.1 ma1.meishij.net
+127.0.0.1 ma2.meishij.net
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
@@ -36,18 +28,6 @@
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
-#moji
-127.0.0.1 ad.api.moji.com
-127.0.0.1 cdn.moji.com
-127.0.0.1 fds.api.moji.com
-127.0.0.1 pc.moji.com
-127.0.0.1 stat.moji.com
-127.0.0.1 v1.log.moji.com
-127.0.0.1 app.moji001.com
-127.0.0.1 ugc.moji001.com
-127.0.0.1 cdn.moji002.com
-127.0.0.1 cdn2.moji002.com
-127.0.0.1 api721.analysys.cn
 #www.52rkl.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com

@@ -98,6 +98,7 @@
 127.0.0.1 hao.qquu8.com
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
+127.0.0.1 hk.jtsh123.com
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com

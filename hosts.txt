@@ -250,8 +250,11 @@
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
 @errorpage/weixin
-127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+127.0.0.1 trade.koudaitong.com
+127.0.0.1 wap.koudaitong.com
 @errorpage/inside
 127.0.0.1 tuku.jkys5.com
 127.0.0.1 img.jkys5.com
@@ -356,6 +359,7 @@
 127.0.0.1 hao.qquu8.com
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
+127.0.0.1 hk.jtsh123.com
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
@@ -980,6 +984,162 @@
 127.0.0.1 data-news.cdn.cootekservice.com
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 ws2.cootekservice.com
+127.0.0.1 data-pic.cdn.cootekservice.com
+127.0.0.1 edge02.zhongshan.cootek.com
+127.0.0.1 edge02.anding.cootek.com
+@app/book
+#book.easou.com
+127.0.0.1 adm.easou.com
+127.0.0.1 assets.easou.com
+127.0.0.1 tjlog.easou.com
+127.0.0.1 tjlog.ps.easou.com
+#itaoxiaoshuo.com
+127.0.0.1 api.itaoxiaoshuo.com
+#qidian.com
+127.0.0.1 a.game.qidian.com
+127.0.0.1 cj.qidian.com
+127.0.0.1 dwtrack.qidian.com
+127.0.0.1 o.if.qidian.com
+127.0.0.1 tongji.qidian.com
+127.0.0.1 uedas.qidian.com
+127.0.0.1 uedas.qdmm.com
+127.0.0.1 s1.cmfu.com
+#shuqi.com
+127.0.0.1 ut2.shuqistat.com
+#zhangyue.com
+127.0.0.1 ad.zhangyue.com
+127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
+127.0.0.1 push.zhangyue.com
+@app/buy
+#egou.com
+127.0.0.1 ad.egou.com
+#dangdang
+127.0.0.1 a.dangdang.com
+127.0.0.1 click.dangdang.com
+127.0.0.1 schprompt.dangdang.com
+127.0.0.1 t.dangdang.com
+#jd.com
+127.0.0.1 ads.union.jd.com
+127.0.0.1 bdsp.x.jd.com
+127.0.0.1 du.jd.com
+127.0.0.1 im-x.jd.com
+127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
+127.0.0.1 x.jd.com
+#meituan.com
+127.0.0.1 push.mobile.meituan.com
+#vip.com
+127.0.0.1 api.union.vip.com
+127.0.0.1 ms.vipstatic.com
+@app/music
+#duomi.com
+127.0.0.1 service.ad.duomi.com
+127.0.0.1 pc.boxshows.com
+#kugou.com
+127.0.0.1 ads.service.kugou.com
+127.0.0.1 d.kugou.com
+127.0.0.1 downmobile.kugou.com
+127.0.0.1 gad.kugou.com
+127.0.0.1 gg.kugou.com
+127.0.0.1 install.kugou.com
+127.0.0.1 install2.kugou.com
+127.0.0.1 kgmobilestat.kugou.com
+127.0.0.1 log.stat.kugou.com
+127.0.0.1 minidcsc.kugou.com
+127.0.0.1 mo.kugou.com
+127.0.0.1 mobilelog.kugou.com
+127.0.0.1 msg.mobile.kugou.com
+127.0.0.1 mvads.kugou.com
+127.0.0.1 p.kugou.com
+127.0.0.1 push.mobile.kugou.com
+127.0.0.1 rtmonitor.kugou.com
+127.0.0.1 sdk.game.kugou.com
+127.0.0.1 sdn.kugou.com
+127.0.0.1 song.fanxing.kugou.com
+127.0.0.1 tj.kugou.com
+127.0.0.1 update.mobile.kugou.com
+#kuwo.cn
+127.0.0.1 apk.shouji.koowo.com
+127.0.0.1 g.koowo.com
+127.0.0.1 deliver.kuwo.cn
+127.0.0.1 kwmsg.kuwo.cn
+127.0.0.1 log.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+127.0.0.1 msclick2.kuwo.cn
+127.0.0.1 msphoneclick.kuwo.cn
+127.0.0.1 updatepage.kuwo.cn
+127.0.0.1 wa.kuwo.cn
+127.0.0.1 webstat.kuwo.cn
+127.0.0.1 api.iimedia.cn
+127.0.0.1 iimedia.cn
+127.0.0.1 mfan.iclick.com.cn
+127.0.0.1 game.51yund.com
+#qingting.fm
+127.0.0.1 ad.qingting.fm
+127.0.0.1 admgr.qingting.fm
+127.0.0.1 dload.qd.qingting.fm
+127.0.0.1 logger.qingting.fm
+127.0.0.1 s.qd.qingting.fm
+127.0.0.1 s.qd.qingtingfm.com
+#ttpod.com
+127.0.0.1 collect.log.ttpod.com
+127.0.0.1 test.log.ttpod.com
+127.0.0.1 tj.itlily.com
+127.0.0.1 v1.ard.tj.itlily.com
+127.0.0.1 v1.ard.update.itlily.com
+#ximalaya.com
+127.0.0.1 ad.test.ximalaya.com
+127.0.0.1 ad.ximalaya.com
+127.0.0.1 adse.test.ximalaya.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 adweb.test.ximalaya.com
+127.0.0.1 adweb.ximalaya.com
+@app/news
+#app.myzaker.com
+127.0.0.1 adm.myzaker.com
+127.0.0.1 ggs.myzaker.com
+127.0.0.1 hotphone.myzaker.com
+#one
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
+#toutiao.com
+127.0.0.1 ad.toutiao.com
+127.0.0.1 d.toutiao.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
+127.0.0.1 partner.toutiao.com
+@app/trip
+#12306
+127.0.0.1 ad.12306.cn
+#8684.cn
+127.0.0.1 2012.8684.com
+127.0.0.1 bdfpb1.8684.com
+127.0.0.1 bdfpb2.8684.com
+127.0.0.1 js.2011.8684.com
+127.0.0.1 media.2011.8684.com
+@app/weather
+#51wnl.com
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
+#caiyunapp.com
+127.0.0.1 ad.caiyunapp.com
+#moji
+127.0.0.1 ad.api.moji.com
+127.0.0.1 cdn.moji.com
+127.0.0.1 fds.api.moji.com
+127.0.0.1 pc.moji.com
+127.0.0.1 stat.moji.com
+127.0.0.1 v1.log.moji.com
+127.0.0.1 app.moji001.com
+127.0.0.1 ugc.moji001.com
+127.0.0.1 cdn.moji002.com
+127.0.0.1 cdn2.moji002.com
+127.0.0.1 api721.analysys.cn
 @site/area
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
@@ -1110,38 +1270,16 @@
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
-@site/book-app
-#book.easou.com
-127.0.0.1 adm.easou.com
-127.0.0.1 assets.easou.com
-127.0.0.1 tjlog.easou.com
-127.0.0.1 tjlog.ps.easou.com
-#itaoxiaoshuo.com
-127.0.0.1 api.itaoxiaoshuo.com
-#qidian.com
-127.0.0.1 a.game.qidian.com
-127.0.0.1 cj.qidian.com
-127.0.0.1 dwtrack.qidian.com
-127.0.0.1 o.if.qidian.com
-127.0.0.1 tongji.qidian.com
-127.0.0.1 uedas.qidian.com
-127.0.0.1 uedas.qdmm.com
-127.0.0.1 s1.cmfu.com
-#shuqi.com
-127.0.0.1 ut2.shuqistat.com
-#zhangyue.com
-127.0.0.1 ad.zhangyue.com
-127.0.0.1 img.ad.zhangyue.com
-127.0.0.1 m.ad.zhangyue.com
-127.0.0.1 push.zhangyue.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 oodd.m.1xiaoshuo.com
+127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.hlipqiuo.net
-127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.kimgfvz.com
 127.0.0.1 e.lengrom.cn
@@ -1215,14 +1353,17 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
+127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
-127.0.0.1 e.968lele.com
-127.0.0.1 itho.nfylyyzlk.com
+127.0.0.1 m.guoshennet.com
+127.0.0.1 e.guoshennet.com
 127.0.0.1 m.dlzjdesign.com
 127.0.0.1 e.dlzjdesign.com
+127.0.0.1 e.968lele.com
+127.0.0.1 itho.nfylyyzlk.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
@@ -1302,6 +1443,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
 127.0.0.1 p6.95558000.com
@@ -1924,32 +2066,6 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
-@site/buy
-#12306
-127.0.0.1 ad.12306.cn
-#egou.com
-127.0.0.1 ad.egou.com
-#dangdang
-127.0.0.1 a.dangdang.com
-127.0.0.1 click.dangdang.com
-127.0.0.1 schprompt.dangdang.com
-127.0.0.1 t.dangdang.com
-#jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 bdsp.x.jd.com
-127.0.0.1 du.jd.com
-127.0.0.1 im-x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
-#meituan.com
-127.0.0.1 push.mobile.meituan.com
-#vip.com
-127.0.0.1 api.union.vip.com
-127.0.0.1 ms.vipstatic.com
-#www.youzan.com
-127.0.0.1 tj.koudaitong.com
-127.0.0.1 trade.koudaitong.com
 @site/car
 #52che.com
 127.0.0.1 bd1.52che.com
@@ -2427,7 +2543,6 @@
 127.0.0.1 dc.ads.linkedin.com
 #m.cn.rfi.fr
 127.0.0.1 nexus.ensighten.com
-
 @site/game
 #17173.com
 127.0.0.1 cvda.17173.com
@@ -2532,6 +2647,7 @@
 #m.5442.com
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
+127.0.0.1 jjd.5442.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 bdjs.2344.com
 127.0.0.1 d21.deyidai.cn
@@ -2890,19 +3006,11 @@
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
 @site/life-info
-#51wnl.com
-127.0.0.1 ad.51wnl.com
-127.0.0.1 ad-android.51wnl.com
-#8684.cn
-127.0.0.1 2012.8684.com
-127.0.0.1 bdfpb1.8684.com
-127.0.0.1 bdfpb2.8684.com
-127.0.0.1 js.2011.8684.com
-127.0.0.1 media.2011.8684.com
-#caiyunapp.com
-127.0.0.1 ad.caiyunapp.com
 #jandan.net
 127.0.0.1 s.jandan.com
+#meishij
+127.0.0.1 ma1.meishij.net
+127.0.0.1 ma2.meishij.net
 #m.7791.com.cn
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
@@ -2927,18 +3035,6 @@
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
-#moji
-127.0.0.1 ad.api.moji.com
-127.0.0.1 cdn.moji.com
-127.0.0.1 fds.api.moji.com
-127.0.0.1 pc.moji.com
-127.0.0.1 stat.moji.com
-127.0.0.1 v1.log.moji.com
-127.0.0.1 app.moji001.com
-127.0.0.1 ugc.moji001.com
-127.0.0.1 cdn.moji002.com
-127.0.0.1 cdn2.moji002.com
-127.0.0.1 api721.analysys.cn
 #www.52rkl.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
@@ -3232,6 +3328,7 @@
 #xigua.com
 127.0.0.1 log.xigua.com
 127.0.0.1 ad1.62seo.com
+127.0.0.1 anan.client51.com
 127.0.0.1 guoguo.client51.com
 127.0.0.1 down1.bcibc.com
 #youku.com
@@ -3396,75 +3493,7 @@
 127.0.0.1 js3743.yongkang6.com
 #www.zimuzu.tv
 127.0.0.1 www.schborg.com
-@site/music
-#duomi.com
-127.0.0.1 service.ad.duomi.com
-127.0.0.1 pc.boxshows.com
-#kugou.com
-127.0.0.1 ads.service.kugou.com
-127.0.0.1 d.kugou.com
-127.0.0.1 downmobile.kugou.com
-127.0.0.1 gad.kugou.com
-127.0.0.1 gg.kugou.com
-127.0.0.1 install.kugou.com
-127.0.0.1 install2.kugou.com
-127.0.0.1 kgmobilestat.kugou.com
-127.0.0.1 log.stat.kugou.com
-127.0.0.1 minidcsc.kugou.com
-127.0.0.1 mo.kugou.com
-127.0.0.1 mobilelog.kugou.com
-127.0.0.1 msg.mobile.kugou.com
-127.0.0.1 mvads.kugou.com
-127.0.0.1 p.kugou.com
-127.0.0.1 push.mobile.kugou.com
-127.0.0.1 rtmonitor.kugou.com
-127.0.0.1 sdk.game.kugou.com
-127.0.0.1 sdn.kugou.com
-127.0.0.1 song.fanxing.kugou.com
-127.0.0.1 tj.kugou.com
-127.0.0.1 update.mobile.kugou.com
-127.0.0.1 kuaikaiapp.com
-#kuwo.cn
-127.0.0.1 apk.shouji.koowo.com
-127.0.0.1 g.koowo.com
-127.0.0.1 deliver.kuwo.cn
-127.0.0.1 kwmsg.kuwo.cn
-127.0.0.1 log.kuwo.cn
-127.0.0.1 mobilead.kuwo.cn
-127.0.0.1 msclick2.kuwo.cn
-127.0.0.1 msphoneclick.kuwo.cn
-127.0.0.1 updatepage.kuwo.cn
-127.0.0.1 wa.kuwo.cn
-127.0.0.1 webstat.kuwo.cn
-127.0.0.1 api.iimedia.cn
-127.0.0.1 iimedia.cn
-127.0.0.1 mfan.iclick.com.cn
-127.0.0.1 game.51yund.com
-#qingting.fm
-127.0.0.1 ad.qingting.fm
-127.0.0.1 admgr.qingting.fm
-127.0.0.1 dload.qd.qingting.fm
-127.0.0.1 logger.qingting.fm
-127.0.0.1 s.qd.qingting.fm
-127.0.0.1 s.qd.qingtingfm.com
-#ttpod.com
-127.0.0.1 collect.log.ttpod.com
-127.0.0.1 test.log.ttpod.com
-127.0.0.1 tj.itlily.com
-127.0.0.1 v1.ard.tj.itlily.com
-127.0.0.1 v1.ard.update.itlily.com
-#ximalaya.com
-127.0.0.1 ad.test.ximalaya.com
-127.0.0.1 ad.ximalaya.com
-127.0.0.1 adse.test.ximalaya.com
-127.0.0.1 adse.ximalaya.com
-127.0.0.1 adweb.test.ximalaya.com
-127.0.0.1 adweb.ximalaya.com
 @site/news
-#app.myzaker.com
-127.0.0.1 adm.myzaker.com
-127.0.0.1 ggs.myzaker.com
-127.0.0.1 hotphone.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
@@ -3508,12 +3537,6 @@
 127.0.0.1 x.infzm.com
 #m.jiemian.com
 127.0.0.1 ad.jiemian.com
-#one
-127.0.0.1 click.focusad.cn
-127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
-127.0.0.1 fengche.cpv6.com
-127.0.0.1 www.cpv6.com
 #people.com.cn
 127.0.0.1 pmm.people.com.cn
 #southcn.com
@@ -3532,13 +3555,6 @@
 127.0.0.1 youle.tom.com
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 data.adserve2.tomoimg.cn
-#toutiao.com
-127.0.0.1 ad.toutiao.com
-127.0.0.1 d.toutiao.com
-127.0.0.1 dm.toutiao.com
-127.0.0.1 dsp.toutiao.com
-127.0.0.1 nativeapp.toutiao.com
-127.0.0.1 partner.toutiao.com
 #w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
@@ -3559,7 +3575,7 @@
 #youth.cn
 127.0.0.1 publish.ad.youth.cn
 127.0.0.1 d.youth.cn
-@site/photo
+@app/photo
 #dcfever.com
 127.0.0.1 adx.adxglobal.com
 #fengniao.com

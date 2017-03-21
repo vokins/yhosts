@@ -1,8 +1,4 @@
 @site/news
-#app.myzaker.com
-127.0.0.1 adm.myzaker.com
-127.0.0.1 ggs.myzaker.com
-127.0.0.1 hotphone.myzaker.com
 #china.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
@@ -46,12 +42,6 @@
 127.0.0.1 x.infzm.com
 #m.jiemian.com
 127.0.0.1 ad.jiemian.com
-#one
-127.0.0.1 click.focusad.cn
-127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
-127.0.0.1 fengche.cpv6.com
-127.0.0.1 www.cpv6.com
 #people.com.cn
 127.0.0.1 pmm.people.com.cn
 #southcn.com
@@ -70,13 +60,6 @@
 127.0.0.1 youle.tom.com
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 data.adserve2.tomoimg.cn
-#toutiao.com
-127.0.0.1 ad.toutiao.com
-127.0.0.1 d.toutiao.com
-127.0.0.1 dm.toutiao.com
-127.0.0.1 dsp.toutiao.com
-127.0.0.1 nativeapp.toutiao.com
-127.0.0.1 partner.toutiao.com
 #w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com

@@ -17,8 +17,11 @@
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
 @errorpage/weixin
-127.0.0.1 wap.koudaitong.com
 127.0.0.1 tl.771tao.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+127.0.0.1 trade.koudaitong.com
+127.0.0.1 wap.koudaitong.com
 @errorpage/inside
 127.0.0.1 tuku.jkys5.com
 127.0.0.1 img.jkys5.com

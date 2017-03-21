@@ -1,35 +1,13 @@
-@site/book-app
-#book.easou.com
-127.0.0.1 adm.easou.com
-127.0.0.1 assets.easou.com
-127.0.0.1 tjlog.easou.com
-127.0.0.1 tjlog.ps.easou.com
-#itaoxiaoshuo.com
-127.0.0.1 api.itaoxiaoshuo.com
-#qidian.com
-127.0.0.1 a.game.qidian.com
-127.0.0.1 cj.qidian.com
-127.0.0.1 dwtrack.qidian.com
-127.0.0.1 o.if.qidian.com
-127.0.0.1 tongji.qidian.com
-127.0.0.1 uedas.qidian.com
-127.0.0.1 uedas.qdmm.com
-127.0.0.1 s1.cmfu.com
-#shuqi.com
-127.0.0.1 ut2.shuqistat.com
-#zhangyue.com
-127.0.0.1 ad.zhangyue.com
-127.0.0.1 img.ad.zhangyue.com
-127.0.0.1 m.ad.zhangyue.com
-127.0.0.1 push.zhangyue.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 oodd.m.1xiaoshuo.com
+127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.hlipqiuo.net
-127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.kimgfvz.com
 127.0.0.1 e.lengrom.cn
@@ -103,14 +81,17 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
+127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
-127.0.0.1 e.968lele.com
-127.0.0.1 itho.nfylyyzlk.com
+127.0.0.1 m.guoshennet.com
+127.0.0.1 e.guoshennet.com
 127.0.0.1 m.dlzjdesign.com
 127.0.0.1 e.dlzjdesign.com
+127.0.0.1 e.968lele.com
+127.0.0.1 itho.nfylyyzlk.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
@@ -190,6 +171,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
 127.0.0.1 p6.95558000.com
