@@ -1545,6 +1545,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
@@ -2705,6 +2706,7 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.semmdh.net
+127.0.0.1 app.ibaiducdn.com
 127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
 127.0.0.1 www.3388pjdc.com
@@ -3773,6 +3775,8 @@
 @site/sns
 #blogbus.com
 127.0.0.1 ad.thinkmedia.cn
+#cnblogs.com
+127.0.0.1 images2015.cnblogs.com
 #douban.com
 127.0.0.1 erebor.douban.com
 #mop.com

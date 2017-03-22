@@ -1,6 +1,8 @@
 @site/sns
 #blogbus.com
 127.0.0.1 ad.thinkmedia.cn
+#cnblogs.com
+127.0.0.1 images2015.cnblogs.com
 #douban.com
 127.0.0.1 erebor.douban.com
 #mop.com

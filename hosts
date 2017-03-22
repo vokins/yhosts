@@ -1,5 +1,5 @@
 
-#version=201703211846
+#version=201703221648
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1290,6 +1290,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
@@ -2300,6 +2301,7 @@
 127.0.0.1 simg.52zbz.com
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 app.ibaiducdn.com
 127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
 127.0.0.1 www.3388pjdc.com
@@ -3201,6 +3203,7 @@
 127.0.0.1 q.0451106.com
 127.0.0.1 yess.imneinei.com
 127.0.0.1 ad.thinkmedia.cn
+127.0.0.1 images2015.cnblogs.com
 127.0.0.1 erebor.douban.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn
