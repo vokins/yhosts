@@ -132,3 +132,4 @@
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
+127.0.0.1 ccb.uncle-ad.com

@@ -1,4 +1,5 @@
-﻿127.0.0.1 apkpure.disqus.com 这个是 Disqus 的评论
+﻿127.0.0.1 usr.mb.hd.sohu.com sohu tv 登录
+127.0.0.1 apkpure.disqus.com 这个是 Disqus 的评论
 s3.bytecdn.cn#误杀：内涵段子网这个域名下js被杀导致网页无法正常打开。
 127.0.0.1 syndication.twitter.com  有一个是cdn
 127.0.0.1 www.googleadservices.com 谷歌广告投放平台

@@ -231,6 +231,7 @@
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
+127.0.0.1 ccb.uncle-ad.com
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com

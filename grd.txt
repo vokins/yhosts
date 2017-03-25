@@ -517,7 +517,6 @@
 61.91.161.217 fuchsia.googlesource.com
 61.91.161.217 googlesource.com
 61.91.161.217 boringssl.googlesource.com
-108.177.97.82 tensorflow.googlesource.com
 61.91.161.217 gerrit.googlesource.com
 61.91.161.217 gerrit-review.googlesource.com
 61.91.161.217 chromium.googlesource.com
@@ -815,6 +814,7 @@
 61.91.161.217 encrypted-tbn2.gstatic.com
 61.91.161.217 encrypted-tbn3.gstatic.com
 203.208.51.55 fonts.gstatic.com
+61.91.161.217 play-music.gstatic.com
 61.91.161.217 g0.gstatic.com
 61.91.161.217 g1.gstatic.com
 61.91.161.217 g2.gstatic.com
@@ -2713,7 +2713,7 @@
 61.91.161.217 abc.xyz
 64.233.191.121 www.androidexperiments.com
 64.233.191.121 androidexperiments.com
-64.233.188.121 www.tensorflow.org
+61.91.161.217 www.tensorflow.org
 64.233.188.14 gmr-smtp-in.l.google.com
 64.233.188.16 googlemail-imap.l.google.com
 64.233.188.16 googlemail-smtp.l.google.com
