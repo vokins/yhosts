@@ -1,5 +1,5 @@
 
-#version=201703221648
+#version=20170325 923
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -373,6 +373,7 @@
 127.0.0.1 sta.jcjk0451.com
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
+127.0.0.1 www.1680go.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -951,6 +952,7 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+127.0.0.1 irdna.izazamall.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -1045,6 +1047,7 @@
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
@@ -1118,6 +1121,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.aishiguolong.com
+127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 m.guoshennet.com
@@ -1212,6 +1217,7 @@
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
+127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
@@ -1996,6 +2002,7 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 www.a0b11.com
+127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com

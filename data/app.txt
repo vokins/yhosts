@@ -151,3 +151,6 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+@app/tools
+#www.tiqiaa.com
+127.0.0.1 irdna.izazamall.com

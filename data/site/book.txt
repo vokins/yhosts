@@ -3,6 +3,7 @@
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
@@ -84,6 +85,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.aishiguolong.com
+127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 m.guoshennet.com
@@ -186,6 +189,7 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
+127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com

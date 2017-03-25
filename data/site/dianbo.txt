@@ -134,6 +134,7 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 www.a0b11.com
+127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 #vip.ihuan.me

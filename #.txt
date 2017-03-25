@@ -1,4 +1,9 @@
-﻿data-pic.cdn.cootekservice.com/coupon/adno_469_1453779541.jpeg
+﻿遥控精灵弹出广告：http://www.tiqiaa.com/cn/
+有广告版：http://bbs.tiqiaa.com/icontrol/app/icontrol.apk
+无广告版：http://bbs.tiqiaa.com/icontrol/app/icontrol-assistant.apk
+irdna.izazamall.com:8080/tqir/tjtt/support/brandAds
+
+data-pic.cdn.cootekservice.com/coupon/adno_469_1453779541.jpeg
 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com/SKIN_AD/SkinHappyRoosterYear.apk
 cootek-file.cdn.cootekservice.com/ad/material/adno_4338_1488769614.png
 cootek-file.cdn.cootekservice.com/ad/material/adno_4487_1489649542.jpeg
