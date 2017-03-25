@@ -171,7 +171,6 @@
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
-127.0.0.1 usr.mb.hd.sohu.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 api.k.sohu.com
 127.0.0.1 count.vrs.sohu.com
