@@ -1,5 +1,5 @@
 
-#version=201703261318
+#version=201703261351
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1122,6 +1122,7 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.hnctsm.com
 127.0.0.1 m.aishiguolong.com
 127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
@@ -1297,6 +1298,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
 127.0.0.1 api.ahjinshu.com
