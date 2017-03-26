@@ -32,3 +32,5 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+#www.txahz.com
+127.0.0.1 1.chcx.cn

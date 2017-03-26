@@ -164,7 +164,6 @@
 127.0.0.1 down.laomaotao.net
 #down-virus
 127.0.0.1 www.ahhjyl.cn
-127.0.0.1 hk.jtsh123.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 107.wuwho.cn
@@ -1008,6 +1007,8 @@
 127.0.0.1 s1.cmfu.com
 #shuqi.com
 127.0.0.1 ut2.shuqistat.com
+#www.dmzj.com
+127.0.0.1 ad.bayescom.com
 #zhangyue.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
@@ -3051,6 +3052,8 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+#www.txahz.com
+127.0.0.1 1.chcx.cn
 @site/media
 #1905.com
 127.0.0.1 afp.m1905.com

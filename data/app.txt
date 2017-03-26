@@ -17,6 +17,8 @@
 127.0.0.1 s1.cmfu.com
 #shuqi.com
 127.0.0.1 ut2.shuqistat.com
+#www.dmzj.com
+127.0.0.1 ad.bayescom.com
 #zhangyue.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com

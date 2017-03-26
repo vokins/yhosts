@@ -1,4 +1,6 @@
-﻿今日头条的广告：
+﻿App:动漫之家
+广告 ad.bayescom.com
+今日头条的广告：
 */ad/*
 http://ib.snssdk.com/api/ad/comment/v1/?ac=wifi&channel=wtgao10&aid=13&app_name=news_article&version_code=605&version_name=6.0.5&device_platform=android&ab_feature=94563%2C102749&abflag=1&ssmix=a&device_brand=Huawei&language=zh&os_api=&os_version=&manifest_version_code=605&update_version_code=6055&_rticket=1490327200198
 

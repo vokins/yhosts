@@ -1,5 +1,5 @@
 
-#version=201703252110
+#version=201703261318
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -121,7 +121,6 @@
 127.0.0.1 www.laomaotao.net
 127.0.0.1 down.laomaotao.net
 127.0.0.1 www.ahhjyl.cn
-127.0.0.1 hk.jtsh123.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 107.wuwho.cn
@@ -844,6 +843,7 @@
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 127.0.0.1 ut2.shuqistat.com
+127.0.0.1 ad.bayescom.com
 127.0.0.1 ad.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
@@ -2569,6 +2569,7 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+127.0.0.1 1.chcx.cn
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 trace.m1905.cn
