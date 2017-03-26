@@ -26,6 +26,7 @@ http://m.kewaishu.org/ad1/wap.js
 http://m.lanseshuba.com/js/pingao.js
 http://m.qu.la/stylewap/js/wap.js
 http://m.shumilou.co/style/html5.js?v=0.1
+http://m.xs222.com/js/common.js
 http://s.dzz8.com/public/ptcms/s_wap_novelsearch_index_index.js
 http://v5.lol5s.com/template/wusha/ads/baidu1.js
 http://v5.lol5s.com/template/wusha/ads/gd1.js
