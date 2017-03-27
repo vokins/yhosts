@@ -16,4 +16,6 @@ m.5442.com
 www.qq.com
 itunes.apple.com
 img.alicdn.com
+js.passport.qihucdn.com
+jspassport.ssl.qhimg.com
 

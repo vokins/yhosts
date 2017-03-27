@@ -337,6 +337,8 @@
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn
 127.0.0.1 mememe.dlsjyj.com
+#m.xs222.com
+127.0.0.1 sztyywk.m.xs222.com
 #wap.faloo.com
 127.0.0.1 s.faloo.com
 #wap.xxbiquge.com
