@@ -1,1 +1,13 @@
+#qq
 127.0.0.1 i.gtimg.cn
+127.0.0.1 imgcache.qq.com
+#miui-update
+127.0.0.1 update.miui.com
+#buy
+127.0.0.1 api.lapin365.com
+#ireader
+127.0.0.1 book.img.ireader.com
+#my data
+127.0.0.1 mdmserver.mobidia.com
+#phone580
+1270.0.0.1 dl.phone580.com

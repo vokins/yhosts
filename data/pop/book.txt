@@ -2,6 +2,7 @@
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 ba.cdyqc.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
@@ -85,6 +86,7 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 e.hnctsm.com
 127.0.0.1 m.hnctsm.com
 127.0.0.1 m.aishiguolong.com
 127.0.0.1 e.aishiguolong.com
@@ -100,6 +102,7 @@
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
 127.0.0.1 pp.2945.com
+127.0.0.1 wywk.seuxm.cn
 127.0.0.1 stat.jdwjy168.com
 127.0.0.1 hwimg.jtd51.com
 127.0.0.1 wdfw.ksmsmk.com
@@ -220,6 +223,7 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
+127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
 127.0.0.1 wudi.xdbwc.com
 127.0.0.1 huhu.jzm81.com
@@ -444,4 +448,3 @@
 127.0.0.1 tt.zrpfk.com
 127.0.0.1 ts.xitao3.com
 127.0.0.1 pv.fq9r.com
-

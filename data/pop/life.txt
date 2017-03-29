@@ -8,6 +8,8 @@
 127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 imgcdn.mazaibang.com
+#m.souid.com
+127.0.0.1 vi1.souid.com
 #m.v4.cc
 127.0.0.1 db1.fuz.cc
 127.0.0.1 db2.fuz.cc
@@ -32,5 +34,21 @@
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
+#www.xchssm.com
+127.0.0.1 js4775.tiangu99.com
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 e.dzairen.com
+127.0.0.1 g.chinapxg.com
+127.0.0.1 img.xinjunshi.com
+127.0.0.1 js4775.hongtaidichan.net
+127.0.0.1 k.zrwhcy.com
+127.0.0.1 p.chinapxg.com
+127.0.0.1 www.86kx.com
+127.0.0.1 a.stka8.com
+127.0.0.1 a.wlmnt.com
+127.0.0.1 rc.376zf.com
 #www.txahz.com
 127.0.0.1 1.chcx.cn
+#xilu.com
+127.0.0.1 newspage.xilu.com

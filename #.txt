@@ -1,4 +1,32 @@
-﻿App:动漫之家
+﻿http://adserve2.tom.com/adp/js/20561--ad.js
+jj.jxnews.com.cn/adv/2016/wn20540.gif
+http://jxyc.jxnews.com.cn/ds_text_top_ad.js
+<script src="http://realcalc.jxnews.com.cn/real_calc_w/rcw?agentStr=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;referer=http%253A//www.jxnews.com.cn/&amp;isWx=false&amp;url=http%253A//px.jxnews.com.cn/system/2017/03/29/015933472.shtml&amp;javaEnabled=false&amp;screenRes=1280*686&amp;cookieEnabled=true&amp;platform=Win32&amp;uid=1490787946773_2480715317&amp;accessType=new"></script>
+http://common.jxnews.com.cn/2011/a_text_adv.js
+http://common.jxnews.com.cn/2012/ad_right_a.js
+http://common.jxnews.com.cn/2012/con_ad_title.js
+http://common.jxnews.com.cn/2012/con_ad_bottom.js
+http://www.jxnews.com.cn/first/js/jx/jx_ad_top.js
+http://common.jxnews.com.cn/2011/lt_text_adv.js
+
+ value=\"http://common.jxnews.com.cn/2011/shydxx_270-140.swf\">');
+document.write ('      <param name=\"quality\" value=\"high\">');
+document.write ('      <param name=\"wmode\" value=\"transparent\">');
+document.write ('      <embed src=\"http://common.jxnews.com.cn/2011/shydxx_270-140.swf\" width=\"270\" height=\"150\" vspace=\"3\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\"></embed>');
+document.write ('</object> -->');
+
+document.write ('<!-- <object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" width=\"270\" height=\"110\" vspace=\"3\">');
+document.write ('      <param name=\"movie\" value=\"http://common.jxnews.com.cn/2011/pryk_adv_270110.swf\">');
+document.write ('      <param name=\"quality\" value=\"high\">');
+document.write ('      <param name=\"wmode\" value=\"transparent\">');
+document.write ('      <embed src=\"http://common.jxnews.com.cn/2011/pryk_adv_270110.swf
+
+http://common.jxnews.com.cn/2011/*.swf
+啊起：
+禁用qq字体气泡
+i.gtimg.cn/club/item/parcel/scupdate/5/font.main.android.10050/8eaa5ac4dd3641ba9a9c21565cfeabed.zip.zip
+用文件夹会出现流量异常用域名不会
+App:动漫之家
 广告 ad.bayescom.com
 今日头条的广告：
 */ad/*
