@@ -250,7 +250,6 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
-127.0.0.1 log.voicecloud.cn
 #youmi
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net

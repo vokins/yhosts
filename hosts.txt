@@ -687,7 +687,6 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
-127.0.0.1 log.voicecloud.cn
 #youmi
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
@@ -2001,7 +2000,6 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-#www.tiqiaa.com
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
