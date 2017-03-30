@@ -2002,7 +2002,6 @@
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
 #www.tiqiaa.com
-127.0.0.1 irdna.izazamall.com
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
@@ -3961,7 +3960,6 @@
 #google-adservices
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
-127.0.0.1 www.gstatic.cn
 #google-others
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net

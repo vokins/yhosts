@@ -1012,4 +1012,3 @@
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
 #www.tiqiaa.com
-127.0.0.1 irdna.izazamall.com

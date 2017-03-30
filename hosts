@@ -1,5 +1,5 @@
 
-#version=201703292058
+#version=20170330 938
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1627,7 +1627,6 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
-127.0.0.1 irdna.izazamall.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 ba.cdyqc.com
@@ -3350,7 +3349,6 @@
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
-127.0.0.1 www.gstatic.cn
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com

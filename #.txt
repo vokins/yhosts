@@ -1,4 +1,5 @@
-﻿http://adserve2.tom.com/adp/js/20561--ad.js
+﻿127.0.0.1 www.gstatic.cn #谷歌翻译，分享图标误杀
+http://adserve2.tom.com/adp/js/20561--ad.js
 jj.jxnews.com.cn/adv/2016/wn20540.gif
 http://jxyc.jxnews.com.cn/ds_text_top_ad.js
 <script src="http://realcalc.jxnews.com.cn/real_calc_w/rcw?agentStr=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&amp;referer=http%253A//www.jxnews.com.cn/&amp;isWx=false&amp;url=http%253A//px.jxnews.com.cn/system/2017/03/29/015933472.shtml&amp;javaEnabled=false&amp;screenRes=1280*686&amp;cookieEnabled=true&amp;platform=Win32&amp;uid=1490787946773_2480715317&amp;accessType=new"></script>
