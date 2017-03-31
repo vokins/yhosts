@@ -40,14 +40,10 @@ http://m.xs177.com/js/dibu.js
 http://m.xs222.com/js/common.js
 http://s.dzz8.com/public/ptcms/s_wap_novelsearch_index_index.js
 http://s.faloo.com/ou/site/ou4site12.js
-http://s.faloo.com/wap/js/2014/BookEx.js
-http://s.faloo.com/wap/js/JCommon.js
-http://s.faloo.com/wap/js/page2013.js
 http://s.faloo.com/wap/js/piaofu2016.js
 http://ss.shubao520.com:8087/fc-2916-5.js
 http://static1.2436.cn/ad1/afoot.js
 http://t.shuotxts.com/js/tj.js
 http://wap.xxbiquge.com/js/common.js
 http://www.00sy.com/Skin/Default/js/funcs.js
-http://www.shuaigay.top/forum.php?mobile=1
 http://www.tianyucangqiong1.com/static/js/up.js

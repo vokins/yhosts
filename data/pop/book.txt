@@ -91,6 +91,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.meizhi999.com
+127.0.0.1 e.meizhi999.com
 127.0.0.1 e.hnctsm.com
 127.0.0.1 m.hnctsm.com
 127.0.0.1 m.aishiguolong.com
@@ -221,6 +223,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 js.qdcode.com
 127.0.0.1 e.huashengtai.net
 127.0.0.1 m.huashengtai.net
 127.0.0.1 u.luxinkm.com
@@ -274,6 +277,14 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+#m.shenmabook.com
+127.0.0.1 m.cnzzlink.com
+127.0.0.1 e.51jumintong.com
+127.0.0.1 m.51jumintong.com
+127.0.0.1 www.qdlansehaiwan.com
+127.0.0.1 eyjs.39xc.net
+127.0.0.1 w.hbalx.cn
+127.0.0.1 e.jxxiangchu.com
 #m.shenmaxiaoshuo.com
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 rc.123juhd.com
@@ -377,6 +388,10 @@
 127.0.0.1 www.day66.com
 #www.d8qu.com
 127.0.0.1 drc.d8qu.com
+127.0.0.1 drcc.d8qu.com
+127.0.0.1 y.dali517.com
+127.0.0.1 m.kmwqxqh.com
+127.0.0.1 s.jxbjt.com
 127.0.0.1 in.hxadt.com
 127.0.0.1 s.hxadt.com
 127.0.0.1 img2.trxxn.com

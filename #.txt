@@ -1,4 +1,33 @@
-﻿127.0.0.1 www.gstatic.cn #谷歌翻译，分享图标误杀
+﻿http://s.faloo.com/ad/ad891.htm
+http://s.faloo.com/ad/test3.htm
+http://s.faloo.com/ad/other/640x150.htm
+http://s.faloo.com/ad/other/sogou320_50_2.htm
+aid:"mm_109136917_13540487_61710371",
+serverbaseurl:"afpeng.alimama.com/",
+}
+</script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/w.js"></script> 
+</body></html>
+
+view-source:http://s.faloo.com/ad/ad_piaofu.htm
+Url = "http://s.faloo.com/adimages/2013-3-7-1.swf";
+http://s.faloo.com/ad/fumeiti.htm
+var Url = "";
+var ran= parseInt(5* Math.random());
+Url = "http://s.faloo.com/adimages/fumeiti0001.swf";
+if(ran == 1)
+   Url = "http://s.faloo.com/adimages/fumeiti0004.swf";
+else if(ran == 2)
+   Url = "http://s.faloo.com/adimages/fumeiti0002.swf";
+else if(ran == 3)
+   Url = "http://s.faloo.com/adimages/fumeiti0005.swf";
+else if(ran == 4)
+   Url = "http://s.faloo.com/adimages/fumeiti0006.swf";
+</script>
+
+
+127.0.0.1 www.gstatic.cn #谷歌翻译，分享图标误杀
+
 http://adserve2.tom.com/adp/js/20561--ad.js
 jj.jxnews.com.cn/adv/2016/wn20540.gif
 http://jxyc.jxnews.com.cn/ds_text_top_ad.js
