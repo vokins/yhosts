@@ -1,5 +1,5 @@
 
-#version=201703302109
+#version=201703311536
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -188,6 +188,8 @@
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
 127.0.0.1 ccb.uncle-ad.com
+127.0.0.1 inapp.1sapp.com
+127.0.0.1 afp0bsl.iecgroup.com.cn
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -1625,7 +1627,6 @@
 127.0.0.1 123.click.kakamobi.cn
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.kakamobi.cn
-127.0.0.1 smart.789.image.mucang.cn
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 ba.cdyqc.com

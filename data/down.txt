@@ -132,3 +132,5 @@
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
 127.0.0.1 ccb.uncle-ad.com
+127.0.0.1 inapp.1sapp.com
+127.0.0.1 afp0bsl.iecgroup.com.cn
