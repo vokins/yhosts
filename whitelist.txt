@@ -1,4 +1,4 @@
-﻿
+﻿http://issuecdn.baidupcs.com/issue/netdisk/MACguanjia/BaiduNetdisk_mac_2.1.0.dmg
 127.0.0.1 s.faloo.com
 127.0.0.1 static1.2436.cn
 127.0.0.1 t.shuotxts.com

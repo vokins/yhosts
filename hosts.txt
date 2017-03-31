@@ -233,6 +233,7 @@
 127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 afp0bsl.iecgroup.com.cn
+127.0.0.1 mmm.jshjtg.cn
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
@@ -2520,15 +2521,18 @@
 127.0.0.1 pv.fq9r.com
 @site/bt
 #bt.orzx.im
+127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 js470.doupuer.com
+127.0.0.1 s3.idaguang.com
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
 127.0.0.1 m.xc0429.com
 127.0.0.1 t1.xc0429.com
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
-127.0.0.1 njs.hcm94alliance.com
 #btbtdy.com
 127.0.0.1 cz2.rhgyg.com
+127.0.0.1 js6876.tongqing2015.com
 127.0.0.1 jsecdn123.86666608.com
 127.0.0.1 js3610.51weidashi.com
 127.0.0.1 qjfcdn1220.0101122.com
@@ -2558,6 +2562,10 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 cacaca.sp96878.com
+127.0.0.1 ew16d.package12.com
+127.0.0.1 b99u.top
+127.0.0.1 js.wu65.com
 127.0.0.1 js3555.wmhlch.com
 127.0.0.1 code.3shangyou.com
 127.0.0.1 t.fujianryt.com
@@ -2583,7 +2591,6 @@
 127.0.0.1 cp.ggyapp.com
 127.0.0.1 js.zgyemy.com
 127.0.0.1 code.guomob.com
-127.0.0.1 b99u.top
 127.0.0.1 s.glasszz.com
 127.0.0.1 js883.yzh360.com
 127.0.0.1 js883.yongkang6.com
@@ -2623,9 +2630,11 @@
 127.0.0.1 js.wka8.com
 127.0.0.1 static-one.ffwap.com
 #btkitty.bid/btlibrary.net/storebt.com
+127.0.0.1 hd.ylddq.com
+127.0.0.1 b.175bar.com
+127.0.0.1 www.pasco.cc
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 imges.wu65.com
-127.0.0.1 js.wu65.com
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 h.ju33.com
@@ -2681,6 +2690,7 @@
 127.0.0.1 xk.xk2012.com
 127.0.0.1 yoo.yiiyoo.net
 #diggbt.net
+127.0.0.1 pgm.yide69.com
 127.0.0.1 bb.jw90.com
 127.0.0.1 down.gotek.com.cn
 127.0.0.1 ghavcb.520jr.com
@@ -2699,6 +2709,11 @@
 127.0.0.1 hv.code.tanwanyx.com
 127.0.0.1 s1.keytui.com
 #henbt.com
+127.0.0.1 js1151.zhudiaosz.com
+127.0.0.1 vip.id528.com
+127.0.0.1 1495039.com
+127.0.0.1 gg.amblrgg.live
+127.0.0.1 www.gugeys.com
 127.0.0.1 t8.dnvus.com
 127.0.0.1 js1151.yongkang6.com
 127.0.0.1 qj906nc.cdn.media8.cn
@@ -2837,7 +2852,6 @@
 #pianyuan.net
 127.0.0.1 alm1.tongyuanhejishu.com
 127.0.0.1 go1.justsoftware.cn
-127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3743.tongqing2015.com
 127.0.0.1 js4273.zhudiaosz.com
@@ -2852,8 +2866,10 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
 #www.btmango.com
-127.0.0.1 www.soua.com
+127.0.0.1 js658.tongqing2015.com
+127.0.0.1 ttts.miyue17.com
 127.0.0.1 h5.taihao.cc
+127.0.0.1 www.soua.com
 127.0.0.1 j.sc1369.com
 127.0.0.1 js658.51weidashi.com
 127.0.0.1 js658.njqunyi.com
@@ -2867,11 +2883,14 @@
 127.0.0.1 img2.hrccb.com
 #www.cilijidi.com
 127.0.0.1 js1597.51weidashi.com
+127.0.0.1 js1597.tongqing2015.com
+127.0.0.1 js1597.txjzjx.cn
 #www.dytt.net
+127.0.0.1 wenku.baidu.com.mjjdfl.com
+127.0.0.1 c8.wangdq.com
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
-127.0.0.1 vip.id528.com
 127.0.0.1 huoying666.com
 127.0.0.1 s2.huoying666.com
 127.0.0.1 u.huoying666.com

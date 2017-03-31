@@ -47,3 +47,6 @@ http://t.shuotxts.com/js/tj.js
 http://wap.xxbiquge.com/js/common.js
 http://www.00sy.com/Skin/Default/js/funcs.js
 http://www.tianyucangqiong1.com/static/js/up.js
+http://www.btbtdy.com/js/go/s29778
+http://icili.org/js/my-index.js
+http://www.btmango.com/templates/0111/style/indexgg.js

@@ -1,4 +1,5 @@
 download.macromedia.com
+fpdownload.macromedia.com
 image.5442.com
 img.alicdn.com
 itunes.apple.com
