@@ -1479,6 +1479,36 @@
 127.0.0.1 adpubs.yaolan.com
 127.0.0.1 ylads.yaolan.com
 127.0.0.1 a.codevm.com
+@app/home
+#1fangchan.com
+127.0.0.1 adhome.1fangchan.com
+#58.com
+127.0.0.1 adshow.58.com
+127.0.0.1 brandshow.58.com
+127.0.0.1 jing.58.com
+127.0.0.1 track.58.com
+127.0.0.1 58.xgo.com.cn
+127.0.0.1 imp.xgo.com.cn
+127.0.0.1 stat.xgo.com.cn
+#fang.com
+127.0.0.1 click1n.soufun.com
+127.0.0.1 clickm.fang.com
+127.0.0.1 clickn.fang.com
+127.0.0.1 countpvn.light.fang.com
+127.0.0.1 countubn.light.soufun.com
+127.0.0.1 mshow.fang.com
+127.0.0.1 tongji.home.soufun.com
+#ganji.com
+127.0.0.1 ad.ganji.com
+127.0.0.1 analytics.ganji.com
+127.0.0.1 click.ganji.com
+127.0.0.1 ganjituiguang.ganji.com
+127.0.0.1 sta.ganji.com
+127.0.0.1 tralog.ganji.com
+#house365.com
+127.0.0.1 ad.house365.com
+127.0.0.1 adadmin.house365.com
+127.0.0.1 ads.house365.com
 @app/media
 #1905.com
 127.0.0.1 afp.m1905.com
@@ -2000,11 +2030,12 @@
 #www.jiakaobaodian.com
 127.0.0.1 123.click.kakamobi.cn
 127.0.0.1 789.kakamobi.cn
-127.0.0.1 smart.789.kakamobi.cn
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 tan.idcqi.com
+127.0.0.1 m.jsqinvest.com
 127.0.0.1 ba.cdyqc.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 wan.yigyx.com
@@ -2021,6 +2052,7 @@
 127.0.0.1 m.syofew6o.net
 127.0.0.1 mm.hlipqiuo.net
 #m.250sy.net
+127.0.0.1 m.cmslayue.com
 127.0.0.1 m.sigbusa.com
 127.0.0.1 m.uzpmrbek.com
 127.0.0.1 s.xhsxgmt.cn
@@ -2145,7 +2177,12 @@
 127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
+#m.chenhuiwx.org
+127.0.0.1 w.chnup.cn
+127.0.0.1 p.fqjsjj.com
+127.0.0.1 z65.zzhyyj.com
 #m.chenhuixs.net
+127.0.0.1 www.poctd.com
 127.0.0.1 j7182.hfxcsl.cn
 127.0.0.1 js.1maode.com
 127.0.0.1 js.pxblmj.com
@@ -2287,6 +2324,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 dm.fsyzcs.com
 127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
 127.0.0.1 s.qzkxt.com
@@ -2345,7 +2383,10 @@
 127.0.0.1 www.number1cp.cn
 127.0.0.1 mememe.dlsjyj.com
 #m.xs222.com
+127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 sztyywk.m.xs222.com
+#s.dzz8.com
+127.0.0.1 e.cnzzlink.com
 #wap.faloo.com
 127.0.0.1 s.faloo.com
 #wap.xxbiquge.com
@@ -2949,6 +2990,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 www.whcrdz.com
 127.0.0.1 qu.geryi.com
 127.0.0.1 wan.8mfty.com
 127.0.0.1 rc.mgwcn.com
@@ -3210,6 +3252,7 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.semmdh.net
+127.0.0.1 www.semmdh.info
 127.0.0.1 app.ibaiducdn.com
 127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
@@ -3232,36 +3275,6 @@
 127.0.0.1 www.888zr022.com
 127.0.0.1 xj40666.vip
 127.0.0.1 js4163.yongkang6.com
-@site/home
-#1fangchan.com
-127.0.0.1 adhome.1fangchan.com
-#58.com
-127.0.0.1 adshow.58.com
-127.0.0.1 brandshow.58.com
-127.0.0.1 jing.58.com
-127.0.0.1 track.58.com
-127.0.0.1 58.xgo.com.cn
-127.0.0.1 imp.xgo.com.cn
-127.0.0.1 stat.xgo.com.cn
-#fang.com
-127.0.0.1 click1n.soufun.com
-127.0.0.1 clickm.fang.com
-127.0.0.1 clickn.fang.com
-127.0.0.1 countpvn.light.fang.com
-127.0.0.1 countubn.light.soufun.com
-127.0.0.1 mshow.fang.com
-127.0.0.1 tongji.home.soufun.com
-#ganji.com
-127.0.0.1 ad.ganji.com
-127.0.0.1 analytics.ganji.com
-127.0.0.1 click.ganji.com
-127.0.0.1 ganjituiguang.ganji.com
-127.0.0.1 sta.ganji.com
-127.0.0.1 tralog.ganji.com
-#house365.com
-127.0.0.1 ad.house365.com
-127.0.0.1 adadmin.house365.com
-127.0.0.1 ads.house365.com
 @site/it
 #4hw.com.cn
 127.0.0.1 images2.4hw.com.cn

@@ -66,6 +66,7 @@
 127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.semmdh.net
+127.0.0.1 www.semmdh.info
 127.0.0.1 app.ibaiducdn.com
 127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
