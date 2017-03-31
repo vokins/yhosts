@@ -1,5 +1,5 @@
 
-#version=201703312218
+#version=201703312234
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1762,6 +1762,7 @@
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 dt.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 in.jxbjt.com
 127.0.0.1 uu.85655095.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -1796,6 +1797,7 @@
 127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
+127.0.0.1 www.tixing51.net
 127.0.0.1 w.chnup.cn
 127.0.0.1 ju.fqjsjj.com
 127.0.0.1 p.fqjsjj.com
@@ -1835,7 +1837,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 127.0.0.1 tyu.m.dingdianzw.com
-127.0.0.1 sj2.sscefsol.com.cn 
+127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
@@ -1910,6 +1912,7 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
 127.0.0.1 e.51jumintong.com
 127.0.0.1 m.51jumintong.com
@@ -2016,7 +2019,6 @@
 127.0.0.1 vip.9wjc.com
 127.0.0.1 s.polkoi.com
 127.0.0.1 wwwimg.86sjx.com
-127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 qb.xindream.cn
 127.0.0.1 jiu.njdkgm.com
 127.0.0.1 tf.caohua.com
@@ -2650,7 +2652,6 @@
 127.0.0.1 www.a0b11.com
 127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
-127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
 127.0.0.1 js3810.zhudiaosz.com
 127.0.0.1 js3810.yongkang6.com
@@ -3301,7 +3302,6 @@
 127.0.0.1 mob.huimee.net
 127.0.0.1 q.0451106.com
 127.0.0.1 yess.imneinei.com
-
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 info.gomlab.com
 127.0.0.1 playinfo.gomlab.com

@@ -137,7 +137,6 @@
 127.0.0.1 www.a0b11.com
 127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
-127.0.0.1 www.esptj.com
 #vip.ihuan.me
 127.0.0.1 js3810.yzh360.com
 127.0.0.1 js3810.zhudiaosz.com

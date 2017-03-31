@@ -118,6 +118,7 @@
 #m.bookben.com
 127.0.0.1 dt.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 in.jxbjt.com
 127.0.0.1 uu.85655095.com
 127.0.0.1 fx.worldqueen.org.cn
 127.0.0.1 s.msltzer.cn
@@ -155,6 +156,7 @@
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 #m.chenhuiwx.org
+127.0.0.1 www.tixing51.net
 127.0.0.1 w.chnup.cn
 127.0.0.1 ju.fqjsjj.com
 127.0.0.1 p.fqjsjj.com
@@ -197,7 +199,7 @@
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
 127.0.0.1 tyu.m.dingdianzw.com
-127.0.0.1 sj2.sscefsol.com.cn 
+127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 p4.95558000.com
@@ -278,6 +280,7 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.shenmabook.com
+127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
 127.0.0.1 e.51jumintong.com
 127.0.0.1 m.51jumintong.com
@@ -401,7 +404,6 @@
 127.0.0.1 s.polkoi.com
 127.0.0.1 wwwimg.86sjx.com
 #www.danmei123.cc
-127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 qb.xindream.cn
 127.0.0.1 jiu.njdkgm.com
 127.0.0.1 tf.caohua.com

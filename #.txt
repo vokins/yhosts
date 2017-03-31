@@ -1,4 +1,12 @@
-﻿http://s.faloo.com/ad/ad891.htm
+﻿替换执行步骤
+script src="http:// 为 \n127.0.0.1 
+script src="https:// 为 \n127.0.0.1 
+http:// 为 \n127.0.0.1 
+https:// 为 \n127.0.0.1 
+" 为 \n
+/ 为 \n	
+
+http://s.faloo.com/ad/ad891.htm
 http://s.faloo.com/ad/test3.htm
 http://s.faloo.com/ad/other/640x150.htm
 http://s.faloo.com/ad/other/sogou320_50_2.htm
