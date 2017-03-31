@@ -1,4 +1,4 @@
-ver=下午8:56 2017/3/29/周三
+ver=下午9:11 2017/3/31
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -44,7 +44,7 @@ goto :eof
 @cd..
 @SET win=%cd%\win
 @cd %CURRENTDIR%
-"%win%\sed.exe" -i "$d" site.txt
+rem "%win%\sed.exe" -i "$d" site.txt
 set files=direct.txt active.txt down.txt error.txt hijack.txt mob.txt app.txt site.txt pop.txt soft.txt union.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
 set files=direct.txt active.txt down.txt error.txt hijack.txt mob.txt app.txt site.txt pop.txt soft.txt union.txt tvbox.txt xunlei.txt

@@ -2026,6 +2026,14 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+@app/tools
+#www.jiakaobaodian.com
+127.0.0.1 123.click.kakamobi.cn
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
+127.0.0.1 smart.789.kakamobi.cn
+#www.tiqiaa.com
+127.0.0.1 irdna.izazamall.com
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
@@ -3858,6 +3866,7 @@
 127.0.0.1 mob.huimee.net
 127.0.0.1 q.0451106.com
 127.0.0.1 yess.imneinei.com
+
 @soft
 #bitcomet.com
 127.0.0.1 inside.bitcomet.com
@@ -4119,7 +4128,6 @@
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
-127.0.0.1 mimg.126.net
 127.0.0.1 news.push.126.net
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net

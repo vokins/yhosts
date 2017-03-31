@@ -8,8 +8,11 @@ m.5442.com
 m.bookben.com
 m.iask.sina.com.cn
 m.kankanwu.com
+s.faloo.com
 shang.qq.com
+static1.2436.cn
 t.cn
+t.shuotxts.com
 ww1.sinaimg.cn
 ww2.sinaimg.cn
 ww3.sinaimg.cn

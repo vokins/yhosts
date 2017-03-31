@@ -1,4 +1,10 @@
-﻿127.0.0.1 usr.mb.hd.sohu.com sohu tv 登录
+﻿
+127.0.0.1 s.faloo.com
+127.0.0.1 static1.2436.cn
+127.0.0.1 t.shuotxts.com
+http://mimg.126.net/logo/163logo.gif
+http://mimg.126.net/xm/all/fj/ico-bfile-6.gif
+127.0.0.1 usr.mb.hd.sohu.com sohu tv 登录
 127.0.0.1 log.voicecloud.cn
 127.0.0.1 www.gstatic.cn #谷歌翻译，分享图标误杀
 127.0.0.1 apkpure.disqus.com 这个是 Disqus 的评论

@@ -1035,3 +1035,11 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+@app/tools
+#www.jiakaobaodian.com
+127.0.0.1 123.click.kakamobi.cn
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
+127.0.0.1 smart.789.kakamobi.cn
+#www.tiqiaa.com
+127.0.0.1 irdna.izazamall.com
