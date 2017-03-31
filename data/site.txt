@@ -1036,6 +1036,3 @@
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
 @app/tools
-#www.jiakaobaodian.com
-127.0.0.1 123.click.kakamobi.cn
-127.0.0.1 789.kakamobi.cn
