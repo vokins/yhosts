@@ -57,3 +57,4 @@ http://m.kkkkba.com/js/fumeiti.js
 http://m.piaov.com/js/barner.js
 http://m.piaov.com/js/html.js
 http://m.piaov.com/js/tj.js
+http://www.smdy66.com/js/ggb.js

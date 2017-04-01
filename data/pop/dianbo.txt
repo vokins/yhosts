@@ -182,6 +182,8 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 v1.0594529.com
+127.0.0.1 m4r328.qzxsls.com
 127.0.0.1 d1.showself.com
 127.0.0.1 dn.5269120.com
 127.0.0.1 down.mppay.net
@@ -189,8 +191,6 @@
 127.0.0.1 m1.youku168.com
 127.0.0.1 vip.zhineng6.com
 127.0.0.1 www.xjidian.com
-127.0.0.1 m4r328.qzxsls.com
-127.0.0.1 v1.0594529.com
 127.0.0.1 e.51geqiang.net
 127.0.0.1 e.hugae.net
 127.0.0.1 e.mansorychina.net
