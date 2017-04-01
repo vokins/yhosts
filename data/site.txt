@@ -585,6 +585,7 @@
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
 #kankan.com
+127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 a.hpg.cn.miaozhen.com
 127.0.0.1 e.hpg.cn.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
@@ -637,6 +638,7 @@
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 pv.cnzz.twh5.com
 127.0.0.1 img.momocdn.com
 127.0.0.1 www.155.com
 127.0.0.1 cnt.ppmoney.com
