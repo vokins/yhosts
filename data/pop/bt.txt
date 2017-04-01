@@ -2,6 +2,12 @@
 #bt.orzx.im
 127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 js470.doupuer.com
+127.0.0.1 s6.idaguang.com
+127.0.0.1 js89.lytubaobao.com
+127.0.0.1 js3555.wmhlch.com
+127.0.0.1 t.jiaoyibaozg.com
+127.0.0.1 t.xiangyuyishu.com
+127.0.0.1 wejs.zzhengre.com
 127.0.0.1 s3.idaguang.com
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
@@ -45,7 +51,6 @@
 127.0.0.1 ew16d.package12.com
 127.0.0.1 b99u.top
 127.0.0.1 js.wu65.com
-127.0.0.1 js3555.wmhlch.com
 127.0.0.1 code.3shangyou.com
 127.0.0.1 t.fujianryt.com
 127.0.0.1 www.nmpcdn.com

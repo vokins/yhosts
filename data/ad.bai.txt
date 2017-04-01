@@ -26,3 +26,4 @@ www.uuxs.net
 www.w3.org
 wx4.sinaimg.cn
 zhannei.baidu.com
+static.duoshuo.com

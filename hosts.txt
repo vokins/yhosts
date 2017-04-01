@@ -2037,6 +2037,11 @@
 127.0.0.1 smart.789.kakamobi.cn
 #www.tiqiaa.com
 127.0.0.1 irdna.izazamall.com
+@web/foregin
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
@@ -2527,6 +2532,12 @@
 #bt.orzx.im
 127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 js470.doupuer.com
+127.0.0.1 s6.idaguang.com
+127.0.0.1 js89.lytubaobao.com
+127.0.0.1 js3555.wmhlch.com
+127.0.0.1 t.jiaoyibaozg.com
+127.0.0.1 t.xiangyuyishu.com
+127.0.0.1 wejs.zzhengre.com
 127.0.0.1 s3.idaguang.com
 127.0.0.1 c.code222.com
 127.0.0.1 img.xinzhongwo.com.cn
@@ -2570,7 +2581,6 @@
 127.0.0.1 ew16d.package12.com
 127.0.0.1 b99u.top
 127.0.0.1 js.wu65.com
-127.0.0.1 js3555.wmhlch.com
 127.0.0.1 code.3shangyou.com
 127.0.0.1 t.fujianryt.com
 127.0.0.1 www.nmpcdn.com
@@ -3025,6 +3035,9 @@
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 uimg.27admin.com
 127.0.0.1 ujs.jialiren.net
+127.0.0.1 www.cuijianguo.com
+127.0.0.1 e.bdoj.pw
+127.0.0.1 video.cvdvsc.cn
 #m.dytts.cc
 127.0.0.1 dl.nx5.com
 127.0.0.1 www.ychbgjg.cn
@@ -3072,6 +3085,7 @@
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 #m.kkkkba.com
+127.0.0.1 w.yunluge.com
 127.0.0.1 js.wjnpxk.com
 127.0.0.1 j.bjlanjin.com
 127.0.0.1 m.966886.org
@@ -3169,6 +3183,15 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 d1.showself.com
+127.0.0.1 dn.5269120.com
+127.0.0.1 down.mppay.net
+127.0.0.1 global.ymtracking.com
+127.0.0.1 m1.youku168.com
+127.0.0.1 vip.zhineng6.com
+127.0.0.1 www.xjidian.com
+127.0.0.1 m4r328.qzxsls.com
+127.0.0.1 v1.0594529.com
 127.0.0.1 e.51geqiang.net
 127.0.0.1 e.hugae.net
 127.0.0.1 e.mansorychina.net
@@ -3176,7 +3199,6 @@
 127.0.0.1 m.mansorychina.net
 127.0.0.1 h.jxhdzs365.com
 127.0.0.1 m.jheva.com
-127.0.0.1 w.yunluge.com
 127.0.0.1 weixinssp.14684.com
 127.0.0.1 c1.yunluge.com
 127.0.0.1 c.jheva.com
