@@ -895,6 +895,7 @@
 #miui-sec
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.sec.miui.com
+127.0.0.1 info.sec.miui.com
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
@@ -2046,6 +2047,7 @@
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 lan.acwgf.com
 127.0.0.1 swappdl.duoyi.com
 127.0.0.1 sube.puwangkj.com
 127.0.0.1 m.jsqinvest.com
@@ -2270,6 +2272,8 @@
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
 127.0.0.1 js.qdcode.com
+127.0.0.1 e.qdchunyu.com
+127.0.0.1 m.qdchunyu.com
 127.0.0.1 e.huashengtai.net
 127.0.0.1 m.huashengtai.net
 127.0.0.1 u.luxinkm.com
@@ -2436,6 +2440,8 @@
 #www.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
+127.0.0.1 kdv.d8qu.com
+127.0.0.1 www.xbzzzx.com
 127.0.0.1 y.dali517.com
 127.0.0.1 m.kmwqxqh.com
 127.0.0.1 s.jxbjt.com

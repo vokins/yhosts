@@ -455,6 +455,7 @@
 #miui-sec
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.sec.miui.com
+127.0.0.1 info.sec.miui.com
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
