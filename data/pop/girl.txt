@@ -40,6 +40,10 @@
 127.0.0.1 js.lpshl.com
 #m.mnt123.com
 127.0.0.1 ad.mnt123.com
+#m.mo53.com
+127.0.0.1 i.51chengde.com
+127.0.0.1 t.faxinad.com
+127.0.0.1 a.198banjia.com
 #m.zngirls.com
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com

@@ -1,5 +1,5 @@
 
-#version=201704012259
+#version=20170402 910
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2854,6 +2854,9 @@
 127.0.0.1 ssplog.geekwide.cn
 127.0.0.1 js.lpshl.com
 127.0.0.1 ad.mnt123.com
+127.0.0.1 i.51chengde.com
+127.0.0.1 t.faxinad.com
+127.0.0.1 a.198banjia.com
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 ppco.trwba.com
