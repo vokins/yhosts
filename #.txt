@@ -1,4 +1,8 @@
-﻿替换执行步骤
+﻿小米日历频道订阅但是可以去广告
+#miui-calendar
+127.0.0.1 api.comm.miui.com
+
+替换执行步骤
 script src="http:// 为 \n127.0.0.1 
 script src="https:// 为 \n127.0.0.1 
 http:// 为 \n127.0.0.1 
