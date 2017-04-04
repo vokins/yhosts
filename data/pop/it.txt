@@ -72,6 +72,8 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+#m.leiphone.com
+127.0.0.1 ad.xxguan.cn
 #wap.ithome.com
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com

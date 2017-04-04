@@ -47,6 +47,8 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 js883.tongqing2015.com
+127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 ew16d.package12.com
 127.0.0.1 b99u.top
