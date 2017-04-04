@@ -2137,6 +2137,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.shanghetrade.com
+127.0.0.1 e.shanghetrade.com
 127.0.0.1 m.meizhi999.com
 127.0.0.1 e.meizhi999.com
 127.0.0.1 e.hnctsm.com
@@ -2271,6 +2273,8 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 ee.shanghetrade.com
+127.0.0.1 mm.shanghetrade.com
 127.0.0.1 js.qdcode.com
 127.0.0.1 e.qdchunyu.com
 127.0.0.1 m.qdchunyu.com
@@ -2328,6 +2332,7 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.shenmabook.com
+127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
 127.0.0.1 e.51jumintong.com
@@ -2361,6 +2366,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
@@ -3106,6 +3112,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com

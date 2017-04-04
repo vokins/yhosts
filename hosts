@@ -1,5 +1,5 @@
 
-#version=201704041308
+#version=201704041331
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1743,6 +1743,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.shanghetrade.com
+127.0.0.1 e.shanghetrade.com
 127.0.0.1 m.meizhi999.com
 127.0.0.1 e.meizhi999.com
 127.0.0.1 e.hnctsm.com
@@ -1866,6 +1868,8 @@
 127.0.0.1 link.yida558.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 ee.shanghetrade.com
+127.0.0.1 mm.shanghetrade.com
 127.0.0.1 js.qdcode.com
 127.0.0.1 e.qdchunyu.com
 127.0.0.1 m.qdchunyu.com
@@ -1920,6 +1924,7 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
 127.0.0.1 e.51jumintong.com
@@ -1948,6 +1953,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
@@ -2634,6 +2640,7 @@
 127.0.0.1 i.xyqsnc.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
+127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com

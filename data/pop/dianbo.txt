@@ -97,6 +97,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
