@@ -2049,6 +2049,7 @@
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 swappdl.duoyi.com
 127.0.0.1 sube.puwangkj.com
@@ -2423,6 +2424,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 #m.xs177.com
+127.0.0.1 w.1lib.cn
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn
 127.0.0.1 mememe.dlsjyj.com
@@ -2431,6 +2433,7 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 sztyywk.m.xs222.com
+127.0.0.1 m.runiman.com
 #s.dzz8.com
 127.0.0.1 e.cnzzlink.com
 #wap.xxbiquge.com
