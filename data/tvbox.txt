@@ -107,6 +107,7 @@
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 iqiyi.m.cn.miaozhen.com
+127.0.0.1 nl.rcd.iqiyi.com
 #iqiyi-gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
@@ -227,6 +228,8 @@
 127.0.0.1 sdk.user.gamex.mobile.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 c.l.youku.com
+127.0.0.1 notify.youku.com
 #youku-area
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
@@ -237,6 +240,7 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
+127.0.0.1 nbsdk-baichuan.alicdn.com
 #wasu.tv
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv

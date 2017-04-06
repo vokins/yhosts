@@ -1,5 +1,5 @@
 
-#version=201704061429
+#version=201704062048
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1133,6 +1133,8 @@
 127.0.0.1 zpe.klre.18183.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
+127.0.0.1 y.3957957.com
+127.0.0.1 img.88ads.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
 127.0.0.1 app.5211game.com
@@ -4734,6 +4736,7 @@
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 iqiyi.m.cn.miaozhen.com
+127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
@@ -4847,6 +4850,8 @@
 127.0.0.1 sdk.user.gamex.mobile.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 c.l.youku.com
+127.0.0.1 notify.youku.com
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
@@ -4856,6 +4861,7 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
+127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv

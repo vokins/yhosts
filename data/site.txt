@@ -405,6 +405,8 @@
 #265g.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
+127.0.0.1 y.3957957.com
+127.0.0.1 img.88ads.com
 #5173.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
