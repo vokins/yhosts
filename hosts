@@ -1,5 +1,5 @@
 
-#version=201704061127
+#version=201704061429
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1890,6 +1890,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
 127.0.0.1 wudi.xdbwc.com
