@@ -1,5 +1,5 @@
 
-#version=201704052319
+#version=201704061127
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2565,6 +2565,10 @@
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 js.lieqitianxia.cn
+127.0.0.1 cc.xaepgyy.com
+127.0.0.1 e.gythsg.com
+127.0.0.1 pic.tzgmy.com
+127.0.0.1 s.xdcqcyp.com
 127.0.0.1 vns800600.net
 127.0.0.1 www.yl850555.com
 127.0.0.1 www.8033bb.com

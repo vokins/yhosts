@@ -58,3 +58,5 @@ http://m.piaov.com/js/barner.js
 http://m.piaov.com/js/html.js
 http://m.piaov.com/js/tj.js
 http://www.smdy66.com/js/ggb.js
+http://www.bdzhe.com/csss/foot.js
+http://www.bdzhe.com/csss/banner.js

@@ -4,6 +4,11 @@
 127.0.0.1 ads2.contentabc.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
+#www.bdzhe.com
+127.0.0.1 cc.xaepgyy.com
+127.0.0.1 e.gythsg.com
+127.0.0.1 pic.tzgmy.com
+127.0.0.1 s.xdcqcyp.com
 #caoliuporn.info/aassd.com
 127.0.0.1 vns800600.net
 127.0.0.1 www.yl850555.com

@@ -11,9 +11,11 @@ m.iask.sina.com.cn
 m.kankanwu.com
 s.faloo.com
 shang.qq.com
+static.duoshuo.com
 static1.2436.cn
 t.cn
 t.shuotxts.com
+wap.faloo.com
 ww1.sinaimg.cn
 ww2.sinaimg.cn
 ww3.sinaimg.cn
@@ -22,9 +24,8 @@ www.00sy.com
 www.biqugeapp.com
 www.macromedia.com
 www.qq.com
+www.sina.com.cn
 www.uuxs.net
 www.w3.org
 wx4.sinaimg.cn
 zhannei.baidu.com
-static.duoshuo.com
-wap.faloo.com
