@@ -1707,8 +1707,8 @@
 127.0.0.1 ins.pplive.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
 127.0.0.1 ads.aplusapi.pptv.com
+127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 img1.g.pptv.com
@@ -1717,6 +1717,8 @@
 127.0.0.1 jp.as.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
+127.0.0.1 vas.aplus.pptv.com
+127.0.0.1 wafp.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
@@ -2040,8 +2042,6 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
 127.0.0.1 smart.789.kakamobi.cn
-#www.tiqiaa.com
-127.0.0.1 irdna.izazamall.com
 @web/foregin
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
@@ -2051,6 +2051,7 @@
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 yi.xmsqz.com
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 swappdl.duoyi.com
@@ -2251,6 +2252,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 jj.youzizhijia.cn
 127.0.0.1 tyu.m.dingdianzw.com
 127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 cgi.chenyigo.cn
@@ -2338,6 +2340,7 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.shenmabook.com
+127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
@@ -2436,6 +2439,7 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 sztyywk.m.xs222.com
+127.0.0.1 m.xul478.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
 127.0.0.1 e.cnzzlink.com
@@ -2536,6 +2540,7 @@
 127.0.0.1 img1.trxxn.com
 127.0.0.1 material.juejdkio.com
 #www.tianyucangqiong1.com
+127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
 127.0.0.1 id1.anreson.net
 127.0.0.1 js3987.yzh360.com
@@ -3126,6 +3131,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.yaohq.com
 127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -3212,6 +3218,7 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
 127.0.0.1 m4r328.qzxsls.com
 127.0.0.1 d1.showself.com
@@ -5287,28 +5294,29 @@
 127.0.0.1 bazinga.mse.sogou.com
 #sogou.
 127.0.0.1 brand.sogou.com
-127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
-127.0.0.1 ht.www.sogou.com
-127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 p.inte.sogou.com
+127.0.0.1 vps.inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
-127.0.0.1 iwan.sogou.com
 127.0.0.1 kthxd.lu.sogou.com
 127.0.0.1 m.lu.sogou.com
-127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
+127.0.0.1 vjoz.lu.sogou.com
+127.0.0.1 ztrpm.lu.sogou.com
+127.0.0.1 bsiet.husky.sogou.com
+127.0.0.1 feed.theta.sogou.com
+127.0.0.1 ht.www.sogou.com
+127.0.0.1 img.wan.sogou.com
+127.0.0.1 iwan.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 rjgw.theta.sogou.com
-127.0.0.1 vjoz.lu.sogou.com
-127.0.0.1 vps.inte.sogou.com
 127.0.0.1 wan.sogou.com
 127.0.0.1 wangmeng.sogou.com
-127.0.0.1 ztrpm.lu.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com

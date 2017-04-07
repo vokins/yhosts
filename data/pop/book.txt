@@ -2,6 +2,7 @@
 #m.1xiaoshuo.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 yi.xmsqz.com
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 swappdl.duoyi.com
@@ -202,6 +203,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 jj.youzizhijia.cn
 127.0.0.1 tyu.m.dingdianzw.com
 127.0.0.1 sj2.sscefsol.com.cn
 127.0.0.1 cgi.chenyigo.cn
@@ -289,6 +291,7 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.shenmabook.com
+127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
@@ -387,6 +390,7 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 sztyywk.m.xs222.com
+127.0.0.1 m.xul478.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
 127.0.0.1 e.cnzzlink.com
@@ -487,6 +491,7 @@
 127.0.0.1 img1.trxxn.com
 127.0.0.1 material.juejdkio.com
 #www.tianyucangqiong1.com
+127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
 127.0.0.1 id1.anreson.net
 127.0.0.1 js3987.yzh360.com

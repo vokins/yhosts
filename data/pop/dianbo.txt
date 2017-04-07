@@ -102,6 +102,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.yaohq.com
 127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
@@ -188,6 +189,7 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
 127.0.0.1 m4r328.qzxsls.com
 127.0.0.1 d1.showself.com

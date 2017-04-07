@@ -523,6 +523,7 @@
 61.91.161.217 accounts.google.com.gi
 61.91.161.217 accounts.google.co.nz
 61.91.161.217 id.google.co.nz
+61.91.161.217 googlecode.com
 61.91.161.217 www.googlecode.com
 61.91.161.217 fuchsia.googlesource.com
 61.91.161.217 googlesource.com
@@ -536,6 +537,7 @@
 61.91.161.217 gwt.googlesource.com
 61.91.161.217 code.google.com
 61.91.161.217 uploads.code.google.com
+61.91.161.217 android.googlecode.com
 61.91.161.217 chromium.googlecode.com
 61.91.161.217 closure-library.googlecode.com
 61.91.161.217 earth-api-samples.googlecode.com

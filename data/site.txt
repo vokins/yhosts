@@ -712,8 +712,8 @@
 127.0.0.1 ins.pplive.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
 127.0.0.1 ads.aplusapi.pptv.com
+127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 imagecache.g.pptv.com
 127.0.0.1 img1.g.pptv.com
@@ -722,6 +722,8 @@
 127.0.0.1 jp.as.pptv.com
 127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
+127.0.0.1 vas.aplus.pptv.com
+127.0.0.1 wafp.pptv.com
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
@@ -1045,5 +1047,3 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
 127.0.0.1 smart.789.kakamobi.cn
-#www.tiqiaa.com
-127.0.0.1 irdna.izazamall.com
