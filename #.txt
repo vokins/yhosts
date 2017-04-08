@@ -1,4 +1,5 @@
-﻿#辽宁联通HTTP劫持
+﻿zzz7.52896368.com/cpv/images/close.png
+#辽宁联通HTTP劫持
 127.0.0.1 pc.quansj.cn
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 pic.517m.cn

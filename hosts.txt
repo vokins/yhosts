@@ -3061,12 +3061,16 @@
 127.0.0.1 www.duocpa2.cn
 #m.76long.com
 127.0.0.1 c.gzsanxiaomingshi.cn
-127.0.0.1 slb.cybaoxian.com
-127.0.0.1 weldimg.pnaea.com
 127.0.0.1 cc.zhongtoufc.com
+127.0.0.1 qjvcdn328.86666608.com
 127.0.0.1 show.niqiu99.org
+127.0.0.1 slb.cybaoxian.com
 127.0.0.1 vv.jiedubang.cn
 127.0.0.1 wd.geilicdn.com
+127.0.0.1 weidian.com
+127.0.0.1 weldimg.pnaea.com
+127.0.0.1 www.shanruibie.cn
+127.0.0.1 zzz7.52896368.com
 #m.77kp.com
 127.0.0.1 js.72bss.com
 127.0.0.1 aa.cywl5.com
