@@ -1,5 +1,5 @@
 
-#version=201704081459
+#version=201704081506
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1752,6 +1752,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.chongdiguoji.com
+127.0.0.1 e.chongdiguoji.com
 127.0.0.1 m.shanghetrade.com
 127.0.0.1 e.shanghetrade.com
 127.0.0.1 m.meizhi999.com
@@ -1778,6 +1780,7 @@
 127.0.0.1 zhzywl.cc
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 dt.bookben.com
+127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
 127.0.0.1 in.jxbjt.com
 127.0.0.1 uu.85655095.com
@@ -1955,6 +1958,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 mm.yageben.com
 127.0.0.1 w.aidizi.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 n.yfi8.com
@@ -3129,6 +3133,7 @@
 127.0.0.1 rc.376zf.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 newspage.xilu.com
+127.0.0.1 c.k429fma.com
 127.0.0.1 url.222bz.com
 127.0.0.1 cf.37cs.com
 127.0.0.1 p.99mssj.com
@@ -3983,7 +3988,6 @@
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
-127.0.0.1 huodong.m.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com

@@ -634,7 +634,6 @@
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 err.taobao.com
 127.0.0.1 ff.win.taobao.com
-127.0.0.1 huodong.m.taobao.com
 127.0.0.1 intl.wapa.taobao.com
 127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com

@@ -94,6 +94,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.chongdiguoji.com
+127.0.0.1 e.chongdiguoji.com
 127.0.0.1 m.shanghetrade.com
 127.0.0.1 e.shanghetrade.com
 127.0.0.1 m.meizhi999.com
@@ -122,6 +124,7 @@
 127.0.0.1 www.zhzywl.cc
 #m.bookben.com
 127.0.0.1 dt.bookben.com
+127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
 127.0.0.1 in.jxbjt.com
 127.0.0.1 uu.85655095.com
@@ -314,6 +317,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 mm.yageben.com
 127.0.0.1 w.aidizi.com
 #m.shubao520.com
 127.0.0.1 qq.8368661.com

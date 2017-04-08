@@ -1,5 +1,6 @@
 @site/movie
 #dytt8.net
+127.0.0.1 c.k429fma.com
 127.0.0.1 url.222bz.com
 127.0.0.1 cf.37cs.com
 127.0.0.1 p.99mssj.com
