@@ -436,6 +436,9 @@
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
 127.0.0.1 www.1680go.com
+127.0.0.1 pc.quansj.cn
+127.0.0.1 ad.xxguan.cn
+127.0.0.1 pic.517m.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @mob/union
@@ -3509,8 +3512,6 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
-#m.leiphone.com
-127.0.0.1 ad.xxguan.cn
 #wap.ithome.com
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
@@ -4445,6 +4446,10 @@
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
+#600ad.com
+127.0.0.1 tu.600ad.com
+127.0.0.1 js.600ad.com
+127.0.0.1 www.600ad.com
 #6dad.com
 127.0.0.1 e4.6dad.com
 127.0.0.1 www.6dad.com

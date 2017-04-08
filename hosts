@@ -1,5 +1,5 @@
 
-#version=201704071739
+#version=201704081459
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -377,6 +377,9 @@
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
 127.0.0.1 www.1680go.com
+127.0.0.1 pc.quansj.cn
+127.0.0.1 ad.xxguan.cn
+127.0.0.1 pic.517m.cn
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -2984,7 +2987,6 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
-127.0.0.1 ad.xxguan.cn
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
 127.0.0.1 bdjs.jb51.net
@@ -3785,6 +3787,9 @@
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
+127.0.0.1 tu.600ad.com
+127.0.0.1 js.600ad.com
+127.0.0.1 www.600ad.com
 127.0.0.1 e4.6dad.com
 127.0.0.1 www.6dad.com
 127.0.0.1 d16b4.8ox.cn

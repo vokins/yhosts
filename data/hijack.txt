@@ -172,5 +172,8 @@
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
 127.0.0.1 www.1680go.com
+127.0.0.1 pc.quansj.cn
+127.0.0.1 ad.xxguan.cn
+127.0.0.1 pic.517m.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com

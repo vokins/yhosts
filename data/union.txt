@@ -421,6 +421,10 @@
 127.0.0.1 count7.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 countt.51yes.com
+#600ad.com
+127.0.0.1 tu.600ad.com
+127.0.0.1 js.600ad.com
+127.0.0.1 www.600ad.com
 #6dad.com
 127.0.0.1 e4.6dad.com
 127.0.0.1 www.6dad.com

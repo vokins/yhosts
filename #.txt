@@ -1,4 +1,10 @@
-﻿小米日历频道订阅但是可以去广告
+﻿#辽宁联通HTTP劫持
+127.0.0.1 pc.quansj.cn
+127.0.0.1 ad.xxguan.cn
+127.0.0.1 pic.517m.cn
+ad.xxguan.cn 这个之前我报过了 但是 应该划到劫持里
+
+小米日历频道订阅但是可以去广告
 #miui-calendar
 127.0.0.1 api.comm.miui.com
 
