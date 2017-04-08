@@ -324,8 +324,9 @@
 127.0.0.1 mbs.hao.360.cn
 #360-qihoo
 127.0.0.1 ad.huajiao.com
-127.0.0.1 sh.qihoo.com
+127.0.0.1 haostat.qihoo.com
 127.0.0.1 s.sh.qihoo.com
+127.0.0.1 sh.qihoo.com
 127.0.0.1 s.qhupdate.com
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 top.h.qhimg.com
@@ -518,6 +519,7 @@
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pw.cnzz.com
 127.0.0.1 w.cnzz.com
+127.0.0.1 hzs13.cnzz.com
 127.0.0.1 hm2.cnzz.com
 127.0.0.1 hm3.cnzz.com
 127.0.0.1 hqs7.cnzz.com

@@ -170,6 +170,7 @@
 127.0.0.1 p.fqjsjj.com
 127.0.0.1 z65.zzhyyj.com
 #m.chenhuixs.net
+127.0.0.1 m.tixing51.net
 127.0.0.1 www.poctd.com
 127.0.0.1 j7182.hfxcsl.cn
 127.0.0.1 js.1maode.com
@@ -234,6 +235,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 e.xigeng0375.com
 127.0.0.1 ee.shanghetrade.com
 127.0.0.1 mm.shanghetrade.com
 127.0.0.1 js.qdcode.com

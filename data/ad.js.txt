@@ -60,3 +60,6 @@ http://m.piaov.com/js/tj.js
 http://www.smdy66.com/js/ggb.js
 http://www.bdzhe.com/csss/foot.js
 http://www.bdzhe.com/csss/banner.js
+http://m.76long.com/521/BOT.js
+http://m.76long.com/521/Head.js
+http://m.76long.com/521/TOP.JS
