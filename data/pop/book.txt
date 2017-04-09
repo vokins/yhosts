@@ -205,6 +205,8 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
+127.0.0.1 e.yanglaopt.net
+127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
@@ -302,6 +304,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 code.33shangyou.com
 127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 js.cnscdj.com
