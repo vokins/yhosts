@@ -1,4 +1,9 @@
-﻿zzz7.52896368.com/cpv/images/close.png
+﻿http://api.jxedt.com/d/jxedtshow/196/
+esc.58.com/gz/comm/guaziurl.json?count=1&type=m&gzsrc=jxedt
+t3.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjd2vo4svqrvmqeyq_cdebc1e04c8f0db9.png
+t2.58cdn.com.cn/brandads/jxedt/back/n_v1bl2lwtju5arvrz5a6vza_6c7ea76f39c78102.png
+t1.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjd6pol7vo66e5aha_cdebc1e04c8f0db9.jpg
+zzz7.52896368.com/cpv/images/close.png
 #辽宁联通HTTP劫持
 127.0.0.1 pc.quansj.cn
 127.0.0.1 ad.xxguan.cn

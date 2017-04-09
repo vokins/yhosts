@@ -1,5 +1,5 @@
 
-#version=201704092139
+#version=201704092238
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -917,7 +917,6 @@
 127.0.0.1 log.event.cnool.net
 127.0.0.1 go.hangzhou.com.cn
 127.0.0.1 ggg.zj.com
-
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
 127.0.0.1 33.autohome.com.cn
@@ -1157,6 +1156,9 @@
 127.0.0.1 track.58.com
 127.0.0.1 imp.xgo.com.cn
 127.0.0.1 stat.xgo.com.cn
+127.0.0.1 t1.58cdn.com.cn
+127.0.0.1 t2.58cdn.com.cn
+127.0.0.1 t3.58cdn.com.cn
 127.0.0.1 click1n.soufun.com
 127.0.0.1 clickm.fang.com
 127.0.0.1 clickn.fang.com
@@ -1727,6 +1729,12 @@
 127.0.0.1 e.pubbirdf.com
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 h5.taihao.cc
+127.0.0.1 iiiiii.sharrysweb.com
+127.0.0.1 js658.tongqing2015.com
+127.0.0.1 sou.dkdlsj.com
+127.0.0.1 ttts.miyue17.com
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
@@ -2887,6 +2895,11 @@
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
+127.0.0.1 becode.qiushibaike.com
+127.0.0.1 cell.zhybzp.cn
+127.0.0.1 hl.butou.cn
+127.0.0.1 hl.kuzu.com
+127.0.0.1 hl.quw18.com
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
@@ -3169,6 +3182,7 @@
 127.0.0.1 rtlog.vidown.cn
 127.0.0.1 tj.vidown.cn
 127.0.0.1 ad.winrar.com.cn
+common
 127.0.0.1 s7.addthis.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
@@ -3880,6 +3894,7 @@
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
+music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
 127.0.0.1 push.music.baidu.com
@@ -3889,7 +3904,9 @@
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
+player
 127.0.0.1 ad.player.baidu.com
+tieba
 127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 bj.bcebos.com
@@ -3897,8 +3914,10 @@
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
+tuisong
 127.0.0.1 release.baidu.com
 127.0.0.1 sa1.tuisong.baidu.com
+video
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 stat.v.baidu.com
@@ -3906,6 +3925,7 @@
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 stat.zhidahao.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
+91
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 appx.91.com
 127.0.0.1 e.91.com
@@ -3927,10 +3947,13 @@
 127.0.0.1 www.baifendian.com
 127.0.0.1 static1.bfdcdn.com
 127.0.0.1 c41.clicki.cn
+127.0.0.1 ana.stg8.com
+127.0.0.1 cdn.tianmidian.com
 127.0.0.1 cdn.scdng.com
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 stuff.cdn.biddingx.com
+127.0.0.1 tu.biddingx.com
 127.0.0.1 www.biddingx.com
 127.0.0.1 static.bshare.cn
 127.0.0.1 bshare.optimix.asia

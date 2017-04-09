@@ -138,6 +138,12 @@
 127.0.0.1 e.pubbirdf.com
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 h5.taihao.cc
+127.0.0.1 iiiiii.sharrysweb.com
+127.0.0.1 js658.tongqing2015.com
+127.0.0.1 sou.dkdlsj.com
+127.0.0.1 ttts.miyue17.com
 #m.bxwx9.org
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 code.wantaico.com

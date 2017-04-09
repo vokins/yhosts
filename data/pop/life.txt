@@ -26,6 +26,12 @@
 127.0.0.1 imgcdn.de92.com
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
+#qiushibaike.com
+127.0.0.1 becode.qiushibaike.com
+127.0.0.1 cell.zhybzp.cn
+127.0.0.1 hl.butou.cn
+127.0.0.1 hl.kuzu.com
+127.0.0.1 hl.quw18.com
 #www.52rkl.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com

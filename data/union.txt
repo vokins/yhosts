@@ -1,4 +1,5 @@
-@web/common
+@web
+common
 #addthis.com
 127.0.0.1 s7.addthis.com
 #adinall.com
@@ -210,7 +211,7 @@
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
-@web-cn/common
+@web-cn
 #00oo00.com
 127.0.0.1 i.00oo00.com
 127.0.0.1 link.00oo00.com
@@ -802,7 +803,7 @@
 127.0.0.1 testwn.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 unstat.baidu.com
-#baidu/music
+music
 127.0.0.1 log.music.baidu.com
 127.0.0.1 pups.baidu.com
 127.0.0.1 push.music.baidu.com
@@ -812,9 +813,9 @@
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
-#baidu/player
+player
 127.0.0.1 ad.player.baidu.com
-#baidu/tieba
+tieba
 127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
 127.0.0.1 bj.bcebos.com
@@ -822,10 +823,10 @@
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
-#baidu/tuisong
+tuisong
 127.0.0.1 release.baidu.com
 127.0.0.1 sa1.tuisong.baidu.com
-#baidu/video
+video
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 stat.v.baidu.com
@@ -834,7 +835,8 @@
 #baidu-zhidao
 127.0.0.1 stat.zhidahao.baidu.com
 127.0.0.1 tongji.zhidao.baidu.com
-#baidu-soft/91
+#baidu-soft
+91
 127.0.0.1 adsearch.appx.91.com
 127.0.0.1 appx.91.com
 127.0.0.1 e.91.com
@@ -860,10 +862,13 @@
 127.0.0.1 static1.bfdcdn.com
 #biddingx
 127.0.0.1 c41.clicki.cn
+127.0.0.1 ana.stg8.com
+127.0.0.1 cdn.tianmidian.com
 127.0.0.1 cdn.scdng.com
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 cm.masky.biddingx.com
 127.0.0.1 stuff.cdn.biddingx.com
+127.0.0.1 tu.biddingx.com
 127.0.0.1 www.biddingx.com
 #bshare
 127.0.0.1 static.bshare.cn
