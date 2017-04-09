@@ -10,8 +10,6 @@
 127.0.0.1 s.mt145.com
 127.0.0.1 down.goziti.com
 #www.diyiapp.com
-127.0.0.1 yn.xsu.cc
-127.0.0.1 jsqcdn1124.0101122.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 s.jzv1.com
 127.0.0.1 ss.shuajuzu.com
@@ -20,14 +18,11 @@
 127.0.0.1 js.ychun03.com
 127.0.0.1 lz.ychun03.com
 127.0.0.1 m.anzhuotan.com
-127.0.0.1 package01.com
 127.0.0.1 pf.h5game.cn
 127.0.0.1 s5.qhmsg.com
 127.0.0.1 worldh5.gamehz.cn
 127.0.0.1 www.shouyoutan.com
 127.0.0.1 yjxzs.com
-127.0.0.1 zgty365.com
 127.0.0.1 p.skimresources.com
-127.0.0.1 img.tz00008.cn
 127.0.0.1 b.9dreams.net
 127.0.0.1 tu.bpmask.com

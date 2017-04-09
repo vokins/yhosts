@@ -5,9 +5,7 @@
 127.0.0.1 ma1.meishij.net
 127.0.0.1 ma2.meishij.net
 #m.7791.com.cn
-127.0.0.1 cpro.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
-127.0.0.1 imgcdn.mazaibang.com
 #m.souid.com
 127.0.0.1 vi1.souid.com
 #m.v4.cc
@@ -16,7 +14,6 @@
 #m.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com
-127.0.0.1 u.qoxyo.cn
 127.0.0.1 static.wauee.com
 #m.xxshipin.com
 127.0.0.1 img.ajapk.com
@@ -24,7 +21,6 @@
 127.0.0.1 z2.19950501.com
 127.0.0.1 tj.51ads.com
 127.0.0.1 www.51ads.com
-127.0.0.1 img.qj.media8.cn
 127.0.0.1 vip2.7huoguo.com
 127.0.0.1 vip6.7huoguo.com
 127.0.0.1 imgcdn.de92.com
@@ -42,10 +38,8 @@
 127.0.0.1 g.chinapxg.com
 127.0.0.1 img.xinjunshi.com
 127.0.0.1 js4775.hongtaidichan.net
-127.0.0.1 k.zrwhcy.com
 127.0.0.1 p.chinapxg.com
 127.0.0.1 www.86kx.com
-127.0.0.1 a.stka8.com
 127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
 #www.txahz.com

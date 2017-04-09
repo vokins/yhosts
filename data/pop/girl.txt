@@ -2,8 +2,6 @@
 #hotmm.tk
 127.0.0.1 url.hotmm.tk
 127.0.0.1 pic.csad.cc
-127.0.0.1 ios.syjlzs.com
-127.0.0.1 wsx.xstjf.com
 127.0.0.1 www.2016bobo.cf
 #m.5442.com
 127.0.0.1 bs.5442.com
@@ -14,10 +12,8 @@
 127.0.0.1 d21.deyidai.cn
 127.0.0.1 d5.doudou583.com
 127.0.0.1 hl.butou.cn
-127.0.0.1 hotav30.szjtcg.com
 127.0.0.1 iskdpg.com
 127.0.0.1 s.iuuff.com
-127.0.0.1 sdtu.sanyjx.com
 127.0.0.1 static.5411.com
 127.0.0.1 un.xlcun.com
 127.0.0.1 wm.20150.net
@@ -60,19 +56,14 @@
 127.0.0.1 img1.tan5858.com
 127.0.0.1 maccms.tan5858.com
 #www.i97mm.com
-127.0.0.1 upload.jxsjmg.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 e.70e.com
 127.0.0.1 e.e70123.com
 127.0.0.1 sssd.cn7765.com
-127.0.0.1 sd.mmfile.net
-127.0.0.1 simg.52zbz.com
-127.0.0.1 vip2.rwjfs.com
 127.0.0.1 www.mbai.cn
 #www.semmdh.net
 127.0.0.1 www.semmdh.info
 127.0.0.1 app.ibaiducdn.com
-127.0.0.1 wap.zgqlxw.com
 127.0.0.1 www.7080555.com
 127.0.0.1 www.3388pjdc.com
 127.0.0.1 www.5675146.com

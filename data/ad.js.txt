@@ -3,18 +3,15 @@ http://m.250sy.net/wap/wap.js
 http://m.37zw.com/js/wap.js
 http://m.5442.com/style/warp/js/mpads5442.js
 http://m.69shuwu.com/wap/sj.js
-http://m.7788xs.cc/js/wap.js
 http://m.biquge.com.tw/wap/skin/wap.js
 http://m.biqumo.com/js/wap.js
 http://m.bmwen.com/gao/bmxptj_1.js
 http://m.bmwen.com/gao/bmxptj_2.js
 http://m.bmwen.com/gao/bmxptj_3.js
-http://m.bmwen.com/js/wap.js
 http://m.bookben.com/js/m/wap.js
 http://m.booktxt.net/wap/booktxt/wap.js
 http://m.bxwx9.org/mjs/wap.js
 http://m.chenhuiwx.org/js/foot.js
-http://m.chenhuiwx.org/js/wap.js
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzs.js
 http://m.chenhuixs.net/js/hfzx.js
@@ -25,7 +22,6 @@ http://m.lanseshuba.com/js/pingao.js
 http://m.nenzei.net/qb/index.js
 http://m.nenzei.net/qb/top.js
 http://m.nenzei.net/qb/up.js
-http://m.qindouxs.co/js/wap.js
 http://m.qu.la/stylewap/js/wap.js
 http://m.shenmabook.com/wap/dun.js
 http://m.shenshuw.com/js/book.js
@@ -41,7 +37,6 @@ http://m.xs222.com/js/common.js
 http://s.dzz8.com/public/ptcms/s_wap_novelsearch_index_index.js
 http://s.faloo.com/ou/site/ou4site12.js
 http://s.faloo.com/wap/js/piaofu2016.js
-http://ss.shubao520.com:8087/fc-2916-5.js
 http://static1.2436.cn/ad1/afoot.js
 http://t.shuotxts.com/js/tj.js
 http://wap.xxbiquge.com/js/common.js

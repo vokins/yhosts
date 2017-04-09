@@ -151,8 +151,6 @@
 127.0.0.1 market.21cn.com
 127.0.0.1 shows.21cn.com
 #yue-dayoo.com
-127.0.0.1 adimg.dayoo.com
-127.0.0.1 dywg.dayoo.com
 127.0.0.1 images.dayoo.com
 127.0.0.1 stats.dayoo.com
 #yue-infzm.com
@@ -293,7 +291,6 @@
 127.0.0.1 fghmc.ga25.com
 127.0.0.1 fghmimg.ga25.com
 127.0.0.1 cr.wowxt.com
-127.0.0.1 vr.mt145.com
 127.0.0.1 s.shaxiq.com
 127.0.0.1 stat.ff.zmres.com
 #m.gushiwen.org
@@ -312,8 +309,6 @@
 127.0.0.1 wl.eastlady.cn
 #haibao.cn
 127.0.0.1 hats.haibao.cn
-#laonanren.com
-127.0.0.1 ac.laonanren.com
 #m.nanrenwo.net
 127.0.0.1 1.nanrenwo.net
 127.0.0.1 2.nanrenwo.net
@@ -357,8 +352,6 @@
 127.0.0.1 bduserlog.eastmoney.com
 127.0.0.1 js4.eastmoney.com
 127.0.0.1 same.eastmoney.com
-#gucheng.com
-127.0.0.1 llqjs.gucheng.com
 #hexun.com
 127.0.0.1 h01.hxsame.hexun.com
 127.0.0.1 h02.hxsame.hexun.com
@@ -498,7 +491,6 @@
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
 127.0.0.1 track.58.com
-127.0.0.1 58.xgo.com.cn
 127.0.0.1 imp.xgo.com.cn
 127.0.0.1 stat.xgo.com.cn
 #fang.com
@@ -534,7 +526,6 @@
 127.0.0.1 stat3.stat.v-56.com
 #64ma
 127.0.0.1 dev.jwpltx.com
-127.0.0.1 n.jwpltx.com
 #baofeng.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com
@@ -588,20 +579,15 @@
 127.0.0.1 adsys.chinacloudapp.cn
 #kankan.com
 127.0.0.1 xunlei.adx.admaster.com.cn
-127.0.0.1 a.hpg.cn.miaozhen.com
-127.0.0.1 e.hpg.cn.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 biz5.sandai.net
-127.0.0.1 float.sandai.net
 127.0.0.1 liveupdate.mac.sandai.net
-127.0.0.1 logic.cpm.cm.sandai.net
 127.0.0.1 m.down.sandai.net
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 analytics-union.xunlei.com
-127.0.0.1 analytics.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 cop.my.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
@@ -610,7 +596,6 @@
 127.0.0.1 jiuwo.xunlei.com
 127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 jump2.niu.xunlei.com
-127.0.0.1 kkpgv2.xunlei.com
 127.0.0.1 kkpgv3.xunlei.com
 127.0.0.1 material.ssp.xunlei.com
 127.0.0.1 material.xl7.xunlei.com
@@ -618,12 +603,10 @@
 127.0.0.1 msg2.client.xunlei.com
 127.0.0.1 niu.ag.xldp.xunlei.com
 127.0.0.1 niu.xunlei.com
-127.0.0.1 pv.xmp.stat.xunlei.com
 127.0.0.1 setup.stat.v.xunlei.com
 127.0.0.1 stat.download.xunlei.com
 127.0.0.1 static2.ssp.xunlei.com
 127.0.0.1 sys7.msg.xunlei.com
-127.0.0.1 thunderqtypv.union.xunlei.com
 127.0.0.1 tips.v.xunlei.com
 127.0.0.1 upgrade.m.xunlei.com
 127.0.0.1 v2.boxcfg.niu.xunlei.com
@@ -664,7 +647,6 @@
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 image.res.hunantv.com
 127.0.0.1 log.da.hunantv.com
-127.0.0.1 log.elk.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.hunantv.com
 127.0.0.1 log.so.hunantv.com
@@ -746,7 +728,6 @@
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad.dopool.com
 127.0.0.1 analytics3.dopool.com
-127.0.0.1 push.dopool.com
 127.0.0.1 ad-data.starschina.com
 127.0.0.1 test.ad.starschina.com
 127.0.0.1 test.adapi.starschina.com
@@ -837,7 +818,6 @@
 127.0.0.1 valc.atm.youku.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
-127.0.0.1 vid.atm.youku.com
 127.0.0.1 api.shuzilm.cn
 127.0.0.1 daa.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
@@ -898,7 +878,6 @@
 #ttpod.com
 127.0.0.1 collect.log.ttpod.com
 127.0.0.1 test.log.ttpod.com
-127.0.0.1 tj.itlily.com
 127.0.0.1 v1.ard.tj.itlily.com
 127.0.0.1 v1.ard.update.itlily.com
 #ximalaya.com
@@ -906,7 +885,6 @@
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.test.ximalaya.com
 127.0.0.1 adse.ximalaya.com
-127.0.0.1 adweb.test.ximalaya.com
 127.0.0.1 adweb.ximalaya.com
 @app/news
 #app.myzaker.com
@@ -962,7 +940,6 @@
 127.0.0.1 code1.2chcn.net
 127.0.0.1 search1.2chcn.net
 #55bbs.com
-127.0.0.1 icon.55bbs.com
 127.0.0.1 imp.55bbs.com
 127.0.0.1 stat.55bbs.com
 127.0.0.1 zjs.55bbs.com

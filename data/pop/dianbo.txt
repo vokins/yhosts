@@ -22,7 +22,6 @@
 127.0.0.1 www.jjsszy.com
 127.0.0.1 www.duocpa2.cn
 #m.76long.com
-127.0.0.1 c.gzsanxiaomingshi.cn
 127.0.0.1 cc.zhongtoufc.com
 127.0.0.1 qjvcdn328.86666608.com
 127.0.0.1 show.niqiu99.org
@@ -36,9 +35,6 @@
 #m.77kp.com
 127.0.0.1 js.72bss.com
 127.0.0.1 aa.cywl5.com
-127.0.0.1 c.weareqy.com
-127.0.0.1 r.weareqy.com
-127.0.0.1 rc.weareqy.com
 #m.a4yy.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 slb.kanshangqiu.com
@@ -59,8 +55,6 @@
 127.0.0.1 www.ychbgjg.cn
 127.0.0.1 m.cdn.mx1688.com.cn
 127.0.0.1 www.xuefo365.cn
-127.0.0.1 app1.432d.top
-127.0.0.1 pic.duocpa2.cn
 127.0.0.1 cdn3.e705.net
 #m.haotv8.com
 127.0.0.1 s.wapadv.com
@@ -78,7 +72,6 @@
 127.0.0.1 www.oaojd.com
 127.0.0.1 cache.xw126.com
 127.0.0.1 www.baidu.com.mjjdfl.com
-127.0.0.1 www.deweizhanye.cn
 127.0.0.1 www.diediao.com
 127.0.0.1 zl.yoomj.com
 127.0.0.1 www.ybtianxi.com
@@ -116,13 +109,6 @@
 #m.piaov.com
 127.0.0.1 in.yaohq.com
 127.0.0.1 in.zybpj.com
-127.0.0.1 rc.bbhtek.com
-127.0.0.1 s.bbhtek.com
-127.0.0.1 img.78dxc.com
-127.0.0.1 img.yy78ju.com
-127.0.0.1 rc.jhakie.com
-127.0.0.1 rc.bizcn008.com
-127.0.0.1 s.bizcn008.com
 127.0.0.1 img.52htx.com
 #m.q4yy.com
 127.0.0.1 kiss.cncy8.com
@@ -132,7 +118,6 @@
 127.0.0.1 img1.km.com
 127.0.0.1 dx01.daomengad.com
 127.0.0.1 v.360daidai.net
-127.0.0.1 www.bjyjytz.com
 127.0.0.1 m.wuhcontrol.com
 127.0.0.1 vvv.sqjgdx.com
 127.0.0.1 h.51scj.com
@@ -172,7 +157,6 @@
 #www.dyaihao.com
 127.0.0.1 im.tlcs666.com
 127.0.0.1 im.tuan520.com
-127.0.0.1 mm.8qzone.com
 127.0.0.1 vimg.dwstatic.com
 #www.henduo.tv
 127.0.0.1 kk.doudouldy.com
@@ -191,7 +175,6 @@
 127.0.0.1 zzrv1uha.njylyljg.com
 127.0.0.1 rqyrejzd8ockwpio.imtimo.com
 127.0.0.1 slb.aishangdami.com
-127.0.0.1 aimqohgndu5qlgty.hbhlq.com
 127.0.0.1 al.za5.net
 127.0.0.1 i.9le.net
 127.0.0.1 a.ydlnt.com
@@ -206,7 +189,6 @@
 127.0.0.1 m4r328.qzxsls.com
 127.0.0.1 d1.showself.com
 127.0.0.1 dn.5269120.com
-127.0.0.1 down.mppay.net
 127.0.0.1 global.ymtracking.com
 127.0.0.1 m1.youku168.com
 127.0.0.1 vip.zhineng6.com
@@ -223,7 +205,6 @@
 127.0.0.1 c.jheva.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
-127.0.0.1 pylfi.flash.hxh999.com
 127.0.0.1 xiazai.cdren.com
 127.0.0.1 js.willads.pw
 #www.zaizai8.com

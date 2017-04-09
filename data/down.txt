@@ -67,13 +67,9 @@
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
-127.0.0.1 107.wuwho.cn
-127.0.0.1 64.wuwho.cn
-127.0.0.1 98.4001075656.com
 127.0.0.1 a.tnlby.com
 127.0.0.1 a.wlcnd.com
 127.0.0.1 a.yichum.com
-127.0.0.1 abc.tpd8.com
 127.0.0.1 ad.dokrmob.com
 127.0.0.1 b.ukeiae.com
 127.0.0.1 c1.668559.com
@@ -89,15 +85,11 @@
 127.0.0.1 njs.manhuahome.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 ops.zibov.com
-127.0.0.1 pic2.4001075656.com
-127.0.0.1 pic5.cstoa.com
 127.0.0.1 r.xcycm.com
 127.0.0.1 rc.ukeiae.com
-127.0.0.1 s.pdsjycm.com
 127.0.0.1 s.xcfe.cn
 127.0.0.1 ss.subo.me
 127.0.0.1 t.czchaole.com
-127.0.0.1 twoaaa.168wangluo.com
 127.0.0.1 v.dbncp.com
 127.0.0.1 www.4wad.com
 127.0.0.1 www.sxjinglong.cn
@@ -105,8 +97,6 @@
 127.0.0.1 z.xc0429.com
 127.0.0.1 down.xiazaidc.com
 127.0.0.1 ini.pinguopai.cn
-127.0.0.1 url.tduou.com
-127.0.0.1 dl.fly086.com
 127.0.0.1 liuliang.duoqu124.com
 127.0.0.1 morepoweronmac.trade
 127.0.0.1 tr.offtrackads.com
@@ -133,5 +123,4 @@
 127.0.0.1 url.tudown.com
 127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 inapp.1sapp.com
-127.0.0.1 afp0bsl.iecgroup.com.cn
 127.0.0.1 mmm.jshjtg.cn

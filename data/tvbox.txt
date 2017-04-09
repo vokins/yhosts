@@ -4,7 +4,6 @@
 127.0.0.1 cdn.ad.video.51togic.com
 #aliyun
 127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdate.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
 #cibn
@@ -42,14 +41,9 @@
 127.0.0.1 apklog.cp11.ott.cibntv.net
 127.0.0.1 cachenotice.cp11.ott.cibntv.net
 127.0.0.1 stat.cp33.ott.cibntv.net
-127.0.0.1 cf.gdatecube.net
-127.0.0.1 s.gdatecube.net
 127.0.0.1 s.de123.net
 127.0.0.1 ark.cp21.ott.cibntv.net
 127.0.0.1 dc.cp21.ott.cibntv.net
-127.0.0.1 ark.letv-epg.wasu.tv
-127.0.0.1 ark.vmoters.com
-127.0.0.1 dc.letv-epg.wasu.tv
 127.0.0.1 dc.vmoters.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
@@ -64,7 +58,6 @@
 127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 t-l.play.cp81.ott.cibntv.net
 #tv.qq.com
-127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
@@ -102,7 +95,6 @@
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 qchannel01.cn
 127.0.0.1 www.qchannel01.cn
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 viqiyi.admaster.com.cn
@@ -184,9 +176,7 @@
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 stats.tudou.com
-127.0.0.1 e.stat.ykimg.com
 127.0.0.1 p-log.ykimg.com
-127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 adp.atm.youku.com
 127.0.0.1 b.smartvideo.youku.com
@@ -194,8 +184,6 @@
 127.0.0.1 cm.atm.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
-127.0.0.1 dl.g.youku.com
-127.0.0.1 e.stat.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 iyes.youku.com
 127.0.0.1 lstat.youku.com
@@ -214,8 +202,6 @@
 127.0.0.1 store.tv.api.3g.youku.com
 127.0.0.1 store.xl.api.3g.youku.com
 127.0.0.1 tdrec.youku.com
-127.0.0.1 test.ott.youku.com
-127.0.0.1 test.sdk.m.youku.com
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 wan.youku.com
@@ -226,8 +212,6 @@
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 sdk.user.gamex.mobile.youku.com
-127.0.0.1 test.gamex.mobile.youku.com
-127.0.0.1 test.sdk.gamex.mobile.youku.com
 127.0.0.1 c.l.youku.com
 127.0.0.1 notify.youku.com
 #youku-area

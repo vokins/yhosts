@@ -40,7 +40,6 @@
 127.0.0.1 stat.cnmo.com
 #codego.net
 127.0.0.1 z22.jxydsb.com
-127.0.0.1 qjgcdn123.86666608.com
 #csdn.net
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
@@ -127,11 +126,6 @@
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
 127.0.0.1 stat.zol.com.cn
-127.0.0.1 ca.cbsi.com.cn
-127.0.0.1 data.cbsi.com.cn
-127.0.0.1 dmp.cbsi.com.cn
-127.0.0.1 dw.cbsi.com.cn
-127.0.0.1 stat.cbsi.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
 @site/it-down
@@ -185,7 +179,6 @@
 #oyksoft.com
 127.0.0.1 a.oyksoft.com
 127.0.0.1 r.71sem.com
-127.0.0.1 img.i8xz.com
 #pc6.com
 127.0.0.1 tj.20hn.cn
 127.0.0.1 c2.97you.net
@@ -194,7 +187,6 @@
 127.0.0.1 cdn.ef9377.com
 127.0.0.1 cdn.a9377j.com
 #rayfile.com
-127.0.0.1 rayfilead.roxcdn.com
 #www.121down.com
 127.0.0.1 fe0s.nuion.cn
 #yxdown.com

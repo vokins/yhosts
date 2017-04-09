@@ -9,8 +9,6 @@
 127.0.0.1 ad-locus.com
 127.0.0.1 api.ad-locus.com
 127.0.0.1 user.ad-locus.com
-#admaster.mobi
-127.0.0.1 admaster.mobi
 #appsflyer.com
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
@@ -33,7 +31,6 @@
 127.0.0.1 seo.adpush.cn
 127.0.0.1 ssp.adpush.cn
 127.0.0.1 www.adpush.cn
-127.0.0.1 wzlm.adpush.cn
 127.0.0.1 zc.adpush.cn
 #adroll.com
 127.0.0.1 a.adroll.com
@@ -43,24 +40,9 @@
 #adsensor.org
 127.0.0.1 chance.adsensor.org
 #adsmogo
-127.0.0.1 api2.adsmogo.com
-127.0.0.1 cfg.adsmogo.com
 127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 click2forhz.adsmogo.com
 127.0.0.1 click3forhz.adsmogo.com
-127.0.0.1 cus.adsmogo.com
-127.0.0.1 imp.adsmogo.com
-127.0.0.1 storage.adsmogo.com
-127.0.0.1 api2.adsmogo.mobi
-127.0.0.1 cfg.adsmogo.mobi
-127.0.0.1 imp.adsmogo.mobi
-127.0.0.1 cus.adsmogo.mobi
-127.0.0.1 api2.adsmogo.net
-127.0.0.1 imp.adsmogo.net
-127.0.0.1 cfg.adsmogo.net
-127.0.0.1 api2.adsmogo.org
-127.0.0.1 cfg.adsmogo.org
-127.0.0.1 cus.adsmogo.org
 #adview.cn
 127.0.0.1 adfill.adview.cn
 127.0.0.1 bid.adview.cn
@@ -154,8 +136,6 @@
 127.0.0.1 clk.pdb.madserving.com
 127.0.0.1 imp.madserving.com
 127.0.0.1 imp.pdb.madserving.com
-#maysunmedia.com
-127.0.0.1 s.think.cn.maysunmedia.com
 #mdotm.com
 127.0.0.1 ads.mdotm.com
 127.0.0.1 cdn.mdotm.com
@@ -352,7 +332,6 @@
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 cr.m.liebao.cn
 #cm-wps
-127.0.0.1 1.wps.cn
 127.0.0.1 ad.docer.wps.cn
 127.0.0.1 docerad.wps.cn
 127.0.0.1 gou.wps.cn
@@ -379,7 +358,6 @@
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
 127.0.0.1 rating6.kingsoft-office-service.com
-127.0.0.1 s.ma.social-touch.com
 127.0.0.1 bole.shangshufang.ksosoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
@@ -424,7 +402,6 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
-127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -458,7 +435,6 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 info.sec.miui.com
-127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
@@ -499,7 +475,6 @@
 127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
 #mxplayer
-127.0.0.1 ad6.liverail.com
 127.0.0.1 d.appsdt.com
 ##systemav
 127.0.0.1 m.madthumbs.com
@@ -515,7 +490,6 @@
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 #vpn-spotofy
 127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 ads-fa.spotify.com
 127.0.0.1 analytics.spotify.com
 127.0.0.1 crashdump.spotify.com
 127.0.0.1 log.spotify.com
@@ -539,7 +513,6 @@
 127.0.0.1 downloada.dewmobile.net
 127.0.0.1 downloadb.dewmobile.net
 #www.suishen.mobi
-127.0.0.1 cq01-cm-et01.cq01.baidu.com
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
@@ -551,5 +524,3 @@
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 ws2.cootekservice.com
 127.0.0.1 data-pic.cdn.cootekservice.com
-127.0.0.1 edge02.zhongshan.cootek.com
-127.0.0.1 edge02.anding.cootek.com

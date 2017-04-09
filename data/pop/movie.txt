@@ -1,3 +1,22 @@
+127.0.0.1 qd.80s.tw
+127.0.0.1 jake.80s.tw
+127.0.0.1 tubie.bthengyuan.com
+127.0.0.1 c.jk2h.com
+127.0.0.1 js1194.cnbole.net
+127.0.0.1 m1u1227.yyhlp.com
+127.0.0.1 al.myrice.com
+127.0.0.1 img.nsywb.com
+127.0.0.1 hfkro.zhenghd.cn
+127.0.0.1 down.by8974.com
+127.0.0.1 down.xzwd.360eus.cn
+127.0.0.1 5.nord-raum.com
+127.0.0.1 cdn.ttkx22n.com
+127.0.0.1 m1.dx1200.com
+127.0.0.1 vip5.rwjfs.com
+127.0.0.1 js.ne08.com
+127.0.0.1 muban.dodounion.com
+127.0.0.1 aa-oo.top06.cn
+127.0.0.1 js.sanlitang.cn
 @site/movie
 #dytt8.net
 127.0.0.1 c.k429fma.com
@@ -8,10 +27,7 @@
 127.0.0.1 rs.haohaowan8.com
 127.0.0.1 www.37cs.com
 #m.80s.tw
-127.0.0.1 qd.80s.tw
-127.0.0.1 jake.80s.tw
 127.0.0.1 www.hxstfxx.cn
-127.0.0.1 tubie.bthengyuan.com
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 qqzy1.cc
 127.0.0.1 c8.top267.com
@@ -43,14 +59,12 @@
 #m.xunbo14.com
 127.0.0.1 wwe.xiankandy.com
 #www.181bt.com
-127.0.0.1 c.jk2h.com
 127.0.0.1 p.imigame.com
 #www.5zdm.com
 127.0.0.1 pic.hkivs.cn
 127.0.0.1 w3.yinyuehu.cn
 127.0.0.1 image.vlook.cn
 #www.66yc.cc
-127.0.0.1 js1194.cnbole.net
 127.0.0.1 tg.qzqywh.com
 #www.bd-film.com
 127.0.0.1 www.youfumei.com
@@ -61,11 +75,9 @@
 127.0.0.1 www.70lm.com
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 img.ccxuanhang.com
-127.0.0.1 m1u1227.yyhlp.com
 127.0.0.1 zhidao.baidu.com.mjjdfl.com
 127.0.0.1 www.icdxc.com
 #www.etdown.net
-127.0.0.1 al.myrice.com
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 tg.m.37.com
 127.0.0.1 dl.37wan.cn
@@ -78,7 +90,6 @@
 127.0.0.1 www.cckke.com
 #www.myhktv.com
 127.0.0.1 www.100fenlm.com
-127.0.0.1 img.nsywb.com
 #www.nk77.com
 127.0.0.1 clk.uunt.com
 127.0.0.1 ly.betterobot.cn
@@ -86,7 +97,6 @@
 127.0.0.1 sv719.dreamdays.cn
 127.0.0.1 w.werpig.com
 127.0.0.1 cks.gongyituan.cn
-127.0.0.1 hfkro.zhenghd.cn
 127.0.0.1 t.uvcourse.net
 127.0.0.1 www.17un.com
 127.0.0.1 ji.dazhantai.com
@@ -96,21 +106,14 @@
 127.0.0.1 s.0594529.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 dl.kinbest.cn
-127.0.0.1 down.by8974.com
-127.0.0.1 down.xzwd.360eus.cn
-127.0.0.1 5.nord-raum.com
 127.0.0.1 www.xxkhh.com
 127.0.0.1 t.cyuew.com
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn
-127.0.0.1 cdn.ttkx22n.com
-127.0.0.1 m1.dx1200.com
 127.0.0.1 vip2.media8.cn
-127.0.0.1 vip5.rwjfs.com
 127.0.0.1 ad.tatatimes.com
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 t.dmtrck.com
-127.0.0.1 js.ne08.com
 127.0.0.1 d.agkn.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 t.adyun.com
@@ -119,10 +122,7 @@
 127.0.0.1 g.ad8.cc
 127.0.0.1 p.rhgw.net
 127.0.0.1 a.shamla.net
-127.0.0.1 muban.dodounion.com
 127.0.0.1 r.14244.com
-127.0.0.1 aa-oo.top06.cn
-127.0.0.1 js.sanlitang.cn
 #www.zhaifu.cc
 127.0.0.1 f.716120.com
 127.0.0.1 www.70e.com
