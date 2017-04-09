@@ -1,4 +1,6 @@
-﻿127.0.0.1 huodong.m.taobao.com
+﻿127.0.0.1 http://img.cnsofas.com/im/201512/2015121223101058844.jpg  lol电影天堂pic
+127.0.0.1 www.google-analytics.com
+127.0.0.1 huodong.m.taobao.com
 http://issuecdn.baidupcs.com/issue/netdisk/MACguanjia/BaiduNetdisk_mac_2.1.0.dmg
 http://feed.theta.sogou.com/out/bundle.js
 #www.tiqiaa.com
@@ -47,7 +49,6 @@ a.gdown.baidu.com
 app.video.baidu.com
 appsearchcdn.baidu.com
 as.baidu.com
-avd.qidian.com
 bcscdn.baidu.com
 c-nfa.jd.com
 c.3g.qq.com
@@ -128,7 +129,8 @@ meta.video.qiyi.com 这个域名是网页版爱奇艺快进功能
 127.0.0.1 api.m.taobao.com
 127.0.0.1 pingjs.qq.com
 127.0.0.1 iface.iqiyi.com vip充值界面加载
-avd.qidian.com 这个是起点的安全登陆验证
+127.0.0.1 avd.qidian.com 这个是起点的安全登陆验证
+127.0.0.1 avd.qidian.com 删除这条记录后才能正常登录起点
 127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml 图片全给XX了
 127.0.0.1 static.sdg-china.com http://dq.sdo.com/ 
 127.0.0.1 znsv.baidu.com http://www.shoudian.org/forum.php?mod=forumdisplay&fid=19
@@ -144,12 +146,12 @@ http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
 xmp.down.sandai.net 解码器相关
 #facebook-noads
 127.0.0.1 staticxx.facebook.com 部分游戏app页面兼容性有问题
-
+127.0.0.1 tongji.baidu.com
 127.0.0.1 sta.ganjistatic1.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
-修复误杀：vmat.gtimg.com 导致腾讯云视听扫码登录的二维码无法正常显示
-修复误杀： discuz.gtimg.cn 导致discuz论坛的相关主题处出现404（比如卡饭）
+修复误杀：127.0.0.1 vmat.gtimg.com 导致腾讯云视听扫码登录的二维码无法正常显示
+修复误杀：127.0.0.1 discuz.gtimg.cn 导致discuz论坛的相关主题处出现404（比如卡饭）
  livew.l.qq.com 导致腾讯视频去广告失败 （被检测到开启去广告插件，强制等待）以放入tvbox数据内，电脑端数据不再包含。
 发现一处误杀，手机开热点给电脑使用，百度翻译不能翻译
 URL:sp1.baidu.com
@@ -180,7 +182,7 @@ PC 上面使用，qzs.qq.com，这个导致空间打不开图片。
 http://tb1.bdstatic.com/tb/cms/ngmis/adsense/file_1454764255628.gif
 
 比如这个可以用urlfilter拦截_/adsense/_但是不能拦截tb1.bdstatic.com主域名,因为主域名放了css文件,屏蔽了页面显示也不正常.
-avd.qidian.com 删除这条记录后才能正常登录起点
+
 #miui-system-update 127.0.0.1 update.miui.com
 
 Please on next update remove that line. Thank you.

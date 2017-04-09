@@ -1,0 +1,4 @@
+Application Data\37wan
+Application Data\QQPet
+Application Data\Windows Genuine Advantage
+Application Data\Tencent\QQPCMgr

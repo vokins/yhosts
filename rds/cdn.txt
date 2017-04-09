@@ -1,0 +1,5 @@
+serve.netsh.org
+www.projecth.us
+ocsp.digicert.com
+s3.amazonaws.com
+kickass.so

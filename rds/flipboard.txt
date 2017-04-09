@@ -1,0 +1,8 @@
+about.flipboard.com
+cdn.flipboard.com
+editor.flipboard.com
+engineering.flipboard.com
+flipboard.com
+inside.flipboard.com
+magazines.flipboard.com
+share.flipboard.com

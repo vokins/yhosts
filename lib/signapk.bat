@@ -1,0 +1,1 @@
+java -jar signapk.jar -w testkey.x509.pem testkey.pk8 "%~1" "%~n1_Signed%~x1"

@@ -1,0 +1,17 @@
+addons.mozilla.org
+activations.cdn.mozilla.net
+addons.cdn.mozilla.net
+air.cdn.mozilla.net
+cdn.mozilla.net
+code.cdn.mozilla.net
+developer.cdn.mozilla.net
+download-installer.cdn.mozilla.net
+fhr.cdn.mozilla.net
+getpersonas-cdn.mozilla.net
+glow.cdn.mozilla.net
+marketplace.cdn.mozilla.net
+mozorg.cdn.mozilla.net
+snippets.cdn.mozilla.net
+support.cdn.mozilla.net
+telemetry-experiment.cdn.mozilla.net
+videos.cdn.mozilla.net

@@ -1,0 +1,9 @@
+a.tiles.mapbox.com
+api.foursquare.com
+foursquare.com
+irs0.4sqi.net
+irs1.4sqi.net
+irs2.4sqi.net
+irs3.4sqi.net
+ss0.4sqi.net
+ss1.4sqi.net

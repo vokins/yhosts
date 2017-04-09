@@ -1,0 +1,10 @@
+api.xmarks.com
+blog.xmarks.com
+buy.xmarks.com
+download.xmarks.com
+login.xmarks.com
+my.xmarks.com
+static.xmarks.com
+sync.xmarks.com
+www.xmarks.com
+xmarks.com

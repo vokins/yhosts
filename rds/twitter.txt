@@ -1,0 +1,14 @@
+abs.twimg.com
+pbs.twimg.com
+ton.twimg.com
+about.twitter.com
+blog.twitter.com
+business.twitter.com
+dev.twitter.com
+media.twitter.com
+platform.twitter.com
+status.twitter.com
+support.twitter.com
+twitter.com
+twitter.com
+t.co

@@ -1,0 +1,7 @@
+Application Data\Kingsoft\elive
+Application Data\PPLive\PPTV\Cache\pluginad
+Application Data\Tencent
+Application Data\Thunder Network\DownloadLib\pub_store.dat
+Application Data\Thunder Network\cid_store.dat
+Application Data\Thunder Network\emule_upload_list.dat
+

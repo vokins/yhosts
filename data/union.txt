@@ -544,6 +544,7 @@
 127.0.0.1 s134.cnzz.com
 127.0.0.1 s14.cnzz.com
 127.0.0.1 s15.cnzz.com
+127.0.0.1 s24.cnzz.com
 127.0.0.1 s16.cnzz.com
 127.0.0.1 s17.cnzz.com
 127.0.0.1 s175.cnzz.com

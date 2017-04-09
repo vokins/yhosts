@@ -1,0 +1,37 @@
+AVIM Vietnamese Input Method
+Baidu\BaiduAn
+Baidu\BaiduBrowser
+Baidu\BaiduSd
+Baidu\Toolbar
+Baofeng\PhoneAssistant
+Delta
+Doyo
+Google\Common\Google Updater
+Google\Google Toolbar
+Google\GoogleToolbarNotifier
+Google\Update
+HaoZip
+MusicPlayer
+Red Ball
+SJQPLobby
+ShortcutSpirit
+SoftwareAssist
+Tencent\AddrUpdate
+Tencent\QQToolbar
+Tencent\SOSOAddr
+Tencent\SSPlus
+Tencent\barupdate
+UUnieDoeoalsi
+UneIDealsi
+UniDEallsi
+UniDeals
+UnuIoDDealSe
+bfcloud
+daocaoren
+gssoft
+headline
+iQIYI
+kuping4
+lk78
+vssjjtoudvo
+youtubeadblocker

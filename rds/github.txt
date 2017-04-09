@@ -1,0 +1,11 @@
+central.github.com
+developer.github.com
+enterprise.github.com
+github-windows.s3.amazonaws.com
+github.com
+help.github.com
+mac.github.com
+shop.github.com
+status.github.com
+training.github.com
+windows.github.com
