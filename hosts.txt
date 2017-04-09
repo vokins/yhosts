@@ -948,6 +948,7 @@
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 ws2.cootekservice.com
 127.0.0.1 data-pic.cdn.cootekservice.com
+
 @app/area-news
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn

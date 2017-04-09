@@ -1,5 +1,5 @@
 
-#version=201704092049
+#version=201704092103
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -790,6 +790,7 @@
 127.0.0.1 dialer.cdn.cootekservice.com
 127.0.0.1 ws2.cootekservice.com
 127.0.0.1 data-pic.cdn.cootekservice.com
+
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
 127.0.0.1 jj.jxnews.com.cn
