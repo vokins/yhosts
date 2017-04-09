@@ -3462,6 +3462,7 @@
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
+127.0.0.1 ts.hivecn.cn
 #www.52rkl.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com

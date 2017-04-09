@@ -1,5 +1,5 @@
 
-#version=201704092238
+#version=201704092242
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2900,6 +2900,7 @@
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
+127.0.0.1 ts.hivecn.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn

@@ -29,3 +29,7 @@ www.uuxs.net
 www.w3.org
 wx4.sinaimg.cn
 zhannei.baidu.com
+pic.qiushibaike.com
+qiushi-gif.qiushibaike.com
+static.qiushibaike.com
+www.qiushibaike.com
