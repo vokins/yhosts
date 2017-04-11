@@ -1,23 +1,6 @@
-127.0.0.1 qd.80s.tw
-127.0.0.1 jake.80s.tw
-127.0.0.1 tubie.bthengyuan.com
-127.0.0.1 c.jk2h.com
-127.0.0.1 js1194.cnbole.net
-127.0.0.1 m1u1227.yyhlp.com
-127.0.0.1 al.myrice.com
-127.0.0.1 img.nsywb.com
-127.0.0.1 hfkro.zhenghd.cn
-127.0.0.1 down.by8974.com
-127.0.0.1 down.xzwd.360eus.cn
-127.0.0.1 5.nord-raum.com
-127.0.0.1 cdn.ttkx22n.com
-127.0.0.1 m1.dx1200.com
-127.0.0.1 vip5.rwjfs.com
-127.0.0.1 js.ne08.com
-127.0.0.1 muban.dodounion.com
-127.0.0.1 aa-oo.top06.cn
-127.0.0.1 js.sanlitang.cn
 @site/movie
+#dygang.com
+127.0.0.1 dygang.kkcaicai.com
 #dytt8.net
 127.0.0.1 c.k429fma.com
 127.0.0.1 url.222bz.com
@@ -77,6 +60,12 @@
 127.0.0.1 img.ccxuanhang.com
 127.0.0.1 zhidao.baidu.com.mjjdfl.com
 127.0.0.1 www.icdxc.com
+127.0.0.1 f.hongm.com
+127.0.0.1 j.qiqiww.com
+127.0.0.1 js2777.tongqing2015.com
+127.0.0.1 media.jointreport-switch.com
+127.0.0.1 s3.limeishang.com
+127.0.0.1 t1.mmxingying.com
 #www.etdown.net
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 tg.m.37.com

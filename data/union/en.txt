@@ -1,0 +1,520 @@
+@union-en
+#ad-survey.com
+127.0.0.1 sspservice.ad-survey.com
+127.0.0.1 tracking.ad-survey.com
+127.0.0.1 www.ad-survey.com
+#ad4game.com
+127.0.0.1 ads.ad4game.com
+127.0.0.1 cdn.ad4game.com
+#adcolony.com
+127.0.0.1 ads20.adcolony.com
+127.0.0.1 androidads20staging.adcolony.com
+127.0.0.1 androidads23.adcolony.com
+127.0.0.1 www.adcolony.com
+#addthis.com
+127.0.0.1 s7.addthis.com
+#adinall.com
+127.0.0.1 ads.adinall.com
+127.0.0.1 cdn.adinall.com
+#adk2.co
+127.0.0.1 adbma.adk2.co
+127.0.0.1 adplexmedia.adk2.co
+#admarvel.com
+127.0.0.1 ads.admarvel.com
+127.0.0.1 www.admarvel.com
+#admedia.com
+127.0.0.1 admedia.com
+127.0.0.1 b.admedia.com
+127.0.0.1 g.admedia.com
+127.0.0.1 inline.admedia.com
+127.0.0.1 m.admedia.com
+#adnxs.com
+127.0.0.1 admeld.adnxs.com
+127.0.0.1 cdn.adnxs.com
+127.0.0.1 fim.adnxs.com
+127.0.0.1 g.adnxs.com
+127.0.0.1 gam.adnxs.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 photobucket.adnxs.com
+127.0.0.1 secure-sin.adnxs.com
+127.0.0.1 secure.adnxs.com
+127.0.0.1 sin1.g.adnxs.com
+127.0.0.1 ym.adnxs.com
+#adperium.com
+127.0.0.1 adperium.com
+#adroll.com
+127.0.0.1 a.adroll.com
+127.0.0.1 d.adroll.com
+#adsfactor.net
+127.0.0.1 cdn.adsfactor.net
+127.0.0.1 servedby.adsfactor.net
+#adtechus.com
+127.0.0.1 adserver.adtechus.com
+127.0.0.1 aka-cdn-ns.adtechus.com
+127.0.0.1 aka-cdn.adtechus.com
+127.0.0.1 ums.adtechus.com
+127.0.0.1 ums.adtechjp.com
+#adzrk.net
+127.0.0.1 engine.adzerk.net
+127.0.0.1 static.adzerk.net
+#airpush.com
+127.0.0.1 api.airpush.com
+127.0.0.1 apistaging.airpush.com
+127.0.0.1 appwall.api.airpush.com
+127.0.0.1 beta.airpush.com
+127.0.0.1 m.airpush.com
+#amazon.com
+127.0.0.1 aax-fe-pek.amazon-adsystem.com
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
+127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 s.amazon-adsystem.com
+#applovin.com
+127.0.0.1 a.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 vid.applovin.com
+#appsflyer.com
+127.0.0.1 api.appsflyer.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 hq.appsflyer.com
+127.0.0.1 partners.appsflyer.com
+127.0.0.1 stats.appsflyer.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 track.appsflyer.com
+127.0.0.1 www.appsflyer.com
+#atdmt.com
+127.0.0.1 ad.atdmt.com
+127.0.0.1 adn.atdmt.com
+127.0.0.1 aidps.atdmt.com
+127.0.0.1 analytics.atdmt.com
+127.0.0.1 api.atdmt.com
+127.0.0.1 atdmt.com
+127.0.0.1 atlasdmt.com
+127.0.0.1 c.atdmt.com
+127.0.0.1 click.atdmt.com
+127.0.0.1 clk.atdmt.com
+127.0.0.1 ec.atdmt.com
+127.0.0.1 h.atdmt.com
+127.0.0.1 image.atdmt.com
+127.0.0.1 img.atdmt.com
+127.0.0.1 ll.atdmt.com
+127.0.0.1 rmd.atdmt.com
+127.0.0.1 spd.atdmt.com
+127.0.0.1 spe.atdmt.com
+127.0.0.1 srch.atdmt.com
+127.0.0.1 t.atdmt.com
+127.0.0.1 vid.atdmt.com
+127.0.0.1 view.atdmt.com
+127.0.0.1 www.atdmt.com
+#awempire.com
+127.0.0.1 adson.awempire.com
+127.0.0.1 counter.awempire.com
+127.0.0.1 iframes.awempire.com
+127.0.0.1 promo.awempire.com
+127.0.0.1 static.awempire.com
+#beintoo.com
+127.0.0.1 www.beintoo.com
+#bidvertiser.com
+127.0.0.1 bdfrm.bidvertiser.com
+127.0.0.1 bdv.bidvertiser.com
+127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 pxl.bidvertiser.com
+127.0.0.1 www.bidvertiser.com
+#bluekai.com
+127.0.0.1 bluekai.com
+127.0.0.1 tags.bluekai.com
+#buysellads
+127.0.0.1 s3.buysellads.com
+127.0.0.1 stats.buysellads.com
+#casalemedia.com
+127.0.0.1 as.casalemedia.com
+127.0.0.1 ssum.casalemedia.com
+#castplatform
+127.0.0.1 castplatform.com
+#channeladvisor
+127.0.0.1 t.channeladvisor.com
+127.0.0.1 tracking2.channeladvisor.com
+#conversantmedia.com
+127.0.0.1 cdn.fastclick.net
+127.0.0.1 code.fastclick.net
+127.0.0.1 images.fastclick.net
+127.0.0.1 media.fastclick.net
+127.0.0.1 secure.fastclick.net
+127.0.0.1 sp.fastclick.net
+127.0.0.1 sync.fastclick.net
+127.0.0.1 www.fastclick.net
+127.0.0.1 www.fastclick.com
+#cr-nielsen.com
+127.0.0.1 q.s.cr-nielsen.com
+127.0.0.1 s.cr-nielsen.com
+127.0.0.1 t.cr-nielsen.com
+#crashlytics.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+#criteo.com
+127.0.0.1 cas.criteo.com
+127.0.0.1 cat.sh.cn.criteo.com
+127.0.0.1 dis.cn.criteo.com
+127.0.0.1 dis.criteo.com
+127.0.0.1 dis.ny.us.criteo.com
+127.0.0.1 dis.sh.cn.criteo.com
+127.0.0.1 dis.us.criteo.com
+127.0.0.1 gum.criteo.com
+127.0.0.1 rtax.criteo.com
+127.0.0.1 widget.criteo.com
+127.0.0.1 www.criteo.com
+127.0.0.1 static.criteo.net
+#csbew.com
+127.0.0.1 afp.csbew.com
+127.0.0.1 afptrack.csbew.com
+127.0.0.1 csbew.com
+127.0.0.1 s.csbew.com
+127.0.0.1 static.csbew.com
+127.0.0.1 tga.csbew.com
+127.0.0.1 tgb.csbew.com
+#directrev.com
+127.0.0.1 ad.directrev.com
+127.0.0.1 cdn.directrev.com
+127.0.0.1 ggo.directrev.com
+#drawbridge.com
+127.0.0.1 api.adsymptotic.com
+127.0.0.1 p.adsymptotic.com
+#effectivemeasure.net
+127.0.0.1 c.effectivemeasure.net
+127.0.0.1 hk-cdn.effectivemeasure.net
+127.0.0.1 me-cdn.effectivemeasure.net
+127.0.0.1 s.effectivemeasure.net
+127.0.0.1 sg-cdn.effectivemeasure.net
+127.0.0.1 www9.effectivemeasure.net
+#exdynsrv.com
+127.0.0.1 ads.exdynsrv.com
+127.0.0.1 main.exdynsrv.com
+127.0.0.1 syndication.exdynsrv.com
+#exoclick.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 main.exoclick.com
+127.0.0.1 static.exoclick.com
+127.0.0.1 syndication.exoclick.com
+#google-adservices
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
+#google-doubleclick
+127.0.0.1 4171764.fls.doubleclick.net
+127.0.0.1 ad-apac.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.jp.doubleclick.net
+127.0.0.1 adclick.g.doublecklick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+#google-syndication
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 video-ad-stats.googlesyndication.com
+#google-others
+127.0.0.1 s0.2mdn.net
+127.0.0.1 s1.2mdn.net
+127.0.0.1 media.admob.com
+127.0.0.1 adfarm.mediaplex.com
+127.0.0.1 secure.img-cdn.mediaplex.com
+127.0.0.1 ssl.google-analytics.com
+#gosquared.com
+127.0.0.1 data.gosquared.com
+127.0.0.1 data2.gosquared.com
+#gtags.net
+127.0.0.1 cm.gtags.net
+127.0.0.1 cms.gtags.net
+127.0.0.1 dat.gtags.net
+127.0.0.1 uma.gtags.net
+127.0.0.1 ut.gtags.net
+#heyzap.com
+127.0.0.1 ads.heyzap.com
+#histats.com
+127.0.0.1 s10.histats.com
+127.0.0.1 s4.histats.com
+#hitslink.com
+127.0.0.1 7208853.hitslink.com
+127.0.0.1 counter.hitslink.com
+127.0.0.1 www.hitslink.com
+#hotmob.com
+127.0.0.1 ad.hot-mob.com
+127.0.0.1 m.hot-mob.com
+127.0.0.1 www.hot-mob.com
+#hyperpromote.com
+127.0.0.1 cdn.hyperpromote.com
+127.0.0.1 cdnas.hyperpromote.com
+127.0.0.1 cdnis.hyperpromote.com
+127.0.0.1 cdnpa.hyperpromote.com
+#imrworldwide.com
+127.0.0.1 fe-au.imrworldwide.com
+127.0.0.1 fe1-au.imrworldwide.com
+127.0.0.1 fe2-au.imrworldwide.com
+127.0.0.1 fe3-au.imrworldwide.com
+127.0.0.1 lycos-eu.imrworldwide.com
+127.0.0.1 ninemsn.imrworldwide.com
+127.0.0.1 rc-au.imrworldwide.com
+127.0.0.1 secure-asia.imrworldwide.com
+127.0.0.1 secure-au.imrworldwide.com
+127.0.0.1 secure-chn.imrworldwide.com
+127.0.0.1 secure-dk.imrworldwide.com
+127.0.0.1 secure-it.imrworldwide.com
+127.0.0.1 secure-jp.imrworldwide.com
+127.0.0.1 secure-nz.imrworldwide.com
+127.0.0.1 secure-sg.imrworldwide.com
+127.0.0.1 secure-uk.imrworldwide.com
+127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 secure-yt.imrworldwide.com
+127.0.0.1 secure-za.imrworldwide.com
+127.0.0.1 server-au.imrworldwide.com
+127.0.0.1 server-br.imrworldwide.com
+127.0.0.1 server-by.imrworldwide.com
+127.0.0.1 server-de.imrworldwide.com
+127.0.0.1 server-dk.imrworldwide.com
+127.0.0.1 server-ee.imrworldwide.com
+127.0.0.1 server-fi.imrworldwide.com
+127.0.0.1 server-fr.imrworldwide.com
+127.0.0.1 server-hk.imrworldwide.com
+127.0.0.1 server-it.imrworldwide.com
+127.0.0.1 server-jp.imrworldwide.com
+127.0.0.1 server-lt.imrworldwide.com
+127.0.0.1 server-lv.imrworldwide.com
+127.0.0.1 server-no.imrworldwide.com
+127.0.0.1 server-nz.imrworldwide.com
+127.0.0.1 server-oslo.imrworldwide.com
+127.0.0.1 server-pl.imrworldwide.com
+127.0.0.1 server-ru.imrworldwide.com
+127.0.0.1 server-se.imrworldwide.com
+127.0.0.1 server-sg.imrworldwide.com
+127.0.0.1 server-stockh.imrworldwide.com
+127.0.0.1 server-ua.imrworldwide.com
+127.0.0.1 server-uk.imrworldwide.com
+127.0.0.1 server-us.imrworldwide.com
+127.0.0.1 telstra.imrworldwide.com
+#inmobi.com
+127.0.0.1 i.l.inmobicdn.net
+127.0.0.1 a.ai.inmobi.com
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 apptv.w.inmobi.com
+127.0.0.1 au-cn.w.inmobi.com
+127.0.0.1 c.w.inmobi.com
+127.0.0.1 cf.cdn.inmobi.com
+127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 config.inmobi.com
+127.0.0.1 dock.inmobi.com
+127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 et-cn.w.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 rules-ltvp.inmobi.com
+127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 www.inmobi.com
+#intellitxt.com
+127.0.0.1 freecodecs.us.intellitxt.com
+127.0.0.1 images.intellitxt.com
+#jizzads.com
+127.0.0.1 jizzads.com
+127.0.0.1 www.jizzads.com
+127.0.0.1 img.jizzads.com
+#juicyads.com
+127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads.juicyads.com
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 ck.juicyads.com
+127.0.0.1 xapi.juicyads.com
+#leadbolt
+127.0.0.1 ad.leadbolt.net
+127.0.0.1 ad.leadboltads.net
+127.0.0.1 ad.leadboltapps.net
+127.0.0.1 ad.leadboltmobile.net
+127.0.0.1 api.leadbolt.net
+#marketo
+127.0.0.1 asia.marketo.com
+127.0.0.1 munchkin.marketo.net
+127.0.0.1 pages2.marketo.com
+#mdotm.com
+127.0.0.1 ads.mdotm.com
+127.0.0.1 cdn.mdotm.com
+#mgid.com
+127.0.0.1 aa-gb.mgid.com
+127.0.0.1 aa.goodsblock.mgid.com
+127.0.0.1 ab-gb.mgid.com
+127.0.0.1 ab.goodsblock.mgid.com
+127.0.0.1 ac-gb.mgid.com
+127.0.0.1 ad-gb.mgid.com
+127.0.0.1 ae-gb.mgid.com
+127.0.0.1 aj-gb.mgid.com
+127.0.0.1 fem.mgid.com
+127.0.0.1 imgg.mgid.com
+127.0.0.1 jsc.mgid.com
+127.0.0.1 mgid.com
+127.0.0.1 usr.mgid.com
+127.0.0.1 www.mgid.com
+#millennialmedia
+127.0.0.1 ads.nexage.com
+127.0.0.1 cdn.millennialmedia.com
+127.0.0.1 images.millennialmedia.com
+127.0.0.1 millennialmedia.com
+127.0.0.1 www.millennialmedia.com
+#mobfox
+127.0.0.1 my.mobfox.com
+127.0.0.1 www.mobfox.com
+#mobilityware
+127.0.0.1 apps.mobilityware.com
+127.0.0.1 ads.mobilityware.com
+#mopub.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 analytics.mopub.com
+127.0.0.1 www.mopub.com
+#msn
+127.0.0.1 ads1.msads.net
+127.0.0.1 c.msn.com
+127.0.0.1 otf.msn.com
+127.0.0.1 mobileads.msn.com
+#mydas.mobi
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 ads.mydas.mobi
+127.0.0.1 androidsdk.ads.mp.mydas.mobi
+127.0.0.1 cvt.mydas.mobi
+#netshelter.net
+127.0.0.1 ad1.netshelter.net
+127.0.0.1 track.netshelter.net
+#newrelic.com
+127.0.0.1 newrelic.com
+#pixelsad
+127.0.0.1 selfie.snapmobileasia.net
+127.0.0.1 www.pixels.asia
+#propellerads
+127.0.0.1 ad.propellerads.com
+#quantserve.com
+127.0.0.1 edge.quantserve.com
+127.0.0.1 pixel.quantserve.com
+127.0.0.1 secure.quantserve.com
+#revdepo.com
+127.0.0.1 cdn1.srv.revdepo.com
+127.0.0.1 srv.revdepo.com
+127.0.0.1 tags4.revdepo.com
+#revsci.net
+127.0.0.1 js.revsci.net
+127.0.0.1 pd7-imp.revsci.net
+127.0.0.1 pix04.revsci.net
+#rubiconproject
+127.0.0.1 beacon-us-sjc1.rubiconproject.com
+127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 tap-cdn.rubiconproject.com
+127.0.0.1 secure-assets.rubiconproject.com
+127.0.0.1 www.rubiconproject.com
+#scorecardresearch.com
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 udm.scorecardresearch.com
+#scrippsnetworks
+127.0.0.1 aam.adsremote.scrippsnetworks.com
+127.0.0.1 adsremote.scrippsnetworks.com
+#serving-sys.com
+127.0.0.1 activity.serving-sys.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 bsch.serving-sys.com
+127.0.0.1 datacapture.serving-sys.com
+127.0.0.1 ds-ll.serving-sys.com
+127.0.0.1 ds.serving-sys.com
+127.0.0.1 secure-ds.serving-sys.com
+127.0.0.1 us.bs.serving-sys.com
+#smartadserver
+127.0.0.1 cdn1.smartadserver.com
+127.0.0.1 www6.smartadserver.com
+127.0.0.1 ww251.smartadserver.com
+127.0.0.1 ww881.smartadserver.com
+#sharethis
+127.0.0.1 edge.sharethis.com
+127.0.0.1 seg.sharethis.com
+127.0.0.1 w.sharethis.com
+127.0.0.1 wd-edge.sharethis.com
+#startapp.com
+127.0.0.1 lp.startapp.com
+127.0.0.1 images.startappservice.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 dts.akamai.startappexchange.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
+#statcounter.com
+127.0.0.1 c.statcounter.com
+127.0.0.1 c1.statcounter.com
+127.0.0.1 c2.statcounter.com
+127.0.0.1 secure.statcounter.com
+127.0.0.1 www.statcounter.com
+#steelhousemedia
+127.0.0.1 px.steelhousemedia.com
+127.0.0.1 rto.steelhousemedia.com
+#taboola
+127.0.0.1 cdn.taboolasyndication.com
+#tapjoy
+127.0.0.1 tapjoy.cn
+127.0.0.1 tapjoy.com
+127.0.0.1 tapjoyads.com
+127.0.0.1 ws.tapjoyads.com
+#turn
+127.0.0.1 analytics.turn.com
+127.0.0.1 d.turn.com
+127.0.0.1 www.turn.com
+#viglink
+127.0.0.1 api.viglink.com
+127.0.0.1 cdn.viglink.com
+#webterren.com
+127.0.0.1 cl.webterren.com
+127.0.0.1 cl0.webterren.com
+127.0.0.1 cl2.webterren.com
+127.0.0.1 cl3.webterren.com
+127.0.0.1 cl4.webterren.com
+127.0.0.1 cl5.webterren.com
+#wp.com
+127.0.0.1 stats.wp.com
+#yahoo
+127.0.0.1 ads.yahoo.com
+127.0.0.1 adserver.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 beap-bc.yahoo.com
+127.0.0.1 beap.adss.yahoo.com
+127.0.0.1 clicks.beap.bc.yahoo.com
+127.0.0.1 info.yahoo.com
+127.0.0.1 js-apac-ss.ysm.yahoo.com
+127.0.0.1 n.gemini.yahoo.com
+127.0.0.1 na.ads.yahoo.com
+127.0.0.1 p3p.yahoo.com
+127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 pr.ybp.yahoo.com
+127.0.0.1 us.adserver.yahoo.com
+#yahoo-jp
+127.0.0.1 yads.c.yimg.jp
+127.0.0.1 yads.yahoo.co.jp
+#yahoo-flurry
+127.0.0.1 ad.flurry.com
+127.0.0.1 adlog.flurry.com
+127.0.0.1 ads.flurry.com
+127.0.0.1 cdn.flurry.com
+127.0.0.1 data.flurry.com
+127.0.0.1 flurry.com
+127.0.0.1 proton.flurry.com
+127.0.0.1 www.flurry.com
+127.0.0.1 flurry.cachefly.net
+#yieldbird.com
+127.0.0.1 assets.adtaily.com
+127.0.0.1 static.adtaily.com
+127.0.0.1 www.adtaily.com
+#zedo
+127.0.0.1 d8.zedo.com
+127.0.0.1 z1.zedo.com

@@ -274,6 +274,12 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+#m.sanhao3.com
+127.0.0.1 net.yiheshun.cn
+127.0.0.1 b.jxbjt.com
+127.0.0.1 u2.s.minisplat.cn
+127.0.0.1 u0.s.minisplat.cn
+127.0.0.1 l.minisplat.cn
 #m.shenmabook.com
 127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com

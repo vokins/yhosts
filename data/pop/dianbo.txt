@@ -1,7 +1,4 @@
 @site/dianbo
-#91porn.com
-127.0.0.1 fans.bestvogue.com
-127.0.0.1 ads2.contentabc.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #www.bdzhe.com

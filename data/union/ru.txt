@@ -1,0 +1,12 @@
+@union-ru
+#marketgid
+127.0.0.1 ag-gb.marketgid.com
+127.0.0.1 cdn.marketgid.com
+127.0.0.1 counter.marketgid.com
+127.0.0.1 imgg.marketgid.com
+127.0.0.1 jsc.marketgid.com
+#yadro
+127.0.0.1 counter.yadro.ru
+127.0.0.1 mg.yadro.ru
+#yandex.ru
+127.0.0.1 mc.yandex.ru

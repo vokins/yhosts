@@ -1,0 +1,41 @@
+@union-jp
+#ad-stir
+127.0.0.1 ad-stir.com
+127.0.0.1 ad.ad-stir.com
+127.0.0.1 api.ad-stir.com
+127.0.0.1 dist.ad-stir.com
+127.0.0.1 dist.bpc.ad-stir.com
+127.0.0.1 js.ad-stir.com
+127.0.0.1 rtb.ad-stir.com
+#adcloud
+127.0.0.1 adcloud.jp
+127.0.0.1 ad-cloud.jp
+127.0.0.1 www.ad-cloud.jp
+#adfurikun.jp
+127.0.0.1 ad.adfurikun.jp
+127.0.0.1 api.adfurikun.jp
+127.0.0.1 i.adfurikun.jp
+127.0.0.1 ipua.adfurikun.jp
+#bead-ad
+127.0.0.1 bead-ad.com
+#i-mobile
+127.0.0.1 i-mobile.co.jp
+127.0.0.1 spad.i-mobile.co.jp
+127.0.0.1 spcdnpc.i-mobile.co.jp
+127.0.0.1 spcnv.i-mobile.co.jp
+127.0.0.1 spdeliver.i-mobile.co.jp
+127.0.0.1 spdmg-backend.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
+127.0.0.1 spnet2-1.i-mobile.co.jp
+127.0.0.1 spnet33.i-mobile.co.jp
+127.0.0.1 ssp-bidder.i-mobile.co.jp
+#mobadme
+127.0.0.1 analytics.mobadme.jp
+127.0.0.1 car.mobadme.jp
+127.0.0.1 mobadme.jp
+#nend
+127.0.0.1 ad1.nend.net
+127.0.0.1 ad2.nend.net
+127.0.0.1 img1.nend.net
+127.0.0.1 js1.nend.net
+127.0.0.1 output.nend.net

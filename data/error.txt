@@ -1,13 +1,10 @@
 @errorpage/cps-shopping
 127.0.0.1 aos.prf.hn
-127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
 127.0.0.1 click.linktech.cn
-127.0.0.1 p.yiqifa.com
-127.0.0.1 count.chanet.com.cn
-127.0.0.1 u.ctrip.com
 127.0.0.1 union.dangdang.com
 127.0.0.1 click.union.vip.com
+127.0.0.1 u.ctrip.com
 127.0.0.1 you.ctrip.com
 @errorpage/click
 127.0.0.1 wm.makeding.com
@@ -18,6 +15,15 @@
 127.0.0.1 app.shandjj.com
 @errorpage/weixin
 127.0.0.1 tl.771tao.com
+#eqxiu.com
+127.0.0.1 a.eqxiu.com
+127.0.0.1 as.eqxiu.com
+127.0.0.1 da.eqxiu.com
+127.0.0.1 as.eqh5.com
+127.0.0.1 lib.eqh5.com
+127.0.0.1 res.eqh5.com
+127.0.0.1 res1.eqh5.com
+127.0.0.1 res2.eqh5.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com

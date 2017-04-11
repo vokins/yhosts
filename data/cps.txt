@@ -9,6 +9,8 @@
 127.0.0.1 re.m.taobao.com
 127.0.0.1 show.re.taobao.com
 127.0.0.1 tejia.taobao.com
+127.0.0.1 tejia.taobao.com
+127.0.0.1 tui.taobao.com
 127.0.0.1 tyh.taobao.com
 @cps/taobao-click
 127.0.0.1 g.click.taobao.com
@@ -17,10 +19,14 @@
 127.0.0.1 s.click.tmall.com
 @cps/taobao-simba
 127.0.0.1 click.mz.simba.taobao.com
+127.0.0.1 click.simba.taobao.com
+127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 m.simba.taobao.com
+127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 srd.simba.taobao.com
+127.0.0.1 stat.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
 @cps/jd
@@ -34,3 +40,4 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union.click.jd.com
 127.0.0.1 union.m.jd.com
+

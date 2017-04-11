@@ -46,6 +46,7 @@
 127.0.0.1 www.czgzs.net
 #btdigg.pw
 127.0.0.1 js883.tongqing2015.com
+127.0.0.1 r.5207470.com
 127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 ew16d.package12.com
@@ -239,7 +240,6 @@
 127.0.0.1 dt.39photo.net
 127.0.0.1 img.hmp33.com
 127.0.0.1 dwtn.nuion.cn
-127.0.0.1 1.qtmojo.cn
 127.0.0.1 www.lx167.com
 127.0.0.1 img.aahtek.com
 127.0.0.1 qd.maskbaby.com.cn

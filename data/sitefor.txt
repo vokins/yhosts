@@ -1,0 +1,15 @@
+@web/foregin
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
+#pingdom
+127.0.0.1 rum-collector.pingdom.net
+127.0.0.1 rum-static.pingdom.net
+#www.pornhub.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 vz-cdn.contentabc.com
+127.0.0.1 vz-cdn.trafficjunky.net
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+127.0.0.1 ads2.contentabc.com

@@ -33,3 +33,5 @@ pic.qiushibaike.com
 qiushi-gif.qiushibaike.com
 static.qiushibaike.com
 www.qiushibaike.com
+www.miitbeian.gov.cn
+wpa.qq.com
