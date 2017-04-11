@@ -45,9 +45,9 @@ goto :eof
 @SET win=%cd%\win
 @cd %CURRENTDIR%
 rem "%win%\sed.exe" -i "$d" site.txt
-set files=direct.txt active.txt down.txt error.txt hijack.txt android.txt app.txt sitecn.txt sitefor.txt pop.txt soft.txt union.txt xunlei.txt
+set files=direct.txt active.txt down.txt error.txt hijack.txt android.txt app.txt sitecn.txt sitefor.txt pop.txt union.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=direct.txt active.txt down.txt error.txt hijack.txt android.txt app.txt sitecn.txt sitefor.txt pop.txt soft.txt union.txt tvbox.txt xunlei.txt
+set files=direct.txt active.txt down.txt error.txt hijack.txt android.txt app.txt sitecn.txt sitefor.txt pop.txt union.txt tvbox.txt xunlei.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt

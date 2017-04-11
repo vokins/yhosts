@@ -26,7 +26,6 @@
 127.0.0.1 read.huabian.com
 127.0.0.1 www.huabian.com
 #jing-china.com.cn
-127.0.0.1 zgwchim.qtmojo.com
 #jing-chinadaily.com.cn
 127.0.0.1 adpic.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
@@ -80,7 +79,6 @@
 127.0.0.1 t.ynet.com
 127.0.0.1 wxif.ynet.com
 #jing-youth.cn
-127.0.0.1 publish.ad.youth.cn
 127.0.0.1 d.youth.cn
 #lu-dzwindows.com
 127.0.0.1 ad.dzwindows.com

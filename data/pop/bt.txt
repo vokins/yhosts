@@ -85,7 +85,6 @@
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 js3555.zzbaowen.com
 127.0.0.1 m78.yatemy.cn
-127.0.0.1 a.wlfng.com
 127.0.0.1 c.dokrmob.com
 127.0.0.1 js.aomeishang.com
 127.0.0.1 js.goodemc.com
@@ -226,8 +225,6 @@
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 vip.koukou7.com
 127.0.0.1 down.xiazaiyuan.net
-127.0.0.1 pagead2.lxms2004.com
-127.0.0.1 www.lxms2004.com
 127.0.0.1 diaopic.14bobo.com
 127.0.0.1 pic.14bobo.com
 127.0.0.1 soft.qymma.com
@@ -249,9 +246,6 @@
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 e.a907907.com
 127.0.0.1 s1.kutongji.com
-127.0.0.1 i.qihaoqu.com
-127.0.0.1 j.qihaoqu.com
-127.0.0.1 t.qihaoqu.com
 127.0.0.1 x.892155.com
 127.0.0.1 ad.fglighting.net
 127.0.0.1 img.ygdsp.cn

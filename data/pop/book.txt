@@ -140,7 +140,6 @@
 127.0.0.1 iiiiii.sharrysweb.com
 #m.bxwx9.org
 127.0.0.1 soft.chaomeng8.com
-127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 #m.chenhuiwx.org
@@ -205,8 +204,6 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
-127.0.0.1 e.yanglaopt.net
-127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
@@ -441,7 +438,6 @@
 127.0.0.1 s.376zf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
-127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com

@@ -83,7 +83,6 @@
 127.0.0.1 t.uvcourse.net
 127.0.0.1 www.17un.com
 127.0.0.1 ji.dazhantai.com
-127.0.0.1 down.bossbas.com
 #www.wawatv.cc
 127.0.0.1 e.e7001.com
 127.0.0.1 s.0594529.com

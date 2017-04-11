@@ -35,13 +35,11 @@
 127.0.0.1 img.tianqi777.com
 127.0.0.1 sva817.minjiadian.cn
 127.0.0.1 sva88.czjiuding.cn
-127.0.0.1 a.xhnlf.com
 127.0.0.1 ag.nukefans.net
 127.0.0.1 cb.h5.coffeedak.cn
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.xxhrd.com
 127.0.0.1 s.ekeide.com
-127.0.0.1 a.tnlbd.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 www.51vipedu.com
 127.0.0.1 c1.keyrun.cn

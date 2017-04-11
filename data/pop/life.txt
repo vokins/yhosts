@@ -47,7 +47,6 @@
 127.0.0.1 js4775.hongtaidichan.net
 127.0.0.1 p.chinapxg.com
 127.0.0.1 www.86kx.com
-127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
 #www.txahz.com
 127.0.0.1 1.chcx.cn

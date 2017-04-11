@@ -56,7 +56,6 @@
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
-127.0.0.1 ebootv5.adsunflower.com
 127.0.0.1 bigdata.adups.com
 127.0.0.1 fota4.adups.cn
 #cm-advmob
@@ -153,7 +152,6 @@
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -193,4 +191,3 @@
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
-

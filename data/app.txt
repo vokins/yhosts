@@ -219,7 +219,6 @@
 127.0.0.1 adsys.chinacloudapp.cn
 #kankan.com
 127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 biz5.sandai.net
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 m.down.sandai.net
 127.0.0.1 adsp.xunlei.com

@@ -515,7 +515,6 @@
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 folder.adsunflower.com
-127.0.0.1 ebootv5.adsunflower.com
 127.0.0.1 bigdata.adups.com
 127.0.0.1 fota4.adups.cn
 #cm-advmob
@@ -612,7 +611,6 @@
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -652,7 +650,6 @@
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
-
 @app-msg
 #qq(mob-im.qq.com)
 127.0.0.1 activeqq.3g.qq.com
@@ -874,7 +871,6 @@
 127.0.0.1 adsys.chinacloudapp.cn
 #kankan.com
 127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 biz5.sandai.net
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 m.down.sandai.net
 127.0.0.1 adsp.xunlei.com
@@ -1335,7 +1331,6 @@
 127.0.0.1 read.huabian.com
 127.0.0.1 www.huabian.com
 #jing-china.com.cn
-127.0.0.1 zgwchim.qtmojo.com
 #jing-chinadaily.com.cn
 127.0.0.1 adpic.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
@@ -1389,7 +1384,6 @@
 127.0.0.1 t.ynet.com
 127.0.0.1 wxif.ynet.com
 #jing-youth.cn
-127.0.0.1 publish.ad.youth.cn
 127.0.0.1 d.youth.cn
 #lu-dzwindows.com
 127.0.0.1 ad.dzwindows.com
@@ -2355,7 +2349,6 @@
 127.0.0.1 iiiiii.sharrysweb.com
 #m.bxwx9.org
 127.0.0.1 soft.chaomeng8.com
-127.0.0.1 code.wantaico.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
 #m.chenhuiwx.org
@@ -2420,8 +2413,6 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
-127.0.0.1 e.yanglaopt.net
-127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
@@ -2656,7 +2647,6 @@
 127.0.0.1 s.376zf.com
 127.0.0.1 w.whydqy.cn
 127.0.0.1 lin.internetofthings-china.com
-127.0.0.1 s.95105012.com
 127.0.0.1 s.272xb.com
 127.0.0.1 a.cj-cy.com
 127.0.0.1 img.cbs99.com
@@ -2767,7 +2757,6 @@
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 js3555.zzbaowen.com
 127.0.0.1 m78.yatemy.cn
-127.0.0.1 a.wlfng.com
 127.0.0.1 c.dokrmob.com
 127.0.0.1 js.aomeishang.com
 127.0.0.1 js.goodemc.com
@@ -2908,8 +2897,6 @@
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 vip.koukou7.com
 127.0.0.1 down.xiazaiyuan.net
-127.0.0.1 pagead2.lxms2004.com
-127.0.0.1 www.lxms2004.com
 127.0.0.1 diaopic.14bobo.com
 127.0.0.1 pic.14bobo.com
 127.0.0.1 soft.qymma.com
@@ -2931,9 +2918,6 @@
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 e.a907907.com
 127.0.0.1 s1.kutongji.com
-127.0.0.1 i.qihaoqu.com
-127.0.0.1 j.qihaoqu.com
-127.0.0.1 t.qihaoqu.com
 127.0.0.1 x.892155.com
 127.0.0.1 ad.fglighting.net
 127.0.0.1 img.ygdsp.cn
@@ -3031,14 +3015,11 @@
 127.0.0.1 dm531.dm530.net
 127.0.0.1 dm532.dm530.net
 127.0.0.1 union.baidustatic.guannin.com
-127.0.0.1 a.xflnk.com
 127.0.0.1 img3.fy1g.com
 127.0.0.1 pear.dleke.com
-127.0.0.1 rc.95105012.com
 127.0.0.1 www.guanta37w.com
 127.0.0.1 iii.mengmob.com
 127.0.0.1 njs.imagicskin.com
-127.0.0.1 wsx.4ggww.com
 127.0.0.1 i.mengmob.com
 127.0.0.1 tt.fanbaow.com
 127.0.0.1 imgcdn.ahzlep.com
@@ -3048,13 +3029,9 @@
 127.0.0.1 pc.107788.com
 127.0.0.1 rfv.ws7j.com
 127.0.0.1 bz.lhzly.com
-127.0.0.1 qaz.afjlb.com
 127.0.0.1 g.buka9.com
-127.0.0.1 a.tnlhy.com
 127.0.0.1 b.apzeyu.com
-127.0.0.1 a.xlwnx.com
 127.0.0.1 a.tukeai.com
-127.0.0.1 i2.wljnj.com
 #www.u17.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
@@ -3136,7 +3113,6 @@
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 c.cyhx98.com
 127.0.0.1 jssd.kb20.cc
-127.0.0.1 a.tnlfk.com
 127.0.0.1 csimg.zcxhl.com
 127.0.0.1 i.zt-dq.com
 127.0.0.1 sssd.qjcfzs.com
@@ -3190,7 +3166,6 @@
 127.0.0.1 www.yodong.com
 #m.ttdyy.tv
 127.0.0.1 w.banlaa.com
-127.0.0.1 a.tnldt.com
 127.0.0.1 i.jiajv.net
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
@@ -3232,8 +3207,6 @@
 127.0.0.1 slb.aishangdami.com
 127.0.0.1 al.za5.net
 127.0.0.1 i.9le.net
-127.0.0.1 a.ydlnt.com
-127.0.0.1 ig.wlknb.com
 127.0.0.1 sg.keytui.com
 #www.mianbao99.com
 127.0.0.1 a.mianbao99.com
@@ -3245,7 +3218,6 @@
 127.0.0.1 d1.showself.com
 127.0.0.1 dn.5269120.com
 127.0.0.1 global.ymtracking.com
-127.0.0.1 m1.youku168.com
 127.0.0.1 vip.zhineng6.com
 127.0.0.1 www.xjidian.com
 127.0.0.1 e.51geqiang.net
@@ -3682,7 +3654,6 @@
 127.0.0.1 js4775.hongtaidichan.net
 127.0.0.1 p.chinapxg.com
 127.0.0.1 www.86kx.com
-127.0.0.1 a.wlmnt.com
 127.0.0.1 rc.376zf.com
 #www.txahz.com
 127.0.0.1 1.chcx.cn
@@ -3773,7 +3744,6 @@
 127.0.0.1 t.uvcourse.net
 127.0.0.1 www.17un.com
 127.0.0.1 ji.dazhantai.com
-127.0.0.1 down.bossbas.com
 #www.wawatv.cc
 127.0.0.1 e.e7001.com
 127.0.0.1 s.0594529.com
@@ -3841,13 +3811,11 @@
 127.0.0.1 img.tianqi777.com
 127.0.0.1 sva817.minjiadian.cn
 127.0.0.1 sva88.czjiuding.cn
-127.0.0.1 a.xhnlf.com
 127.0.0.1 ag.nukefans.net
 127.0.0.1 cb.h5.coffeedak.cn
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.xxhrd.com
 127.0.0.1 s.ekeide.com
-127.0.0.1 a.tnlbd.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 www.51vipedu.com
 127.0.0.1 c1.keyrun.cn
@@ -3977,7 +3945,8 @@
 127.0.0.1 s.nmqbg.com
 127.0.0.1 s.sxz67.com
 127.0.0.1 s.zzrcz.com
-127.0.0.1 ioscdn.ywpod3.com@union-cn
+127.0.0.1 ioscdn.ywpod3.com
+@union-cn
 #163
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -4841,8 +4810,6 @@
 127.0.0.1 u.3393.com
 127.0.0.1 yeyou.3393.com
 127.0.0.1 ads8.com
-127.0.0.1 cpa.ads8.com
-127.0.0.1 u.ads8.com
 127.0.0.1 www.ads8.com
 127.0.0.1 count.1133.cc
 127.0.0.1 images1.1133.cc
@@ -5532,7 +5499,6 @@
 127.0.0.1 irs09.com
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
-127.0.0.1 easou.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 m.irs01.com

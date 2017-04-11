@@ -862,8 +862,6 @@
 127.0.0.1 u.3393.com
 127.0.0.1 yeyou.3393.com
 127.0.0.1 ads8.com
-127.0.0.1 cpa.ads8.com
-127.0.0.1 u.ads8.com
 127.0.0.1 www.ads8.com
 127.0.0.1 count.1133.cc
 127.0.0.1 images1.1133.cc
@@ -1553,7 +1551,6 @@
 127.0.0.1 irs09.com
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
-127.0.0.1 easou.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 m.irs01.com
