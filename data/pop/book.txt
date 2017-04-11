@@ -116,7 +116,6 @@
 127.0.0.1 s.msltzer.cn
 127.0.0.1 ucuc.baiducu.com
 127.0.0.1 oask.xulizui6.com
-127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 c.msltzer.cn
 127.0.0.1 www.ailicee.com
@@ -138,12 +137,7 @@
 127.0.0.1 e.pubbirdf.com
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
-127.0.0.1 fen.dkdlsj.com
-127.0.0.1 h5.taihao.cc
 127.0.0.1 iiiiii.sharrysweb.com
-127.0.0.1 js658.tongqing2015.com
-127.0.0.1 sou.dkdlsj.com
-127.0.0.1 ttts.miyue17.com
 #m.bxwx9.org
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 code.wantaico.com
@@ -277,9 +271,6 @@
 #m.sanhao3.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
-127.0.0.1 u2.s.minisplat.cn
-127.0.0.1 u0.s.minisplat.cn
-127.0.0.1 l.minisplat.cn
 #m.shenmabook.com
 127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com
@@ -464,7 +455,6 @@
 #www.tianyucangqiong1.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
-127.0.0.1 id1.anreson.net
 127.0.0.1 js3987.yzh360.com
 127.0.0.1 apisoft.df0535.com
 #www.zhaishuge.com

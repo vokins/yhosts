@@ -13,7 +13,6 @@
 127.0.0.1 www.5814889.com
 #dvd.kltvv.com
 127.0.0.1 t.e706.net
-127.0.0.1 f.70e.com
 127.0.0.1 v.e704.net
 #m.263tvb.com
 127.0.0.1 www.jjsszy.com
@@ -147,7 +146,6 @@
 127.0.0.1 js3810.zhudiaosz.com
 127.0.0.1 js3810.yongkang6.com
 #www.8gdyhd.com
-127.0.0.1 u349036.778669.com
 127.0.0.1 vip.shuma2.com
 127.0.0.1 p.m5bn.com
 127.0.0.1 c.45io.com

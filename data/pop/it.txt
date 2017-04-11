@@ -63,14 +63,12 @@
 127.0.0.1 g.x.evolife.cn
 #feng.com
 127.0.0.1 yes1.feng.com
-127.0.0.1 cell.zhybzp.cn
 127.0.0.1 lynn.zgsemi.cn
 127.0.0.1 ss2.zsjuchang.cn
 #it168.com
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
-127.0.0.1 m1268.oadz.com
 #wap.ithome.com
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
@@ -94,7 +92,6 @@
 127.0.0.1 count5.pconline.com.cn
 127.0.0.1 count6.pconline.com.cn
 127.0.0.1 imgad0.pconline.com.cn
-127.0.0.1 m981.oadz.com
 127.0.0.1 c.ypmob.com
 #pcpop.com
 127.0.0.1 33.pcpop.com
@@ -186,7 +183,9 @@
 127.0.0.1 news.b9377h.com
 127.0.0.1 cdn.ef9377.com
 127.0.0.1 cdn.a9377j.com
-#rayfile.com
+#m.uzff.com
+127.0.0.1 a1.289.com
+127.0.0.1 list.289.com
 #www.121down.com
 127.0.0.1 fe0s.nuion.cn
 #yxdown.com

@@ -4,11 +4,9 @@
 #dytt8.net
 127.0.0.1 c.k429fma.com
 127.0.0.1 url.222bz.com
-127.0.0.1 cf.37cs.com
 127.0.0.1 p.99mssj.com
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 rs.haohaowan8.com
-127.0.0.1 www.37cs.com
 #m.80s.tw
 127.0.0.1 www.hxstfxx.cn
 127.0.0.1 s.shbywsd.cn
@@ -63,13 +61,9 @@
 127.0.0.1 f.hongm.com
 127.0.0.1 j.qiqiww.com
 127.0.0.1 js2777.tongqing2015.com
-127.0.0.1 media.jointreport-switch.com
 127.0.0.1 s3.limeishang.com
 127.0.0.1 t1.mmxingying.com
 #www.etdown.net
-127.0.0.1 iiiiii.sharrysweb.com
-127.0.0.1 tg.m.37.com
-127.0.0.1 dl.37wan.cn
 127.0.0.1 www.lessplay.com
 #www.icpmp.com
 127.0.0.1 js5162.yongkang6.com
@@ -114,7 +108,6 @@
 127.0.0.1 r.14244.com
 #www.zhaifu.cc
 127.0.0.1 f.716120.com
-127.0.0.1 www.70e.com
 127.0.0.1 ee.e7006.com
 127.0.0.1 mob.coolnay.com
 #www.zimuku.net

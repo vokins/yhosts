@@ -141,6 +141,9 @@
 #channeladvisor
 127.0.0.1 t.channeladvisor.com
 127.0.0.1 tracking2.channeladvisor.com
+#contentabc.com
+127.0.0.1 ads2.contentabc.com
+127.0.0.1 vz-cdn.contentabc.com
 #conversantmedia.com
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 code.fastclick.net
@@ -465,6 +468,9 @@
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoyads.com
 127.0.0.1 ws.tapjoyads.com
+#trafficjunky.net
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 vz-cdn.trafficjunky.net
 #turn
 127.0.0.1 analytics.turn.com
 127.0.0.1 d.turn.com
@@ -479,8 +485,6 @@
 127.0.0.1 cl3.webterren.com
 127.0.0.1 cl4.webterren.com
 127.0.0.1 cl5.webterren.com
-#wp.com
-127.0.0.1 stats.wp.com
 #yahoo
 127.0.0.1 ads.yahoo.com
 127.0.0.1 adserver.yahoo.com

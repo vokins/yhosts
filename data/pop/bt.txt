@@ -46,7 +46,6 @@
 127.0.0.1 www.czgzs.net
 #btdigg.pw
 127.0.0.1 js883.tongqing2015.com
-127.0.0.1 r.5207470.com
 127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 ew16d.package12.com
@@ -138,7 +137,6 @@
 127.0.0.1 m.kt0731.com
 127.0.0.1 nba.goodemc.com
 127.0.0.1 pic.shadowsmell.com
-127.0.0.1 pic494036.images9999.com
 127.0.0.1 s1.diaojiaoji168.com
 127.0.0.1 t1.huafeibianzhidai.com
 127.0.0.1 t1.kt0731.com
@@ -208,9 +206,6 @@
 127.0.0.1 js.static.tebaidu.cn
 127.0.0.1 admin.louxia.org
 127.0.0.1 img.ytlm.cn
-127.0.0.1 m1.xcy8.com
-127.0.0.1 www.ads8.com
-127.0.0.1 yeyou.3393.com
 127.0.0.1 5.qqm98.com
 127.0.0.1 f.e719.net
 127.0.0.1 cpc.haohaowan8.com
@@ -226,7 +221,6 @@
 127.0.0.1 img.677dy.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 p.g4d7.com
-127.0.0.1 pt.clickdata.37wan.com
 127.0.0.1 s3.0594003.com
 127.0.0.1 s4.0594003.com
 127.0.0.1 sccdn.f2zd.com
@@ -263,8 +257,6 @@
 127.0.0.1 img.ygdsp.cn
 127.0.0.1 js.jtdcg.com
 127.0.0.1 m9.xcdf.cn
-127.0.0.1 c1.xcy8.com
-127.0.0.1 m9.xcy8.com
 127.0.0.1 ffwap.com
 127.0.0.1 www.wtcpm.com
 127.0.0.1 u291014.nr1234.com
@@ -287,14 +279,10 @@
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 s2.limeishang.com
-127.0.0.1 s3.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
 #www.btmango.com
-127.0.0.1 js658.tongqing2015.com
-127.0.0.1 ttts.miyue17.com
-127.0.0.1 h5.taihao.cc
 127.0.0.1 www.soua.com
 127.0.0.1 j.sc1369.com
 127.0.0.1 js658.51weidashi.com
@@ -303,7 +291,6 @@
 127.0.0.1 freespace.juchaojie.com
 #www.bturls.net
 127.0.0.1 js993.dugbvb.com
-127.0.0.1 pic183025.images9999.com
 127.0.0.1 la.gydag.com
 127.0.0.1 img2.hrccb.com
 #www.cilijidi.com

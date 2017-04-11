@@ -1,4 +1,4 @@
-@app-area-news
+@site-area-news
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -111,6 +111,8 @@
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
 127.0.0.1 ios.ann5.net
+127.0.0.1 ucpb.hdmnw.com
+127.0.0.1 uctt.hdmnw.com
 #min-www.santaihu.com
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net
@@ -170,7 +172,7 @@
 127.0.0.1 go.hangzhou.com.cn
 #zhe-zj.com
 127.0.0.1 ggg.zj.com
-@app-car
+@site-car
 #52che.com
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
@@ -201,7 +203,7 @@
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
-@app-book
+@site-book
 #book.easou.com
 127.0.0.1 ad.easou.com
 127.0.0.1 ad2.easou.com
@@ -236,7 +238,7 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 push.zhangyue.com
-@app-buy
+@site-buy
 #egou.com
 127.0.0.1 ad.egou.com
 #dangdang
@@ -257,7 +259,7 @@
 #vip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
-@app-edu
+@site-edu
 #360doc.cn
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
@@ -305,7 +307,7 @@
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
 127.0.0.1 dm.gzpinda.com
-@app-fashion
+@site-fashion
 #eastlady.cn
 127.0.0.1 abc.eastlady.cn
 127.0.0.1 jb.eastlady.cn
@@ -335,7 +337,7 @@
 127.0.0.1 heimo.rrsdl.com
 127.0.0.1 kuaigao.rrsdl.com
 127.0.0.1 m.rrsdl.com
-@app-finance
+@site-finance
 #10jqka.com.cn
 127.0.0.1 ad.thsi.cn
 127.0.0.1 adm.10jqka.com.cn
@@ -384,7 +386,7 @@
 #www.ftchinese.com
 127.0.0.1 creatives.ftchinese.com
 127.0.0.1 dolphin.ftimg.net
-@app-game
+@site-game
 #17173.com
 127.0.0.1 cvda.17173.com
 127.0.0.1 log1.17173.com
@@ -440,7 +442,7 @@
 #uuu9.com
 127.0.0.1 gg.uuu9.com
 127.0.0.1 static.gg.uuu9.com
-@app-health
+@site-health
 #120ask.com
 127.0.0.1 ax.120ask.com
 127.0.0.1 bdjs.120askimages.com
@@ -484,7 +486,7 @@
 127.0.0.1 adpubs.yaolan.com
 127.0.0.1 ylads.yaolan.com
 127.0.0.1 a.codevm.com
-@app-home
+@site-home
 #1fangchan.com
 127.0.0.1 adhome.1fangchan.com
 #58.com
@@ -516,7 +518,7 @@
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
-@app-photo
+@site-photo
 #dcfever.com
 127.0.0.1 adx.adxglobal.com
 #fengniao.com
@@ -538,7 +540,7 @@
 127.0.0.1 util.nphoto.net
 #xitek.com
 127.0.0.1 www8.xitek.com
-@app-sns
+@site-sns
 #2chcn.com
 127.0.0.1 code1.2chcn.net
 127.0.0.1 search1.2chcn.net

@@ -6,7 +6,6 @@
 127.0.0.1 ujake.shouji56.com
 127.0.0.1 uqd168.shouji56.com
 127.0.0.1 p.tamenshuo.com
-127.0.0.1 hl.quw18.com
 127.0.0.1 s.mt145.com
 127.0.0.1 down.goziti.com
 #www.diyiapp.com

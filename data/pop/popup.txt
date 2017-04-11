@@ -88,12 +88,9 @@
 127.0.0.1 kwflvcdn.000dn.com
 127.0.0.1 log.he2d.com
 127.0.0.1 rjs.niuxgame77.com
-127.0.0.1 d3d.3dwwwgame.com
-127.0.0.1 j.qiqiww.com
 127.0.0.1 rwq.youle55.com
 127.0.0.1 vip.jixian360.com
 127.0.0.1 ss.cywl5.com
-127.0.0.1 fen.dkdlsj.com
 127.0.0.1 sou.dkdlsj.com
 127.0.0.1 e.wikigifth.com
 127.0.0.1 njs.reliancevalve.com
@@ -105,9 +102,7 @@
 127.0.0.1 sa.xalongli.cn
 127.0.0.1 sas816.ujikdd041o.cn
 127.0.0.1 w.yinyuehu.cn
-127.0.0.1 u.xcy8.com
 127.0.0.1 u034024.nr1234.com
-127.0.0.1 u.1133.cc
 127.0.0.1 t.cnsjx.net
 127.0.0.1 m.51geqiang.net
 127.0.0.1 m.snow001.com

@@ -574,17 +574,8 @@
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 smart.789.image.mucang.cn
 127.0.0.1 smart.789.kakamobi.cn
-
-
-
-
-
-
-
-
 @android/apps
 #www.habitbrowser.com
-
 127.0.0.1 spap.adingo.jp
 127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 adfuri.socdm.com

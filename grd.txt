@@ -563,6 +563,7 @@
 61.91.161.217 directory.google.com
 61.91.161.217 dir.google.com
 61.91.161.217 events.google.com
+61.91.161.217 events.withgoogle.com
 61.91.161.217 savethedate.foo
 61.91.161.217 www.savethedate.foo
 61.91.161.217 googledrive.com
@@ -579,7 +580,7 @@
 61.91.161.217 docs8.google.com
 61.91.161.217 docs9.google.com
 61.91.161.217 material.google.com
-216.239.34.21 material.io
+216.239.38.21 material.io
 61.91.161.217 writely.google.com
 61.91.161.217 upload.docs.google.com
 61.91.161.217 upload.drive.google.com
