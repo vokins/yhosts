@@ -24,7 +24,6 @@
 #faronicslabs-deepfreeze
 127.0.0.1 upd.faronicslabs.com
 #lumion3d
-127.0.0.1 activate.lumion.net
 127.0.0.1 backup.lumion3d.com
 127.0.0.1 backup.lumion3d.net
 127.0.0.1 license.lumion3d.com

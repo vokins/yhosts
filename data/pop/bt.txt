@@ -277,6 +277,9 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
 #www.btmango.com
+127.0.0.1 js658.tongqing2015.com
+127.0.0.1 ttts.miyue17.com
+127.0.0.1 h5.taihao.cc
 127.0.0.1 www.soua.com
 127.0.0.1 j.sc1369.com
 127.0.0.1 js658.51weidashi.com

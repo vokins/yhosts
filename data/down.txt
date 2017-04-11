@@ -90,8 +90,6 @@
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
-127.0.0.1 a.tnlby.com
-127.0.0.1 a.wlcnd.com
 127.0.0.1 a.yichum.com
 127.0.0.1 ad.dokrmob.com
 127.0.0.1 b.ukeiae.com

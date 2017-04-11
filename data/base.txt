@@ -60,9 +60,7 @@
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
-@base/criteo
-127.0.0.1 static.criteo.net
 @base/google
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
-127.0.0.1 www.googletagservices.com
+127.0.0.1 static.googleadsserving.cn

@@ -75,7 +75,6 @@
 #faronicslabs-deepfreeze
 127.0.0.1 upd.faronicslabs.com
 #lumion3d
-127.0.0.1 activate.lumion.net
 127.0.0.1 backup.lumion3d.com
 127.0.0.1 backup.lumion3d.net
 127.0.0.1 license.lumion3d.com
@@ -97,6 +96,72 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+@base/ali-alicdn
+127.0.0.1 asearch.alicdn.com
+127.0.0.1 atanx.alicdn.com
+127.0.0.1 atanx2.alicdn.com
+@base/ali-alimama
+127.0.0.1 a.alimama.cn
+@base/ali-cnzz
+127.0.0.1 cnzz.mmstat.com
+127.0.0.1 c.cnzz.com
+127.0.0.1 ca.cnzz.com
+127.0.0.1 ei.cnzz.com
+127.0.0.1 jserr.cnzz.com
+127.0.0.1 pcookie.cnzz.com
+127.0.0.1 hzvs1.cnzz.com
+127.0.0.1 s95.cnzz.com
+@base/ali-tanx
+127.0.0.1 a.tanx.com
+127.0.0.1 cdn.tanx.com
+127.0.0.1 df.tanx.com
+127.0.0.1 p.tanx.com
+@base/ali-taobaocdn
+127.0.0.1 strip.taobaocdn.com
+@base/baidu
+127.0.0.1 api.share.baidu.com
+127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 boscdn.bpc.baidu.com
+127.0.0.1 bzclk.baidu.com
+127.0.0.1 cm.pos.baidu.com
+127.0.0.1 eclick.baidu.com
+127.0.0.1 eiv.baidu.com
+127.0.0.1 entry.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 wn.pos.baidu.com
+@base/baidu-bdimg
+127.0.0.1 ecma.bdimg.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 ecmc.bdimg.com
+127.0.0.1 su.bdimg.com
+@base/baidu-static
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+@base/baidu/wenku
+127.0.0.1 wkclick.baidu.com
+@base/qihoo
+127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s1.stat.lianmeng.360.cn
+127.0.0.1 stat.lianmeng.360.cn
+@base/qq
+127.0.0.1 ta.qq.com
+127.0.0.1 tajs.qq.com
+@base/qq-jd
+127.0.0.1 u.x.jd.com
+127.0.0.1 x.jd.com
+@base/sohu
+127.0.0.1 images.sohu.com
+@base/sohu-sogou
+127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 inte.sogou.com
+127.0.0.1 p.inte.sogou.com
+@base/google
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
 @down
 #down-2345
 127.0.0.1 dl.2345.com
@@ -189,8 +254,6 @@
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
-127.0.0.1 a.tnlby.com
-127.0.0.1 a.wlcnd.com
 127.0.0.1 a.yichum.com
 127.0.0.1 ad.dokrmob.com
 127.0.0.1 b.ukeiae.com
@@ -1554,9 +1617,7 @@
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 du.jd.com
 127.0.0.1 im-x.jd.com
-127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
-127.0.0.1 x.jd.com
 #meituan.com
 127.0.0.1 push.mobile.meituan.com
 #vip.com
@@ -2209,6 +2270,8 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 zhou.qhaif.com
+127.0.0.1 m.riqu2015.com
 127.0.0.1 yi.xmsqz.com
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
@@ -2232,6 +2295,7 @@
 127.0.0.1 m.syofew6o.net
 127.0.0.1 mm.hlipqiuo.net
 #m.250sy.net
+127.0.0.1 m.axiba66.com
 127.0.0.1 m.cmslayue.com
 127.0.0.1 m.sigbusa.com
 127.0.0.1 m.uzpmrbek.com
@@ -2290,6 +2354,9 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.maisoncherry.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 e.maisoncherry.com
 127.0.0.1 m.chongdiguoji.com
 127.0.0.1 e.chongdiguoji.com
 127.0.0.1 m.shanghetrade.com
@@ -2348,6 +2415,7 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 iiiiii.sharrysweb.com
 #m.bxwx9.org
+127.0.0.1 code.wantaico.com
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
@@ -2395,6 +2463,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 rj.huajingfood.cn
 127.0.0.1 jj.youzizhijia.cn
 127.0.0.1 tyu.m.dingdianzw.com
 127.0.0.1 sj2.sscefsol.com.cn
@@ -2413,6 +2482,8 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
+127.0.0.1 e.yanglaopt.net
+127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
@@ -2478,6 +2549,8 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 m.s400cc.com
+127.0.0.1 s.kguke.com
 127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
@@ -2586,10 +2659,11 @@
 #www.00sy.com
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.day66.com
-#www.d8qu.com
+#m.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 m.hhllyt.com
 127.0.0.1 y.xm9178.com
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 y.dali517.com
@@ -2949,6 +3023,9 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
 #www.btmango.com
+127.0.0.1 js658.tongqing2015.com
+127.0.0.1 ttts.miyue17.com
+127.0.0.1 h5.taihao.cc
 127.0.0.1 www.soua.com
 127.0.0.1 j.sc1369.com
 127.0.0.1 js658.51weidashi.com
@@ -3139,6 +3216,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.kguke.com
 127.0.0.1 in.yaohq.com
 127.0.0.1 in.zybpj.com
 127.0.0.1 img.52htx.com
@@ -6172,9 +6250,6 @@
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
-#google-adservices
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 static.googleadsserving.cn
 #google-doubleclick
 127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
@@ -6191,7 +6266,6 @@
 127.0.0.1 stats.g.doubleclick.net
 #google-syndication
 127.0.0.1 afs.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 #google-others

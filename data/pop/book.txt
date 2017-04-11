@@ -1,5 +1,7 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 zhou.qhaif.com
+127.0.0.1 m.riqu2015.com
 127.0.0.1 yi.xmsqz.com
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
@@ -23,6 +25,7 @@
 127.0.0.1 m.syofew6o.net
 127.0.0.1 mm.hlipqiuo.net
 #m.250sy.net
+127.0.0.1 m.axiba66.com
 127.0.0.1 m.cmslayue.com
 127.0.0.1 m.sigbusa.com
 127.0.0.1 m.uzpmrbek.com
@@ -81,6 +84,9 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.maisoncherry.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 e.maisoncherry.com
 127.0.0.1 m.chongdiguoji.com
 127.0.0.1 e.chongdiguoji.com
 127.0.0.1 m.shanghetrade.com
@@ -139,6 +145,7 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 iiiiii.sharrysweb.com
 #m.bxwx9.org
+127.0.0.1 code.wantaico.com
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
@@ -186,6 +193,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 rj.huajingfood.cn
 127.0.0.1 jj.youzizhijia.cn
 127.0.0.1 tyu.m.dingdianzw.com
 127.0.0.1 sj2.sscefsol.com.cn
@@ -204,6 +212,8 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
 #m.kewaishu.org
+127.0.0.1 e.yanglaopt.net
+127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
@@ -269,6 +279,8 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 m.s400cc.com
+127.0.0.1 s.kguke.com
 127.0.0.1 s.yaohq.com
 127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
@@ -377,10 +389,11 @@
 #www.00sy.com
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.day66.com
-#www.d8qu.com
+#m.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 m.hhllyt.com
 127.0.0.1 y.xm9178.com
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 y.dali517.com

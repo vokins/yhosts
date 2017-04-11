@@ -205,9 +205,6 @@
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
-#google-adservices
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 static.googleadsserving.cn
 #google-doubleclick
 127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
@@ -224,7 +221,6 @@
 127.0.0.1 stats.g.doubleclick.net
 #google-syndication
 127.0.0.1 afs.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 #google-others
