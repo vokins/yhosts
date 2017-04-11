@@ -1,4 +1,5 @@
-﻿127.0.0.1 http://img.cnsofas.com/im/201512/2015121223101058844.jpg  lol电影天堂pic
+﻿127.0.0.1 games.ifeng.com
+127.0.0.1 http://img.cnsofas.com/im/201512/2015121223101058844.jpg  lol电影天堂pic
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 f10.baidu.com
 127.0.0.1 f11.baidu.com
