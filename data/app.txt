@@ -154,6 +154,8 @@
 127.0.0.1 dsp.toutiao.com
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
+127.0.0.1 analytics.snssdk.com
+127.0.0.1 s3a.pstatp.com
 @app-media
 #1905.com
 127.0.0.1 afp.m1905.com
@@ -391,20 +393,6 @@
 127.0.0.1 advapi.ahtv.cn
 #www.fjtv.net
 127.0.0.1 adv.fjtv.net
-#www.gridsum.com
-127.0.0.1 g.gridsum.com
-127.0.0.1 cfg-md.gridsumdissector.com
-127.0.0.1 cfg-vd.gridsumdissector.com
-127.0.0.1 click.gridsumdissector.com
-127.0.0.1 debugreport.mobiledissector.com
-127.0.0.1 diag-vd.gridsumdissector.com
-127.0.0.1 geo.gridsumdissector.com
-127.0.0.1 impression.gridsumdissector.com
-127.0.0.1 recv-vd.gridsumdissector.cn
-127.0.0.1 recv-vd.gridsumdissector.com
-127.0.0.1 recv-wd.gridsumdissector.com
-127.0.0.1 sso-cas.gridsumdissector.com
-127.0.0.1 static.gridsumdissector.com
 #www.pingshu8.com
 127.0.0.1 a1.kuku99.com
 127.0.0.1 a2.kuku99.com

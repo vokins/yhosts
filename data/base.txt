@@ -40,6 +40,7 @@
 127.0.0.1 su.bdimg.com
 @base/baidu-static
 127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 @base/baidu/wenku
 127.0.0.1 wkclick.baidu.com
@@ -51,16 +52,27 @@
 @base/qq
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
+127.0.0.1 mi.gdt.qq.com
 @base/qq-jd
 127.0.0.1 u.x.jd.com
 127.0.0.1 x.jd.com
+@base/sina
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
 @base/sohu
 127.0.0.1 images.sohu.com
 @base/sohu-sogou
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 wuliao.epro.sogou.com
+127.0.0.1 theta.sogoucdn.com
+@base/taobao
+127.0.0.1 adash.m.taobao.com
 @base/google
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
+127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 static.googleadsserving.cn
+127.0.0.1 tpc.googlesyndication.com

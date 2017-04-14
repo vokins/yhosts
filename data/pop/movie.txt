@@ -1,6 +1,9 @@
 @site/movie
 #dygang.com
 127.0.0.1 dygang.kkcaicai.com
+127.0.0.1 img1.tzxrs.com
+127.0.0.1 img2.tzxrs.com
+127.0.0.1 img3.tzxrs.com
 #dytt8.net
 127.0.0.1 c.k429fma.com
 127.0.0.1 url.222bz.com

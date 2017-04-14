@@ -42,6 +42,8 @@
 127.0.0.1 ym.adnxs.com
 #adperium.com
 127.0.0.1 adperium.com
+#adplxmd.com
+127.0.0.1 cdn.adplxmd.com
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com

@@ -445,7 +445,6 @@
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 #ali-taobao
-127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
@@ -544,7 +543,6 @@
 #baidu-iframe
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
-127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 rigel.baidustatic.com
 #baidu-tuisong
@@ -693,14 +691,12 @@
 #sina-com.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
-127.0.0.1 beacon.sina.com.cn
 127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
-127.0.0.1 d3.sina.com.cn
 127.0.0.1 d4.sina.com.cn
 127.0.0.1 d5.sina.com.cn
 127.0.0.1 d6.sina.com.cn
@@ -716,7 +712,6 @@
 127.0.0.1 motu.p4p.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
-127.0.0.1 sax.sina.com.cn
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
@@ -813,8 +808,7 @@
 #sogou-cdn
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 dl.wan.sogoucdn.com
-127.0.0.1 galaxy.sogoucdn.com
-127.0.0.1 theta.sogoucdn.com
+127.0.0.1 galaxy.sogoucdn.
 #sogou-cpc
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 cpc.sogou.com
@@ -1538,6 +1532,20 @@
 127.0.0.1 v-sence.gentags.net
 127.0.0.1 image.gentags.com
 127.0.0.1 www.gentags.com
+#www.gridsum.com
+127.0.0.1 g.gridsum.com
+127.0.0.1 cfg-md.gridsumdissector.com
+127.0.0.1 cfg-vd.gridsumdissector.com
+127.0.0.1 click.gridsumdissector.com
+127.0.0.1 debugreport.mobiledissector.com
+127.0.0.1 diag-vd.gridsumdissector.com
+127.0.0.1 geo.gridsumdissector.com
+127.0.0.1 impression.gridsumdissector.com
+127.0.0.1 recv-vd.gridsumdissector.cn
+127.0.0.1 recv-vd.gridsumdissector.com
+127.0.0.1 recv-wd.gridsumdissector.com
+127.0.0.1 sso-cas.gridsumdissector.com
+127.0.0.1 static.gridsumdissector.com
 #guomob
 127.0.0.1 c1.guomob.com
 127.0.0.1 guomob.com

@@ -1,6 +1,9 @@
 @site/life-info
 #jandan.net
 127.0.0.1 s.jandan.com
+#juzimi.com
+127.0.0.1 xji.qwxcs.com
+127.0.0.1 xco.qwxcs.com
 #meishij
 127.0.0.1 ma1.meishij.net
 127.0.0.1 ma2.meishij.net

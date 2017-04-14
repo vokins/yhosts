@@ -45,6 +45,20 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 js89.shanglinli.com
+127.0.0.1 b.xm9178.com
+127.0.0.1 t.jqpszdq.com
+127.0.0.1 hp.dasheng100.com
+127.0.0.1 js883.qsbz2011.com
+127.0.0.1 pw.lpsxssm.com
+127.0.0.1 image.hj217.com
+127.0.0.1 tz.xm9178.com
+127.0.0.1 pgm.yide69.com
+127.0.0.1 s3.limeishang.com
+127.0.0.1 y.xm9178.com
+127.0.0.1 s1.huiqituan.com
+127.0.0.1 s883.szfm1.com
+127.0.0.1 fp.dasheng100.com
 127.0.0.1 js883.tongqing2015.com
 127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 cacaca.sp96878.com
@@ -146,7 +160,6 @@
 127.0.0.1 www.liangao.com
 127.0.0.1 yoo.yiiyoo.net
 #diggbt.net
-127.0.0.1 pgm.yide69.com
 127.0.0.1 z.kt0731.com
 127.0.0.1 js3555.championmachinery-cn.com
 127.0.0.1 bb.78gua.com
@@ -269,7 +282,6 @@
 127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 js453.zhudiaosz.com
 127.0.0.1 p.shagent.com
-127.0.0.1 s1.huiqituan.com
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 s2.limeishang.com
