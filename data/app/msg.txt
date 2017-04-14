@@ -1,0 +1,17 @@
+@app-msg
+#http://im.qq.com/
+127.0.0.1 activeqq.3g.qq.com
+127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 masdk.3g.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 log.tbs.qq.com
+#http://weixin.qq.com/
+127.0.0.1 btrace.qq.com
+127.0.0.1 btrace.video.qq.com
+127.0.0.1 wxsnsdy.tc.qq.com
+127.0.0.1 wxsnsdy.video.qq.com
+#http://yixin.im/
+127.0.0.1 ad.yixin.im

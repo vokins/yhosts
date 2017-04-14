@@ -54,8 +54,6 @@
 127.0.0.1 image.hj217.com
 127.0.0.1 tz.xm9178.com
 127.0.0.1 pgm.yide69.com
-127.0.0.1 s3.limeishang.com
-127.0.0.1 y.xm9178.com
 127.0.0.1 s1.huiqituan.com
 127.0.0.1 s883.szfm1.com
 127.0.0.1 fp.dasheng100.com

@@ -1,0 +1,37 @@
+@app-read
+#http://app.myzaker.com/
+127.0.0.1 adm.myzaker.com
+127.0.0.1 ggs.myzaker.com
+127.0.0.1 hotphone.myzaker.com
+#https://flipboard.com/
+127.0.0.1 ad.flipboard.com
+127.0.0.1 ad-beta.flipboard.com
+#http://m.jiemian.com/
+127.0.0.1 ad.jiemian.com
+#http://www.wufazhuce.com/
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
+#http://m.thepaper.cn/
+127.0.0.1 ad.thepaper.cn
+127.0.0.1 imgad.thepaper.cn
+#http://m.toutiao.com/
+127.0.0.1 ad.toutiao.com
+127.0.0.1 d.toutiao.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
+127.0.0.1 partner.toutiao.com
+127.0.0.1 analytics.snssdk.com
+127.0.0.1 s3a.pstatp.com
+127.0.0.1 s3.pstatp.com
+#http://m.yuedu.163.com/
+127.0.0.1 wr.da.netease.com
+127.0.0.1 push.yuedu.163.com
+#http://kuaibao.qq.com/mobile.html
+127.0.0.1 news.l.qq.com
+127.0.0.1 r.cnews.qq.com
+127.0.0.1 tui.gtimg.com
+127.0.0.1 ss.missyouxi.com

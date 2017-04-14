@@ -1,78 +1,133 @@
-@base/ali-alicdn
-127.0.0.1 asearch.alicdn.com
-127.0.0.1 atanx.alicdn.com
-127.0.0.1 atanx2.alicdn.com
-@base/ali-alimama
-127.0.0.1 a.alimama.cn
-@base/ali-cnzz
-127.0.0.1 cnzz.mmstat.com
-127.0.0.1 c.cnzz.com
-127.0.0.1 ca.cnzz.com
-127.0.0.1 ei.cnzz.com
-127.0.0.1 jserr.cnzz.com
-127.0.0.1 pcookie.cnzz.com
-127.0.0.1 hzvs1.cnzz.com
-127.0.0.1 s95.cnzz.com
-@base/ali-tanx
-127.0.0.1 a.tanx.com
-127.0.0.1 cdn.tanx.com
-127.0.0.1 df.tanx.com
-127.0.0.1 p.tanx.com
-@base/ali-taobaocdn
-127.0.0.1 strip.taobaocdn.com
-@base/baidu
-127.0.0.1 api.share.baidu.com
-127.0.0.1 bdimg.share.baidu.com
-127.0.0.1 boscdn.bpc.baidu.com
-127.0.0.1 bzclk.baidu.com
-127.0.0.1 cm.pos.baidu.com
-127.0.0.1 eclick.baidu.com
-127.0.0.1 eiv.baidu.com
-127.0.0.1 entry.baidu.com
-127.0.0.1 hm.baidu.com
-127.0.0.1 nsclick.baidu.com
-127.0.0.1 pos.baidu.com
-127.0.0.1 wn.pos.baidu.com
-@base/baidu-bdimg
-127.0.0.1 ecma.bdimg.com
-127.0.0.1 ecmb.bdimg.com
-127.0.0.1 ecmc.bdimg.com
-127.0.0.1 su.bdimg.com
-@base/baidu-static
-127.0.0.1 cpro.baidustatic.com
-127.0.0.1 cpro2.baidustatic.com
-127.0.0.1 ubmcmm.baidustatic.com
-@base/baidu/wenku
-127.0.0.1 wkclick.baidu.com
-@base/qihoo
+@base-360
+#360
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
-@base/qq
+@base-ali
+#alicdn
+127.0.0.1 asearch.alicdn.com
+127.0.0.1 atanx.alicdn.com
+127.0.0.1 atanx2.alicdn.com
+127.0.0.1 tce.alicdn.com
+#alimama
+127.0.0.1 a.alimama.cn
+#cnzz
+127.0.0.1 c.cnzz.com
+127.0.0.1 ca.cnzz.com
+127.0.0.1 ei.cnzz.com
+127.0.0.1 icon.cnzz.com
+127.0.0.1 jserr.cnzz.com
+127.0.0.1 pcookie.cnzz.com
+127.0.0.1 hm2.cnzz.com
+127.0.0.1 hzs12.cnzz.com
+127.0.0.1 hzvs1.cnzz.com
+127.0.0.1 qhm2.cnzz.com
+127.0.0.1 s11.cnzz.com
+127.0.0.1 s23.cnzz.com
+127.0.0.1 s38.cnzz.com
+127.0.0.1 s4.cnzz.com
+127.0.0.1 s95.cnzz.com
+127.0.0.1 v1.cnzz.com
+127.0.0.1 z11.cnzz.com
+127.0.0.1 z13.cnzz.com
+127.0.0.1 z4.cnzz.com
+127.0.0.1 www.cnzz.com
+#mmstat
+127.0.0.1 log.mmstat.com
+127.0.0.1 cnzz.mmstat.com
+#tanx
+127.0.0.1 a.tanx.com
+127.0.0.1 cdn.tanx.com
+127.0.0.1 cms.tanx.com
+127.0.0.1 df.tanx.com
+127.0.0.1 p.tanx.com
+127.0.0.1 pcookie.tanx.com
+127.0.0.1 phs.tanx.com
+#taobao
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 strip.taobaocdn.com
+@base-baidu
+#ads
+127.0.0.1 api.share.baidu.com
+127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 boscdn.bpc.baidu.com
+127.0.0.1 bzclk.baidu.com
+127.0.0.1 cbjs.baidu.com
+127.0.0.1 cm.pos.baidu.com
+127.0.0.1 eclick.baidu.com
+127.0.0.1 eiv.baidu.com
+127.0.0.1 entry.baidu.com
+127.0.0.1 s.cpro.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 wn.pos.baidu.com
+#bdimg
+127.0.0.1 ecma.bdimg.com
+127.0.0.1 ecmb.bdimg.com
+127.0.0.1 ecmc.bdimg.com
+127.0.0.1 su.bdimg.com
+#baidustatic
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro2.baidustatic.com
+127.0.0.1 dup.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+#http://tieba.baidu.com
+127.0.0.1 bj.bcebos.com
+#https://wenku.baidu.com
+127.0.0.1 wkclick.baidu.com
+127.0.0.1 tob-cms.bj.bcebos.com
+127.0.0.1 wenku-cms.bj.bcebos.com
+#https://zhidao.baidu.com
+127.0.0.1 kstj.baidu.com
+127.0.0.1 fex.bdstatic.com
+@base-qq
+#qq
+127.0.0.1 dp3.qq.com
+127.0.0.1 j.wit.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 setting.snswin.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
-127.0.0.1 mi.gdt.qq.com
-@base/qq-jd
+127.0.0.1 union.discuz.qq.com
+#gtimg
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 wa.gtimg.com
+#l
+127.0.0.1 bs.l.qq.com
+127.0.0.1 lb.l.qq.com
+127.0.0.1 p3.l.qq.com
+127.0.0.1 w.l.qq.com
+@base-jd
 127.0.0.1 u.x.jd.com
 127.0.0.1 x.jd.com
-@base/sina
+@base-sina
 127.0.0.1 d3.sina.com.cn
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 beacon.sina.com.cn
-@base/sohu
+@base-sohu
 127.0.0.1 images.sohu.com
-@base/sohu-sogou
+127.0.0.1 t.go.sohu.com
+127.0.0.1 zz.m.sohu.com
+@base-sogou
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 ping.acc.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 theta.sogoucdn.com
-@base/taobao
-127.0.0.1 adash.m.taobao.com
-@base/google
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 partner.googleadservices.com
+@base-google
+#doubleclick
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 static.googleadsserving.cn
+#syndication
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
+@base-msn
+127.0.0.1 c.bing.com
+127.0.0.1 c.msn.com
+127.0.0.1 otf.msn.com
+127.0.0.1 rad.msn.com

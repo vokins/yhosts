@@ -1,0 +1,7 @@
+@app-vpn
+#vpn-ark
+127.0.0.1 newswifiapi.dfshurufa.com
+#vpn-betternet
+127.0.0.1 api.vungle.com
+127.0.0.1 wpc.32df9.rhocdn.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net

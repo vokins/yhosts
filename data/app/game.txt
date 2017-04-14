@@ -1,0 +1,27 @@
+@app-game
+#com2us
+127.0.0.1 s.com2us.net
+127.0.0.1 push.com2us.net
+#doodlemobile
+127.0.0.1 data.doodlemobile.com
+127.0.0.1 data2.doodlemobile.com
+127.0.0.1 f.doodlemobile.com
+127.0.0.1 m.doodlemobile.com
+#eamobile
+127.0.0.1 cdn.adc.eamobile.com
+#ft games
+127.0.0.1 ads.feelingtouch.com
+#gameloft
+127.0.0.1 imp-mdsp.avazutracking.net
+127.0.0.1 ingameads.gameloft.com
+#gametower
+127.0.0.1 ad.gametower.com.tw
+#rayjump
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+#rovio
+127.0.0.1 ads.cdn.rovio.com
+127.0.0.1 cloud.rovio.com
+#tomcat
+127.0.0.1 cdn.outfit7.com

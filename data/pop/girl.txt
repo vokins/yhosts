@@ -69,6 +69,13 @@
 127.0.0.1 www.4207008.com
 127.0.0.1 www-777563.com
 127.0.0.1 www.222627.com
+#http://www.tuj8.net/
+127.0.0.1 a.e7009.com
+127.0.0.1 d.qceg.net
+127.0.0.1 f.jtxh.net
+127.0.0.1 img.hayohui.cn
+127.0.0.1 js4390.tongqing2015.com
+127.0.0.1 ssp.jtxh.net
 #zhaofuli.xyz
 127.0.0.1 changan.bama555.com
 127.0.0.1 www.5345ll.com

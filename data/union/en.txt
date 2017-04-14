@@ -12,7 +12,10 @@
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 www.adcolony.com
 #addthis.com
+127.0.0.1 m.addthisedge.com
+127.0.0.1 m.addthis.com
 127.0.0.1 s7.addthis.com
+127.0.0.1 su.addthis.com
 #adinall.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
@@ -29,6 +32,7 @@
 127.0.0.1 inline.admedia.com
 127.0.0.1 m.admedia.com
 #adnxs.com
+127.0.0.1 acdn.adnxs.com
 127.0.0.1 admeld.adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
@@ -132,6 +136,7 @@
 #bluekai.com
 127.0.0.1 bluekai.com
 127.0.0.1 tags.bluekai.com
+127.0.0.1 match.adsrvr.org
 #buysellads
 127.0.0.1 s3.buysellads.com
 127.0.0.1 stats.buysellads.com
@@ -143,6 +148,9 @@
 #channeladvisor
 127.0.0.1 t.channeladvisor.com
 127.0.0.1 tracking2.channeladvisor.com
+#chartbeat.com
+127.0.0.1 ping.chartbeat.net
+127.0.0.1 static.chartbeat.com
 #contentabc.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 vz-cdn.contentabc.com
@@ -215,15 +223,12 @@
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 #google-syndication
 127.0.0.1 afs.googlesyndication.com
-127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
 #google-others
 127.0.0.1 s0.2mdn.net
@@ -380,8 +385,6 @@
 127.0.0.1 www.mopub.com
 #msn
 127.0.0.1 ads1.msads.net
-127.0.0.1 c.msn.com
-127.0.0.1 otf.msn.com
 127.0.0.1 mobileads.msn.com
 #mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi

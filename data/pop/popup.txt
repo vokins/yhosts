@@ -124,6 +124,10 @@
 127.0.0.1 mob.huimee.net
 127.0.0.1 q.0451106.com
 127.0.0.1 yess.imneinei.com
+127.0.0.1 js.hslyqs.com
+127.0.0.1 js.cdjqjy.com
+127.0.0.1 www.zz123.com
+127.0.0.1 zz2.hslyqs.com
 #3ygww.com
 127.0.0.1 b.3ygww.com
 127.0.0.1 in.3ygww.com

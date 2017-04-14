@@ -1,0 +1,33 @@
+@app-tools
+#http://51wnl.com/
+127.0.0.1 ad.51wnl.com
+127.0.0.1 ad-android.51wnl.com
+#http://www.chubao.cn/
+127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 cootek-file.cdn.cootekservice.com
+127.0.0.1 data-news.cdn.cootekservice.com
+127.0.0.1 dialer.cdn.cootekservice.com
+127.0.0.1 ws2.cootekservice.com
+127.0.0.1 data-pic.cdn.cootekservice.com
+#http://lbesec.com/
+127.0.0.1 cdn1.lbesec.com
+#https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 api.appodeal.com
+127.0.0.1 api.mobads4app.com
+127.0.0.1 www.appodealx.com
+#http://www.jiakaobaodian.com/
+127.0.0.1 123.click.kakamobi.cn
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
+127.0.0.1 smart.789.kakamobi.cn
+#http://www.kuaiya.cn/
+127.0.0.1 lottery.kuaiya.cn
+127.0.0.1 api.dewmobile.net
+127.0.0.1 downloada.dewmobile.net
+127.0.0.1 downloadb.dewmobile.net
+#http://www.suishen.mobi/
+127.0.0.1 marketing.etouch.cn
+127.0.0.1 pclog.suishenyun.net
+127.0.0.1 client-dmp.suishenyun.cn
+127.0.0.1 log-dmp.suishenyun.cn

@@ -26,7 +26,6 @@
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com
 127.0.0.1 rd.da.netease.com
-127.0.0.1 wr.da.netease.com
 #163-youdao
 127.0.0.1 a.youdao.com
 127.0.0.1 conv.youdao.com
@@ -67,7 +66,6 @@
 127.0.0.1 oimageb2.ydstatic.com
 127.0.0.1 oimagec5.ydstatic.com
 127.0.0.1 oimageb8.ydstatic.com
-#360
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ps.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
@@ -143,14 +141,12 @@
 127.0.0.1 go.cnzz.com
 127.0.0.1 gzs20.cnzz.com
 127.0.0.1 help.cnzz.com
-127.0.0.1 hm2.cnzz.com
 127.0.0.1 hm3.cnzz.com
 127.0.0.1 hqs1.cnzz.com
 127.0.0.1 hqs4.cnzz.com
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hqs9.cnzz.com
 127.0.0.1 hzs10.cnzz.com
-127.0.0.1 hzs12.cnzz.com
 127.0.0.1 hzs13.cnzz.com
 127.0.0.1 hzs14.cnzz.com
 127.0.0.1 hzs17.cnzz.com
@@ -161,7 +157,6 @@
 127.0.0.1 hzs7.cnzz.com
 127.0.0.1 hzs8.cnzz.com
 127.0.0.1 hzs9.cnzz.com
-127.0.0.1 icon.cnzz.com
 127.0.0.1 imf.cnzz.com
 127.0.0.1 intf.cnzz.com
 127.0.0.1 iuc.cnzz.com
@@ -177,7 +172,6 @@
 127.0.0.1 q1.cnzz.com
 127.0.0.1 q12.cnzz.com
 127.0.0.1 q14.cnzz.com
-127.0.0.1 qhm2.cnzz.com
 127.0.0.1 quanjing.cnzz.com
 127.0.0.1 s1.cnzz.com
 127.0.0.1 s10.cnzz.com
@@ -191,7 +185,6 @@
 127.0.0.1 s107.cnzz.com
 127.0.0.1 s108.cnzz.com
 127.0.0.1 s109.cnzz.com
-127.0.0.1 s11.cnzz.com
 127.0.0.1 s110.cnzz.com
 127.0.0.1 s111.cnzz.com
 127.0.0.1 s112.cnzz.com
@@ -238,7 +231,6 @@
 127.0.0.1 s20.cnzz.com
 127.0.0.1 s21.cnzz.com
 127.0.0.1 s22.cnzz.com
-127.0.0.1 s23.cnzz.com
 127.0.0.1 s24.cnzz.com
 127.0.0.1 s25.cnzz.com
 127.0.0.1 s26.cnzz.com
@@ -254,9 +246,7 @@
 127.0.0.1 s35.cnzz.com
 127.0.0.1 s36.cnzz.com
 127.0.0.1 s37.cnzz.com
-127.0.0.1 s38.cnzz.com
 127.0.0.1 s39.cnzz.com
-127.0.0.1 s4.cnzz.com
 127.0.0.1 s40.cnzz.com
 127.0.0.1 s41.cnzz.com
 127.0.0.1 s42.cnzz.com
@@ -323,7 +313,6 @@
 127.0.0.1 s99.cnzz.com
 127.0.0.1 sitedb.cnzz.com
 127.0.0.1 updateimcnzz.cnzz.com
-127.0.0.1 v1.cnzz.com
 127.0.0.1 v10.cnzz.com
 127.0.0.1 v11.cnzz.com
 127.0.0.1 v12.cnzz.com
@@ -340,10 +329,7 @@
 127.0.0.1 w.cnzz.com
 127.0.0.1 wss.cnzz.com
 127.0.0.1 z1.cnzz.com
-127.0.0.1 z11.cnzz.com
-127.0.0.1 z13.cnzz.com
 127.0.0.1 z2.cnzz.com
-127.0.0.1 z4.cnzz.com
 127.0.0.1 z5.cnzz.com
 127.0.0.1 z6.cnzz.com
 127.0.0.1 z7.cnzz.com
@@ -368,7 +354,6 @@
 127.0.0.1 zs9.cnzz.com
 127.0.0.1 zvs1.cnzz.com
 127.0.0.1 zvs2.cnzz.com
-127.0.0.1 www.cnzz.com
 #ali-ipinyou
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 file.ipinyou.com.cn
@@ -419,7 +404,6 @@
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
 127.0.0.1 hz.mmstat.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
@@ -432,7 +416,6 @@
 127.0.0.1 click.tanx.com
 127.0.0.1 cmc.tanx.com
 127.0.0.1 cms.opendsp.tanx.com
-127.0.0.1 cms.tanx.com
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 ef.opendsp.tanx.com
 127.0.0.1 ef.tanx.com
@@ -440,8 +423,6 @@
 127.0.0.1 ex.tanx.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
-127.0.0.1 pcookie.tanx.com
-127.0.0.1 phs.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 #ali-taobao
@@ -510,7 +491,6 @@
 127.0.0.1 api.cpu.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 bce.baidu.com
-127.0.0.1 cbjs.baidu.com
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
@@ -531,7 +511,6 @@
 127.0.0.1 qianclick.baidu.com
 127.0.0.1 release.baidu.com
 127.0.0.1 rplog.baidu.com
-127.0.0.1 s.cpro.baidu.com
 127.0.0.1 sclick.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 snippet.pos.baidu.com
@@ -543,7 +522,6 @@
 #baidu-iframe
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
-127.0.0.1 dup.baidustatic.com
 127.0.0.1 rigel.baidustatic.com
 #baidu-tuisong
 127.0.0.1 api.tuisong.baidu.com
@@ -572,7 +550,6 @@
 127.0.0.1 hdj.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 inside.baidu.com
-127.0.0.1 kstj.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
 127.0.0.1 mssp.baidu.com
@@ -584,10 +561,7 @@
 127.0.0.1 unstat.baidu.com
 #baidu-player
 127.0.0.1 ad.player.baidu.com
-#baidu-tieba
-127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
-127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
@@ -641,7 +615,6 @@
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 i.gdt.qq.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 t.gdt.qq.com
@@ -652,22 +625,16 @@
 127.0.0.1 ca.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 swa.gtimg.com
-127.0.0.1 tui.gtimg.com
 127.0.0.1 wb.gtimg.com
-127.0.0.1 pgdt.gtimg.cn
 #qq-l
 127.0.0.1 c2.l.qq.com
 127.0.0.1 cb.l.qq.com
 127.0.0.1 hm.l.qq.com
 127.0.0.1 l2.l.qq.com
-127.0.0.1 lb.l.qq.com
 127.0.0.1 livem.l.qq.com
 127.0.0.1 ls.l.qq.com
-127.0.0.1 news.l.qq.com
 127.0.0.1 p2.l.qq.com
-127.0.0.1 p3.l.qq.com
 127.0.0.1 t.l.qq.com
-127.0.0.1 w.l.qq.com
 #qq-im.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
@@ -735,6 +702,9 @@
 127.0.0.1 sscm2.mipujia.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 wap.cioujs.com
+127.0.0.1 i.hao61.net
+127.0.0.1 cdn.aiwen.cc
 127.0.0.1 qiyezs.aiwen.cc
 127.0.0.1 qiyem.aiwen.cc
 #sina-icast
@@ -775,7 +745,6 @@
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
-127.0.0.1 t.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
 127.0.0.1 txt.go.sohu.com
@@ -921,6 +890,7 @@
 127.0.0.1 icon.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
+127.0.0.1 icon.users.51.la
 127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
 127.0.0.1 vip.51.la
@@ -1484,9 +1454,6 @@
 #dsp.com
 127.0.0.1 cdn.dsp.com
 127.0.0.1 secure.dsp.com
-#duomai
-127.0.0.1 c.duomai.com
-127.0.0.1 duomai.com
 #duomeng
 127.0.0.1 duomeng.cn
 127.0.0.1 c.duomeng.cn
@@ -1504,12 +1471,6 @@
 127.0.0.1 tongji.eduancm.com
 127.0.0.1 xiazai.eduancm.com
 127.0.0.1 www.eduancm.com
-#emar
-127.0.0.1 eavs02.eqifa.com
-127.0.0.1 p.yiqifa.com
-127.0.0.1 image.yiqifa.com
-127.0.0.1 www.yiqifa.com
-127.0.0.1 www.emar.com.cn
 #emarbox.com
 127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com

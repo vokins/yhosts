@@ -1,15 +1,15 @@
-@android/amigo
+@android-amigo
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
-@android/lenovo
+@android-lenovo
 127.0.0.1 adapi.lenovogame.com
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 imfsr.lenovomm.com
 127.0.0.1 lds.lenovomm.com
 127.0.0.1 mfsr.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
-@android/meizu
+@android-meizu
 #flyme-ads
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
@@ -43,7 +43,7 @@
 127.0.0.1 tongji.meizu.com
 #flyme-weather
 127.0.0.1 aider-res.meizu.com
-@android/miui
+@android-miui
 #cm-adfuture
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
@@ -119,6 +119,7 @@
 127.0.0.1 news.docer.com
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
+127.0.0.1 i1.go2yd.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
@@ -187,7 +188,7 @@
 127.0.0.1 info.sec.miui.com
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
-@android/mokee
+@android-mokee
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com

@@ -1,0 +1,93 @@
+@app-browser
+#http://browser.lenovo.com/
+127.0.0.1 fw.mb.lenovomm.com
+127.0.0.1 mb.lenovomm.com
+127.0.0.1 news.mb.lenovomm.com
+127.0.0.1 ad.gtbrowser.com
+127.0.0.1 api.gtbrowser.com
+#http://m.browser.baidu.com/mb
+127.0.0.1 als.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 mbrowser.bdstatic.com
+#http://mb.qq.com/
+127.0.0.1 adsense.html5.qq.com
+127.0.0.1 cooperation.html5.qq.com
+127.0.0.1 game.html5.qq.com
+127.0.0.1 jpush.html5.qq.com
+127.0.0.1 mqqad.cs0309.html5.qq.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 pvstat.html5.qq.com
+127.0.0.1 recmd.html5.qq.com
+127.0.0.1 tpush.html5.qq.com
+127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 cfg.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 mqqadr.reader.qq.com
+127.0.0.1 news.mpush.qq.com
+#http://mse.360.cn/
+127.0.0.1 mbrowser.news.haosou.com
+127.0.0.1 mbrowser.news.so.com
+127.0.0.1 mbs.hao.360.cn
+#http://mse.sogou.com/
+127.0.0.1 123.sogou.com
+127.0.0.1 bazinga.mse.sogou.com
+127.0.0.1 feed.theta.sogou.com
+#http://oupeng.com/
+127.0.0.1 c.bxb.oupeng.com
+127.0.0.1 cp.oupeng.com
+127.0.0.1 ezine.oupeng.com
+127.0.0.1 img-ad.oupeng.com
+127.0.0.1 img.zixun.oupeng.com
+127.0.0.1 r.bxb.oupeng.com
+127.0.0.1 startup.oupeng.com
+127.0.0.1 zixun.oupeng.com
+127.0.0.1 c.adbxb.cn
+127.0.0.1 opgirl-tmp.adbxb.cn
+#https://www.ghostery.com/
+127.0.0.1 l.betrad.com
+127.0.0.1 c.betrad.com
+#https://play.google.com/store/apps/details?id=jp.ddo.pigsty.HabitBrowser
+127.0.0.1 spap.adingo.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
+127.0.0.1 adfuri.socdm.com
+127.0.0.1 cast-bid27-j.adtdp.com
+127.0.0.1 n.amoad.com
+127.0.0.1 sp.gmossp-sp.jp
+127.0.0.1 spapi.i-mobile.co.jp
+127.0.0.1 t.adcrops.net
+#http://www.uc.cn/
+127.0.0.1 adslot.uc.cn
+127.0.0.1 api.mp.uc.cn
+127.0.0.1 api.ugame.uc.cn
+127.0.0.1 app.uc.cn
+127.0.0.1 applog.uc.cn
+127.0.0.1 dispatcher.upmc.uc.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 igouwu.uc.cn
+127.0.0.1 m.app.uc.cn
+127.0.0.1 sdkgame.ugame.uc.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 ccs.ucweb.com
+127.0.0.1 client.video.ucweb.com
+127.0.0.1 cms.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 safe.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 ucsec.ucweb.com
+127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 iflow.uczzd.cn
+127.0.0.1 iflow.uczzd.com
+127.0.0.1 iflow.uczzd.com.cn
+127.0.0.1 iflow.uczzd.net
+127.0.0.1 image.uczzd.cn
+127.0.0.1 m.uczzd.cn
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 patriot.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
+127.0.0.1 huichuan.sm.cn
