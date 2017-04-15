@@ -47,9 +47,6 @@
 127.0.0.1 zixun.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
-#https://www.ghostery.com/
-127.0.0.1 l.betrad.com
-127.0.0.1 c.betrad.com
 #https://play.google.com/store/apps/details?id=jp.ddo.pigsty.HabitBrowser
 127.0.0.1 spap.adingo.jp
 127.0.0.1 spap.adingo.jp.eimg.jp
@@ -59,6 +56,15 @@
 127.0.0.1 sp.gmossp-sp.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 t.adcrops.net
+#https://www.ghostery.com/
+127.0.0.1 l.betrad.com
+127.0.0.1 c.betrad.com
+#http://www.liebao.cn/
+127.0.0.1 an.m.liebao.cn
+127.0.0.1 cms.an.m.liebao.cn
+127.0.0.1 cr.m.liebao.cn
+127.0.0.1 j.wan.liebao.cn
+127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #http://www.uc.cn/
 127.0.0.1 adslot.uc.cn
 127.0.0.1 api.mp.uc.cn

@@ -32,7 +32,6 @@
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
 #http://kuaibao.qq.com/mobile.html
-127.0.0.1 dp3.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 r.cnews.qq.com

@@ -248,7 +248,6 @@
 127.0.0.1 t.dangdang.com
 #jd.com
 127.0.0.1 ads.union.jd.com
-127.0.0.1 bdsp.x.jd.com
 127.0.0.1 du.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 wn.x.jd.com

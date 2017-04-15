@@ -64,14 +64,11 @@
 127.0.0.1 p-l.play.aiseet.atianqi.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 vmindhls.tc.qq.com
-127.0.0.1 wa.gtimg.com
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
-127.0.0.1 omgmta1.qq.com
-127.0.0.1 dp3.qq.com
 #v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
@@ -166,7 +163,6 @@
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com
-127.0.0.1 zz.m.sohu.com
 127.0.0.1 da.mmarket.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
@@ -215,7 +211,6 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
-127.0.0.1 nbsdk-baichuan.alicdn.com
 #wasu.tv
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv

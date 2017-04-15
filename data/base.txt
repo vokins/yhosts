@@ -22,6 +22,10 @@
 127.0.0.1 tce.alicdn.com
 #alimama
 127.0.0.1 a.alimama.cn
+#baichuan
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 nbsdk-baichuan.alicdn.com
 #cnzz
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
@@ -49,6 +53,8 @@
 #mmstat
 127.0.0.1 log.mmstat.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 gm.mmstat.com
+127.0.0.1 wgo.mmstat.com
 #tanx
 127.0.0.1 a.tanx.com
 127.0.0.1 cdn.tanx.com
@@ -58,8 +64,10 @@
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 phs.tanx.com
 #cps
+127.0.0.1 afpssp.alimama.com
 127.0.0.1 redirect.simba.taobao.com
 #taobao
+127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
@@ -79,6 +87,7 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
+127.0.0.1 hmma.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
 127.0.0.1 nsclick.baidu.com
@@ -95,22 +104,54 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
-#http://tieba.baidu.com
+#http://pan.baidu.com/
+127.0.0.1 appc.baidu.com
+127.0.0.1 cpu.baidu.com
+127.0.0.1 yd.baidu.com
+127.0.0.1 wkctj.baidu.com
+#http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
-#https://wenku.baidu.com
+#https://wenku.baidu.com/
 127.0.0.1 wkclick.baidu.com
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 wenku-cms.bj.bcebos.com
-#https://zhidao.baidu.com
+#https://zhidao.baidu.com/
 127.0.0.1 kstj.baidu.com
 127.0.0.1 fex.bdstatic.com
+#http://v.baidu.com/
+127.0.0.1 adx.xiaodutv.com
+127.0.0.1 nsclickvideo.baidu.com
+127.0.0.1 pc.videoclick.baidu.com
+127.0.0.1 uat1.bfsspadserver.8le8le.com
+@base-cmcm
+#cmcm
+127.0.0.1 ms.cmcm.com
+127.0.0.1 pegasus.cmcm.com
+#ijinshan
+127.0.0.1 andmlbf.tj.ijinshan.com
+127.0.0.1 apns.ios.ijinshan.com
+127.0.0.1 bp.mobad.ijinshan.com
+127.0.0.1 mlb.did.ijinshan.com
+127.0.0.1 sdk.mobad.ijinshan.com
+127.0.0.1 unconf.mobad.ijinshan.com
+#wps
+127.0.0.1 uid.ksosoft.com
+127.0.0.1 event.ksosoft.com
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 ups.ksmobile.net
+127.0.0.1 ws.ksmobile.net
 @base-qq
 #analytics
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
+127.0.0.1 astrategy.beacon.qq.com
+127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 #qq
+127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 j.wit.qq.com
@@ -127,7 +168,12 @@
 127.0.0.1 lb.l.qq.com
 127.0.0.1 p3.l.qq.com
 127.0.0.1 w.l.qq.com
+##http://v.qq.com/
+127.0.0.1 video.wap.mpush.qq.com
+127.0.0.1 video.ureport.push.qq.com
+127.0.0.1 lives.l.qq.com
 @base-jd
+127.0.0.1 bdsp.x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 x.jd.com
 @base-sina
@@ -164,6 +210,7 @@
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
 @base-sohu
 127.0.0.1 images.sohu.com
 127.0.0.1 t.go.sohu.com

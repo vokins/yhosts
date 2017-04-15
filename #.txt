@@ -1,4 +1,34 @@
-﻿http://boardx.huanqiu.com/smu0/h.html
+﻿http://app.migc.xiaomi.com/contentapi/m/mygameupdate
+http://sdkconfig.ad.xiaomi.com:443
+
+摆渡云盘：
+127.0.0.1 appc.baidu.com 软件游戏推荐
+127.0.0.1 cpu.baidu.com 看吧
+127.0.0.1 yd.baidu.com 小说
+127.0.0.1 wkctj.baidu.com 小说
+http://issuecdn.baidupcs.com/issue/netdisk/guanggao/shoub720-1062-0417.jpg?network_type=wifi&vip=2
+v.qq.com
+video.ureport.push.qq.com/ureport/reportmiid?&thirdtype=1&appid=10012&guid=4159759671261035af0480fb9186d00a&regid=ygn1ilPVZLs8KG2E9OL1YN81FYJTWnGoPZq5tn8S5%2BI%3D&appver=5.5.2.11955&imei=863818035818120&imsi=460018358808693&osver=6.0.1
+video.wap.mpush.qq.com:80/push/conn?bid=10012&did=4159759671261035af0480fb9186d00a&auth=3e0c10fff52338d72bc23450&wxid=&seq=26633315
+禁止微信下载qq浏览器:
+http://mdc.html5.qq.com/d/directdown.jsp?channel_id=10318
+http://omgmta1.qq.com:80/mstat/report/?index=1492288970
+http://sdk.mobad.ijinshan.com/b/?v=22&mid=107&sdkt=1&lan=zh_CN&brand=Xiaomi&model=MI+5s+Plus&androidid=42b53368edd2bf0f&cver=439002&mcc=460&mnc=09&ov=23&nt=1&ch=20000009&resolution=1920*1080&gaid=&pl=2&lv=4.1.3&tz=%2B0800&append=71b4c5faf5d15886d3a952dbdc9a8bed9ab5b3896d6e45c4&dnt=2&posid=107119&pg=0&adn=10&offset=0
+baihe:
+http://admanage.baihe.com/advert/getStartAppAdvertImg?traceID=1&systemID=2
+127.0.0.1 admanage.baihe.com
+http://ad.googleanalysis.mobi:8883/v1/statistics
+http://stat.googleanalysis.mobi:8883/2/statistics/proxy
+足球魔方：
+http://zqmfcdn.huanhuba.com/ay_static/images/app_run/*
+http://zqmfcdn.huanhuba.com/ay_static/images/app_run/3ecd9ae783be1cd12981d65f45ae68dfe47c9969.jpg
+http://zqmfcdn.huanhuba.com/ay_static/images/app_run/b7aee0b285b260bbd453390f2ccbf2409ff7d5e0.png
+http://monitor.uu.qq.com/analytics/rqdsync
+http://adash.man.aliyuncs.com/man/api?ak=23356390&s=c12121a95b6ac7fb5a1a4eafaf6c7d379ead3f7e
+http://astrategy.beacon.qq.com:8080/analytics/upload?mType=beacon?sid=3b16a8233537cfff44a5ca6b0057ece7
+http://www.qchannel04.cn/n/init/
+http://www.qchannel01.cn/center/adj?ak=com.qq.reader-6.3.10.888&uid=E965F5ABFEEF8AC00161B187CB2797D7&offline=0
+http://boardx.huanqiu.com/smu0/h.html
 http://union.star-media.cn/smu0/c.js
 var m=[["","http://s.doyo.cn/material/smu/f.html"]];
 xiami:
@@ -10,9 +40,7 @@ http://shop.yinyuetai.com/goods/ad.json?&artistId=2160
 http://mapiv2.yinyuetai.com/ad/getByPlaceId.json?&dataId=2839859&dataType=play&placeId=362
 http://client.stats.yinyuetai.com/newvv?
 http://t.collect.yinyuetai.com/v?a=105747&t=1492270295713
-http://client.stats.yinyuetai.com/newvv?
 http://statisticsv2.yinyuetai.com/video/statistics.json?&s=2d5d1187d5a932c515807b6db216a1cfbM9zPT&progress=0.8&id=2839859
-
 http://eiv.baidu.com/hmt/icon/21.gif
 http://eclick.baidu.com/a.js?tu=u2398793&jk=31d5bbc536af6e02&word=http%3A%2F%2Fjingyan.baidu.com%2Farticle%2F03b2f78c7b6bb05ea237aed2.html&if=0&aw=250&ah=250&pt=3601000&it=1500&vt=1500&csp=1276,632&bcl=1259,536&pof=1259,2703&top=861&left=884&rdm=1492269493282
 http://android.rqd.qq.com/analytics/async?aid=70cf768c-6396-49fc-8f40-0edbf38db305
@@ -35,20 +63,15 @@ http://wa.kuwo.cn/lyrics/img/kwgg/adv5692/index.htm?ver=
 http://webstat.kuwo.cn/logtjsj/commsj/commjstj/www2016/www2016_index_down_ab1.jpg
 http://g.haluoha.com/g.real?aid=text_ad_2689&text=M:KSINSTALLLOADER_1.0.0.3_inst|T:KSINSTALLLOADER_1.0.0.3_inst|Start|MAC:001C42BE2F4C|X64:1|OS:6.1.7601|ADMIN:1|VER:|INT:0000-00-00|MN:rundll32.exe|GID:0
 http://wa.kuwo.cn/lyrics/img/kwgg/adv5450/1491984068713.swf
-
 huajiao:
 http://ad.huajiao.com/ad/active?userid=677426813600590999&deviceid=db7f36accce3a9d56f8e817ec7dba9b9&platform=android&network=wifi&version=5.0.5.1026&rand=0.798123669740013&netspeed=1024&time=1492267743&channel=xiaomi&dui=db7f36accce3a9d56f8e817ec7dba9b9&imei=863818035818120&guid=64d51f5a3c0faa0ee68326a7f5b6ebdf&device=natrium&devicebrand=Xiaomi&devicemanufacturer=Xiaomi&model=mi+5s+plus&androidversion=6.0.1&androidversioncode=23&lng=0.0&lat=0.0&province=&city=&town=&smid=20170415224902ff0c7b4d4f03e047bb4d47cef8153ddc3090f0cb015891da0&muid=f2e08266997e9ac0d2b04fa1a104f6d2
-
 6
-
 #http://music.baidu.com/
 http://click.qianqian.com/v.gif?pid=121&type=2&mc=xiaomi&mcs=OdfBQEG%2FlHgwBtWayCK6%2Bg%3D%3D&url=&mod=android&v=5.9.9.3&uid=[IMEI]863818035818120&cuid=5ED43804FA271F13249693994CA6B0EF&islogin=0&luid=%28null%29&dm=MI%205s%20Plus&dm_ver=6.0.1&ns=2&carri=3&frommispush=0&token=&vip_type=0&tuid=&action=install&mannerr=1
 http://log.music.baidu.com/maamonitor/v.gif?from=android&product=music&version=5.9.9.3&cuid=5ED43804FA271F13249693994CA6B0EF&net=1&ua=MI%205s%20Plus&type=loadtactic&listenType=3&listenTypeId=365370583&s2l=95&timestamp=1492268091737&tactics_id=43
 http://qianclick.baidu.com/v.gif?pid=304&url=&v=1.0.0&r=1492268342911&type=tracesrc&type=xiaoliuliang_newhome&ref=music_web&usertype=1
 http://ttpack.qianqian.com/packs.html?id=11407102&ver=458752&cht=0&shownum=3
 http://update.music.baidu.com/bin/phoenix.fcgi
-
-
 lanrentingshu:
 */advertclient/*
 http://42.62.15.110/yyting/advertclient/ClientAdvertList.action?imei=ODYzODE4MDM1ODE4MTIw&nwt=1&pageNum=1&pageSize=100&q=2&sc=0aaf2fab2fc6bb2eac73bba7864546a6&terminalType=1&token=kA-diOU3PwVyIjRrhQ1HkiVWxdE2Um2g-zdukwv7lbY*&type=3
@@ -58,7 +81,6 @@ qingting:
 http://ad.qingting.fm/api/ad/location
 http://ad.qingting.fm/api/ad/getad?zone=58&region=25&deviceid=ffffffff-b246-2cda-0033-c5870033c587&devicetype=phone&status=silent&posquery=/2/521/begin&pkg=fm.qingting.qtradio&phonetype=Android&channel=211852&imei=A10000452BCBAB&ip=122.207.173.122&v=623&osv=6.0.1&lan=zh-CN&operator=46009&mac=02%3A00%3A00%3A00%3A00%3A00&adid=42b53368edd2bf0f&vendor=Xiaomi&model=MI%2B5s%2BPlus
 http://ad.qingting.fm/api/ad/poslist?version=6
-http://ad.qingting.fm/api/ad/getad?zone=58&region=25&deviceid=ffffffff-b246-2cda-0033-c5870033c587&devicetype=phone&status=silent&posquery=/2/521/begin&pkg=fm.qingting.qtradio&phonetype=Android&channel=211852&imei=A10000452BCBAB&ip=122.207.173.122&v=623&osv=6.0.1&lan=zh-CN&operator=46009&mac=02%3A00%3A00%3A00%3A00%3A00&adid=42b53368edd2bf0f&vendor=Xiaomi&model=MI%2B5s%2BPlus
 http://urd345.analysys.cn:8089
 {"data":{"audio":"http:\/\/od.qingting.fm\/m4a\/58e754467cb8917260d7057d_7115860_64.m4a","duration":15,"id":"2342","image":"https:\/\/s.qtad.qingting.fm\/ford0413v3.jpg","internal_landing":"","interval":120,"landing":"http:\/\/clickc.admaster.com.cn\/c\/a83929,b1629140,c2826,i0,m101,8a2,8b3,h","restype":1,"size":0,"skin":"","subtitle":"","trackers":[{"event_type":"display","provider":"miaozhen","url":"http:\/\/v.admaster.com.cn\/i\/a83929,b1629140,c2826,i0,m202,8a2,8b3,h"},{"event_type":"display","provider":"guoshuang","url":"http:\/\/120.26.196.42\/?ets=__TS__&event_type=display&third=qt_monitor&ts=&zoneid=54&phonetype=ALL&id=fordsuvsong"},{"event_type":"display","provider":"qt","url":"http:\/\/120.26.196.42\/?event_type=display&phonetype=ALL&id=2342&third=qt&zoneid=58"},{"event_type":"click","provider":"qt","url":"http:\/\/120.26.196.42\/?event_type=click&phonetype=ALL&id=2342&third=qt&zoneid=58"}],"use_default_browser":true},"errormsg":"ok","errorno":0,"expiredtime":1.49e+09}
 ximalaya:
@@ -67,6 +89,7 @@ http://adse.ximalaya.com/ting/loading?androidId=e0eec62e5d8da35d641cc42bfe0ecd8d
 http://ad.ximalaya.com/adrecord/nonce/active
 http://linkeye.ximalaya.com/httpdns/init?app=com.ximalaya.ting.android&device=android&version=421e&timestamp=1492264882590
 weibo:
+http://wbapp.mobile.sina.cn/wbapplua/wbpullad.lua
 http://sdkapp.mobile.sina.cn/interface/sdk/sdkad.php
 http://u1.img.mobile.sina.cn/public/files/image/720x1280_img58f0a14796591.jpg
 miui:
@@ -91,31 +114,22 @@ http://adash.m.taobao.com/rest/sur?ak=12278902&av=6.6.2&c=600000%40taobao_androi
 http://adashx.m.taobao.com/rest/gc2?ak=null&av=5.4.93.3&c=null&d=WMzNdhA1/EQDAERMTng6FBvS&sv=2.5.1_for_bc&t=1492264882078&is=1&_b01n15=0&_b01na=0&s=46e3de792d2e25b38a4fc5097cc1116ec3b8ab6f
 天天快报
 http://aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=4553ddce430097a1&sid=3b16a8233537cfff44a5ca6b0057ece7
-
 http://r.cnews.qq.com/getPatchAndroid?networktype=wifi&apptype=android&targetsdk=19&hw=Xiaomi_natrium_natrium_6.0.1_MXB48T_7.4.14_user_release_keys&devid=863818035818120&appversion=2.9.21&appver=23_areading_2.9.21&qn-sig=4122fcc5f86be94cc397ef9134e0bf9a&qn-rid=501036831&patchsdkver=0.3&store=119
 http://dp3.qq.com/dynamic/
 http://dp3.qq.com/qqnews/
 http://p.l.qq.com/p?oid=55&cid=&loid=0&exp_action=0&index=1&seq=1&channel=2017-04-15&media_id=&article_id=&pv_type=0&exp=0&server_data=c29pZD1RcENEZTIxOFdQQnNRd01IMmdXN01mZ3hBZUVI&chid=14&appversion=170303&pf=aphone&app_channel=119&loc=App_Kuaibao_Splash&dtype=3&data=AVSjMt0PdeZm17X8bIPdhcR%2BJXxlObV64Ty4tUrj4QNDSVE0BtZUa1bi0FXfBohygB7ft5G46PlMfOCLT6unU%2BS%2Bg%2BrsS2SuQ72m8UqXgXB2x0Y0sIYHZJjjfIJ9%2BUtBgxitODJvU4yrnpzSxlMm0y%2F%2B%2FfiUMXatLSi3iYmfRGMcGe4o3idtOwZwDHcJ8%2FLo6mdkS3DWxHLrbt12B%2F5YvXxpd9cHMKM42vZD2R7qolMpyPDZDAXdxiE4AiXyA1eWOJMOuPjVmCTJpI9%2FG5h3g3oLrXH8k2xKszQcnW821lbILnqSgEtXDU2ZbvCyIaBFRC75c%2BntVbJL3rwtZYLcBtZpvEigi5QDIc2WQZnFGd65%2FG%2BZFyQWDa%2BFdNwLsgINZT4UkmifWgsY875B4PQo0wnOQHCIJHDAA30ZJWAtbQ3pH9gV%2FHevw23vLl23qt44EbC6mwOPdw1tpOXtOfzfZxbmZSjtraoHKZZbVSaiaRzp6Y5%2BJ12i3SIzktmr675TTvj0TvS9r%2F3omgDbd7PWE2rnmPQlA7grzmaar8SGOKhBPP2kjcGUQzlzA3wlVO5KJnxZ%2BxDzh%2Bm5xXIgOdycAQwU1ivfOw7xOZK4FHl8jzGDfqahVtDVYmSHVfp36%2Fzaij6l41ZvtvDllF%2BSg1N8mnA6oVj2Jh8GS2sL9uQAAuOo%2B%2BNVhGsJ2Vhao0HDu%2FQUNW5lF%2FA3dm1QHF3n7Kf%2FMuVjGJ0RvFxZ96zN%2BJCBoI1rusmCSFk1ialS63s15hUh%2BlYJDm2N5c1tmC3fE6tj5gGGMq4F9%2BOKmElXsgJ9SaaGlHBbupipCodsqCCFXnTEuB7aL3sjFBrl3o9lMbAlmlwDv3Rm9p8aI%2F9cU2wlJif2UItshRwfaVoOiUvhNaruDEnrXolKWMmd&st=2&rt=3
 http://w.cnews.qq.com/cyPushRept?mid=cd7541291e676f954852ad68148d463eaa92c489&devid=863818035818120&mac=78%3A02%3AF8%3AF2%3AE1%3AEA&store=119&screen_height=1920&apptype=android&origin_imei=863818035818120&hw=Xiaomi_MI5sPlus&appversion=2.9.21&appver=23_areading_2.9.21&uid=42b53368edd2bf0f&screen_width=1080&sceneid=&android_id=42b53368edd2bf0f&uin=&omgid=4509e65ead94314e341bc7070face93b98010010212117&push_switch=2&devid=863818035818120&activefrom=icon&appid=wxe90c9765ad00e2cd&qqnetwork=wifi&appuin=42b53368edd2bf0f&luin=&lskey=&refresh_token=&openid=&Cookie=%20lskey%3D%3B%20luin%3D%3B%20skey%3D%3B%20uin%3D%3B%20logintype%3D0%3B&access_token=&currentTab=kuaibao&appver=23_areading_2.9.21&logintype=&omgbizid=b05d455cd9d9054944090c663374565b6e640080212117&imsi_history=460018358808693&skey=&qn-sig=af364dda4adbc0f1e9b4bd4c4084f0d4&qn-rid=43ccd196-ba49-4963-a07c-1fb83d54f80a&imsi=460018358808693
-
 http://news.l.qq.com/app
 http://swa.gtimg.com/app/snswin/2016/11/08/16/1595268.jpg
 http://tui.gtimg.com//res/2016/11/08/18/1596586.jpg
-http://w.cnews.qq.com/cyPushRept?mid=cd7541291e676f954852ad68148d463eaa92c489&devid=863818035818120&mac=78%3A02%3AF8%3AF2%3AE1%3AEA&store=119&screen_height=1920&apptype=android&origin_imei=863818035818120&hw=Xiaomi_MI5sPlus&appversion=2.9.21&appver=23_areading_2.9.21&uid=42b53368edd2bf0f&screen_width=1080&sceneid=&android_id=42b53368edd2bf0f&uin=&omgid=4509e65ead94314e341bc7070face93b98010010212117&push_switch=2&devid=863818035818120&activefrom=icon&appid=wxe90c9765ad00e2cd&qqnetwork=wifi&appuin=42b53368edd2bf0f&luin=&lskey=&refresh_token=&openid=&Cookie=%20lskey%3D%3B%20luin%3D%3B%20skey%3D%3B%20uin%3D%3B%20logintype%3D0%3B&access_token=&currentTab=kuaibao&appver=23_areading_2.9.21&logintype=&omgbizid=b05d455cd9d9054944090c663374565b6e640080212117&imsi_history=460018358808693&skey=&qn-sig=af364dda4adbc0f1e9b4bd4c4084f0d4&qn-rid=43ccd196-ba49-4963-a07c-1fb83d54f80a&imsi=460018358808693
-
 http://r.cnews.qq.com/getSubNewsInterest?mid=cd7541291e676f954852ad68148d463eaa92c489&devid=863818035818120&mac=78%3A02%3AF8%3AF2%3AE1%3AEA&store=119&screen_height=1920&apptype=android&origin_imei=863818035818120&hw=Xiaomi_MI5sPlus&appversion=2.9.21&appver=23_areading_2.9.21&uid=42b53368edd2bf0f&screen_width=1080&sceneid=&android_id=42b53368edd2bf0f&omgid=4509e65ead94314e341bc7070face93b98010010212117&forward=0&activefrom=icon&qqnetwork=wifi&logfrom=0&direction=0&Cookie=%20lskey%3D%3B%20luin%3D%3B%20skey%3D%3B%20uin%3D%3B%20logintype%3D0%3B&currentTab=kuaibao&oldadcode=371302&chlid=daily_timeline&omgbizid=b05d455cd9d9054944090c663374565b6e640080212117&imsi_history=460018358808693&qn-sig=231bc468798404750bb1a9c3bbbbc09b&qn-rid=96c41df0-b975-417f-8483-01499562bbfd&imsi=460018358808693
-http://news.l.qq.com/app
-
 ss.missyouxi.com/kuaibao/images/bg.jpg
 tui.gtimg.com//res/2017/03/13/18/2276957.jpg
 tui.gtimg.com//res/2017/03/20/15/2333926.jpg
 r.cnews.qq.com/getSubNewsInterest?mid=cd7541291e676f954852ad68148d463eaa92c489&devid=863818035818120&mac=78%3A02%3AF8%3AF2%3AE1%3AEA&store=119&screen_height=1920&apptype=android&origin_imei=863818035818120&hw=Xiaomi_MI5sPlus&appversion=2.9.21&appver=23_areading_2.9.21&uid=42b53368edd2bf0f&screen_width=1080&sceneid=&android_id=42b53368edd2bf0f&omgid=4509e65ead94314e341bc7070face93b98010010212117&forward=0&activefrom=icon&qqnetwork=wifi&logfrom=0&direction=0&Cookie=%20lskey%3D%3B%20luin%3D%3B%20skey%3D%3B%20uin%3D%3B%20logintype%3D0%3B&currentTab=kuaibao&oldadcode=371324&chlid=daily_timeline&omgbizid=b05d455cd9d9054944090c663374565b6e640080212117&imsi_history=460018358808693&qn-sig=3f33bf0db962b37c3ba7e89dfa349163&qn-rid=bc9b6d77-5450-4d79-814f-b26064a74316&imsi=460018358808693
-
 http://j.wit.qq.com/sc/crystal_ad_wm.js
-
 #winrar
 http://ad.winrar.com.cn/show_1.html?L=7&bl=7&v=540personal&a=64&src=pe001
-
 vidown
 http://cc.vidown.cn/vidown/get_textlink.php?version=2.1.3.3
 http://gg.vidown.cn/right_low/bd2_ys_300_250.html
@@ -123,7 +137,6 @@ http://gg.vidown.cn/right_low/bd_ys_300_250.html
 kugou
 http://minidcsc.kugou.com/miniad/game/002/index.html
 http://channel.fanxing.kugou.com/static/view/com/kugouminiindex.html
-
 http://log.stat.kugou.com/mobile/ad.html?mid=863818035818120&nettype=2&appid=2001&content=%5B%7B%22id%22%3A24865%2C%22title%22%3A%22%E4%BB%80%E4%B9%88%E8%80%B3%E6%9C%BA%E8%80%90%E5%90%AC%EF%BC%9F-%E9%85%B7%E7%8B%97M1%E8%93%9D%E7%89%99%E9%9F%B3%E4%B9%90%E8%80%B3%E6%9C%BA%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%2C%7B%22id%22%3A24960%2C%22title%22%3A%22%E7%95%85%E5%90%AC%E6%97%A0%E6%8B%98%E6%9D%9F%EF%BC%81%E8%81%94%E9%80%9A%E6%B5%81%E9%87%8F%E5%8C%85%E6%9D%A5%E4%BA%86%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%2C%7B%22id%22%3A24970%2C%22title%22%3A%22%E5%90%AC%E6%AD%8C%E7%9C%8B%E5%A5%B3%E7%A5%9E%EF%BC%8C%E5%9C%A8%E8%BF%99%E9%82%82%E9%80%85TA%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%2C%7B%22id%22%3A24863%2C%22title%22%3A%22%E5%AF%BB%E6%89%BE%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%8F%8B%EF%BC%8C%E7%BB%99%E4%BD%A0%E5%BF%83%E5%8A%A8%E7%9A%84%E6%84%9F%E8%A7%89%20-%E5%93%84%E4%BD%A0%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%2C%7B%22id%22%3A25055%2C%22title%22%3A%22%E5%B8%AE%E5%B8%AE%E5%94%B1%E7%99%BB%E5%9C%BA%EF%BC%8C%E5%B9%B4%E5%BA%A6%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98%E6%89%93%E5%93%8D%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%2C%7B%22id%22%3A23595%2C%22title%22%3A%22%E8%A3%85%E4%BA%86%E8%BF%99%E4%B8%AAAPP%EF%BC%8C%E4%B8%8D%E7%94%A8%E5%86%8D%E5%8E%BBKTV%22%2C%22offline%22%3A0%2C%22online%22%3A1%7D%5D&type=2&user_id=0&ver=8708&os=1
 http://ads.service.kugou.com/v1/mobile_down?isvip=false&networktype=2&phonebrand=Xiaomi&operator=3&ismonthly=0&clientver=8708&mid=322838894318286755760961872217715832530&key=cc5cf56a25625f3b6ad644aa54095df3&clienttime=1492266281153&appid=1005&plat=0&channel=130&userid=0
 http://push.mobile.kugou.com/v1/report/device?apikey=and10&sign=f3c25557e24670d91b3baff8de692094&_t=1492266283
@@ -132,7 +145,6 @@ http://ads.bssdl.kugou.com/74ffa3fa896410208da88bac28766f97.jpg
 http://mvads.kugou.com/mobile/?isvip=0&networktype=2&phonebrand=Xiaomi&operator=3&ismonthly=0&mid=322838894318286755760961872217715832530&version=8708&plat=0&channel=130&type=2&userid=0&pre_ad=1
 http://install2.kugou.com/mobileuc/ActiveBehaviorStat.aspx?versionid=8708&machineid=15a837924022bf2214218b6e739e5954&md5=5520f432107c866f4548ecdd28bdc639&type=0&uuid=405ed4d2dfc74786875b34399271b5ec
 http://mobilelog.kugou.com/kgm.php?twolinecount=0&morelinetime=0&morelinecount=0&uuid=405ed4d2dfc74786875b34399271b5ec&apiver=23&cid=130&fullscreencount=0&fullscreentime=0&wh=1080*1920&stype=&imei=322838894318286755760961872217715832530&twolinetime=0&nettype=2&platid=0&type=18&ver=8708&model=MI%205s%20Plus
-
 多米音乐：
 http://pc.boxshows.com/client/config/1.xml?action=getadsconfig&aver=1&pos=V212&cver=duomi_5.1.6.0&peerid=75098498&uname=
 http://pc.boxshows.com/client/ad/1.html
@@ -145,7 +157,6 @@ http://config.ime.sogou.com/qqguide.php
 http://config.zhushou.sogou.com/usbdt/update.php?r=0001&h=0CA6BB1C33D6282222C7121071331B3A&v=2.3.0.18168&t=1492172587
 sogou输入法推送广告：
 /ime_push/getxinci.php?h=0CA6BB1C33D6282222C7121071331B3A&v=8.2.0.9335&r=6896_sogou_pinyin_8.2.0.9335_6896&passport=&ppversion=3.1.0.1972&id=Y10000001&newwordver=1492068932&activeprocess=网络嗅探器.exe&configver=602&pageurl=link_index_new.php&adurl=http://info.pinyin.sogou.com/ime_push/sgse_ad/sgse_s_all_new.php 
-
 src="//static.360buyimg.com/jzt/temp/js/cpc.js"
 http://js.t.sinajs.cn/open/analytics/js/suda.js
 <iframe src="http://img1.126.net/advertisement/contract/wzy60_0927.html" width="600" height="180" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
@@ -163,11 +174,9 @@ zzz7.52896368.com/cpv/images/close.png
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 pic.517m.cn
 ad.xxguan.cn 这个之前我报过了 但是 应该划到劫持里
-
 小米日历频道订阅但是可以去广告
 #miui-calendar
 127.0.0.1 api.comm.miui.com
-
 替换执行步骤
 script src="http:// 为 \n127.0.0.1 
 script src="https:// 为 \n127.0.0.1 
@@ -175,7 +184,6 @@ http:// 为 \n127.0.0.1
 https:// 为 \n127.0.0.1 
 " 为 \n
 / 为 \n	
-
 http://s.faloo.com/ad/ad891.htm
 http://s.faloo.com/ad/test3.htm
 http://s.faloo.com/ad/other/640x150.htm
@@ -186,7 +194,6 @@ serverbaseurl:"afpeng.alimama.com/",
 </script>
 <script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/w.js"></script> 
 </body></html>
-
 view-source:http://s.faloo.com/ad/ad_piaofu.htm
 Url = "http://s.faloo.com/adimages/2013-3-7-1.swf";
 http://s.faloo.com/ad/fumeiti.htm
@@ -201,11 +208,7 @@ else if(ran == 3)
    Url = "http://s.faloo.com/adimages/fumeiti0005.swf";
 else if(ran == 4)
    Url = "http://s.faloo.com/adimages/fumeiti0006.swf";
-</script>
-
-
 127.0.0.1 www.gstatic.cn #谷歌翻译，分享图标误杀
-
 http://adserve2.tom.com/adp/js/20561--ad.js
 jj.jxnews.com.cn/adv/2016/wn20540.gif
 http://jxyc.jxnews.com.cn/ds_text_top_ad.js
@@ -216,19 +219,14 @@ http://common.jxnews.com.cn/2012/con_ad_title.js
 http://common.jxnews.com.cn/2012/con_ad_bottom.js
 http://www.jxnews.com.cn/first/js/jx/jx_ad_top.js
 http://common.jxnews.com.cn/2011/lt_text_adv.js
-
  value=\"http://common.jxnews.com.cn/2011/shydxx_270-140.swf\">');
 document.write ('      <param name=\"quality\" value=\"high\">');
 document.write ('      <param name=\"wmode\" value=\"transparent\">');
 document.write ('      <embed src=\"http://common.jxnews.com.cn/2011/shydxx_270-140.swf\" width=\"270\" height=\"150\" vspace=\"3\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\"></embed>');
 document.write ('</object> -->');
-
 document.write ('<!-- <object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" width=\"270\" height=\"110\" vspace=\"3\">');
 document.write ('      <param name=\"movie\" value=\"http://common.jxnews.com.cn/2011/pryk_adv_270110.swf\">');
-document.write ('      <param name=\"quality\" value=\"high\">');
-document.write ('      <param name=\"wmode\" value=\"transparent\">');
 document.write ('      <embed src=\"http://common.jxnews.com.cn/2011/pryk_adv_270110.swf
-
 http://common.jxnews.com.cn/2011/*.swf
 啊起：
 禁用qq字体气泡
@@ -239,12 +237,10 @@ App:动漫之家
 今日头条的广告：
 */ad/*
 http://ib.snssdk.com/api/ad/comment/v1/?ac=wifi&channel=wtgao10&aid=13&app_name=news_article&version_code=605&version_name=6.0.5&device_platform=android&ab_feature=94563%2C102749&abflag=1&ssmix=a&device_brand=Huawei&language=zh&os_api=&os_version=&manifest_version_code=605&update_version_code=6055&_rticket=1490327200198
-
 遥控精灵弹出广告：http://www.tiqiaa.com/cn/
 有广告版：http://bbs.tiqiaa.com/icontrol/app/icontrol.apk
 无广告版：http://bbs.tiqiaa.com/icontrol/app/icontrol-assistant.apk
 irdna.izazamall.com:8080/tqir/tjtt/support/brandAds
-
 data-pic.cdn.cootekservice.com/coupon/adno_469_1453779541.jpeg
 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com/SKIN_AD/SkinHappyRoosterYear.apk
 cootek-file.cdn.cootekservice.com/ad/material/adno_4338_1488769614.png
@@ -265,15 +261,11 @@ ws2.cootekservice.com/ad/voip?ch=com%2Ecootek%2Esmartdialer&v=6023&prt=148997086
 ws2.cootekservice.com/news/feeds?addr=%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%B8%B4%E6%B2%82%E5%B8%82%E5%85%B0%E5%B1%B1%E5%8C%BA%E5%8C%97%E4%BA%AC%E8%B7%AF&ch=cootek.contactplus.android.public&city=%E4%B8%B4%E6%B2%82&ct=MULTI&ctclass=EMBEDDED&ctn=12&fid=1489971223437&latitude=35.112771&layout=31&longitude=118.324196&mode=1&noad=1&nt=WIFI&prt=1489971223466&rt=JSON&s=&token=0b386b0d-3350-4491-93fa-616121f97d71&tu=108&v=6023
 ws2.cootekservice.com/statistic/usage?type=dialer_new&send_time=1489970878609
 ws2.cootekservice.com/test/test.html?source=online
-
-
-
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 114.55.123.44:7702
 127.0.0.1 222.186.61.97:9002
 127.0.0.1 222.186.61.97:9988
 127.0.0.1 47.89.59.182:7788
-
 Host:  ad1.62seo.com\r\n西瓜
 【链接】NotFound
 http://guoguo.client51.com
@@ -291,45 +283,35 @@ adsp.xunlei.com/api/adp/agget?positionId=1137&devicetype=1&make=
 img.momocdn.com/ad/D8/8D/D88D02BA-FC2A-C60C-5406-1E52500C7EC5_L.jpg
 static.m.sjzhushou.com/pss/static/android/red_point_cfg.json?versionCode=10830
 api-shoulei-ssl.xunlei.com/paysitter/api/subjects/random?flag=search_page_rec&timestamp=1489647317&nonce=233735894&accesskey=android.m.xunlei&sig=YKZ07YPioXUgF_K6j9jWxduqXI8=
-
 #美图秀秀启动页面广告
 127.0.0.1 meitubeauty.meitudata.com
 meitubeauty.meitudata.com/c3ff3aa147195498a807a813ebc6ebd9-2858.jpg?imageView2/2/w/960 
-
-
 http://max.ad.xiaomi.com/selfService/static/main.html#!/document?cuid=9E02795AF5024CA0C7B8F3A3C878DFC6|021818530818368&timestamp=1489413736508&_client_version=7.1.4
-
 http://live.64ma.com/tv/images/jwpsrv.js
 http://sub.adtchrome.com/adt-chinalist-easylist.txt
 api.ad.xiaomi.com/brand/appupgrade
 api.ad.xiaomi.com/brand/splashConfig
 file.market.xiaomi.com/download/AppStore/045ae50f7cdfab4bacc3acdb818ee6bfe4443db78
-
 imeclient.openspeech.cn/adservice/getAdsForClient?c=6001&v=2.0&t=20170312171758
 imeclient.openspeech.cn/adservice/notice/view?key=1&data=5CMD4GeBcXqXACvMFbNjEe7tRUsQ3hzEZ3FmlVzNQD9VhGSd8ar9XesTvO5STc5GEpMr6YVHghDGcv27APw%2FmdhtMNWGg8lZggg1eMMvI7LUcRlGj%2Bn6utZhbZAIKWTgZEekuJ%2B4P8DfGkxl9CADScQgmrwM6qkXYtE3aPMVm286d5%2FrWg6Zdg%3D%3D
-
 #down-baidu/pan
 127.0.0.1 update.pan.baidu.com
 http://statics.zdface.com/js/m/zw_zdy.js
 http://image.fsyule.net/2016-09-23/69a273181712d507171a18fd654ffb0d.jpg
 http://ent1.12584.cn/sd7e50c7dcf6ceff31964a26dbf9ac67bf05.js
-
 http://kthxd.lu.sogou.com/wap/js/wc.js
 http://s2.zdface.com/cpro/ui/cm.js
 if(rand<1.70){
 	go_url="http://www.duba.com/union2.html?u2076946_320_48_pg";
 }else{
 	go_url="http://kr.sybspools.com/cl/zy/";
-}
 http://p.kjwx8.com/js/126891.js
 http://dl.sybspools.com/img/mbd.js
 etl.xlmc.sandai.net/api/stat/rt?appId=6&discardCount=0&sig=9d121dd48b21aae96c14ec1258b5c5c9&callId=1488943654693&octet=f21cd9d35054462594b16128bdaf16dd
 api.tw06.xlmc.sec.miui.com/api/ad/get
 #央视影音-启动广告
 127.0.0.1 galaxy.bjcathay.com
-
 今日头条广告屏蔽：
-<script 
 http://p3.pstatp.com/large/19470012b629b512ea61
 src="//s3.pstatp.com/adstatic/resource/ad_wap/dist/1.0.17/static/js/ed.js" data-from="toutiao"></script>
 div[id^="detailAd"]
@@ -337,14 +319,12 @@ http://s3.pstatp.com/adstatic/resource/landing_log/dist/1.0.13/static/js/toutiao
 http://*.pstatp.com/origin/*
 http://p3.pstatp.com/origin/13f0001502118e0b55f5
 http://p1.pstatp.com/origin/9ed000c3531d923b91a
-
 <img class="hover_btn" src="http://tb1.bdstatic.com/tb/cms/ngmis/images/file_1488278710570.jpg" data-hover="http://tb1.bdstatic.com/tb/cms/ngmis/images/file_1488278715485.jpg">
 <script src="http://js3743.tongqing2015.com/m-26224"></script>
 http://img.jgchq.com/mt/9054/1/118c2a083129ee5afeb3be5d8264aa95.gif
 127.0.0.1 http://mm.jgchq.com/urltojump.php?x%9Ce%8D%CB%0D%C00%0CBW2v%FC%C98I%9AL%E1%E1%EB%B6%C7%0A%21%10%EF%40%D7%F4%96%20N%A0%A5A%86%B0%0C%9F%D6%AB%91L%97%CA2s%ED%26Q%F91%FCX%7F%98_%89%16%21nj%9C%AB%9DM%A4%AEc%20%18%9B%16K%D0%3C%A4%13%DBb%D71%E5%AB%1B%28%B6%22%F8
 <iframe id="ae2wxa69pp0wzopzodi7h3q5miu2883736_0" src="http://abc.gzpinda.com/s?rdid=2883736&amp;dc=3&amp;exps=115101&amp;di=u2883736&amp;dri=0&amp;dis=0&amp;dai=1&amp;ps=126x0&amp;dcb=___adblockplus&amp;dtm=HTML_POST&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tsr=0&amp;tpr=1488195002439&amp;ti=%E4%B8%AA%E4%BA%BA%E6%8E%88%E6%9D%83%E5%A7%94%E6%89%98%E4%B9%A6%E6%A8%A1%E6%9D%BF&amp;ari=2&amp;dbv=0&amp;drs=1&amp;pcs=1031x494&amp;pss=1058x2196&amp;cfv=23&amp;cpl=13&amp;chi=8&amp;cce=true&amp;cec=GBK&amp;tlm=1484747937&amp;rw=511&amp;ltu=http%3A%2F%2Fyjbys.com%2Fweituoshu%2F700463.html&amp;ecd=1&amp;par=1099x646&amp;pis=-1x-1&amp;ccd=24&amp;cja=false&amp;cmi=28&amp;col=zh-CN&amp;cdo=-1&amp;sr=1099x686&amp;tcn=1488195002&amp;pcn=abc.gzpinda.com&amp;ctxant=1&amp;qn=c93b44b372f6576b&amp;tt=1488195002413.32.377.382" width="690" height="300" align="center,center" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" style="border:0; vertical-align:bottom;margin:0;" allowtransparency="true"></iframe>
 <script type="text/javascript" src="http://dm.gzpinda.com/yl3a1ecf98f4cdf43edb1f7288eff92dff5cecd90575e13eef.js"></script>
-
 img.adpush.cn/ap/20170224/0e6b7e679fcd5d40569fae92b2bea894.jpg
 beacon.gtimg.com/mig_op/beacon/sdk_modules/0C000S8VDZ1GVR6M/all/1.zip
 http://img.adpush.cn/ap/20150104/33254cb104a4df83651b6ab005265b90.jpg
@@ -359,17 +339,12 @@ cdn.moji.com/adlink/common/61/17/99/36/6117993688209469390bb5f34a87f011.png
 cdn.moji.com/advert/background/1484561686000_weather_bg_org_1213.zip?md5=e3d26142344c7185a8dda3d1b7a854a5
 api721.analysys.cn:8097/sdk-stop-gather?deviceId=579296aba40873d4&appkey=2738098230608310a&endTime=1487991052597
 app.moji001.com/appbind/application/getApplication.do?Location=-1&ChannelNumber=5599&UserId=&Mversion=1006020502&PartnerID=5599&IMEI=863818035818120&Model=MI%205s%20Plus&OsVersion=23&Device=phone&Platform=1000
-
 cfg.imtt.qq.com/tbs?v=2&mk=a82301c05407208c4f30f6b255987cdf7afb07e9db27cab227c2e2887598c393e119537fbd18ae3e64f313bd272bbd7a898649e2c30f8a01066497a99eab271af7ecae08ba0385be671a1a54bdfbec404937193ae9c578ba4e76018d25d83859427b497f72ade3b3d5a25098921f2adf47378597587c7cd99763683d7103bc31
-
-
 #igexin.com 移动广告营销平台
 127.0.0.1 api.gi.igexin.com
 https://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose3.png
-
 http://db1.fuz.cc/2e4d8bc2a586a36a.js
 http://db2.fuz.cc/s?sz=320x97&rdid=2870701&dc=3&exps=115102&di=u2870701&dri=0&dis=0&dai=2&ps=140x10&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1487900100854&ti=%E5%85%B3%E4%BA%8E%E6%88%90%E4%B8%BA%E7%AC%AC%E5%9B%9B%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E7%9A%84%E5%B9%BF%E7%94%B5%E5%9B%BD%E7%BD%91%EF%BC%8C%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%A5%BD%E7%9A%84%E5%88%86%E6%9E%90%E3%80%82-%E5%BE%AE%E4%BC%97%E5%9C%88&ari=2&dbv=2&drs=4&pcs=1206x273&pss=1206x6503&cfv=0&cpl=4&chi=1&cce=true&cec=GBK&tlm=1487899800&rw=320&ltu=http%3A%2F%2Fm.v4.cc%2FNews-1207365.html&ecd=1&par=1280x717&pis=-1x-1&ccd=24&cja=false&cmi=5&col=zh-CN&cdo=-1&sr=1280x800&tcn=1487900101&pcn=db2.fuz.cc&ctxant=1&qn=c9ad34ba74611fab&tt=1487900100843.30.30.34
-
 http://f11.baidu.com/it/u=1727630014,2403450120&fm=76
 http://f10.baidu.com/it/u=2112820884,2490082998&fm=76
 http://f12.baidu.com/it/u=1668904682,2491063491&fm=76
@@ -378,9 +353,7 @@ http://js.2011.8684.com/com/sys_ad_for_b.js
 http://media.2011.8684.com/1556.png
 <script src="http://2012.8684.com/tj.js"></script>
 song.fanxing.kugou.com/mobquery?songName=%E8%BF%87%E7%81%AB
-
 http://aider.meizu.com/v3/news/list?oneset=0&cityId=285000&bizId=aider_app&timestamp=1487430858819&sign=85ec06840c90d62b8f0e1c0c3897f6e2
-
 http://sys.zhangyue.com/zybook/u/p/api.php?Act=sysini2&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1&package=com.chaozh.iReaderFree
 http://push.zhangyue.com/message/advice/addGidBaseInfo?aid=538e8e409e2514136c57c353&cid=d300998dab754b5cb1b053ac409cbb05&pf=3&zyeid=5a7cccc2ca4d42ca8d1ce1ff99b52fb4&usr=i1155221684&rgt=7&p1=WKV4slkCSwsDANtRgwI0tcvk&pc=10&p2=109660&p3=850003&p4=501603&p5=19&p6=IJIGABBGIBHADAGCJFGB&p7=IGGAACACEBICFHH&p9=1&p12=109660&p16=MX4+Pro&p21=31303&p22=5.1.1
 aider-res.meizu.com/static/system/ad/homead.json
@@ -399,43 +372,32 @@ aries.mzres.com/index/index.html
 push.res.meizu.com/push/app/1486979727721/ebook_2.0.213_2017020914275623_prd.apk
 aider.meizu.com/v3/weather/city?cityId=285000&bizId=aider_app&timestamp=1487428555088&sign=2e5564eb6e25d8f84d7553623f6dbc64
 g.meizu.com/open/api/system/getconfig.do?appversion=6.0.02&imei=866002024182577
-
 http://www.pingshu8.com/a/F.js?1.001
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzx.js
 http://m.chenhuixs.net/js/hfzs.js
-
 <div id="qaz_wsx_top" style="width: 360px; height: 60px; position: relative; margin-top: 0px;"><script type="text/javascript" src="https://s11.cnzz.com/z_stat.php?id=1261168257&web_id=1261168257"></script><a href="http://m.duobao999.com/?channel_id=twcv" target="_blank" class="tt_mm_oo" style="position: relative; display: block; width: 100%; height: 100%;"><img src="http://123.59.78.229/supplies/3a23eda92ead971dd37e345b19bb5b8f.jpg" style="display: block; border-style: none; width: 100%; height: 100%;"><div style="background-image: url(http://106.75.65.90/pjk/xjk/show_re.php?s=ijbnMopkwJmNDK$citedi1eRi1ifV1mRiKemiKedilbbjJehi1vdDJemDce8DK58yKgWDADniKadiKPmDAg0i6a6iqDEM1gNDX96yWydy6e8DAP6MXyhD150iAim!sg0IX98D1PhwKmtDXoawqDc!tbcyZiRIXnzIAFxVXDx!jbQT2$hwcpxyXu6VZzQGsEx!tf1!WNxTqntMAoaVKg6i1PkD6eNVKg4ijfQTqkCP2uEvqoa412AAF1A6E19B62CCC34FECA390363B2); width: 1px; height: 1px; display: none; background-position: initial initial; background-repeat: no-repeat no-repeat;"></div></a><mark class="ad_icon_hf" style="position: absolute; width: 26px; height: 14px; line-height: 14px; text-shadow: rgb(0, 0, 0) 1px 0px; background-color: rgba(0, 0, 0, 0.180392); color: rgb(255, 255, 255); font-size: 10px; text-align: center; bottom: 5px; right: 10px;">广告</mark></div><div id="wrap_menu" class="close" style="margin-top: 0px; padding-top: 0px; position: relative;">
 106.75.65.90
 123.59.78.229
 网页劫持。都是IP地址 m.duobao999.com屏蔽不了IP，就把跳转屏蔽掉
-
 #uc国际版 视频播放界面扰人的“视频推荐”垃圾功能
 127.0.0.1 client.video.ucweb.com
-
 http://pic.zaizai8.com/wap/zaidibu.js
 http://m.qu.la/stylewap/js/wap.js
-
 103.41.141.81/6772632867E3579B8619B5C0F/03000801005865DE9FE4FE003E88039F2C1589-8C1F-6049-61EC-BBA0577FF985.mp4.ts?ts_start=0&ts_end=5&ts_seg_no=0&ts_keyframe=0&sid=1488189762973_00&sign=f0ac9ae7b2578180eeabb65fc0699af0&ctype=50&t=1486703057091
 103.41.141.81/6772632867E3579B8619B5C0F/03000801005865DE9FE4FE003E88039F2C1589-8C1F-6049-61EC-BBA0577FF985.mp4.ts?ts_start=0&ts_end=5&ts_seg_no=0&ts_keyframe=0&sid=1488189762973_00&sign=f0ac9ae7b2578180eeabb65fc0699af0&ctype=50&t=1486703072093
-
-
 cdn1.lbesec.com/parallel.com/static/icon/watch3.gif
-
 影檬app：
 tupian.lemon95.com:8088/Pictures/VediosAD/2017-01-17/201711711333138554.jpg
 */VediosAD/*
-
 http://m.kankanwu.com/js/20X4a.js
 http://m.kankanwu.com/js/weixin.js
 http://m.kankanwu.com/js/hui.js
 http://m.kankanwu.com/js/jusha.js
-
 http://tjs.sjs.sinajs.cn/open/analytics/js/suda.js
 https://shusheng.ctfile.com/ad_display.php?ad_pos=0
 小米视频：http://file.market.xiaomi.com/download/AdCenter/0acfd591acff21bf5df3a74e865a7c1fe78403ddb/AdCenter0acfd591acff21bf5df3a74e865a7c1fe78403ddb.jpg
 */AdCenter/*
-
 */cpv/*
 安卓版百度云app启动广告：
 issuecdn.baidupcs.com/issue/netdisk/guanggao/cj720-1062-0203.jpg?network_type=wifi&vip=0
@@ -446,7 +408,6 @@ issuecdn.baidupcs.com/issue/netdisk/videosdk/baidu_product_1_7_5_1/cyberplayer-c
 127.0.0.1 issuecdn.baidupcs.com
 或者屏蔽：
 */guanggao/*
-
 ﻿UC一定要在设置关掉各种垃圾功能和广告，多仔细翻翻，另外加两条去广告的host
 127.0.0.1 server.m.pp.cn
 127.0.0.1 patriot.cs.pp.cn
@@ -456,34 +417,26 @@ issuecdn.baidupcs.com/issue/netdisk/videosdk/baidu_product_1_7_5_1/cyberplayer-c
 ﻿file.market.xiaomi.com/thumbnail/jpeg/w0q20/AdCenter/0591585a19a1e4e9a3fbe93cd9618bdad3f3f29a0/AdCenter0591585a19a1e4e9a3fbe93cd9618bdad3f3f29a0.jpg
 2.market.xiaomi.com/download/MiSafe/07fa342631698e7a938055ddeba7cb3f87243dbf3/a.webp
 所以小米的一些广告请使用
-*/AdCenter/*
 进行过滤
-
 http://m.kb20.cc/js/fumeiti.js
 http://m.kb20.cc/js/uaredirectformobile.js
 acs.m.taobao.com移除下上面的域名，不移除会导致淘宝登录不了。
 同时移出了
 127.0.0.1 hz.pre.tbusergw.taobao.net
 127.0.0.1 hz.tbusergw.taobao.net
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 sdkinit.taobao.com
 127.0.0.1 unitacs.m.taobao.com
 暂时删除
 http://bbs.huorong.cn/thread-7869-1-1.html 屏蔽掉微软跳转cps
-
 api.mobile.youku.com/adv/banner?site=1&p=1433218285&ac=0&bd=Xiaomi&guid=380cc01134090629cfab801b6db8927f&net=1000&ouid=544ba996764ea4e6&mac=02%3A00%3A00%3A00%3A00%3A00&avs=6.1.5&pid=6b5f94f4ab33c702&mdl=Redmi+Note+3&dvw=1080&dvh=1920&osv=6.0.1&im=862123038467111&aid=544ba996764ea4e6&k=&ti=%E6%81%90%E6%80%96%EF%BC%81%E7%9B%91%E6%8B%8D%E5%B9%BF%E4%B8%9C%E8%B4%A7%E8%BD%A6%E5%A4%B1%E6%8E%A7%E6%92%9E%E7%A2%8E%E6%91%A9%E6%89%98%E8%BD%A6+%E8%BD%A6%E8%BA%AB%E7%BF%BB%E6%BB%9A%E5%8D%81%E5%87%A0%E7%B1%B3&vl=&ct=91&cs=&d=0&s=&td=&v=XMjQ3OTIyOTkyNA==&u=UMzMxMzQwODEyNA%3D%3D&tt=&aw=a&&_t_=1484922351&e=md5&_s_=016f169a747c2717b112ee52fd71ac6c&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0.1%3B+Redmi+Note+3+Build%2FMMB29M%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F43.0.2357.65+Mobile+Safari%2F537.36&utdid=WG8%2BWEZds6kDAIeIj9M9erEe
-
 127.0.0.1 upush.meizu.com meizu-flyme 升级
 tbs链接： soft.tbs.imtt.qq.com
 可以在hosts里添加
 soft.tbs.imtt.qq.com/17421/tbs_res_imtt_tbs_release_mini_qb_1.9.1.2005_01092005_20161207_130458_beta.tbs
-
 一个app的ad链接：
 v3.wufazhuce.com:8000/api/adstat/pv/1840
 屏蔽后app信息无法加载
 请使用app屏蔽： */adstat/*
-
 你把这个文件夹删除掉，建立一个文本文件权限设置成只读就行了
 qq视频 tv版本：
 /mnt/sdcard/qcache/data/ad_cache
@@ -491,15 +444,12 @@ qq视频 tv版本：
 秀控视频
 /mnt/sdcard/cache/com.zbmv/files/adv
 /mnt/sdcard/com.zbmv/files/image
-
 数据按照分类模式分成:转向数据，站点数据（知名站点，比如天涯等，按照内容分类，比如sns，在线影音。it），验证屏蔽（adobe等），mobapp数据（wps等），禁止下载（比如一些软件站的诱导病毒下载，非wlan环境下直接使用数据流量下载），运营商劫持，广告浮动和弹出（同样按照分类，比如图书，电影等）
 127.0.0.1 qr.cp31.ott.cibntv.net   这条优酷机顶盒版（CIBN全球——暂停视频 广告
 127.0.0.1 qr.youlu.com 这条优酷XL版暂停视频 广告
 127.0.0.1 guanggaoad.youku.com （这条是优酷的APP IOS的广告）
-
 cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广告在：SD卡/fresco_default_img_dir/广告图片缓存
 屏蔽广告：删除fresco_default_img_dir文件夹，新建空白文件，文件名改为fresco_default_img_dir即可。
-
 #<NGA玩家社区> app
 127.0.0.1 att.stargame.com（app启动广告图、任务界面广告图）
 127.0.0.1 appsupport.stargame.com（app启动强制检查更新）
@@ -511,57 +461,35 @@ cibn朋乐-第一个广告其实是张图片，而且是缓存在SD卡了。广�
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 58749.admaster.com.cn
 http://www.qchannel04.cn/  网易新闻 安卓app 反广告
-
 pmptrack-yidianzixunxm.gentags.net
 image.gentags.com
 cmpp.gentags.net
 类似于秒针的广告统计、跟踪 ，通过一点咨询APP 安卓版 发现
-
-
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
-
 删除tongji.baidu.com 
 和127.0.0.1 downapp.baidu.com
 上面发得是初稿，这个修改了一下，添加了屏蔽企鹅fm和软件推广，好像还有少量广告，不过大部分应该都pass了，有广告的截图我看下能不能干掉#(乖)
-
 127.0.0.1 d3g.qq.com软件推广
-
-
-
 <html><head><meta name="viewport" content="width=device-width, minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"><title></title><style>body {margin:0;color:#000;overflow:hidden;padding:0;height:100%;font-family:Arial}a{cursor:pointer;display:block;position:absolute;border:0px;border-radius:1em;padding-top:1px;background-color:#444;color:#fff; opacity:.8;z-index:3;right:5px;top:5px; height:10px; overflow:hidden;text-align:center;width:10px;font-size:8px}#x{position:fixed;z-index:2;bottom:2px;width:100%;height:60px}#i{display:block; position:absolute; z-index:1; width:100%; height:100%}</style></head><body onload="a7.u()"><div id="i"><iframe id="m" width="100%" height="100%" frameborder="0" src="http://wapbaike.baidu.com/subview/15940/10921567.htm?fromid=122360&amp;type=syn&amp;fromtitle=%E8%BE%BE%E8%8A%AC%E5%A5%87&amp;fr=aladdin&amp;ref=wise&amp;ssid=0&amp;from=1011440l&amp;uid=0&amp;pu=usm@6,sz@320_1001,ta@iphone_2_5.1_3_537&amp;bd_page_type=1&amp;baiduid=4B00CF7CDAD4CBF4087E5EBD77E73E9C&amp;tj=Xv_1_0_10_title&amp;_t_t_t=0.7507742992602289"></iframe></div><div id="x" style="display: block;"><a onclick="a7.c()" style="text-decoration: none;">X</a><iframe id="a" width="100%" height="60" scrolling="no" frameborder="0" src="http://122.225.103.120:8080/xzn/zn/1206/2.html"></iframe></div><script>(function(w){var a7= w.a7 || {} ;var d=document;a7.u = function() {        var f = d.location.href;   var ua = navigator.userAgent.toLowerCase(); var im = d.getElementById("m");            im.src=f+(f.indexOf("?")<0 ? '?':'&')+'_t_t_t='+Math.random(); if (ua.indexOf("iphone") > 0) {im.width=window.innerWidth;im.scrolling="no";};           };a7.c = function() {d.getElementById('x').style.display="none";};w.a7 = a7;})(window);</script><script>function s(){document.getElementById('x').style.display = 'block';}setTimeout(function(){document.getElementById('a').src = 'http://122.225.103.120:8080/xzn/zn/1206/2.html';},500);setTimeout("s()",1000);</script></body></html>
 http://cdn.ads.jlscds.com/r1.html w
 http://139.224.26.92/ssll/abcd.html
 =http://222.187.226.96/meng.html
-
 <iframe src="http://jp.as.pptv.com/webcollect/click?pos=200129&tid=TA201611291629283478&vchid=0&ln=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dy5jY6i4J9kavcNMBh_dAQBlq7K5Mh-jWGIVfAx66-vkec9bwpgtKk9kvyY7JAdX9%26wd%3D%26eqid%3D96ce7d720000ea4c00000004583d3dd4" width="0" marginwidth="0" height="0" marginheight="0"scrolling="no" frameborder="0"></iframe>
-
 <iframe src="http://vas.fun.tv/market/ext/udc/c68908960.html?meng" w
-
 http://www.tz-dsp.com/upload/1481187601846v0b2oy0za9ij2b7bvijg00k9979n2ibe81zq2xbz.gif
 http://rtax.criteo.com/delivery/rta/rta.js?netId=3832&cookieName=crtg_rta&rnd=33163671500&varName=crtg_content
-
-
 https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
-
 /Volumes/K MPUME/Andorid/Xiaomi/sdcard/Books/一千多小说资源/rtf/安娜新坑.doc.txt
 127.0.0.1 i2.muzisoft.com
 http://m.iask.sina.com.cn/b/8717684.html
-
 http://wap.faloo.com/chapter/303646/1.html
-
 http://m.3y.uu456.com/mbp_9d18a0n7n376vac3m07c_1.html
-
 lofter app误杀了imglf0.nosdn.127.net会导致一些图片无法加载。
-
 @619 @老蛇子 #金立手机（amigos）推送通知广告
 127.0.0.1 pdl.gionee.com
 #ARK VPN IOS版(粉红色LOG版）咨询广告
 127.0.0.1 newswifiapi.dfshurufa.com
 @老蛇子 虽然是东方输入法 这家公司的 我也查了 但 我还是认定它是广告 
-
 http://exview.gtool.ml/gad/gad_top_468_60.html
-
 @老蛇子 这个视频软件的广告我研究了下，里面的广告有两种。
 1.http://ww3.sinaimg.cn/large/006Ct16Vgw1fa282k3n3cj30le09gjy0.jpg
 这个广告是来自
@@ -570,25 +498,19 @@ v.szfirstlive.com与223.6.253.229，单纯屏蔽v.szfirstlive.com他会选择223
 2，还有一个广告，找了半天，原来在apk包内，这个没法屏蔽，只能解包删除。
 apk/res/drawable-hdpi/pause_0_111.jpg
 apk/res/drawable-mdpi/pause_0_111.jpg
-
 这个软件要完整去广告可以反编译apk。我尝试修改apk后安装提示无网络，网络签名验证我搞不定。
 #LETV IOS(可过滤广告，无黑屏或卡在读秒现象），测试线路联通，IPHONE 4S
 127.0.0.1 api.mob.app.letv.com
-
-
 石像鬼 OP路由 加广告HOSTS脚本后 在DNSMASQ加这些规则 后爱奇艺 乐视 就没广告了address=/msga.cupid.iqiyi.com/127.0.0.1
 address=/msg.71.am/127.0.0.1
 address=/msg.iqiyi.com/127.0.0.1
 address=/ark.letv.com/127.0.0.1
 address=/g3.letv.com/127.0.0.1
 address=/api.mob.app.letv.com/127.0.0.1 
-
 删除youkuarea锝ip地址
 127.0.0.1 211.151.146.65
 127.0.0.1 211.157.171.237
-
 http://weibo.com/ttarticle/p/show?id=2309404050175378245820
-
 @site/404
 #aabook.club
 127.0.0.1 aavideo.xyz
