@@ -47,7 +47,6 @@
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 m.simba.taobao.com
 127.0.0.1 mclick.simba.taobao.com
-127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com

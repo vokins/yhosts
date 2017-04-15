@@ -25,13 +25,18 @@
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 analytics.snssdk.com
-127.0.0.1 s3a.pstatp.com
+127.0.0.1 pb3.pstatp.com
 127.0.0.1 s3.pstatp.com
+127.0.0.1 s3a.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
 #http://kuaibao.qq.com/mobile.html
+127.0.0.1 dp3.qq.com
 127.0.0.1 news.l.qq.com
+127.0.0.1 p.l.qq.com
 127.0.0.1 r.cnews.qq.com
+127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
+127.0.0.1 w.cnews.qq.com
 127.0.0.1 ss.missyouxi.com

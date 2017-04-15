@@ -1,7 +1,6 @@
 @app-music
-#duomi-win
+#http://www.duomi.com/
 127.0.0.1 pc.boxshows.com
-#duomi-mob
 127.0.0.1 service.ad.duomi.com
 #http://www.kugou.com/
 127.0.0.1 ads.bssdl.kugou.com
@@ -16,67 +15,52 @@
 127.0.0.1 tj.kugou.com
 127.0.0.1 youxi.kugou.com
 #http://mo.kugou.com/
-127.0.0.1 song.fanxing.kugou.com
-#kugou
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 d.kugou.com
-127.0.0.1 gad.kugou.com
 127.0.0.1 install2.kugou.com
 127.0.0.1 kgmobilestat.kugou.com
-127.0.0.1 mo.kugou.com
+127.0.0.1 log.web.kugou.com
 127.0.0.1 mobilelog.kugou.com
-127.0.0.1 msg.mobile.kugou.com
-127.0.0.1 p.kugou.com
 127.0.0.1 push.mobile.kugou.com
-127.0.0.1 rtmonitor.kugou.com
-127.0.0.1 sdk.game.kugou.com
-127.0.0.1 update.mobile.kugou.com
+127.0.0.1 song.fanxing.kugou.com
 #http://m.kuwo.cn/
-127.0.0.1 apk.shouji.koowo.com
 127.0.0.1 g.koowo.com
-127.0.0.1 deliver.kuwo.cn
-127.0.0.1 kwmsg.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
-127.0.0.1 msclick2.kuwo.cn
-127.0.0.1 msphoneclick.kuwo.cn
-127.0.0.1 updatepage.kuwo.cn
+127.0.0.1 rich.kuwo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 webstat.kuwo.cn
 127.0.0.1 api.iimedia.cn
-127.0.0.1 iimedia.cn
-127.0.0.1 mfan.iclick.com.cn
-127.0.0.1 game.51yund.com
+127.0.0.1 g.haluoha.com
 #http://music.baidu.com/
 127.0.0.1 log.music.baidu.com
-127.0.0.1 push.music.baidu.com
-127.0.0.1 pups.baidu.com
+127.0.0.1 qianclick.baidu.com
 127.0.0.1 click.qianqian.com
-127.0.0.1 ttmsg.qianqian.com
-127.0.0.1 ttpack.qianqian.com
-127.0.0.1 ttplayer.qianqian.com
 #http://m.qingting.fm/
 127.0.0.1 ad.qingting.fm
-127.0.0.1 admgr.qingting.fm
-127.0.0.1 dload.qd.qingting.fm
-127.0.0.1 logger.qingting.fm
-127.0.0.1 s.qd.qingting.fm
-127.0.0.1 s.qd.qingtingfm.com
-#https://m.alibabaplanet.com/
-127.0.0.1 collect.log.ttpod.com
-127.0.0.1 test.log.ttpod.com
-127.0.0.1 v1.ard.tj.itlily.com
-127.0.0.1 v1.ard.update.itlily.com
+127.0.0.1 s.qtad.qingting.fm
+127.0.0.1 od.qingting.fm
 #http://m.ximalaya.com/
-127.0.0.1 ad.test.ximalaya.com
 127.0.0.1 ad.ximalaya.com
-127.0.0.1 adse.test.ximalaya.com
 127.0.0.1 adse.ximalaya.com
-127.0.0.1 adweb.ximalaya.com
+#http://www.miguvideo.com/
+127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 dspserver.ad.cmvideo.cn
+127.0.0.1 openstorage.ad.cmvideo.cn
+#http://music.migu.cn/
+127.0.0.1 rprsv.richpush.cn
+127.0.0.1 wtrace.cmgame.com
 #https://www.spotify.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 analytics.spotify.com
-127.0.0.1 crashdump.spotify.com
 127.0.0.1 log.spotify.com
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 weblb-wg.gslb.spotify.com
+#http://www.yinyuetai.com/
+127.0.0.1 client.stats.yinyuetai.com
+127.0.0.1 log.collect.yinyuetai.com
+127.0.0.1 shop.admin.yinyuetai.com
+127.0.0.1 shop.yinyuetai.com
+127.0.0.1 statisticsv2.yinyuetai.com
+127.0.0.1 t.collect.yinyuetai.com
+127.0.0.1 col.hztags.net

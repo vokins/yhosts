@@ -220,4 +220,3 @@
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
-127.0.0.1 pb3.pstatp.com

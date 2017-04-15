@@ -38,14 +38,3 @@
 #dxomark
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
-#github
-151.101.76.249 github.global.ssl.fastly.net
-151.101.192.133 avatars1.githubusercontent.com
-151.101.192.133 avatars2.githubusercontent.com
-151.101.192.133 avatars3.githubusercontent.com
-151.101.192.133 camo.githubusercontent.com
-151.101.192.133 cloud.githubusercontent.com
-151.101.192.133 raw.githubusercontent.com
-151.101.192.133 assets-cdn.github.com
-192.30.253.116 api.github.com
-192.30.253.113 github.com

@@ -60,7 +60,6 @@
 127.0.0.1 c.pc.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
-127.0.0.1 android.rqd.qq.com
 @down/virus
 #dabaicai
 127.0.0.1 www.winbaicai.com

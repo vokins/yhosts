@@ -67,8 +67,11 @@
 #jing-w.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
+127.0.0.1 boardx.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
+127.0.0.1 union.star-media.cn
+127.0.0.1 s.doyo.cn
 #jing-xinhuanet.com
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 webd.home.news.cn

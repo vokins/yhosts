@@ -81,16 +81,6 @@
 127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.union.360.cn
-#360-jiagu
-127.0.0.1 a.appjiagu.com
-127.0.0.1 api.appjiagu.com
-127.0.0.1 b.appjiagu.com
-127.0.0.1 c.appjiagu.com
-127.0.0.1 j.appjiagu.com
-127.0.0.1 p.appjiagu.com
-127.0.0.1 s.appjiagu.com
-127.0.0.1 service.jiagu.360.cn
-127.0.0.1 cpull.360.cn
 #360-mob
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 commercial.shouji.360.cn
@@ -144,7 +134,6 @@
 127.0.0.1 hm3.cnzz.com
 127.0.0.1 hqs1.cnzz.com
 127.0.0.1 hqs4.cnzz.com
-127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hqs9.cnzz.com
 127.0.0.1 hzs10.cnzz.com
 127.0.0.1 hzs13.cnzz.com
@@ -169,7 +158,6 @@
 127.0.0.1 online.cnzz.com
 127.0.0.1 oz.cnzz.com
 127.0.0.1 pw.cnzz.com
-127.0.0.1 q1.cnzz.com
 127.0.0.1 q12.cnzz.com
 127.0.0.1 q14.cnzz.com
 127.0.0.1 quanjing.cnzz.com
@@ -426,11 +414,8 @@
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 #ali-taobao
-127.0.0.1 adashbc.m.taobao.com
-127.0.0.1 adashx.m.taobao.com
 127.0.0.1 agoodm.m.taobao.com
 127.0.0.1 ai.taobao.com
-127.0.0.1 amdc.m.taobao.com
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
@@ -507,7 +492,6 @@
 127.0.0.1 nj.baichuan.baidu.com
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
-127.0.0.1 qianclick.baidu.com
 127.0.0.1 release.baidu.com
 127.0.0.1 rplog.baidu.com
 127.0.0.1 sclick.baidu.com
@@ -549,8 +533,6 @@
 127.0.0.1 hdj.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 inside.baidu.com
-127.0.0.1 mobads-logs.baidu.com
-127.0.0.1 mobads.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
 127.0.0.1 openrcv.baidu.com
@@ -607,7 +589,6 @@
 127.0.0.1 etg.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 pingtcss.qq.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 tcss.qq.com
 #qq-gdt
 127.0.0.1 c.gdt.qq.com
@@ -622,7 +603,6 @@
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 lb.gtimg.com
-127.0.0.1 swa.gtimg.com
 127.0.0.1 wb.gtimg.com
 #qq-l
 127.0.0.1 c2.l.qq.com
@@ -644,7 +624,6 @@
 127.0.0.1 dl.kjava.sina.cn
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 sax.sina.cn
-127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 slog.sina.cn
 127.0.0.1 trends.mobile.sina.cn
@@ -1082,6 +1061,7 @@
 127.0.0.1 sohutv.cm.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
+127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 view.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
@@ -1498,11 +1478,12 @@
 127.0.0.1 irs01.net
 127.0.0.1 irs01.com
 127.0.0.1 irs09.com
+127.0.0.1 m.irs01.com
+127.0.0.1 yyt.irs01.com
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 letv.irs01.com
-127.0.0.1 m.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
 #jesgoo
@@ -1705,6 +1686,12 @@
 127.0.0.1 moad.cn
 127.0.0.1 pic.moad.cn
 127.0.0.1 wap.moad.cn
+#mob.com
+127.0.0.1 api.exc.mob.com
+127.0.0.1 api.share.mob.com
+127.0.0.1 c.data.mob.com
+127.0.0.1 devs.data.mob.com
+127.0.0.1 m.data.mob.com
 #mobgi
 127.0.0.1 api.mobgi.com
 127.0.0.1 api.p8.mobgi.com

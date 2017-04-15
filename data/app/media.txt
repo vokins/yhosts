@@ -18,42 +18,58 @@
 127.0.0.1 ue.ueadlian.com
 127.0.0.1 wm.lrswl.com
 127.0.0.1 www.feixin2.com
-#baofeng.com
-127.0.0.1 action.logger.baofeng.com
+#http://www.baofeng.com/
+127.0.0.1 cdn.baofenggame.com
+127.0.0.1 data.danmu.baofeng.com
+127.0.0.1 static.danmu.baofeng.com
 127.0.0.1 active.baofeng.com
-127.0.0.1 addl.logger.baofeng.com
-127.0.0.1 areacode.baofeng.com
-127.0.0.1 clicklog.moviebox.baofeng.com
+127.0.0.1 breeze.olclient.baofeng.com
+127.0.0.1 coop.pop.baofeng.com
 127.0.0.1 dailylog.storm.baofeng.com
 127.0.0.1 eventlog.hd.baofeng.com
-127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 log.ltype.baofeng.com
 127.0.0.1 log.nvwa.baofeng.com
+127.0.0.1 log.vdinfo.baofeng.com
 127.0.0.1 logger.treexml.baofeng.com
 127.0.0.1 midinfo.baofeng.com
-127.0.0.1 p2pmid.baofeng.com
 127.0.0.1 pvlog.hd.baofeng.com
-127.0.0.1 sclog.moviebox.baofeng.com
-127.0.0.1 tips.logger.baofeng.com
-127.0.0.1 tipsdown.baofeng.com
-127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 vdinfo.baofeng.com
+127.0.0.1 videodown.baofeng.com
+127.0.0.1 sclog.moviebox.baofeng.com
+127.0.0.1 timelog.moviebox.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
-#baofeng.net
-127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 action.logger.baofeng.com
+127.0.0.1 duration.logger.baofeng.com
+127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 tips.logger.baofeng.com
+127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 config.baofeng.net
+127.0.0.1 loading.baofeng5.baofeng.net
+127.0.0.1 onlinetips.baofeng5.baofeng.net
+127.0.0.1 ck.houyi.baofeng.net
 127.0.0.1 corner.houyi.baofeng.net
 127.0.0.1 d3f.houyi.baofeng.net
-127.0.0.1 loading.baofeng5.baofeng.net
+127.0.0.1 fyd.houyi.baofeng.net
 127.0.0.1 log.houyi.baofeng.net
 127.0.0.1 mid.houyi.baofeng.net
-127.0.0.1 nclog.mars.baofeng.net
-127.0.0.1 onlinetips.baofeng5.baofeng.net
 127.0.0.1 parser.houyi.baofeng.net
-127.0.0.1 pvlog.moviebox.baofeng.net
 127.0.0.1 static.houyi.baofeng.net
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
+127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 jfm4.pop.baofeng.net
+127.0.0.1 listlog.baofeng.net
+127.0.0.1 nclog.mars.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
+#baofeng.com
+127.0.0.1 addl.logger.baofeng.com
+127.0.0.1 areacode.baofeng.com
+127.0.0.1 clicklog.moviebox.baofeng.com
+127.0.0.1 p2pmid.baofeng.com
+127.0.0.1 tipsdown.baofeng.com
 #fun.tv
 127.0.0.1 vas.fun.tv
 127.0.0.1 adm.funshion.com
@@ -152,10 +168,8 @@
 127.0.0.1 mango2.yunfan.com
 127.0.0.1 mango.yunfan.com
 #migu.cmvideo.cn
-127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
-127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 push.cmvideo.cn
 127.0.0.1 iflyad.bj.openstorage.cn
 #molitv.cn
@@ -214,7 +228,6 @@
 127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
 127.0.0.1 adsrich.qq.com
-127.0.0.1 p.l.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 tj.video.qq.com

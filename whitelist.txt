@@ -1,4 +1,22 @@
 ﻿127.0.0.1 games.ifeng.com
+127.0.0.1 boscdn.bpc.baidu.com
+http://xs.houyi.baofeng.net/Consultation/get_skin.php
+http://treezip.baofeng.net/cpanel/1.zip
+http://treexml.baofeng.net/desc.xml
+http://moviebox.baofeng.net/proxy.html
+http://dns.baofeng5.baofeng.net/dns/public/dns.dat
+http://download.skin.baofeng.com/skin_tip
+http://dl.baofeng.com/baofeng5/BFAssistantsetup/2.19.0002.0727/SubSetup.exe
+http://config5.update.baofeng.com/GetUpgradeXml.php?&Bid=2&MainVer=5.69.0331.1111&MEEVer=1.0.00.1231&PlayerVer=5.69.0331.0011&BoxVer=5.69.0331.0011&P2PVer=5.69.0331.0011&ADVer=5.69.0331.0011&OSVer=6.1&Mode=auto
+http://hintslist.baofeng.net/
+http://boxlist.baofeng.net/download.xml
+http://p2plist.baofeng.net/download.xml
+http://boxlist.baofeng.net/ListConfig.xml?ver=5.69.0331.1111&uid={E1723853-AF28-CCB1-CC6D-8F3CDA4CFF7F}
+http://dl.baofeng.com/baofeng5/Setup-5.38.0630.1222.exe
+http://dlna.baofeng.com/pchelp/howtouse.html
+http://minfo.baofeng.net/
+http://storm.baofeng.net/?c=Storm://1300000196156%7C%7Cchannel=newbox1/index/index_1.html%7C%7Cpid=newbox
+http://share.baofeng.net/#
 http://contentrecommend.mobile.sina.cn/interface/pcwin/pc_win.php?posid=pos51dbbc713bb90&uid=5766380127&callback=IM_14922402402021&__rnd=1492240240202
 http://imageplus.baidu.com/imgs/showcase-1.jpg
 127.0.0.1 imageplus.baidu.com

@@ -19,6 +19,7 @@
 #adinall.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
+127.0.0.1 pmp.adinall.com
 #adk2.co
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
@@ -222,7 +223,6 @@
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
