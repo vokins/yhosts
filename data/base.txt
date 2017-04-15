@@ -47,6 +47,10 @@
 #taobao
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
+#wrating
+127.0.0.1 c.wrating.com
+127.0.0.1 tongji.wrating.com
+127.0.0.1 sina.wrating.com
 @base-baidu
 #ads
 127.0.0.1 api.share.baidu.com
@@ -84,6 +88,7 @@
 127.0.0.1 fex.bdstatic.com
 @base-qq
 #qq
+127.0.0.1 cm.e.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 j.wit.qq.com
 127.0.0.1 mi.gdt.qq.com
@@ -103,9 +108,38 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 x.jd.com
 @base-sina
-127.0.0.1 d3.sina.com.cn
-127.0.0.1 sax.sina.com.cn
+#sinaads
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 d9.sina.com.cn
+127.0.0.1 dcads.sina.com.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
+#http://www.sina.com.cn/
+127.0.0.1 cre.mix.sina.com.cn
+127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.mix.sina.com.cn
+#http://video.sina.com.cn/
+127.0.0.1 count.video.sina.com.cn
+#http://leju.com/
+127.0.0.1 adm.leju.com
+127.0.0.1 tongji.leju.com
+#http://ent.sina.com.cn/
+127.0.0.1 rs.sinajs.cn
+127.0.0.1 1407.adsina.allyes.com
+#wehttp://weibo.com/
+127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 biz.weibo.com
 @base-sohu
 127.0.0.1 images.sohu.com
 127.0.0.1 t.go.sohu.com
@@ -119,6 +153,7 @@
 127.0.0.1 theta.sogoucdn.com
 @base-google
 #doubleclick
+127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 #syndication

@@ -482,7 +482,6 @@
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 s.wrating.com
 127.0.0.1 sohu.wrating.com
-127.0.0.1 tongji.wrating.com
 #ali-yun
 127.0.0.1 click.aliyun.com
 127.0.0.1 promotion.aliyun.com
@@ -603,7 +602,6 @@
 127.0.0.1 adver.qq.com
 #qq-union
 127.0.0.1 adshmct.qq.com
-127.0.0.1 cm.e.qq.com
 127.0.0.1 d3g.qq.com
 127.0.0.1 e.qq.com
 127.0.0.1 etg.qq.com
@@ -650,42 +648,25 @@
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 slog.sina.cn
 127.0.0.1 trends.mobile.sina.cn
-127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
-127.0.0.1 wbpctips.mobile.sina.cn
 #sina-com.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
-127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
-127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
-127.0.0.1 d1.sina.com.cn
-127.0.0.1 d2.sina.com.cn
-127.0.0.1 d4.sina.com.cn
-127.0.0.1 d5.sina.com.cn
-127.0.0.1 d6.sina.com.cn
-127.0.0.1 d7.sina.com.cn
-127.0.0.1 d8.sina.com.cn
-127.0.0.1 d9.sina.com.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
-127.0.0.1 interest.mix.sina.com.cn
-127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 motu.p4p.sina.com.cn
-127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
-127.0.0.1 woocall.sina.com.cn
 #sina-com
 127.0.0.1 pfpip.sina.com
 127.0.0.1 newspush.sinajs.cn
-127.0.0.1 rs.sinajs.cn
 #sina-com.hk
 127.0.0.1 avn.innity.com
 127.0.0.1 cast.innity.com
@@ -723,7 +704,6 @@
 127.0.0.1 track2.ra.icast.cn
 #sina-weibo
 127.0.0.1 alitui.weibo.com
-127.0.0.1 biz.weibo.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 c.wcpt.biz.weibo.com
 127.0.0.1 game.weibo.com

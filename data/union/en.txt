@@ -218,7 +218,6 @@
 #google-doubleclick
 127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
