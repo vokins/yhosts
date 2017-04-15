@@ -1,0 +1,42 @@
+127.0.0.1 admgr.qingting.fm
+127.0.0.1 dload.qd.qingting.fm
+127.0.0.1 logger.qingting.fm
+127.0.0.1 s.qd.qingting.fm
+127.0.0.1 s.qd.qingtingfm.com
+
+127.0.0.1 ttpack.qianqian.com
+127.0.0.1 push.music.baidu.com
+127.0.0.1 pups.baidu.com
+127.0.0.1 ttmsg.qianqian.com
+127.0.0.1 ttplayer.qianqian.com
+
+#kugou
+127.0.0.1 gad.kugou.com
+127.0.0.1 mo.kugou.com
+127.0.0.1 msg.mobile.kugou.com
+127.0.0.1 p.kugou.com
+127.0.0.1 rtmonitor.kugou.com
+127.0.0.1 sdk.game.kugou.com
+127.0.0.1 update.mobile.kugou.com
+
+
+#https://m.alibabaplanet.com/
+127.0.0.1 collect.log.ttpod.com
+127.0.0.1 test.log.ttpod.com
+127.0.0.1 v1.ard.tj.itlily.com
+127.0.0.1 v1.ard.update.itlily.com
+
+
+127.0.0.1 ad.test.ximalaya.com
+127.0.0.1 adse.test.ximalaya.com
+127.0.0.1 adweb.ximalaya.com
+
+127.0.0.1 apk.shouji.koowo.com
+127.0.0.1 deliver.kuwo.cn
+127.0.0.1 kwmsg.kuwo.cn
+127.0.0.1 msclick2.kuwo.cn
+127.0.0.1 msphoneclick.kuwo.cn
+127.0.0.1 updatepage.kuwo.cn
+127.0.0.1 iimedia.cn
+127.0.0.1 mfan.iclick.com.cn
+127.0.0.1 game.51yund.com

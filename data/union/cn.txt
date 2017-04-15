@@ -1255,6 +1255,12 @@
 127.0.0.1 yeskyafp.allyes.com
 127.0.0.1 zjvnet.allyes.com
 127.0.0.1 www.allyes.com
+#analysys.cn
+127.0.0.1 ait240.analysys.cn
+127.0.0.1 api721.analysys.cn
+127.0.0.1 urd103.analysys.cn
+127.0.0.1 urd240.analysys.cn
+127.0.0.1 urd345.analysys.cn
 #anreson.net
 127.0.0.1 id1.anreson.net
 127.0.0.1 js1116.anreson.net
