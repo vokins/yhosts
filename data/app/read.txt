@@ -8,6 +8,28 @@
 127.0.0.1 ad-beta.flipboard.com
 #http://m.jiemian.com/
 127.0.0.1 ad.jiemian.com
+#http://m.toutiao.com/
+127.0.0.1 ad.toutiao.com
+127.0.0.1 analytics.snssdk.com
+127.0.0.1 pb3.pstatp.com
+127.0.0.1 s3.pstatp.com
+127.0.0.1 s3a.pstatp.com
+#http://www.cmread.com/
+127.0.0.1 ad.ibookstar.com
+#http://t.shuqi.com/
+127.0.0.1 ut2.shuqistat.com
+127.0.0.1 www.cm-analysis.com
+127.0.0.1 www.webdissector.com
+#http://itaoxiaoshuo.com/
+127.0.0.1 api.itaoxiaoshuo.com
+127.0.0.1 itaoxiaoshuo.com
+#http://www.zhuishushenqi.com/
+127.0.0.1 ad.ipadview.com
+127.0.0.1 stats.magicwindow.cn
+#http://book.easou.com/
+127.0.0.1 adm.easou.com
+127.0.0.1 tjlog.easou.com
+127.0.0.1 tjlog.ps.easou.com
 #http://www.wufazhuce.com/
 127.0.0.1 click.focusad.cn
 127.0.0.1 finead.cn
@@ -17,17 +39,6 @@
 #http://m.thepaper.cn/
 127.0.0.1 ad.thepaper.cn
 127.0.0.1 imgad.thepaper.cn
-#http://m.toutiao.com/
-127.0.0.1 ad.toutiao.com
-127.0.0.1 d.toutiao.com
-127.0.0.1 dm.toutiao.com
-127.0.0.1 dsp.toutiao.com
-127.0.0.1 nativeapp.toutiao.com
-127.0.0.1 partner.toutiao.com
-127.0.0.1 analytics.snssdk.com
-127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3.pstatp.com
-127.0.0.1 s3a.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
@@ -39,3 +50,9 @@
 127.0.0.1 tui.gtimg.com
 127.0.0.1 w.cnews.qq.com
 127.0.0.1 ss.missyouxi.com
+#https://itunes.apple.com/cn/app/lao-zi-sou-shu/id1147985301
+127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
+#http://zhangyue.com/
+127.0.0.1 am.g.ireader.com
+127.0.0.1 push.zhangyue.com
+127.0.0.1 img.ad.zhangyue.com

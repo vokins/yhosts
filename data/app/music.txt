@@ -43,6 +43,12 @@
 #http://m.ximalaya.com/
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com
+#https://www.spotify.com
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 analytics.spotify.com
+127.0.0.1 log.spotify.com
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 weblb-wg.gslb.spotify.com
 #http://www.miguvideo.com/
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
@@ -50,12 +56,6 @@
 #http://music.migu.cn/
 127.0.0.1 rprsv.richpush.cn
 127.0.0.1 wtrace.cmgame.com
-#https://www.spotify.com
-127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 analytics.spotify.com
-127.0.0.1 log.spotify.com
-127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 weblb-wg.gslb.spotify.com
 #http://www.yinyuetai.com/
 127.0.0.1 client.stats.yinyuetai.com
 127.0.0.1 log.collect.yinyuetai.com

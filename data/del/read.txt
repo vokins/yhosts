@@ -1,0 +1,39 @@
+#http://m.toutiao.com/
+127.0.0.1 d.toutiao.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dsp.toutiao.com
+127.0.0.1 nativeapp.toutiao.com
+127.0.0.1 partner.toutiao.com
+#book.easou.com
+127.0.0.1 ad.easou.com
+127.0.0.1 ad2.easou.com
+127.0.0.1 assets.easou.com
+127.0.0.1 e.easou.com
+127.0.0.1 u.easou.com
+#zhangyue.com
+127.0.0.1 i.g.ireader.com
+127.0.0.1 ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
+
+#uc
+127.0.0.1 adslot.uc.cn
+127.0.0.1 api.ugame.uc.cn
+127.0.0.1 app.uc.cn
+127.0.0.1 dispatcher.upmc.uc.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 igouwu.uc.cn
+127.0.0.1 m.app.uc.cn
+127.0.0.1 sdkgame.ugame.uc.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 ccs.ucweb.com
+127.0.0.1 client.video.ucweb.com
+127.0.0.1 cms.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 safe.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 ucsec.ucweb.com
+127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 patriot.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com

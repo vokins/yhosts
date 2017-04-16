@@ -144,3 +144,9 @@
 127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 mmm.jshjtg.cn
+127.0.0.1 download.123cw.cn
+127.0.0.1 download3.123cw.cn
+127.0.0.1 a3.q5q58.com.cn
+127.0.0.1 mibook-10006092.cos.myqcloud.com
+127.0.0.1 redpaper-10006092.cos.myqcloud.com
+127.0.0.1 iosipa.b0.upaiyun.com

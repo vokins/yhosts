@@ -1,4 +1,8 @@
 @app-browser
+#http://app.2345.com/mob.htm
+127.0.0.1 2345api.dftoutiao.com
+127.0.0.1 2345apicode.dftoutiao.com
+127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 fw.mb.lenovomm.com
 127.0.0.1 mb.lenovomm.com
@@ -32,21 +36,30 @@
 127.0.0.1 mbrowser.news.haosou.com
 127.0.0.1 mbrowser.news.so.com
 127.0.0.1 mbs.hao.360.cn
+127.0.0.1 g.sdk.look.360.cn
+127.0.0.1 sdk.look.360.cn
+127.0.0.1 res.qhupdate.com
 #http://mse.sogou.com/
-127.0.0.1 123.sogou.com
+127.0.0.1 config.push.sogou.com
+127.0.0.1 download.zhushou.sogou.com
+127.0.0.1 pull.push.sogou.com
+127.0.0.1 rd.e.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/
 127.0.0.1 c.bxb.oupeng.com
-127.0.0.1 cp.oupeng.com
+127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 ezine.oupeng.com
 127.0.0.1 img-ad.oupeng.com
-127.0.0.1 img.zixun.oupeng.com
-127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 startup.oupeng.com
+127.0.0.1 notify.oupeng.com
+127.0.0.1 open.snssdk.com
+127.0.0.1 img.zixun.oupeng.com
 127.0.0.1 zixun.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
+127.0.0.1 t.adbxb.cn
 #https://play.google.com/store/apps/details?id=jp.ddo.pigsty.HabitBrowser
 127.0.0.1 spap.adingo.jp
 127.0.0.1 spap.adingo.jp.eimg.jp
@@ -65,35 +78,14 @@
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
+#http://www.maxthon.cn/
+127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
-127.0.0.1 adslot.uc.cn
 127.0.0.1 api.mp.uc.cn
-127.0.0.1 api.ugame.uc.cn
-127.0.0.1 app.uc.cn
-127.0.0.1 applog.uc.cn
-127.0.0.1 dispatcher.upmc.uc.cn
-127.0.0.1 gj.applog.uc.cn
-127.0.0.1 igouwu.uc.cn
-127.0.0.1 m.app.uc.cn
-127.0.0.1 sdkgame.ugame.uc.cn
-127.0.0.1 track.uc.cn
-127.0.0.1 ccs.ucweb.com
-127.0.0.1 client.video.ucweb.com
-127.0.0.1 cms.ucweb.com
-127.0.0.1 puds.ucweb.com
-127.0.0.1 safe.ucweb.com
-127.0.0.1 uc.ucweb.com
-127.0.0.1 ucsec.ucweb.com
-127.0.0.1 ucsec1.ucweb.com
+127.0.0.1 image.uczzd.cn
+127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
 127.0.0.1 iflow.uczzd.com
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
-127.0.0.1 image.uczzd.cn
-127.0.0.1 m.uczzd.cn
-127.0.0.1 log.cs.pp.cn
-127.0.0.1 patriot.cs.pp.cn
-127.0.0.1 server.m.pp.cn
-127.0.0.1 u.uc123.com
-127.0.0.1 u.ucfly.com
-127.0.0.1 huichuan.sm.cn
+127.0.0.1 image.zzd.sm.cn

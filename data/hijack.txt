@@ -121,9 +121,6 @@
 127.0.0.1 www.ok365.com
 127.0.0.1 cpro.9xu.com
 127.0.0.1 dl.9xu.com
-127.0.0.1 activity.m.duiba.com.cn
-127.0.0.1 yun.duiba.com.cn
-127.0.0.1 www.duiba.com.cn
 127.0.0.1 js.union-wifi.com
 127.0.0.1 rcv.union-wifi.com
 127.0.0.1 engine.tuia.cn

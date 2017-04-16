@@ -204,22 +204,6 @@
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
 @site-book
-#book.easou.com
-127.0.0.1 ad.easou.com
-127.0.0.1 ad2.easou.com
-127.0.0.1 adm.easou.com
-127.0.0.1 assets.easou.com
-127.0.0.1 e.easou.com
-127.0.0.1 tjlog.easou.com
-127.0.0.1 tjlog.ps.easou.com
-127.0.0.1 u.easou.com
-#ireader
-127.0.0.1 am.g.ireader.com
-127.0.0.1 i.g.ireader.com
-#itaoxiaoshuo.com
-127.0.0.1 api.itaoxiaoshuo.com
-#lao-zi-sou-shu
-127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 #qidian.com
 127.0.0.1 a.game.qidian.com
 127.0.0.1 cj.qidian.com
@@ -229,15 +213,8 @@
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
-#shuqi.com
-127.0.0.1 ut2.shuqistat.com
 #www.dmzj.com
 127.0.0.1 ad.bayescom.com
-#zhangyue.com
-127.0.0.1 ad.zhangyue.com
-127.0.0.1 img.ad.zhangyue.com
-127.0.0.1 m.ad.zhangyue.com
-127.0.0.1 push.zhangyue.com
 @site-buy
 #egou.com
 127.0.0.1 ad.egou.com
@@ -249,8 +226,6 @@
 #jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 du.jd.com
-127.0.0.1 im-x.jd.com
-127.0.0.1 wn.x.jd.com
 #meituan.com
 127.0.0.1 push.mobile.meituan.com
 #vip.com
@@ -490,6 +465,7 @@
 127.0.0.1 adshow.58.com
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
+127.0.0.1 jumpluna.58.com
 127.0.0.1 track.58.com
 127.0.0.1 imp.xgo.com.cn
 127.0.0.1 stat.xgo.com.cn

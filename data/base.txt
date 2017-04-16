@@ -16,16 +16,12 @@
 127.0.0.1 cpull.360.cn
 @base-ali
 #alicdn
+127.0.0.1 afp.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
-127.0.0.1 tce.alicdn.com
-#alimama
-127.0.0.1 a.alimama.cn
-#baichuan
-127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
+127.0.0.1 tce.alicdn.com
 #cnzz
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
@@ -60,18 +56,28 @@
 127.0.0.1 cdn.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
+127.0.0.1 ecpm.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 phs.tanx.com
 #cps
+127.0.0.1 a.alimama.cn
 127.0.0.1 afpssp.alimama.com
+127.0.0.1 ai.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 #taobao
-127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 tunion-api.m.taobao.com
+127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 strip.taobaocdn.com
+#uc
+127.0.0.1 applog.uc.cn
+127.0.0.1 huichuan.sm.cn
+127.0.0.1 log.cs.pp.cn
 #wrating
 127.0.0.1 c.wrating.com
 127.0.0.1 tongji.wrating.com
@@ -94,6 +100,12 @@
 127.0.0.1 pos.baidu.com
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 wn.pos.baidu.com
+#mob
+127.0.0.1 bdplus.baidu.com
+127.0.0.1 btlaunch.baidu.com
+127.0.0.1 tipsdk.baidu.com
+#tuisong
+127.0.0.1 api.tuisong.baidu.com
 #bdimg
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -108,7 +120,6 @@
 127.0.0.1 appc.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 yd.baidu.com
-127.0.0.1 wkctj.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 #https://wenku.baidu.com/
@@ -116,8 +127,8 @@
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 wenku-cms.bj.bcebos.com
 #https://zhidao.baidu.com/
-127.0.0.1 kstj.baidu.com
 127.0.0.1 fex.bdstatic.com
+127.0.0.1 kstj.baidu.com
 #http://v.baidu.com/
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 nsclickvideo.baidu.com
@@ -150,6 +161,7 @@
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 oth.update.mdt.qq.com
 #qq
 127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
@@ -161,6 +173,7 @@
 127.0.0.1 tajs.qq.com
 127.0.0.1 union.discuz.qq.com
 #gtimg
+127.0.0.1 beacon.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 wa.gtimg.com
 #l
@@ -174,8 +187,17 @@
 127.0.0.1 lives.l.qq.com
 @base-jd
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 im-x.jd.com
+127.0.0.1 img-x.jd.com
 127.0.0.1 u.x.jd.com
+127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+@base-inside
+127.0.0.1 activity.m.duiba.com.cn
+127.0.0.1 embedlog.duiba.com.cn
+127.0.0.1 www.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
+127.0.0.1 m.maila88.com
 @base-sina
 #sinaads
 127.0.0.1 beacon.sina.com.cn
@@ -212,6 +234,7 @@
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 @base-sohu
+127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 zz.m.sohu.com

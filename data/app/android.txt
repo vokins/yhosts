@@ -157,6 +157,7 @@
 #miui-download
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net

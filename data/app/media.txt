@@ -83,15 +83,22 @@
 #jstv.com
 127.0.0.1 gp.jstv.com
 127.0.0.1 adsys.chinacloudapp.cn
-#kankan.com
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 liveupdate.mac.sandai.net
-127.0.0.1 m.down.sandai.net
+
+#http://mobile.xunlei.com/
 127.0.0.1 adsp.xunlei.com
-127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
-127.0.0.1 cop.my.xunlei.com
+127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
+127.0.0.1 jinrong.xunlei.com
+127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 img.momocdn.com
+#http://mac.xunlei.com/
+127.0.0.1 liveupdate.mac.sandai.net
+#http://xl9.xunlei.com/
+127.0.0.1 m.down.sandai.net
+127.0.0.1 analytics-union.xunlei.com
+127.0.0.1 cop.my.xunlei.com
 127.0.0.1 dy.niu.xunlei.com
 127.0.0.1 hezuo.down.xunlei.com
 127.0.0.1 jiuwo.xunlei.com
@@ -116,6 +123,7 @@
 127.0.0.1 xl7xml.client.xunlei.com
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
+#kankan.com
 127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
 127.0.0.1 count.cpm.cm.kankan.com
@@ -123,9 +131,7 @@
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
-127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 pv.cnzz.twh5.com
-127.0.0.1 img.momocdn.com
 127.0.0.1 www.155.com
 127.0.0.1 cnt.ppmoney.com
 127.0.0.1 pv.cnzz.leiouxiong.com

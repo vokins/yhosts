@@ -1,10 +1,15 @@
 ﻿127.0.0.1 games.ifeng.com
+http://cp.oupeng.com/TurboSDKOnlineConfig/config.json?_u=f6862f7e636747f5ae7c9d581edec780
+http://res.imtt.qq.com/skin/real/top_op_android/anzhuo.png
+http://res.imtt.qq.com/ipadvedio/js/bg_f15.png
+http://softimtt.myapp.com/browser/hotpatch/prod/patch_signed_1492080562867.apk
+http://misc.xl9.xunlei.com/res/api/xl9/v1/xl9.js
+127.0.0.1 loc.map.baidu.com
 127.0.0.1 boscdn.bpc.baidu.com
 127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 weather.ksmobile.com
-127.0.0.1 loc.map.baidu.com
 127.0.0.1 hxqd.openspeech.cn
 127.0.0.1 api.account.xiaomi.com
 127.0.0.1 wb.110.taobao.com
