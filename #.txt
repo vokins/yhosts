@@ -616,6 +616,8 @@ http://stat.moji.com/aMoUp
 http://cdn.moji.com/advert/background/1484561686000_weather_bg_org_1213.zip?md5=e3d26142344c7185a8dda3d1b7a854a5
 http://cdn.moji.com/adlink/tab/1a/1c/e1/a5/1a1ce1a58f05292a3e27805a306810a8.png
 http://cdn.moji.com/adlink/common/3d/5c/ce/b7/3d5cceb7c0ee2a8bb80bcc18948dc429.jpg
+cdn.moji.com加入后不能播报语音！
+0.0.0.0 ad.log.mojichina.com
 pc.moji.com/push/json/push/sync_terminal
 stat.moji.com/aMoUp
 cdn2.moji002.com/webpush/ad2/moquan_v6_new.png
