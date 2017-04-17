@@ -18,7 +18,6 @@ http://impservice.dictapp.youdao.com/imp/request.s?req=mdict.7.3.2.android&uid=8
 http://ydpushserver.youdao.com/register
 http://impservice.dictapp.youdao.com/imp/request.s?req=mdict.7.3.2.android&uid=863818035818120&syndid=55&memberid=530&strategy=newAd&width=1080&height=1920&keyfrom=mdict.7.3.2.android&model=MI_5s_Plus&mid=6.0.1&imei=863818035818120&vendor=xiaomi&screen=1080x1920&ssid=1PDCN_5G&network=wifi&abtest=0
 http://impservice.dictapp.youdao.com/imp/request.s?req=mdict.7.3.2.android&uid=863818035818120&syndid=55&memberid=430&strategy=newAd&width=1080&height=1920&apiversion=2.0&keyfrom=mdict.7.3.2.android&model=MI_5s_Plus&mid=6.0.1&imei=863818035818120&vendor=xiaomi&screen=1080x1920&ssid=1PDCN_5G&network=wifi&abtest=0
-
 wifi万能钥匙（wifiwnmm）
 http://dudu.ztgame.com/room/video/GetVideoServer?from=wifi&roomid=3350785
 http://wifishow.ggsafe.com/frontend/phone/index/3350785?token=0&userid=0
@@ -594,6 +593,16 @@ img.adpush.cn/ap/20170224/0e6b7e679fcd5d40569fae92b2bea894.jpg
 beacon.gtimg.com/mig_op/beacon/sdk_modules/0C000S8VDZ1GVR6M/all/1.zip
 http://img.adpush.cn/ap/20150104/33254cb104a4df83651b6ab005265b90.jpg
 http://fds.api.moji.com/card/homepage_recommend
+http://fds.api.moji.com/card/homepage_recommend  墨迹天气咨询
+http://ad-cache.dopool.com/ad/
+
+
+http://fds.api.moji.com/card/homepage_recommend
+http://t.chengadx.com:6011/w?adxid=113&price=1262&ext=YWRzaWQ9dFRjM0NWdVNhNkp3WDVfbW0mc2lkaWQ9MCZpbXBpZD0yNWU4ZjJmMS1iYjIzLTRjNmYtYjVkNC00NmFlZGM1ZTg3Y2YmZHNwaWQ9MTI1JmNyaWQ9ODQzMzMyJmNhbWlkPTAmYWRnaWQ9ODAzNTEyJmFkdmVyaWQ9ODAxNDAyJnVpZD1qV2tYalc5cElXSW9qVzlwSVRMMyZyZD0mcD1iYyZ1cmw9JTJGdm1kc3AlM0ZhZHhpZCUzRDExMyUyNnNjcndpZHRoJTNEMTA4MCUyNmFkc3R5bGUlM0Q4JTI2d21hJTNEMDIlMjUzQTAwJTI1M0EwMCUyNTNBMDAlMjUzQTAwJTI1M0EwMCUyNmRlYnVnJTNEMiUyNm5ldCUzRDElMjZzY3JybyUzRDAlMjZjYXJyaWVyJTNEMyUyNmxhdCUzRDM1LjExMjEzJTI2b3BlbnVkaWQlM0QlMjZvcyUzRDAlMjZ1bnFpZCUzRG1vamklMjZsb24lM0QxMTguMzI5ODglMjZiYXNpY19wcmljZSUzRDgwMCUyNm9zdiUzRDIzJTI2aW1laSUzRDg2MzgxODAzNTgxODEyMCUyNmFkdHlwZSUzRDIlMjZzZXNzaW9uaWQlM0QyNWU4ZjJmMS1iYjIzLTRjNmYtYjVkNC00NmFlZGM1ZTg3Y2YlMjZwa2duYW1lJTNEY29tLm1vamkubWp3ZWF0aGVyJTI2aXAlM0QyMjMuOTkuMjExLjIxOCUyNmFkaWQlM0QxNDc2Nzg2MjY5OTg1JTI2YW5kYWlkJTNEJTI2c2NyaGVpZ2h0JTNEMTkyMCUyNmFwcG5hbWUlM0Rtb2ppV2VhdGhlciUyNmRldmljZSUzRE1JJTJCNXMlMkJQbHVzJTI2dWElM0RNb3ppbGxhJTI1MkY1LjAlMkIlMjUyOExpbnV4JTI1M0IlMkJBbmRyb2lkJTJCNi4wLjElMjUzQiUyQk1JJTJCNXMlMkJQbHVzJTJCQnVpbGQlMjUyRk1YQjQ4VCUyNTI5JTJCQXBwbGVXZWJLaXQlMjUyRjUzMy4xJTJCJTI1MjhLSFRNTCUyNTJDJTJCbGlrZSUyQkdlY2tvJTI1MjklMkJWZXJzaW9uJTI1MkY0LjAlMkJNb2JpbGUlMkJTYWZhcmklMjUyRjUzMy4xJTI2YW5kaWQlM0Q0MmI1MzM2OGVkZDJiZjBmJTI2aWRmYSUzRDg2MzgxODAzNTgxODEyMCUyNnRyYWRlbGV2ZWwlM0QzJnJlZj0mcHVybD0mY2F0PTUxNzImY3BtPWZrSHR0TWhOc0duR0RjRE9RTDVzZXcmaT0zNzQ3ODYxNDY2JnRtPTE0OTI0MzEzMTgmdD1mZjczZjJlNDQyOGY0ZjYxODNlNzZiZDFmOGMwZjYxZiZzdWlkPTI1MSZzd2lkPTE0NzY3ODM3MDE1NTEmbWJhcHA9MSZuY2Zncz0wJmRmaWQ9LTEmYWR4aWQ9MTMmd2g9NzIwKjQwNSZoc2lkPQ
+http:///ad/log/stat
+http://rtbstat.zcdsp.com/pvstat/?ci=0&flag=251&mp=1262&ccid=843332&rqid=25e8f2f1-bb23-4c6f-b5d4-46aedc5e87cf&rqp=DqJl35xFuwlGPHUJ1RYxdQ&extdata=fGM9ODQzMzMyfGd1aWQ9aldrWGpXOXBJV0lvalc5cElUTDN8QXByPTgwMzUxMnxBc2M9ODQzMzMyfEFzcD10VGMzQ1Z1U2E2SndYNV9tbV8wfGhzY29kZT0tNDc3NTg4ODMxfERvbWFpbj1tb2ppLmNvbXxJcD0yMjMuOTkuMjExLjIxOHxDaGFubmVsSWQ9ODAwMDAwfERldmljZUlkPWYyZTA4MjY2OTk3ZTlhYzBkMmIwNGZhMWExMDRmNmQyfEFkeFVpZD0yNTE=
+
+AdSale/html_api/back_from_video_ad.png
 http://eventlog.beacon.qq.com/analytics/upload?rid=193317157a9cc22b
 http://strategy.beacon.qq.com/analytics/upload
 http://wap.mpush.qq.com/push/conn2?omgid=4509e65ead94314e341bc7070face93b98010010212117&mid=329ea086354e0caa87cce3cc5fdc1ddf057c14c9&dpi=440&devid=863818035818120&is_chinamobile_oem=0&qqnetwork=wifi&real_device_width=2.8&apptype=android&orig_store=826&netstate=0&hw=Xiaomi_MI5sPlus&appver=23_android_5.3.44&screen_width=1080&omgbizid=0&sceneid=&imsi=460018358808693&isoem=0&mac=78%253A02%253AF8%253AF2%253AE1%253AEA&did=863818035818120&activefrom=self&bid=10001&msgid=&store=826&screen_height=1920&Cookie=lskey%3D%3Bluin%3D%3Bskey%3D%3Buin%3D%3B%20logintype%3D0%3B%20main_login%3Dqq%3B%20&real_device_height=4.96&origin_imei=863818035818120&network_type=wifi&uid=42b53368edd2bf0f&imsi_history=460018358808693&qn-sig=92caf5640593396119bb77254c6ec117&qn-rid=dfe46888-83b1-44ed-8f6c-267f52b85c49&auth=3e0c10fff52338d72bc23450

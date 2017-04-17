@@ -4,9 +4,10 @@
 #moji
 127.0.0.1 ad.api.moji.com
 127.0.0.1 cdn.moji.com
-127.0.0.1 v1.log.moji.com
+127.0.0.1 fds.api.moji.com
 127.0.0.1 stat.moji.com
+127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
 #ÌìÆøÍ¨
 127.0.0.1 i.apps.sina.cn
-127.0.0.1 tqt.weibo.cn
+

@@ -11,7 +11,7 @@
 127.0.0.1 ttplayer.qianqian.com
 
 
-127.0.0.1 fds.api.moji.com
+
 127.0.0.1 ad.moji001.com
 127.0.0.1 pc.moji.com
 127.0.0.1 app.moji001.com

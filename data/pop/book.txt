@@ -69,6 +69,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 edge.yunjiasu.com
@@ -83,6 +84,7 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
+127.0.0.1 tmc.biquge.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
@@ -250,6 +252,7 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
+127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
@@ -282,6 +285,7 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.sanhao3.com
+127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com

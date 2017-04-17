@@ -1209,6 +1209,7 @@
 #cctv
 127.0.0.1 rtas.videocc.net
 #app.starschina.com
+127.0.0.1 ad-cache.dopool.com
 127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
@@ -1365,7 +1366,6 @@
 #uusee.com
 127.0.0.1 winvvv.com
 #v.dopool.com
-127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad.dopool.com
 127.0.0.1 analytics3.dopool.com
 127.0.0.1 ad-data.starschina.com
@@ -1692,12 +1692,13 @@ stat.myzaker.com
 #moji
 127.0.0.1 ad.api.moji.com
 127.0.0.1 cdn.moji.com
-127.0.0.1 v1.log.moji.com
+127.0.0.1 fds.api.moji.com
 127.0.0.1 stat.moji.com
+127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
 #ÌìÆøÍ¨
 127.0.0.1 i.apps.sina.cn
-127.0.0.1 tqt.weibo.cn
+
 @app-win
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
@@ -2603,6 +2604,7 @@ stat.myzaker.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 edge.yunjiasu.com
@@ -2617,6 +2619,7 @@ stat.myzaker.com
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
+127.0.0.1 tmc.biquge.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
@@ -2784,6 +2787,7 @@ stat.myzaker.com
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
+127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
@@ -2816,6 +2820,7 @@ stat.myzaker.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.sanhao3.com
+127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
@@ -5650,6 +5655,9 @@ stat.myzaker.com
 127.0.0.1 count.chanet.com.cn
 127.0.0.1 file.chanet.com.cn
 127.0.0.1 www.chanet.com.cn
+#chengadx.com
+127.0.0.1 t.chengadx.com
+127.0.0.1 rtbstat.zcdsp.com
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
 #cnxad

@@ -1,5 +1,5 @@
 
-#version=201704171959
+#version=201704172028
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1010,6 +1010,7 @@
 127.0.0.1 img.momocdn.com
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 rtas.videocc.net
+127.0.0.1 ad-cache.dopool.com
 127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
@@ -1141,7 +1142,6 @@
 127.0.0.1 gridsum-vd.cntv.cn
 127.0.0.1 terren.cntv.cn
 127.0.0.1 winvvv.com
-127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad.dopool.com
 127.0.0.1 analytics3.dopool.com
 127.0.0.1 ad-data.starschina.com
@@ -1393,11 +1393,12 @@ stat.myzaker.com
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 cdn.moji.com
-127.0.0.1 v1.log.moji.com
+127.0.0.1 fds.api.moji.com
 127.0.0.1 stat.moji.com
+127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 i.apps.sina.cn
-127.0.0.1 tqt.weibo.cn
+
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 info.gomlab.com
 127.0.0.1 playinfo.gomlab.com
@@ -2087,6 +2088,7 @@ stat.myzaker.com
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 edge.yunjiasu.com
@@ -2098,6 +2100,7 @@ stat.myzaker.com
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+127.0.0.1 tmc.biquge.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 127.0.0.1 m.cqftonline.com
@@ -2251,6 +2254,7 @@ stat.myzaker.com
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
@@ -2282,6 +2286,7 @@ stat.myzaker.com
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 127.0.0.1 m.maibahe300cc.com
@@ -4816,6 +4821,8 @@ stat.myzaker.com
 127.0.0.1 count.chanet.com.cn
 127.0.0.1 file.chanet.com.cn
 127.0.0.1 www.chanet.com.cn
+127.0.0.1 t.chengadx.com
+127.0.0.1 rtbstat.zcdsp.com
 127.0.0.1 mcc.chinauma.net
 127.0.0.1 js.cnxad.com
 127.0.0.1 x.cnxad.com

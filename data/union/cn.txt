@@ -1317,6 +1317,9 @@
 127.0.0.1 count.chanet.com.cn
 127.0.0.1 file.chanet.com.cn
 127.0.0.1 www.chanet.com.cn
+#chengadx.com
+127.0.0.1 t.chengadx.com
+127.0.0.1 rtbstat.zcdsp.com
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
 #cnxad
