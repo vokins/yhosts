@@ -231,6 +231,8 @@
 #vip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
+#wepiao.com
+127.0.0.1 ads.wepiao.com
 @site-edu
 #360doc.cn
 127.0.0.1 scriptwap1.360doc.cn
@@ -318,8 +320,10 @@
 127.0.0.1 xc.macd.cn
 #caixin.com
 127.0.0.1 apollo.caixin.com
+127.0.0.1 gg.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
+127.0.0.1 caixinimg.adsame.com
 127.0.0.1 m.1680go.com
 #ce.cn
 127.0.0.1 ads.ce.cn

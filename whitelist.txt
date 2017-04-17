@@ -1,4 +1,5 @@
 ﻿127.0.0.1 games.ifeng.com
+127.0.0.1 hotphone.myzaker.com
 http://cp.oupeng.com/TurboSDKOnlineConfig/config.json?_u=f6862f7e636747f5ae7c9d581edec780
 http://res.imtt.qq.com/skin/real/top_op_android/anzhuo.png
 http://res.imtt.qq.com/ipadvedio/js/bg_f15.png

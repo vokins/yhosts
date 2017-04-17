@@ -2,7 +2,7 @@
 #http://app.myzaker.com/
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
-127.0.0.1 hotphone.myzaker.com
+stat.myzaker.com
 #https://flipboard.com/
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com

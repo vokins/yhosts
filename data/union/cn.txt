@@ -520,7 +520,6 @@
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 charge.adapp.baidu.com
-127.0.0.1 dxp.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com

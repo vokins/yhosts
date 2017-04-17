@@ -1,4 +1,13 @@
-﻿
+﻿财新网app：
+http://caixinimg.adsame.com/dolphinfile/caixin/2016/09/1492_1.png
+http://gg.caixin.com/s?z=caixin&op=1&y=0&_imei=f2e08266997e9ac0d2b04fa1a104f6d2&_k=com.caing.news&x=0&slot=2000&_mac=7802f8f2e1ea&_gys=2&_os=0&h=626&_sp=3&w=1080&_pt=Android_6.0.1&ud=7802f8f2e1ea&c=2800&_cs=Xiaomi&_jx=MI+5s+Plus&_jr=1&_androidid=ad679ec9f335146ed6b76b6800f813af
+娱票儿：
+http://ads.wepiao.com:443
+
+zaker：
+http://adm.myzaker.com/ads_stat.php?_appid=AndroidPhone&_bsize=1080_1920&_city=guiyang&_dev=39&_lat=4.9E-324&_lng=4.9E-324&_mac=02%3A00%3A00%3A00%3A00%3A00&_mcode=CEE53FC8&_net=wifi&_nudid=43ba062d5cb1c399&_os=6.0.1_MI5sPlus&_os_name=MI5sPlus&_udid=b1acc0bf&_v=7.7&_version=7.7&action=read&ads_id=58f427b59490cbfc30000052&position=my_subscriptions_promotion_read
+http://ggs.myzaker.com/zk_block_ad.php?_appid=AndroidPhone&_bsize=1080_1920&_city=guiyang&_dev=39&_lat=4.9E-324&_lng=4.9E-324&_mac=02%3A00%3A00%3A00%3A00%3A00&_mcode=CEE53FC8&_net=wifi&_nudid=43ba062d5cb1c399&_os=6.0.1_MI5sPlus&_os_name=MI5sPlus&_udid=b1acc0bf&_v=7.7&_version=7.7&app_id=430000&need_app_integration=1&phone_brand=Xiaomi
+http://stat.myzaker.com/stat_block_stay.php?_appid=AndroidPhone&_bsize=1080_1920&_city=guiyang&_dev=39&_lat=4.9E-324&_lng=4.9E-324&_mac=02%3A00%3A00%3A00%3A00%3A00&_mcode=CEE53FC8&_net=wifi&_nudid=43ba062d5cb1c399&_os=6.0.1_MI5sPlus&_os_name=MI5sPlus&_udid=b1acc0bf&_v=7.7&_version=7.7&block_pk=400000&end_time=1492400640&stay_interval=69
 
 xunlei:
 http://adsp.xunlei.com/api/adp/stat?position_id=1228&order_id=29905&crid=3215&sid=1cb3b5d2aa1c901c4a781f0e7c022df4&statType=1

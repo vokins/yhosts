@@ -1,5 +1,5 @@
 
-#version=201704171123
+#version=201704171209
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -77,6 +77,7 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 tce.alicdn.com
+127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
@@ -150,6 +151,7 @@
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
+127.0.0.1 dxp.baidu.com
 127.0.0.1 tipsdk.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ecma.bdimg.com
@@ -225,6 +227,8 @@
 127.0.0.1 www.duiba.com.cn
 127.0.0.1 yun.duiba.com.cn
 127.0.0.1 m.maila88.com
+127.0.0.1 api.tatagou.com.cn
+127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -1180,7 +1184,7 @@
 127.0.0.1 col.hztags.net
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
-127.0.0.1 hotphone.myzaker.com
+stat.myzaker.com
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 127.0.0.1 ad.jiemian.com
@@ -1455,6 +1459,7 @@
 127.0.0.1 push.mobile.meituan.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
+127.0.0.1 ads.wepiao.com
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
@@ -1517,8 +1522,10 @@
 127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 xc.macd.cn
 127.0.0.1 apollo.caixin.com
+127.0.0.1 gg.caixin.com
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
+127.0.0.1 caixinimg.adsame.com
 127.0.0.1 m.1680go.com
 127.0.0.1 ads.ce.cn
 127.0.0.1 logs.cnfol.com
@@ -4021,7 +4028,6 @@
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 charge.adapp.baidu.com
-127.0.0.1 dxp.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com
