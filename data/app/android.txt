@@ -175,6 +175,4 @@
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
 @android-mokee
-127.0.0.1 ads.waps.cn
-127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com

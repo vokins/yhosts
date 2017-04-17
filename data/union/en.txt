@@ -224,7 +224,6 @@
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 #google-syndication
 127.0.0.1 afs.googlesyndication.com
@@ -425,6 +424,9 @@
 #scrippsnetworks
 127.0.0.1 aam.adsremote.scrippsnetworks.com
 127.0.0.1 adsremote.scrippsnetworks.com
+#segment.com
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 mobile-service.segment.com
 #serving-sys.com
 127.0.0.1 activity.serving-sys.com
 127.0.0.1 bs.serving-sys.com

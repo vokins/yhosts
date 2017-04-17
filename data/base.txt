@@ -1,3 +1,8 @@
+@base-163
+#youdaoidct
+127.0.0.1 gorgon.youdao.com
+127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 ydpushserver.youdao.com
 @base-360
 #360
 127.0.0.1 api.so.lianmeng.360.cn
@@ -14,6 +19,9 @@
 127.0.0.1 s.appjiagu.com
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 cpull.360.cn
+#v.360.cn
+127.0.0.1 huodong.mobilem.360.cn
+127.0.0.1 p.s.360.cn
 @base-ali
 #alicdn
 127.0.0.1 afp.alicdn.com
@@ -70,6 +78,7 @@
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
@@ -106,7 +115,9 @@
 #mob
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
+127.0.0.1 datax.baidu.com
 127.0.0.1 dxp.baidu.com
+127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
 #tuisong
 127.0.0.1 api.tuisong.baidu.com
@@ -123,7 +134,6 @@
 #http://pan.baidu.com/
 127.0.0.1 appc.baidu.com
 127.0.0.1 cpu.baidu.com
-127.0.0.1 yd.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 #https://wenku.baidu.com/
@@ -142,6 +152,8 @@
 #cmcm
 127.0.0.1 ms.cmcm.com
 127.0.0.1 pegasus.cmcm.com
+127.0.0.1 cmcdl.cmcm.com
+127.0.0.1 dl.cm.ksmobile.com
 #ijinshan
 127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 apns.ios.ijinshan.com
@@ -161,11 +173,18 @@
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 astrategy.beacon.qq.com
+127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 sngmta.qq.com
+127.0.0.1 strategy.beacon.qq.com
+#push
+127.0.0.1 wap.mpush.qq.com
 #qq
 127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
@@ -180,6 +199,8 @@
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 wa.gtimg.com
+#gdt
+127.0.0.1 t.gdt.qq.com
 #l
 127.0.0.1 bs.l.qq.com
 127.0.0.1 lb.l.qq.com
@@ -203,6 +224,7 @@
 127.0.0.1 yun.duiba.com.cn
 127.0.0.1 m.maila88.com
 127.0.0.1 api.tatagou.com.cn
+127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 @base-sina
 #sinaads
@@ -233,12 +255,14 @@
 #http://ent.sina.com.cn/
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
-#wehttp://weibo.com/
+#http://weibo.com/
 127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+#sports
+127.0.0.1 2016.sina.cn
 @base-sohu
 127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
@@ -252,11 +276,15 @@
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 theta.sogoucdn.com
 @base-google
+#admob
+127.0.0.1 r.admob.com
+127.0.0.1 mm.admob.com
 #doubleclick
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
 #syndication
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com

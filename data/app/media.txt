@@ -1,23 +1,14 @@
-@app-media
-#1905.com
-127.0.0.1 afp.m1905.com
-127.0.0.1 counter.m1905.com
-127.0.0.1 trace.m1905.cn
-127.0.0.1 vodlog.m1905.cn
-#1kxun.com
-127.0.0.1 tcad.wedolook.com
-#56
-127.0.0.1 mad.stat.v-56.com
-127.0.0.1 stat2.stat.v-56.com
-127.0.0.1 stat3.stat.v-56.com
-#64ma
-127.0.0.1 dev.jwpltx.com
-#exview
-127.0.0.1 cpx24.com
-127.0.0.1 www.cpx24.com
-127.0.0.1 ue.ueadlian.com
-127.0.0.1 wm.lrswl.com
-127.0.0.1 www.feixin2.com
+#hunantv.com
+127.0.0.1 log.da.hunantv.com
+127.0.0.1 log.v2.hunantv.com
+127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 player.log.hunantv.com
+127.0.0.1 v1.play.log.hunantv.com
+127.0.0.1 v2.log.hunantv.com
+127.0.0.1 v2.res.log.hunantv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 cdn.cmop.mgtv.com
+127.0.0.1 cmop.mgtv.com
 #http://www.baofeng.com/
 127.0.0.1 cdn.baofenggame.com
 127.0.0.1 data.danmu.baofeng.com
@@ -64,26 +55,14 @@
 127.0.0.1 nclog.mars.baofeng.net
 127.0.0.1 pvlog.moviebox.baofeng.net
 127.0.0.1 rec.moviebox.baofeng.net
-#baofeng.com
-127.0.0.1 addl.logger.baofeng.com
-127.0.0.1 areacode.baofeng.com
-127.0.0.1 clicklog.moviebox.baofeng.com
-127.0.0.1 p2pmid.baofeng.com
-127.0.0.1 tipsdown.baofeng.com
 #fun.tv
-127.0.0.1 vas.fun.tv
-127.0.0.1 adm.funshion.com
-127.0.0.1 stat.funshion.net
 127.0.0.1 aa0.pub.funshion.com
-127.0.0.1 game.funshion.com
-#gdtv.cn
-127.0.0.1 adv.grtn.cn
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
-#jstv.com
-127.0.0.1 gp.jstv.com
-127.0.0.1 adsys.chinacloudapp.cn
-
+127.0.0.1 adm.funshion.com
+127.0.0.1 conf.funshion.com
+127.0.0.1 po.funshion.com
+127.0.0.1 pub.funshion.com
+127.0.0.1 stat.funshion.net
+127.0.0.1 fun.adx.admaster.com.cn
 #http://mobile.xunlei.com/
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
@@ -95,6 +74,44 @@
 127.0.0.1 img.momocdn.com
 #http://mac.xunlei.com/
 127.0.0.1 liveupdate.mac.sandai.net
+#cctv
+127.0.0.1 rtas.videocc.net
+#app.starschina.com
+127.0.0.1 adapi.starschina.com
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 app.starschina.com
+127.0.0.1 ssp.cibn.starschina.com
+127.0.0.1 ssp.tadseeker.com
+#云图直播
+127.0.0.1 adm.zookingsoft.com
+127.0.0.1 ytapi1.nagezan.net
+127.0.0.1 static.live.nagezan.net
+127.0.0.1 cdntest.a8tiyu.com
+127.0.0.1 m.1768.com
+#影视大全
+127.0.0.1 ad.yeshitv.com
+@app-media
+#1905.com
+127.0.0.1 afp.m1905.com
+127.0.0.1 counter.m1905.com
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+#1kxun.com
+127.0.0.1 tcad.wedolook.com
+#56
+127.0.0.1 mad.stat.v-56.com
+127.0.0.1 stat2.stat.v-56.com
+127.0.0.1 stat3.stat.v-56.com
+#64ma
+127.0.0.1 dev.jwpltx.com
+
+#gdtv.cn
+127.0.0.1 adv.grtn.cn
+#itunes-radio
+127.0.0.1 iadctest.qwapi.com
+#jstv.com
+127.0.0.1 gp.jstv.com
+127.0.0.1 adsys.chinacloudapp.cn
 #http://xl9.xunlei.com/
 127.0.0.1 m.down.sandai.net
 127.0.0.1 analytics-union.xunlei.com
@@ -151,21 +168,13 @@
 127.0.0.1 err.da.hunantv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 image.res.hunantv.com
-127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.hunantv.com
 127.0.0.1 log.so.hunantv.com
-127.0.0.1 log.v2.hunantv.com
-127.0.0.1 mobile.log.hunantv.com
-127.0.0.1 player.log.hunantv.com
 127.0.0.1 tx.da.hunantv.com
 127.0.0.1 v1.hd.log.hunantv.com
 127.0.0.1 v1.hdd.log.hunantv.com
-127.0.0.1 v1.play.log.hunantv.com
 127.0.0.1 v1.res.log.hunantv.com
-127.0.0.1 v2.log.hunantv.com
-127.0.0.1 v2.res.log.hunantv.com
-127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
 #mgtv.com
 127.0.0.1 pcaliyun.res.mgtv.com

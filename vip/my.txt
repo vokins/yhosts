@@ -1,1 +1,2 @@
 127.0.0.1 www.yhd.com
+127.0.0.1 mbdapp.iqiyi.com

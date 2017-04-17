@@ -25,6 +25,7 @@
 127.0.0.1 song.fanxing.kugou.com
 #http://m.kuwo.cn/
 127.0.0.1 g.koowo.com
+127.0.0.1 c.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 rich.kuwo.cn
@@ -53,6 +54,7 @@
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
+127.0.0.1 test.ad.cmvideo.cn
 #http://music.migu.cn/
 127.0.0.1 rprsv.richpush.cn
 127.0.0.1 wtrace.cmgame.com

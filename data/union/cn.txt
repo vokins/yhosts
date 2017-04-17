@@ -32,7 +32,6 @@
 127.0.0.1 dsp-impr.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 dsp.youdao.com
-127.0.0.1 gorgon.youdao.com
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 i.clkservice.youdao.com
@@ -46,7 +45,6 @@
 127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 impservice.chnl.youdao.com
 127.0.0.1 impservice.dict.youdao.com
-127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
 127.0.0.1 impservice.dictword.youdao.com
@@ -59,13 +57,8 @@
 127.0.0.1 qt002x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
-127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 adpublish.ydstatic.com
-127.0.0.1 oimagea3.ydstatic.com
-127.0.0.1 oimageb1.ydstatic.com
-127.0.0.1 oimageb2.ydstatic.com
-127.0.0.1 oimagec5.ydstatic.com
-127.0.0.1 oimageb8.ydstatic.com
+#360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ps.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
@@ -417,7 +410,6 @@
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 err.taobao.com
 127.0.0.1 m-adash.m.taobao.com
@@ -478,7 +470,6 @@
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 crs.baidu.com
-127.0.0.1 datax.baidu.com
 127.0.0.1 ers.baidu.com
 127.0.0.1 fclick.baidu.com
 127.0.0.1 fcm.baidu.com
@@ -524,7 +515,6 @@
 127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 unstat.baidu.com
@@ -583,7 +573,6 @@
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
-127.0.0.1 t.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 #qq-gtimg
@@ -1034,7 +1023,6 @@
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
-127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
@@ -1240,6 +1228,7 @@
 127.0.0.1 zjvnet.allyes.com
 127.0.0.1 www.allyes.com
 #analysys.cn
+127.0.0.1 api2.analysys.cn
 127.0.0.1 ait240.analysys.cn
 127.0.0.1 api721.analysys.cn
 127.0.0.1 urd103.analysys.cn
@@ -1335,6 +1324,7 @@
 127.0.0.1 x.cnxad.com
 127.0.0.1 js.star8.net
 #cocounion.com
+127.0.0.1 ark.cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
 127.0.0.1 res.cocounion.com
@@ -1446,7 +1436,7 @@
 #googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi
 127.0.0.1 stat.googleanalysis.mobi
-#www.gridsum.com
+#gridsum
 127.0.0.1 debugreport.mobiledissector.com
 127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 cfg-md.gridsumdissector.com
@@ -1461,6 +1451,11 @@
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
+#growingio.com
+127.0.0.1 api.growingio.com
+127.0.0.1 apihk.growingio.com
+127.0.0.1 t.growingio.com
+127.0.0.1 tags.growingio.com
 #guomob
 127.0.0.1 c1.guomob.com
 127.0.0.1 guomob.com
@@ -1684,16 +1679,18 @@
 127.0.0.1 pic.moad.cn
 127.0.0.1 wap.moad.cn
 #mob.com
+127.0.0.1 api.cmt.mob.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.share.mob.com
 127.0.0.1 c.data.mob.com
+127.0.0.1 cca.mob.com
 127.0.0.1 devs.data.mob.com
 127.0.0.1 m.data.mob.com
 #mobgi
 127.0.0.1 api.mobgi.com
 127.0.0.1 api.p8.mobgi.com
-127.0.0.1 stat.mobgi.com
 127.0.0.1 mobgi.com
+127.0.0.1 stat.mobgi.com
 #mobvista.com
 127.0.0.1 tracking.lenzmx.com
 #moogos.com
@@ -1770,6 +1767,8 @@
 127.0.0.1 js.ta80.com
 #talkingdata.net
 127.0.0.1 analytics.talkingdata.net
+127.0.0.1 gaandroid.talkingdata.net
+127.0.0.1 jic.talkingdata.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 u.talkingdata.net
 127.0.0.1 www.talkingdata.com
@@ -1787,6 +1786,8 @@
 127.0.0.1 un2.banmamedia.com
 127.0.0.1 www.banmamedia.com
 127.0.0.1 www.targetedmedia.com.cn
+#testplus.cn
+127.0.0.1 rp.crasheye.cn
 #touclick
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com
@@ -1830,6 +1831,9 @@
 127.0.0.1 jzkapp.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
+#waps.cn
+127.0.0.1 ads.waps.cn
+127.0.0.1 app.waps.cn
 #wapx.cn
 127.0.0.1 appcdn.wapx.com
 127.0.0.1 ads.wapx.cn
@@ -1873,6 +1877,11 @@
 127.0.0.1 widget.wumii.cn
 127.0.0.1 wumii-cc.wumii.cn
 127.0.0.1 www.umiwi.com
+#xdrig.com
+127.0.0.1 app.xdrig.com
+127.0.0.1 av1.xdrig.com
+127.0.0.1 pg.xdrig.com
+127.0.0.1 xdrig.com
 #xtgreat.com
 127.0.0.1 cc.xtgreat.com
 127.0.0.1 g.x.cn.xtgreat.com

@@ -85,6 +85,11 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+@base-163
+#youdaoidct
+127.0.0.1 gorgon.youdao.com
+127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 ydpushserver.youdao.com
 @base-360
 #360
 127.0.0.1 api.so.lianmeng.360.cn
@@ -101,6 +106,9 @@
 127.0.0.1 s.appjiagu.com
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 cpull.360.cn
+#v.360.cn
+127.0.0.1 huodong.mobilem.360.cn
+127.0.0.1 p.s.360.cn
 @base-ali
 #alicdn
 127.0.0.1 afp.alicdn.com
@@ -157,6 +165,7 @@
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
@@ -193,7 +202,9 @@
 #mob
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
+127.0.0.1 datax.baidu.com
 127.0.0.1 dxp.baidu.com
+127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
 #tuisong
 127.0.0.1 api.tuisong.baidu.com
@@ -210,7 +221,6 @@
 #http://pan.baidu.com/
 127.0.0.1 appc.baidu.com
 127.0.0.1 cpu.baidu.com
-127.0.0.1 yd.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 #https://wenku.baidu.com/
@@ -229,6 +239,8 @@
 #cmcm
 127.0.0.1 ms.cmcm.com
 127.0.0.1 pegasus.cmcm.com
+127.0.0.1 cmcdl.cmcm.com
+127.0.0.1 dl.cm.ksmobile.com
 #ijinshan
 127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 apns.ios.ijinshan.com
@@ -248,11 +260,18 @@
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 astrategy.beacon.qq.com
+127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 sngmta.qq.com
+127.0.0.1 strategy.beacon.qq.com
+#push
+127.0.0.1 wap.mpush.qq.com
 #qq
 127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
@@ -267,6 +286,8 @@
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 wa.gtimg.com
+#gdt
+127.0.0.1 t.gdt.qq.com
 #l
 127.0.0.1 bs.l.qq.com
 127.0.0.1 lb.l.qq.com
@@ -290,6 +311,7 @@
 127.0.0.1 yun.duiba.com.cn
 127.0.0.1 m.maila88.com
 127.0.0.1 api.tatagou.com.cn
+127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 @base-sina
 #sinaads
@@ -320,12 +342,14 @@
 #http://ent.sina.com.cn/
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
-#wehttp://weibo.com/
+#http://weibo.com/
 127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+#sports
+127.0.0.1 2016.sina.cn
 @base-sohu
 127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
@@ -339,11 +363,15 @@
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 theta.sogoucdn.com
 @base-google
+#admob
+127.0.0.1 r.admob.com
+127.0.0.1 mm.admob.com
 #doubleclick
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
 #syndication
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
@@ -871,8 +899,6 @@
 #miui-weather
 127.0.0.1 staging.admin.e.mi.com
 @android-mokee
-127.0.0.1 ads.waps.cn
-127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
 @app-browser
 #http://app.2345.com/mob.htm
@@ -953,7 +979,6 @@
 127.0.0.1 cms.an.m.liebao.cn
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
-127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
@@ -990,8 +1015,45 @@
 #rovio
 127.0.0.1 ads.cdn.rovio.com
 127.0.0.1 cloud.rovio.com
+127.0.0.1 rovio-news-app.angrybirdsgame.com
 #tomcat
+127.0.0.1 apps.outfit7.com
+127.0.0.1 apps2.outfit7.com
+127.0.0.1 cdn-gcs.outfit7.com
 127.0.0.1 cdn.outfit7.com
+127.0.0.1 events-api.outfit7.net
+#wostore
+127.0.0.1 appspromote.wostore.cn
+127.0.0.1 secpay.wostore.cn
+127.0.0.1 unilog.wostore.cn
+127.0.0.1 unipaydl.wostore.cn
+127.0.0.1 unipayupg.wostore.cn
+#cmgame
+127.0.0.1 drm.cmgame.com
+127.0.0.1 wap.cmgame.com
+127.0.0.1 sdk.cmgame.com
+127.0.0.1 sdklog.cmgame.com
+127.0.0.1 gmota.g188.net
+#uu.cc
+127.0.0.1 app.uu.cc
+127.0.0.1 c.uu.cc
+127.0.0.1 dl.uu.cc
+127.0.0.1 game.subway.uu.cc
+127.0.0.1 in1.feed.uu.cc
+127.0.0.1 ledou.dl.uu.cc
+127.0.0.1 in1.secure.uu.cc
+127.0.0.1 sdklog.uu.cc
+127.0.0.1 sdkpay.uu.cc
+127.0.0.1 stat.uu.cc
+127.0.0.1 push.gxpan.cn
+127.0.0.1 shiwan.dl.gxpan.cn
+127.0.0.1 va.gxpan.cn
+127.0.0.1 api2.play.cn
+127.0.0.1 open.play.cn
+127.0.0.1 log.vcgame.cn
+127.0.0.1 mcore.vcgame.cn
+127.0.0.1 actsdk.idreamsky.com
+127.0.0.1 v1-feed.idreamsky.com
 @app-launcher
 #halolauncher
 127.0.0.1 h5.holalauncher.com
@@ -1006,32 +1068,79 @@
 127.0.0.1 i.haloapps.com
 127.0.0.1 mo.test.haloapps.com
 127.0.0.1 mo.haloapps.cn
-@app-live
-#huajiao(360)
-127.0.0.1 ad.huajiao.com
+@site-learn
+#360doc.cn
+127.0.0.1 scriptwap1.360doc.cn
+127.0.0.1 scriptwap2.360doc.cn
+127.0.0.1 scriptwap3.360doc.cn
+127.0.0.1 wasd50fd12.360doc.cn
+#ajpsp.com
+127.0.0.1 js.xtcake.com
+127.0.0.1 img.xtcake.com
+127.0.0.1 www.a0b33.com
+127.0.0.1 www.jusha.com
+#baike.com
+127.0.0.1 ad1.baike.com
+127.0.0.1 ehd.baike.com
+127.0.0.1 stat.baike.com
+127.0.0.1 ll.hudong.com
+#edu.jobui.com
+127.0.0.1 d.h5.coffeedak.cn
+127.0.0.1 cp.h5.coffeedak.cn
+#eol.cn
+127.0.0.1 pv.img.eol.cn
+#hujiang.com
+127.0.0.1 track.hujiang.com
+127.0.0.1 trackcommon.hujiang.com
+#jyeoo.com
+127.0.0.1 a.jyeoo.com
+#m.3y.uu456.com
+127.0.0.1 wapad11.btdcw.com
+127.0.0.1 wapad12.btdcw.com
+#m.cidianwang.com
+127.0.0.1 request.zzad.com
+127.0.0.1 zjs.zzad.com
+127.0.0.1 zz.cc.zzad.com
+127.0.0.1 zzad.com
+127.0.0.1 fghm.ga25.com
+127.0.0.1 fghmc.ga25.com
+127.0.0.1 fghmimg.ga25.com
+127.0.0.1 cr.wowxt.com
+127.0.0.1 s.shaxiq.com
+127.0.0.1 stat.ff.zmres.com
+#m.gushiwen.org
+127.0.0.1 bai3.gushiwen.org
+#http://www.jiakaobaodian.com/
+127.0.0.1 789.kakamobi.cn
+127.0.0.1 telepathy.kakamobi.com
+#www.xuexila.com
+127.0.0.1 abc.yjbys.org
+127.0.0.1 dm.yjbys.org
+#yjbys.com
+127.0.0.1 a.gzpinda.com
+127.0.0.1 abc.gzpinda.com
+127.0.0.1 dm.gzpinda.com@app-live
 #6rooms.com
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn
-@app-media
-#1905.com
-127.0.0.1 afp.m1905.com
-127.0.0.1 counter.m1905.com
-127.0.0.1 trace.m1905.cn
-127.0.0.1 vodlog.m1905.cn
-#1kxun.com
-127.0.0.1 tcad.wedolook.com
-#56
-127.0.0.1 mad.stat.v-56.com
-127.0.0.1 stat2.stat.v-56.com
-127.0.0.1 stat3.stat.v-56.com
-#64ma
-127.0.0.1 dev.jwpltx.com
-#exview
-127.0.0.1 cpx24.com
-127.0.0.1 www.cpx24.com
-127.0.0.1 ue.ueadlian.com
-127.0.0.1 wm.lrswl.com
-127.0.0.1 www.feixin2.com
+#huajiao.com
+127.0.0.1 ad.huajiao.com
+#huya.com
+127.0.0.1 mlog.hiido.com
+127.0.0.1 ylog.hiido.com
+#yzbo.tv
+127.0.0.1 stats.yzbo.tv
+#hunantv.com
+127.0.0.1 log.da.hunantv.com
+127.0.0.1 log.v2.hunantv.com
+127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 player.log.hunantv.com
+127.0.0.1 v1.play.log.hunantv.com
+127.0.0.1 v2.log.hunantv.com
+127.0.0.1 v2.res.log.hunantv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 cdn.cmop.mgtv.com
+127.0.0.1 cmop.mgtv.com
 #http://www.baofeng.com/
 127.0.0.1 cdn.baofenggame.com
 127.0.0.1 data.danmu.baofeng.com
@@ -1078,26 +1187,14 @@
 127.0.0.1 nclog.mars.baofeng.net
 127.0.0.1 pvlog.moviebox.baofeng.net
 127.0.0.1 rec.moviebox.baofeng.net
-#baofeng.com
-127.0.0.1 addl.logger.baofeng.com
-127.0.0.1 areacode.baofeng.com
-127.0.0.1 clicklog.moviebox.baofeng.com
-127.0.0.1 p2pmid.baofeng.com
-127.0.0.1 tipsdown.baofeng.com
 #fun.tv
-127.0.0.1 vas.fun.tv
-127.0.0.1 adm.funshion.com
-127.0.0.1 stat.funshion.net
 127.0.0.1 aa0.pub.funshion.com
-127.0.0.1 game.funshion.com
-#gdtv.cn
-127.0.0.1 adv.grtn.cn
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
-#jstv.com
-127.0.0.1 gp.jstv.com
-127.0.0.1 adsys.chinacloudapp.cn
-
+127.0.0.1 adm.funshion.com
+127.0.0.1 conf.funshion.com
+127.0.0.1 po.funshion.com
+127.0.0.1 pub.funshion.com
+127.0.0.1 stat.funshion.net
+127.0.0.1 fun.adx.admaster.com.cn
 #http://mobile.xunlei.com/
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
@@ -1109,6 +1206,44 @@
 127.0.0.1 img.momocdn.com
 #http://mac.xunlei.com/
 127.0.0.1 liveupdate.mac.sandai.net
+#cctv
+127.0.0.1 rtas.videocc.net
+#app.starschina.com
+127.0.0.1 adapi.starschina.com
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 app.starschina.com
+127.0.0.1 ssp.cibn.starschina.com
+127.0.0.1 ssp.tadseeker.com
+#云图直播
+127.0.0.1 adm.zookingsoft.com
+127.0.0.1 ytapi1.nagezan.net
+127.0.0.1 static.live.nagezan.net
+127.0.0.1 cdntest.a8tiyu.com
+127.0.0.1 m.1768.com
+#影视大全
+127.0.0.1 ad.yeshitv.com
+@app-media
+#1905.com
+127.0.0.1 afp.m1905.com
+127.0.0.1 counter.m1905.com
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+#1kxun.com
+127.0.0.1 tcad.wedolook.com
+#56
+127.0.0.1 mad.stat.v-56.com
+127.0.0.1 stat2.stat.v-56.com
+127.0.0.1 stat3.stat.v-56.com
+#64ma
+127.0.0.1 dev.jwpltx.com
+
+#gdtv.cn
+127.0.0.1 adv.grtn.cn
+#itunes-radio
+127.0.0.1 iadctest.qwapi.com
+#jstv.com
+127.0.0.1 gp.jstv.com
+127.0.0.1 adsys.chinacloudapp.cn
 #http://xl9.xunlei.com/
 127.0.0.1 m.down.sandai.net
 127.0.0.1 analytics-union.xunlei.com
@@ -1165,21 +1300,13 @@
 127.0.0.1 err.da.hunantv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 image.res.hunantv.com
-127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.hunantv.com
 127.0.0.1 log.so.hunantv.com
-127.0.0.1 log.v2.hunantv.com
-127.0.0.1 mobile.log.hunantv.com
-127.0.0.1 player.log.hunantv.com
 127.0.0.1 tx.da.hunantv.com
 127.0.0.1 v1.hd.log.hunantv.com
 127.0.0.1 v1.hdd.log.hunantv.com
-127.0.0.1 v1.play.log.hunantv.com
 127.0.0.1 v1.res.log.hunantv.com
-127.0.0.1 v2.log.hunantv.com
-127.0.0.1 v2.res.log.hunantv.com
-127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
 #mgtv.com
 127.0.0.1 pcaliyun.res.mgtv.com
@@ -1369,6 +1496,7 @@
 127.0.0.1 song.fanxing.kugou.com
 #http://m.kuwo.cn/
 127.0.0.1 g.koowo.com
+127.0.0.1 c.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 rich.kuwo.cn
@@ -1397,6 +1525,7 @@
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
+127.0.0.1 test.ad.cmvideo.cn
 #http://music.migu.cn/
 127.0.0.1 rprsv.richpush.cn
 127.0.0.1 wtrace.cmgame.com
@@ -1408,6 +1537,40 @@
 127.0.0.1 statisticsv2.yinyuetai.com
 127.0.0.1 t.collect.yinyuetai.com
 127.0.0.1 col.hztags.net
+@site-photo
+#exview
+127.0.0.1 cpx24.com
+127.0.0.1 www.cpx24.com
+127.0.0.1 ue.ueadlian.com
+127.0.0.1 wm.lrswl.com
+127.0.0.1 www.feixin2.com
+#dcfever.com
+127.0.0.1 adx.adxglobal.com
+#fengniao.com
+127.0.0.1 pic.fengniao.com
+127.0.0.1 stat.fengniao.com
+127.0.0.1 js.fengniao.com
+#heiguang.com
+127.0.0.1 pro.heiguang.com
+#meitu.com
+127.0.0.1 adui.tg.meitu.com
+127.0.0.1 rabbit.tg.meitu.com
+127.0.0.1 dc.meitustat.com
+127.0.0.1 mdc.meitustat.com
+127.0.0.1 rabbit.meitustat.com
+127.0.0.1 meitubeauty.meitudata.com
+127.0.0.1 rabbit.mtadvert.com
+#photoblog.hk
+127.0.0.1 ad.unimhk.com
+127.0.0.1 pixel-hk.pixelinteractivemedia.com
+127.0.0.1 snap.snapmobile.asia
+127.0.0.1 static.snapmobile.asia
+#poco.cn
+127.0.0.1 a-m-s.poco.cn
+#www.nphoto.net
+127.0.0.1 util.nphoto.net
+#xitek.com
+127.0.0.1 www8.xitek.com
 @app-read
 #http://app.myzaker.com/
 127.0.0.1 adm.myzaker.com
@@ -1421,6 +1584,7 @@ stat.myzaker.com
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
 127.0.0.1 analytics.snssdk.com
+127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 s3.pstatp.com
 127.0.0.1 s3a.pstatp.com
@@ -1466,6 +1630,14 @@ stat.myzaker.com
 127.0.0.1 am.g.ireader.com
 127.0.0.1 push.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
+#http://i.ifeng.com/
+127.0.0.1 api.newad.ifeng.com
+127.0.0.1 exp.3g.ifeng.com
+127.0.0.1 iis3g.deliver.ifeng.com
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 stadig0.ifeng.com
+127.0.0.1 iis1.deliver.ifeng.com
+127.0.0.1 c1.ifengimg.com
 @app-tools
 #http://51wnl.com/
 127.0.0.1 ad.51wnl.com
@@ -1484,11 +1656,6 @@ stat.myzaker.com
 127.0.0.1 api.appodeal.com
 127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
-#http://www.jiakaobaodian.com/
-127.0.0.1 123.click.kakamobi.cn
-127.0.0.1 789.kakamobi.cn
-127.0.0.1 smart.789.image.mucang.cn
-127.0.0.1 smart.789.kakamobi.cn
 #http://www.kuaiya.cn/
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
@@ -1499,6 +1666,10 @@ stat.myzaker.com
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#https://www.wifi.com/android/index.html
+#wifiwnmm
+127.0.0.1 wifishow.ggsafe.com
+127.0.0.1 igou.ggsafe.com
 @app-trip
 #12306
 127.0.0.1 ad.12306.cn
@@ -1519,17 +1690,14 @@ stat.myzaker.com
 #caiyunapp.com
 127.0.0.1 ad.caiyunapp.com
 #moji
-127.0.0.1 ad.moji001.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 cdn.moji.com
-127.0.0.1 fds.api.moji.com
-127.0.0.1 pc.moji.com
-127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
-127.0.0.1 app.moji001.com
-127.0.0.1 ugc.moji001.com
-127.0.0.1 cdn.moji002.com
+127.0.0.1 stat.moji.com
 127.0.0.1 cdn2.moji002.com
+#天气通
+127.0.0.1 i.apps.sina.cn
+127.0.0.1 tqt.weibo.cn
 @app-win
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
@@ -1593,18 +1761,11 @@ stat.myzaker.com
 #jing-gmw.cn
 127.0.0.1 ad.gmw.cn
 #jing-ifeng.com
-127.0.0.1 api.newad.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
-127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 ids.deliver.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
-127.0.0.1 iis1.deliver.ifeng.com
-127.0.0.1 iis3g.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 stadig.ifeng.com
-127.0.0.1 c1.ifengimg.com
-127.0.0.1 api2.analysys.cn
 #jing-people.com.cn
 127.0.0.1 pmm.people.com.cn
 #jing-tiexue.net
@@ -1788,55 +1949,6 @@ stat.myzaker.com
 127.0.0.1 ms.vipstatic.com
 #wepiao.com
 127.0.0.1 ads.wepiao.com
-@site-edu
-#360doc.cn
-127.0.0.1 scriptwap1.360doc.cn
-127.0.0.1 scriptwap2.360doc.cn
-127.0.0.1 scriptwap3.360doc.cn
-127.0.0.1 wasd50fd12.360doc.cn
-#ajpsp.com
-127.0.0.1 js.xtcake.com
-127.0.0.1 img.xtcake.com
-127.0.0.1 www.a0b33.com
-127.0.0.1 www.jusha.com
-#baike.com
-127.0.0.1 ad1.baike.com
-127.0.0.1 ehd.baike.com
-127.0.0.1 stat.baike.com
-127.0.0.1 ll.hudong.com
-#edu.jobui.com
-127.0.0.1 d.h5.coffeedak.cn
-127.0.0.1 cp.h5.coffeedak.cn
-#eol.cn
-127.0.0.1 pv.img.eol.cn
-#hujiang.com
-127.0.0.1 track.hujiang.com
-127.0.0.1 trackcommon.hujiang.com
-#jyeoo.com
-127.0.0.1 a.jyeoo.com
-#m.3y.uu456.com
-127.0.0.1 wapad11.btdcw.com
-127.0.0.1 wapad12.btdcw.com
-#m.cidianwang.com
-127.0.0.1 request.zzad.com
-127.0.0.1 zjs.zzad.com
-127.0.0.1 zz.cc.zzad.com
-127.0.0.1 zzad.com
-127.0.0.1 fghm.ga25.com
-127.0.0.1 fghmc.ga25.com
-127.0.0.1 fghmimg.ga25.com
-127.0.0.1 cr.wowxt.com
-127.0.0.1 s.shaxiq.com
-127.0.0.1 stat.ff.zmres.com
-#m.gushiwen.org
-127.0.0.1 bai3.gushiwen.org
-#www.xuexila.com
-127.0.0.1 abc.yjbys.org
-127.0.0.1 dm.yjbys.org
-#yjbys.com
-127.0.0.1 a.gzpinda.com
-127.0.0.1 abc.gzpinda.com
-127.0.0.1 dm.gzpinda.com
 @site-fashion
 #eastlady.cn
 127.0.0.1 abc.eastlady.cn
@@ -1989,6 +2101,7 @@ stat.myzaker.com
 #babytree.com
 127.0.0.1 titan.babytree.com
 127.0.0.1 titan01.babytree.com
+127.0.0.1 tracking.babytree.com
 #ci123.com
 127.0.0.1 tc.ci123.com
 #qqyy.com
@@ -2027,6 +2140,8 @@ stat.myzaker.com
 127.0.0.1 jing.58.com
 127.0.0.1 jumpluna.58.com
 127.0.0.1 track.58.com
+127.0.0.1 news.58.com
+127.0.0.1 zzpush.58.com
 127.0.0.1 imp.xgo.com.cn
 127.0.0.1 stat.xgo.com.cn
 127.0.0.1 t1.58cdn.com.cn
@@ -2054,28 +2169,6 @@ stat.myzaker.com
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
-@site-photo
-#dcfever.com
-127.0.0.1 adx.adxglobal.com
-#fengniao.com
-127.0.0.1 pic.fengniao.com
-127.0.0.1 stat.fengniao.com
-127.0.0.1 js.fengniao.com
-#heiguang.com
-127.0.0.1 pro.heiguang.com
-#meitu
-127.0.0.1 meitubeauty.meitudata.com
-#photoblog.hk
-127.0.0.1 ad.unimhk.com
-127.0.0.1 pixel-hk.pixelinteractivemedia.com
-127.0.0.1 snap.snapmobile.asia
-127.0.0.1 static.snapmobile.asia
-#poco.cn
-127.0.0.1 a-m-s.poco.cn
-#www.nphoto.net
-127.0.0.1 util.nphoto.net
-#xitek.com
-127.0.0.1 www8.xitek.com
 @site-sns
 #2chcn.com
 127.0.0.1 code1.2chcn.net
@@ -4272,7 +4365,6 @@ stat.myzaker.com
 127.0.0.1 dsp-impr.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 dsp.youdao.com
-127.0.0.1 gorgon.youdao.com
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 i.clkservice.youdao.com
@@ -4286,7 +4378,6 @@ stat.myzaker.com
 127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 impservice.chnl.youdao.com
 127.0.0.1 impservice.dict.youdao.com
-127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 impservice.dictweb.youdao.com
 127.0.0.1 impservice.dictword.youdao.com
@@ -4299,13 +4390,8 @@ stat.myzaker.com
 127.0.0.1 qt002x.corp.youdao.com
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
-127.0.0.1 ydpushserver.youdao.com
 127.0.0.1 adpublish.ydstatic.com
-127.0.0.1 oimagea3.ydstatic.com
-127.0.0.1 oimageb1.ydstatic.com
-127.0.0.1 oimageb2.ydstatic.com
-127.0.0.1 oimagec5.ydstatic.com
-127.0.0.1 oimageb8.ydstatic.com
+#360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ps.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
@@ -4657,7 +4743,6 @@ stat.myzaker.com
 127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 err.taobao.com
 127.0.0.1 m-adash.m.taobao.com
@@ -4718,7 +4803,6 @@ stat.myzaker.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 crs.baidu.com
-127.0.0.1 datax.baidu.com
 127.0.0.1 ers.baidu.com
 127.0.0.1 fclick.baidu.com
 127.0.0.1 fcm.baidu.com
@@ -4764,7 +4848,6 @@ stat.myzaker.com
 127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 openrcv.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 testwn.baidu.com
 127.0.0.1 unstat.baidu.com
@@ -4823,7 +4906,6 @@ stat.myzaker.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
-127.0.0.1 t.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 #qq-gtimg
@@ -5274,7 +5356,6 @@ stat.myzaker.com
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
-127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
@@ -5480,6 +5561,7 @@ stat.myzaker.com
 127.0.0.1 zjvnet.allyes.com
 127.0.0.1 www.allyes.com
 #analysys.cn
+127.0.0.1 api2.analysys.cn
 127.0.0.1 ait240.analysys.cn
 127.0.0.1 api721.analysys.cn
 127.0.0.1 urd103.analysys.cn
@@ -5575,6 +5657,7 @@ stat.myzaker.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 js.star8.net
 #cocounion.com
+127.0.0.1 ark.cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com
 127.0.0.1 res.cocounion.com
@@ -5686,7 +5769,7 @@ stat.myzaker.com
 #googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi
 127.0.0.1 stat.googleanalysis.mobi
-#www.gridsum.com
+#gridsum
 127.0.0.1 debugreport.mobiledissector.com
 127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 cfg-md.gridsumdissector.com
@@ -5701,6 +5784,11 @@ stat.myzaker.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
+#growingio.com
+127.0.0.1 api.growingio.com
+127.0.0.1 apihk.growingio.com
+127.0.0.1 t.growingio.com
+127.0.0.1 tags.growingio.com
 #guomob
 127.0.0.1 c1.guomob.com
 127.0.0.1 guomob.com
@@ -5924,16 +6012,18 @@ stat.myzaker.com
 127.0.0.1 pic.moad.cn
 127.0.0.1 wap.moad.cn
 #mob.com
+127.0.0.1 api.cmt.mob.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.share.mob.com
 127.0.0.1 c.data.mob.com
+127.0.0.1 cca.mob.com
 127.0.0.1 devs.data.mob.com
 127.0.0.1 m.data.mob.com
 #mobgi
 127.0.0.1 api.mobgi.com
 127.0.0.1 api.p8.mobgi.com
-127.0.0.1 stat.mobgi.com
 127.0.0.1 mobgi.com
+127.0.0.1 stat.mobgi.com
 #mobvista.com
 127.0.0.1 tracking.lenzmx.com
 #moogos.com
@@ -6010,6 +6100,8 @@ stat.myzaker.com
 127.0.0.1 js.ta80.com
 #talkingdata.net
 127.0.0.1 analytics.talkingdata.net
+127.0.0.1 gaandroid.talkingdata.net
+127.0.0.1 jic.talkingdata.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 u.talkingdata.net
 127.0.0.1 www.talkingdata.com
@@ -6027,6 +6119,8 @@ stat.myzaker.com
 127.0.0.1 un2.banmamedia.com
 127.0.0.1 www.banmamedia.com
 127.0.0.1 www.targetedmedia.com.cn
+#testplus.cn
+127.0.0.1 rp.crasheye.cn
 #touclick
 127.0.0.1 cap.touclick.com
 127.0.0.1 captcha-static.touclick.com
@@ -6070,6 +6164,9 @@ stat.myzaker.com
 127.0.0.1 jzkapp.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
+#waps.cn
+127.0.0.1 ads.waps.cn
+127.0.0.1 app.waps.cn
 #wapx.cn
 127.0.0.1 appcdn.wapx.com
 127.0.0.1 ads.wapx.cn
@@ -6113,6 +6210,11 @@ stat.myzaker.com
 127.0.0.1 widget.wumii.cn
 127.0.0.1 wumii-cc.wumii.cn
 127.0.0.1 www.umiwi.com
+#xdrig.com
+127.0.0.1 app.xdrig.com
+127.0.0.1 av1.xdrig.com
+127.0.0.1 pg.xdrig.com
+127.0.0.1 xdrig.com
 #xtgreat.com
 127.0.0.1 cc.xtgreat.com
 127.0.0.1 g.x.cn.xtgreat.com
@@ -6427,7 +6529,6 @@ stat.myzaker.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 #google-syndication
 127.0.0.1 afs.googlesyndication.com
@@ -6628,6 +6729,9 @@ stat.myzaker.com
 #scrippsnetworks
 127.0.0.1 aam.adsremote.scrippsnetworks.com
 127.0.0.1 adsremote.scrippsnetworks.com
+#segment.com
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 mobile-service.segment.com
 #serving-sys.com
 127.0.0.1 activity.serving-sys.com
 127.0.0.1 bs.serving-sys.com

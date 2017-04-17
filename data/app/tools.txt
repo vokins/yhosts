@@ -16,11 +16,6 @@
 127.0.0.1 api.appodeal.com
 127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
-#http://www.jiakaobaodian.com/
-127.0.0.1 123.click.kakamobi.cn
-127.0.0.1 789.kakamobi.cn
-127.0.0.1 smart.789.image.mucang.cn
-127.0.0.1 smart.789.kakamobi.cn
 #http://www.kuaiya.cn/
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
@@ -31,3 +26,7 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+#https://www.wifi.com/android/index.html
+#wifiwnmm
+127.0.0.1 wifishow.ggsafe.com
+127.0.0.1 igou.ggsafe.com

@@ -77,7 +77,6 @@
 127.0.0.1 cms.an.m.liebao.cn
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 j.wan.liebao.cn
-127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/

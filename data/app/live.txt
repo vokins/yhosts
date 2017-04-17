@@ -1,6 +1,11 @@
 @app-live
-#huajiao(360)
-127.0.0.1 ad.huajiao.com
 #6rooms.com
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn
+#huajiao.com
+127.0.0.1 ad.huajiao.com
+#huya.com
+127.0.0.1 mlog.hiido.com
+127.0.0.1 ylog.hiido.com
+#yzbo.tv
+127.0.0.1 stats.yzbo.tv

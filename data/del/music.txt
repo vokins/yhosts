@@ -10,6 +10,14 @@
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
 
+
+127.0.0.1 fds.api.moji.com
+127.0.0.1 ad.moji001.com
+127.0.0.1 pc.moji.com
+127.0.0.1 app.moji001.com
+127.0.0.1 cdn.moji002.com
+
+
 #kugou
 127.0.0.1 gad.kugou.com
 127.0.0.1 mo.kugou.com
@@ -40,3 +48,19 @@
 127.0.0.1 iimedia.cn
 127.0.0.1 mfan.iclick.com.cn
 127.0.0.1 game.51yund.com
+
+
+#baofeng.com
+127.0.0.1 addl.logger.baofeng.com
+127.0.0.1 areacode.baofeng.com
+127.0.0.1 clicklog.moviebox.baofeng.com
+127.0.0.1 p2pmid.baofeng.com
+127.0.0.1 tipsdown.baofeng.com
+#fun.tv
+127.0.0.1 game.funshion.com
+127.0.0.1 vas.fun.tv
+
+#kakamobi.com
+127.0.0.1 123.click.kakamobi.cn
+127.0.0.1 smart.789.image.mucang.cn
+127.0.0.1 smart.789.kakamobi.cn

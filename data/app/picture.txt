@@ -1,0 +1,34 @@
+@site-photo
+#exview
+127.0.0.1 cpx24.com
+127.0.0.1 www.cpx24.com
+127.0.0.1 ue.ueadlian.com
+127.0.0.1 wm.lrswl.com
+127.0.0.1 www.feixin2.com
+#dcfever.com
+127.0.0.1 adx.adxglobal.com
+#fengniao.com
+127.0.0.1 pic.fengniao.com
+127.0.0.1 stat.fengniao.com
+127.0.0.1 js.fengniao.com
+#heiguang.com
+127.0.0.1 pro.heiguang.com
+#meitu.com
+127.0.0.1 adui.tg.meitu.com
+127.0.0.1 rabbit.tg.meitu.com
+127.0.0.1 dc.meitustat.com
+127.0.0.1 mdc.meitustat.com
+127.0.0.1 rabbit.meitustat.com
+127.0.0.1 meitubeauty.meitudata.com
+127.0.0.1 rabbit.mtadvert.com
+#photoblog.hk
+127.0.0.1 ad.unimhk.com
+127.0.0.1 pixel-hk.pixelinteractivemedia.com
+127.0.0.1 snap.snapmobile.asia
+127.0.0.1 static.snapmobile.asia
+#poco.cn
+127.0.0.1 a-m-s.poco.cn
+#www.nphoto.net
+127.0.0.1 util.nphoto.net
+#xitek.com
+127.0.0.1 www8.xitek.com
