@@ -175,7 +175,9 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 cm.pos.baidu.com
+127.0.0.1 cpro.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
@@ -1785,6 +1787,7 @@
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
+127.0.0.1 wasd50fd12.360doc.cn
 #ajpsp.com
 127.0.0.1 js.xtcake.com
 127.0.0.1 img.xtcake.com
@@ -2029,6 +2032,9 @@
 127.0.0.1 countubn.light.soufun.com
 127.0.0.1 mshow.fang.com
 127.0.0.1 tongji.home.soufun.com
+#fangtoo.com
+127.0.0.1 cpro.fangtoo.com
+127.0.0.1 ubm.fangtoo.com
 #ganji.com
 127.0.0.1 ad.ganji.com
 127.0.0.1 analytics.ganji.com
@@ -4703,8 +4709,6 @@
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
-127.0.0.1 cm.baidu.com
-127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 ers.baidu.com
@@ -4722,7 +4726,6 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 unionimage.baidu.com
-127.0.0.1 wangmeng.baidu.com
 #baidu-img
 127.0.0.1 pups.bdimg.com
 #baidu-iframe

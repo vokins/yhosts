@@ -477,8 +477,6 @@
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
-127.0.0.1 cm.baidu.com
-127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 ers.baidu.com
@@ -496,7 +494,6 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 unionimage.baidu.com
-127.0.0.1 wangmeng.baidu.com
 #baidu-img
 127.0.0.1 pups.bdimg.com
 #baidu-iframe

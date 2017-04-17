@@ -236,6 +236,7 @@
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
+127.0.0.1 wasd50fd12.360doc.cn
 #ajpsp.com
 127.0.0.1 js.xtcake.com
 127.0.0.1 img.xtcake.com
@@ -480,6 +481,9 @@
 127.0.0.1 countubn.light.soufun.com
 127.0.0.1 mshow.fang.com
 127.0.0.1 tongji.home.soufun.com
+#fangtoo.com
+127.0.0.1 cpro.fangtoo.com
+127.0.0.1 ubm.fangtoo.com
 #ganji.com
 127.0.0.1 ad.ganji.com
 127.0.0.1 analytics.ganji.com
