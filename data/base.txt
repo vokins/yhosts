@@ -1,4 +1,6 @@
 @base-163
+#youdao
+127.0.0.1 log.yex.youdao.com
 #youdaoidct
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -266,14 +268,19 @@
 @base-sohu
 127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s0.mp.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 rd.e.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 @base-google
 #admob

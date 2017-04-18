@@ -8,6 +8,6 @@
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
-#ÌìÆøÍ¨
-127.0.0.1 i.apps.sina.cn
-
+#zuimeitianqi.com
+127.0.0.1 ad.zuimeitianqi.com
+127.0.0.1 stat.zuimeitianqi.com

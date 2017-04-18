@@ -43,8 +43,6 @@
 127.0.0.1 config.push.sogou.com
 127.0.0.1 download.zhushou.sogou.com
 127.0.0.1 pull.push.sogou.com
-127.0.0.1 rd.e.sogou.com
-127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/

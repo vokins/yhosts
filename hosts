@@ -1,5 +1,5 @@
 
-#version=201704172047
+#version=201704181058
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -68,6 +68,7 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 log.yex.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 ydpushserver.youdao.com
@@ -287,13 +288,18 @@
 127.0.0.1 2016.sina.cn
 127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s0.mp.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 rd.e.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 r.admob.com
 127.0.0.1 mm.admob.com
@@ -802,8 +808,6 @@
 127.0.0.1 config.push.sogou.com
 127.0.0.1 download.zhushou.sogou.com
 127.0.0.1 pull.push.sogou.com
-127.0.0.1 rd.e.sogou.com
-127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 127.0.0.1 c.bxb.oupeng.com
@@ -1113,7 +1117,6 @@
 127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
 127.0.0.1 push.cmvideo.cn
-127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
@@ -1407,8 +1410,8 @@ stat.myzaker.com
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
-127.0.0.1 i.apps.sina.cn
-
+127.0.0.1 ad.zuimeitianqi.com
+127.0.0.1 stat.zuimeitianqi.com
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 info.gomlab.com
 127.0.0.1 playinfo.gomlab.com
@@ -4249,14 +4252,12 @@ stat.myzaker.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
 127.0.0.1 ip.cms.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
-127.0.0.1 txt.go.sohu.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 fair.sogou.com
@@ -5319,9 +5320,11 @@ stat.myzaker.com
 127.0.0.1 g.x.cn.xtgreat.com
 127.0.0.1 js.xtgreat.com
 127.0.0.1 s.x.cn.xtgreat.com
+127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 m.panda.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
 127.0.0.1 adsmart.yicha.cn
@@ -5961,11 +5964,11 @@ stat.myzaker.com
 127.0.0.1 emoticon.sns.iqiyi.com
 127.0.0.1 hotchat-im.iqiyi.com
 127.0.0.1 paopao.iqiyi.com
+127.0.0.1 tracker.sns.iqiyi.com
 127.0.0.1 paopao0.qiyipic.com
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 paopao3.qiyipic.com
-127.0.0.1 tracker.sns.iqiyi.com
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
 127.0.0.1 static.g.ppstream.com
@@ -5983,9 +5986,16 @@ stat.myzaker.com
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
-127.0.0.1 sohu.irs01.com
-127.0.0.1 888.tv.sohu.com
-127.0.0.1 push.tv.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 bd.hd.sohu.com
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 pv.ott.hd.sohu.com
+127.0.0.1 um.hd.sohu.com
+127.0.0.1 wl.hd.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 m.aty.sohu.com
@@ -5996,23 +6006,16 @@ stat.myzaker.com
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 bd.hd.sohu.com
-127.0.0.1 click.hd.sohu.com.cn
-127.0.0.1 click2.hd.sohu.com
-127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 mb.hd.sohu.com.cn
-127.0.0.1 pb.hd.sohu.com.cn
-127.0.0.1 pv.hd.sohu.com
-127.0.0.1 pv.ott.hd.sohu.com
-127.0.0.1 um.hd.sohu.com
-127.0.0.1 wl.hd.sohu.com
-127.0.0.1 api.k.sohu.com
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com
+127.0.0.1 push.tv.sohu.com
+127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 da.mmarket.com
+127.0.0.1 sohu.irs01.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 stats.tudou.com
 127.0.0.1 p-log.ykimg.com

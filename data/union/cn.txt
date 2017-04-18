@@ -673,14 +673,12 @@
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
 127.0.0.1 ip.cms.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
-127.0.0.1 txt.go.sohu.com
 #sogou
 127.0.0.1 adsence.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
@@ -1891,9 +1889,11 @@
 127.0.0.1 js.xtgreat.com
 127.0.0.1 s.x.cn.xtgreat.com
 #xunfei
+127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 m.panda.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
 #yicha

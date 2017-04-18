@@ -97,6 +97,8 @@
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
 @base-163
+#youdao
+127.0.0.1 log.yex.youdao.com
 #youdaoidct
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -364,14 +366,19 @@
 @base-sohu
 127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s0.mp.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 rd.e.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 @base-google
 #admob
@@ -956,8 +963,6 @@
 127.0.0.1 config.push.sogou.com
 127.0.0.1 download.zhushou.sogou.com
 127.0.0.1 pull.push.sogou.com
-127.0.0.1 rd.e.sogou.com
-127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/
@@ -1330,7 +1335,6 @@
 127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
 127.0.0.1 push.cmvideo.cn
-127.0.0.1 iflyad.bj.openstorage.cn
 #molitv.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
@@ -1707,9 +1711,9 @@ stat.myzaker.com
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
-#ÌìÆøÍ¨
-127.0.0.1 i.apps.sina.cn
-
+#zuimeitianqi.com
+127.0.0.1 ad.zuimeitianqi.com
+127.0.0.1 stat.zuimeitianqi.com
 @app-win
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
@@ -5022,14 +5026,12 @@ stat.myzaker.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
 127.0.0.1 ip.cms.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
-127.0.0.1 txt.go.sohu.com
 #sogou
 127.0.0.1 adsence.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
@@ -6240,9 +6242,11 @@ stat.myzaker.com
 127.0.0.1 js.xtgreat.com
 127.0.0.1 s.x.cn.xtgreat.com
 #xunfei
+127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 agr.voiceads.cn
 127.0.0.1 bj.imp.voiceads.cn
+127.0.0.1 m.panda.voiceads.cn
 127.0.0.1 ws.voiceads.cn
 127.0.0.1 www.voiceads.cn
 #yicha

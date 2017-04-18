@@ -187,7 +187,6 @@
 127.0.0.1 clientanalysis.cmvideo.cn
 127.0.0.1 dsp.ad.cmvideo.cn
 127.0.0.1 push.cmvideo.cn
-127.0.0.1 iflyad.bj.openstorage.cn
 #molitv.cn
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
