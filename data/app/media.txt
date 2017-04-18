@@ -95,8 +95,10 @@
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 misc.web.kankan.com
-127.0.0.1 20170418.logic.cpm.cm.kankan.com
+127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 distf.stat.kankan.com
+127.0.0.1 pixel.advertising.com
+127.0.0.1 loadm.exelator.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 @app-media
 #1905.com

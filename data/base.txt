@@ -296,6 +296,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
+127.0.0.1 www.googleadservices.com
 @base-msn
 127.0.0.1 c.bing.com
 127.0.0.1 c.msn.com
