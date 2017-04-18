@@ -1,4 +1,4 @@
-ver=обнГ2:25 2017/4/18
+ver=обнГ6:11 2017/4/18
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00

@@ -59,8 +59,14 @@
 #http://i.ifeng.com/
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
+127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 iis3g.deliver.ifeng.com
+127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
 127.0.0.1 stadig0.ifeng.com
-127.0.0.1 iis1.deliver.ifeng.com
+127.0.0.1 c0.ifengimg.com
 127.0.0.1 c1.ifengimg.com
+127.0.0.1 js.51taifu.com
+127.0.0.1 wl.51taifu.com
+
+

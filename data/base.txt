@@ -27,6 +27,7 @@
 @base-ali
 #alicdn
 127.0.0.1 afp.alicdn.com
+127.0.0.1 afpmm.alicdn.com
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
@@ -57,11 +58,17 @@
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
 127.0.0.1 www.cnzz.com
+#mct01
+127.0.0.1 a.mct01.com
+127.0.0.1 static.mct01.com
 #mmstat
 127.0.0.1 log.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 wgo.mmstat.com
+#ipinyou
+127.0.0.1 cm.ipinyou.com
+127.0.0.1 optimus.ipinyou.com
 #tanx
 127.0.0.1 a.tanx.com
 127.0.0.1 cdn.tanx.com
@@ -275,10 +282,15 @@
 @base-sogou
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 service.epro.sogou.com
+127.0.0.1 union.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
+127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 @base-google

@@ -57,10 +57,13 @@
 127.0.0.1 rec.moviebox.baofeng.net
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com
+127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
 127.0.0.1 conf.funshion.com
+127.0.0.1 jobsfe.funshion.com
 127.0.0.1 po.funshion.com
 127.0.0.1 pub.funshion.com
+127.0.0.1 rt.funshion.net
 127.0.0.1 stat.funshion.net
 127.0.0.1 fun.adx.admaster.com.cn
 #http://mobile.xunlei.com/
