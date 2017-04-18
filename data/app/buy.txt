@@ -10,6 +10,10 @@
 127.0.0.1 du.jd.com
 #meituan.com
 127.0.0.1 push.mobile.meituan.com
+#smzdm.com
+127.0.0.1 s2.zdmimg.com
+127.0.0.1 eimg.smzdm.com
+127.0.0.1 res-ga.smzdm.com
 #vip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com

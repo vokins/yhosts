@@ -40,7 +40,6 @@
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 ids.deliver.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
-127.0.0.1 mfp.deliver.ifeng.com
 #jing-people.com.cn
 127.0.0.1 pmm.people.com.cn
 #jing-tiexue.net

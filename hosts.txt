@@ -972,7 +972,6 @@
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 ids.deliver.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
-127.0.0.1 mfp.deliver.ifeng.com
 #jing-people.com.cn
 127.0.0.1 pmm.people.com.cn
 #jing-tiexue.net
@@ -1195,6 +1194,10 @@
 127.0.0.1 du.jd.com
 #meituan.com
 127.0.0.1 push.mobile.meituan.com
+#smzdm.com
+127.0.0.1 s2.zdmimg.com
+127.0.0.1 eimg.smzdm.com
+127.0.0.1 res-ga.smzdm.com
 #vip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
@@ -4485,7 +4488,6 @@
 127.0.0.1 match.p4p.1688.com
 #ali-cdn
 127.0.0.1 aecpm.alicdn.com
-127.0.0.1 afpmm.alicdn.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 gen.alicdn.com
 127.0.0.1 strip.alicdn.com
@@ -4713,11 +4715,9 @@
 127.0.0.1 zvs1.cnzz.com
 127.0.0.1 zvs2.cnzz.com
 #ali-ipinyou
-127.0.0.1 cm.ipinyou.com
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 i.ipinyou.com
 127.0.0.1 ipinyou.com
-127.0.0.1 optimus.ipinyou.com
 127.0.0.1 s.ipinyou.com
 127.0.0.1 sdsp.ipinyou.com
 127.0.0.1 stats.ipinyou.com
@@ -5066,10 +5066,8 @@
 127.0.0.1 pb.sogou.com
 127.0.0.1 pbd.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
-127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 pv.sogou.com
 127.0.0.1 rjgw.theta.sogou.com
-127.0.0.1 union.sogou.com
 127.0.0.1 web.sogou.com
 #sogou-brand
 127.0.0.1 alpha.brand.sogou.com
@@ -6031,7 +6029,6 @@
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 wisem-cm.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
-127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 yktd.ads.cn.miaozhen.com
 127.0.0.1 yktd.cm.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
