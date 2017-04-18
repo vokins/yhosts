@@ -93,8 +93,8 @@
 127.0.0.1 ad.yeshitv.com
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
+127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kkpgv2.kankan.com
-127.0.0.1 misc.web.kankan.com
 127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 distf.stat.kankan.com
 127.0.0.1 pixel.advertising.com
@@ -151,7 +151,6 @@
 127.0.0.1 shoulei.downxunlei.com
 #kankan.com
 127.0.0.1 click.cm.kankan.com
-127.0.0.1 kkpgv.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 pv.cnzz.twh5.com
