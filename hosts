@@ -1,5 +1,5 @@
 
-#version=201704181104
+#version=201704181348
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -286,7 +286,6 @@
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 2016.sina.cn
-127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
@@ -1036,6 +1035,12 @@
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 m.1768.com
 127.0.0.1 ad.yeshitv.com
+127.0.0.1 biz5.kankan.com
+127.0.0.1 kkpgv2.kankan.com
+127.0.0.1 misc.web.kankan.com
+127.0.0.1 20170418.logic.cpm.cm.kankan.com
+127.0.0.1 distf.stat.kankan.com
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 trace.m1905.cn
@@ -1045,7 +1050,6 @@
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.stat.v-56.com
 127.0.0.1 dev.jwpltx.com
-
 127.0.0.1 adv.grtn.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 gp.jstv.com
@@ -1077,11 +1081,9 @@
 127.0.0.1 xl7xml.client.xunlei.com
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
-127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
 127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 kkpgv.kankan.com
-127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 pv.cnzz.twh5.com
@@ -1322,7 +1324,6 @@
 127.0.0.1 www8.xitek.com
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
-stat.myzaker.com
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 127.0.0.1 ad.jiemian.com
@@ -3340,6 +3341,7 @@ stat.myzaker.com
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 ts.hivecn.cn
+127.0.0.1 ai.xinju.cc
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 un.52rkl.cn
@@ -6007,6 +6009,7 @@ stat.myzaker.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
+127.0.0.1 api.k.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com

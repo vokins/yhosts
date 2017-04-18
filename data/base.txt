@@ -266,7 +266,6 @@
 #sports
 127.0.0.1 2016.sina.cn
 @base-sohu
-127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com

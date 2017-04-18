@@ -364,7 +364,6 @@
 #sports
 127.0.0.1 2016.sina.cn
 @base-sohu
-127.0.0.1 api.k.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
@@ -1240,6 +1239,13 @@
 127.0.0.1 m.1768.com
 #影视大全
 127.0.0.1 ad.yeshitv.com
+#http://www.kankan.com/
+127.0.0.1 biz5.kankan.com
+127.0.0.1 kkpgv2.kankan.com
+127.0.0.1 misc.web.kankan.com
+127.0.0.1 20170418.logic.cpm.cm.kankan.com
+127.0.0.1 distf.stat.kankan.com
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 @app-media
 #1905.com
 127.0.0.1 afp.m1905.com
@@ -1254,7 +1260,6 @@
 127.0.0.1 stat3.stat.v-56.com
 #64ma
 127.0.0.1 dev.jwpltx.com
-
 #gdtv.cn
 127.0.0.1 adv.grtn.cn
 #itunes-radio
@@ -1291,11 +1296,9 @@
 127.0.0.1 hezuo.downxunlei.com
 127.0.0.1 shoulei.downxunlei.com
 #kankan.com
-127.0.0.1 biz5.kankan.com
 127.0.0.1 click.cm.kankan.com
 127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 kkpgv.kankan.com
-127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
 127.0.0.1 pv.cnzz.twh5.com
@@ -1591,7 +1594,6 @@
 #http://app.myzaker.com/
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
-stat.myzaker.com
 #https://flipboard.com/
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
@@ -4037,6 +4039,8 @@ stat.myzaker.com
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 ts.hivecn.cn
+#s.aiwenwo.net
+127.0.0.1 ai.xinju.cc
 #www.52rkl.cn
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
