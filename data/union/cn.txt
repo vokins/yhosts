@@ -706,7 +706,7 @@
 127.0.0.1 wb.brand.sogou.com
 #sogou-cdn
 127.0.0.1 dl.wan.sogoucdn.com
-127.0.0.1 galaxy.sogoucdn.
+127.0.0.1 galaxy.sogoucdn.com
 #sogou-cpc
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 cpc.sogou.com

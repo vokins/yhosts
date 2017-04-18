@@ -1135,7 +1135,8 @@
 #yjbys.com
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
-127.0.0.1 dm.gzpinda.com@app-live
+127.0.0.1 dm.gzpinda.com
+@app-live
 #6rooms.com
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn
@@ -5059,7 +5060,7 @@ stat.myzaker.com
 127.0.0.1 wb.brand.sogou.com
 #sogou-cdn
 127.0.0.1 dl.wan.sogoucdn.com
-127.0.0.1 galaxy.sogoucdn.
+127.0.0.1 galaxy.sogoucdn.com
 #sogou-cpc
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 cpc.sogou.com

@@ -1,5 +1,5 @@
 
-#version=201704181058
+#version=201704181104
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -945,7 +945,7 @@
 127.0.0.1 dm.yjbys.org
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
-127.0.0.1 dm.gzpinda.com@app-live
+127.0.0.1 dm.gzpinda.com
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn
 127.0.0.1 ad.huajiao.com
@@ -4282,7 +4282,7 @@ stat.myzaker.com
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 wb.brand.sogou.com
 127.0.0.1 dl.wan.sogoucdn.com
-127.0.0.1 galaxy.sogoucdn.
+127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 cpc.sogou.com
 127.0.0.1 mini.cpc.sogou.com
