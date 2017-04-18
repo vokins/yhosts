@@ -151,7 +151,6 @@
 127.0.0.1 shoulei.downxunlei.com
 #kankan.com
 127.0.0.1 click.cm.kankan.com
-127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com

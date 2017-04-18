@@ -1300,7 +1300,6 @@
 127.0.0.1 shoulei.downxunlei.com
 #kankan.com
 127.0.0.1 click.cm.kankan.com
-127.0.0.1 count.cpm.cm.kankan.com
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 logic.cpm.cm.kankan.com
 127.0.0.1 tips.xmp.client.kanimg.com
@@ -5373,7 +5372,6 @@
 127.0.0.1 www.admarket.mobi
 #admaster
 127.0.0.1 397c0.admaster.com.cn
-127.0.0.1 58749.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
@@ -5834,7 +5832,6 @@
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
-127.0.0.1 letv.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
 #jesgoo
