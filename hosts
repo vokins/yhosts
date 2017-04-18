@@ -1,5 +1,5 @@
 
-#version=201704181700
+#version=201704181709
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3359,6 +3359,9 @@
 127.0.0.1 code.ttpaper.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 newspage.xilu.com
+127.0.0.1 fnm.08160.cn
+127.0.0.1 g1.08160.cn
+127.0.0.1 ssp.08160.cn
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com

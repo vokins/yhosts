@@ -4063,6 +4063,10 @@
 127.0.0.1 1.chcx.cn
 #xilu.com
 127.0.0.1 newspage.xilu.com
+#http://wap.08160.cn/
+127.0.0.1 fnm.08160.cn
+127.0.0.1 g1.08160.cn
+127.0.0.1 ssp.08160.cn
 @site/movie
 #dygang.com
 127.0.0.1 dygang.kkcaicai.com
