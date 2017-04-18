@@ -1,4 +1,10 @@
-﻿http://api.k.sohu.com/api/channel/ad/pullAd.go?p1=&channelId=1&cdma_lat=&cdma_lng=&net=wifi&mac=02:00:00:00:00:00&AndroidID=42b53368edd2bf0f&carrier=%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A&imei=863818035818120&imsi=460018358808693&density=2.75&gid=02ffff110611110ee03ad0384925f1cdad0ec48d85e641&pid=-1&apiVersion=37
+﻿echo 127.0.0.1 %str%.biz5.kankan.com>>xunlei.txt
+echo.
+echo 127.0.0.1 %str%.float.kankan.com>>xunlei.txt
+echo.
+rem echo 127.0.0.1 %str%.myhard.com>>xunlei.txt
+
+http://api.k.sohu.com/api/channel/ad/pullAd.go?p1=&channelId=1&cdma_lat=&cdma_lng=&net=wifi&mac=02:00:00:00:00:00&AndroidID=42b53368edd2bf0f&carrier=%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A&imei=863818035818120&imsi=460018358808693&density=2.75&gid=02ffff110611110ee03ad0384925f1cdad0ec48d85e641&pid=-1&apiVersion=37
 
 http://ad.caiyunapp.com/-1,-1/android/3.0.6/1080,1920/863818035818120/pullad
 http://iflyad.bj.openstorage.cn/pmp/edd04dbb9da814aa0e766e39e07e5402.jpeg

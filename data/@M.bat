@@ -1,4 +1,4 @@
-ver=ÏÂÎç1:48 2017/4/18
+ver=ÏÂÎç2:25 2017/4/18
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -28,13 +28,8 @@ goto :eof
 
 :xunlei
 set /a str+=1
-echo 127.0.0.1 %str%.biz5.kankan.com>>xunlei.txt
-echo.
 echo 127.0.0.1 %str%.logic.cpm.cm.kankan.com>>xunlei.txt
 echo.
-echo 127.0.0.1 %str%.float.kankan.com>>xunlei.txt
-echo.
-rem echo 127.0.0.1 %str%.myhard.com>>xunlei.txt
 if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
