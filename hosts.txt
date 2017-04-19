@@ -130,6 +130,8 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 tce.alicdn.com
+#aliyuncs
+127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
@@ -160,6 +162,7 @@
 127.0.0.1 a.mct01.com
 127.0.0.1 static.mct01.com
 #mmstat
+127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 log.mmstat.com
@@ -187,10 +190,10 @@
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 count.taobao.com
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
-127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 strip.taobaocdn.com
 #uc
 127.0.0.1 applog.uc.cn
@@ -198,8 +201,9 @@
 127.0.0.1 log.cs.pp.cn
 #wrating
 127.0.0.1 c.wrating.com
-127.0.0.1 tongji.wrating.com
+127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
+127.0.0.1 tongji.wrating.com
 @base-baidu
 #ads
 127.0.0.1 api.share.baidu.com
@@ -1157,6 +1161,19 @@
 127.0.0.1 ylog.hiido.com
 #yzbo.tv
 127.0.0.1 stats.yzbo.tv
+#http://www.youku.com/
+127.0.0.1 bsv.atm.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 ipm.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 valt.atm.youku.com
 #hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
@@ -1450,17 +1467,6 @@
 127.0.0.1 anan.client51.com
 127.0.0.1 guoguo.client51.com
 127.0.0.1 down1.bcibc.com
-#http://www.youku.com/
-127.0.0.1 count.atm.youku.com
-127.0.0.1 html.atm.youku.com
-127.0.0.1 ipm.atm.youku.com
-127.0.0.1 v2html.atm.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 valt.atm.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 r.l.youku.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 d.appsdt.com
 #systemav
@@ -4722,7 +4728,6 @@
 127.0.0.1 static.mlt01.com
 127.0.0.1 tanx.mlt01.com
 #ali-mm
-127.0.0.1 ac.mmstat.com
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
 127.0.0.1 hz.mmstat.com

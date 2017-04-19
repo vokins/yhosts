@@ -378,7 +378,6 @@
 127.0.0.1 static.mlt01.com
 127.0.0.1 tanx.mlt01.com
 #ali-mm
-127.0.0.1 ac.mmstat.com
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
 127.0.0.1 hz.mmstat.com

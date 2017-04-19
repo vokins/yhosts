@@ -1,3 +1,16 @@
+#http://www.youku.com/
+127.0.0.1 bsv.atm.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 ipm.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 valt.atm.youku.com
 #hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
@@ -291,17 +304,6 @@
 127.0.0.1 anan.client51.com
 127.0.0.1 guoguo.client51.com
 127.0.0.1 down1.bcibc.com
-#http://www.youku.com/
-127.0.0.1 count.atm.youku.com
-127.0.0.1 html.atm.youku.com
-127.0.0.1 ipm.atm.youku.com
-127.0.0.1 v2html.atm.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 valt.atm.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 r.l.youku.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 d.appsdt.com
 #systemav
