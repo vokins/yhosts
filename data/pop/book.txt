@@ -163,6 +163,7 @@
 127.0.0.1 p.fqjsjj.com
 127.0.0.1 z65.zzhyyj.com
 #m.chenhuixs.net
+127.0.0.1 m.car156.net
 127.0.0.1 m.tixing51.net
 127.0.0.1 www.poctd.com
 127.0.0.1 j7182.hfxcsl.cn
@@ -379,6 +380,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 #m.xs177.com
+127.0.0.1 w.bobocn.cn
 127.0.0.1 w.1lib.cn
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn

@@ -7,6 +7,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 v.huomob.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 bdjs.2344.com
 127.0.0.1 d21.deyidai.cn

@@ -305,7 +305,10 @@
 127.0.0.1 guoguo.client51.com
 127.0.0.1 down1.bcibc.com
 #https://sites.google.com/site/mxvpen/
-127.0.0.1 d.appsdt.com
+127.0.0.1 app-measurement.com
+127.0.0.1 app.adjust.com
+127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
+127.0.0.1 tracking-server-prod-1.zenmxapps.com
 #systemav
 127.0.0.1 m.madthumbs.com
 #gaoqingmianfeiyingshi

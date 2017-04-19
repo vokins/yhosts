@@ -1,5 +1,4 @@
 http://m.1xiaoshuo.com/js/common.js
-http://m.250sy.net/wap/wap.js
 http://m.37zw.com/js/wap.js
 http://m.5442.com/style/warp/js/mpads5442.js
 http://m.69shuwu.com/wap/sj.js
@@ -11,7 +10,6 @@ http://m.bmwen.com/gao/bmxptj_3.js
 http://m.bookben.com/js/m/wap.js
 http://m.booktxt.net/wap/booktxt/wap.js
 http://m.bxwx9.org/mjs/wap.js
-http://m.chenhuiwx.org/js/foot.js
 http://m.chenhuixs.net/js/hfz.js
 http://m.chenhuixs.net/js/hfzs.js
 http://m.chenhuixs.net/js/hfzx.js
