@@ -1,5 +1,5 @@
 
-#version=201704192001
+#version=201704192149
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -954,6 +954,9 @@
 127.0.0.1 s.shaxiq.com
 127.0.0.1 stat.ff.zmres.com
 127.0.0.1 bai3.gushiwen.org
+127.0.0.1 js.xuexila.com
+127.0.0.1 ds.sundxs.com
+127.0.0.1 jd.sundxs.com
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 telepathy.kakamobi.com
 127.0.0.1 abc.yjbys.org
@@ -5810,7 +5813,6 @@
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
-127.0.0.1 info.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 na.ads.yahoo.com
@@ -6040,7 +6042,6 @@
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
-127.0.0.1 count.atm.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 iyes.youku.com
@@ -6070,9 +6071,7 @@
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 valb.atm.youku.com
-127.0.0.1 valf.atm.youku.com
 127.0.0.1 valo.atm.youku.com
-127.0.0.1 valp.atm.youku.com
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com

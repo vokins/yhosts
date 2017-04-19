@@ -39,6 +39,10 @@
 127.0.0.1 stat.ff.zmres.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
+#m.xuexila.com
+127.0.0.1 js.xuexila.com
+127.0.0.1 ds.sundxs.com
+127.0.0.1 jd.sundxs.com
 #http://www.jiakaobaodian.com/
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 telepathy.kakamobi.com

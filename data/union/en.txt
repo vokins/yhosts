@@ -495,7 +495,6 @@
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
-127.0.0.1 info.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 na.ads.yahoo.com

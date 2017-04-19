@@ -1,4 +1,3 @@
-@tvbox
 #51togic.com
 127.0.0.1 ad.video.51togic.com
 127.0.0.1 cdn.ad.video.51togic.com
@@ -179,7 +178,6 @@
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
-127.0.0.1 count.atm.youku.com
 127.0.0.1 guanggaoad.youku.com
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 iyes.youku.com
@@ -209,9 +207,7 @@
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 valb.atm.youku.com
-127.0.0.1 valf.atm.youku.com
 127.0.0.1 valo.atm.youku.com
-127.0.0.1 valp.atm.youku.com
 127.0.0.1 wan.youku.com
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
