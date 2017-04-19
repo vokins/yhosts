@@ -1,6 +1,12 @@
 ﻿127.0.0.1 games.ifeng.com
 127.0.0.1 info.yahoo.com
-127.0.0.1 hudong.pl.youku.com youku cookies问题
+cookies问题
+127.0.0.1 hudong.pl.youku.com youku 
+127.0.0.1 sdk.m.youku.com
+127.0.0.1 tdrec.youku.com
+127.0.0.1 ykrec.youku.com
+127.0.0.1 ykrectab.youku.com
+#
 127.0.0.1 a.union.mi.com 有些活动无法参加
 http://misc.web.kankan.com/www_v6/js/lib/jquery-1.8.2.min.js
 http://down.360safe.com/360kan/sohu_1_armV7.apk
