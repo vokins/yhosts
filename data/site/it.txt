@@ -1,4 +1,3 @@
-@site/it
 #4hw.com.cn
 127.0.0.1 images2.4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
@@ -125,72 +124,3 @@
 127.0.0.1 stat.zol.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
-@site/it-down
-#cr173.com
-127.0.0.1 cpro.cr173.com
-127.0.0.1 tj.tt1386.com
-#crsky.com
-127.0.0.1 count.crsky.com
-127.0.0.1 dx.crsky.com
-127.0.0.1 images.crsky.com
-#ctfile.com
-127.0.0.1 doubleclick.ctfile.com
-127.0.0.1 mydisplay.ctfile.com
-#fxxz.com
-127.0.0.1 show.tcth8.com
-127.0.0.1 t1.612.com
-127.0.0.1 count.612.com
-127.0.0.1 c5.97you.net
-#greenxf.com
-127.0.0.1 down.xiazai2.net
-#gueizu.com
-127.0.0.1 imxiexie.cn
-127.0.0.1 oatdbtwdu.qnssl.com
-127.0.0.1 u193035.pr00001.com
-127.0.0.1 www.94lm.com
-127.0.0.1 www.sg-huanya.com
-#kxbeta.com
-127.0.0.1 c.kxbeta.com
-127.0.0.1 d.kxbeta.com
-#m.apkpure.com
-127.0.0.1 disqusads.com
-#m.muzisoft.com
-127.0.0.1 d.ltss8.com
-127.0.0.1 down.qiqi.cc
-127.0.0.1 s.69duk.com
-127.0.0.1 d7.muzisoft.com
-127.0.0.1 d8.muzisoft.com
-127.0.0.1 d9.muzisoft.com
-#m.panduoduo.net
-127.0.0.1 s.szfaq.com
-127.0.0.1 s.bccyyc.com
-127.0.0.1 s.cooolyi.cn
-#m.qqtn.com
-127.0.0.1 a1.5h.com
-127.0.0.1 show.5h.com
-#m.shuaji.com
-127.0.0.1 p.abcache.com
-127.0.0.1 s.abcache.com
-#m.wanyx.com
-127.0.0.1 shili.wanyx.com
-#oyksoft.com
-127.0.0.1 a.oyksoft.com
-127.0.0.1 r.71sem.com
-#pc6.com
-127.0.0.1 tj.20hn.cn
-127.0.0.1 c2.97you.net
-127.0.0.1 cdn.b9377h.com
-127.0.0.1 news.b9377h.com
-127.0.0.1 cdn.ef9377.com
-127.0.0.1 cdn.a9377j.com
-#m.uzff.com
-127.0.0.1 a1.289.com
-127.0.0.1 list.289.com
-#www.121down.com
-127.0.0.1 fe0s.nuion.cn
-#yxdown.com
-127.0.0.1 ads.yxdown.com
-127.0.0.1 gg.yxdown.com
-127.0.0.1 ggr.yxdown.com
-127.0.0.1 tongji.ads.yxdown.com
-127.0.0.1 img.zhihei.com

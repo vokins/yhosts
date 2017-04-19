@@ -150,3 +150,4 @@
 127.0.0.1 mibook-10006092.cos.myqcloud.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 iosipa.b0.upaiyun.com
+127.0.0.1 xiazai.jlaee.com

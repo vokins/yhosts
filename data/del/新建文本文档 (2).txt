@@ -1,0 +1,10 @@
+----
+title SimpleU Hosts 
+more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts 
+notepad %windir%\system32\drivers\etc\hosts 
+goto :eof 
+
+;Contributors=
+;Description=Smart.Clean.Useful.Safe. Hosts-files.
+;Vision=Better Internet Experience and Thanks 4 Every1.
+;Down=https://raw.githubusercontent.com/vokins/simpleu/master/hosts 

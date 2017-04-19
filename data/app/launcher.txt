@@ -1,4 +1,3 @@
-@app-launcher
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com

@@ -1,4 +1,3 @@
-@app-win
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
 #http://player.gomlab.com/

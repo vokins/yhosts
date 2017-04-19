@@ -1,4 +1,3 @@
-@site-learn
 #360doc.cn
 127.0.0.1 scriptwap1.360doc.cn
 127.0.0.1 scriptwap2.360doc.cn

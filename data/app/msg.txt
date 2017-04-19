@@ -1,4 +1,3 @@
-@app-msg
 #http://im.qq.com/
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com

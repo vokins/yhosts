@@ -86,13 +86,13 @@
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
-#云图直播
+#http://www.yuntutv.net/
 127.0.0.1 adm.zookingsoft.com
 127.0.0.1 ytapi1.nagezan.net
 127.0.0.1 static.live.nagezan.net
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 m.1768.com
-#影视大全
+#yeshitv.com
 127.0.0.1 ad.yeshitv.com
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com

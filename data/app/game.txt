@@ -1,4 +1,3 @@
-@app-game
 #com2us
 127.0.0.1 s.com2us.net
 127.0.0.1 push.com2us.net

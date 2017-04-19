@@ -1,4 +1,3 @@
-@app-live
 #6rooms.com
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn

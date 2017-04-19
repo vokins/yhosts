@@ -1,4 +1,3 @@
-@app-tools
 #http://51wnl.com/
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com

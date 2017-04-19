@@ -1,4 +1,3 @@
-@site-photo
 #exview
 127.0.0.1 cpx24.com
 127.0.0.1 www.cpx24.com

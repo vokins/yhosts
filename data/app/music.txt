@@ -1,4 +1,3 @@
-@app-music
 #http://www.duomi.com/
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com

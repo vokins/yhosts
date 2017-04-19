@@ -1,0 +1,380 @@
+---
+#google-ads
+127.0.0.1 ads.google.com
+127.0.0.1 pagead-tpc.l.google.com
+127.0.0.1 pagead.l.google.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 ssl-google-analytics.l.google.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 ads.gmodules.com
+127.0.0.1 badad.googleplex.com
+127.0.0.1 service.urchin.com
+#google-admob
+127.0.0.1 admob.com
+127.0.0.1 apps.admob.com
+127.0.0.1 c.admob.com
+127.0.0.1 e.admob.com
+127.0.0.1 jp.admob.com
+#google-adservices
+127.0.0.1 pagead2.googleadservices.com
+#google-analytics
+127.0.0.1 google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 survey.g.doubleclick.net
+127.0.0.1 ad-emea.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad.ca.doubleclick.net
+127.0.0.1 ad.fr.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 ad2.doubleclick.net
+127.0.0.1 adx.g.doubleclick.net
+127.0.0.1 creatives.doubleclick.net
+127.0.0.1 dart-apac.l.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 dfp.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 dp.g.doubleclick.net
+127.0.0.1 feedads.g.doubleclick.net
+127.0.0.1 fls.doubleclick.net
+127.0.0.1 fls.uk.doubleclick.net
+127.0.0.1 n4061ad.hk.doubleclick.net
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 s0.doubleclick.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 buttons.googlesyndication.com
+127.0.0.1 domains.googlesyndication.com
+127.0.0.1 googlesyndication.com
+#adroll
+127.0.0.1 s.adroll.com
+#adsonar
+127.0.0.1 ads.adsonar.com
+127.0.0.1 ads.tw.adsonar.com
+127.0.0.1 adsonar.com
+127.0.0.1 js.adsonar.com
+127.0.0.1 newsletter.adsonar.com
+127.0.0.1 redir.adsonar.com
+#adtechus
+127.0.0.1 glb.adtechus.com
+#am15
+127.0.0.1 am15.net
+127.0.0.1 b.am15.net
+127.0.0.1 c.am15.net
+#amazon-ads
+127.0.0.1 aax-us-west.amazon-adsystem.com
+127.0.0.1 mads.amazon.com
+127.0.0.1 rcm-na.amazon-adsystem.com
+127.0.0.1 ws-na.amazon-adsystem.com
+127.0.0.1 z-na.amazon-adsystem.com
+#amazon-aws
+127.0.0.1 adzerk-www.s3.amazonaws.com
+127.0.0.1 admarvel.s3.amazonaws.com
+127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 campaign-tapad.s3.amazonaws.com
+127.0.0.1 exitsplash.s3.amazonaws.com
+127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
+127.0.0.1 htmlads.s3.amazonaws.com
+127.0.0.1 mondoads.s3.amazonaws.com
+127.0.0.1 ncads.s3.amazonaws.com
+127.0.0.1 viewerstats.docstoc.com.s3.amazonaws.com
+127.0.0.1 yab-adimages.s3.amazonaws.com
+127.0.0.1 10bet.s3.amazonaws.com
+127.0.0.1 adzerk.s3.amazonaws.com
+127.0.0.1 alexa-sitestats.s3.amazonaws.com
+127.0.0.1 assets-hellobar-com.s3.amazonaws.com
+127.0.0.1 biowebb-data.s3.amazonaws.com
+127.0.0.1 blamads-assets.s3.amazonaws.com
+127.0.0.1 bro1.s3.amazonaws.com
+127.0.0.1 btrpreroll.s3.amazonaws.com
+127.0.0.1 cdnpuaf.s3.amazonaws.com
+127.0.0.1 click.s3.amazonaws.com
+127.0.0.1 clutchmag.s3.amazonaws.com
+127.0.0.1 ec2-23-23-242-44.compute-1.amazonaws.com
+127.0.0.1 ecommstats.s3.amazonaws.com
+127.0.0.1 entrecard.s3.amazonaws.com
+127.0.0.1 forumwarz.s3.amazonaws.com
+127.0.0.1 inneractive-assets.s3.amazonaws.com
+127.0.0.1 livefyre-avatar.s3.amazonaws.com
+127.0.0.1 load.s3.amazonaws.com
+127.0.0.1 matchbin-assets.s3.amazonaws.com
+127.0.0.1 mediatakeout.s3.amazonaws.com
+127.0.0.1 mobypicture.s3.amazonaws.com
+127.0.0.1 phan-js.s3.amazonaws.com
+127.0.0.1 s3-2-w.amazonaws.com
+127.0.0.1 s3-directional-w.amazonaws.com
+127.0.0.1 s3-directional-w.geo.amazonaws.com
+127.0.0.1 settingsbucket.s3.amazonaws.com
+127.0.0.1 simple-cdn.s3.amazonaws.com
+127.0.0.1 slideshare-audio.s3.amazonaws.com
+127.0.0.1 smaato-ads.s3.amazonaws.com
+127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
+127.0.0.1 springclick-ads.s3.amazonaws.com
+127.0.0.1 static.media.magnify.net.s3.amazonaws.com
+127.0.0.1 strikeadcdn.s3.amazonaws.com
+127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
+127.0.0.1 ttv-boxart.s3.amazonaws.com
+127.0.0.1 twitter-badges.s3.amazonaws.com
+127.0.0.1 twittermoms.s3.amazonaws.com
+127.0.0.1 vml1.s3.amazonaws.com
+127.0.0.1 xmlconfig.ltassrv.com.s3.amazonaws.com
+#amoad
+127.0.0.1 d.amoad.com
+127.0.0.1 i.amoad.com
+127.0.0.1 j.amoad.com
+127.0.0.1 www.amoad.com
+#amung
+127.0.0.1 whos.amung.us
+127.0.0.1 widgets.amung.us
+#appads
+127.0.0.1 appads.com
+127.0.0.1 caggsm-img.appads.com
+127.0.0.1 cdn.appads.com
+127.0.0.1 img.appads.com
+#adotsolution
+127.0.0.1 ad.adotsolution.com
+127.0.0.1 adddn.adotsolution.com
+#celtra.com
+127.0.0.1 cdn.celtra.com
+127.0.0.1 ads.celtra.com
+127.0.0.1 cache-ssl.celtra.com
+127.0.0.1 cache.celtra.com
+127.0.0.1 track.celtra.com
+#fwmrm
+127.0.0.1 adm.fwmrm.net
+127.0.0.1 165a7.v.fwmrm.net
+#game3737
+127.0.0.1 flash.game3737.com
+127.0.0.1 jcnm.game3737.com
+127.0.0.1 pop.game3737.com
+127.0.0.1 poufo.game3737.com
+#gaoduan
+127.0.0.1 js.gaoduan.cc
+127.0.0.1 www.gaoduan.cc
+#greystripe
+127.0.0.1 ads2.greystripe.com
+127.0.0.1 adsx.greystripe.com
+127.0.0.1 c.greystripe.com
+#inner-active.mobi
+127.0.0.1 wv.inner-active.mobi
+127.0.0.1 cdn1.inner-active.mobi
+127.0.0.1 m2m1.inner-active.mobi
+127.0.0.1 adtracker.inmobi.com
+127.0.0.1 china.inmobi.com
+127.0.0.1 e.ai.inmobi.com
+127.0.0.1 et.w.inmobi.com
+127.0.0.1 i.w.sandbox.inmobi.com
+127.0.0.1 japan.inmobi.com
+127.0.0.1 ma.inmobi.com
+127.0.0.1 r.w.inmobi.com
+127.0.0.1 w.inmobi.com
+127.0.0.1 r.edge.inmobicdn.net
+127.0.0.1 inmobisdk-a.akamaihd.net
+127.0.0.1 c.appsdt.com
+127.0.0.1 hosting.sproutbuilder.com
+#jumptab
+127.0.0.1 bo.jumptap.com
+127.0.0.1 i.jumptap.com
+127.0.0.1 a.jumptap.com
+127.0.0.1 tapad.jumptap.com
+127.0.0.1 www.jumptap.com
+#medialytics
+127.0.0.1 a.medialytics.com
+127.0.0.1 c.medialytics.com
+127.0.0.1 cdn.creative.medialytics.com
+127.0.0.1 p.medialytics.com
+127.0.0.1 px.cdn.creative.medialytics.com
+#mobcent
+127.0.0.1 sdk.mobcent.com
+127.0.0.1 img.mobcent.com
+127.0.0.1 www.mobcent.com
+#mobclix
+127.0.0.1 a.mobclix.com
+127.0.0.1 ads.mobclix.com
+127.0.0.1 data.mobclix.com
+127.0.0.1 s.mobclix.com
+127.0.0.1 vc.mobclix.com
+127.0.0.1 www.mobclix.com
+#mobpartner
+127.0.0.1 go.mobpartner.mobi
+127.0.0.1 mobpartner.mobi
+127.0.0.1 r.mobpartner.mobi
+#mocean.mobi
+127.0.0.1 ads.mocean.mobi
+127.0.0.1 img.ads1.mocean.mobi
+127.0.0.1 img.ads2.mocean.mobi
+127.0.0.1 img.ads3.mocean.mobi
+127.0.0.1 img.ads4.mocean.mobi
+127.0.0.1 www.moceanmobile.com
+127.0.0.1 aio.lp.mydas.mobi
+127.0.0.1 golds.lp.mydas.mobi
+127.0.0.1 lp.mp.mydas.mobi
+127.0.0.1 lp.mydas.mobi
+127.0.0.1 media.mydas.mobi
+127.0.0.1 suo.lp.mydas.mobi
+#pardot
+127.0.0.1 cdn.pardot.com
+127.0.0.1 pi.pardot.com
+#pflexads.com
+127.0.0.1 hybl9bazbc35.pflexads.com
+127.0.0.1 hhbekxxw5d9e.pflexads.com
+127.0.0.1 www.pflexads.com
+127.0.0.1 orencia.pflexads.com
+#phluantmobile.net
+127.0.0.1 mdn1.phluantmobile.net
+127.0.0.1 mdn2.phluantmobile.net
+127.0.0.1 mdn3.phluantmobile.net
+127.0.0.1 mdn3origin.phluantmobile.net
+#popads
+127.0.0.1 serve.popads.net
+#smaato.net
+127.0.0.1 soma.smaato.net
+127.0.0.1 www.smaato.com
+#smart adserver
+127.0.0.1 akamai.smartadserver.com
+127.0.0.1 diff.smartadserver.com
+127.0.0.1 diff2.smartadserver.com
+127.0.0.1 diff3.smartadserver.com
+127.0.0.1 eqx.smartadserver.com
+127.0.0.1 im2.smartadserver.com
+127.0.0.1 itx5-publicidad.smartadserver.com
+127.0.0.1 itx5.smartadserver.com
+127.0.0.1 www.smartadserver.com
+#tapad
+127.0.0.1 adsrv1.tapad.com
+127.0.0.1 analytics.tapad.com
+127.0.0.1 swappit.tapad.com
+127.0.0.1 tapestry.tapad.com
+#tianjimedia
+127.0.0.1 adsame.tianjimedia.com
+127.0.0.1 counter.tianjimedia.com
+127.0.0.1 js.tianjimedia.com
+127.0.0.1 more.tianjimedia.com
+127.0.0.1 pv.tianjimedia.com
+127.0.0.1 www.tianjimedia.com
+#toboads
+127.0.0.1 a.mobile.toboads.com
+127.0.0.1 relay.mobile.toboads.com
+#tribalfusion
+127.0.0.1 a.tribalfusion.com
+127.0.0.1 cdn1.tribalfusion.com
+127.0.0.1 cdn5.tribalfusion.com
+127.0.0.1 ctxt.tribalfusion.com
+127.0.0.1 m.tribalfusion.com
+127.0.0.1 s.tribalfusion.com
+127.0.0.1 tribalfusion.com
+127.0.0.1 www.tribalfusion.com
+#quantserve
+127.0.0.1 quantserve.com
+127.0.0.1 www.edge.quantserve.com
+127.0.0.1 flash.quantserve.com
+#torchbrowser
+127.0.0.1 lp.torchbrowser.com
+127.0.0.1 yb.torchbrowser.com
+#tynt
+127.0.0.1 cdn.tynt.com
+127.0.0.1 de.tynt.com
+127.0.0.1 sc.tynt.com
+127.0.0.1 tcr.tynt.com
+127.0.0.1 www.tynt.com
+#unionsky
+127.0.0.1 unionsky.cn
+127.0.0.1 www.unionsky.cn
+127.0.0.1 appsent.unionsky1.cn
+#velti.com
+127.0.0.1 ru.velti.com
+127.0.0.1 mwc.velti.com
+#visualrevenue
+127.0.0.1 a.visualrevenue.com
+127.0.0.1 t.visualrevenue.com
+127.0.0.1 platform.visualrevenue.com
+127.0.0.1 visualrevenue.com
+#vizury
+127.0.0.1 serv1.vizury.com
+127.0.0.1 serv2.vizury.com
+127.0.0.1 serv3.vizury.com
+#vserv.mobi
+127.0.0.1 a.vserv.mobi
+127.0.0.1 admin.vserv.mobi
+127.0.0.1 ads.vserv.mobi
+127.0.0.1 c.vserv.mobi
+#yandex
+127.0.0.1 an.yandex.ru
+127.0.0.1 img-fotki.yandex.ru
+#yongv
+127.0.0.1 apf.whoclick.cn
+127.0.0.1 adp.whoclick.cn
+#zhiziyun
+127.0.0.1 www.zhiziyun.com
+127.0.0.1 static.zhiziyun.com
+127.0.0.1 trace.zhiziyun.com
+#enads
+127.0.0.1 1phads.com
+127.0.0.1 action.media6degrees.com
+127.0.0.1 ad.link104.com
+127.0.0.1 adadvisor.net
+127.0.0.1 ads.ad-center.com
+127.0.0.1 ads.qadserve.com
+127.0.0.1 analytics.localytics.com
+127.0.0.1 cdn.clicktale.net
+127.0.0.1 cf.ads.kontextua.com
+127.0.0.1 clickcdn.xda-developers.com
+127.0.0.1 coinurl.com
+127.0.0.1 delivery.trafficforce.com
+127.0.0.1 dev.visualwebsiteoptimizer.com
+127.0.0.1 go.mobisla.com
+127.0.0.1 go.oclaserver.com
+127.0.0.1 insanelymaccom.skimlinks.com
+127.0.0.1 kwserver.adhispanic.com
+127.0.0.1 n388hkxg.com
+127.0.0.1 onclickads.net
+127.0.0.1 pu.trafficshop.com
+127.0.0.1 tag.navdmp.com
+127.0.0.1 tags.expo9.exponential.com
+127.0.0.1 tags.mdotlabs.com
+127.0.0.1 vcm-match.dotomi.com
+127.0.0.1 www.adshost2.com
+127.0.0.1 www.imiclk.com
+127.0.0.1 www.luminate.com
+127.0.0.1 www.v-links.net
+127.0.0.1 xslt.alexa.com
+127.0.0.1 adserver.adtech.de
+127.0.0.1 cdn.viafoura.net
+127.0.0.1 adserve.postrelease.com
+127.0.0.1 edigitalsurvey.com
+127.0.0.1 log.outbrain.com
+127.0.0.1 p.vibrant.co
+127.0.0.1 stat.nate.com
+127.0.0.1 torontostar.demdex.net
+127.0.0.1 www.smartlinks.dianomi.com
+127.0.0.1 code.directadvert.ru
+127.0.0.1 recreativ.ru
+127.0.0.1 www.da-ads.com
+127.0.0.1 go.padstm.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 padsdel.cdnads.com
+127.0.0.1 api.17le.com.cn
+#iOS
+127.0.0.1 ads.qadservice.com
+127.0.0.1 adsrvmedia.adk2.com
+127.0.0.1 extra.thebigboss.org
+127.0.0.1 adserver-live.yoc.mobi
+127.0.0.1 admax.nexage.com
+127.0.0.1 tongji.app111.com
+127.0.0.1 wbw.cocounion.com
+#iOS-Cydia
+127.0.0.1 a.ad-sys.com
+127.0.0.1 a.adorika.net
+127.0.0.1 ads.glispa.com
+127.0.0.1 api.jw97.com
+127.0.0.1 hastrk3.com
+127.0.0.1 jw97.com
+#iOS-TMZ
+127.0.0.1 ads.geornmd.net
+127.0.0.1 ads.rnmd.net
+#xiaoyun
+127.0.0.1 client-stats.gclick.cn
+127.0.0.1 community.cms.gclick.cn
+127.0.0.1 g.gclick.cn
+127.0.0.1 gclick.cn
+127.0.0.1 reddot-api.gclick.cn
+http://www.gclick.cn/

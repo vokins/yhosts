@@ -1,4 +1,3 @@
-@app-vpn
 #vpn-ark
 127.0.0.1 newswifiapi.dfshurufa.com
 #vpn-betternet
