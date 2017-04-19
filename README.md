@@ -19,3 +19,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
 ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
+![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)
