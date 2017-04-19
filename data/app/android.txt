@@ -122,7 +122,6 @@
 127.0.0.1 www.maibanu.com
 127.0.0.1 www.duba.com
 #miui-mi
-127.0.0.1 a.union.mi.com
 127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com
 127.0.0.1 migcreport.g.mi.com

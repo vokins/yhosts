@@ -1,5 +1,5 @@
 
-#version=201704191406
+#version=201704191413
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -741,7 +741,6 @@
 127.0.0.1 www.jbaobao.com
 127.0.0.1 www.maibanu.com
 127.0.0.1 www.duba.com
-127.0.0.1 a.union.mi.com
 127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com
 127.0.0.1 migcreport.g.mi.com
