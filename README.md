@@ -17,5 +17,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ## 捐助
 
-![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/donate/alipay.png)
-![微信](https://raw.githubusercontent.com/vokins/yhosts/master/donate/wechat.png)
+![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
+![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
