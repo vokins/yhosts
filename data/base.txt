@@ -67,8 +67,6 @@
 #mmstat
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
-127.0.0.1 gm.mmstat.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 yt.mmstat.com
 #ipinyou

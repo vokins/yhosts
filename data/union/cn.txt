@@ -1459,9 +1459,6 @@
 127.0.0.1 t4.guomob.com
 127.0.0.1 www.guomob.com
 #irs
-127.0.0.1 irs01.net
-127.0.0.1 irs01.com
-127.0.0.1 irs09.com
 127.0.0.1 m.irs01.com
 127.0.0.1 yyt.irs01.com
 127.0.0.1 a.irs01.com

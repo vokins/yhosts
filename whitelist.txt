@@ -1,6 +1,11 @@
 ﻿127.0.0.1 games.ifeng.com
 127.0.0.1 info.yahoo.com
 cookies问题
+127.0.0.1 irs01.com
+127.0.0.1 irs01.net
+127.0.0.1 irs09.com
+127.0.0.1 gm.mmstat.com
+127.0.0.1 log.mmstat.com
 127.0.0.1 hudong.pl.youku.com youku 
 127.0.0.1 sdk.m.youku.com
 127.0.0.1 tdrec.youku.com

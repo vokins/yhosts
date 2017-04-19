@@ -164,8 +164,6 @@
 #mmstat
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
-127.0.0.1 gm.mmstat.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 yt.mmstat.com
 #ipinyou
@@ -5829,9 +5827,6 @@
 127.0.0.1 t4.guomob.com
 127.0.0.1 www.guomob.com
 #irs
-127.0.0.1 irs01.net
-127.0.0.1 irs01.com
-127.0.0.1 irs09.com
 127.0.0.1 m.irs01.com
 127.0.0.1 yyt.irs01.com
 127.0.0.1 a.irs01.com
