@@ -1422,11 +1422,12 @@
 #gentags
 127.0.0.1 clk.gentags.net
 127.0.0.1 cmpp.gentags.net
+127.0.0.1 image.gentags.com
 127.0.0.1 imp.gentags.net
 127.0.0.1 pmptrack-yidianzixunxm.gentags.net
+127.0.0.1 pmptrack-youku.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 v-sence.gentags.net
-127.0.0.1 image.gentags.com
 127.0.0.1 www.gentags.com
 #googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi

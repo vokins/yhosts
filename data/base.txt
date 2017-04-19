@@ -33,6 +33,7 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 tce.alicdn.com
+127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
 127.0.0.1 c.cnzz.com
@@ -62,10 +63,11 @@
 127.0.0.1 a.mct01.com
 127.0.0.1 static.mct01.com
 #mmstat
-127.0.0.1 log.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
+127.0.0.1 log.mmstat.com
 127.0.0.1 wgo.mmstat.com
+127.0.0.1 yt.mmstat.com
 #ipinyou
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 optimus.ipinyou.com

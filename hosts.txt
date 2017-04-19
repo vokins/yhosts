@@ -49,7 +49,6 @@
 104.27.164.22 www.gaysex69.net
 216.58.200.243 www.sexgayhd.net
 172.217.27.147 www.gaysexhd.net
-@active
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #acronis
@@ -131,6 +130,7 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 tce.alicdn.com
+127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
 127.0.0.1 c.cnzz.com
@@ -160,10 +160,11 @@
 127.0.0.1 a.mct01.com
 127.0.0.1 static.mct01.com
 #mmstat
-127.0.0.1 log.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
+127.0.0.1 log.mmstat.com
 127.0.0.1 wgo.mmstat.com
+127.0.0.1 yt.mmstat.com
 #ipinyou
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 optimus.ipinyou.com
@@ -1449,34 +1450,17 @@
 127.0.0.1 anan.client51.com
 127.0.0.1 guoguo.client51.com
 127.0.0.1 down1.bcibc.com
-#youku.com
-127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
-127.0.0.1 themis.ykimg.com
-127.0.0.1 hudong.pl.youku.com
-127.0.0.1 m.yes.youku.com
-127.0.0.1 myes.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 player.lstat.youku.com
-127.0.0.1 r.l.youku.com
-127.0.0.1 v.l.youku.com
-127.0.0.1 cm.miaozhen.atm.youku.com
+#http://www.youku.com/
+127.0.0.1 count.atm.youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
-127.0.0.1 miaozhen.atm.youku.com
-127.0.0.1 static.atm.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 val.atm.youku.com
-127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
-127.0.0.1 valo.atm.youku.com
-127.0.0.1 valp.atm.youku.com
-127.0.0.1 api.shuzilm.cn
-127.0.0.1 daa.shuzilm.cn
-127.0.0.1 www.shuzilm.cn
-127.0.0.1 cb.lomark.cn
-127.0.0.1 reply.lomark.cn
-127.0.0.1 rm.lomark.cn
-127.0.0.1 p-cn.acxiom-online.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valt.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 d.appsdt.com
 #systemav
@@ -5782,11 +5766,12 @@
 #gentags
 127.0.0.1 clk.gentags.net
 127.0.0.1 cmpp.gentags.net
+127.0.0.1 image.gentags.com
 127.0.0.1 imp.gentags.net
 127.0.0.1 pmptrack-yidianzixunxm.gentags.net
+127.0.0.1 pmptrack-youku.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 v-sence.gentags.net
-127.0.0.1 image.gentags.com
 127.0.0.1 www.gentags.com
 #googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi
