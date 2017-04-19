@@ -89,6 +89,7 @@
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 #taobao
+127.0.0.1 acs4baichuan.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com

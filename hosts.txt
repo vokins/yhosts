@@ -186,6 +186,7 @@
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 #taobao
+127.0.0.1 acs4baichuan.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
@@ -1177,6 +1178,13 @@
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 valt.atm.youku.com
+#m.youku.com
+127.0.0.1 adp.atm.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 m.atm.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 push.m.youku.com
 #hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
