@@ -213,6 +213,9 @@
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
 127.0.0.1 pv.xcar.com.cn
+#9553.com
+127.0.0.1 bdjs.6237237.com
+127.0.0.1 down.91wangmeng.com
 #cr173.com
 127.0.0.1 cpro.cr173.com
 127.0.0.1 tj.tt1386.com
