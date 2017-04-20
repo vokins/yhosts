@@ -192,9 +192,13 @@
 127.0.0.1 bd2.52che.com
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
+127.0.0.1 adnewnc.app.autohome.com.cn
+127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 pvx.autohome.com.cn
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn

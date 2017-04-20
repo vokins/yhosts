@@ -1,6 +1,15 @@
 ﻿127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 mdc.html5.qq.com 微信等诱导下载qq浏览器
+http://ad.10010.com/uniAdms_2.0/ad/urlProxy?placeCode=ST3_CLIENT_AD_002&&targetUrl=http://m.10010.com/mobilegoodsdetail/171510228344.html&&areaCode=017&&targetId=a36906147eec48efaa67d8e06e39c147&&placeId=8a948d8b4822d57401482f425e700011&&sysId=ST_CLIENT3.0&&template=template_business&&idx=0&&et=et&desmobile=&version=android@5.2
+http://bj.bcebos.com/fc-feed/0/pic/a7a24ee834fbc221985e825333e9bc8b.jpg
+http://bj.bcebos.com/fc-feed/0/pic/261f30fcc12a16a7536042d9939b0cf6.jpg
+http://c.tieba.baidu.com/c/s/inpv
+http://ad.12306.cn:443
+http://adnewnc.app.autohome.com.cn:443
+http://al.autohome.com.cn/app_log_upload
+http://dspmnt.autohome.com.cn/monitor?rtype=1&dpmk=%2BN3mLuQDs16qai9pVVkEWQefk%2BpNtd1TGeKM%2FB77hQpFj9a9D%2FeDDUqI2aMescJXGJ%2FbrQz3hl8didC9EfnWXBqQ1ekK95kGRY6Fol3zggsejtntDfTSB16Rw%2B1Vpd1aXofDvwrzggdFjdGiDfOGD1GJ1ekI7NVbSdjMvV%2F30QxPjYe2CfCMHFCfgOtEqNAcRp%2FQrRDj1VoM0pLmWOOOHE6I2Lke7ZZLD9iT5ljjjhxEi9K3DfmEDUmF0LcN84QcUJ%2BR41210lEO0MO1HvCED02N078M8YccUJ%2BM4F6o2Fsj0pKtBuOFDk2M0bsM8YQMXpHD%2BlKowFcYn9u%2BCPKAEl7ek%2Bpdtd1IGdSFrQbzhA1Oic2tXaXCWw7JiOse%2B4YOTonQox6s1UYjzZPmX6SWBE2N0b8Q49ZXGOKR%2FVWi0RxGjNS2DO2WXRPOldBRrtBbXofQox6i200I4ofuX7XbTF6H0aEK%2BIUIS47SvAT1hQ1Ojtm6EOPXUhXeitBJs9gcRp%2BJ%2B0ixxwRTkouhXbTAURTSjOoSottTUt6PoFWvx0sO3I%2FsWe7EVxLagOFNtNtKHcmI4FLu3VAY2JmwTLfVTBnciOsB84QPRYjVuR7tlk0Z3o7hWJ7WVxif270P9IFD&axd=1&ahxp=BiaZABIhRPSuXixuIw%2BVGGU4%2FaKfgMnZmMTfXw%3D%3D
+http://pvx.autohome.com.cn:443
 http://apnmedia.ask.com/media/toolbar/stub/1.0.0.0/ApnIC.dll?tb=SPC2&version=1.0.0.0
 http://websearch.ask.com/installed?client=ic&tb=SPC2&dtid=&id=a2303bde-0a35-47de-b077-d0c2f38dcb89&ipid=&iev=9.11.9600.18617&iedis=1&ielu=-2&fflu=-2&iv=&nv=&clientv=5.1.0.0&said=&browser-lang=zh&apn_dbr=cr_&cr=0
 http://img.apnanalytics.com/images/nocache/apn/tr.gif?ev=eichk&cb=&encb=&chk=ifdfcr&ts=cH2Gs&guid=a2303bde-0a35-47de-b077-d0c2f38dcb89&dt=0&wft=local&harch=64&hloc=en&iev=9.11.9600.18617&dbr=3&vb=&msi=&inst=&tb=SPC2&hos=6.1.1.sp1.x64&dot=6

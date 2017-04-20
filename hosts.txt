@@ -1094,6 +1094,8 @@
 127.0.0.1 ad.1kxun.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 tcad.wedolook.com
+#http://download.sopcast.com/download/SopCast.zip.apk
+127.0.0.1 addl.easetuner.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
@@ -1232,6 +1234,9 @@
 127.0.0.1 ad.yixin.im
 #https://twitter.com/
 127.0.0.1 static.ads-twitter.com
+#http://www.10010.com/
+127.0.0.1 ad.10010.com
+127.0.0.1 m1.ad.10010.com
 #http://www.duomi.com/
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
@@ -1463,7 +1468,6 @@
 #vpn-ark
 127.0.0.1 newswifiapi.dfshurufa.com
 #vpn-betternet
-127.0.0.1 api.vungle.com
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 #caiyunapp.com
@@ -1696,9 +1700,13 @@
 127.0.0.1 bd2.52che.com
 #autohome.com.cn
 127.0.0.1 33.autohome.com.cn
+127.0.0.1 adnewnc.app.autohome.com.cn
+127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 pvx.autohome.com.cn
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn

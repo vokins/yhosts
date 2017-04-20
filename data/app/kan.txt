@@ -2,6 +2,8 @@
 127.0.0.1 ad.1kxun.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 tcad.wedolook.com
+#http://download.sopcast.com/download/SopCast.zip.apk
+127.0.0.1 addl.easetuner.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
