@@ -20,3 +20,5 @@
 127.0.0.1 tj.vidown.cn
 #http://www.winrar.com.cn/
 127.0.0.1 ad.winrar.com.cn
+#http://sopcast.references.tv/
+127.0.0.1 addl.sopcast.cn

@@ -471,7 +471,6 @@
 127.0.0.1 fcm.baidu.com
 127.0.0.1 fexclick.baidu.com
 127.0.0.1 g.baidu.com
-127.0.0.1 idm.bce.baidu.com
 127.0.0.1 nj.baichuan.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 release.baidu.com
@@ -670,7 +669,6 @@
 127.0.0.1 cpc.sohu.com
 127.0.0.1 ip.cms.sohu.com
 127.0.0.1 suvset.sohu.com
-127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
@@ -769,7 +767,7 @@
 127.0.0.1 cv.1o26.com
 127.0.0.1 i.1o26.com
 #2345
-127.0.0.1 imgwx3.2345.com
+127.0.0.1 zhushou.2345.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 tg.jifen.2345.com
 127.0.0.1 wan.2345.com
@@ -777,6 +775,7 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
 127.0.0.1 union2.50bang.org
+127.0.0.1 engine.tuia.cn
 #235123
 127.0.0.1 c.235123.net
 127.0.0.1 t.235123.net
@@ -1217,8 +1216,9 @@
 127.0.0.1 zjvnet.allyes.com
 127.0.0.1 www.allyes.com
 #analysys.cn
-127.0.0.1 api2.analysys.cn
+127.0.0.1 ait025.analysys.cn
 127.0.0.1 ait240.analysys.cn
+127.0.0.1 api2.analysys.cn
 127.0.0.1 api721.analysys.cn
 127.0.0.1 urd103.analysys.cn
 127.0.0.1 urd240.analysys.cn
@@ -1591,6 +1591,7 @@
 127.0.0.1 sdk.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-g.mediav.com
+127.0.0.1 show-m.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com

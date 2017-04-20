@@ -208,3 +208,11 @@
 127.0.0.1 wwws.zxtry.com
 127.0.0.1 xlylqx.com
 127.0.0.1 kkyy.liliyy.com
+#www.pingshu8.com
+127.0.0.1 a1.kuku99.com
+127.0.0.1 a2.kuku99.com
+127.0.0.1 yn.001fzc.com
+127.0.0.1 ve.tsdlp.com
+#www.xijucn.com
+127.0.0.1 w.xiaopiaoyou.com
+127.0.0.1 ww.xiaopiaoyou.com

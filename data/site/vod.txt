@@ -1,0 +1,127 @@
+#http://live.fjtv.net/
+127.0.0.1 adv.fjtv.net
+#http://live.jstv.com/
+127.0.0.1 adsys.chinacloudapp.cn
+#http://star.gdtv.cn/
+127.0.0.1 adv.grtn.cn
+#http://v.ahtv.cn/live/ahlive/
+127.0.0.1 advapi.ahtv.cn
+#http://www.1905.com/vod/
+127.0.0.1 afp.m1905.com
+127.0.0.1 counter.m1905.com
+127.0.0.1 mlog.m1905.cn
+127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
+#http://www.baofeng.com/
+127.0.0.1 cdn.baofenggame.com
+127.0.0.1 data.danmu.baofeng.com
+127.0.0.1 static.danmu.baofeng.com
+127.0.0.1 active.baofeng.com
+127.0.0.1 breeze.olclient.baofeng.com
+127.0.0.1 coop.pop.baofeng.com
+127.0.0.1 dailylog.storm.baofeng.com
+127.0.0.1 eventlog.hd.baofeng.com
+127.0.0.1 log.ltype.baofeng.com
+127.0.0.1 log.nvwa.baofeng.com
+127.0.0.1 log.vdinfo.baofeng.com
+127.0.0.1 logger.treexml.baofeng.com
+127.0.0.1 midinfo.baofeng.com
+127.0.0.1 pvlog.hd.baofeng.com
+127.0.0.1 vdinfo.baofeng.com
+127.0.0.1 videodown.baofeng.com
+127.0.0.1 sclog.moviebox.baofeng.com
+127.0.0.1 timelog.moviebox.baofeng.com
+127.0.0.1 vvlog.moviebox.baofeng.com
+127.0.0.1 action.logger.baofeng.com
+127.0.0.1 duration.logger.baofeng.com
+127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 tips.logger.baofeng.com
+127.0.0.1 tree.logger.baofeng.com
+127.0.0.1 config.baofeng.net
+127.0.0.1 loading.baofeng5.baofeng.net
+127.0.0.1 onlinetips.baofeng5.baofeng.net
+127.0.0.1 ck.houyi.baofeng.net
+127.0.0.1 corner.houyi.baofeng.net
+127.0.0.1 d3f.houyi.baofeng.net
+127.0.0.1 fyd.houyi.baofeng.net
+127.0.0.1 log.houyi.baofeng.net
+127.0.0.1 mid.houyi.baofeng.net
+127.0.0.1 parser.houyi.baofeng.net
+127.0.0.1 static.houyi.baofeng.net
+127.0.0.1 web.houyi.baofeng.net
+127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 xs.houyi.baofeng.net
+127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 jfm4.pop.baofeng.net
+127.0.0.1 listlog.baofeng.net
+127.0.0.1 nclog.mars.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
+#http://www.kankan.com/
+127.0.0.1 biz5.kankan.com
+127.0.0.1 kkpgv.kankan.com
+127.0.0.1 kkpgv2.kankan.com
+127.0.0.1 count.cpm.cm.kankan.com
+127.0.0.1 distf.stat.kankan.com
+127.0.0.1 pixel.advertising.com
+127.0.0.1 loadm.exelator.com
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
+#http://www.ku6.com/
+127.0.0.1 addata.ku6.com
+127.0.0.1 pvdata.ku6.com
+127.0.0.1 api.uniplayad.com
+127.0.0.1 same.mzy2014.com
+#http://www.le.com/
+127.0.0.1 api.push.le.com
+127.0.0.1 cn.api.push.le.com
+127.0.0.1 ark.letv.com
+127.0.0.1 fz.letv.com
+127.0.0.1 g3.letv.com
+127.0.0.1 cdn.zampdsp.com
+127.0.0.1 s.zampdsp.com
+127.0.0.1 www.zamplus.com
+127.0.0.1 cm.fancyapi.com
+127.0.0.1 cm.zhiziyun.com
+#http://www.mgtv.com/
+127.0.0.1 as.mgtv.com
+127.0.0.1 cdn.cmop.mgtv.com
+127.0.0.1 cmop.mgtv.com
+127.0.0.1 disp.titan.mgtv.com
+127.0.0.1 disp1.titan.mgtv.com
+127.0.0.1 pc.bz.mgtv.com
+127.0.0.1 pc.da.mgtv.com
+127.0.0.1 flv.res.hunantv.com
+127.0.0.1 log.da.hunantv.com
+127.0.0.1 log.v2.hunantv.com
+127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 player.log.hunantv.com
+127.0.0.1 v1.play.log.hunantv.com
+127.0.0.1 v1.res.log.hunantv.com
+127.0.0.1 v2.log.hunantv.com
+127.0.0.1 v2.res.log.hunantv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 y.da.hunantv.com
+#http://m.youku.com/
+127.0.0.1 adp.atm.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 m.atm.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 push.m.youku.com
+#http://www.youku.com/
+127.0.0.1 bsv.atm.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 ipm.atm.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 valt.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 dmapp.youku.com
+127.0.0.1 service.danmu.youku.com

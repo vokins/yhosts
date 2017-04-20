@@ -120,6 +120,7 @@
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
 127.0.0.1 nsclick.baidu.com
@@ -183,12 +184,13 @@
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
 @base-qq
-#analytics
+#mstat/report
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.play.ott.video.qq.com
 127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
@@ -282,6 +284,7 @@
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
+127.0.0.1 i.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com

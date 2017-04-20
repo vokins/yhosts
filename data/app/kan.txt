@@ -1,0 +1,46 @@
+#https://1kxun.mobi/download/index
+127.0.0.1 ad.1kxun.com
+127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
+127.0.0.1 tcad.wedolook.com
+#https://sites.google.com/site/mxvpen/
+127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
+127.0.0.1 tracking-server-prod-1.zenmxapps.com
+#http://www.togic.com/wap/download.html
+127.0.0.1 livep.l.ott.video.qq.com
+127.0.0.1 lives.l.ott.video.qq.com
+#http://www.yuntutv.net/
+127.0.0.1 adm.zookingsoft.com
+127.0.0.1 ytapi1.nagezan.net
+127.0.0.1 static.live.nagezan.net
+127.0.0.1 cdntest.a8tiyu.com
+127.0.0.1 m.1768.com
+#app.starschina.com
+127.0.0.1 ad-cache.dopool.com
+127.0.0.1 adapi.starschina.com
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 app.starschina.com
+127.0.0.1 ssp.cibn.starschina.com
+127.0.0.1 ssp.tadseeker.com
+#cctv
+127.0.0.1 rtas.videocc.net
+#fun.tv
+127.0.0.1 aa0.pub.funshion.com
+127.0.0.1 aa1.pub.funshion.com
+127.0.0.1 adm.funshion.com
+127.0.0.1 conf.funshion.com
+127.0.0.1 jobsfe.funshion.com
+127.0.0.1 pub.funshion.com
+127.0.0.1 rt.funshion.net
+127.0.0.1 stat.funshion.net
+127.0.0.1 fun.adx.admaster.com.cn
+#molitv.cn
+127.0.0.1 ad.molitv.cn
+127.0.0.1 log.molitv.cn
+127.0.0.1 log.tv.moliv.cn
+127.0.0.1 track.molitv.cn
+#wasu.cn
+127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 delivery.wasu.cn
+127.0.0.1 delivery.maihehd.com
+#yeshitv.com
+127.0.0.1 ad.yeshitv.com
