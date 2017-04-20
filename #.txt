@@ -1,6 +1,23 @@
 ﻿127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 mdc.html5.qq.com 微信等诱导下载qq浏览器
+http://e.tf.360.cn:443
+http://s.360.cn:443
+http://open.bmob.cn/8/secret
+http://click.supfast.net/network/2256.gif?token=F9F0379670E5D4AB99A584D96A6CC480&pos=10&bid=2256&udid=cfbbc6254e1147568f5f392e5ddd28550b096efe&pid=100045112&tag=e7c051120ab4eef465076637c9e3a5d9&adformat=customAds&customAdFormatId=2256&sdkVersion=1.6.9
+http://apps.supfast.net/redirect?signature=2c029e0&url=http%3A%2F%2Fapk.supfast.net%2Fb%2Fb4%2F89d9d24749e0eed2311562b0c1c46b4b.apk&token=F9F0379670E5D4AB99A584D96A6CC480&pos=10&udid=cfbbc6254e1147568f5f392e5ddd28550b096efe&pid=100045112&tag=e7c051120ab4eef465076637c9e3a5d9&adformat=customAds&customAdFormatId=2256&sdkVersion=1.6.9&callbackurl=http%3A%2F%2Fclick.hy01.internal.wandoujia.com%2Fnetwork%2Fredirect
+http://l.supfast.net/muce/data/sink?profile=adnetwork&vc=24&vn=1.0.8&gzip=true&encrypt=true&key_version=2
+http://apk.supfast.net/b/b4/89d9d24749e0eed2311562b0c1c46b4b.apk
+http://ads.supfast.net/network/v2/init
+http://ads.supfast.net/network/v3/app/list
+http://click.supfast.net/network/2256.gif?token=F9F0379670E5D4AB99A584D96A6CC480&pos=10&bid=2256&udid=cfbbc6254e1147568f5f392e5ddd28550b096efe&pid=100045112&tag=e7c051120ab4eef465076637c9e3a5d9&adformat=customAds&customAdFormatId=2256&sdkVersion=1.6.9
+http://img.supfast.net/mms/icon/v1/1/92/f8ca431b4308e147483192af58ff1921_78_78.png
+http://l.supfast.net/muce/data/sink?profile=adnetwork&vc=24&vn=1.0.8&gzip=true&encrypt=true&key_version=2
+http://ad.holaq.com:8883/v1/statistics
+http://api.tongji.today/v1/statistics
+http://stat.tongji.today:8883/2/statistics/proxy
+http://c3.moogos.com/js/_jssdk.js?aid=sa66aa86
+http://api.ad.xiaomi.com/appstore/uploadLogSDK
 http://ad.10010.com/uniAdms_2.0/ad/urlProxy?placeCode=ST3_CLIENT_AD_002&&targetUrl=http://m.10010.com/mobilegoodsdetail/171510228344.html&&areaCode=017&&targetId=a36906147eec48efaa67d8e06e39c147&&placeId=8a948d8b4822d57401482f425e700011&&sysId=ST_CLIENT3.0&&template=template_business&&idx=0&&et=et&desmobile=&version=android@5.2
 http://bj.bcebos.com/fc-feed/0/pic/a7a24ee834fbc221985e825333e9bc8b.jpg
 http://bj.bcebos.com/fc-feed/0/pic/261f30fcc12a16a7536042d9939b0cf6.jpg
@@ -8,8 +25,12 @@ http://c.tieba.baidu.com/c/s/inpv
 http://ad.12306.cn:443
 http://adnewnc.app.autohome.com.cn:443
 http://al.autohome.com.cn/app_log_upload
-http://dspmnt.autohome.com.cn/monitor?rtype=1&dpmk=%2BN3mLuQDs16qai9pVVkEWQefk%2BpNtd1TGeKM%2FB77hQpFj9a9D%2FeDDUqI2aMescJXGJ%2FbrQz3hl8didC9EfnWXBqQ1ekK95kGRY6Fol3zggsejtntDfTSB16Rw%2B1Vpd1aXofDvwrzggdFjdGiDfOGD1GJ1ekI7NVbSdjMvV%2F30QxPjYe2CfCMHFCfgOtEqNAcRp%2FQrRDj1VoM0pLmWOOOHE6I2Lke7ZZLD9iT5ljjjhxEi9K3DfmEDUmF0LcN84QcUJ%2BR41210lEO0MO1HvCED02N078M8YccUJ%2BM4F6o2Fsj0pKtBuOFDk2M0bsM8YQMXpHD%2BlKowFcYn9u%2BCPKAEl7ek%2Bpdtd1IGdSFrQbzhA1Oic2tXaXCWw7JiOse%2B4YOTonQox6s1UYjzZPmX6SWBE2N0b8Q49ZXGOKR%2FVWi0RxGjNS2DO2WXRPOldBRrtBbXofQox6i200I4ofuX7XbTF6H0aEK%2BIUIS47SvAT1hQ1Ojtm6EOPXUhXeitBJs9gcRp%2BJ%2B0ixxwRTkouhXbTAURTSjOoSottTUt6PoFWvx0sO3I%2FsWe7EVxLagOFNtNtKHcmI4FLu3VAY2JmwTLfVTBnciOsB84QPRYjVuR7tlk0Z3o7hWJ7WVxif270P9IFD&axd=1&ahxp=BiaZABIhRPSuXixuIw%2BVGGU4%2FaKfgMnZmMTfXw%3D%3D
 http://pvx.autohome.com.cn:443
+http://cmx.autohome.com.cn/cm?ahuid=&dspid=14&1492725240970
+http://rd.autohome.com.cn/adfront/realdeliver?pvid=5a92e1a1-a7a0-4c62-9820-c92ee74389995&ip=&pageid=1492725240071_7085&rand=1492725243344_1863&tp=1&t1=1492725240855&t2=1492725243344
+http://stats.autohome.com.cn/pv_count.php?SiteId=1&CategoryId=40&ref=&cur=http%3A//www.autohome.com.cn/beijing/&rnd=0.7576251806119876&abtest=&ga=1
+http://rd.autohome.com.cn/adfront/realdeliver?pvid=0ddd12fe-5495-466e-b915-f276420a650514&ip=&pageid=1492725240071_7085&rand=1492725243597_5417&tp=0&t1=1492725240855&t2=1492725243597
+http://dspmnt.autohome.com.cn/monitor?rtype=1&dpmk=%2BN3mLuQDs16qai9pVVkEWQefk%2BpNtd1TGeKM%2FB77hQpFj9a9D%2FeDDUqI2aMescJXGJ%2FbrQz3hl8didC9EfnWXBqQ1ekK95kGRY6Fol3zggsejtntDfTSB16Rw%2B1Vpd1aXofDvwrzggdFjdGiDfOGD1GJ1ekI7NVbSdjMvV%2F30QxPjYe2CfCMHFCfgOtEqNAcRp%2FQrRDj1VoM0pLmWOOOHE6I2Lke7ZZLD9iT5ljjjhxEi9K3DfmEDUmF0LcN84QcUJ%2BR41210lEO0MO1HvCED02N078M8YccUJ%2BM4F6o2Fsj0pKtBuOFDk2M0bsM8YQMXpHD%2BlKowFcYn9u%2BCPKAEl7ek%2Bpdtd1IGdSFrQbzhA1Oic2tXaXCWw7JiOse%2B4YOTonQox6s1UYjzZPmX6SWBE2N0b8Q49ZXGOKR%2FVWi0RxGjNS2DO2WXRPOldBRrtBbXofQox6i200I4ofuX7XbTF6H0aEK%2BIUIS47SvAT1hQ1Ojtm6EOPXUhXeitBJs9gcRp%2BJ%2B0ixxwRTkouhXbTAURTSjOoSottTUt6PoFWvx0sO3I%2FsWe7EVxLagOFNtNtKHcmI4FLu3VAY2JmwTLfVTBnciOsB84QPRYjVuR7tlk0Z3o7hWJ7WVxif270P9IFD&axd=1&ahxp=BiaZABIhRPSuXixuIw%2BVGGU4%2FaKfgMnZmMTfXw%3D%3D
 http://apnmedia.ask.com/media/toolbar/stub/1.0.0.0/ApnIC.dll?tb=SPC2&version=1.0.0.0
 http://websearch.ask.com/installed?client=ic&tb=SPC2&dtid=&id=a2303bde-0a35-47de-b077-d0c2f38dcb89&ipid=&iev=9.11.9600.18617&iedis=1&ielu=-2&fflu=-2&iv=&nv=&clientv=5.1.0.0&said=&browser-lang=zh&apn_dbr=cr_&cr=0
 http://img.apnanalytics.com/images/nocache/apn/tr.gif?ev=eichk&cb=&encb=&chk=ifdfcr&ts=cH2Gs&guid=a2303bde-0a35-47de-b077-d0c2f38dcb89&dt=0&wft=local&harch=64&hloc=en&iev=9.11.9600.18617&dbr=3&vb=&msi=&inst=&tb=SPC2&hos=6.1.1.sp1.x64&dot=6
@@ -22,7 +43,6 @@ http://wl.hd.sohu.com/s.gif?prod=flash&systype=1&cid=206104&log=act&from=0&3th=0
 http://imp.optaim.com:443
 http://vm.aty.sohu.com/qs?stime=512&errtype=onStop:s1_19665&adtype=cn/&uuid=d3a44880-fc44-0a20-58e7-8b95270da38e&userid=14926954619983303039&totad=4&currad=1&vid=88675112&out=0&type=oad&adurl=http%253A//data.vod.itc.cn/%253Fpt%253D1%2526pg%253D1%2526prod%253Dad%2526new%253D/190/25/nEaFEd2sSNundlGSvqVXGD.mp4%2526uuid%253Dd3a44880-fc44-0a20-58e7-8b95270da38e&pageUrl=http%253A//my.tv.sohu.com/pl/9307806/88675112.shtml
 http://vm.aty.sohu.com/pvlog?adtime=45&trule=36842&du=367&al=9307806&out=0&au=1&vid=88675112&tvid=88675112&qd=&rt=abfa27fd4a7430407ca8cde4716b4245&uv=14926927026356542050&uuid=d3a44880-fc44-0a20-58e7-8b95270da38e&vt=pgc&rd=my.tv.sohu.com&fee=0&isIf=0&uid=14926954620561442443&myTvUid=296982548&sz=1259_535&md=F3gBMW1EmW7gWLxrpRcwus3tbRaJmCVE4odULg==184&crid=0&ugu=296982548&ugcode=MTInXjaiPhXPfSNIU9Q7L2gJdnLARqhhmFR1PHYtGfTmD6TRoiogWYnRHEgLYCdFqjxZUaEIen4iqmgkBFzhZfGEK4JpsObM_efh&ar=0&sign=qgZD9QW7Lir4ajcFj0iRDORiF42KYEVPaPOi1MPZVsBdg_K78UkFp59YQOwg7aC3VG8QDYCY72p9hVWI&rip=123.166.155.15&sip=&url=http%3A//my.tv.sohu.com/pl/9307806/88675112.shtml&pagerefer=http%3A//www.56.com/&ti=ob62wLKlob+yu7PUu+HLwDEwMLvYtcTKs87vobZMYWR5wcTBxMqxydDIpjIwMTeht0UwNg==&tag=zuXQx77Gteog86bQtyCxsbqjtcAguqPPyg==&lrd=http%3A%2F%2Fwww.56.com%2F&isHplayer=0&vp=e&at=15&c=14908&s1=&v1=19849&v2=19951&adstyle=oad&p=oad1&loc=CN2301&mx=3&rlv=&adstyle=oad&ac=20788&ad=396104&pt=25431&b=470799&bk=111411946&pagetype=1&encrysig=DYF-U2aNHTANhxOaEiT3qVFN-nlh6HB3coh458quRB-rEKOz&encrypt=XHjU9z_1bVjqmOsRezUz8YAbhHDGJ2ydUcCdbA2WCUFj26_S
-
 http://log.tbs.qq.com/ajax?c=dl&k=020777da255b3e203a4cb66dc5bdcf93
 http://securepubads.g.doubleclick.net:443
 http://debugreport.mobiledissector.com/

@@ -65,14 +65,12 @@
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 rd.wan.360.cn
-127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 stats.guess.tf.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 v.tf.360.cn
 127.0.0.1 cm.lianmeng.360.cn
-127.0.0.1 s.360.cn
 127.0.0.1 s.union.360.cn
 #360-mob
 127.0.0.1 api.shuaji.360.cn
@@ -775,7 +773,6 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
 127.0.0.1 union2.50bang.org
-127.0.0.1 engine.tuia.cn
 #235123
 127.0.0.1 c.235123.net
 127.0.0.1 t.235123.net
@@ -1757,6 +1754,13 @@
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
 127.0.0.1 sc.ma.social-touch.com
+#supfast.net
+127.0.0.1 ads.supfast.net
+127.0.0.1 apk.supfast.net
+127.0.0.1 apps.supfast.net
+127.0.0.1 click.supfast.net
+127.0.0.1 img.supfast.net
+127.0.0.1 l.supfast.net
 #ta80.com
 127.0.0.1 good.ta80.com
 127.0.0.1 js.ta80.com

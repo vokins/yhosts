@@ -11,6 +11,8 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+127.0.0.1 s.360.cn
+127.0.0.1 e.tf.360.cn
 #jiagu
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com

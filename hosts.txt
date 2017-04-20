@@ -108,6 +108,8 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+127.0.0.1 s.360.cn
+127.0.0.1 e.tf.360.cn
 #jiagu
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
@@ -1703,10 +1705,13 @@
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 cmx.autohome.com.cn
 127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
 127.0.0.1 pvx.autohome.com.cn
+127.0.0.1 rd.autohome.com.cn
+127.0.0.1 stats.autohome.com.cn
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn
@@ -2251,11 +2256,11 @@
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
-127.0.0.1 pvlog.moviebox.baofeng.net
-127.0.0.1 rec.moviebox.baofeng.net
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv.kankan.com
@@ -2701,6 +2706,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 huan.szrk3.com
 127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
@@ -2962,6 +2968,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com
 127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
@@ -3041,6 +3048,7 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 s.xm9178.com
 127.0.0.1 m.ningdutong.com
 127.0.0.1 m.hhllyt.com
 127.0.0.1 y.xm9178.com
@@ -4254,6 +4262,9 @@
 127.0.0.1 s.sxz67.com
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ioscdn.ywpod3.com
+127.0.0.1 ad.holaq.com
+127.0.0.1 api.tongji.today
+127.0.0.1 stat.tongji.today
 @union-cn
 #163
 127.0.0.1 adgeo.163.com
@@ -4321,14 +4332,12 @@
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 rd.wan.360.cn
-127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 stats.guess.tf.360.cn
 127.0.0.1 tf.360.cn
 127.0.0.1 v.tf.360.cn
 127.0.0.1 cm.lianmeng.360.cn
-127.0.0.1 s.360.cn
 127.0.0.1 s.union.360.cn
 #360-mob
 127.0.0.1 api.shuaji.360.cn
@@ -5031,7 +5040,6 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
 127.0.0.1 union2.50bang.org
-127.0.0.1 engine.tuia.cn
 #235123
 127.0.0.1 c.235123.net
 127.0.0.1 t.235123.net
@@ -6013,6 +6021,13 @@
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
 127.0.0.1 sc.ma.social-touch.com
+#supfast.net
+127.0.0.1 ads.supfast.net
+127.0.0.1 apk.supfast.net
+127.0.0.1 apps.supfast.net
+127.0.0.1 click.supfast.net
+127.0.0.1 img.supfast.net
+127.0.0.1 l.supfast.net
 #ta80.com
 127.0.0.1 good.ta80.com
 127.0.0.1 js.ta80.com

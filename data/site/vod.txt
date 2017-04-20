@@ -53,11 +53,11 @@
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
-127.0.0.1 pvlog.moviebox.baofeng.net
-127.0.0.1 rec.moviebox.baofeng.net
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv.kankan.com

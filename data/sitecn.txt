@@ -195,10 +195,13 @@
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 cmx.autohome.com.cn
 127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
 127.0.0.1 pvx.autohome.com.cn
+127.0.0.1 rd.autohome.com.cn
+127.0.0.1 stats.autohome.com.cn
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
 127.0.0.1 adm2.autoimg.cn
@@ -743,11 +746,11 @@
 127.0.0.1 wl.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
+127.0.0.1 pvlog.moviebox.baofeng.net
+127.0.0.1 rec.moviebox.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
-127.0.0.1 pvlog.moviebox.baofeng.net
-127.0.0.1 rec.moviebox.baofeng.net
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv.kankan.com

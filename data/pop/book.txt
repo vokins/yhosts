@@ -69,6 +69,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 huan.szrk3.com
 127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 m.laigame7.net
@@ -330,6 +331,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com
 127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
@@ -409,6 +411,7 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 s.xm9178.com
 127.0.0.1 m.ningdutong.com
 127.0.0.1 m.hhllyt.com
 127.0.0.1 y.xm9178.com
