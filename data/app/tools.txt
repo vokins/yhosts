@@ -37,6 +37,8 @@
 #https://www.wifi.com/android/index.html
 127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 news-log.51y5.net
+127.0.0.1 c.wkanx.com
+127.0.0.1 c1.wkanx.com
 #wifiwnmm
 127.0.0.1 wifishow.ggsafe.com
 127.0.0.1 igou.ggsafe.com

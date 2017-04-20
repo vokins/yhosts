@@ -1,5 +1,5 @@
 
-#version=20170421 649
+#version=20170421 653
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1200,6 +1200,8 @@
 127.0.0.1 log-dmp.suishenyun.cn
 127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 news-log.51y5.net
+127.0.0.1 c.wkanx.com
+127.0.0.1 c1.wkanx.com
 127.0.0.1 wifishow.ggsafe.com
 127.0.0.1 igou.ggsafe.com
 127.0.0.1 ad.12306.cn
