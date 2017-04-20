@@ -1,5 +1,5 @@
 
-#version=20170421 711
+#version=20170421 726
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1198,6 +1198,9 @@
 127.0.0.1 pclog.suishenyun.net
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 cds.51y5.net
+127.0.0.1 msg.push.51y5.net
+127.0.0.1 news-img.51y5.net
 127.0.0.1 news-log.51y5.net
 127.0.0.1 news.51y5.net
 127.0.0.1 push-dc.51y5.net

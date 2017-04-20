@@ -1456,6 +1456,9 @@
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
 #https://www.wifi.com/android/index.html
+127.0.0.1 cds.51y5.net
+127.0.0.1 msg.push.51y5.net
+127.0.0.1 news-img.51y5.net
 127.0.0.1 news-log.51y5.net
 127.0.0.1 news.51y5.net
 127.0.0.1 push-dc.51y5.net
