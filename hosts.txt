@@ -1456,10 +1456,13 @@
 127.0.0.1 client-dmp.suishenyun.cn
 127.0.0.1 log-dmp.suishenyun.cn
 #https://www.wifi.com/android/index.html
-127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 news-log.51y5.net
+127.0.0.1 news.51y5.net
+127.0.0.1 push-dc.51y5.net
+127.0.0.1 wifiapi02.51y5.net
 127.0.0.1 c.wkanx.com
 127.0.0.1 c1.wkanx.com
+127.0.0.1 static.wkanx.com
 #wifiwnmm
 127.0.0.1 wifishow.ggsafe.com
 127.0.0.1 igou.ggsafe.com
