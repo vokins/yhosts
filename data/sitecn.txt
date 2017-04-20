@@ -183,6 +183,10 @@
 127.0.0.1 ms.vipstatic.com
 #wepiao.com
 127.0.0.1 ads.wepiao.com
+#yhd.com
+127.0.0.1 api.dsp.yhd.com
+127.0.0.1 click.yhd.com
+127.0.0.1 tracker.yhd.com
 #52che.com
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com

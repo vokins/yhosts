@@ -720,6 +720,7 @@
 127.0.0.1 pv.focus.cn
 127.0.0.1 cdn.optaim.com
 127.0.0.1 clk.optaim.com
+127.0.0.1 cm.optaim.com
 127.0.0.1 demo.optaim.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 tk.optaim.com
@@ -787,16 +788,11 @@
 127.0.0.1 fb.37cs.com
 127.0.0.1 www.37cs.com
 #37wan
-127.0.0.1 gameapp.37.com
-127.0.0.1 gcld.37.com
 127.0.0.1 tg.m.37.com
-127.0.0.1 dl.37wan.cn
 127.0.0.1 a.clickdata.37wan.com
-127.0.0.1 bdtg.37wan.com
 127.0.0.1 pt.clickdata.37wan.com
 127.0.0.1 tao.37wan.com
 127.0.0.1 wz.37wan.com
-127.0.0.1 www.37wan.com
 #3dwwwgame
 127.0.0.1 c02.3dwwwgame.com
 127.0.0.1 d3d.3dwwwgame.com
@@ -1006,6 +1002,7 @@
 127.0.0.1 www.admarket.mobi
 #admaster
 127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 58749.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
@@ -1016,6 +1013,7 @@
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 letv.cm.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
@@ -1296,6 +1294,7 @@
 127.0.0.1 www.bshare.cn
 127.0.0.1 bshare.optimix.asia
 127.0.0.1 bx.optimix.asia
+127.0.0.1 bx01.optimix.asia
 127.0.0.1 c03.optimix.asia
 127.0.0.1 s03.optimix.asia
 127.0.0.1 crystalexpress.optimix.cn
@@ -1410,6 +1409,9 @@
 127.0.0.1 d.emarbox.com
 127.0.0.1 emarbox.com
 127.0.0.1 et.emarbox.com
+127.0.0.1 msdkcoll.emarbox.com
+127.0.0.1 msspjh.emarbox.com
+127.0.0.1 msspsvr.emarbox.com
 127.0.0.1 s.emarbox.com
 127.0.0.1 www.emarbox.com
 #fastapi
@@ -1425,6 +1427,7 @@
 127.0.0.1 imp.gentags.net
 127.0.0.1 pmptrack-yidianzixunxm.gentags.net
 127.0.0.1 pmptrack-youku.gentags.net
+127.0.0.1 pmptrack-letv.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 v-sence.gentags.net
 127.0.0.1 www.gentags.com
@@ -1460,12 +1463,13 @@
 127.0.0.1 www.guomob.com
 #irs
 127.0.0.1 m.irs01.com
-127.0.0.1 yyt.irs01.com
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
+127.0.0.1 letv.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
+127.0.0.1 yyt.irs01.com
 #jesgoo
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com

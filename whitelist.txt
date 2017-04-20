@@ -1,5 +1,8 @@
 ﻿127.0.0.1 games.ifeng.com
 127.0.0.1 info.yahoo.com
+http://po.funshion.com/v7/config/channel?is_new=1&cl=aphone&ve=2.7.2.2&mac=7802f8f2e1ea&uc=99&apptype=aphone_app_main&si=1073&app_code=aphone&fudid=fa82b26035cb34cb06cf37cb7b2549b1e53507bcc3031046cd494fc9cf39d621
+
+127.0.0.1 c.pc.qq.com QQ电脑管家个人中心任务列表出不来
 cookies问题
 127.0.0.1 irs01.com
 127.0.0.1 irs01.net
