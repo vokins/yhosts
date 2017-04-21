@@ -1,5 +1,5 @@
 
-#version=201704211934
+#version=201704211942
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1697,6 +1697,7 @@
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net
 127.0.0.1 js.mumayi.net
+127.0.0.1 icons.mydrivers.com
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net
 127.0.0.1 imgad0.3conline.com
