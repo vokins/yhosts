@@ -1,5 +1,5 @@
 
-#version=20170421 726
+#version=201704211934
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -473,6 +473,7 @@
 127.0.0.1 xiazai.jlaee.com
 127.0.0.1 apnmedia.ask.com
 127.0.0.1 img.apnanalytics.com
+127.0.0.1 www.2345at.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
@@ -1220,6 +1221,8 @@
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 ad.caiyunapp.com
+127.0.0.1 mbd.weathercn.com
+127.0.0.1 mbs.weathercn.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 adlaunch.moji.com
 127.0.0.1 fds.api.moji.com
@@ -1634,11 +1637,13 @@
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
-127.0.0.1 images2.4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
+127.0.0.1 js.4hw.com.cn
 127.0.0.1 ssp.4hw.com.cn
 127.0.0.1 jb.mbaidu.top
 127.0.0.1 js.mbaidu.top
+127.0.0.1 jb.mnkan.com
+127.0.0.1 js.mnkan.com
 127.0.0.1 d1.mobaders.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 funexist.com
@@ -3164,6 +3169,11 @@
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 s.mt145.com
 127.0.0.1 down.goziti.com
+127.0.0.1 js.5068.com
+127.0.0.1 s.yanpoly.com
+127.0.0.1 urh.tylll.com
+127.0.0.1 zjjgtz.com
+127.0.0.1 www.zjjgtz.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 s.jzv1.com
 127.0.0.1 ss.shuajuzu.com

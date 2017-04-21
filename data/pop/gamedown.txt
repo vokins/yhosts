@@ -8,6 +8,12 @@
 127.0.0.1 p.tamenshuo.com
 127.0.0.1 s.mt145.com
 127.0.0.1 down.goziti.com
+#m.yxzoo.com
+127.0.0.1 js.5068.com
+127.0.0.1 s.yanpoly.com
+127.0.0.1 urh.tylll.com
+127.0.0.1 zjjgtz.com
+127.0.0.1 www.zjjgtz.com
 #www.diyiapp.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 s.jzv1.com

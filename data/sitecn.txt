@@ -511,11 +511,13 @@
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
 #4hw.com.cn
-127.0.0.1 images2.4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
+127.0.0.1 js.4hw.com.cn
 127.0.0.1 ssp.4hw.com.cn
 127.0.0.1 jb.mbaidu.top
 127.0.0.1 js.mbaidu.top
+127.0.0.1 jb.mnkan.com
+127.0.0.1 js.mnkan.com
 127.0.0.1 d1.mobaders.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 funexist.com
