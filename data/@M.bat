@@ -1,4 +1,4 @@
-ver=обнГ6:11 2017/4/18
+ver=обнГ7:43 2017/4/21
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -16,7 +16,7 @@ del /f pop.txt union.txt app.txt
 exit
 
 :del
-del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt
+del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt sitecn.txt
 goto :eof
 
 :bat
