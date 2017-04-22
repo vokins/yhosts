@@ -1,4 +1,4 @@
-ver=обнГ7:43 2017/4/21
+ver=обнГ8:10 2017/4/22
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -12,11 +12,11 @@ rem "%~dp0win\dos2unix.exe" -n 1A.txt hosts.txt
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
-del /f pop.txt union.txt app.txt
+del /f pop.txt union.txt app.txt sitecn.txt
 exit
 
 :del
-del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt sitecn.txt
+del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt
 goto :eof
 
 :bat
