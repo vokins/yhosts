@@ -45,6 +45,11 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 img.jsjpac.com
+127.0.0.1 j.klsdmr.com
+127.0.0.1 count.qiqipower.com
+127.0.0.1 yunbofangbt.com
+127.0.0.1 js.hhcskj.com
 127.0.0.1 js89.shanglinli.com
 127.0.0.1 b.xm9178.com
 127.0.0.1 t.jqpszdq.com

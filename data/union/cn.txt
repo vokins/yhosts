@@ -1485,10 +1485,12 @@
 127.0.0.1 sis.jpush.io
 127.0.0.1 update.sdk.jiguang.cn
 #jointreport-switch.com
+127.0.0.1 demo.jointreport-switch.com
 127.0.0.1 lg2.jointreport-switch.com
+127.0.0.1 media-static.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 popup.jointreport-switch.com
-127.0.0.1 media-static.jointreport-switch.com
+127.0.0.1 static.jointreport-switch.com
 #jpush
 127.0.0.1 www.jpush.cn
 #juzi
