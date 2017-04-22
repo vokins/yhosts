@@ -1,6 +1,22 @@
 ﻿127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 mdc.html5.qq.com 微信等诱导下载qq浏览器
+关于删除hosts里有关dnsmasq.conf的域名的脚本命令：
+
+#!/bin/sh 
+cd /storage/sdcard1/hosts
+awk -F/ '{print $2}' dnsmasq.conf > domain
+sed -i 's#^\.#\\\.#g' domain
+
+for abc in $(cat domain)
+do
+sed -i "/$abc/d" hosts
+done
+
+rm domain
+
+这样能减少一千多条hosts域名
+
 http://push-dc.51y5.net/dc/hou.scmd
 http://static.wkanx.com/w001/M00/10/E2/Cgp4R1jXSiSAMNzlAABSdiBnE84554.png
 http://news.51y5.net/news/fa.sec

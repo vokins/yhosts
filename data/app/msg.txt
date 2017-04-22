@@ -12,6 +12,3 @@
 127.0.0.1 ad.yixin.im
 #https://twitter.com/
 127.0.0.1 static.ads-twitter.com
-#http://www.10010.com/
-127.0.0.1 ad.10010.com
-127.0.0.1 m1.ad.10010.com
