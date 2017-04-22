@@ -171,6 +171,7 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 themis.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 api.mobile.youku.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.l.youku.com

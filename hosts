@@ -1,5 +1,5 @@
 
-#version=201704222146
+#version=201704222217
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1886,6 +1886,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 service.danmu.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 dc.ads.linkedin.com
@@ -3598,6 +3599,10 @@
 127.0.0.1 ad.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
+127.0.0.1 rh.code.jjyx.com
+127.0.0.1 c.yisu.com
+127.0.0.1 tb.code.twyxi.com
+127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
@@ -5994,6 +5999,7 @@
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 themis.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 api.mobile.youku.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.l.youku.com

@@ -2341,6 +2341,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 service.danmu.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
 @site-foregin
 @site-foregin/adult
 #91porn.com
@@ -4293,6 +4294,10 @@
 127.0.0.1 ad.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
+127.0.0.1 rh.code.jjyx.com
+127.0.0.1 c.yisu.com
+127.0.0.1 tb.code.twyxi.com
+127.0.0.1 sycnzz.17tanwan.com
 @union-cn
 #163
 127.0.0.1 adgeo.163.com

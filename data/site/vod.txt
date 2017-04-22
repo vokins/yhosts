@@ -125,3 +125,4 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 service.danmu.youku.com
+127.0.0.1 api.gamex.mobile.youku.com

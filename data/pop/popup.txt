@@ -177,3 +177,7 @@
 127.0.0.1 ad.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
+127.0.0.1 rh.code.jjyx.com
+127.0.0.1 c.yisu.com
+127.0.0.1 tb.code.twyxi.com
+127.0.0.1 sycnzz.17tanwan.com
