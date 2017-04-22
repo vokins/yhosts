@@ -1,5 +1,7 @@
 ﻿127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
+127.0.0.1 r.cnews.qq.com
+127.0.0.1 w.cnews.qq.com
 127.0.0.1 mdc.html5.qq.com 微信等诱导下载qq浏览器
 关于删除hosts里有关dnsmasq.conf的域名的脚本命令：
 

@@ -1344,7 +1344,7 @@
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 tjlog.ps.easou.com
-#https://flipboard.com/
+#https://flipboard.com
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 #http://i.ifeng.com/
@@ -1367,8 +1367,6 @@
 #http://kuaibao.qq.com/mobile.html
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
-127.0.0.1 r.cnews.qq.com
-127.0.0.1 w.cnews.qq.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 ss.missyouxi.com

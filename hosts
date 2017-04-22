@@ -1,5 +1,5 @@
 
-#version=201704222137
+#version=201704222146
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1129,8 +1129,6 @@
 127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
-127.0.0.1 r.cnews.qq.com
-127.0.0.1 w.cnews.qq.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 ss.missyouxi.com
