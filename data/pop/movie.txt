@@ -53,6 +53,8 @@
 #www.bd-film.com
 127.0.0.1 www.youfumei.com
 #www.dy2018.com
+127.0.0.1 jsjs.nthyn.com
+127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.gaore.com
 #www.dysfz.net
 127.0.0.1 dd.70yst.com

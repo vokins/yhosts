@@ -2195,6 +2195,8 @@
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
+#https://m.kdslife.com/
+127.0.0.1 www.hxyifu.com
 #mop.com
 127.0.0.1 pub.mop.com
 #renren.com
@@ -4055,6 +4057,8 @@
 #www.bd-film.com
 127.0.0.1 www.youfumei.com
 #www.dy2018.com
+127.0.0.1 jsjs.nthyn.com
+127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.gaore.com
 #www.dysfz.net
 127.0.0.1 dd.70yst.com

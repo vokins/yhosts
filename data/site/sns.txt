@@ -32,6 +32,8 @@
 127.0.0.1 super.kdnet.net
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
+#https://m.kdslife.com/
+127.0.0.1 www.hxyifu.com
 #mop.com
 127.0.0.1 pub.mop.com
 #renren.com

@@ -58,3 +58,4 @@ http://www.btbtdy.com/js/go/s29778
 http://www.btmango.com/templates/0111/style/indexgg.js
 http://www.smdy66.com/js/ggb.js
 http://www.tianyucangqiong1.com/static/js/up.js
+http://www.dy2018.com/js17/syf.js
