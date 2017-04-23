@@ -2,6 +2,7 @@
 127.0.0.1 info.yahoo.com
 127.0.0.1 images2.4hw.com.cn
 127.0.0.1 api.mobile.youku.com
+127.0.0.1 i1.go2yd.com
 #http://www.10010.com/
 127.0.0.1 ad.10010.com
 127.0.0.1 m1.ad.10010.com

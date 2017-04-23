@@ -1714,6 +1714,7 @@
 127.0.0.1 ip2.pxene.com
 #qchannel
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 #qtmojo
 127.0.0.1 1.qtmojo.cn

@@ -1,5 +1,5 @@
 
-#version=201704231036
+#version=201704231217
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -730,7 +730,7 @@
 127.0.0.1 news.docer.com
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
-127.0.0.1 i1.go2yd.com
+127.0.0.1 rl.go2yd.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
@@ -5153,6 +5153,7 @@
 127.0.0.1 w.punchbox.org
 127.0.0.1 ip2.pxene.com
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 1.qtmojo.cn
 127.0.0.1 creatim.qtmojo.cn

@@ -102,7 +102,7 @@
 127.0.0.1 news.docer.com
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
-127.0.0.1 i1.go2yd.com
+127.0.0.1 rl.go2yd.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
