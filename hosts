@@ -1,5 +1,5 @@
 
-#version=201704222331
+#version=201704231036
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -294,11 +294,12 @@
 127.0.0.1 tongji.leju.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
-127.0.0.1 u1.img.mobile.sina.cn
-127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 dp.im.weibo.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
 127.0.0.1 images.sohu.com
 127.0.0.1 pv.sohu.com
