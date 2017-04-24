@@ -1,5 +1,5 @@
 
-#version=201704232209
+#version=201704241116
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1758,6 +1758,7 @@
 127.0.0.1 super.cat898.com
 127.0.0.1 tracking.cat898.com
 127.0.0.1 www.hxyifu.com
+127.0.0.1 hz.miercn.com
 127.0.0.1 pub.mop.com
 127.0.0.1 jebe.xnimg.cn
 127.0.0.1 bolt.jebe.renren.com
