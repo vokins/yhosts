@@ -6896,3 +6896,23 @@
 127.0.0.1 20170429.logic.cpm.cm.kankan.com
 127.0.0.1 20170430.logic.cpm.cm.kankan.com
 127.0.0.1 20170431.logic.cpm.cm.kankan.com
+
+#@temporary.txt
+#http://www.fanhome.org
+127.0.0.1 m.baidu.com.zhiduo.org
+#m.1xiaoshuo.com
+127.0.0.1 zen.ztidu.com
+127.0.0.1 m.ky666666.com
+#m.5442.com
+127.0.0.1 xxx.caip2y.com
+#m.bookben.com
+127.0.0.1 s.nyydj.com
+#m.shumilou.co
+127.0.0.1 p.dandan19.top
+127.0.0.1 mm.njfsk.com
+#m.xs222.com
+127.0.0.1 m.papajia55.com
+#m.hsmil.com
+127.0.0.1 i5.hsmil.com
+127.0.0.1 i6.hsmil.com
+
