@@ -18,3 +18,8 @@
 127.0.0.1 i6.hsmil.com
 #http://www.btbtt.co/
 127.0.0.1 bbsimages.zkxf119.com
+#m.chinabig.com.cn/ m.huanqiumil.com
+#百度广告
+127.0.0.1 bdjiaoben.wmxa.cn
+127.0.0.1 a2.huanqiumil.com
+127.0.0.1 a1.huanqiumil.com
