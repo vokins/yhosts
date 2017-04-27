@@ -1447,7 +1447,6 @@
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
-127.0.0.1 api.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 t.growingio.com
 127.0.0.1 tags.growingio.com
