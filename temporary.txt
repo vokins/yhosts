@@ -16,4 +16,5 @@
 #m.hsmil.com
 127.0.0.1 i5.hsmil.com
 127.0.0.1 i6.hsmil.com
-
+#http://www.btbtt.co/
+127.0.0.1 bbsimages.zkxf119.com

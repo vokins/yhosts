@@ -11,7 +11,6 @@
 127.0.0.1 jinrong.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 static.m.sjzhushou.com
-127.0.0.1 img.momocdn.com
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
