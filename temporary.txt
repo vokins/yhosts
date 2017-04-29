@@ -28,6 +28,11 @@
 #btdb.in
 127.0.0.1 www.bgpxrwjrbsjb.com
 127.0.0.1 www.bzfguipyjops.com
+127.0.0.1 mlvc4zzw.space
+127.0.0.1 cd8iw9mh.cricket
+127.0.0.1 play.entretenimientolz.com
+127.0.0.1 1wzfew7a.site
+127.0.0.1 gjol8ib0.website
 #btdigg.pw
 127.0.0.1 m3a425.wdalk.com
 127.0.0.1 z2.lnymd.com
