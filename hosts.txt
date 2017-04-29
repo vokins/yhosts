@@ -6933,4 +6933,6 @@
 127.0.0.1 img.uyangyong.cn
 127.0.0.1 pic.by175.com
 127.0.0.1 jpg.hj753.com
-
+127.0.0.1 js.adxkj.com
+127.0.0.1 kob.adxkj.com
+127.0.0.1 2017img.myxh999.com
