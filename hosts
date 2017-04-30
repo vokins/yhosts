@@ -1,4 +1,4 @@
-#version=20170429
+#version=20170430
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -6099,20 +6099,21 @@
 127.0.0.1 i6.hsmil.com
 #http://www.btbtt.co/
 127.0.0.1 bbsimages.zkxf119.com
-#m.chinabig.com.cn/ m.huanqiumil.com
-#百度广告
+#m.chinabig.com.cn/ m.huanqiumil.com（百度广告）
 127.0.0.1 bdjiaoben.wmxa.cn
 127.0.0.1 a2.huanqiumil.com
 127.0.0.1 a1.huanqiumil.com
+#bbs.hiapk.com
+127.0.0.1 s1.hiapk.com
+127.0.0.1 s2.hiapk.com
+
 #BT
 #btdb.in
 127.0.0.1 www.bgpxrwjrbsjb.com
 127.0.0.1 www.bzfguipyjops.com
-127.0.0.1 mlvc4zzw.space
-127.0.0.1 cd8iw9mh.cricket
-127.0.0.1 play.entretenimientolz.com
-127.0.0.1 1wzfew7a.site
-127.0.0.1 gjol8ib0.website
+127.0.0.1 www.amhpbhyxfgvd.com
+127.0.0.1 amhpbhyxfgvd.com
+127.0.0.1 www.nxcxithvcoeh.com
 #btdigg.pw
 127.0.0.1 m3a425.wdalk.com
 127.0.0.1 z2.lnymd.com
@@ -6125,3 +6126,26 @@
 127.0.0.1 js.adxkj.com
 127.0.0.1 kob.adxkj.com
 127.0.0.1 2017img.myxh999.com
+
+#小说网广告js获取
+127.0.0.1 bmw.caip2y.com
+127.0.0.1 s.gqswg.com
+127.0.0.1 www.yhwjd.com
+127.0.0.1 xzl.caip2y.com
+127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 su.baidu.com
+127.0.0.1 www.sxdyrq.com
+127.0.0.1 in.gqswg.com
+127.0.0.1 m.andgongge.com
+127.0.0.1 m.chenhuia.com
+127.0.0.1 me.fqtra.com
+127.0.0.1 e.andgongge.com
+127.0.0.1 m.joyfuldoors.com
+127.0.0.1 m.qoiusky.com
+127.0.0.1 s.ndtzx.com
+127.0.0.1 e.jossuer.net
+127.0.0.1 m.jossuer.net
+127.0.0.1 m.lnzangcha.com
+127.0.0.1 dd.m.dingdianzw.com
+127.0.0.1 e.lnzangcha.com
+127.0.0.1 f3.vedeh.com
