@@ -1,4 +1,4 @@
-#version=20170430
+#version=20170503
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -94,7 +94,6 @@
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
-127.0.0.1 tce.alicdn.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
@@ -6106,14 +6105,15 @@
 #bbs.hiapk.com
 127.0.0.1 s1.hiapk.com
 127.0.0.1 s2.hiapk.com
+#m.5857.com
+127.0.0.1 statics.9669.com
+#小米天气
+127.0.0.1 wtradv.market.xiaomi.com
 
 #BT
 #btdb.in
-127.0.0.1 www.bgpxrwjrbsjb.com
-127.0.0.1 www.bzfguipyjops.com
-127.0.0.1 www.amhpbhyxfgvd.com
-127.0.0.1 amhpbhyxfgvd.com
-127.0.0.1 www.nxcxithvcoeh.com
+127.0.0.1 www.vduswjwfcexa.com
+127.0.0.1 vduswjwfcexa.com
 #btdigg.pw
 127.0.0.1 m3a425.wdalk.com
 127.0.0.1 z2.lnymd.com
