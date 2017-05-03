@@ -589,7 +589,6 @@
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
-127.0.0.1 wap.koudaitong.com
 @errorpage/inside
 @hijack/operators
 #10000
