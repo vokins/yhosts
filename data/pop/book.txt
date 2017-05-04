@@ -1,5 +1,7 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 ke.njwxh.com
+127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 zen.ztidu.com
 127.0.0.1 m.ky666666.com
 127.0.0.1 nian.dshrx.com
@@ -71,6 +73,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 neng.ynmbz.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 kuang.myzk1.com
 127.0.0.1 j.fd7c.com
@@ -88,9 +91,12 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.kooyum.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.xhxnkyy.com
+127.0.0.1 e.xhxnkyy.com
 127.0.0.1 m.cqftonline.com
 127.0.0.1 e.cqftonline.com
 127.0.0.1 m.maisoncherry.com
@@ -389,7 +395,12 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+#m.xqingdou.com
+127.0.0.1 js.qxjdlf.com
+127.0.0.1 db.dghrwj.com
+127.0.0.1 crtl.322927.com
 #m.xs177.com
+127.0.0.1 w.cube3d.cn
 127.0.0.1 w.xayjr.cn
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.1lib.cn
