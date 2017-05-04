@@ -20,7 +20,8 @@ http://m.lanseshuba.com/js/pingao.js
 http://m.nenzei.net/qb/index.js
 http://m.nenzei.net/qb/top.js
 http://m.nenzei.net/qb/up.js
-http://m.qu.la/stylewap/js/wap.js
+http://m.xqingdou.com/js/baidu.js
+http://m.qu.la/js/wap.js
 http://m.sanhao3.com/js/komdimgexmlld.js
 http://m.sanhao3.com/wap/wddxs/wap.js
 http://m.shenmabook.com/wap/dun.js

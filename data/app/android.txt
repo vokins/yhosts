@@ -154,10 +154,10 @@
 #miui-calendar
 127.0.0.1 api.comm.miui.com
 #miui-download
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 etl.xlmc.sandai.net
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 tw13b093.sandai.net
@@ -172,6 +172,7 @@
 127.0.0.1 api.sec.miui.com
 127.0.0.1 info.sec.miui.com
 #miui-weather
+127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 staging.admin.e.mi.com
 @mokee
 127.0.0.1 stats.mokeedev.com

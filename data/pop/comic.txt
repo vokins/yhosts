@@ -1,6 +1,8 @@
 @site/comic
 #a.acgluna.com
 127.0.0.1 s.lhusy.com
+#m.5857.com
+127.0.0.1 statics.9669.com
 #m.733dm.net
 127.0.0.1 www.beibeigoudai.com
 127.0.0.1 www.koudai6.com

@@ -920,10 +920,10 @@
 #miui-calendar
 127.0.0.1 api.comm.miui.com
 #miui-download
-127.0.0.1 sousuo.xm.sjzhushou.com
-127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 etl.xlmc.sandai.net
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 sousuo.xm.sjzhushou.com
+127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 tw13b093.sandai.net
@@ -938,6 +938,7 @@
 127.0.0.1 api.sec.miui.com
 127.0.0.1 info.sec.miui.com
 #miui-weather
+127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 staging.admin.e.mi.com
 @mokee
 127.0.0.1 stats.mokeedev.com
@@ -2047,6 +2048,9 @@
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#bbs.hiapk.com
+127.0.0.1 s1.hiapk.com
+127.0.0.1 s2.hiapk.com
 #blueidea.com
 127.0.0.1 gg.blueidea.com
 #chinacsky.com
@@ -2655,6 +2659,8 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 zen.ztidu.com
+127.0.0.1 m.ky666666.com
 127.0.0.1 nian.dshrx.com
 127.0.0.1 m.cqfangduan.com
 127.0.0.1 zhou.qhaif.com
@@ -2779,6 +2785,7 @@
 #m.bookben.com
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.nyydj.com
 127.0.0.1 s.smxsg.com
 127.0.0.1 in.jxbjt.com
 127.0.0.1 uu.85655095.com
@@ -2989,6 +2996,8 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 p.dandan19.top
+127.0.0.1 mm.njfsk.com
 127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com
 127.0.0.1 mm.nngft.com
@@ -3051,6 +3060,7 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 m.xul478.com
+127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
 127.0.0.1 e.maibahe300cc.com
@@ -3059,6 +3069,7 @@
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 iiehdh.wap.xxbiquge.com
+127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 c.bccyyc.com
 127.0.0.1 c.mytzdhz.cn
@@ -3104,6 +3115,10 @@
 #www.shuaigay.top
 127.0.0.1 img.bdaerfa.com
 127.0.0.1 lz.bdaerfa.com
+127.0.0.1 in.ndtzx.com
+127.0.0.1 img1.yyape.com
+127.0.0.1 img2.yyape.com
+127.0.0.1 in.smxsg.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 www.a0c77.com
 127.0.0.1 s.yfycy.com
@@ -3153,6 +3168,26 @@
 127.0.0.1 tt.zrpfk.com
 127.0.0.1 ts.xitao3.com
 127.0.0.1 pv.fq9r.com
+127.0.0.1 bmw.caip2y.com
+127.0.0.1 s.gqswg.com
+127.0.0.1 www.yhwjd.com
+127.0.0.1 xzl.caip2y.com
+127.0.0.1 www.sxdyrq.com
+127.0.0.1 in.gqswg.com
+127.0.0.1 m.andgongge.com
+127.0.0.1 m.chenhuia.com
+127.0.0.1 me.fqtra.com
+127.0.0.1 e.andgongge.com
+127.0.0.1 m.joyfuldoors.com
+127.0.0.1 m.qoiusky.com
+127.0.0.1 s.ndtzx.com
+127.0.0.1 e.jossuer.net
+127.0.0.1 m.jossuer.net
+127.0.0.1 m.lnzangcha.com
+127.0.0.1 dd.m.dingdianzw.com
+127.0.0.1 e.lnzangcha.com
+127.0.0.1 f3.vedeh.com
+127.0.0.1 su.baidu.com
 @site/bt
 #bt.orzx.im
 127.0.0.1 njs.hcm94alliance.com
@@ -3181,6 +3216,8 @@
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 affiliategroove.com
+127.0.0.1 www.vduswjwfcexa.com
+127.0.0.1 vduswjwfcexa.com
 127.0.0.1 www.hvfzshrpfueb.com
 127.0.0.1 hvfzshrpfueb.com
 127.0.0.1 www.uzbciwrwzzhs.com
@@ -3200,6 +3237,17 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 m3a425.wdalk.com
+127.0.0.1 z2.lnymd.com
+127.0.0.1 kd.zzhengre.com
+127.0.0.1 v7.kawinhome.com
+127.0.0.1 js43.hailiao520.com
+127.0.0.1 img.uyangyong.cn
+127.0.0.1 pic.by175.com
+127.0.0.1 jpg.hj753.com
+127.0.0.1 js.adxkj.com
+127.0.0.1 kob.adxkj.com
+127.0.0.1 2017img.myxh999.com
 127.0.0.1 img.jsjpac.com
 127.0.0.1 j.klsdmr.com
 127.0.0.1 count.qiqipower.com
@@ -3479,9 +3527,13 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+#http://www.btbtt.co/
+127.0.0.1 bbsimages.zkxf119.com
 @site/comic
 #a.acgluna.com
 127.0.0.1 s.lhusy.com
+#m.5857.com
+127.0.0.1 statics.9669.com
 #m.733dm.net
 127.0.0.1 www.beibeigoudai.com
 127.0.0.1 www.koudai6.com
@@ -3853,6 +3905,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 xxx.caip2y.com
 127.0.0.1 v.huomob.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 bdjs.2344.com
@@ -3916,6 +3969,8 @@
 127.0.0.1 www.4207008.com
 127.0.0.1 www-777563.com
 127.0.0.1 www.222627.com
+#http://www.fanhome.org
+127.0.0.1 m.baidu.com.zhiduo.org
 #http://www.tuj8.net/
 127.0.0.1 a.e7009.com
 127.0.0.1 d.qceg.net
@@ -3947,6 +4002,13 @@
 127.0.0.1 ma2.meishij.net
 #m.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
+#m.chinabig.com.cn/m.huanqiumil.com
+127.0.0.1 bdjiaoben.wmxa.cn
+127.0.0.1 a2.huanqiumil.com
+127.0.0.1 a1.huanqiumil.com
+#m.hsmil.com
+127.0.0.1 i5.hsmil.com
+127.0.0.1 i6.hsmil.com
 #m.souid.com
 127.0.0.1 vi1.souid.com
 #m.v4.cc
@@ -6861,106 +6923,34 @@
 127.0.0.1 mg.yadro.ru
 #yandex.ru
 127.0.0.1 mc.yandex.ru
-127.0.0.1 20170401.logic.cpm.cm.kankan.com
-127.0.0.1 20170402.logic.cpm.cm.kankan.com
-127.0.0.1 20170403.logic.cpm.cm.kankan.com
-127.0.0.1 20170404.logic.cpm.cm.kankan.com
-127.0.0.1 20170405.logic.cpm.cm.kankan.com
-127.0.0.1 20170406.logic.cpm.cm.kankan.com
-127.0.0.1 20170407.logic.cpm.cm.kankan.com
-127.0.0.1 20170408.logic.cpm.cm.kankan.com
-127.0.0.1 20170409.logic.cpm.cm.kankan.com
-127.0.0.1 20170410.logic.cpm.cm.kankan.com
-127.0.0.1 20170411.logic.cpm.cm.kankan.com
-127.0.0.1 20170412.logic.cpm.cm.kankan.com
-127.0.0.1 20170413.logic.cpm.cm.kankan.com
-127.0.0.1 20170414.logic.cpm.cm.kankan.com
-127.0.0.1 20170415.logic.cpm.cm.kankan.com
-127.0.0.1 20170416.logic.cpm.cm.kankan.com
-127.0.0.1 20170417.logic.cpm.cm.kankan.com
-127.0.0.1 20170418.logic.cpm.cm.kankan.com
-127.0.0.1 20170419.logic.cpm.cm.kankan.com
-127.0.0.1 20170420.logic.cpm.cm.kankan.com
-127.0.0.1 20170421.logic.cpm.cm.kankan.com
-127.0.0.1 20170422.logic.cpm.cm.kankan.com
-127.0.0.1 20170423.logic.cpm.cm.kankan.com
-127.0.0.1 20170424.logic.cpm.cm.kankan.com
-127.0.0.1 20170425.logic.cpm.cm.kankan.com
-127.0.0.1 20170426.logic.cpm.cm.kankan.com
-127.0.0.1 20170427.logic.cpm.cm.kankan.com
-127.0.0.1 20170428.logic.cpm.cm.kankan.com
-127.0.0.1 20170429.logic.cpm.cm.kankan.com
-127.0.0.1 20170430.logic.cpm.cm.kankan.com
-127.0.0.1 20170431.logic.cpm.cm.kankan.com
-
-#@temporary.txt
-#http://www.fanhome.org
-127.0.0.1 m.baidu.com.zhiduo.org
-#m.1xiaoshuo.com
-127.0.0.1 zen.ztidu.com
-127.0.0.1 m.ky666666.com
-#m.5442.com
-127.0.0.1 xxx.caip2y.com
-#m.bookben.com
-127.0.0.1 s.nyydj.com
-#m.shumilou.co
-127.0.0.1 p.dandan19.top
-127.0.0.1 mm.njfsk.com
-#m.xs222.com
-127.0.0.1 m.papajia55.com
-#m.hsmil.com
-127.0.0.1 i5.hsmil.com
-127.0.0.1 i6.hsmil.com
-#http://www.btbtt.co/
-127.0.0.1 bbsimages.zkxf119.com
-#m.chinabig.com.cn/ m.huanqiumil.com（百度广告）
-127.0.0.1 bdjiaoben.wmxa.cn
-127.0.0.1 a2.huanqiumil.com
-127.0.0.1 a1.huanqiumil.com
-#bbs.hiapk.com
-127.0.0.1 s1.hiapk.com
-127.0.0.1 s2.hiapk.com
-#m.5857.com
-127.0.0.1 statics.9669.com
-#小米天气
-127.0.0.1 wtradv.market.xiaomi.com
-
-#BT
-#btdb.in
-127.0.0.1 www.vduswjwfcexa.com
-127.0.0.1 vduswjwfcexa.com
-#btdigg.pw
-127.0.0.1 m3a425.wdalk.com
-127.0.0.1 z2.lnymd.com
-127.0.0.1 kd.zzhengre.com
-127.0.0.1 v7.kawinhome.com
-127.0.0.1 js43.hailiao520.com
-127.0.0.1 img.uyangyong.cn
-127.0.0.1 pic.by175.com
-127.0.0.1 jpg.hj753.com
-127.0.0.1 js.adxkj.com
-127.0.0.1 kob.adxkj.com
-127.0.0.1 2017img.myxh999.com
-
-#小说网广告js获取
-127.0.0.1 bmw.caip2y.com
-127.0.0.1 s.gqswg.com
-127.0.0.1 www.yhwjd.com
-127.0.0.1 xzl.caip2y.com
-127.0.0.1 tsdhgdhe.wap.xxbiquge.com
-127.0.0.1 su.baidu.com
-127.0.0.1 www.sxdyrq.com
-127.0.0.1 in.gqswg.com
-127.0.0.1 m.andgongge.com
-127.0.0.1 m.chenhuia.com
-127.0.0.1 me.fqtra.com
-127.0.0.1 e.andgongge.com
-127.0.0.1 m.joyfuldoors.com
-127.0.0.1 m.qoiusky.com
-127.0.0.1 s.ndtzx.com
-127.0.0.1 e.jossuer.net
-127.0.0.1 m.jossuer.net
-127.0.0.1 m.lnzangcha.com
-127.0.0.1 dd.m.dingdianzw.com
-127.0.0.1 e.lnzangcha.com
-127.0.0.1 f3.vedeh.com
+127.0.0.1 20170501.logic.cpm.cm.kankan.com
+127.0.0.1 20170502.logic.cpm.cm.kankan.com
+127.0.0.1 20170503.logic.cpm.cm.kankan.com
+127.0.0.1 20170504.logic.cpm.cm.kankan.com
+127.0.0.1 20170505.logic.cpm.cm.kankan.com
+127.0.0.1 20170506.logic.cpm.cm.kankan.com
+127.0.0.1 20170507.logic.cpm.cm.kankan.com
+127.0.0.1 20170508.logic.cpm.cm.kankan.com
+127.0.0.1 20170509.logic.cpm.cm.kankan.com
+127.0.0.1 20170510.logic.cpm.cm.kankan.com
+127.0.0.1 20170511.logic.cpm.cm.kankan.com
+127.0.0.1 20170512.logic.cpm.cm.kankan.com
+127.0.0.1 20170513.logic.cpm.cm.kankan.com
+127.0.0.1 20170514.logic.cpm.cm.kankan.com
+127.0.0.1 20170515.logic.cpm.cm.kankan.com
+127.0.0.1 20170516.logic.cpm.cm.kankan.com
+127.0.0.1 20170517.logic.cpm.cm.kankan.com
+127.0.0.1 20170518.logic.cpm.cm.kankan.com
+127.0.0.1 20170519.logic.cpm.cm.kankan.com
+127.0.0.1 20170520.logic.cpm.cm.kankan.com
+127.0.0.1 20170521.logic.cpm.cm.kankan.com
+127.0.0.1 20170522.logic.cpm.cm.kankan.com
+127.0.0.1 20170523.logic.cpm.cm.kankan.com
+127.0.0.1 20170524.logic.cpm.cm.kankan.com
+127.0.0.1 20170525.logic.cpm.cm.kankan.com
+127.0.0.1 20170526.logic.cpm.cm.kankan.com
+127.0.0.1 20170527.logic.cpm.cm.kankan.com
+127.0.0.1 20170528.logic.cpm.cm.kankan.com
+127.0.0.1 20170529.logic.cpm.cm.kankan.com
+127.0.0.1 20170530.logic.cpm.cm.kankan.com
+127.0.0.1 20170531.logic.cpm.cm.kankan.com

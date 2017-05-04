@@ -9,6 +9,13 @@
 127.0.0.1 ma2.meishij.net
 #m.7791.com.cn
 127.0.0.1 mimg.7791.com.cn
+#m.chinabig.com.cn/m.huanqiumil.com
+127.0.0.1 bdjiaoben.wmxa.cn
+127.0.0.1 a2.huanqiumil.com
+127.0.0.1 a1.huanqiumil.com
+#m.hsmil.com
+127.0.0.1 i5.hsmil.com
+127.0.0.1 i6.hsmil.com
 #m.souid.com
 127.0.0.1 vi1.souid.com
 #m.v4.cc

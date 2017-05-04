@@ -26,6 +26,8 @@
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 affiliategroove.com
+127.0.0.1 www.vduswjwfcexa.com
+127.0.0.1 vduswjwfcexa.com
 127.0.0.1 www.hvfzshrpfueb.com
 127.0.0.1 hvfzshrpfueb.com
 127.0.0.1 www.uzbciwrwzzhs.com
@@ -45,6 +47,17 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw
+127.0.0.1 m3a425.wdalk.com
+127.0.0.1 z2.lnymd.com
+127.0.0.1 kd.zzhengre.com
+127.0.0.1 v7.kawinhome.com
+127.0.0.1 js43.hailiao520.com
+127.0.0.1 img.uyangyong.cn
+127.0.0.1 pic.by175.com
+127.0.0.1 jpg.hj753.com
+127.0.0.1 js.adxkj.com
+127.0.0.1 kob.adxkj.com
+127.0.0.1 2017img.myxh999.com
 127.0.0.1 img.jsjpac.com
 127.0.0.1 j.klsdmr.com
 127.0.0.1 count.qiqipower.com
@@ -324,3 +337,5 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+#http://www.btbtt.co/
+127.0.0.1 bbsimages.zkxf119.com

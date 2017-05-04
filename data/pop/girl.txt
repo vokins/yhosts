@@ -7,6 +7,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 xxx.caip2y.com
 127.0.0.1 v.huomob.com
 127.0.0.1 52.fushibooks.com
 127.0.0.1 bdjs.2344.com
@@ -70,6 +71,8 @@
 127.0.0.1 www.4207008.com
 127.0.0.1 www-777563.com
 127.0.0.1 www.222627.com
+#http://www.fanhome.org
+127.0.0.1 m.baidu.com.zhiduo.org
 #http://www.tuj8.net/
 127.0.0.1 a.e7009.com
 127.0.0.1 d.qceg.net
