@@ -46,7 +46,9 @@
 127.0.0.1 lotraden.online
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
-#btdigg.pw
+#btdigg.pw(btdigg.co)
+127.0.0.1 j.qiqivv.com
+127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 m3a425.wdalk.com
 127.0.0.1 z2.lnymd.com
 127.0.0.1 kd.zzhengre.com

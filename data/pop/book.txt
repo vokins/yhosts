@@ -470,7 +470,6 @@
 127.0.0.1 in.ndtzx.com
 127.0.0.1 img1.yyape.com
 127.0.0.1 img2.yyape.com
-127.0.0.1 in.smxsg.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 www.a0c77.com
 127.0.0.1 s.yfycy.com
