@@ -1,4 +1,15 @@
-﻿
+﻿http://wx1.sinaimg.cn/large/63845edcgy1fe1arpjphjg20qo03cdlf.gif
+http://wx3.sinaimg.cn/large/63845edcgy1fe30fa1musg20qo01oac0.gif
+http://wx4.sinaimg.cn/large/63845edcgy1fe2zjo4ogvg20qo01ogrv.gif
+
+http://ww3.sinaimg.cn/large/005StFp9gw1ezo45jrb0ig30qo01ogop.gif
+http://ww4.sinaimg.cn/large/005StFp9gw1ezo45sc1oyg30qo01odj2.gif
+http://ww6.adm-cnzz.net/material/36/12388/b/2016/0509608812367953.70889875632399.gif
+
+http://www.adm-cnzz.net/material/36/12388/b/2016/jshf.gif
+http://wx1.sinaimg.cn/large/006J6Aungy1fdhonxu2u1g30qo01yn11.gif
+http://wx3.sinaimg.cn/mw1024/006uDBosgy1fdecfbhc1ng30qo01owt3.gif
+http://wx4.sinaimg.cn/mw1024/006uDBosgy1fdfk6ppvqwg30qo01y41n.gif
 昨天谁发的那个app免费小说书城说有广告的，我今天看了下，只有书架第一个有广告图便宜书记封面的形式轮播，也不影响多大光感，随便找了一本书，盗墓笔记，看了几页，暂停，退出都无法重现你说的广告.抓包发现具体请求如下：
 http://api.bifong.com/api/ad_show_statistics
 

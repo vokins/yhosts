@@ -1,0 +1,7 @@
+#5211game.com
+127.0.0.1 app.5211game.com
+127.0.0.1 go.5211game.com
+127.0.0.1 pic.5211game.com
+127.0.0.1 pt.5211game.com
+127.0.0.1 pv.5211game.com
+127.0.0.1 update.5211game.com

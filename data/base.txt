@@ -39,6 +39,8 @@
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
+127.0.0.1 ww6.adm-cnzz.net
+127.0.0.1 www.adm-cnzz.net
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com

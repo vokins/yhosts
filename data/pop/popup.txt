@@ -175,6 +175,7 @@
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ioscdn.ywpod3.com
 127.0.0.1 ad.holaq.com
+127.0.0.1 pay.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
 127.0.0.1 rh.code.jjyx.com

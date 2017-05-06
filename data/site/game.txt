@@ -19,13 +19,6 @@
 #5173.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
-#5211game.com
-127.0.0.1 app.5211game.com
-127.0.0.1 go.5211game.com
-127.0.0.1 pic.5211game.com
-127.0.0.1 pt.5211game.com
-127.0.0.1 pv.5211game.com
-127.0.0.1 update.5211game.com
 #52pk.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com

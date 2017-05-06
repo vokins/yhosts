@@ -136,6 +136,8 @@
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
+127.0.0.1 ww6.adm-cnzz.net
+127.0.0.1 www.adm-cnzz.net
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
@@ -1924,13 +1926,6 @@
 #5173.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
-#5211game.com
-127.0.0.1 app.5211game.com
-127.0.0.1 go.5211game.com
-127.0.0.1 pic.5211game.com
-127.0.0.1 pt.5211game.com
-127.0.0.1 pv.5211game.com
-127.0.0.1 update.5211game.com
 #52pk.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com
@@ -4384,6 +4379,7 @@
 127.0.0.1 s.zzrcz.com
 127.0.0.1 ioscdn.ywpod3.com
 127.0.0.1 ad.holaq.com
+127.0.0.1 pay.holaq.com
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
 127.0.0.1 rh.code.jjyx.com
