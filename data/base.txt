@@ -259,6 +259,16 @@
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 dcads.sina.com.cn
 127.0.0.1 sax.sina.com.cn
+127.0.0.1 sax1.sina.com.cn
+127.0.0.1 sax2.sina.com.cn
+127.0.0.1 sax3.sina.com.cn
+127.0.0.1 sax4.sina.com.cn
+127.0.0.1 sax5.sina.com.cn
+127.0.0.1 sax6.sina.com.cn
+127.0.0.1 sax7.sina.com.cn
+127.0.0.1 sax8.sina.com.cn
+127.0.0.1 sax9.sina.com.cn
+127.0.0.1 saxs.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 #http://www.sina.com.cn/

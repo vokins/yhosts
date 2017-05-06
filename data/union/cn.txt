@@ -979,6 +979,8 @@
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
+127.0.0.1 c-hzgt2.getui.com
+127.0.0.1 getui.gexin.com
 127.0.0.1 api.gi.igexin.com
 127.0.0.1 api.y.igexin.com
 127.0.0.1 c.nz.gt.igexin.com
@@ -990,7 +992,6 @@
 127.0.0.1 sdk.open.phone.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
-127.0.0.1 c-hzgt2.getui.com
 #adirects
 127.0.0.1 adirects.com
 127.0.0.1 stat.adirects.com

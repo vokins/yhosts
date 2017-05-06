@@ -1,5 +1,5 @@
 
-#version=201705051136
+#version=201705061157
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -283,6 +283,16 @@
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 dcads.sina.com.cn
 127.0.0.1 sax.sina.com.cn
+127.0.0.1 sax1.sina.com.cn
+127.0.0.1 sax2.sina.com.cn
+127.0.0.1 sax3.sina.com.cn
+127.0.0.1 sax4.sina.com.cn
+127.0.0.1 sax5.sina.com.cn
+127.0.0.1 sax6.sina.com.cn
+127.0.0.1 sax7.sina.com.cn
+127.0.0.1 sax8.sina.com.cn
+127.0.0.1 sax9.sina.com.cn
+127.0.0.1 saxs.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
@@ -2212,6 +2222,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
 127.0.0.1 m.kooyum.com
+127.0.0.1 jiu.nchte.com
+127.0.0.1 m.resetgey.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 127.0.0.1 m.xhxnkyy.com
@@ -4569,6 +4581,8 @@
 127.0.0.1 cm.reachmax.cn
 127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
+127.0.0.1 c-hzgt2.getui.com
+127.0.0.1 getui.gexin.com
 127.0.0.1 api.gi.igexin.com
 127.0.0.1 api.y.igexin.com
 127.0.0.1 c.nz.gt.igexin.com
@@ -4580,7 +4594,6 @@
 127.0.0.1 sdk.open.phone.igexin.com
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 talk.nz.igexin.com
-127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 adirects.com
 127.0.0.1 stat.adirects.com
 127.0.0.1 www.admarket.mobi

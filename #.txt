@@ -1,4 +1,6 @@
-﻿小米下载
+﻿湖泊  11:15:29
+用adguard在新浪和凤凰网发现了两个广告源，不知能否加入咱这hosts。saxs.sina.com.cn/sax1.sina.com.cn直到sax9.sina.com.cn.和“个推”广告联盟比如getui.gexin.com
+小米下载
 http://etl.xlmc.sandai.net/api/stat/rt?appId=6&discardCount=0&sig=d483fa6175eedc5ed1d7203422cb8bd8&callId=1493431559202&octet=9fc60ec5f88461a8e63e6c899bd78929
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
