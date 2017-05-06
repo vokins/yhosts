@@ -1,5 +1,5 @@
 
-#version=201705061157
+#version=201705061215
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2137,6 +2137,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.cayanfang.com
 127.0.0.1 ke.njwxh.com
 127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 zen.ztidu.com
@@ -2632,7 +2633,6 @@
 127.0.0.1 dd.m.dingdianzw.com
 127.0.0.1 e.lnzangcha.com
 127.0.0.1 f3.vedeh.com
-127.0.0.1 su.baidu.com
 127.0.0.1 njs.hcm94alliance.com
 127.0.0.1 js470.doupuer.com
 127.0.0.1 s6.idaguang.com

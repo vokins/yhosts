@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.cayanfang.com
 127.0.0.1 ke.njwxh.com
 127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 zen.ztidu.com
@@ -540,4 +541,3 @@
 127.0.0.1 dd.m.dingdianzw.com
 127.0.0.1 e.lnzangcha.com
 127.0.0.1 f3.vedeh.com
-127.0.0.1 su.baidu.com

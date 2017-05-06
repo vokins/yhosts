@@ -1,4 +1,5 @@
 ﻿127.0.0.1 games.ifeng.com
+127.0.0.1 su.baidu.com
 127.0.0.1 info.yahoo.com
 127.0.0.1 images2.4hw.com.cn
 127.0.0.1 api.mobile.youku.com

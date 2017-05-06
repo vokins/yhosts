@@ -1,4 +1,16 @@
-﻿湖泊  11:15:29
+﻿
+昨天谁发的那个app免费小说书城说有广告的，我今天看了下，只有书架第一个有广告图便宜书记封面的形式轮播，也不影响多大光感，随便找了一本书，盗墓笔记，看了几页，暂停，退出都无法重现你说的广告.抓包发现具体请求如下：
+http://api.bifong.com/api/ad_show_statistics
+
+图片广告请求如下：
+http://img-cache.bifong.com/1493883916683MDUwNC3lhY3otLnlsI_or7QyNTJYMzYwLUZGNC5qcGc=
+如果你自己需要可以添加一个自己的名单，这两个数据就不合并了。我怕api那个屏蔽了不能读书
+
+127.0.0.1 api.bifong.com
+127.0.0.1 img-cache.bifong.com
+
+
+湖泊  11:15:29
 用adguard在新浪和凤凰网发现了两个广告源，不知能否加入咱这hosts。saxs.sina.com.cn/sax1.sina.com.cn直到sax9.sina.com.cn.和“个推”广告联盟比如getui.gexin.com
 小米下载
 http://etl.xlmc.sandai.net/api/stat/rt?appId=6&discardCount=0&sig=d483fa6175eedc5ed1d7203422cb8bd8&callId=1493431559202&octet=9fc60ec5f88461a8e63e6c899bd78929
