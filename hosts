@@ -1,5 +1,5 @@
 
-#version=201705071849
+#version=201705072032
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1860,7 +1860,6 @@
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
-127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com

@@ -1,4 +1,8 @@
 ﻿127.0.0.1 games.ifeng.com
+你这网站播放不了是因为被你屏蔽这个域名了
+disp.titan.mgtv.com
+http://m.kankanwu.com/Arts/bianxingji2017/player-0-4.html 
+127.0.0.1 disp.titan.mgtv.com
 网易推广邮件退订时要访问这个stat.nm.netease.com网址
 127.0.0.1 su.baidu.com
 127.0.0.1 info.yahoo.com

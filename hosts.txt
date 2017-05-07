@@ -2315,7 +2315,6 @@
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
-127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
