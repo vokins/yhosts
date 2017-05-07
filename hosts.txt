@@ -2789,6 +2789,7 @@
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
+127.0.0.1 tt.shxinjie.cn
 127.0.0.1 pp.2945.com
 127.0.0.1 wywk.seuxm.cn
 127.0.0.1 stat.jdwjy168.com
@@ -3063,6 +3064,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
+127.0.0.1 db.edwinyan.com
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
@@ -4409,7 +4411,6 @@
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com
-127.0.0.1 stat.nm.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com

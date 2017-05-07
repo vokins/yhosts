@@ -21,7 +21,6 @@
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com
-127.0.0.1 stat.nm.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 mr.da.netease.com
 127.0.0.1 pr.da.netease.com

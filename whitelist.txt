@@ -1,4 +1,5 @@
 ﻿127.0.0.1 games.ifeng.com
+网易推广邮件退订时要访问这个stat.nm.netease.com网址
 127.0.0.1 su.baidu.com
 127.0.0.1 info.yahoo.com
 127.0.0.1 images2.4hw.com.cn
