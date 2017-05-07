@@ -1,4 +1,11 @@
-﻿http://wx1.sinaimg.cn/large/63845edcgy1fe1arpjphjg20qo03cdlf.gif
+﻿http://x.da.mgtv.com/json/short/mwl?useragent=Mozilla%2F5.0%20(Linux%3B%20U%3B%20Android%204.1.1%3B%20zh-cn%3B%20%20MI2%20Build%2FJRO03L)%20AppleWebKit%2F534.30%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%20Safari%2F534.30%20XiaoMi%2FMiuiBrowser%2F1.0&callback=jsonp_xh5ozj2p0dyoo8k
+http://mp4.res.hunantv.com/video/1038/00344bacbb44aeb0991609bdcb6b4bb2.mp4
+http://vhunantv.admaster.com.cn/i/a84000,b1632646,c1370,i0,m202,8a2,8b1,f42.199.131.209,0a0,0c,0d,o,n,z,t__TIMESTAMP__,h?rnd=1494153098775
+http://vhunantv.admaster.com.cn/i/a84195,b1639949,c1370,i9333,m202,8a2,8b1,f42.199.131.209,0a0,0c,0d,o,n,z,t__TIMESTAMP__,0iPUB_221632,h?rnd=1494153114046
+http://mp4.res.hunantv.com/video/1038/fc763be090ca197285f68b027d3228b8.mp4
+http://mp4.res.hunantv.com/video/1038/00344bacbb44aeb0991609bdcb6b4bb2.mp4
+
+http://wx1.sinaimg.cn/large/63845edcgy1fe1arpjphjg20qo03cdlf.gif
 http://wx3.sinaimg.cn/large/63845edcgy1fe30fa1musg20qo01oac0.gif
 http://wx4.sinaimg.cn/large/63845edcgy1fe2zjo4ogvg20qo01ogrv.gif
 

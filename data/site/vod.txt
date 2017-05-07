@@ -91,10 +91,12 @@
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
+127.0.0.1 x.da.mgtv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 mp4.res.hunantv.com
 127.0.0.1 player.log.hunantv.com
 127.0.0.1 v1.play.log.hunantv.com
 127.0.0.1 v1.res.log.hunantv.com
