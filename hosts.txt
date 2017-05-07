@@ -2319,6 +2319,8 @@
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
+127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 log.da.hunantv.com
