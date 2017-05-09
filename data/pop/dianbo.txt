@@ -89,6 +89,7 @@
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 #m.kkkkba.com
+127.0.0.1 www.70niandai.net
 127.0.0.1 w.yunluge.com
 127.0.0.1 js.wjnpxk.com
 127.0.0.1 j.bjlanjin.com

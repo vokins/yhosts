@@ -78,6 +78,7 @@
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
+127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn

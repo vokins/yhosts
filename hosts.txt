@@ -1034,6 +1034,7 @@
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
+127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
@@ -2759,12 +2760,15 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
 127.0.0.1 m.resetgey.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.zccompressor.com
+127.0.0.1 e.zccompressor.com
 127.0.0.1 m.xhxnkyy.com
 127.0.0.1 e.xhxnkyy.com
 127.0.0.1 m.cqftonline.com
@@ -2969,6 +2973,8 @@
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
 #m.sanhao3.com
+127.0.0.1 lkf1.m.sanhao3.com
+127.0.0.1 b.ndtzx.com
 127.0.0.1 sj2.sscefsol.com
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
@@ -3705,6 +3711,7 @@
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 #m.kkkkba.com
+127.0.0.1 www.70niandai.net
 127.0.0.1 w.yunluge.com
 127.0.0.1 js.wjnpxk.com
 127.0.0.1 j.bjlanjin.com
