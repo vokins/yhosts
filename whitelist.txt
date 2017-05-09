@@ -1,4 +1,5 @@
 ﻿127.0.0.1 games.ifeng.com
+127.0.0.1 weidian.com
 你这网站播放不了是因为被你屏蔽这个域名了
 disp.titan.mgtv.com
 http://m.kankanwu.com/Arts/bianxingji2017/player-0-4.html 

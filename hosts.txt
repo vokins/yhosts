@@ -3646,7 +3646,6 @@
 127.0.0.1 slb.cybaoxian.com
 127.0.0.1 vv.jiedubang.cn
 127.0.0.1 wd.geilicdn.com
-127.0.0.1 weidian.com
 127.0.0.1 weldimg.pnaea.com
 127.0.0.1 www.shanruibie.cn
 127.0.0.1 zzz7.52896368.com
