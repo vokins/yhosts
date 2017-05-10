@@ -2682,6 +2682,7 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.dlrijiaele.com
 127.0.0.1 m.cayanfang.com
 127.0.0.1 ke.njwxh.com
 127.0.0.1 m.zzczfreewifi.com
@@ -2774,6 +2775,7 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.jackaow.com
 127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
@@ -2821,6 +2823,8 @@
 #m.bookben.com
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 c.xhsxgmt.cn
+127.0.0.1 e.jackaow.com
 127.0.0.1 s.nyydj.com
 127.0.0.1 s.smxsg.com
 127.0.0.1 in.jxbjt.com
@@ -3104,6 +3108,7 @@
 127.0.0.1 img2.xztkc.com
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
+127.0.0.1 gdhyfgd.m.xs222.com
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
@@ -3111,10 +3116,11 @@
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
 #wap.xxbiquge.com
-127.0.0.1 tian.awkjs.com
-127.0.0.1 e.yidulive.net
+127.0.0.1 gfnksw.wap.xxbiquge.com
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 tian.awkjs.com
+127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 c.bccyyc.com
 127.0.0.1 c.mytzdhz.cn
