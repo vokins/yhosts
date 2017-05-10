@@ -1,5 +1,5 @@
 
-#version=201705102204
+#version=201705102255
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3409,6 +3409,9 @@
 127.0.0.1 526dimg.uunice.com
 127.0.0.1 526d.uunice.com
 127.0.0.1 becode.qiushibaike.com
+127.0.0.1 img.9ads.net
+127.0.0.1 js.9ads.net
+127.0.0.1 e.9dtiny.cn
 127.0.0.1 cell.zhybzp.cn
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
