@@ -1841,6 +1841,8 @@
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
+#http://www.didown.com/
+127.0.0.1 public.didown.com
 #eastlady.cn
 127.0.0.1 abc.eastlady.cn
 127.0.0.1 jb.eastlady.cn

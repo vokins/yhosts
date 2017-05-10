@@ -1,5 +1,5 @@
 
-#version=201705102255
+#version=201705102309
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1491,6 +1491,7 @@
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
+127.0.0.1 public.didown.com
 127.0.0.1 abc.eastlady.cn
 127.0.0.1 jb.eastlady.cn
 127.0.0.1 wl.eastlady.cn
