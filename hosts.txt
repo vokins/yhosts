@@ -1158,6 +1158,32 @@
 127.0.0.1 ad.yeshitv.com
 #http://tv.sohu.com/ott/sohutv/
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
+#http://pd.youku.com/CIBN
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+#http://www.togic.com/livetv.html
+
+#http://app.iqiyi.com/tv/player/
+127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 msg.71.am
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+#http://app.pptv.com/pg_get_tv
+127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 vpptv.admaster.com.cn
+127.0.0.1 pptv.m.cn.miaozhen.com
+127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 de.as.pptv.com
+127.0.0.1 jp.as.pptv.com
+127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 asimgs.pplive.cn
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 gas.data.pplive.com
+127.0.0.1 plt.data.pplive.com
+127.0.0.1 web.data.pplive.com
+
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -1243,7 +1269,6 @@
 #http://im.qq.com/
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 #http://weixin.qq.com/
@@ -2329,7 +2354,6 @@
 127.0.0.1 s.zampdsp.com
 127.0.0.1 www.zamplus.com
 127.0.0.1 cm.fancyapi.com
-127.0.0.1 cm.zhiziyun.com
 #http://www.mgtv.com/
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
@@ -5427,7 +5451,6 @@
 #admarket
 127.0.0.1 www.admarket.mobi
 #admaster
-127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 58749.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
@@ -5435,7 +5458,6 @@
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
-127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
@@ -5453,7 +5475,6 @@
 127.0.0.1 view.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
-127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -6073,7 +6094,6 @@
 127.0.0.1 mse.mbm.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
-127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
@@ -6082,7 +6102,6 @@
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
-127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 wisem-cm.cn.miaozhen.com
@@ -6406,6 +6425,8 @@
 127.0.0.1 soft.zhidian3g.cn
 127.0.0.1 zhidian3g.cn
 127.0.0.1 www.zhidian3g.cn
+#zhiziyun.com
+127.0.0.1 cm.zhiziyun.com
 #zqzxz.com
 127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com

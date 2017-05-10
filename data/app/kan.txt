@@ -48,3 +48,29 @@
 127.0.0.1 ad.yeshitv.com
 #http://tv.sohu.com/ott/sohutv/
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
+#http://pd.youku.com/CIBN
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
+#http://www.togic.com/livetv.html
+
+#http://app.iqiyi.com/tv/player/
+127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 msg.71.am
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+#http://app.pptv.com/pg_get_tv
+127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 vpptv.admaster.com.cn
+127.0.0.1 pptv.m.cn.miaozhen.com
+127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 de.as.pptv.com
+127.0.0.1 jp.as.pptv.com
+127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 asimgs.pplive.cn
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 gas.data.pplive.com
+127.0.0.1 plt.data.pplive.com
+127.0.0.1 web.data.pplive.com
+

@@ -10,12 +10,11 @@
 127.0.0.1 cf.gdatacube.net
 127.0.0.1 js.hls.ott.cibntv.net
 127.0.0.1 hls01.ott.disp.cibntv.net
-#cibntv-pd.youku.com/cibn
+#cibntv-pd.youku.com
 127.0.0.1 qr.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 sdk.m.cp31.ott.cibntv.net
 #cibntv-pptv
 127.0.0.1 ads.data.pplive.com
@@ -90,15 +89,11 @@
 127.0.0.1 nl.rcd.iqiyi.com
 #iqiyi-gitv
 127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 mixer.cupid.ptqy.gitv.tv
-127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 msg.video.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 msga.ptqy.gitv.tv
 127.0.0.1 nl.rcd.ptqy.gitv.tv
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 store.ptqy.gitv.tv
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 msg.c002.ottcn.com
 #iqiyi-paopao
 127.0.0.1 emoticon.sns.iqiyi.com
@@ -113,7 +108,6 @@
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
 127.0.0.1 static.g.ppstream.com
-127.0.0.1 msg.71.am
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 msga.71.am
 127.0.0.1 androidgo.duapp.com

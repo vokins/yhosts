@@ -82,7 +82,6 @@
 127.0.0.1 s.zampdsp.com
 127.0.0.1 www.zamplus.com
 127.0.0.1 cm.fancyapi.com
-127.0.0.1 cm.zhiziyun.com
 #http://www.mgtv.com/
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com

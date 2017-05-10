@@ -1,7 +1,6 @@
 #http://im.qq.com/
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 #http://weixin.qq.com/

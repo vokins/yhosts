@@ -1000,7 +1000,6 @@
 #admarket
 127.0.0.1 www.admarket.mobi
 #admaster
-127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 58749.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
@@ -1008,7 +1007,6 @@
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
-127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
@@ -1026,7 +1024,6 @@
 127.0.0.1 view.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
-127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -1646,7 +1643,6 @@
 127.0.0.1 mse.mbm.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
-127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 sd.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
@@ -1655,7 +1651,6 @@
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
-127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 wisem-cm.cn.miaozhen.com
@@ -1979,6 +1974,8 @@
 127.0.0.1 soft.zhidian3g.cn
 127.0.0.1 zhidian3g.cn
 127.0.0.1 www.zhidian3g.cn
+#zhiziyun.com
+127.0.0.1 cm.zhiziyun.com
 #zqzxz.com
 127.0.0.1 img1.zqzxz.com
 127.0.0.1 img2.zqzxz.com
