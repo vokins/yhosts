@@ -138,6 +138,7 @@
 #cnzz
 127.0.0.1 ww6.adm-cnzz.net
 127.0.0.1 www.adm-cnzz.net
+127.0.0.1 a.cnzz.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
@@ -397,6 +398,7 @@
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou
@@ -1354,6 +1356,7 @@
 #http://app.myzaker.com/
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
+127.0.0.1 push-android.myzaker.com
 #http://book.easou.com/
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
@@ -1362,6 +1365,7 @@
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 #http://i.ifeng.com/
+127.0.0.1 api.iapps.ifeng.com
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
@@ -1399,6 +1403,7 @@
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
+127.0.0.1 n.3g.163.com
 #http://t.shuqi.com/
 127.0.0.1 ut2.shuqistat.com
 127.0.0.1 www.cm-analysis.com
@@ -1478,6 +1483,15 @@
 #wifiwnmm
 127.0.0.1 wifishow.ggsafe.com
 127.0.0.1 igou.ggsafe.com
+#http://zdworks.com/
+127.0.0.1 ad.zdworks.com
+127.0.0.1 adclock.zdworks.com
+127.0.0.1 cal.stat.zdworks.com
+127.0.0.1 cal.stat2.zdworks.com
+127.0.0.1 clock.stat2.zdworks.com
+127.0.0.1 nexstep.zdworks.com
+127.0.0.1 push.zdworks.com
+127.0.0.1 api.pingstart.com
 #12306
 127.0.0.1 ad.12306.cn
 #8684.cn
@@ -3021,6 +3035,7 @@
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
 127.0.0.1 p.dandan19.top
+127.0.0.1 sy.njfsk.com
 127.0.0.1 mm.njfsk.com
 127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com
@@ -4418,6 +4433,7 @@
 127.0.0.1 news.push.126.net
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
+127.0.0.1 cms-bucket.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 statis.push.netease.com
@@ -5323,6 +5339,8 @@
 127.0.0.1 u5.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
+#9imobi.com
+127.0.0.1 adsdk.9imobi.com
 #99click
 127.0.0.1 1116.oadz.com
 127.0.0.1 2311.oadz.com
@@ -5757,6 +5775,8 @@
 127.0.0.1 api.android.dianru.com
 127.0.0.1 static.dianru.com
 127.0.0.1 www.dianru.com
+#dianview.com
+127.0.0.1 a-api.dianview.com
 #dmrtb.com
 127.0.0.1 track.dmrtb.com
 #domob.cn
@@ -5764,6 +5784,7 @@
 127.0.0.1 c.domob.cn
 127.0.0.1 domob.cn
 127.0.0.1 domob.com.cn
+127.0.0.1 dvx-android.domob.cn
 127.0.0.1 e.domob.cn
 127.0.0.1 e.domob.com.cn
 127.0.0.1 r.domob.cn
@@ -5847,7 +5868,9 @@
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
+127.0.0.1 api.growingio.com
 127.0.0.1 apihk.growingio.com
+127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com
 127.0.0.1 tags.growingio.com
 #guomob
@@ -6113,6 +6136,7 @@
 127.0.0.1 ip2.pxene.com
 #qchannel
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel02.cn
 127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 #qtmojo

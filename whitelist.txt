@@ -1,10 +1,11 @@
-ï»¿127.0.0.1 games.ifeng.com
+127.0.0.1 games.ifeng.com
+127.0.0.1 api.k.sohu.com ËÑºüĞÂÎÅ
 127.0.0.1 weidian.com
-ä½ è¿™ç½‘ç«™æ’­æ”¾ä¸äº†æ˜¯å› ä¸ºè¢«ä½ å±è”½è¿™ä¸ªåŸŸåäº†
+ÄãÕâÍøÕ¾²¥·Å²»ÁËÊÇÒòÎª±»ÄãÆÁ±ÎÕâ¸öÓòÃûÁË
 disp.titan.mgtv.com
 http://m.kankanwu.com/Arts/bianxingji2017/player-0-4.html 
 127.0.0.1 disp.titan.mgtv.com
-ç½‘æ˜“æ¨å¹¿é‚®ä»¶é€€è®¢æ—¶è¦è®¿é—®è¿™ä¸ªstat.nm.netease.comç½‘å€
+ÍøÒ×ÍÆ¹ãÓÊ¼şÍË¶©Ê±Òª·ÃÎÊÕâ¸östat.nm.netease.comÍøÖ·
 127.0.0.1 su.baidu.com
 127.0.0.1 info.yahoo.com
 127.0.0.1 images2.4hw.com.cn
@@ -13,11 +14,11 @@ http://m.kankanwu.com/Arts/bianxingji2017/player-0-4.html
 #http://www.10010.com/
 127.0.0.1 ad.10010.com
 127.0.0.1 m1.ad.10010.com
-è”é€šä¼˜æƒ æ´»åŠ¨é¡µé¢å…¨éƒ¨æ‰“ä¸å¼€
+ÁªÍ¨ÓÅ»İ»î¶¯Ò³ÃæÈ«²¿´ò²»¿ª
 http://po.funshion.com/v7/config/channel?is_new=1&cl=aphone&ve=2.7.2.2&mac=7802f8f2e1ea&uc=99&apptype=aphone_app_main&si=1073&app_code=aphone&fudid=fa82b26035cb34cb06cf37cb7b2549b1e53507bcc3031046cd494fc9cf39d621
-127.0.0.1 api.vungle.com å¯¼è‡´ç‹‚é‡é£™è½¦è¿æ¥ä¸åˆ°google playè´¦æˆ·
-127.0.0.1 c.pc.qq.com QQç”µè„‘ç®¡å®¶ä¸ªäººä¸­å¿ƒä»»åŠ¡åˆ—è¡¨å‡ºä¸æ¥
-cookiesé—®é¢˜
+127.0.0.1 api.vungle.com µ¼ÖÂ¿ñÒ°ì­³µÁ¬½Ó²»µ½google playÕË»§
+127.0.0.1 c.pc.qq.com QQµçÄÔ¹Ü¼Ò¸öÈËÖĞĞÄÈÎÎñÁĞ±í³ö²»À´
+cookiesÎÊÌâ
 127.0.0.1 irs01.com
 127.0.0.1 irs01.net
 127.0.0.1 irs09.com
@@ -29,12 +30,12 @@ cookiesé—®é¢˜
 127.0.0.1 ykrec.youku.com
 127.0.0.1 ykrectab.youku.com
 #
-127.0.0.1 a.union.mi.com æœ‰äº›æ´»åŠ¨æ— æ³•å‚åŠ 
+127.0.0.1 a.union.mi.com ÓĞĞ©»î¶¯ÎŞ·¨²Î¼Ó
 http://misc.web.kankan.com/www_v6/js/lib/jquery-1.8.2.min.js
 http://down.360safe.com/360kan/sohu_1_armV7.apk
-360å½±è§†é€šè¿‡æ­¤åŸŸåä¸‹è½½æ’­æ”¾æ’ä»¶
+360Ó°ÊÓÍ¨¹ı´ËÓòÃûÏÂÔØ²¥·Å²å¼ş
 http://log.voicecloud.cn/log.aspx?c=1002&v=2.0&t=20170417172233
-127.0.0.1 stat.myzaker.com åŠ å…¥åæ— æ³•çœ‹æ–°é—»
+127.0.0.1 stat.myzaker.com ¼ÓÈëºóÎŞ·¨¿´ĞÂÎÅ
 http://ps.funshion.com/v5/search/hotword?cl=aphone&ve=2.7.2.2&mac=7802f8f2e1ea&uc=99&apptype=aphone_app_main&si=1073&app_code=aphone&fudid=fa82b26035cb34cb06cf37cb7b2549b1e53507bcc3031046cd494fc9cf39d621
 127.0.0.1 nav.cn.ronghub.com
 127.0.0.1 stats.cn.ronghub.com
@@ -81,7 +82,7 @@ http://share.baofeng.net/#
 http://contentrecommend.mobile.sina.cn/interface/pcwin/pc_win.php?posid=pos51dbbc713bb90&uid=5766380127&callback=IM_14922402402021&__rnd=1492240240202
 http://imageplus.baidu.com/imgs/showcase-1.jpg
 127.0.0.1 imageplus.baidu.com
-127.0.0.1 http://img.cnsofas.com/im/201512/2015121223101058844.jpg  lolç”µå½±å¤©å ‚pic
+127.0.0.1 http://img.cnsofas.com/im/201512/2015121223101058844.jpg  lolµçÓ°ÌìÌÃpic
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 f10.baidu.com
 127.0.0.1 f11.baidu.com
@@ -103,40 +104,40 @@ http://feed.theta.sogou.com/out/bundle.js
 127.0.0.1 t.shuotxts.com
 http://mimg.126.net/logo/163logo.gif
 http://mimg.126.net/xm/all/fj/ico-bfile-6.gif
-127.0.0.1 usr.mb.hd.sohu.com sohu tv ç™»å½•
-127.0.0.1 www.gstatic.cn #è°·æ­Œç¿»è¯‘ï¼Œåˆ†äº«å›¾æ ‡è¯¯æ€
-127.0.0.1 apkpure.disqus.com è¿™ä¸ªæ˜¯ Disqus çš„è¯„è®º
-s3.bytecdn.cn#è¯¯æ€ï¼šå†…æ¶µæ®µå­ç½‘è¿™ä¸ªåŸŸåä¸‹jsè¢«æ€å¯¼è‡´ç½‘é¡µæ— æ³•æ­£å¸¸æ‰“å¼€ã€‚
-127.0.0.1 syndication.twitter.com  æœ‰ä¸€ä¸ªæ˜¯cdn
-127.0.0.1 www.googleadservices.com è°·æ­Œå¹¿å‘ŠæŠ•æ”¾å¹³å°
-127.0.0.1 www.googletagmanager.com è¿™ä¸ªä¹Ÿä¸æ˜¯å¹¿å‘Šï¼Œè¿™ä¸ªæ˜¯è°·æ­Œçš„ä»£ç ç®¡ç†å™¨
-127.0.0.1 log.voicecloud.cn è®¯é£è¯­éŸ³å‡çº§
-127.0.0.1 mipcache.bdstatic.com m.zngirls.com/gallery ç¿»é¡µæœ‰é—®é¢˜
-127.0.0.1 weatherapi.market.xiaomi.com  å¯ä»¥å»é™¤15æ—¥è¶‹åŠ¿çš„å¹¿å‘Šï¼Œå¤©åŠ åä¼šå¯¼è‡´ä¸€äº›ç¬¬ä¸‰æ–¹appæ— æ³•æ›´æ–°å¤©æ°”ï¼Œæ¯”å¦‚pureå¤©æ°”
+127.0.0.1 usr.mb.hd.sohu.com sohu tv µÇÂ¼
+127.0.0.1 www.gstatic.cn #¹È¸è·­Òë£¬·ÖÏíÍ¼±êÎóÉ±
+127.0.0.1 apkpure.disqus.com Õâ¸öÊÇ Disqus µÄÆÀÂÛ
+s3.bytecdn.cn#ÎóÉ±£ºÄÚº­¶Î×ÓÍøÕâ¸öÓòÃûÏÂjs±»É±µ¼ÖÂÍøÒ³ÎŞ·¨Õı³£´ò¿ª¡£
+127.0.0.1 syndication.twitter.com  ÓĞÒ»¸öÊÇcdn
+127.0.0.1 www.googleadservices.com ¹È¸è¹ã¸æÍ¶·ÅÆ½Ì¨
+127.0.0.1 www.googletagmanager.com Õâ¸öÒ²²»ÊÇ¹ã¸æ£¬Õâ¸öÊÇ¹È¸èµÄ´úÂë¹ÜÀíÆ÷
+127.0.0.1 log.voicecloud.cn Ñ¶·ÉÓïÒôÉı¼¶
+127.0.0.1 mipcache.bdstatic.com m.zngirls.com/gallery ·­Ò³ÓĞÎÊÌâ
+127.0.0.1 weatherapi.market.xiaomi.com  ¿ÉÒÔÈ¥³ı15ÈÕÇ÷ÊÆµÄ¹ã¸æ£¬Ìì¼Óºó»áµ¼ÖÂÒ»Ğ©µÚÈı·½appÎŞ·¨¸üĞÂÌìÆø£¬±ÈÈçpureÌìÆø
 127.0.0.1 c.m.163.com
 127.0.0.1 api.store.sohu.com sohu vip movie
-127.0.0.1 a.app.qq.com qqåº”ç”¨å®ä¸‹è½½
-127.0.0.1 i1.go2yd.com ä¸€ç‚¹èµ„è®¯å›¾åºŠ
-127.0.0.1 csi.gstatic.com éª¨éª¼åœ°å›¾
+127.0.0.1 a.app.qq.com qqÓ¦ÓÃ±¦ÏÂÔØ
+127.0.0.1 i1.go2yd.com Ò»µã×ÊÑ¶Í¼´²
+127.0.0.1 csi.gstatic.com ¹Ç÷ÀµØÍ¼
 csi.gstatic.com/csi?v=2&s=mapsapi3&v3v=27.12&action=apiboot2&libraries=common%2Cgeometry%2Cmap%2Csearch&e=google-maps-lite&rt=firstmap.341
-127.0.0.1 c.wrating.com å½±å“ç½‘ç«™ åœŸè±†ä»»ä½•äººçš„ä¸»é¡µä¸èƒ½æ­£å¸¸æ˜¾ç¤º å¦‚ http://v.tudou.com/DSnvlaoshi/?wc=0
-127.0.0.1 cmstool.youku.com è¿™ä¸ªåŸŸåå½±å“åˆ é™¤è®°å½•
+127.0.0.1 c.wrating.com Ó°ÏìÍøÕ¾ ÍÁ¶¹ÈÎºÎÈËµÄÖ÷Ò³²»ÄÜÕı³£ÏÔÊ¾ Èç http://v.tudou.com/DSnvlaoshi/?wc=0
+127.0.0.1 cmstool.youku.com Õâ¸öÓòÃûÓ°ÏìÉ¾³ı¼ÇÂ¼
 127.0.0.1 img1.pcfg.cache.wpscdn.cn
 127.0.0.1 switch.pcfg.cache.wpscdn.cn
 127.0.0.1 openapi.mobile.youku.com
 127.0.0.1 k.youku.com
 127.0.0.1 image.res.meizu.com/image/cal/a4e2529b58272457e81d24a07b396972
-ä¸‹è½½åœ°å€åŸŸåï¼šota.iqiyi.com
-files.jb51.net,ç½‘å€http://www.jb51.net/article/57889.htm è™½ç„¶æ€äº†å¹¿å‘Šï¼Œä½†æ˜¯æ­£æ–‡çš„å›¾ç‰‡ä¹Ÿçœ‹ä¸åˆ°äº†
-127.0.0.1 tracklog.58.com å¯¼è‡´58åŒåŸç™»å½•é¡µé¢æ— æ³•ä½¿ç”¨è´¦å·å’Œå¯†ç ç™»å½•
-127.0.0.1 n.sinaimg.cn åœ¨news.sina.com.cnä¼šå¯¼è‡´å¤§éƒ¨åˆ†å›¾ç‰‡æ— æ³•æ˜¾ç¤º.
-#HOLAæ¡Œé¢å¯åŠ¨å™¨ è¯¯æ€ a.holaworld.cn
-127.0.0.1 tui.yeshen.com  å®‰å“æ¨¡æ‹Ÿå™¨ä¸‹è½½
-127.0.0.1 browserapi.micloud.xiaomi.net å½±å“åŒæ­¥
-127.0.0.1 dw.cbsi.com dw.cbsi.comå»ºè®®å»é™¤
-æ— æ³•ä¸‹è½½iobuiç³»åˆ—å®˜æ–¹è½¯ä»¶
-#127.0.0.1 r1.cp31.ott.cibntv.net è¿™å¼ å¼€äº†å°±æ²¡CIBNç¯çƒå½±éŸ³çš„ç¼©ç•¥å›¾ 
-127.0.0.1 pub.aplus.pptv.com å½±å“ç™»é™†http://vip.pptv.com/?plt=&aid=
+ÏÂÔØµØÖ·ÓòÃû£ºota.iqiyi.com
+files.jb51.net,ÍøÖ·http://www.jb51.net/article/57889.htm ËäÈ»É±ÁË¹ã¸æ£¬µ«ÊÇÕıÎÄµÄÍ¼Æ¬Ò²¿´²»µ½ÁË
+127.0.0.1 tracklog.58.com µ¼ÖÂ58Í¬³ÇµÇÂ¼Ò³ÃæÎŞ·¨Ê¹ÓÃÕËºÅºÍÃÜÂëµÇÂ¼
+127.0.0.1 n.sinaimg.cn ÔÚnews.sina.com.cn»áµ¼ÖÂ´ó²¿·ÖÍ¼Æ¬ÎŞ·¨ÏÔÊ¾.
+#HOLA×ÀÃæÆô¶¯Æ÷ ÎóÉ± a.holaworld.cn
+127.0.0.1 tui.yeshen.com  °²×¿Ä£ÄâÆ÷ÏÂÔØ
+127.0.0.1 browserapi.micloud.xiaomi.net Ó°ÏìÍ¬²½
+127.0.0.1 dw.cbsi.com dw.cbsi.com½¨ÒéÈ¥³ı
+ÎŞ·¨ÏÂÔØiobuiÏµÁĞ¹Ù·½Èí¼ş
+#127.0.0.1 r1.cp31.ott.cibntv.net ÕâÕÅ¿ªÁË¾ÍÃ»CIBN»·ÇòÓ°ÒôµÄËõÂÔÍ¼ 
+127.0.0.1 pub.aplus.pptv.com Ó°ÏìµÇÂ½http://vip.pptv.com/?plt=&aid=
 a.gdown.baidu.com
 app.video.baidu.com
 appsearchcdn.baidu.com
@@ -214,70 +215,70 @@ ucus.ucweb.com
 sta.ganji.com
 ifacel.iqiyi.com
 issuecdn.baidupcs.com
-oc.umeng.com ç¦åˆ©æµè§ˆå™¨ï¼Œè¯¯æ€ã€‚
-çˆ±å¥‡è‰ºå®¢æˆ·ç«¯è§‚çœ‹è®°å½•å›¾ç‰‡è¢«è¯¯æ€ï¼šl.rcd.iqiyi.com
-disp.titan.mgtv.com åˆšè¯•äº†ä¸‹èŠ’æœTVï¼Œå‘ç°è¯¯æ€å¯¼è‡´ä¸èƒ½æ’­æ”¾è§†é¢‘ï¼š
-meta.video.qiyi.com è¿™ä¸ªåŸŸåæ˜¯ç½‘é¡µç‰ˆçˆ±å¥‡è‰ºå¿«è¿›åŠŸèƒ½
+oc.umeng.com ¸£Àûä¯ÀÀÆ÷£¬ÎóÉ±¡£
+°®ÆæÒÕ¿Í»§¶Ë¹Û¿´¼ÇÂ¼Í¼Æ¬±»ÎóÉ±£ºl.rcd.iqiyi.com
+disp.titan.mgtv.com ¸ÕÊÔÁËÏÂÃ¢¹ûTV£¬·¢ÏÖÎóÉ±µ¼ÖÂ²»ÄÜ²¥·ÅÊÓÆµ£º
+meta.video.qiyi.com Õâ¸öÓòÃûÊÇÍøÒ³°æ°®ÆæÒÕ¿ì½ø¹¦ÄÜ
 127.0.0.1 api.m.taobao.com
 127.0.0.1 pingjs.qq.com
-127.0.0.1 iface.iqiyi.com vipå……å€¼ç•Œé¢åŠ è½½
-127.0.0.1 avd.qidian.com è¿™ä¸ªæ˜¯èµ·ç‚¹çš„å®‰å…¨ç™»é™†éªŒè¯
-127.0.0.1 avd.qidian.com åˆ é™¤è¿™æ¡è®°å½•åæ‰èƒ½æ­£å¸¸ç™»å½•èµ·ç‚¹
-127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml å›¾ç‰‡å…¨ç»™XXäº†
+127.0.0.1 iface.iqiyi.com vip³äÖµ½çÃæ¼ÓÔØ
+127.0.0.1 avd.qidian.com Õâ¸öÊÇÆğµãµÄ°²È«µÇÂ½ÑéÖ¤
+127.0.0.1 avd.qidian.com É¾³ıÕâÌõ¼ÇÂ¼ºó²ÅÄÜÕı³£µÇÂ¼Æğµã
+127.0.0.1 images.17173.com http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml Í¼Æ¬È«¸øXXÁË
 127.0.0.1 static.sdg-china.com http://dq.sdo.com/ 
 127.0.0.1 znsv.baidu.com http://www.shoudian.org/forum.php?mod=forumdisplay&fid=19
-ç”¨äº†ä½ çš„simpleu hostsä¼šå¯¼è‡´å·¦ä¸Šçš„æœç´¢æ¡†ç‚¹å‡»æ— æ•ˆï¼Œä½ ä»»æ„å¡«ä¸ªè¯ç‚¹å‡»æœç´¢æŒ‰é’®å°±å¯ä»¥è§‚å¯Ÿåˆ°æ•ˆæœ
+ÓÃÁËÄãµÄsimpleu hosts»áµ¼ÖÂ×óÉÏµÄËÑË÷¿òµã»÷ÎŞĞ§£¬ÄãÈÎÒâÌî¸ö´Êµã»÷ËÑË÷°´Å¥¾Í¿ÉÒÔ¹Û²ìµ½Ğ§¹û
 www.google-analytics.com
-pr.da.netease.com # æ˜“ä¿¡å…¬å‘Š
-127.0.0.1 minisite.letv.com letvç›´æ’­
-127.0.0.1 huodong.m.taobao.com æˆ³æˆ‘ä¸­å¥–ä¹‹åçš„è·³è½¬é¡µé¢
-127.0.0.1 rlogs.youdao.com æœ‰é“ç¿»è¯‘
+pr.da.netease.com # Ò×ĞÅ¹«¸æ
+127.0.0.1 minisite.letv.com letvÖ±²¥
+127.0.0.1 huodong.m.taobao.com ´ÁÎÒÖĞ½±Ö®ºóµÄÌø×ªÒ³Ãæ
+127.0.0.1 rlogs.youdao.com ÓĞµÀ·­Òë
 http://minisite.letv.com
 127.0.0.1 link.1905.com
 http://static.xmp.kankan.com/xmp_index/5.1.3/css/style.css?ver=20160620
-xmp.down.sandai.net è§£ç å™¨ç›¸å…³
+xmp.down.sandai.net ½âÂëÆ÷Ïà¹Ø
 #facebook-noads
-127.0.0.1 staticxx.facebook.com éƒ¨åˆ†æ¸¸æˆappé¡µé¢å…¼å®¹æ€§æœ‰é—®é¢˜
+127.0.0.1 staticxx.facebook.com ²¿·ÖÓÎÏ·appÒ³Ãæ¼æÈİĞÔÓĞÎÊÌâ
 127.0.0.1 tongji.baidu.com
 127.0.0.1 sta.ganjistatic1.com
 #www.tube8.com
 127.0.0.1 ss.phncdn.com
-ä¿®å¤è¯¯æ€ï¼š127.0.0.1 vmat.gtimg.com å¯¼è‡´è…¾è®¯äº‘è§†å¬æ‰«ç ç™»å½•çš„äºŒç»´ç æ— æ³•æ­£å¸¸æ˜¾ç¤º
-ä¿®å¤è¯¯æ€ï¼š127.0.0.1 discuz.gtimg.cn å¯¼è‡´discuzè®ºå›çš„ç›¸å…³ä¸»é¢˜å¤„å‡ºç°404ï¼ˆæ¯”å¦‚å¡é¥­ï¼‰
- livew.l.qq.com å¯¼è‡´è…¾è®¯è§†é¢‘å»å¹¿å‘Šå¤±è´¥ ï¼ˆè¢«æ£€æµ‹åˆ°å¼€å¯å»å¹¿å‘Šæ’ä»¶ï¼Œå¼ºåˆ¶ç­‰å¾…ï¼‰ä»¥æ”¾å…¥tvboxæ•°æ®å†…ï¼Œç”µè„‘ç«¯æ•°æ®ä¸å†åŒ…å«ã€‚
-å‘ç°ä¸€å¤„è¯¯æ€ï¼Œæ‰‹æœºå¼€çƒ­ç‚¹ç»™ç”µè„‘ä½¿ç”¨ï¼Œç™¾åº¦ç¿»è¯‘ä¸èƒ½ç¿»è¯‘
+ĞŞ¸´ÎóÉ±£º127.0.0.1 vmat.gtimg.com µ¼ÖÂÌÚÑ¶ÔÆÊÓÌıÉ¨ÂëµÇÂ¼µÄ¶şÎ¬ÂëÎŞ·¨Õı³£ÏÔÊ¾
+ĞŞ¸´ÎóÉ±£º127.0.0.1 discuz.gtimg.cn µ¼ÖÂdiscuzÂÛÌ³µÄÏà¹ØÖ÷Ìâ´¦³öÏÖ404£¨±ÈÈç¿¨·¹£©
+ livew.l.qq.com µ¼ÖÂÌÚÑ¶ÊÓÆµÈ¥¹ã¸æÊ§°Ü £¨±»¼ì²âµ½¿ªÆôÈ¥¹ã¸æ²å¼ş£¬Ç¿ÖÆµÈ´ı£©ÒÔ·ÅÈëtvboxÊı¾İÄÚ£¬µçÄÔ¶ËÊı¾İ²»ÔÙ°üº¬¡£
+·¢ÏÖÒ»´¦ÎóÉ±£¬ÊÖ»ú¿ªÈÈµã¸øµçÄÔÊ¹ÓÃ£¬°Ù¶È·­Òë²»ÄÜ·­Òë
 URL:sp1.baidu.com
 
-@è€è›‡å­ 127.0.0.1 iface2.qiyi.com å½±å“çˆ±å¥‡è‰ºWINDOWSç‰ˆ app(WINæ‰‹æœºå’ŒWIN8 WIN10çš„ çˆ±å¥‡è‰ºAPP)  æ­£å¸¸æ’­æ”¾ å±è”½å æ— æ³•è¯»å–æ•°æ® æ— æ³•æ’­æ”¾ æ— æ³•è¿›å…¥APPé¦–é¡µ
-çˆ±å¥‡è‰ºapp VIPç”µå½±é¢„çº¦åŠŸèƒ½è¢«è¯¯æ€ï¼šsubscription.iqiyi.com
-#gsp1.baidu.comæµè§ˆå™¨ä¸Šè´´å§æ²¡æ³•çœ‹å¤´åƒå’Œå›¾ç‰‡ 
-#c.youdao.com å½±å“æœ‰é“è¯å…¸ä¸‹è½½http://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
-#downapp.baidu.comè¿™ä¸ªä¼šå¯¼è‡´æ— æ³•åœ¨é…·å®‰ä¸‹è½½â€œç™¾åº¦è´´å§â€app
-imglf0.nosdn.127.netä¼šå¯¼è‡´lofter appä¸€äº›å›¾ç‰‡æ— æ³•åŠ è½½ã€‚
-clickme.netç½‘ç«™ä¸æ˜¯å¹¿å‘Š
+@ÀÏÉß×Ó 127.0.0.1 iface2.qiyi.com Ó°Ïì°®ÆæÒÕWINDOWS°æ app(WINÊÖ»úºÍWIN8 WIN10µÄ °®ÆæÒÕAPP)  Õı³£²¥·Å ÆÁ±Îºó ÎŞ·¨¶ÁÈ¡Êı¾İ ÎŞ·¨²¥·Å ÎŞ·¨½øÈëAPPÊ×Ò³
+°®ÆæÒÕapp VIPµçÓ°Ô¤Ô¼¹¦ÄÜ±»ÎóÉ±£ºsubscription.iqiyi.com
+#gsp1.baidu.comä¯ÀÀÆ÷ÉÏÌù°ÉÃ»·¨¿´Í·ÏñºÍÍ¼Æ¬ 
+#c.youdao.com Ó°ÏìÓĞµÀ´ÊµäÏÂÔØhttp://c.youdao.com/dict/download.html?app=dict&keyfrom=cidian.youdao.com&vendor=cidian.youdao.com&url=http%3A%2F%2Fcodown.youdao.com%2Fcidian%2Fdownload%2FMacDict.dmg
+#downapp.baidu.comÕâ¸ö»áµ¼ÖÂÎŞ·¨ÔÚ¿á°²ÏÂÔØ¡°°Ù¶ÈÌù°É¡±app
+imglf0.nosdn.127.net»áµ¼ÖÂlofter appÒ»Ğ©Í¼Æ¬ÎŞ·¨¼ÓÔØ¡£
+clickme.netÍøÕ¾²»ÊÇ¹ã¸æ
 homestatic.ctfile.com
-get.sogou.com  :è¯¯æ€ï¼Œä¼šé€ æˆæœç‹—è¾“å…¥æ³•è¡¨æƒ…å†…å›¾ç‰‡åŠ è½½ä¸äº†
-mi.gdt.qq.com ï¼šè¯¯æ€ï¼Œä¼šå¯¼è‡´æ——é±¼å½±è§†é¦–é¡µæ— æ³•åŠ è½½ã€‚
-åˆ é™¤mi.gdt.qq.comè¿™æ¡æ•°æ® ä¼šé€ æˆ éƒ¨åˆ†å¹¿å‘Šå±è”½ä¸å®Œç¾ é€ æˆè¿…é›·ç•Œé¢çš„å„ç§å¹¿å‘Š
-sqdd.myapp.com ï¼šå¤šé‡ç”¨é€”ï¼Œå¯ä»¥å±è”½æ‰‹æœºQQåå°å·å·ä¸‹è½½å®‰è£…åŒ… ï¼Œä½†ä¼šé€ æˆQQç¾¤æˆå‘˜é‡ŒæŸ¥çœ‹â€œæœ€è¿‘å‘è¨€â€åŠŸèƒ½æ— æ³•ä½¿ç”¨ã€‚
-127.0.0.1 upush.meizu.com meizu-flyme å‡çº§
-127.0.0.1 temp.163.com è¯­éŸ³ï¼Œæœ¬åœ°æ–°é—»ç­‰
-ç½‘é¡µç‰ˆå»æ‰ t7z.cupid.iqiyi.com å°±å¯ä»¥æ’­æ”¾äº†
-s.img.mix.sina.com.cnä¼šæŠŠsinaçš„slideå›¾ç‰‡é˜»æ–­äº†ï¼Œå¸Œæœ›èƒ½å¤Ÿå»æ‰
-å½±å“youdaoç¿»è¯‘åŠŸèƒ½çš„æ˜¯ rlogs.youdao.com
-staticxx.facebook.comæœƒå°è‡´Facebookæ‡‰ç”¨ç¨‹å¼æˆ–éŠæˆ² ç„¡æ³•ç™¼å¸ƒè²¼æ–‡ä»¥åŠå‚³é€é‚€è«‹
-PC ä¸Šé¢ä½¿ç”¨ï¼Œqzs.qq.comï¼Œè¿™ä¸ªå¯¼è‡´ç©ºé—´æ‰“ä¸å¼€å›¾ç‰‡ã€‚
-èƒ½å¦å»é™¤æ‰‹æœºç½‘é¡µç‰ˆç™¾åº¦è´´å§å†…çš„æ¨å¹¿ä»¥åŠåº•éƒ¨appæ¨å¹¿é“¾æ¥ï¼Ÿ
+get.sogou.com  :ÎóÉ±£¬»áÔì³ÉËÑ¹·ÊäÈë·¨±íÇéÄÚÍ¼Æ¬¼ÓÔØ²»ÁË
+mi.gdt.qq.com £ºÎóÉ±£¬»áµ¼ÖÂÆìÓãÓ°ÊÓÊ×Ò³ÎŞ·¨¼ÓÔØ¡£
+É¾³ımi.gdt.qq.comÕâÌõÊı¾İ »áÔì³É ²¿·Ö¹ã¸æÆÁ±Î²»ÍêÃÀ Ôì³ÉÑ¸À×½çÃæµÄ¸÷ÖÖ¹ã¸æ
+sqdd.myapp.com £º¶àÖØÓÃÍ¾£¬¿ÉÒÔÆÁ±ÎÊÖ»úQQºóÌ¨ÍµÍµÏÂÔØ°²×°°ü £¬µ«»áÔì³ÉQQÈº³ÉÔ±Àï²é¿´¡°×î½ü·¢ÑÔ¡±¹¦ÄÜÎŞ·¨Ê¹ÓÃ¡£
+127.0.0.1 upush.meizu.com meizu-flyme Éı¼¶
+127.0.0.1 temp.163.com ÓïÒô£¬±¾µØĞÂÎÅµÈ
+ÍøÒ³°æÈ¥µô t7z.cupid.iqiyi.com ¾Í¿ÉÒÔ²¥·ÅÁË
+s.img.mix.sina.com.cn»á°ÑsinaµÄslideÍ¼Æ¬×è¶ÏÁË£¬Ï£ÍûÄÜ¹»È¥µô
+Ó°Ïìyoudao·­Òë¹¦ÄÜµÄÊÇ rlogs.youdao.com
+staticxx.facebook.com•şŒ§ÖÂFacebook‘ªÓÃ³ÌÊ½»òß[‘ò Ÿo·¨°l²¼ÙNÎÄÒÔ¼°‚÷ËÍÑûÕˆ
+PC ÉÏÃæÊ¹ÓÃ£¬qzs.qq.com£¬Õâ¸öµ¼ÖÂ¿Õ¼ä´ò²»¿ªÍ¼Æ¬¡£
+ÄÜ·ñÈ¥³ıÊÖ»úÍøÒ³°æ°Ù¶ÈÌù°ÉÄÚµÄÍÆ¹ãÒÔ¼°µ×²¿appÍÆ¹ãÁ´½Ó£¿
 http://tb1.bdstatic.com/tb/cms/ngmis/adsense/file_1454764255628.gif
-æ¯”å¦‚è¿™ä¸ªå¯ä»¥ç”¨urlfilteræ‹¦æˆª_/adsense/_ä½†æ˜¯ä¸èƒ½æ‹¦æˆªtb1.bdstatic.comä¸»åŸŸå,å› ä¸ºä¸»åŸŸåæ”¾äº†cssæ–‡ä»¶,å±è”½äº†é¡µé¢æ˜¾ç¤ºä¹Ÿä¸æ­£å¸¸.
+±ÈÈçÕâ¸ö¿ÉÒÔÓÃurlfilterÀ¹½Ø_/adsense/_µ«ÊÇ²»ÄÜÀ¹½Øtb1.bdstatic.comÖ÷ÓòÃû,ÒòÎªÖ÷ÓòÃû·ÅÁËcssÎÄ¼ş,ÆÁ±ÎÁËÒ³ÃæÏÔÊ¾Ò²²»Õı³£.
 #miui-system-update 127.0.0.1 update.miui.com
 Please on next update remove that line. Thank you.
-127.0.0.1 images.17173.com è¿™æ¡è¯¯æ€å¤ªä¸¥é‡äº†
-http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml å›¾ç‰‡å…¨ç»™XXäº†
-dw.cbsi.comå»ºè®®å»é™¤
+127.0.0.1 images.17173.com ÕâÌõÎóÉ±Ì«ÑÏÖØÁË
+http://news.17173.com/content/2016-08-07/20160807080126801_1.shtml Í¼Æ¬È«¸øXXÁË
+dw.cbsi.com½¨ÒéÈ¥³ı
 
-img.momocdn.comé™Œé™Œè§†é¢‘
-api.growingio.comå¯¼è‡´æ‘©æ‹œæ²¡æ³•å‘é€æ‰‹æœºéªŒè¯
-127.0.0.1 tce.alicdn.comé£çŒªâ€œé¢†é‡Œç¨‹â€åŠŸèƒ½è¯¯æ€
-wap.koudaitong.comç½‘é¡µè·³è½¬
+img.momocdn.comÄ°Ä°ÊÓÆµ
+api.growingio.comµ¼ÖÂÄ¦°İÃ»·¨·¢ËÍÊÖ»úÑéÖ¤
+127.0.0.1 tce.alicdn.com·ÉÖí¡°ÁìÀï³Ì¡±¹¦ÄÜÎóÉ±
+wap.koudaitong.comÍøÒ³Ìø×ª
 

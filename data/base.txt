@@ -41,6 +41,7 @@
 #cnzz
 127.0.0.1 ww6.adm-cnzz.net
 127.0.0.1 www.adm-cnzz.net
+127.0.0.1 a.cnzz.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 ca.cnzz.com
 127.0.0.1 ei.cnzz.com
@@ -300,6 +301,7 @@
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 t.go.sohu.com
+127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou

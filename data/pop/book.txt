@@ -353,6 +353,7 @@
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
 127.0.0.1 p.dandan19.top
+127.0.0.1 sy.njfsk.com
 127.0.0.1 mm.njfsk.com
 127.0.0.1 p.qiailm.com
 127.0.0.1 code.33shangyou.com

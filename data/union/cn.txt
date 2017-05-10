@@ -19,6 +19,7 @@
 127.0.0.1 news.push.126.net
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
+127.0.0.1 cms-bucket.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 statis.push.netease.com
@@ -924,6 +925,8 @@
 127.0.0.1 u5.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
+#9imobi.com
+127.0.0.1 adsdk.9imobi.com
 #99click
 127.0.0.1 1116.oadz.com
 127.0.0.1 2311.oadz.com
@@ -1358,6 +1361,8 @@
 127.0.0.1 api.android.dianru.com
 127.0.0.1 static.dianru.com
 127.0.0.1 www.dianru.com
+#dianview.com
+127.0.0.1 a-api.dianview.com
 #dmrtb.com
 127.0.0.1 track.dmrtb.com
 #domob.cn
@@ -1365,6 +1370,7 @@
 127.0.0.1 c.domob.cn
 127.0.0.1 domob.cn
 127.0.0.1 domob.com.cn
+127.0.0.1 dvx-android.domob.cn
 127.0.0.1 e.domob.cn
 127.0.0.1 e.domob.com.cn
 127.0.0.1 r.domob.cn
@@ -1448,7 +1454,9 @@
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
+127.0.0.1 api.growingio.com
 127.0.0.1 apihk.growingio.com
+127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com
 127.0.0.1 tags.growingio.com
 #guomob
@@ -1714,6 +1722,7 @@
 127.0.0.1 ip2.pxene.com
 #qchannel
 127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel02.cn
 127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 #qtmojo

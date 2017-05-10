@@ -1,5 +1,142 @@
-﻿#uc下载页面广告
-
+﻿---
+127.0.0.1 bgstat.myzaker.com
+127.0.0.1 dc1.networkbench.com
+127.0.0.1 redirect.networkbench.com
+127.0.0.1 noring.zdworks.com
+127.0.0.1 pingmid.qq.com
+127.0.0.1 yen.zdworks.com
+127.0.0.1 zpns.zdworks.com
+http://cal.stat2.zdworks.com/get_online_config
+http://ad.zdworks.com/ad/get?platform=0&sid=3008&last_modified=0&sys=24&app_ver=2.3.218&uuid=460098026006334862033031253600&pm=MI+5&language=zh_CN&channel=3010000029&user_id=0
+http://cal.stat.zdworks.com/?p=an%3Dbi%7Cuuid%3D862033031253600460098026006334%7Cs%3D3008%7Cc%3DCN%7Cch%3D3010000029%7Csv%3D2.3.218%7Cpt%3DMI+5%7Cov%3D24
+http://api.pingstart.com/v3/api/nativeads?publisherid=5089&slotid=1000250&lang=zh&timestamp=1494375959218&platform=android&osv=24&dpi=480.0&tzone=GMT%252B08%253A00&aid=c77121a87fbe68cc&nt=1&model=MI%2B5&brand=Xiaomi&gp=0&root=0&versioncode=3.1.0&app_versioncode=218&app_name=com.zdworks.android.zdcalendar
+http://stat.myzaker.com/stat_article_keyword.php?action=show&from=word&keyword_id=58799687be0988586f00006d&app_id=13&new_app_id=1&pk=5911a00b9490cbac07000010&t=1494371958621
+http://stat.myzaker.com:443
+http://bgstat.myzaker.com:443
+http://ad.jiemian.com:443
+http://iis3g.deliver.ifeng.com/LogReceiver/savelog
+http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5_7.0&adids=&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1494372127690&gifsupport=1
+http://app.xdrig.com:443
+http://stadig0.ifeng.com/appsta.js
+http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5_7.0&adids=10000250,10000100,10000252,10000254,10000151,10000152,10000153,10000154,10000155,10000156&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1494372128478
+http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5_7.0&adids=10014992&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1494372128492
+http://jic.talkingdata.com:443
+http://www.qchannel01.cn/center/adj
+http://m.irs01.com/rec/se?_iwt_t=i&sv=2&sdkver=2.4.6&count=1
+http://exp.3g.ifeng.com/coverAdversApi?gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi
+http://www.qchannel01.cn/center/adj?appkey=com.ifeng.news2-5.5.4
+http://ifengad.3g.ifeng.com/ad/pid.php?pid=10000112&gv=5.5.4&proid=ifengnews&os=android_24
+http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A22%3A08%23pushstatus%23appsw%3Don%24syssw%3Don%24id%3D%E6%96%B0%E9%97%BB%E6%8E%A8%E9%80%81%402017-05-10%2B07%3A22%3A08%23adinfo%23ainfo%3D10000112%3A%3A%24first%3Dyes%402017-05-10%2B07%3A22%3A08%23hb%23tm%3D1494372128&net=wifi&sver=V1&sig=3gtckfgt4sc81nfh3qf74w8e4q2c3kgc4a046fgqoi2cr3h
+http://api.iapps.ifeng.com/news/adTipConfig?&headLogoType=4&province=&city=&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi
+http://api.newad.ifeng.com/AdvertisingOpinion
+http://www.qchannel02.cn/fmc.php?Sijlakey=com.ifeng.news2-5.5.4&uid=32AABCB02EAB720C0EAA3F575AC41FE4&sdkver=160509&channel=6001&appver=5.5.4&did=862033031253600
+http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5_7.0&adids=10000003,10000284&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1494372131567
+http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5_7.0&adids=10014191&gv=5.5.4&av=5.5.4&uid=862033031253600&deviceid=862033031253600&proid=ifengnews&os=android_24&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1494372131566
+http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A22%3A08%23pushstatus%23appsw%3Don%24syssw%3Don%24id%3D%E6%96%B0%E9%97%BB%E6%8E%A8%E9%80%81%402017-05-10%2B07%3A22%3A08%23adinfo%23ainfo%3D10000112%3A%3A%24first%3Dyes%402017-05-10%2B07%3A22%3A08%23hb%23tm%3D1494372128%402017-05-10%2B07%3A22%3A11%23action%23type%3Dcdr%24id%3Dsy%24pty%3Dauto%402017-05-10%2B07%3A22%3A12%23action%23type%3Dcdr%24id%3Drcmd%24pty%3Dch%24rfnum%3D17%402017-05-10%2B07%3A22%3A13%23action%23type%3Dcdr%24id%3Drcmd%24pty%3Dch%24rfnum%3D17%402017-05-10%2B07%3A22%3A14%23page%23id%3Dsy%24type%3Dch&net=wifi&sver=V1&sig=oi9813fc4hj76nf24ij8h2f7339cek8i3g0c1fs74b0cr3h
+http://api2.analysys.cn:8089
+http://astrategy.beacon.qq.com:8080/analytics/upload?mType=beacon?sid=b7f0cbb245f369580c07d0d7c3e93fbe
+http://pingma.qq.com:80/mstat/report/?index=1494372164
+http://pingma.qq.com:80/mstat/report/?index=1494372165
+http://msg.umengcloud.com:443
+http://adashbc.m.taobao.com/rest/sur?ak=23076470&av=6.0304.02&c=null&v=3.0&s=557eb703fc25785a27208baa9ff8e74547d6697a&d=WNS0zjG2AQIDAJ72dtgPkPfh&sv=2.5.1.3_for_bc&p=a&t=1494372178185&u=&is=1&k=0
+http://android.rqd.qq.com/analytics/async?aid=2546329e-4c9b-4f9c-a747-4017e456fc0b
+http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A22%3A11%23action%23type%3Dupscreen%24psnum%3D1%24id%3Dsy%402017-05-10%2B07%3A22%3A12%23action%23type%3Dupscreen%24psnum%3D1%24id%3Drcmd&sver=V1&sig=o1f7i38s3rf73n984t0742gcobtci2ci43j83ksf4327r3h
+http://download.yidianzixun.com/android/zixun_v378.apk
+http://data.mistat.xiaomi.com/mistats/v2
+http://www.qchannel01.cn/center/ard?appkey=com.ifeng.news2-5.5.4&uid=32AABCB02EAB720C0EAA3F575AC41FE4&sdk=160509&did=862033031253600
+http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A23%3A08%23end%23odur%3D59&net=wifi&sver=V1&sig=o1j813fho1j84nfc4at86ftt33jc6fsa3398r3c83qjck22
+http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A23%3A08%23end%23odur%3D59&net=wifi&sver=V1&sig=4if7iw984if84n9i3t0ci29b4wc80fs7osc8kwtq4394r2h
+http://sax.sina.com.cn/mfp/adpreload?pdps=PDPS000000058269&date=20170510,20170511,20170512
+http://api2.sharesdk.cn:5566/conf3
+http://api2.sharesdk.cn:5566/log4
+http://log.umsns.com:443
+http://stats.umsns.com:443
+http://afpssp.alimama.com/sdk/cf?osv=7.0&ts+=1494372489750&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.4.1.20170222&dpr=3.0&bn=Xiaomi&os=android&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&ts+=1494372489763&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.4.1.20170222&dpr=3.0&bn=Xiaomi&os=android&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=395c50c83246fcb5&sid=b7f0cbb245f369580c07d0d7c3e93fbe
+http://gm.mmstat.com/wapebs.5.1?osv=7.0&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&load_status=COMPLETED&protv=1.3.0.20161129&net=wifi&sdkv=1.4.1.20170222&os=android&apnm=com.yicai.news&netp=unknown&evt=501&nop=%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A
+http://a.cnzz.com/getServerTime/?
+http://analytics.yicai.com/yc.gif?t=3&mna=yicaiapp&cid=2f4f0901-843a-42fe-9487-6c4b9393c5e6&mde=MI%205&mma=mi&mos=android&mov=7.0&mav=47&eca=base&eac=launch
+http://alog.umeng.com/app_logs
+http://log.mmstat.com/t.gif
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372490996&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://alog.umengcloud.com/app_logs
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372491005&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://uop.umeng.com:443
+http://afpssp.alimama.com/sdk/ad?aid=61260818&sz=1080x1620&vt=9&sco=&ca=0&ct=&&acct=1&sdkc=&apnm=com.yicai.news&adnm=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&apvn=10.2.2&sdkv=1.4.1.20170222&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&sdkc=None&protv=1.3.0.20161129&os=android&osv=7.0&mcc=CN&lc=%E4%B8%AD%E6%96%87%28%E4%B8%AD%E5%9B%BD%29&lang=zh_CN&tz=8&ts=1494372491119&net=wifi&netp=unknown&nop=0&gdpi=&bn=Xiaomi&mn=MI+5&rs=1080x1920&dpr=3.0&idfa=&mac=02%3A00%3A00%3A00%3A00%3A00&utdid=WNS0zjG2AQIDAJ72dtgPkPfh&alid=&idfv=&imei=862033031253600
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372495306&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372496381&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://upload.jhnews.com.cn/2017/0509/1494319378608.jpg
+http://afpssp.alimama.com/sdk/cf?osv=7.0&ts+=1494372498428&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.4.1.20170222&dpr=3.0&bn=Xiaomi&os=android&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/ad?aid=71682786&sz=1080x1920&vt=9&sco=&ca=0&ct=&&acct=1&sdkc=&apnm=com.yicai.news&adnm=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&apvn=10.2.2&sdkv=1.4.1.20170222&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&sdkc=None&protv=1.3.0.20161129&os=android&osv=7.0&mcc=CN&lc=%E4%B8%AD%E6%96%87%28%E4%B8%AD%E5%9B%BD%29&lang=zh_CN&tz=8&ts=1494372496412&net=wifi&netp=unknown&nop=0&gdpi=&bn=Xiaomi&mn=MI+5&rs=1080x1920&dpr=3.0&idfa=&mac=02%3A00%3A00%3A00%3A00%3A00&utdid=WNS0zjG2AQIDAJ72dtgPkPfh&alid=&idfv=&imei=862033031253600
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372496439&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&ts+=1494372500030&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.4.1.20170222&dpr=3.0&bn=Xiaomi&os=android&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372505335&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372505342&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372507509&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://afpssp.alimama.com/sdk/cf?osv=7.0&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.3.0.20161129&dpr=3.0&bn=Xiaomi&os=android&chl=mi&ts=1494372508555&plugv=FrameworkPlugin%3A3.4%2CLoopImagePlugin%3A2.9%2CInsertPlugin%3A3.2%2CCommonPlugin%3A5.0%2CFeedPlugin%3A3.2%2CWelcomePlugin%3A3.6%2CBannerPlugin%3A3.4%2C&apvn=10.2.2&imei=862033031253600&lang=zh_CN&mcc=cn&sdkv=1.4.1.20170222&apnm=com.yicai.news
+http://adsdk.9imobi.com/AdGlobal?ver=7
+http://x1.go.sohu.com:443
+http://api.k.sohu.com/api/function/active.go?p1=NjI2NzAzODY2NTg4MTg1ODExOQ%3D%3D&gid=02ffff1106111159a4d352d4f3ef738e6675c6561daed5&pid=-1
+http://show-m.mediav.com:443
+http://sdk.mediav.com:443
+http://www.qchannel04.cn/fmc.php?Sijlakey=com.netease.newsreader.activity-23.1&uid=32AABCB02EAB720C0EAA3F575AC41FE4&sdkver=160418&channel=miliao_news&appver=23.1&did=862033031253600
+http://www.qchannel01.cn/center/adj?appkey=com.netease.newsreader.activity-23.1&uid=32AABCB02EAB720C0EAA3F575AC41FE4&sdk=160418&did=862033031253600
+http://cms-bucket.nosdn.127.net/c651511e7d80478d96b4f1b23afa395320170327142135.png
+http://g1.163.com:443
+http://n.3g.163.com/nc/notify/android/notify.json
+http://nex.163.com:443
+http://track.mediav.com:443
+http://m.beacon.sina.com.cn/mstat
+http://t.growingio.com:443
+http://redirect.networkbench.com:443
+http://tags.growingio.com:443
+http://dc1.networkbench.com:443
+http://resolver.gslb.mi-idc.com/gslb/gslb/getbucket.asp?deviceType=0&list=file.market.xiaomi.com&ver=3.0
+http://b.appjiagu.com/jiagu/t/infos
+http://p.appjiagu.com/jiagu/msgs
+http://api.growingio.com:443
+http://crashapi.growingio.com:443
+http://urd345.analysys.cn:10443
+http://ad.ipadview.com/dspapi/ad/showurl/1537?uuid=179509779&product=505&imei=862033031253600&cc=5D9F6736DC681C7E31D6D339DF64CEA3
+http://www.cmread.com/advertise/index.php/pull/ad
+http://push-android.myzaker.com/push/stat_android_msg_receive.php?_appid=AndroidPhone&_bsize=1080_1920&_city=linyi&_dev=39&_lat=35.118641&_lbs_city=%E4%B8%B4%E6%B2%82&_lbs_province=%E5%B1%B1%E4%B8%9C%E7%9C%81&_lng=118.336347&_mac=02%3A00%3A00%3A00%3A00%3A00&_mcode=FA2EBB6C&_net=wifi&_nudid=cbd3a8852392b2e9&_os=7.0_MI5&_os_name=MI5&_province=%E5%B1%B1%E4%B8%9C%E7%9C%81&_udid=862033031253600&_v=7.8&_version=7.8&push_attribute=%7B%22attributes%22%3A%5B%7B%22key%22%3A%22area_city%22%2C%22values%22%3A%5B%22qingdao%22%5D%2C%22api_version%22%3A%2239%22%2C%22last_time%22%3A0%7D%2C%7B%22key%22%3A%22area_province%22%2C%22values%22%3A%5B%2225%22%5D%2C%22api_version%22%3A%2239%22%2C%22last_time%22%3A0%7D%5D%2C%22tags_mapping%22%3A%7B%22znews%22%3A%5B%22fav_15%22%2C%22fav_6%22%2C%22fav_35%22%2C%22fav_36%22%5D%2C%22zent%22%3A%5B%22fav_2%22%5D%2C%22zsport%22%3A%5B%22fav_4%22%5D%2C%22ztech%22%3A%5B%22fav_1%22%2C%22fav_21%22%2C%22fav_22%22%2C%22fav_23%22%5D%2C%22zfin%22%3A%5B%22fav_3%22%2C%22fav_33%22%2C%22fav_14%22%5D%2C%22zlife%22%3A%5B%22fav_8%22%2C%22fav_11%22%2C%22fav_13%22%2C%22fav_30%22%2C%22fav_18%22%2C%22fav_19%22%2C%22fav_29%22%2C%22fav_16%22%2C%22fav_32%22%5D%2C%22zfas%22%3A%5B%22fav_9%22%2C%22fav_25%22%2C%22fav_34%22%5D%2C%22zcar%22%3A%5B%22fav_5%22%5D%2C%22zmovie%22%3A%5B%22fav_31%22%5D%2C%22zflash%22%3A%5B%22zflash%22%5D%2C%22zlocalnews%22%3A%5B%22city_qingdao%22%2C%22province_25%22%5D%2C%22zdaily%22%3A%5B%22zdaily%22%5D%2C%22zstarbuck%22%3A%5B%22zstarbuck%22%5D%2C%22znightread%22%3A%5B%22znightread%22%5D%2C%22zteatime%22%3A%5B%22zteatime%22%5D%2C%22zclubbing%22%3A%5B%22zclubbing%22%5D%7D%2C%22state%22%3A%221%22%2C%22api_version%22%3A%2239%22%2C%22last_time%22%3A1494371915083%7D&push_id=591253601bc8e0d665000006&push_time=1494373216
+http://pingmid.qq.com:80/
+http://pingmid.qq.com:80/?s=502957139&k=59F66840BA8A71326C138EC3AE1EC070760A0781
+http://dvx-android.domob.cn/ow/a
+http://a-api.dianview.com/api/a_adlist.php
+http://clock.stat2.zdworks.com/get_online_config
+http://clock.stat2.zdworks.com/
+http://stats.magicwindow.cn/dp/dpls/v2
+http://m.fruitnotlike.com:6088/s/
+http://stats.magicwindow.cn/ts
+http://stats.magicwindow.cn/tracking/v2
+http://stats.magicwindow.cn/config/v2
+http://xingzuo.zdworks.com/media/data/aries.js
+http://yen.zdworks.com/c?wf=1&screen=%7B%22d%22%3A3%2C%22w%22%3A1080%2C%22h%22%3A1920%7D&app_ver=4.9.612&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&ct=0&pm=MI+5&position=1&cnt=100&platform=0&sid=1001&imei=862033031253600&sys=24&location=%7B%22src%22%3A2%2C%22city%22%3A%22%E5%8C%97%E4%BA%AC%E5%B8%82%22%7D&oi=13&sys_ver=7.0&language=zh_CN&channel=3010000029&vendor=Xiaomi&user_id=-1&android_id=c77121a87fbe68cc
+http://crystalexpress.optimix.cn/cdn/adcfg/8b8eb926b3a1419eb4640a0e7d9e41d2.json
+http://adclock.zdworks.com/ad/imprconfig
+http://noring.zdworks.com/config
+http://adclock.zdworks.com/ad/common?last_modified=-1&app_ver=4.9.612&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&pm=MI+5&ct=0&platform=0&sid=1001&location=%7B%22src%22%3A2%2C%22city%22%3A%22%E5%8C%97%E4%BA%AC%22%7D&imei=862033031253600&sys=24&oi=13&language=zh_CN&channel=3010000029&user_id=-1&android_id=c77121a87fbe68cc
+http://noring.zdworks.com/tips
+http://adclock.zdworks.com/ad/person?app_ver=4.9.612&pos_ids=%5B40%2C41%5D&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&pm=MI+5&ct=0&platform=0&sid=1001&location=%7B%22src%22%3A2%2C%22city%22%3A%22%E5%8C%97%E4%BA%AC%22%7D&imei=862033031253600&sys=24&oi=13&tid=-1&uid=&language=zh_CN&channel=3010000029&user_id=-1&keywords=%5B%5D&android_id=c77121a87fbe68cc
+http://push.zdworks.com:443
+http://wn.pos.baidu.com/adx.php?c=d25pZD0zY2QyZjA3MTFjZGFlMmI5AHM9M2NkMmYwNzExY2RhZTJiOQB0PTE0OTQzNzQ3MzMAc2U9MgBidT02AHByaWNlPVdSSlpUUUFISkZsN2pFcGdXNUlBOGpQN2ktc083NXdTRExSbHF3AGNoYXJnZV9wcmljZT0yMjIxAHNoYXJpbmdfcHJpY2U9MjIyMTAwMAB3aW5fZHNwPTYAY2htZD0xAGJkaWQ9AGNwcm9pZD0Ad2Q9ODgzNTM0NQBwb3M9MABiY2htZD0wAHY9MQBpPTlkNzhmZjgw&ext=ZmNfdWlkPTg2MjAzMzAzMTI1MzYwMCZmY19paWQ9ODc5ODE1JmZjX2V4PTY4MDY3JmZjX2xvPWJqJmZjX3VpZDE9ODYyMDMzMDMxMjUzNjAwJmZjX2lpZDE9OTA5NzMwMTQ5JmZjX2V4MT02MDQ4MDAmZmNfbG8xPWJqJmZjX3RrMT1tb2JhZHNfYXBwX3VzZXImZmNfdWlkND04NjIwMzMwMzEyNTM2MDAmZmNfaWlkND0tMzU5MjIxNzcyJmZjX2V4ND01NzI2NyZmY19sbzQ9YmomZmNfdGs0PW1vYmFkc19hZGdvYWw
+http://config.inmobi.com/config-server/v1/config/secure.cfg
+http://v.gdt.qq.com/gdt_stats.fcg?viewid0=L5Gj6U6N5Rp4_w95O1B0qBq9PbF9kp4qLnF!m0rS7pwKWRL5qwTDv63UdQJwH4uZENUF4CH!YANz8em!_yBLyx3s5OB9pqVDwxWc3OD4y8o1qpEhopk7EU13NWQTkQEcHpodTLHCwo5PTw2UJcAPDBYMUkh5vn7Jnt7S5HhHxL0!3yoUWDSwItRBB5VG1Ilri8RjwXthmQSecFrRlqsmzel0mR5UXbL0&count=1
+http://zpns.zdworks.com/1/pop/1001?pm=MI+5&language=zh_CN&sys=24&channel=3010000029&ver=4.9.612&uuid=460098026006334862033031253600
+http://adclock.zdworks.com/video_ads/urls/get?screen=%7B%22d%22%3A3%2C%22w%22%3A1080%2C%22h%22%3A1920%7D&app_ver=4.9.612&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&ct=0&pm=MI+5&cnt=100&platform=0&sid=1001&imei=862033031253600&sys=24&location=%7B%22src%22%3A2%2C%22province%22%3A%22%E5%B1%B1%E4%B8%9C%E7%9C%81%22%2C%22city%22%3A%22%E4%B8%B4%E6%B2%82%E5%B8%82%22%2C%22district%22%3A%22%E5%85%B0%E5%B1%B1%E5%8C%BA%22%2C%22coord%22%3A%22%7B%5C%22lng%5C%22%3A%5C%22118.329995%5C%22%2C%5C%22lat%5C%22%3A%5C%2235.112317%5C%22%2C%5C%22ts%5C%22%3A1494374735981%7D%22%7D&oi=13&sys_ver=7.0&language=zh_CN&channel=3010000029&vendor=Xiaomi&user_id=-1&android_id=c77121a87fbe68cc
+http://adclock.zdworks.com/silent_downloads/get?screen=%7B%22d%22%3A3%2C%22w%22%3A1080%2C%22h%22%3A1920%7D&last_modified=0&app_ver=4.9.612&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&ct=0&pm=MI+5&cnt=100&platform=0&sid=1001&imei=862033031253600&sys=24&location=%7B%22src%22%3A2%2C%22province%22%3A%22%E5%B1%B1%E4%B8%9C%E7%9C%81%22%2C%22city%22%3A%22%E4%B8%B4%E6%B2%82%E5%B8%82%22%2C%22district%22%3A%22%E5%85%B0%E5%B1%B1%E5%8C%BA%22%2C%22coord%22%3A%22%7B%5C%22lng%5C%22%3A%5C%22118.329995%5C%22%2C%5C%22lat%5C%22%3A%5C%2235.112317%5C%22%2C%5C%22ts%5C%22%3A1494374735981%7D%22%7D&oi=13&sys_ver=7.0&language=zh_CN&channel=3010000029&vendor=Xiaomi&user_id=-1&android_id=c77121a87fbe68cc
+http://adclock.zdworks.com/ad/person?app_ver=4.9.612&pos_ids=%5B4%5D&mac=02%3A00%3A00%3A00%3A00%3A00&uuid=460098026006334862033031253600&pm=MI+5&ct=0&platform=0&sid=1001&location=%7B%22district%22%3A%22%E5%85%B0%E5%B1%B1%E5%8C%BA%22%2C%22province%22%3A%22%E5%B1%B1%E4%B8%9C%E7%9C%81%22%2C%22src%22%3A2%2C%22city%22%3A%22%E4%B8%B4%E6%B2%82%E5%B8%82%22%7D&imei=862033031253600&sys=24&oi=13&tid=11&uid=08fa0485b4d544eebda8d0f18e4171e20&language=zh_CN&channel=3010000029&user_id=-1&keywords=%5B%22%E6%B3%95%E5%AE%9A%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%B5%B7%E5%BA%8A%E9%97%B9%E9%92%9F%22%5D&android_id=c77121a87fbe68cc
+http://adclock.zdworks.com/aggregate_ads/get
+http://wn.pos.baidu.com/adx.php?c=d25pZD00MDA0YmFmZjI1MmRmYmY2AHM9NDAwNGJhZmYyNTJkZmJmNgB0PTE0OTQzNzQ4MjEAc2U9MgBidT00AHByaWNlPVdSSlpwUUFBUktwN2pFcGdXNUlBOHY5NjdxUHVGLV9NeEZWcXpRAGNoYXJnZV9wcmljZT0yMDYAc2hhcmluZ19wcmljZT0yMDYwMDAAd2luX2RzcD00AGNobWQ9MQBiZGlkPQBjcHJvaWQ9AHdkPTAAcG9zPTAAYmNobWQ9MAB2PTEAaT0zNjhhMmU4YQ
+http://masdk.3g.qq.com/
+http://sdkm.w.inmobi.com:443
+http://ubmcmm.baidustatic.com/media/v1/0f000a-WuqwBIInUOLDxl0.jpg
+http://swa.gtimg.com/app/snswin/2017/01/12/15/1964948.jpg
+http://bj.imp.voiceads.cn/ad/impress?impressId=81a8bb46-b640-4815-8846-6e9b435e0345-1494375172631&traceId=b81022fd-9d78-4fd9-a885-603107a0132a&inAId=16241&wPltId=99&wPltAdId=_adb_14639_10146715&wPr=bQbmxY3VHn7pmchJoiOv-g
+http://p.l.qq.com/p?oid=1804856622&chid=46811&loc=_adb_14639_10146715&soid=%2BIPHKgAAWRJbBArwVzJYIGRkAWzw&channel_id=1&btoid=731962127&ping_data=dXNlcl9pbmZvPW9BRGptams5SFJJPSZzc3A9MTAxJnVwX3ZlcnNpb249UzE4NHxBNnxCMTY4JmdyYWRlPTQwJnByaTE9U2c0bmlWMUVsdkZKaEo2VEF2VUJJV3FFalFoMEtDY3QmYmlkcGFyYTE9MS4wMDAwMDAmcHJpbW9kPTImYmlkbW9kPTEmcHJpMj1iUkh6djNRUExWUjdjelo3c0Vld244MEo4djZkRnBCRiZ0dWlfYXJlYT02NzU4NCZ0dWlfYXJlYV90eXBlPUlQJmlzX2JhY2ttaXg9MCZjbGlja19leHRzPVJWaFVQV0l5Ykd0UVZHTjZUVlJyTWsxcVJYbE9lVnA2WWpKc2ExQlZXVFJQUkU1RVRucEtRazFFUVhkTlJGVTFUVlJKTVZGcVFUQk5SVVpIVFVSVk0wMTZTVzFpUnpscVlWZFJPVmd5Um10WmJEaDRUa1JaZWs5V09IaE5SRVV3VG1wamVFNVJQVDA9JnBjdHI9NDU5NTAmYXZlcj05MDIxMzcmcHJpPXNoaWdmY05QM244TGprZXBiVTdpSzV0UGhuTTdETHFjJmJ0cHJpPVA5MjYzVmwwQ0FwcGovNjdZWkdzZ2ZmQjBENk80YlN2&data=AWQpe0i8P0iBUucOAc6qy8GMmIRQKD15japiLHemOsoYwWbX3X8fj9OpEJsi%2Fca39V193TSCNecVQZuJJG5Umi5Pac0ovivYH1BNQBBQEmDH64z1IKICLrAGnPLW%2BZLPANA1F9w7OmrJkirIjqFbmD71KmE2koNbocXKMm5XhIBsPkNn7LxG13aGq95Hw9oDS8sTUOgKJ1LBfau965CHlhE5WN1i1IrvRgrd7XJ92aX6LzytpPm43nZ7X1kg%2BP4jabTFbzinRSoOQrLwdDk0%2BfojwIFlFqLaX1JFgeXJhiTm7Pi3ivmp5E3Q24UhlSl%2BLXkLvLgDiZz5%2Bo%2BEwLfKz%2FXDYtMQB6ae9EIx5JrD1eUJ9XXmP7oDcp9bYWAkCz9Yg%2B4QvpHSnIYAncyo%2FNDukul%2BncymdsDklX%3D%3D
+#uc下载页面广告
 adn.insight.ucweb.com/adsserver/ad_request
 #
 http://wtradv.market.xiaomi.com/v1/page?sysVersion=development&appVersion=91&channelId=1020&imei=5d27f347f78511ec294de5ddb62dbe81&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=gemini&dislike=&model=MI+5&androidVersion=24&screenDensity=3.0&expID=exp_182&expGroup=0
@@ -8,31 +145,23 @@ http://mp4.res.hunantv.com/video/1038/00344bacbb44aeb0991609bdcb6b4bb2.mp4
 http://vhunantv.admaster.com.cn/i/a84000,b1632646,c1370,i0,m202,8a2,8b1,f42.199.131.209,0a0,0c,0d,o,n,z,t__TIMESTAMP__,h?rnd=1494153098775
 http://vhunantv.admaster.com.cn/i/a84195,b1639949,c1370,i9333,m202,8a2,8b1,f42.199.131.209,0a0,0c,0d,o,n,z,t__TIMESTAMP__,0iPUB_221632,h?rnd=1494153114046
 http://mp4.res.hunantv.com/video/1038/fc763be090ca197285f68b027d3228b8.mp4
-http://mp4.res.hunantv.com/video/1038/00344bacbb44aeb0991609bdcb6b4bb2.mp4
-
 http://wx1.sinaimg.cn/large/63845edcgy1fe1arpjphjg20qo03cdlf.gif
 http://wx3.sinaimg.cn/large/63845edcgy1fe30fa1musg20qo01oac0.gif
 http://wx4.sinaimg.cn/large/63845edcgy1fe2zjo4ogvg20qo01ogrv.gif
-
 http://ww3.sinaimg.cn/large/005StFp9gw1ezo45jrb0ig30qo01ogop.gif
 http://ww4.sinaimg.cn/large/005StFp9gw1ezo45sc1oyg30qo01odj2.gif
 http://ww6.adm-cnzz.net/material/36/12388/b/2016/0509608812367953.70889875632399.gif
-
 http://www.adm-cnzz.net/material/36/12388/b/2016/jshf.gif
 http://wx1.sinaimg.cn/large/006J6Aungy1fdhonxu2u1g30qo01yn11.gif
 http://wx3.sinaimg.cn/mw1024/006uDBosgy1fdecfbhc1ng30qo01owt3.gif
 http://wx4.sinaimg.cn/mw1024/006uDBosgy1fdfk6ppvqwg30qo01y41n.gif
 昨天谁发的那个app免费小说书城说有广告的，我今天看了下，只有书架第一个有广告图便宜书记封面的形式轮播，也不影响多大光感，随便找了一本书，盗墓笔记，看了几页，暂停，退出都无法重现你说的广告.抓包发现具体请求如下：
 http://api.bifong.com/api/ad_show_statistics
-
 图片广告请求如下：
 http://img-cache.bifong.com/1493883916683MDUwNC3lhY3otLnlsI_or7QyNTJYMzYwLUZGNC5qcGc=
 如果你自己需要可以添加一个自己的名单，这两个数据就不合并了。我怕api那个屏蔽了不能读书
-
 127.0.0.1 api.bifong.com
 127.0.0.1 img-cache.bifong.com
-
-
 湖泊  11:15:29
 用adguard在新浪和凤凰网发现了两个广告源，不知能否加入咱这hosts。saxs.sina.com.cn/sax1.sina.com.cn直到sax9.sina.com.cn.和“个推”广告联盟比如getui.gexin.com
 小米下载
@@ -54,24 +183,18 @@ http://ad.api.3g.youku.com/adv/sd?_t_=1492870083&e=md5&_s_=450e83238e9719a682e56
 http://valf.atm.youku.com/mlog?lvs=1&step=2&os=android&bt=phone&bd=Xiaomi&avs=6.1.1&sid=d7a38f3ced492ad0cc7b2a5ae1d9fbb5&at=mo
 http://html.atm.youku.com/mhtmlclick?v=679880665&pp=1433218285&ct=d&cs=1003&ca=1699841&ie=908011&uid=1017633641&ck=863818035818120&al=0&bl=1&s=307775&td=0&st=1&vl=2446.0&ap=1433218285&dc=0&sid=&cr=1&pr=279&oidtype=140376%7C0&dq=&uri=&bak=0&pc=3.15E7&oneid=80220510097727831&ps=0&eff=1&adsid=149287008132342937047&bd=Xiaomi&mdl=MI+5s+Plus&tag=&ip=42.199.131.213&htch=__htch__&tp=2&prp=30&reqid=zb178-0JNV-04Ler1-0Lm-12T&pid=6b5f94f4ab33c702&aliid=WMzNdhA1%2FEQDAERMTng6FBvS&po=!po!&yid=&sex=&age=&dvw=1080&dvh=1920&sdkv=&osv=6.0.1&net=1000&vr=0&lid=&sr=&paid=false&oid=140376&atid=1100&pver=&sver=&fu=0&flowmark=dsp_rank%3AA%7Cadx_v_bid%3Adefault%7Cadx_p_bid%3Adefault%7Cadx_mix_bid%3Abase%7Cmixbid_show%3Abase%7Cadx_fg_bid%3Adefault%7Cadueopt%3AA&mb=1&os=1&dt=1&avs=6.1.1&aw=a&vc=0&idfa=&ouid=42b53368edd2bf0f&mac=02:00:00:00:00:00&im=863818035818120&aid=42b53368edd2bf0f&guid=db423051ee9d37c568e0ef18b8186b35&ss=0.0&lot=&lat=&ispcode=&uuid=&box=&etype=200
 http://mobilemsg.youku.com/msgapi/push/get_indexpage_msg_list?appid=1001&ts=1492870002&access_token=&sig=792d1fbb6c8d8dc95f64b011d5a4bac1&uid=&pf=1&ver=6.1.1&formant=json&deviceId=db423051ee9d37c568e0ef18b8186b35
-
 127.0.0.1 mdc.html5.qq.com 微信等诱导下载qq浏览器
 关于删除hosts里有关dnsmasq.conf的域名的脚本命令：
-
 #!/bin/sh 
 cd /storage/sdcard1/hosts
 awk -F/ '{print $2}' dnsmasq.conf > domain
 sed -i 's#^\.#\\\.#g' domain
-
 for abc in $(cat domain)
 do
 sed -i "/$abc/d" hosts
 done
-
 rm domain
-
 这样能减少一千多条hosts域名
-
 http://push-dc.51y5.net/dc/hou.scmd
 http://static.wkanx.com/w001/M00/10/E2/Cgp4R1jXSiSAMNzlAABSdiBnE84554.png
 http://news.51y5.net/news/fa.sec
@@ -79,7 +202,6 @@ http://news-log.51y5.net/news/inview.do?newsid=2145242799718400&token=a1393cc-a4
 http://msg.push.51y5.net/message/fa.sec
 http://cds.51y5.net/feeds.sec
 http://news-img.51y5.net/ab6c1b7328c695de3bc03b56aafd9a48?w=180&h=120&q=70
-
 http://c.wkanx.com/adx/win?sid=64455691d812391b&pvsid=41bb2db6c9a76df1&showpv=wV3JFxMBKms6KjJolmhoSjSeS0kPlIKLFz9YlPJBUPz3lISPwt1jyV3JFx4PlpZYlm6jvpstvpMBSxwLl0kBlp1jvx1jvxUZSXs6KPUjvxuVSalYC0zYFxhVSXhovmuXKxhovm4RSWlNM0SrSmkgSmugSmugSmugSmugSmuPwVr6wPK3Fx4Pwt1jyV3JSjBo1PKLCxBVKjsPlyZLT0UXFxALSz-oGjMLStntKxqOSxuLStnoSxuXGj4RSmEOSxSLSynoKmuRGj4VSmEOSxwLSynovmuoGj4eSmEOSjuLKInRSXuoGjkBSmqOMVeGbp3ZCV6YyXSoSx1GSyeQly9GwPzoSalXTprtytUYC0srSxAeSjwRvmABSRlNl0UYMzrYlm6tT0lY1P3Nl0JrvmMXvm4nSmS6vm4nSxkL1P6ZMXBLSjdLSmdLSmdLSmdLSmdLSWlJTp3JF0SnlxwnljAoKXq3MjUJMPSeSPSeKp4XKxsVlpSeSmMR1P3XyV3Q9P339XBL1PlRCVBr1fUewpzGT0ArSxuPwfUGMyzBTmBPwfUGT0Ar1fKdMy13ytUewpsrSWlXTpERlzrRMyUYCXBL1PEjM6rYlmBL1fKXwErXwPKYlmBPwtKLyVELwp3JFHljTX6jMxwnlmqPlPUJl0zPMV4XvmEZvpkLSj4Lvm1PKmlPl0UJMVlJM0UJ&from=
 http://c1.wkanx.com/ad_agent/s?url=ad0122d849859458&showpv=lpZYlm6jvpstvpMBSxwLl0kBlp1jvx1jvxUZSXs6KPUjvxuVSalYC0zYFxhVSXhovmuXKxhovm4RSWlJTXBLKxwnMX4XMjqaSXSBSmhBM0SoM0AVlm4oSXw6SXKJSalYlpzZFx4LKjhLSRlXT0ArM0ALSxkRlmhBvxh6vxA6vWl6wXBL1PEfyV3JF013MxwnSx4nSxUZlxSXKPktSplPlxhVljwtKm1jKmAt1PljyVznwErBCxBtSal6wVzRF0kXvxwRwjJL1PzjwpBrSXkXKal6CP3ByV3JFxAVSxhX1PKRMXB6SmAtSA&t=1
 http://c.wkanx.com/adx/win?sid=9e382960376934d5&pvsid=64c10f22f83a427e&showpv=wV3JFx33SXhRvxMLSXwVvxSBlmsPlIKLFz9YlP3mCVeBl0eB1fKRM6rYlmBRSHlJTp3JF0SnlxwnljAoKXq3MjUJMPSeSPSeKp4XKxsVlpSeSmMR1P3Nl0JrvmMXvm4nSmS6vm4nSxkL1P6ZMXBLSjdLSmdLSmdLSmdLSmdLSWlXCtzRMVsrSHlXwPKGT0ARF0K5CfUGSj4PMtqNFxSBKWl3bIqYlISrKmuRyXkoGjMLStntSmEOSxuLStnoSxuRGj4RSmUOSxSLSynoKmuXGj4VSmEOSxwLSynovmuoGjkLSmUOMVeGbp3ZCV6YyXSoSx1GSj4PwVZ596rBT063Fx4BvxktSjhBKmSPC0zJT0EGT0Ar9V3PTHlYC0zYFxhVSXhovmuXKxhovm4RSWlNM0SrSmkgSmugSmugSmugSmugSmuPlpZYlm6jvpstvpMBSxwLl0kBlp1jvx1jvxUZSXs6KPUjvxuVSalYw6rYCflYlywrSWlPwPrNFHlBbyq3yV3JFx4PwfUGMyzBTmBPwfUGT0Ar1fKdMy13ytUewpsrSWlXTpERlzrRMyUYCXBL1PEjM6rYlmBL1fKXwErXwPKYlmBPwtKLyVELwp3JFHljTX6aSp4LlxJLvxueSXsXSpkRv0AVv01aKXMVl0kXMV4LSxunvmwtvpk6&from=
@@ -96,9 +218,7 @@ http://l.supfast.net/muce/data/sink?profile=adnetwork&vc=24&vn=1.0.8&gzip=true&e
 http://apk.supfast.net/b/b4/89d9d24749e0eed2311562b0c1c46b4b.apk
 http://ads.supfast.net/network/v2/init
 http://ads.supfast.net/network/v3/app/list
-http://click.supfast.net/network/2256.gif?token=F9F0379670E5D4AB99A584D96A6CC480&pos=10&bid=2256&udid=cfbbc6254e1147568f5f392e5ddd28550b096efe&pid=100045112&tag=e7c051120ab4eef465076637c9e3a5d9&adformat=customAds&customAdFormatId=2256&sdkVersion=1.6.9
 http://img.supfast.net/mms/icon/v1/1/92/f8ca431b4308e147483192af58ff1921_78_78.png
-http://l.supfast.net/muce/data/sink?profile=adnetwork&vc=24&vn=1.0.8&gzip=true&encrypt=true&key_version=2
 http://ad.holaq.com:8883/v1/statistics
 http://api.tongji.today/v1/statistics
 http://stat.tongji.today:8883/2/statistics/proxy
@@ -132,10 +252,8 @@ http://vm.aty.sohu.com/pvlog?adtime=45&trule=36842&du=367&al=9307806&out=0&au=1&
 http://log.tbs.qq.com/ajax?c=dl&k=020777da255b3e203a4cb66dc5bdcf93
 http://securepubads.g.doubleclick.net:443
 http://debugreport.mobiledissector.com/
-http://show-m.mediav.com:443
 http://cfg-vd.gridsumdissector.com/200068.js?sn=0.5631890199035025
 http://cfg-vd.gridsumdissector.com/200068.js?sn=0.7972647027967085
-http://sdk.mediav.com:443
 http://delivery.wasu.cn/d/vast/3.0?pos=126&maxl=60&prol=wasutvapp_3.0.126&brand=MI5sPlus&pay=0&os=Android&rslt=1080_1920&phone=17088355714&uuid=42b53368edd2bf0f
 http://afpcreative.wasu.cn/FrameWork/AFP/ASP_vastTrack.swf
 http://afpcreative.wasu.cn/k.js
@@ -174,8 +292,6 @@ http://log.molitv.cn/log2.aspx?f=stat_1492678074258&v=209&u=03d3c04a-a420-40c0-8
 http://log.tv.moliv.cn/log2.aspx?f=stat_1492678105985&v=209&u=03d3c04a-a420-40c0-82ac-2ee4208a6049&app=mt&os=6.0.1&c=android&bt=1&vn=2.0.9&did=mac7802f8f2e1ea&uid=mac7802f8f2e1ea&vb=2.0.9(Official)&md=MI+5s+Plus&mc=Market_Xiaomi_V2&bd=msm8996&tv=0&bus=mi&vs=1&service=0&atd=0&region=%E4%B8%AD%E5%9B%BD%2C%E5%B1%B1%E4%B8%9C%2C%E9%9D%92%E5%B2%9B%2C%E9%B9%8F%E5%8D%9A%E5%A3%AB
 http://track.molitv.cn:9312/session?stype=1&evt=100&from=&page=index&time=1492678074765&fromvalue=&value=&v=209&u=03d3c04a-a420-40c0-82ac-2ee4208a6049&app=mt&os=6.0.1&c=android&bt=1&vn=2.0.9&did=mac7802f8f2e1ea&uid=mac7802f8f2e1ea&vb=2.0.9(Official)&md=MI+5s+Plus&mc=Market_Xiaomi_V2&bd=msm8996&tv=0&bus=mi&vs=1&service=0&atd=0&region=
 http://adxserver.ad.cmvideo.cn/request/sdk10
-http://alog.umengcloud.com/app_logs
-http://urd345.analysys.cn:10443
 http://121.201.15.55/api/v1/episode_ads?version_code=111&device_id=58f872b56255109d430a7da2cc411d742482ee53f4a19431&province=&city=&vip=0&channel=xiaomiappstore&program_id=56a6213a3977bd690659929c&category_id=2&program_title=%E7%8C%A9%E7%90%83%E5%B4%9B%E8%B5%B7&VideoType=LiveVideo&episode_num=1&VideoAccountLogin=false
 http://livep.l.ott.video.qq.com/livemsg?o=394&adtype=TI&soid=2AC783E6004258F8730195655800&r90=1&l=3&refluence=3&requestl=3&tagid=0&pf=atv&si=2961223434&ev=7.17.1.372&aver_flag=0&ip_filter=0&ufc_filter=0&backfunnel=401&use_axp=0&axpheader=1&vid=d0020ksrqlt&live=0&aid_tpid=1&aid_tpid2=1037&aid_tpid3=10139&aid_dura=6296&aid_vid_drm=2&aid_cid_drm=1&aid_copyright=308&aid_cover=aggiy0qv89a47k3&aid_subtype=4194304_8_1_1048576&aid_vip_type=1&dura=6296&tpid=1&guid=ECC688A8ED82BB3AC4001A60EBCFE443&ty=web&coverid=aggiy0qv89a47k3&zcindex=0&v=APP_AD_SDK&openudid=9e0ad9834696df8bf05349f55a851403&oadid=3&appversion=161201&lcount=1&chid=112&data=AS64N6HIoeOlMKo03SugcOvBbh8h4P7c2eq4ICWWh9Jr4dEcdB5u7FXm%2BF%2Frbw%2Bh8R6NeczUXEFdq0827Kb6zMD82Ek7i5M0uU2vLqVntLja42Zmxl%2BczEnXP9lOVpRqnoGwBp%2BHJqIXb6peGi5I%2Bup2oQbfcst2RjGP48rzMMKHFnFNLLUtp4wgnH8g7RsMh3XKJ%2BWIiCJ3ykFyx73zA60dyWQlDVONg6RGdK6c1GU4TYdgPfzwX2vFvStF%2Bxgz6zT%2BNeKwIe9Ano%2Bxw1iVWAuZ7Bsr5pBxDKIXJ4G2SVlGSeDbPxJXo4R9VbjE9MCh%2BivK1qN69w13EAvpQcmNhu%2FaeOxvQ5B5lWfLYYA46cQ2rJr3%2F4LPHjnCMXGgSNVBU7w0D7m9UtYQ8PSa%2FEe23jZqYNf8xRdKiBHeuI6xxZD1K8YVftAITBrYaO%2FtXPiaBAn%2FS84PmWAPK6NbvqT11HxXeFFHoHp%2FF0r%2BcI5dyuKY7%2FnYHM4xNCbclLNIYzdbdBLvLDgl0MiQUJFNVWRjiAIvAQrZTb6H%2BBFQDN0xVhdiWmgh2%2FhQSvpJAT0TdZCbt3ipLO8HT1MSMZ7Jd2q1hzOjfnkoJZqfz7ItDyiTEM%2B%2BP8EfeXaRGgh%2BGIKk3%2FN2ZlL6r8Ikol9oPQg6%2FLTPNEOKCVbcUVcVvc%2BwRA8zVHYpopPUUMtv%2F0eMZxrjq%2BqrUWWgUO4TbUu%2BOxvW7JsRtReNeVeSKSp%2FS8UDL%2FK1IvDJ1ihI2zATAv6yR3gumrZF3dQJl1dJDan7Zk9U1V0N0rQbcV%2Fj8Y6I7ZJN%2F%2FqYAKtw
 http://livep.l.ott.video.qq.com/livemsg?o=394&adtype=TK&soid=2AC783E6004A58F872CE39345600&r90=1&l=3&refluence=3&requestl=3&tagid=0&pf=atv&si=3429708042&ev=7.17.1.372&aver_flag=0&ip_filter=0&ufc_filter=0&backfunnel=401&use_axp=0&axpheader=1&vid=d0020ksrqlt&live=0&aid_tpid=1&aid_tpid2=1037&aid_tpid3=10139&aid_dura=6296&aid_vid_drm=2&aid_cid_drm=1&aid_copyright=308&aid_cover=aggiy0qv89a47k3&aid_subtype=4194304_8_1_1048576&aid_vip_type=1&dura=6296&tpid=1&guid=ECC688A8ED82BB3AC4001A60EBCFE443&ty=web&coverid=aggiy0qv89a47k3&v=APP_AD_SDK&openudid=9e0ad9834696df8bf05349f55a851403&oadid=3&appversion=161201&lcount=1&chid=112&data=AS64N6HIoeOlMKo03SugcOvBbh8h4P7c2eq4ICWWh9Jr4dEcdB5u7FXm%2BF%2Frbw%2Bh8R6NeczUXEFdq0827Kb6zMD82Ek7i5M0uU2vLqVntLja42Zmxl%2BczEnXP9lOVpRqnoGwBp%2BHJqIXb6peGi5I%2Bup2oQbfcst2RjGP48rzMMKHFnFNLLUtp4wgnH8g7RsMh3XKJ%2BWIiCJ3ykFyx73zA60dyWQlDVONg6RGdK6c1GU4TYdgPfzwX2vFvStF%2Bxgz6zT%2BNeKwIe9Ano%2Bxw1iVWAuZ7Bsr5pBxDKIXJ4G2SVlGSeDbPxJXo4R9VbjE9MCh%2BivK1qN69w13EAvpQcmNhu%2FaeOxvQ5B5lWfLYYA46cQ2YiwcLWM5ajea04vfdUM6QOb9PBoWfdR7cmyGIhS5cA32qpGUF15%2BH6tFuB7w4f1TKPw4TUilr4z8EIiF6i2ZK8wum%2Fae1%2FPqZF1aOzc%2BaxMeGrivWeexS4cqT%2FCCEwtdoXfH682mABIznnE%2BtuaCvGOE1jMf8y0%2BQ3kOMWUDY2yXSIELkdmpcYd1HJ16Vni354pj3GsEu2Id1DiM%2B%2FJfREFEYAsssapCRqaowuHGXYDmf2QzMq2ZcF95NS5lJRH6wNIv9egGPmzp8vBNLfx4RiJBbLRaPkRxAZPj%2BMGxkzPa8b95jUcI1m%2B1yc6LepgXmiqGDJhZMpW3W3UloCTPaucDFza8K37eSUHbr8cIqDz8fRSACq78ikHnEqTvoXOwUZy3s10rYsneVHwmSqn6jkowinNfwTQ0v3vQdURUeK8BKlpfTB1S3UtPf5LPk%2F3t
@@ -233,10 +349,6 @@ http://cn.api.push.le.com/client/androidReg
 http://msspjh.emarbox.com/getkeys
 http://msdkcoll.emarbox.com/getDmpId
 http://pg.xdrig.com/api/q/a/3d273dbf57fd7ef8cd4cba602be21d751
-http://app.xdrig.com:443
-http://jic.talkingdata.com:443
-http://alog.umeng.com/app_logs
-http://msg.umengcloud.com:443
 http://msdkcoll.emarbox.com/getStrategy
 http://alog.umeng.co/app_logs
 http://gorgon.youdao.com/gorgon/app.s
@@ -260,7 +372,6 @@ http://k.ma.social-touch.com/sdk/switch?sdkcv=6&appid=35&encodeData=cweLsPahPO4X
 http://n.ma.social-touch.com/p/mdid?v=1&sdkcv=6&appid=35&encodeData=IYKsfcWiA5fVS2qdEtaZHJpULLAMY-_y2YM6MJdqFUff2AmJQaw3b2LWkgZiFn-gfedF3bYkKRWbBzJE7x5WnLqldy2THHMxLzhh-kdaacSrs1QRE-zxQ2frPPQHAFjBEVcfRfLxY43myE7FdZJs8wPIF35q1sTrQcuWUh0WJFgXQkeeY7hipgwmnGArwyFFG49OC8oW3vPIUbIuigM0t5ZAX6nUO44l8R6QHZuaZLZnLQ_4J_ztC0B0OfdUVUjXyEz_1ZInwedXAngrLIGX2ymk3LycjVIRWwqEyzlgO9a4iatM&ts=1492673570202&sdkv=2.1.0
 http://afpssp.alimama.com/sdk/cf?pts=1492673566653&mac=02%3A00%3A00%3A00%3A00%3A00&protv=1.0.3.20160708&slot_id=59758965&dpr=2.75&bn=Xiaomi&lng=118.324246&os=android&chl=204&pt=network&ts=1492673567336&plugv=FrameworkPlugin%3A3.3%2CWelcomePlugin%3A2.9%2CFeedPlugin%3A2.5%2CCommonPlugin%3A4.3%2C&imei=863818035818120&apvn=4.1.6&lang=zh_CN&mcc=cn&os_version=6.0.1&lat=35.112733&sdkv=1.0.3.20160708&apnm=com.m1905.mobilefree
 http://d.ma.social-touch.com/e?sdkcv=6&appid=35&etype=1&sdkv=2.1.0&evt=err
-http://track.mediav.com:443
 http://pc.yingshi.tcclick.1kxun.mobi/api/upload.php
 http://tcad.wedolook.com/api/sites
 http://ad.1kxun.com/js/tcad.banner.js?1422935168
@@ -480,10 +591,7 @@ http://v1.play.log.hunantv.com/info.php?mod=MI+5s+Plus&ex=&ml=1&mf=Xiaomi&e=&m=0
 http://x.da.hunantv.com/mmasdk.xml
 http://cmop.mgtv.com/f/game/total?position=YXDT
 http://cdn.cmop.mgtv.com/userfiles/images/2016-09/%E7%BE%8E%E7%BE%8E%E5%B0%8F%E5%BA%97/175.png
-http://stats.umsns.com:443
 http://rs.easemob.com/easemob/server.json?sdk_version=3.1.3&app_key=ci123-com%23mamashequ&file_version=1
-http://log.umsns.com:443
-http://uop.umeng.com:443
 http://pingma.qq.com:80/mstat/report/?index=1492414069
 http://static.gtimg.com/vd/act/ggimg/201704/a79b44e3c08dfc1eaff5090277303b99.jpg
 http://video.ureport.push.qq.com/Ureport/Reportmiid
@@ -537,9 +645,7 @@ http://datax.baidu.com/xs.gif?k=QVR6B8KwlK%2FH33pZjfmE1ZOUi1Y1SKYR5eN8lHvgk%2FXu
 http://ic.snssdk.com/cloudpush/callback/android_red_badge/?iid=9563017979&device_id=35922657381&ac=wifi&channel=xiaomi&aid=13&app_name=news_article&version_code=609&version_name=6.0.9&device_platform=android&ssmix=a&device_type=MI+5s+Plus&device_brand=Xiaomi&language=zh&os_api=23&os_version=6.0.1&uuid=863818035818120&openudid=42b53368edd2bf0f&manifest_version_code=609&resolution=1080*1920&dpi=440&update_version_code=6091&_rticket=1492402873186
 ifeng:
 http://api.newad.ifeng.com/ClientAdversApi1508?iua=MI+5s+Plus_6.0.1&adids=&gv=5.5.3&av=5.5.3&uid=863818035818120&deviceid=863818035818120&proid=ifengnews&os=android_23&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi&network=wifi&lat=&lon=&country=CN&city=&type=&t=1492402838740&gifsupport=1
-http://iis3g.deliver.ifeng.com/LogReceiver/savelog
 http://exp.3g.ifeng.com/coverAdversApi?gv=5.5.3&av=5.5.3&uid=863818035818120&deviceid=863818035818120&proid=ifengnews&os=android_23&df=androidphone&vt=5&screen=1080x1920&publishid=6001&nw=wifi
-http://stadig0.ifeng.com/appsta.js
 http://iis1.deliver.ifeng.com/getcode?ap=13657&tp=1&w=0&h=70&dm=i.ifeng.com&cb=iis2.display&c=1492410608760
 http://c1.ifengimg.com/mappa/2017/02/09/cd8addd231d6a7e0e0616e883995c9b5.png
 宾果消消消：
@@ -639,7 +745,6 @@ http://yun.duiba.com.cn/
 http://m.maila88.com/
 追书神器：
 http://ad.ipadview.com/api/ad/getAdBannerList/?book_name=%E6%88%91%E7%9A%84%E7%BB%9D%E8%89%B2%E7%BE%8E%E5%A5%B3%E6%88%BF%E5%AE%A2&source=0&book_author=atuhor&seq=1&adType=1&bannerType=100
-http://stats.magicwindow.cn/tracking/v2
 淘小说：
 http://itaoxiaoshuo.com:8081/ads/miads.txt
 http://itaoxiaoshuo.com:8081/ads/migameurl.txt
@@ -741,7 +846,6 @@ miui:
 http://api.ad.xiaomi.com/brand/sdkupgradenew
 http://api.ad.xiaomi.com/brand/splashConfig
 http://api.ad.xiaomi.com/getSplashScreenAds
-http://api.ad.xiaomi.com/appstore/uploadLogSDK
 http://adv.sec.miui.com/game/pkg
 http://api.tw06.xlmc.sec.miui.com/api/configure/get
 http://tracking.miui.com/track/v1

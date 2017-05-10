@@ -1,6 +1,7 @@
 #http://app.myzaker.com/
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
+127.0.0.1 push-android.myzaker.com
 #http://book.easou.com/
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.easou.com
@@ -9,6 +10,7 @@
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad-beta.flipboard.com
 #http://i.ifeng.com/
+127.0.0.1 api.iapps.ifeng.com
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
@@ -46,6 +48,7 @@
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
+127.0.0.1 n.3g.163.com
 #http://t.shuqi.com/
 127.0.0.1 ut2.shuqistat.com
 127.0.0.1 www.cm-analysis.com
