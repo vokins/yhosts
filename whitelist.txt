@@ -1,4 +1,6 @@
 127.0.0.1 games.ifeng.com
+http://pub.aplus.pptv.com/
+http://player.aplus.pptv.com/jsplayer/pid/5701.js
 127.0.0.1 api.k.sohu.com ËÑºüĞÂÎÅ
 127.0.0.1 pb.ott.hd.cp45.ott.cibntv.net
 127.0.0.1 weidian.com

@@ -1,5 +1,5 @@
 
-#version=20170511 050
+#version=20170511 056
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -983,9 +983,13 @@
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
+127.0.0.1 img1.g.pptv.com
+127.0.0.1 img2.g.pptv.com
+127.0.0.1 img3.g.pptv.com
 127.0.0.1 jp.as.pptv.com
-127.0.0.1 pub.aplus.pptv.com
+127.0.0.1 static.g.pptv.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 asimgs.pplive.cn
 127.0.0.1 ads.data.pplive.com
