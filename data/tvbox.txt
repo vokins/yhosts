@@ -26,10 +26,8 @@
 127.0.0.1 sdk.data.cp61.ott.cibntv.net
 127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
 #cibntv-sohu
-127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 images.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 pb.ott.hd.cp45.ott.cibntv.net
 #cibn-voole
 127.0.0.1 adinf.voole.com
 127.0.0.1 apkinfo.voole.com

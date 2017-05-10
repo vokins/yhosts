@@ -46,3 +46,5 @@
 127.0.0.1 delivery.maihehd.com
 #yeshitv.com
 127.0.0.1 ad.yeshitv.com
+#http://tv.sohu.com/ott/sohutv/
+127.0.0.1 agn.aty.cp45.ott.cibntv.net

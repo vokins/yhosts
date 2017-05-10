@@ -1,5 +1,5 @@
 
-#version=201705102309
+#version=201705102335
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -970,6 +970,7 @@
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
 127.0.0.1 ad.yeshitv.com
+127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
@@ -5989,10 +5990,8 @@
 127.0.0.1 jp.as.cp61.ott.cibntv.net
 127.0.0.1 sdk.data.cp61.ott.cibntv.net
 127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
-127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 images.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 pb.ott.hd.cp45.ott.cibntv.net
 127.0.0.1 adinf.voole.com
 127.0.0.1 apkinfo.voole.com
 127.0.0.1 adstat.cp11.ott.cibntv.net

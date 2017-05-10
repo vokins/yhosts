@@ -1,5 +1,6 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 api.k.sohu.com 搜狐新闻
+127.0.0.1 pb.ott.hd.cp45.ott.cibntv.net
 127.0.0.1 weidian.com
 你这网站播放不了是因为被你屏蔽这个域名了
 disp.titan.mgtv.com
