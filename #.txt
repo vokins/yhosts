@@ -7,6 +7,13 @@ http://adashbc.ut.taobao.com:443
 http://msg.umengcloud.com:443
 http://decode-mob-app.le.com/dc/status
 http://stadig.ifeng.com/stat.js?mos=android_18&softid=ifengSmartTV&softversion=2.1.2&publishid=10015&userkey=14944704327719289&ua=XGIMI+TV_4.3&net=WIFI&datatype=smarttv&city=Mars&logintime=1494470432783&session=14944704327719289%402017-05-11+10%3A41%3A50%23V%23%5BLI%3D019bd583-f3a9-407d-bda2-83534fc3e265%2CYN%3DNO%2CST%3D2017-05-11+10%3A41%3A30.109%2CTI%3D-1%2CRTitle%3D%E9%9C%B8%E6%B0%94%21%E9%87%91%E6%98%9F%E5%8F%A3%E8%BF%B0%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%85%A8%E8%BF%87%E7%A8%8B%2CRType%3DS%2CRID%3Dent%2CRC%3DNO%2CRTime%3D62%2CPT%3D20%2CRPT%3DRV%2CLT%3D%2CDR%3DNO%5D
+http://api.adv.ott.cibntv.net:8888/ad_api/device/activeDevice.action
+http://delivery.wasu.cn/d/vmap/1.0?prd=wasuTV4.0
+http://delivery.wasu.cn/d/vmap/1.0?prd=4.0taobaobuy
+http://delivery.wasu.cn/d/vmap/1.0?prd=4.0taobaobuy
+http://delivery.wasu.cn/d/vmap/1.0?prd=wasuTV4.0
+http://ads.wasu.tv:8080/afp/door/;ap=p593ab0e9ab417050001|f593aaefefbe2afc0001|b67783dad1ddbb560001|x593ab3f6fa3fc750001|u593ab2f7c6d46a20001|i6778ffab5d534be0001|h593ab5fd0e0f0cf0001|l593ab50a5613ecc0001|o677900e3ee5405a0001;userid=0301AC002800b5101ca28;columnid=;featureid=;programid=;ct=xml;pu=m367013db4ba3d4c0001;/
+http://delivery.wasu.cn/d/vast/3.0?pos=69&maxc=5&muid=B8E395DFA1E91278FAA66DBE6660B4F9&prol=cs4.0_4.3.1.5&brand=0301AC002800b5101ca28&os=Android&rslt=1280_800&ur=
 http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494472574
 http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470984
 http://vv.play.aiseet.atianqi.com/checktime?otype=json&randnum=0.8914173401207358&guid=1A6E5DD7B9C847E5BD947591331D1ADA

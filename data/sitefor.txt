@@ -101,7 +101,6 @@
 127.0.0.1 hit.webcentre.lycos.co.uk
 #msn.com
 127.0.0.1 ads1.msn.com
-127.0.0.1 g.msn.com
 127.0.0.1 a.rad.msn.com
 127.0.0.1 b.rad.msn.com
 127.0.0.1 0.r.msn.com

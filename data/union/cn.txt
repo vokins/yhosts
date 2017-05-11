@@ -19,7 +19,6 @@
 127.0.0.1 news.push.126.net
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
-127.0.0.1 cms-bucket.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 statis.push.netease.com
@@ -925,6 +924,9 @@
 127.0.0.1 u5.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
+#9dtiny.cn
+127.0.0.1 e.9dtiny.cn
+127.0.0.1 www.9dtiny.cn
 #9imobi.com
 127.0.0.1 adsdk.9imobi.com
 #99click

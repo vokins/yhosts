@@ -18,6 +18,7 @@
 127.0.0.1 m.1768.com
 #app.starschina.com
 127.0.0.1 ad-cache.dopool.com
+127.0.0.1 analytics3.dopool.com
 127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
@@ -25,6 +26,7 @@
 127.0.0.1 ssp.tadseeker.com
 #cctv
 127.0.0.1 rtas.videocc.net
+127.0.0.1 apiserver.cctvweishi.com
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
@@ -50,6 +52,9 @@
 127.0.0.1 ad.yeshitv.com
 #http://www.hdplive.net/
 127.0.0.1 ad.vryeye.com
+@cibn
+#cibntv.net
+127.0.0.1 api.adv.ott.cibntv.net
 #http://tv.sohu.com/ott/sohutv/
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 #http://pd.youku.com/CIBN

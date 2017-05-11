@@ -1,5 +1,5 @@
 
-#version=201705111144
+#version=201705111751
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -952,12 +952,14 @@
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 m.1768.com
 127.0.0.1 ad-cache.dopool.com
+127.0.0.1 analytics3.dopool.com
 127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 rtas.videocc.net
+127.0.0.1 apiserver.cctvweishi.com
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
@@ -978,6 +980,7 @@
 127.0.0.1 delivery.maihehd.com
 127.0.0.1 ad.yeshitv.com
 127.0.0.1 ad.vryeye.com
+127.0.0.1 api.adv.ott.cibntv.net
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 vyk.admaster.com.cn
@@ -1860,6 +1863,15 @@
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 adv.grtn.cn
 127.0.0.1 advapi.ahtv.cn
+
+
+
+
+127.0.0.1 ads.wasu.tv
+
+
+
+
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 mlog.m1905.cn
@@ -2058,7 +2070,6 @@
 127.0.0.1 fe.lea.lycos.co.uk
 127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 ads1.msn.com
-127.0.0.1 g.msn.com
 127.0.0.1 a.rad.msn.com
 127.0.0.1 b.rad.msn.com
 127.0.0.1 0.r.msn.com
@@ -3473,7 +3484,6 @@
 127.0.0.1 becode.qiushibaike.com
 127.0.0.1 img.9ads.net
 127.0.0.1 js.9ads.net
-127.0.0.1 e.9dtiny.cn
 127.0.0.1 cell.zhybzp.cn
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
@@ -3797,7 +3807,6 @@
 127.0.0.1 news.push.126.net
 127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
-127.0.0.1 cms-bucket.nosdn.127.net
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 mr.da.netease.com
@@ -4626,6 +4635,8 @@
 127.0.0.1 u5.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
+127.0.0.1 e.9dtiny.cn
+127.0.0.1 www.9dtiny.cn
 127.0.0.1 adsdk.9imobi.com
 127.0.0.1 1116.oadz.com
 127.0.0.1 2311.oadz.com
@@ -6183,9 +6194,10 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
-127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
+
+
 127.0.0.1 20170501.logic.cpm.cm.kankan.com
 127.0.0.1 20170502.logic.cpm.cm.kankan.com
 127.0.0.1 20170503.logic.cpm.cm.kankan.com
