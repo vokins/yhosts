@@ -1,5 +1,5 @@
 
-#version=201705111827
+#version=201705111834
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -230,7 +230,6 @@
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
-127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com

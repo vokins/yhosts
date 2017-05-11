@@ -1,5 +1,6 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 pb.bi.gitv.tv
+http://omgmta.qq.com:80/mstat/report/?index=1494498804 ÍþÐÅÍ¶Æ±
 127.0.0.1 apiserver.cctvweishi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
 http://mb.hd.sohu.com.cn/mc.gif?uid=4373e58e1c51ce8d956aab9d36333a0e&tkey=616e67db8231fcb239b11793bff2731af1bd1db9&vid=&tvid=&mtype=6&mfov=MI+5s+Plus&memo=%7B%22status%22%3A%223%22%2C%22reason%22%3A%22AppStart%22%7D&passport=&ltype=&cv=6.6.0&mos=2&mosv=6.0.1&pro=1&mfo=Xiaomi&webtype=WiFi&time=1494498330305&channelid=6562&sim=1&playlistid=&catecode=&preid=&newuser=0&enterid=0&startid=&loc=&build=05091916&url=99002&type=1&value=&androidId=31d1d13309b38b5c&imei=863818035818120&timer=767173a4e8dcec09310e23b8a1812b3f62e45b92&xid=VWaAL%2FiaNFXXkh75ElTRL8JA7GwYWyXGwgvYebgSsSkhJGTRp44tPCE%2BWBMhKoUFJYGiY%2B16WhntqnAdPr7jNnDYuwEqIZzjynOT3%2BZa9w1Lf0QvQT%2FPp6ZmX4WnpUMCIZgfwXqNLE6IkVtYj1HNFtDUagNv4LaKqm9977yiHhw%3D
