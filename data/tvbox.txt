@@ -1,10 +1,6 @@
 #51togic.com
 127.0.0.1 ad.video.51togic.com
 127.0.0.1 cdn.ad.video.51togic.com
-#aliyun
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 tvupgrade.yunos.com
 #cibn
 127.0.0.1 s.gdatacube.net
 127.0.0.1 cf.gdatacube.net
@@ -14,40 +10,23 @@
 127.0.0.1 qr.cp31.ott.cibntv.net
 127.0.0.1 r.l.cp31.ott.cibntv.net
 127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 sdk.m.cp31.ott.cibntv.net
 #cibntv-pptv
-127.0.0.1 ads.data.pplive.com
 127.0.0.1 action.data.cp61.ott.cibntv.net
 127.0.0.1 asimgs.cp61.ott.cibntv.net
-127.0.0.1 de.as.cp61.ott.cibntv.net
 127.0.0.1 jp.as.cp61.ott.cibntv.net
 127.0.0.1 sdk.data.cp61.ott.cibntv.net
 127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
 #cibntv-sohu
 127.0.0.1 images.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-#cibn-voole
-127.0.0.1 adinf.voole.com
-127.0.0.1 apkinfo.voole.com
-127.0.0.1 adstat.cp11.ott.cibntv.net
-127.0.0.1 adinf.cp11.ott.cibntv.net
-127.0.0.1 apklog.cp11.ott.cibntv.net
-127.0.0.1 cachenotice.cp11.ott.cibntv.net
-127.0.0.1 stat.cp33.ott.cibntv.net
-127.0.0.1 s.de123.net
-127.0.0.1 ark.cp21.ott.cibntv.net
-127.0.0.1 dc.cp21.ott.cibntv.net
-127.0.0.1 dc.vmoters.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net
 127.0.0.1 dp3.play.cp81.ott.cibntv.net
 127.0.0.1 livep.l.cp81.ott.cibntv.net
-127.0.0.1 lives.l.cp81.ott.cibntv.net
 127.0.0.1 mcgi.play.cp81.ott.cibntv.net
-127.0.0.1 news-l.play.cp81.ott.cibntv.net
 127.0.0.1 p-l.play.cp81.ott.cibntv.net
 127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 t-l.play.cp81.ott.cibntv.net
@@ -56,16 +35,10 @@
 127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 news-l.play.aiseet.atianqi.com
-127.0.0.1 p-l.play.aiseet.atianqi.com
-127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 vmindhls.tc.qq.com
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
-127.0.0.1 otheve.play.aiseet.atianqi.com
-127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
-#v.qq.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
@@ -92,8 +65,6 @@
 127.0.0.1 msg.video.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
 127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 pb.bi.gitv.tv
-127.0.0.1 store.ptqy.gitv.tv
 127.0.0.1 msg.c002.ottcn.com
 #iqiyi-paopao
 127.0.0.1 emoticon.sns.iqiyi.com

@@ -1,4 +1,94 @@
-﻿http://as.aplus.pptv.com/webbn?ap=202522_202505_202517_202513_202509_202514_202501_202508_202512&ct=js
+﻿127.0.0.1 dp3.play.ott.video.qq.com
+127.0.0.1 vv.play.ott.video.qq.com
+#cibn-voole
+http://de.as.cp61.ott.cibntv.net/ikandelivery/cache/?pos=501011&platform=262144&ctype=7&os=&osv=&carrier=&devicetype=3&appid=com.pptv.tvsports&did=800B5101CA28&mac=800B5101CA28&o=230004&make=GIMI&language=zh&dpid=bac1dc4c31e01127&model=XGIMI+TV&resolution=800x1280
+http://adashxgc.ut.taobao.com:443
+http://adashbc.ut.taobao.com:443
+http://msg.umengcloud.com:443
+http://decode-mob-app.le.com/dc/status
+http://stadig.ifeng.com/stat.js?mos=android_18&softid=ifengSmartTV&softversion=2.1.2&publishid=10015&userkey=14944704327719289&ua=XGIMI+TV_4.3&net=WIFI&datatype=smarttv&city=Mars&logintime=1494470432783&session=14944704327719289%402017-05-11+10%3A41%3A50%23V%23%5BLI%3D019bd583-f3a9-407d-bda2-83534fc3e265%2CYN%3DNO%2CST%3D2017-05-11+10%3A41%3A30.109%2CTI%3D-1%2CRTitle%3D%E9%9C%B8%E6%B0%94%21%E9%87%91%E6%98%9F%E5%8F%A3%E8%BF%B0%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%85%A8%E8%BF%87%E7%A8%8B%2CRType%3DS%2CRID%3Dent%2CRC%3DNO%2CRTime%3D62%2CPT%3D20%2CRPT%3DRV%2CLT%3D%2CDR%3DNO%5D
+http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494472574
+http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470984
+http://vv.play.aiseet.atianqi.com/checktime?otype=json&randnum=0.8914173401207358&guid=1A6E5DD7B9C847E5BD947591331D1ADA
+127.0.0.1 dp3.play.aiseet.atianqi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
+http://valf.atm.cp31.ott.cibntv.net/sdkconfig.xml
+http://val.atm.cp31.ott.cibntv.net/show?v=678475643&pp=7&ct=d&cs=1003&ca=1688740&ie=905207&uid=&ck=E0:76:D0:1F:AA:9C&al=15&bl=1&s=307775&td=678475643&st=1&vl=3385.0&ap=2&dc=0&sid=9dce3c7169f032e4019faca51386acf6&cr=1&pr=19&oidtype=139815%7C0&dq=mp4%7Cmp4&uri=&bak=0&pc=1700&oneid=324901288769899676&ps=0&eff=1&adsid=149447146638826767142&bd=MStar&mdl=XGIMI_TV&tag=&ip=42.199.131.194&htch=__htch__&tp=2&prp=90&reqid=s1494471477617Pia7Et&pid=3316a810b31d60fb&aliid=WMYyrafOjD0DAOVLW5ZCySuS&po=1&yid=&sex=&age=&dvw=1280&dvh=800&sdkv=&osv=4.3&net=16&vr=0&lid=&sr=&paid=false&oid=139815&atid=162&pver=2.2.0.100&sver=&fu=0&flowmark=dsp_rank%3AA%7Cadx_v_bid%3Adefault%7Cadx_p_bid%3Abase%7Cadx_mix_bid%3Abase%7Cmixbid_show%3AC%7Cadx_fg_bid%3Abase%7Cadueopt%3AA&vp=&advid=672655533&mb=1&os=1&dt=2&avs=2017042091&aw=a&vc=0&idfa=&ouid=&mac=E0:76:D0:1F:AA:9C&im=&aid=bac1dc4c31e01127&guid=c52cd0198c715dccfa38e495690f5b91&ss=0.0&lot=&lat=&ispcode=&uuid=&box=&erd=XOshu5R_PIm_FgVcL7ybmomluTysun36zP6bsVYolXA5851
+http://g.dtv.cn.miaozhen.com/x/k=4004238&p=2hoB3&ns=42.199.131.194&nx=__LAB__&sn=__SN__&ni=__IESID__&m1=__ANDROIDID1__&m1a=b8e395dfa1e91278faa66dbe6660b4f9&m4=__AAID__&m6=__MAC1__&m6a=103f5d1a593d05b8d410403b38818d55&macr=__MACR__&rt=2&nd=__DRA__&nt=__TIME__&rfm=__RFM__&tdt=__TDT__&tdr=__TDR__&pro=n&o=
+http://ipm.atm.cp31.ott.cibntv.net/ipm?devid=c7a6812a899fb01323dfdb3d97ec7750
+http://vyk.admaster.com.cn/i/a85501,b1713266,c3296,i0,m202,8a3,8b1,n103f5d1a593d05b8d410403b38818d55,o,0a0,0db8e395dfa1e91278faa66dbe6660b4f9,0iPUB_917338,h
+---
+127.0.0.1 dp3.play.aiseet.atianqi.com/dynamic/
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=3304481&cid=1885957&loc=LV_1001_LDVi_TV_Splash&soid=BBY%2BCjahWRPJsQG%2BzwAfqgo%2BAdK%2B&loid=0&pvLimit=-1&channel=2017-05-11&pvFcs=-1&pv_type=0&index=1&seq=1&server_data=c29pZD1CQlkrQ2phaFdSUEpzUUcrendBZnFnbytBZEsr&ping_data=dXNlcl9pbmZvPW9CM2pnVGc5RVJXNyZ2aWV3aXA9MTc5MjY1OTM2JnVwX3ZlcnNpb249TDkmdXNlX2F4cD0wJmF4cGhlYWRlcj0x&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUACbQTmpq0y%2B9wPyGe%2BedtSy%2FiUF36NcYhrcuR%2BwBGO5MzcEHr571xChYo7k%2B5BqXSINud7%2B1ig1MC0zsdLIJVocbJwejcQTpGhMyP2UoS0KCDUUi%2Btege7RU%2BeBf3enwbo9uz9m5tP9Snc82qKhFTjYflkyx3SaDyeGfAewR1rIHYUKHpIpYjBhnbIkRLt3zH3bdqqCH7oFM8p7CsysQdc%2F3IqpYodHulVWPYJYYTi%2FC%2FWC6PeWfpIk%2BRGgWVfzeSQXiz%2F4mYeiiV1AJpVl4eY5Orkt3Wmlrs%2BePgDWROh%2FH7WyjKoE%2FNBDL9nvu4%2Fo0Adt03Y4wFJ1wnM60FcBMctYXFVfTRbRS0yXYv%2BNF6hGemFUayR23JvxvIOyvdzesaCLw0oX019k%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=3304481&cid=1885957&loc=LV_1001_LDVi_TV_Splash&soid=BBY%2BCjahWRPJsQG%2BzwAfqgo%2BAdK%2B&loid=0&pvLimit=-1&channel=2017-05-11&pvFcs=-1&pv_type=0&index=1&seq=1&server_data=c29pZD1CQlkrQ2phaFdSUEpzUUcrendBZnFnbytBZEsr&ping_data=dXNlcl9pbmZvPW9CM2pnVGc5RVJXNyZ2aWV3aXA9MTc5MjY1OTM2JnVwX3ZlcnNpb249TDkmdXNlX2F4cD0wJmF4cGhlYWRlcj0x&chid=502&appversion=170401&pf=atv&dtype=3&exp=0&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUACbQTmpq0y%2B9wPyGe%2BedtSy%2FiUF36NcYhrcuR%2BwBGO5MzcEHr571xChYo7k%2B5BqXSINud7%2B1ig1MC0zsdLIJVocbJwejcQTpGhMyP2UoS0KCDUUi%2Btege7RU%2BeBf3enwbo9uz9m5tP9Snc82qKhFTjYflkyx3SaDyeGfAewR1rIHYUKHpIpYjBhnbIkRLt3zH3bdqqCH7oFM8p7CsysQdc%2F3IqpYodHulVWPYJYYTi%2FC%2FWC6PeWfpIk%2BRGgWVfzeSQXiz%2F4mYeiiV1AJpVl4eY5Orkt3Wmlrs%2BePgDWROh%2FH7WyjKoE%2FNBDL9nvu4%2Fo0Adt03Y4wFJ1wnM60FcBMctYXFVfTRbRS0yXYv%2BNF6hGemFUayR23JvxvIOyvdzesaCLw0oX019k%3D
+127.0.0.1 dp3.play.aiseet.atianqi.com/confstat/?setconf=videosdk&status=400&confid=0&errortype=402&soid=
+127.0.0.1 news-l.play.aiseet.atianqi.com/app
+127.0.0.1 andrqd.play.aiseet.atianqi.com/analytics/async?aid=66644e95-e437-43e2-9ef5-599b7039162f
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_JDT&loid=4&seq=1&index=1&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdNMi9hYWhBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUkGyYVo1QVD5VIE0YVNC7qaleun80bii0W1HAFQjDQ0imDyTzeW42qkoRuFxsCJyGmizkCCP2vtqVTe4FUwfslReZoXtGQ7%2FFXP2mRYJPIk1KEPJkrWZJMVLlJCralQWCO6Yf7n32%2F08OHK2YdUcLkyWwuRS2woe9RQyGF0LZkfhnyBpZR%2FnQdEKmWQ9Ng6jnfWKxwzro94dbSmZbpmGNcFQat5rsOQRJ%2Bz1CHAVlUqQPJ%2Foi2LTARYG%2BB9MYqV7V9WrxIE1IudVp0GUqpg2FSbJiRGR6Ob08xHABus%2F8Qn2V06Y2ZUYfco%2BWeTk2ivJxnNXnbPdU4iCBR6EmmlIAFRY%2Fn9wMyTaPbaQdbtLP%2FJ2cQnqZfR%2Fxqf1nsvW495wyreP8iRMcr9Y%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=1&index=1&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdEUXcrcHhBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUkGyYVo1QVD5VIE0YVNC7qaleun80bii0W1HAFQjDQ0imDyTzeW42qkoRuFxsCJyGmizkCCP2vtqVTe4FUwfslReZoXtGQ7%2FFXP2mRYJPIk1KEPJkrWZJMVLlJCralQWCO6Yf7n32%2F08OHK2YdUcLkyWwuRS2woe9RQyGF0LZkfhnyBpZR%2FnQdEKmWQ9Ng6jnfWKxwzro94dbSmZbpmGNcFQat5rsOQRJ%2Bz1CHAVlUqQPJ%2Foi2LTARYG%2BB9MYqV7V9WrxIE1IudVp0GUqpg2FSbJiRGR6Ob08xHABus%2F8Qn2V06Y2ZUYfco%2BWeTk2ivJxnNXnbPdU4iCBR6EmmlIAFRY%2Fn9wMyTaPbaQdbtLP%2FJ2cQnqZfR%2Fxqf1nsvW495wyreP8iRMcr9Y%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=2&index=2&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdHSVF3aW1BWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUkGyYVo1QVD5VIE0YVNC7qaleun80bii0W1HAFQjDQ0imDyTzeW42qkoRuFxsCJyGmizkCCP2vtqVTe4FUwfslReZoXtGQ7%2FFXP2mRYJPIk1KEPJkrWZJMVLlJCralQWCO6Yf7n32%2F08OHK2YdUcLkyWwuRS2woe9RQyGF0LZkfhnyBpZR%2FnQdEKmWQ9Ng6jnfWKxwzro94dbSmZbpmGNcFQat5rsOQRJ%2Bz1CHAVlUqQPJ%2Foi2LTARYG%2BB9MYqV7V9WrxIE1IudVp0GUqpg2FSbJiRGR6Ob08xHABus%2F8Qn2V06Y2ZUYfco%2BWeTk2ivJxnNXnbPdU4iCBR6EmmlIAFRY%2Fn9wMyTaPbaQdbtLP%2FJ2cQnqZfR%2Fxqf1nsvW495wyreP8iRMcr9Y%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=3&index=3&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdJaHhWNEZBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUkGyYVo1QVD5VIE0YVNC7qaleun80bii0W1HAFQjDQ0imDyTzeW42qkoRuFxsCJyGmizkCCP2vtqVTe4FUwfslReZoXtGQ7%2FFXP2mRYJPIk1KEPJkrWZJMVLlJCralQWCO6Yf7n32%2F08OHK2YdUcLkyWwuRS2woe9RQyGF0LZkfhnyBpZR%2FnQdEKmWQ9Ng6jnfWKxwzro94dbSmZbpmGNcFQat5rsOQRJ%2Bz1CHAVlUqQPJ%2Foi2LTARYG%2BB9MYqV7V9WrxIE1IudVp0GUqpg2FSbJiRGR6Ob08xHABus%2F8Qn2V06Y2ZUYfco%2BWeTk2ivJxnNXnbPdU4iCBR6EmmlIAFRY%2Fn9wMyTaPbaQdbtLP%2FJ2cQnqZfR%2Fxqf1nsvW495wyreP8iRMcr9Y%3D
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470906
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470907
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_JDT&loid=4&seq=1&index=1&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdNMi9hYWhBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUUZy6rRXgPv5x%2Batm7bFJIZItAFFqnShNJz2T3EV5LByrLk6GF%2BeYrKU%2Bw8iZotcpVTO1IB%2FASZ%2BZTASTB3k9T%2FZitREtvD3CgUwgWYxwpg31MgSP8G5dKIh1auiv5hSGm0Xj8UyX0bqgGTDJ6j21APaLkrtZlqS8kSTHWQaZVT4LMxPSuO8A%2Bq07FHB9UoKaGZ7PT0Szu4%2BbSiOkp8hx5yo%2FgrnjL8mN9g%2FLDy%2Be1EcHVm3J%2Bzwu%2BXkHuETvM%2B1CUTz2IeRc7H8FFjvR%2BaQ9ub9omwk%2BNfS7uUXR2k7%2F93MXRaTSH1hJgd0uizaI7OS4IqDdGAfYTtC9X%2BnQmeNh1u9SvJ1fZMyDHzqajCQ8fP0nu5Sa%2B4522X%2B6Z1osRbspNHBaegZYbnw%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=1&index=1&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdEUXcrcHhBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUUZy6rRXgPv5x%2Batm7bFJIZItAFFqnShNJz2T3EV5LByrLk6GF%2BeYrKU%2Bw8iZotcpVTO1IB%2FASZ%2BZTASTB3k9T%2FZitREtvD3CgUwgWYxwpg31MgSP8G5dKIh1auiv5hSGm0Xj8UyX0bqgGTDJ6j21APaLkrtZlqS8kSTHWQaZVT4LMxPSuO8A%2Bq07FHB9UoKaGZ7PT0Szu4%2BbSiOkp8hx5yo%2FgrnjL8mN9g%2FLDy%2Be1EcHVm3J%2Bzwu%2BXkHuETvM%2B1CUTz2IeRc7H8FFjvR%2BaQ9ub9omwk%2BNfS7uUXR2k7%2F93MXRaTSH1hJgd0uizaI7OS4IqDdGAfYTtC9X%2BnQmeNh1u9SvJ1fZMyDHzqajCQ8fP0nu5Sa%2B4522X%2B6Z1osRbspNHBaegZYbnw%3D
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470908
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470909
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470910
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470915
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470916
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470917
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470918
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=2&index=2&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdHSVF3aW1BWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUUZy6rRXgPv5x%2Batm7bFJIZItAFFqnShNJz2T3EV5LByrLk6GF%2BeYrKU%2Bw8iZotcpVTO1IB%2FASZ%2BZTASTB3k9T%2FZitREtvD3CgUwgWYxwpg31MgSP8G5dKIh1auiv5hSGm0Xj8UyX0bqgGTDJ6j21APaLkrtZlqS8kSTHWQaZVT4LMxPSuO8A%2Bq07FHB9UoKaGZ7PT0Szu4%2BbSiOkp8hx5yo%2FgrnjL8mN9g%2FLDy%2Be1EcHVm3J%2Bzwu%2BXkHuETvM%2B1CUTz2IeRc7H8FFjvR%2BaQ9ub9omwk%2BNfS7uUXR2k7%2F93MXRaTSH1hJgd0uizaI7OS4IqDdGAfYTtC9X%2BnQmeNh1u9SvJ1fZMyDHzqajCQ8fP0nu5Sa%2B4522X%2B6Z1osRbspNHBaegZYbnw%3D
+127.0.0.1 p-l.play.aiseet.atianqi.com/p?oid=55&loc=TV_Recommend_Ads&loid=1&seq=3&index=3&channel=chosen&pv_type=0&server_data=c29pZD1LaFk1Q2thMFdSUEo1Z1REamdJaHhWNEZBWmZEJnVwX3ZlcnNpb249TDk%3D&chid=502&appversion=170401&pf=atv&dtype=3&exp=1&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUUZy6rRXgPv5x%2Batm7bFJIZItAFFqnShNJz2T3EV5LByrLk6GF%2BeYrKU%2Bw8iZotcpVTO1IB%2FASZ%2BZTASTB3k9T%2FZitREtvD3CgUwgWYxwpg31MgSP8G5dKIh1auiv5hSGm0Xj8UyX0bqgGTDJ6j21APaLkrtZlqS8kSTHWQaZVT4LMxPSuO8A%2Bq07FHB9UoKaGZ7PT0Szu4%2BbSiOkp8hx5yo%2FgrnjL8mN9g%2FLDy%2Be1EcHVm3J%2Bzwu%2BXkHuETvM%2B1CUTz2IeRc7H8FFjvR%2BaQ9ub9omwk%2BNfS7uUXR2k7%2F93MXRaTSH1hJgd0uizaI7OS4IqDdGAfYTtC9X%2BnQmeNh1u9SvJ1fZMyDHzqajCQ8fP0nu5Sa%2B4522X%2B6Z1osRbspNHBaegZYbnw%3D
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470919
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470920
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470921
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470922
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470923
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470924
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470925
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470926
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com/getmfomat?model=XGIMI+TV&network_type=1&sysver=4.3&install_time=1494469033&mac=E0%3A76%3AD0%3A1F%3AAA%3A9C&uin=&submodel=XGIMI%252BTV_z4x_napoli&height=800&cpuname=napoli&platform=aphone&cpufreq=1100&qqlog=&native_version=1.2.16.210&player_channel_id=199&imei=NONE&width=1280&device_id=bac1dc4c31e01127&osver=4.3&numofcpucore=4&appver=V5.0.199.2500&guid=0832133100E081E142ED056B56A8E07D&cmd=get_android_fomat&randnum=0.28819382847401775&market_id=11900&cpuarch=6&imsi=&otype=json
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470927
+127.0.0.1 vv.play.aiseet.atianqi.com/checktime
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470928
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470929
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470930
+127.0.0.1 omgmta.play.aiseet.atianqi.com/mstat/report/?index=1494470908
+127.0.0.1 t-l.play.aiseet.atianqi.com/?t=s&oid=3304481&mid=3304481&cid=1885957&channel=&loc=LV_1001_LDVi_TV_Splash&soid=BBY%2BCjahWRPJsQG%2BzwAfqgo%2BAdK%2B&loid=0&actid=10305&chid=502&appversion=170401&pf=atv&dtype=3&data=AUbI0UoudSi9ulQBMU0oXoY5u3wMT0h4Vam4p2K5YmGyw4jwsL5TiM5ASMnfM7EjUWNOmeA6DVp%2FA8sahx3oxEu64DT0ekv79O9QQvJKDwMrSTdPmPFe%2BvLnsCVoVUlHV7BcAXOusdw0%2BZ4f8lVxVvtPti4YyQ7IkhBg91wTNnA36qkw0fHm2H2f7Ue7Wf8LodO1vJQxE%2FXAyMqICNe93k832YwGcIB%2FLqtdPNDMbN6TWyCCeSrGaHZmVW6CQGiQEeqBY%2FE%2BIVxXGUEEKTunmIhk4x1D4QTWTKd6ocK9R1WNmmtSM%2FEbDDvYWShUG1fopzxS9OTjSunUewoHwxDgt4ru40FOx3KtfxCezSTO20fYS2hT0LBJQRwuthhLZC5PvSP2ChbGgenhT4IXP81Ki2eN%2FHaybpbh6UDHi5D%2BAuvKYtP9ZGOCS4NQJ%2FP%2BFGoLNM54CHjYI4AIZbQKM84zdxGuSn0rIYR%2FbquulAcK2iz%2FrS%2F%2BoYmf2Qg6EESOSMNTi9DWV2%2BTplUambzcbGvY1bm0eQA5%2Fu0oNU1Yzwycb15rjntJvaeU8qwPmjCmvLCjKqjDCSLyvCwzuhcCfVUjM46Kn5AN1aLA3HXE3pc8wiul9ko03ObkxEKcfVZ0rpE23Dt%2FWx2otnW3DbTB3Gvj4bLRCGmf9UxrJ2dkQY3LpwkycOpvHKDcF%2BTkxXq8FZ9zU24lYRKI2jggAiszG9x83uY%3D
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470931
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470932
+127.0.0.1 omgmta.play.aiseet.atianqi.com/mstat/report/?index=1494470909
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470933
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470934
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470935
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470936
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470937
+127.0.0.1 othstr.play.aiseet.atianqi.com/analytics/upload?sid=fdaa2748cbaab843f1823f971f770ed3
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470938
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470939
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470940
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470941
+127.0.0.1 omgmta.play.aiseet.atianqi.com/mstat/report/?index=1494470910
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470942
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470943
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470944
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470945
+127.0.0.1 omgmta.play.aiseet.atianqi.com/mstat/report/?index=1494470911
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470946
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470948
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470949
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470950
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470951
+127.0.0.1 otheve.play.aiseet.atianqi.com/analytics/upload?rid=3c4a00fe5c991085&sid=fdaa2748cbaab843f1823f971f770ed3
+127.0.0.1 otheve.play.aiseet.atianqi.com/analytics/upload?rid=6f35181ad62b8aed&sid=fdaa2748cbaab843f1823f971f770ed3
+127.0.0.1 adash.m.taobao.com/rest/gc?dd=&nsgs=1&ak=23299685&av=2.1.0.200&c=&v=3.0&s=4fd601222723ae574be7fecfe4ce304e&d=WMYyrafOjD0DAOVLW5ZCySuS&sv=5.0.0&p=a&t=1494470957237&u=&is=0
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470911
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470912
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470913
+127.0.0.1 omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470914
+http://as.aplus.pptv.com/webbn?ap=202522_202505_202517_202513_202509_202514_202501_202508_202512&ct=js
 http://static.g.pptv.com/game/aplus/pptv/gamelist2.html
 http://img1.g.pptv.com/a/2015/04/14289229532234.gif
 http://img2.g.pptv.com/a/2016/02/14558674633516.gif
@@ -34,17 +124,12 @@ http://de.as.pptv.com/ikandelivery/webafp?ap=202520&ct=json&callback=axp7746188
 http://gas.data.pplive.com/stat/1.html?aid=AdmasterAxpStart
 http://gas.data.pplive.com/stat/1.html?aid=miaozhenIpdxFail
 http://plt.data.pplive.com/frontendrec/1.html?puid=cf8480121bf443a38959-024679611670&vip=0&uid=&ut=&sv=&plt=ik&act=show&uuid=2bac2ed6-ed03-4e31-87d3-05f7d420e718&sc=71&t=1494433515276
-
 http://msg.ptqy.gitv.tv/b?pf=3&p=31&p1=312&p2=3121&mac=78-02-F8-F2-E1-EA&u=tv_14b43631fc04204ce9cea4d47c13429c&deviceid=tv_14b43631fc04204ce9cea4d47c13429c_1494378903000&rn=7802f8f2e1ea14944339105989&nu=0&v=7.4.0.59958&dt=20151216112518733SYFgCxFG11180&firmver=MXB48T&hwver=MI-5s-Plus&window_disable=0&chip=qualcommtechnologies%252Cincmsm8996pro&mod=cn_s&memory=5G&processid=22789&re=1920x1080&os=23&core=4&channel=&isvipact=&entermode=0&jumptype=&td=&adcount=&videolist=&rlink=&showpay=&tvsrchsource=&e=&count=&now_c1=&tabsrc=&s1=&tvlogin=&c1=&t=21&bstp=1&star=&hu=&qy_prv=&plid=&rec=&tabid=&c2=&showbuyvip=&isact=&daynight=night&is4k=&rammode=normal&line=&is1080p=&sawitem=&s2=&qtcurl=exit_show&pu=&isread=&viprate=&rseat=&network=wifi&qpid=&isQR=&iscontent=&rfr=&dftitem=&allitem=&block=exit_show&series=&r=&flow=&card=
 http://msg.ptqy.gitv.tv/b?pf=3&p=31&p1=312&p2=3121&mac=78-02-F8-F2-E1-EA&u=tv_14b43631fc04204ce9cea4d47c13429c&deviceid=tv_14b43631fc04204ce9cea4d47c13429c_1494378903000&rn=7802f8f2e1ea14944345943698&nu=0&v=7.4.0.59958&dt=20151216112518733SYFgCxFG11180&firmver=MXB48T&hwver=MI-5s-Plus&window_disable=0&chip=qualcommtechnologies%252Cincmsm8996pro&mod=cn_s&memory=5G&processid=25577&re=1920x1080&os=23&core=4&channel=&isvipact=&entermode=0&td=232&launcher=com.miui.home&daynight=night&rammode=normal&pu=&autostart=&network=wifi&t=3&hu=&r=00001
 http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_14b43631fc04204ce9cea4d47c13429c_1494378903000&b=&c=&d=qc_100001_100145&e=7.4.0.59958&f=16&g=&h=&i=gtv&j=&k=&l=20151216112518733SYFgCxFG11180&m=MI+5s+Plus&n=844D5E0EE0C171F3D4BB2A837CCEA54C&o=2d30b9ae-37a5-4bad-af51-0ba2a3018d40&p=0&q=9&r=3.7.002&s=1000000000397&t=0&u=0&z=&ai=1&bd=&ea=1&nw=1&vd=&vn=&pi=&pc=&avd=&avn=&qyid=tv_14b43631fc04204ce9cea4d47c13429c
 http://msga.ptqy.gitv.tv/scp2.gif
-http://msga.ptqy.gitv.tv/scp2.gif
 http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_14b43631fc04204ce9cea4d47c13429c_1494378903000&b=&c=&d=qc_100001_100145&e=7.4.0.59958&f=16&g=&h=&i=gtv&j=&k=&l=20151216112518733SYFgCxFG11180&m=MI+5s+Plus&n=844D5E0EE0C171F3D4BB2A837CCEA54C&o=c7b2e3aa-43bd-417a-a5b1-6c974d3cd336&p=0&q=9&r=3.7.002&v=0&z=&ai=1&bd=&ea=1&nw=1&vd=&vn=&pi=&pc=&azt=602&qyid=tv_14b43631fc04204ce9cea4d47c13429c
-http://msga.ptqy.gitv.tv/scp2.gif
-http://msga.ptqy.gitv.tv/scp2.gif
 http://msg.ptqy.gitv.tv/b?pf=3&p=31&p1=312&p2=3121&mac=78-02-F8-F2-E1-EA&u=tv_14b43631fc04204ce9cea4d47c13429c&deviceid=tv_14b43631fc04204ce9cea4d47c13429c_1494378903000&rn=7802f8f2e1ea14944345945552&nu=0&v=7.4.0.59958&dt=20151216112518733SYFgCxFG11180&firmver=MXB48T&hwver=MI-5s-Plus&window_disable=0&chip=qualcommtechnologies%252Cincmsm8996pro&mod=cn_s&memory=5G&processid=25577&re=1920x1080&os=23&core=4&channel=&isvipact=&entermode=0&td=96&st=0&ri=ad_focus&daynight=night&e=&rammode=normal&ct=150619_request&tm2=&tm1=&pu=&network=wifi&tm3=&t=11&hu=&r=
-
 http://log.tbs.qq.com/ajax?c=dl&k=43e0367b3539b0151b7b07b350579a51
 威信投票的问题
 解锁搜狐卡顿的问题
@@ -55,7 +140,6 @@ http://img.9ads.net/a/2017-05-09/14943111782270.jpg
 http://e.9dtiny.cn/rk.php?id=607
 http://res.cocounion.com/banner/img/close.png
 http://js.9ads.net/c.php?s=JnpvbmVpZD02MDcmc2l0ZWlkPSZ1aWQ9MTM4MCZhZHNpZD05MTcmcGxhbmlkPTE4NSZwbGFudHlwZT1jcHYmdXJsPWh0dHAlM0ElMkYlMkZjZG4ubG9uZ3R1Z2FtZS5jb20lMkZjaGFubmVsX2JpbiUyRjUyMDA1MCUyRmFwayUyRjE5LjAlMkY1MjAwNTBfMTczNDguYXBrJnZ0aW1lPTIwMTctMDUtMTAgMjI6NTM6MTcmaXA9NDIuMTk5LjEzMS4yMTM=;1b80bc39eae5849ffd5293563f8fa9d3;&p=aj0wJm09MzImZj0yNS4wLjAmcj0mdT1odHRwJTNBJTJGJTJGd3d3LnFpdXNoaWJhaWtlLmNvbSUyRiZyZXM9MTI4MHg2NzgmdD0lRTclQjMlOTclRTQlQkElOEIlRTclOTklQkUlRTclQTclOTElMjAtJTIwJUU4JUI2JTg1JUU2JTkwJTlFJUU3JUFDJTkxJUU3JTlBJTg0JUU1JThFJTlGJUU1JTg4JTlCJUU3JUIzJTk3JUU0JUJBJThCJUU3JUFDJTkxJUU4JUFGJTlEJUU1JTg4JTg2JUU0JUJBJUFCJUU3JUE0JUJFJUU1JThDJUJBJmw9emgtQ04mYz0xJmg9MTAxMzUmc2U9MQ==
----
 127.0.0.1 bgstat.myzaker.com
 127.0.0.1 dc1.networkbench.com
 127.0.0.1 redirect.networkbench.com
@@ -94,7 +178,6 @@ http://api2.analysys.cn:8089
 http://astrategy.beacon.qq.com:8080/analytics/upload?mType=beacon?sid=b7f0cbb245f369580c07d0d7c3e93fbe
 http://pingma.qq.com:80/mstat/report/?index=1494372164
 http://pingma.qq.com:80/mstat/report/?index=1494372165
-http://msg.umengcloud.com:443
 http://adashbc.m.taobao.com/rest/sur?ak=23076470&av=6.0304.02&c=null&v=3.0&s=557eb703fc25785a27208baa9ff8e74547d6697a&d=WNS0zjG2AQIDAJ72dtgPkPfh&sv=2.5.1.3_for_bc&p=a&t=1494372178185&u=&is=1&k=0
 http://android.rqd.qq.com/analytics/async?aid=2546329e-4c9b-4f9c-a747-4017e456fc0b
 http://stadig.ifeng.com/appsta.js?datatype=newsapp&mos=android_7.0&softversion=5.5.4&publishid=6001&userkey=862033031253600&ua=mi_5%252Cxiaomi&logintime=1494372125&isupdate=0&md5=9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B&sha1=F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9&session=2017-05-10%2B07%3A22%3A11%23action%23type%3Dupscreen%24psnum%3D1%24id%3Dsy%402017-05-10%2B07%3A22%3A12%23action%23type%3Dupscreen%24psnum%3D1%24id%3Drcmd&sver=V1&sig=o1f7i38s3rf73n984t0742gcobtci2ci43j83ksf4327r3h

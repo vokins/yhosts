@@ -91,6 +91,8 @@
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 #taobao
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 acs4baichuan.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
@@ -194,7 +196,6 @@
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
-127.0.0.1 omgmta.play.ott.video.qq.com
 127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com

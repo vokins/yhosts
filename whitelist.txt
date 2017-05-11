@@ -1,4 +1,6 @@
 127.0.0.1 games.ifeng.com
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 vv.play.aiseet.atianqi.com
 http://pub.aplus.pptv.com/
 http://player.aplus.pptv.com/jsplayer/pid/5701.js
 127.0.0.1 api.k.sohu.com ËÑºüĞÂÎÅ

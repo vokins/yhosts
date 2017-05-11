@@ -39,6 +39,8 @@
 127.0.0.1 ad.molitv.cn
 127.0.0.1 log.molitv.cn
 127.0.0.1 log.tv.moliv.cn
+127.0.0.1 log1.molitv.cn
+127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
 #wasu.cn
 127.0.0.1 afpcreative.wasu.cn
@@ -46,20 +48,41 @@
 127.0.0.1 delivery.maihehd.com
 #yeshitv.com
 127.0.0.1 ad.yeshitv.com
+#http://www.hdplive.net/
+127.0.0.1 ad.vryeye.com
 #http://tv.sohu.com/ott/sohutv/
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 #http://pd.youku.com/CIBN
+127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 ipm.atm.cp31.ott.cibntv.net
+127.0.0.1 val.atm.cp31.ott.cibntv.net
 127.0.0.1 valf.atm.cp31.ott.cibntv.net
-#http://www.togic.com/livetv.html
-
+#http://tv.qq.com/
+127.0.0.1 andrqd.play.aiseet.atianqi.com
+127.0.0.1 otheve.play.aiseet.atianqi.com
+127.0.0.1 othstr.play.aiseet.atianqi.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
+#v.qq.com #http://www.togic.com/livetv.html
+127.0.0.1 news-l.play.ott.video.qq.com
+127.0.0.1 omgmta.play.ott.video.qq.com
+#http://www.91vst.com/index.html
+127.0.0.1 lives.l.cp81.ott.cibntv.net
+127.0.0.1 news-l.play.cp81.ott.cibntv.net
+127.0.0.1 omgmta.play.cp81.ott.cibntv.net
 #http://app.iqiyi.com/tv/player/
 127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 msg.71.am
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 store.ptqy.gitv.tv
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 #http://app.pptv.com/pg_get_tv
+127.0.0.1 de.as.cp61.ott.cibntv.net
 127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
@@ -77,4 +100,14 @@
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
-
+#http://yn.voole.com/app
+127.0.0.1 adinf.voole.com
+127.0.0.1 apkinfo.voole.com
+127.0.0.1 adinf.cp11.ott.cibntv.net
+127.0.0.1 adstat.cp11.ott.cibntv.net
+127.0.0.1 apklog.cp11.ott.cibntv.net
+127.0.0.1 cachenotice.cp11.ott.cibntv.net
+127.0.0.1 ark.cp21.ott.cibntv.net
+127.0.0.1 dc.cp21.ott.cibntv.net
+127.0.0.1 s.de123.net
+127.0.0.1 dc.vmoters.com

@@ -1026,7 +1026,6 @@
 127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
-127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
 127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 www.admaster.com.cn
@@ -1630,7 +1629,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
 127.0.0.1 g.x.cn.miaozhen.com
 127.0.0.1 gs.m.cn.miaozhen.com
