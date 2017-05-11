@@ -276,6 +276,7 @@
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
 #m.qu.la
+127.0.0.1 jie.mnxtu.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
@@ -356,6 +357,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 sy.jhtcdj.com
 127.0.0.1 p.dandan19.top
 127.0.0.1 sy.njfsk.com
 127.0.0.1 mm.njfsk.com

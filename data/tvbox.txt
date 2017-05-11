@@ -1,25 +1,3 @@
-#51togic.com
-127.0.0.1 ad.video.51togic.com
-127.0.0.1 cdn.ad.video.51togic.com
-#cibn
-127.0.0.1 s.gdatacube.net
-127.0.0.1 cf.gdatacube.net
-127.0.0.1 js.hls.ott.cibntv.net
-127.0.0.1 hls01.ott.disp.cibntv.net
-#cibntv-pd.youku.com
-127.0.0.1 qr.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 sdk.m.cp31.ott.cibntv.net
-#cibntv-pptv
-127.0.0.1 action.data.cp61.ott.cibntv.net
-127.0.0.1 asimgs.cp61.ott.cibntv.net
-127.0.0.1 jp.as.cp61.ott.cibntv.net
-127.0.0.1 sdk.data.cp61.ott.cibntv.net
-127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
-#cibntv-sohu
-127.0.0.1 images.cp45.ott.cibntv.net
-127.0.0.1 mmg.aty.cp45.ott.cibntv.net
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
@@ -178,5 +156,3 @@
 #wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
-
-

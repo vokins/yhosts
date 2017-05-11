@@ -6,17 +6,10 @@
 127.0.0.1 adv.grtn.cn
 #http://v.ahtv.cn/live/ahlive/
 127.0.0.1 advapi.ahtv.cn
-
-
-
-
-@127.0.0.1 delivery.wasu.cn
+#http://www.wasu.cn/
 127.0.0.1 ads.wasu.tv
+127.0.0.1 delivery.wasu.cn
 #http://www.1905.com/vod/
-
-
-
-
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 mlog.m1905.cn

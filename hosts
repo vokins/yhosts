@@ -1,5 +1,5 @@
 
-#version=201705111751
+#version=201705111805
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -959,7 +959,6 @@
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 rtas.videocc.net
-127.0.0.1 apiserver.cctvweishi.com
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
@@ -1776,6 +1775,7 @@
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
 127.0.0.1 bdjs.jb51.net
+127.0.0.1 dm.jb51.net
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net
 127.0.0.1 js.mumayi.net
@@ -1863,15 +1863,8 @@
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 adv.grtn.cn
 127.0.0.1 advapi.ahtv.cn
-
-
-
-
 127.0.0.1 ads.wasu.tv
-
-
-
-
+127.0.0.1 delivery.wasu.cn
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 mlog.m1905.cn
@@ -2478,6 +2471,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 jie.mnxtu.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
@@ -2551,6 +2545,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 sy.jhtcdj.com
 127.0.0.1 p.dandan19.top
 127.0.0.1 sy.njfsk.com
 127.0.0.1 mm.njfsk.com
@@ -6033,23 +6028,6 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
 127.0.0.1 mc.yandex.ru
-127.0.0.1 ad.video.51togic.com
-127.0.0.1 cdn.ad.video.51togic.com
-127.0.0.1 s.gdatacube.net
-127.0.0.1 cf.gdatacube.net
-127.0.0.1 js.hls.ott.cibntv.net
-127.0.0.1 hls01.ott.disp.cibntv.net
-127.0.0.1 qr.cp31.ott.cibntv.net
-127.0.0.1 r.l.cp31.ott.cibntv.net
-127.0.0.1 store.tv.api.3g.cp31.ott.cibntv.net
-127.0.0.1 sdk.m.cp31.ott.cibntv.net
-127.0.0.1 action.data.cp61.ott.cibntv.net
-127.0.0.1 asimgs.cp61.ott.cibntv.net
-127.0.0.1 jp.as.cp61.ott.cibntv.net
-127.0.0.1 sdk.data.cp61.ott.cibntv.net
-127.0.0.1 tinydrag.t.cp61.ott.cibntv.net
-127.0.0.1 images.cp45.ott.cibntv.net
-127.0.0.1 mmg.aty.cp45.ott.cibntv.net
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net
@@ -6196,8 +6174,6 @@
 127.0.0.1 www.bfshan.cn
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
-
-
 127.0.0.1 20170501.logic.cpm.cm.kankan.com
 127.0.0.1 20170502.logic.cpm.cm.kankan.com
 127.0.0.1 20170503.logic.cpm.cm.kankan.com

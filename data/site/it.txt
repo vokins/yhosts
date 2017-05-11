@@ -78,6 +78,7 @@
 127.0.0.1 2.win7china.com
 #jb51.net
 127.0.0.1 bdjs.jb51.net
+127.0.0.1 dm.jb51.net
 #jz5u.net
 127.0.0.1 baidu.jz5u.net
 127.0.0.1 cp.jz5u.net

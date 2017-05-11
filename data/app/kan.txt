@@ -26,7 +26,6 @@
 127.0.0.1 ssp.tadseeker.com
 #cctv
 127.0.0.1 rtas.videocc.net
-127.0.0.1 apiserver.cctvweishi.com
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com

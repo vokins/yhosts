@@ -1,5 +1,6 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 apiserver.cctvweishi.com
 127.0.0.1 vv.play.aiseet.atianqi.com
 http://cms-bucket.nosdn.127.net/4da08b2dad2947bca67bd4dc3a83a50020170511003631.png 卡片新闻jpg
 到microsoft.com下载IE11，然后就无法下载了，找了下发现是hostst中屏蔽了g.msn.com　

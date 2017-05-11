@@ -14,6 +14,7 @@ http://delivery.wasu.cn/d/vmap/1.0?prd=4.0taobaobuy
 http://delivery.wasu.cn/d/vmap/1.0?prd=wasuTV4.0
 http://ads.wasu.tv:8080/afp/door/;ap=p593ab0e9ab417050001|f593aaefefbe2afc0001|b67783dad1ddbb560001|x593ab3f6fa3fc750001|u593ab2f7c6d46a20001|i6778ffab5d534be0001|h593ab5fd0e0f0cf0001|l593ab50a5613ecc0001|o677900e3ee5405a0001;userid=0301AC002800b5101ca28;columnid=;featureid=;programid=;ct=xml;pu=m367013db4ba3d4c0001;/
 http://delivery.wasu.cn/d/vast/3.0?pos=69&maxc=5&muid=B8E395DFA1E91278FAA66DBE6660B4F9&prol=cs4.0_4.3.1.5&brand=0301AC002800b5101ca28&os=Android&rslt=1280_800&ur=
+http://ads.waps.cn/action/miniad/ad?app_id=18c092ad5270781d56406dac222f00f2&udid=863818035818120&imsi=460098036001580&net=wifi&base=wapx.cn&app_version=1.7&sdk_version=2.4.2&device_name=MI%205s%20Plus&device_brand=Xiaomi&y=ffafda65b63851c2af6e9ccf8f4d1515&device_type=android&os_version=6.0.1&country_code=CN&language=zh&act=cn.jsxyyy.bfq&root=false&channel=xiaomi&device_width=1080&device_height=1920&rec=mylQ%2B7wYguXTquWlXarEBOUYzYNXXo3Nw3TFJrvfEzbXWpLfI7a5qERUAGrnjGxesqY52xVfJKsy%0AAmROhEIYfOLUaRKr3e9ibqj5gGU6jWaSMcreVZQ7SPp%2FJA1J%2BASPH8BWsz7AQoLyuY1TYQb7JvpG%0AsOh9Z2RwC3ZHHwiK%2FWMWrEWV87gMqTzEm1ZF8%2BTFNbwIWyjJ5ZhOTwGR3st5ZNcCC5EUwoZ1tShJ%0A260SJIKKWxknzeZGrA%3D%3D%0A&at=1494495568568
 http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494472574
 http://omgmta.play.aiseet.atianqi.com:80/mstat/report/?index=1494470984
 http://vv.play.aiseet.atianqi.com/checktime?otype=json&randnum=0.8914173401207358&guid=1A6E5DD7B9C847E5BD947591331D1ADA
