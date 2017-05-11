@@ -6430,6 +6430,7 @@
 127.0.0.1 ssl.ymapp.com
 127.0.0.1 video.ymapp.com
 127.0.0.1 w.ymapp.com
+127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 a.img.static.youmi.net
 127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 a2.img.static.youmi.net
