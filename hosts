@@ -1,5 +1,5 @@
 
-#version=201705111819
+#version=201705111827
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -6045,7 +6045,6 @@
 127.0.0.1 vmindhls.tc.qq.com
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 vv.play.aiseet.atianqi.com
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
@@ -6095,16 +6094,6 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
-127.0.0.1 click.hd.sohu.com.cn
-127.0.0.1 mb.hd.sohu.com.cn
-127.0.0.1 pb.hd.sohu.com.cn
-127.0.0.1 bd.hd.sohu.com
-127.0.0.1 click2.hd.sohu.com
-127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 pv.hd.sohu.com
-127.0.0.1 pv.ott.hd.sohu.com
-127.0.0.1 um.hd.sohu.com
-127.0.0.1 wl.hd.sohu.com
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 m.aty.sohu.com
