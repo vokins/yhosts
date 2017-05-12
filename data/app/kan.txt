@@ -43,7 +43,8 @@
 127.0.0.1 log1.molitv.cn
 127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
-#wasu.cn
+#http://www.wasu.cn/
+127.0.0.1 ads.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com

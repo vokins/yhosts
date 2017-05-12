@@ -1,5 +1,11 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.czxhgc.com
+127.0.0.1 e.czxhgc.com
+127.0.0.1 ldy.350.com
+127.0.0.1 e.dlrijiaele.com
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.dlrijiaele.com
 127.0.0.1 m.cayanfang.com
 127.0.0.1 ke.njwxh.com
@@ -94,7 +100,6 @@
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
 127.0.0.1 m.jackaow.com
-127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
 127.0.0.1 m.resetgey.com
@@ -163,7 +168,6 @@
 127.0.0.1 m.yageben.com
 127.0.0.1 m.lengrom.cn
 127.0.0.1 diwang.nzezn.com
-127.0.0.1 gog9.qzdfc.com
 127.0.0.1 m.chnhty.com
 127.0.0.1 e.lanxiangji.com
 127.0.0.1 m.lanxiangji.com
@@ -386,6 +390,7 @@
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
 #m.uuxs.net
+127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 #m.xiazailou.la
 127.0.0.1 xia.xiazailou.la

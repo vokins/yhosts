@@ -1,5 +1,5 @@
 
-#version=201705111834
+#version=201705121544
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -973,6 +973,7 @@
 127.0.0.1 log1.molitv.cn
 127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
+127.0.0.1 ads.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
@@ -1862,8 +1863,6 @@
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 adv.grtn.cn
 127.0.0.1 advapi.ahtv.cn
-127.0.0.1 ads.wasu.tv
-127.0.0.1 delivery.wasu.cn
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 mlog.m1905.cn
@@ -2215,6 +2214,12 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.czxhgc.com
+127.0.0.1 e.czxhgc.com
+127.0.0.1 ldy.350.com
+127.0.0.1 e.dlrijiaele.com
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.dlrijiaele.com
 127.0.0.1 m.cayanfang.com
 127.0.0.1 ke.njwxh.com
@@ -2302,7 +2307,6 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
 127.0.0.1 m.jackaow.com
-127.0.0.1 yang.jfqkj.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
 127.0.0.1 m.resetgey.com
@@ -2367,7 +2371,6 @@
 127.0.0.1 m.yageben.com
 127.0.0.1 m.lengrom.cn
 127.0.0.1 diwang.nzezn.com
-127.0.0.1 gog9.qzdfc.com
 127.0.0.1 m.chnhty.com
 127.0.0.1 e.lanxiangji.com
 127.0.0.1 m.lanxiangji.com
@@ -2569,6 +2572,7 @@
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
+127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 xia.xiazailou.la
 127.0.0.1 zai.xiazailou.la
@@ -3023,8 +3027,8 @@
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
-127.0.0.1 www.yezilm.com
 127.0.0.1 ttts.leztc.com
+127.0.0.1 www.yezilm.com
 127.0.0.1 js658.tongqing2015.com
 127.0.0.1 ttts.miyue17.com
 127.0.0.1 h5.taihao.cc
