@@ -16,6 +16,8 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 #btbtdy.com
+127.0.0.1 m.rpaulfrank.com
+127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 cz2.rhgyg.com
 127.0.0.1 js6876.tongqing2015.com
 127.0.0.1 js3610.51weidashi.com

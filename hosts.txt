@@ -3339,6 +3339,8 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 #btbtdy.com
+127.0.0.1 m.rpaulfrank.com
+127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 cz2.rhgyg.com
 127.0.0.1 js6876.tongqing2015.com
 127.0.0.1 js3610.51weidashi.com
@@ -3739,6 +3741,7 @@
 127.0.0.1 www.8033bb.com
 127.0.0.1 www.5814889.com
 #dvd.kltvv.com
+127.0.0.1 a.e7015.com
 127.0.0.1 t.e706.net
 127.0.0.1 v.e704.net
 #m.263tvb.com
@@ -3779,6 +3782,8 @@
 127.0.0.1 www.xuefo365.cn
 127.0.0.1 cdn3.e705.net
 #m.haotv8.com
+127.0.0.1 liba.haotv8.com
+127.0.0.1 lib.haotv8.com
 127.0.0.1 s.wapadv.com
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
@@ -3862,6 +3867,8 @@
 127.0.0.1 t.3apf.com
 127.0.0.1 m3z96.sanya1.com
 127.0.0.1 f.chunqiu360.com
+#m.tvmao.com
+127.0.0.1 libs.tvmao.cn
 #v5.lol5s.com
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
