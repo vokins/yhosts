@@ -1,5 +1,5 @@
 
-#version=201705141444
+#version=201705141850
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2218,6 +2218,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 shu.thxnr.com
 127.0.0.1 m.czxhgc.com
 127.0.0.1 e.czxhgc.com
 127.0.0.1 ldy.350.com
@@ -2458,6 +2459,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 e.tangoutianxia.com
 127.0.0.1 m.yadade.com
 127.0.0.1 e.yadade.com
 127.0.0.1 e.xigeng0375.com
@@ -2543,6 +2545,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
 127.0.0.1 m.sos0easy.com
 127.0.0.1 mm.yageben.com
@@ -2612,6 +2615,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 www.xundefine.com
 127.0.0.1 db.edwinyan.com
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 db.dghrwj.com
