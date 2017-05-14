@@ -1,5 +1,5 @@
 @echo off
-ver=下午5:27 2017/4/18
+ver=下午10:19 2017/5/14
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo.&Echo 请使用右键“以管理员身份运行”&&Pause >NUL&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableExtensions
@@ -15,7 +15,7 @@ msg %username% /time:3 "hosts文件已成功更新！"
 exit
 
 :del
-del /f xunlei.txt hosts.txt hosts grd.txt hbhosts.txt
+del /f xunlei.txt hosts.txt hosts grd.txt hbhosts.txt 1.txt 2.txt
 goto :eof
 
 :xunlei
@@ -29,7 +29,8 @@ goto :eof
 rem wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts -e use_proxy=yes -e http_proxy=127.0.0.1:9666
 wget -c --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 wget -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
-wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/sy618/hosts/master/FQ
+rem wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/sy618/hosts/master/FQ
+wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/ss916/bug/master/log/bug
 copy /a 1.txt + 2.txt grd.txt
 rem 删除前13行注释内容
 sed -i "1,13d" grd.txt

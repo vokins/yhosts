@@ -1,5 +1,6 @@
 ﻿127.0.0.1 dp3.play.ott.video.qq.com
 127.0.0.1 vv.play.ott.video.qq.com
+https-play-g3proxy.lecloud.com  京东启动广告源
 http://img-cdn-spot.ymcdn.cn/res/113725/14943046170.jpg
 #cibn-voole
 http://de.as.cp61.ott.cibntv.net/ikandelivery/cache/?pos=501011&platform=262144&ctype=7&os=&osv=&carrier=&devicetype=3&appid=com.pptv.tvsports&did=800B5101CA28&mac=800B5101CA28&o=230004&make=GIMI&language=zh&dpid=bac1dc4c31e01127&model=XGIMI+TV&resolution=800x1280

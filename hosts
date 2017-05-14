@@ -1,5 +1,5 @@
 
-#version=201705141850
+#version=201705142232
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -266,6 +266,7 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+127.0.0.1 https-play-g3proxy.lecloud.com
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 embedlog.duiba.com.cn
 127.0.0.1 www.duiba.com.cn
