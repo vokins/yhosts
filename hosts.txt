@@ -3151,6 +3151,13 @@
 127.0.0.1 vip.cainiaofx.com
 #m.shuotxts.com
 127.0.0.1 c3.gostats.cn
+#m.shuqu8.com
+127.0.0.1 aidaban.shushijiameng123.com
+127.0.0.1 dl.mbsea.com
+127.0.0.1 img.miuan.top
+127.0.0.1 syd.wayize.cn
+127.0.0.1 tks1y9.bairuile.cn
+127.0.0.1 wowo.kilospeak.com
 #m.shushu8.com
 127.0.0.1 m.gdyyyg.net
 #m.sodu520.net

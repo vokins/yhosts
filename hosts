@@ -1,5 +1,5 @@
 
-#version=20170514 947
+#version=201705141444
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2577,6 +2577,12 @@
 127.0.0.1 s.xpqfc.com
 127.0.0.1 vip.cainiaofx.com
 127.0.0.1 c3.gostats.cn
+127.0.0.1 aidaban.shushijiameng123.com
+127.0.0.1 dl.mbsea.com
+127.0.0.1 img.miuan.top
+127.0.0.1 syd.wayize.cn
+127.0.0.1 tks1y9.bairuile.cn
+127.0.0.1 wowo.kilospeak.com
 127.0.0.1 m.gdyyyg.net
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
