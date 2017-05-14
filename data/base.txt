@@ -318,6 +318,8 @@
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
+127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 wds.inte.sogoucdn.com
 @base-google
 #admob
 127.0.0.1 r.admob.com

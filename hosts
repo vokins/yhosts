@@ -1,5 +1,5 @@
 
-#version=201705131641
+#version=20170514 839
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -334,6 +334,8 @@
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
+127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 wds.inte.sogoucdn.com
 127.0.0.1 r.admob.com
 127.0.0.1 mm.admob.com
 127.0.0.1 ad.doubleclick.net
@@ -2350,6 +2352,8 @@
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.hkfuy.com
+127.0.0.1 e.rpaulfrank.com
 127.0.0.1 c.xhsxgmt.cn
 127.0.0.1 e.jackaow.com
 127.0.0.1 s.nyydj.com
@@ -2447,6 +2451,7 @@
 127.0.0.1 link.yida558.com
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
+127.0.0.1 m.tangoutianxia.com
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
@@ -2512,6 +2517,7 @@
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
+127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.maibahe300cc.com
 127.0.0.1 m.s400cc.com
 127.0.0.1 s.kguke.com
@@ -2528,6 +2534,7 @@
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
+127.0.0.1 in.hkfuy.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 image.qj175.com
 127.0.0.1 ms.myyage.com
