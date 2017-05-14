@@ -196,6 +196,7 @@
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com

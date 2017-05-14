@@ -1,5 +1,5 @@
 
-#version=20170514 839
+#version=20170514 947
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -230,6 +230,7 @@
 127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 omgmta.qq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
@@ -1096,8 +1097,9 @@
 127.0.0.1 stats.yzbo.tv
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 liveupdate.mac.sandai.net
-127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 btrace.qq.com
