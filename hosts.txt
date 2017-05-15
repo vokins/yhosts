@@ -602,6 +602,7 @@
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
+127.0.0.1 clkde.tradedoubler.com
 @errorpage/weixin
 127.0.0.1 tl.771tao.com
 #www.youzan.com
@@ -1293,6 +1294,9 @@
 127.0.0.1 js.xuexila.com
 127.0.0.1 ds.sundxs.com
 127.0.0.1 jd.sundxs.com
+#http://m.zhishi365.com/
+127.0.0.1 sc.goyozo.com
+127.0.0.1 new.zhqiu.com
 #http://www.jiakaobaodian.com/
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 telepathy.kakamobi.com

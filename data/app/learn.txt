@@ -43,6 +43,9 @@
 127.0.0.1 js.xuexila.com
 127.0.0.1 ds.sundxs.com
 127.0.0.1 jd.sundxs.com
+#http://m.zhishi365.com/
+127.0.0.1 sc.goyozo.com
+127.0.0.1 new.zhqiu.com
 #http://www.jiakaobaodian.com/
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 telepathy.kakamobi.com

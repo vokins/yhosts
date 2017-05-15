@@ -1,5 +1,5 @@
 
-#version=201705142232
+#version=201705151031
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -498,6 +498,7 @@
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
+127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
@@ -1083,6 +1084,8 @@
 127.0.0.1 js.xuexila.com
 127.0.0.1 ds.sundxs.com
 127.0.0.1 jd.sundxs.com
+127.0.0.1 sc.goyozo.com
+127.0.0.1 new.zhqiu.com
 127.0.0.1 789.kakamobi.cn
 127.0.0.1 telepathy.kakamobi.com
 127.0.0.1 abc.yjbys.org

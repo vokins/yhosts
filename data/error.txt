@@ -5,6 +5,7 @@
 127.0.0.1 pro.yyhudong.com
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
+127.0.0.1 clkde.tradedoubler.com
 @errorpage/weixin
 127.0.0.1 tl.771tao.com
 #www.youzan.com
