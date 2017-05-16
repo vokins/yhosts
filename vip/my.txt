@@ -1,2 +1,4 @@
 127.0.0.1 www.yhd.com
 127.0.0.1 mbdapp.iqiyi.com
+#miui-calendar
+127.0.0.1 api.comm.miui.com

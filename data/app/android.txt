@@ -156,8 +156,6 @@
 127.0.0.1 security.browser.miui.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 tracking.miui.com
-#miui-calendar
-127.0.0.1 api.comm.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 api.tw06.xlmc.sec.miui.com

@@ -182,6 +182,7 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
 127.0.0.1 m4r328.qzxsls.com

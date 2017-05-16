@@ -1,5 +1,5 @@
 
-#version=201705151031
+#version=201705161142
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -796,7 +796,6 @@
 127.0.0.1 security.browser.miui.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 api.comm.miui.com
 127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 sousuo.xm.sjzhushou.com
@@ -2222,6 +2221,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
 127.0.0.1 m.czxhgc.com
 127.0.0.1 e.czxhgc.com
@@ -2315,6 +2315,8 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 js205.lytubaobao.com
+127.0.0.1 m.sonomoyo.com
 127.0.0.1 m.jackaow.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
@@ -2349,6 +2351,7 @@
 127.0.0.1 e.968lele.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
+127.0.0.1 e.lflili.com
 127.0.0.1 tt.shxinjie.cn
 127.0.0.1 pp.2945.com
 127.0.0.1 wywk.seuxm.cn
@@ -2619,6 +2622,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 www.xundefine.com
 127.0.0.1 db.edwinyan.com
 127.0.0.1 js.qxjdlf.com
@@ -3287,6 +3291,7 @@
 127.0.0.1 sg.keytui.com
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
+127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
 127.0.0.1 m4r328.qzxsls.com

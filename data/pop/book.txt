@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
 127.0.0.1 m.czxhgc.com
 127.0.0.1 e.czxhgc.com
@@ -100,6 +101,8 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 js205.lytubaobao.com
+127.0.0.1 m.sonomoyo.com
 127.0.0.1 m.jackaow.com
 127.0.0.1 m.kooyum.com
 127.0.0.1 jiu.nchte.com
@@ -136,6 +139,7 @@
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
+127.0.0.1 e.lflili.com
 127.0.0.1 tt.shxinjie.cn
 127.0.0.1 pp.2945.com
 127.0.0.1 wywk.seuxm.cn
@@ -432,6 +436,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
+127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 www.xundefine.com
 127.0.0.1 db.edwinyan.com
 127.0.0.1 js.qxjdlf.com

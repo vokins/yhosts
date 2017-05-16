@@ -1,7 +1,6 @@
 http://m.1xiaoshuo.com/js/common.js
 http://m.37zw.com/js/wap.js
 http://m.5442.com/style/warp/js/mpads5442.js
-http://m.69shuwu.com/wap/sj.js
 http://m.biquge.com.tw/wap/skin/wap.js
 http://m.biqumo.com/js/wap.js
 http://m.bmwen.com/gao/bmxptj_1.js
