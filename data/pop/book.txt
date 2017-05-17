@@ -517,11 +517,13 @@
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
 #www.shuaigay.top
+127.0.0.1 s.ddstu.com
 127.0.0.1 img.bdaerfa.com
 127.0.0.1 lz.bdaerfa.com
 127.0.0.1 in.ndtzx.com
 127.0.0.1 img1.yyape.com
 127.0.0.1 img2.yyape.com
+127.0.0.1 img3.yyape.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 www.a0c77.com
 127.0.0.1 s.yfycy.com
