@@ -352,6 +352,8 @@
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
 #m.shenshuw.com
+127.0.0.1 m.025suyu.com
+127.0.0.1 m.24haitao.net
 127.0.0.1 in.hkfuy.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 image.qj175.com
@@ -469,6 +471,7 @@
 127.0.0.1 gfnksw.wap.xxbiquge.com
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 udhvgs.wap.xxbiquge.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com

@@ -1252,6 +1252,7 @@
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
 127.0.0.1 wasd50fd12.360doc.cn
+127.0.0.1 w5sac788c1.360doc.cn
 #ajpsp.com
 127.0.0.1 js.xtcake.com
 127.0.0.1 img.xtcake.com
@@ -2003,8 +2004,14 @@
 #www.ftchinese.com
 127.0.0.1 creatives.ftchinese.com
 127.0.0.1 dolphin.ftimg.net
+#m.douguo.com
+127.0.0.1 abc.douguo.com
+127.0.0.1 ggb.douguo.com
 #m.sbar.com.cn
 127.0.0.1 ab.meishiba.com.cn
+#m.xiachufang.com
+127.0.0.1 baidu-union-js.xiachufang.com
+127.0.0.1 baidu-union-pos.xiachufang.com
 #m.xinshipu.com
 127.0.0.1 d.xinshipu.com
 127.0.0.1 j.xinshipu.com
@@ -3128,6 +3135,8 @@
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
 #m.shenshuw.com
+127.0.0.1 m.025suyu.com
+127.0.0.1 m.24haitao.net
 127.0.0.1 in.hkfuy.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 image.qj175.com
@@ -3245,6 +3254,7 @@
 127.0.0.1 gfnksw.wap.xxbiquge.com
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 udhvgs.wap.xxbiquge.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com

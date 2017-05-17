@@ -3,6 +3,7 @@
 127.0.0.1 scriptwap2.360doc.cn
 127.0.0.1 scriptwap3.360doc.cn
 127.0.0.1 wasd50fd12.360doc.cn
+127.0.0.1 w5sac788c1.360doc.cn
 #ajpsp.com
 127.0.0.1 js.xtcake.com
 127.0.0.1 img.xtcake.com

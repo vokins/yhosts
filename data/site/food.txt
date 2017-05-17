@@ -1,5 +1,11 @@
+#m.douguo.com
+127.0.0.1 abc.douguo.com
+127.0.0.1 ggb.douguo.com
 #m.sbar.com.cn
 127.0.0.1 ab.meishiba.com.cn
+#m.xiachufang.com
+127.0.0.1 baidu-union-js.xiachufang.com
+127.0.0.1 baidu-union-pos.xiachufang.com
 #m.xinshipu.com
 127.0.0.1 d.xinshipu.com
 127.0.0.1 j.xinshipu.com
