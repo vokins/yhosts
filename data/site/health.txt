@@ -15,6 +15,9 @@
 127.0.0.1 tracking.babytree.com
 #ci123.com
 127.0.0.1 tc.ci123.com
+#m.qbaobei.com
+127.0.0.1 cp.jfcdns.com
+127.0.0.1 unjs.jfcdns.com
 #qqyy.com
 127.0.0.1 dpvc1.qqyy.com
 127.0.0.1 dpvc2.qqyy.com

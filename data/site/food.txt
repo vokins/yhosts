@@ -1,0 +1,5 @@
+#m.sbar.com.cn
+127.0.0.1 ab.meishiba.com.cn
+#m.xinshipu.com
+127.0.0.1 d.xinshipu.com
+127.0.0.1 j.xinshipu.com

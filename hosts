@@ -1,5 +1,5 @@
 
-#version=201705171832
+#version=201705171855
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1622,6 +1622,9 @@
 127.0.0.1 ads.ccstock.cn
 127.0.0.1 creatives.ftchinese.com
 127.0.0.1 dolphin.ftimg.net
+127.0.0.1 ab.meishiba.com.cn
+127.0.0.1 d.xinshipu.com
+127.0.0.1 j.xinshipu.com
 127.0.0.1 cvda.17173.com
 127.0.0.1 log1.17173.com
 127.0.0.1 vda.17173.com
@@ -1670,6 +1673,8 @@
 127.0.0.1 titan01.babytree.com
 127.0.0.1 tracking.babytree.com
 127.0.0.1 tc.ci123.com
+127.0.0.1 cp.jfcdns.com
+127.0.0.1 unjs.jfcdns.com
 127.0.0.1 dpvc1.qqyy.com
 127.0.0.1 dpvc2.qqyy.com
 127.0.0.1 dpvchos.qqyy.com
