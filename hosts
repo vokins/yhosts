@@ -1,5 +1,5 @@
 
-#version=201705161142
+#version=201705171832
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1989,6 +1989,7 @@
 127.0.0.1 myes.youku.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 nexus.ensighten.com
+127.0.0.1 cdn.krxd.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 stats.wp.com
 127.0.0.1 rum-collector.pingdom.net
@@ -2300,6 +2301,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 guo.gyrtg.com
 127.0.0.1 neng.ynmbz.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 kuang.myzk1.com
@@ -2315,6 +2317,7 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.tuadong.com
 127.0.0.1 js205.lytubaobao.com
 127.0.0.1 m.sonomoyo.com
 127.0.0.1 m.jackaow.com
@@ -2466,6 +2469,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
 127.0.0.1 m.yadade.com
 127.0.0.1 e.yadade.com
@@ -2642,6 +2646,7 @@
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
+127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
 127.0.0.1 gfnksw.wap.xxbiquge.com
@@ -3413,6 +3418,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 bdjs.itechwall.com
 127.0.0.1 xxx.caip2y.com
 127.0.0.1 v.huomob.com
 127.0.0.1 52.fushibooks.com

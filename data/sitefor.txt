@@ -5,6 +5,8 @@
 @site-foregin/news
 #m.cn.rfi.fr
 127.0.0.1 nexus.ensighten.com
+#m.cn.nytimes.com
+127.0.0.1 cdn.krxd.net
 @site-foregin/sns
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
