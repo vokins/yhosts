@@ -158,12 +158,14 @@
 127.0.0.1 tracking.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
-127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sandai.net
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 tw13b093.sandai.net
+127.0.0.1 sousuo.xm.sjzhushou.com
+#miui-file
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 etl.xlmc.sec.miui.com
 #miui-game
 127.0.0.1 app.migc.xiaomi.com
 127.0.0.1 data.game.xiaomi.com
@@ -172,7 +174,6 @@
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 api.sec.miui.com
 127.0.0.1 info.sec.miui.com
 #miui-weather
 127.0.0.1 wtradv.market.xiaomi.com

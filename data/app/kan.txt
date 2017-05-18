@@ -6,6 +6,7 @@
 127.0.0.1 addl.easetuner.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
+127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
 #http://www.togic.com/wap/download.html
 127.0.0.1 livep.l.ott.video.qq.com
