@@ -1,5 +1,5 @@
 
-#version=201705182032
+#version=201705182044
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -5026,12 +5026,6 @@
 127.0.0.1 pic.bloggerads.net
 127.0.0.1 pic2.bloggerads.net
 127.0.0.1 piccdn.bloggerads.net
-127.0.0.1 file.bmob.cn
-127.0.0.1 open.bmob.cn
-127.0.0.1 static.bmob.cn
-127.0.0.1 cloud.codenow.cn
-127.0.0.1 codenow.cn
-127.0.0.1 www.codenow.cn
 127.0.0.1 b.bshare.cn
 127.0.0.1 lzplugin.bshare.cn
 127.0.0.1 lzstatic.bshare.cn
