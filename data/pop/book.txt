@@ -333,6 +333,7 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.maibahe300cc.com
 127.0.0.1 m.s400cc.com

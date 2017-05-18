@@ -60,6 +60,11 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 img.qdscgj.com
+127.0.0.1 lz.wfhxssg.com
+127.0.0.1 uri6.com
+127.0.0.1 www.onewhee.com
+127.0.0.1 www.sxdyrq.com
 127.0.0.1 www.whcrdz.com
 127.0.0.1 qu.geryi.com
 127.0.0.1 wan.8mfty.com
