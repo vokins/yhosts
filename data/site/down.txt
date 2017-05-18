@@ -17,6 +17,9 @@
 127.0.0.1 count.612.com
 127.0.0.1 c5.97you.net
 #greenxf.com
+127.0.0.1 baidu.greenxf.cn
+127.0.0.1 cp.greenxf.cn
+127.0.0.1 i.cdnxiazai.com
 127.0.0.1 down.xiazai2.net
 #gueizu.com
 127.0.0.1 imxiexie.cn
