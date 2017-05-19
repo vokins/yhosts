@@ -1,5 +1,5 @@
 
-#version=201705192247
+#version=20170520 023
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2645,7 +2645,6 @@
 127.0.0.1 qidod.cn
 127.0.0.1 t3shz.jinanhe.com.cn
 127.0.0.1 update.juw37xqo3x.com
-127.0.0.1 uri6.com
 127.0.0.1 v.oq68.com
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
@@ -2777,7 +2776,6 @@
 127.0.0.1 s.gqswg.com
 127.0.0.1 www.yhwjd.com
 127.0.0.1 xzl.caip2y.com
-127.0.0.1 www.sxdyrq.com
 127.0.0.1 in.gqswg.com
 127.0.0.1 m.andgongge.com
 127.0.0.1 m.chenhuia.com
