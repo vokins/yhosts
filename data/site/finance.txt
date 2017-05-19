@@ -47,4 +47,6 @@
 127.0.0.1 ads.ccstock.cn
 #www.ftchinese.com
 127.0.0.1 creatives.ftchinese.com
+127.0.0.1 creatives1.ftimg.net
 127.0.0.1 dolphin.ftimg.net
+127.0.0.1 dolphin4.ftimg.net

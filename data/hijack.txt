@@ -75,6 +75,7 @@
 127.0.0.1 nfdnserror17.wo.com.cn
 #10086
 127.0.0.1 navi.gd.chinamobile.com
+127.0.0.1 hivedata.cc
 @hijack/apk-down
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m.3944540.com

@@ -236,6 +236,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 y.hk9600.com
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rj.huajingfood.cn
 127.0.0.1 jj.youzizhijia.cn
@@ -329,6 +330,7 @@
 #m.sanhao3.com
 127.0.0.1 lkf1.m.sanhao3.com
 127.0.0.1 b.ndtzx.com
+127.0.0.1 b.hkfuy.com
 127.0.0.1 sj2.sscefsol.com
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
@@ -565,6 +567,7 @@
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
 #www.tianyucangqiong1.com
+127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
 127.0.0.1 js3987.yzh360.com

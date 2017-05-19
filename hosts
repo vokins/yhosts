@@ -1,5 +1,5 @@
 
-#version=201705182044
+#version=201705192247
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -502,6 +502,7 @@
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
+127.0.0.1 s.youzhuanhua.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -575,6 +576,7 @@
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
 127.0.0.1 navi.gd.chinamobile.com
+127.0.0.1 hivedata.cc
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m.3944540.com
 127.0.0.1 m5.apk.67mo.com
@@ -1614,7 +1616,9 @@
 127.0.0.1 info.stockstar.com
 127.0.0.1 ads.ccstock.cn
 127.0.0.1 creatives.ftchinese.com
+127.0.0.1 creatives1.ftimg.net
 127.0.0.1 dolphin.ftimg.net
+127.0.0.1 dolphin4.ftimg.net
 127.0.0.1 abc.douguo.com
 127.0.0.1 ggb.douguo.com
 127.0.0.1 ab.meishiba.com.cn
@@ -2456,6 +2460,7 @@
 127.0.0.1 e.mingysh.com
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
+127.0.0.1 y.hk9600.com
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rj.huajingfood.cn
 127.0.0.1 jj.youzizhijia.cn
@@ -2543,6 +2548,7 @@
 127.0.0.1 img.tcdxt.com
 127.0.0.1 lkf1.m.sanhao3.com
 127.0.0.1 b.ndtzx.com
+127.0.0.1 b.hkfuy.com
 127.0.0.1 sj2.sscefsol.com
 127.0.0.1 b.smxsg.com
 127.0.0.1 net.yiheshun.cn
@@ -2755,6 +2761,7 @@
 127.0.0.1 www.keydot.net
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
+127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
 127.0.0.1 js3987.yzh360.com
@@ -5661,6 +5668,8 @@
 127.0.0.1 cdn.adplxmd.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 static.adsafeprotected.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 servedby.adsfactor.net
 127.0.0.1 adserver.adtechus.com
@@ -5833,6 +5842,7 @@
 127.0.0.1 cdnas.hyperpromote.com
 127.0.0.1 cdnis.hyperpromote.com
 127.0.0.1 cdnpa.hyperpromote.com
+127.0.0.1 sc.iasds01.com
 127.0.0.1 fe-au.imrworldwide.com
 127.0.0.1 fe1-au.imrworldwide.com
 127.0.0.1 fe2-au.imrworldwide.com

@@ -52,6 +52,9 @@
 #adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+#adsafeprotected.com
+127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 static.adsafeprotected.com
 #adsfactor.net
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 servedby.adsfactor.net
@@ -262,6 +265,8 @@
 127.0.0.1 cdnas.hyperpromote.com
 127.0.0.1 cdnis.hyperpromote.com
 127.0.0.1 cdnpa.hyperpromote.com
+#iasds01.com
+127.0.0.1 sc.iasds01.com
 #imrworldwide.com
 127.0.0.1 fe-au.imrworldwide.com
 127.0.0.1 fe1-au.imrworldwide.com

@@ -11,3 +11,5 @@
 127.0.0.1 mdmserver.mobidia.com
 #phone580
 1270.0.0.1 dl.phone580.com
+#s.faloo.com
+127.0.0.1 img.faloo.com

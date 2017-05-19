@@ -12,3 +12,4 @@
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
 @errorpage/inside
+127.0.0.1 s.youzhuanhua.com

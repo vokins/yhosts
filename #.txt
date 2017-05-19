@@ -1,5 +1,8 @@
 ﻿127.0.0.1 dp3.play.ott.video.qq.com
 127.0.0.1 vv.play.ott.video.qq.com
+https://pixel.adsafeprotected.com/rjss/st/71108/15384563/skeleton.js
+https://static.adsafeprotected.com/skeleton.js
+https://sc.iasds01.com/dtc?ias_callback=__IntegralAS_d598c398f8d136ccdbf407fdc71fee88_7251&advEntityId=71108&asid=d598c398-f8d1-36cc-dbf4-07fdc71fee88
 #bmob
 127.0.0.1 file.bmob.cn
 127.0.0.1 open.bmob.cn
