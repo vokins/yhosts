@@ -25,6 +25,7 @@ hosts文件
 本项目`主体部分`（包括但不限于txt和css文件）使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源，
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 其他部分以具体引用的第三方开源项目协议为准。
 
 
