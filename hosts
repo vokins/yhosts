@@ -1,5 +1,5 @@
 
-#version=20170520 023
+#version=201705202039
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2649,6 +2649,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 s.9dcdn.cn
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 www.xundefine.com
 127.0.0.1 db.edwinyan.com
