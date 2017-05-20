@@ -1,4 +1,4 @@
-#iMonkey
+iMonkey
 优佳猴猴～
 Since 2009-06-06
 
@@ -18,7 +18,8 @@ hosts文件
 * 不得违反国家相关法律法规，
 * 请于测试后24小时内删除。
 
-### [有问题或者反馈请先看Wiki](https://github.com/vokins/yhosts/wiki)
+### [反馈问题请看这里](https://github.com/vokins/yhosts/wiki/反馈请看)
+### [有问题请先看Wiki](https://github.com/vokins/yhosts/wiki)
 
 本项目主体部分（包括但不限于txt，css文件）使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源，
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
