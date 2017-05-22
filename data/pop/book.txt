@@ -366,6 +366,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
 127.0.0.1 m.sos0easy.com

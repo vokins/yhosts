@@ -72,3 +72,16 @@
 127.0.0.1 fnm.08160.cn
 127.0.0.1 g1.08160.cn
 127.0.0.1 ssp.08160.cn
+#http://m.xiumu.cn
+127.0.0.1 b17.xiumu.cn
+127.0.0.1 j17.xiumu.cn
+#http://m.zhutousan.net
+127.0.0.1 1.21shebao.com
+127.0.0.1 2.21shebao.com
+#http://m.anqu.com
+127.0.0.1 gg.anqu.com
+127.0.0.1 mm.anqu.com
+
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com

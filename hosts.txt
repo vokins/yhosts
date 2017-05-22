@@ -9,20 +9,6 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
-#pcbeta
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-218.93.127.136 cdn.pcbeta.img.inimc.com
-218.93.127.136 cdn.pcbeta.js.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 pcbeta.com
-218.93.127.136 static.template.pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 www.pcbeta.com
 #uvwxyz.xyz
 74.222.26.86 bbs.uvwxyz.xyz
 74.222.26.86 ipv6.uvwxyz.xyz
@@ -1048,6 +1034,7 @@
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
 127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 server.m.pp.cn
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
@@ -3158,6 +3145,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
 127.0.0.1 m.sos0easy.com
@@ -4284,7 +4272,19 @@
 127.0.0.1 fnm.08160.cn
 127.0.0.1 g1.08160.cn
 127.0.0.1 ssp.08160.cn
-@site/movie
+#http://m.xiumu.cn
+127.0.0.1 b17.xiumu.cn
+127.0.0.1 j17.xiumu.cn
+#http://m.zhutousan.net
+127.0.0.1 1.21shebao.com
+127.0.0.1 2.21shebao.com
+#http://m.anqu.com
+127.0.0.1 gg.anqu.com
+127.0.0.1 mm.anqu.com
+
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com@site/movie
 #dygang.com
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com

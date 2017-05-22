@@ -9,20 +9,6 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
-#pcbeta
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-218.93.127.136 cdn.pcbeta.img.inimc.com
-218.93.127.136 cdn.pcbeta.js.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 pcbeta.com
-218.93.127.136 static.template.pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 www.pcbeta.com
 #uvwxyz.xyz
 74.222.26.86 bbs.uvwxyz.xyz
 74.222.26.86 ipv6.uvwxyz.xyz
