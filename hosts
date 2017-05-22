@@ -1,5 +1,5 @@
 
-#version=201705222009
+#version=201705222248
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -183,6 +183,9 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -3584,10 +3587,6 @@
 127.0.0.1 2.21shebao.com
 127.0.0.1 gg.anqu.com
 127.0.0.1 mm.anqu.com
-
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com@site/movie
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com

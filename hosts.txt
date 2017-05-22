@@ -231,6 +231,9 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
 #tuisong
 127.0.0.1 api.tuisong.baidu.com
 #bdimg
@@ -4290,10 +4293,7 @@
 #http://m.anqu.com
 127.0.0.1 gg.anqu.com
 127.0.0.1 mm.anqu.com
-
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com@site/movie
+@site/movie
 #dygang.com
 127.0.0.1 dygang.kkcaicai.com
 127.0.0.1 img1.tzxrs.com
