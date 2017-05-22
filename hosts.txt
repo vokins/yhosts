@@ -187,9 +187,17 @@
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 strip.taobaocdn.com
 #uc
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 wap3.ucweb.com
+127.0.0.1 alissl.ucdl.pp.uc.cn
+127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
-127.0.0.1 huichuan.sm.cn
+127.0.0.1 track.uc.cn
 127.0.0.1 log.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 huichuan.sm.cn
 #wrating
 127.0.0.1 c.wrating.com
 127.0.0.1 cookiemapping.wrating.com
@@ -1033,9 +1041,6 @@
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
-127.0.0.1 adn.insight.ucweb.com
-127.0.0.1 server.m.pp.cn
-127.0.0.1 api.mp.uc.cn
 127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn

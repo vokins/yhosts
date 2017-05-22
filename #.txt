@@ -1,4 +1,10 @@
-﻿127.0.0.1 dp3.play.ott.video.qq.com
+﻿http://track.uc.cn/uaest.js
+https://alissl.ucdl.pp.uc.cn/fs01/union_pack/PPAssistant_100651_PP_68.apk
+http://puds.ucweb.com/upgrade/index.xhtml?dataver=pb
+http://adtrack.ucweb.com:443
+http://wap3.ucweb.com/files/components/ppappstore/3/ppappstore_V2.1.0.1_6_Build201702221447.apk?auth_key=1496026135-0-0-0bd13f65455181b42e5d01603bdafbc1&SESSID=7cdf3113e8c43de7737eb32f14c99e42
+http://log.cs.pp.cn/api/log.upload
+127.0.0.1 dp3.play.ott.video.qq.com
 127.0.0.1 vv.play.ott.video.qq.com
 https://pixel.adsafeprotected.com/rjss/st/71108/15384563/skeleton.js
 https://static.adsafeprotected.com/skeleton.js
