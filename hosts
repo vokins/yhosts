@@ -1,5 +1,5 @@
 
-#version=201705221058
+#version=201705222009
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1805,6 +1805,9 @@
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
 127.0.0.1 404.safedog.cn
+127.0.0.1 daima.dsxdn.com
+127.0.0.1 gg.dsxdn.com
+127.0.0.1 jiansuo.dsxdn.com
 127.0.0.1 counter.yesky.com
 127.0.0.1 media.tianjimedia.com
 127.0.0.1 am.zdnet.com.cn

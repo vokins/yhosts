@@ -2241,6 +2241,10 @@
 127.0.0.1 wan.rising.cn
 #safedog.cn
 127.0.0.1 404.safedog.cn
+#www.2cto.com
+127.0.0.1 daima.dsxdn.com
+127.0.0.1 gg.dsxdn.com
+127.0.0.1 jiansuo.dsxdn.com
 #yesky.com
 127.0.0.1 counter.yesky.com
 127.0.0.1 media.tianjimedia.com
