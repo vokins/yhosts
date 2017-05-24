@@ -1,5 +1,5 @@
 
-#version=201705242322
+#version=201705242325
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1619,6 +1619,9 @@
 127.0.0.1 creatives1.ftimg.net
 127.0.0.1 dolphin.ftimg.net
 127.0.0.1 dolphin4.ftimg.net
+127.0.0.1 cod.southmoney.com
+127.0.0.1 icn.southmoney.com
+127.0.0.1 tongji.southmoney.com
 127.0.0.1 abc.douguo.com
 127.0.0.1 ggb.douguo.com
 127.0.0.1 ab.meishiba.com.cn
