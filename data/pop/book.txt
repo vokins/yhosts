@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
 127.0.0.1 m.czxhgc.com
@@ -236,6 +237,7 @@
 127.0.0.1 m.mingysh.com
 127.0.0.1 e.kod4pc293.com
 #m.dingdianzw.com
+127.0.0.1 18.m.dingdianzw.com
 127.0.0.1 y.hk9600.com
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rj.huajingfood.cn
@@ -373,6 +375,7 @@
 127.0.0.1 mm.yageben.com
 127.0.0.1 w.aidizi.com
 #m.shubao520.com
+127.0.0.1 js.sxldyx.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 n.yfi8.com
 127.0.0.1 vip.jixing8.com
@@ -383,6 +386,7 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
 127.0.0.1 p.dandan19.top
 127.0.0.1 sy.njfsk.com
@@ -473,6 +477,7 @@
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
 #s.faloo.com
+127.0.0.1 cdn.0i-i0.com
 127.0.0.1 9pkw.com
 #wap.xxbiquge.com
 127.0.0.1 gfnksw.wap.xxbiquge.com

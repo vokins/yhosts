@@ -120,6 +120,8 @@
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
 127.0.0.1 tongji.wrating.com
+#phpwind
+127.0.0.1 init.phpwind.net
 @base-baidu
 #ads
 127.0.0.1 api.share.baidu.com

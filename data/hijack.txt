@@ -171,5 +171,8 @@
 127.0.0.1 eee.ttyy888.co
 127.0.0.1 www.716703.com
 127.0.0.1 dp.559.cc
+127.0.0.1 img.toppr.com.cn
+127.0.0.1 www.remote88.com
+127.0.0.1 ypv.chengadx.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
