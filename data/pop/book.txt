@@ -475,6 +475,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
+127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
@@ -530,7 +531,8 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
-#www.shuaigay.top
+#www.shuaigay.info
+127.0.0.1 in.ddstu.com
 127.0.0.1 s.ddstu.com
 127.0.0.1 img.bdaerfa.com
 127.0.0.1 lz.bdaerfa.com
