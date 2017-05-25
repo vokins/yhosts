@@ -3249,6 +3249,8 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
+127.0.0.1 s.m.xqingdou.com
+127.0.0.1 image.online2019.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 www.xundefine.com
@@ -3373,6 +3375,7 @@
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
 #www.tianyucangqiong1.com
+127.0.0.1 s.tianyucangqiong1.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
@@ -3832,6 +3835,10 @@
 127.0.0.1 www.jjsszy.com
 127.0.0.1 www.duocpa2.cn
 #m.76long.com
+127.0.0.1 dm76.dingon.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 www.17168.com
+127.0.0.1 slb.pcmzn.com
 127.0.0.1 cc.zhongtoufc.com
 127.0.0.1 qjvcdn328.86666608.com
 127.0.0.1 show.niqiu99.org

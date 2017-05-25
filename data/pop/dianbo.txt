@@ -19,6 +19,10 @@
 127.0.0.1 www.jjsszy.com
 127.0.0.1 www.duocpa2.cn
 #m.76long.com
+127.0.0.1 dm76.dingon.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 www.17168.com
+127.0.0.1 slb.pcmzn.com
 127.0.0.1 cc.zhongtoufc.com
 127.0.0.1 qjvcdn328.86666608.com
 127.0.0.1 show.niqiu99.org

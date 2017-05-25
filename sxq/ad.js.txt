@@ -3,9 +3,7 @@ http://m.37zw.com/js/wap.js
 http://m.5442.com/style/warp/js/mpads5442.js
 http://m.biquge.com.tw/wap/skin/wap.js
 http://m.biqumo.com/js/wap.js
-http://m.bmwen.com/gao/bmxptj_1.js
 http://m.bookben.com/js/m/wap.js
-http://m.booktxt.net/wap/booktxt/wap.js
 http://m.bxwx9.org/mjs/wap.js
 http://m.d8qu.com/style.js
 http://m.dingdianzw.com/js/wap.js
@@ -25,7 +23,6 @@ http://m.shubao520.com/gaogao/wapinfo7.js
 http://m.shumilou.co/style/html5.js
 http://m.shushu8.com/js/1tong.js
 http://m.sodu520.net/js/waps.js
-http://m.uuxs.net/scripts/base.js
 http://m.xiazailou.la/wap/jiandanma/wap.js
 http://m.xs177.com/js/dibu.js
 http://m.xs222.com/js/common.js
@@ -49,7 +46,6 @@ http://m.piaov.com/js/tj.js
 http://www.00sy.com/Skin/Default/js/funcs.js
 http://www.bdzhe.com/csss/banner.js
 http://www.bdzhe.com/csss/foot.js
-http://www.btbtdy.com/js/go/s29778
 http://www.btmango.com/templates/0111/style/indexgg.js
 http://www.smdy66.com/js/ggb.js
 http://www.tianyucangqiong1.com/static/js/up.js
