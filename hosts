@@ -1,5 +1,5 @@
 
-#version=20170526 022
+#version=201705261157
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2522,6 +2522,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 ge.dezfu.com
 127.0.0.1 jie.mnxtu.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 yue.sqext.com
@@ -2589,6 +2590,8 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 e.yunanfuwuqi.com
+127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e.s400cc.com
@@ -2684,7 +2687,6 @@
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
-127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
