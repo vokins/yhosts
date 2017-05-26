@@ -1,4 +1,5 @@
 127.0.0.1 games.ifeng.com
+127.0.0.1 ebook.meizu.com
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 api.comm.miui.com 使用后无法更新工作日数据
 127.0.0.1 apiserver.cctvweishi.com

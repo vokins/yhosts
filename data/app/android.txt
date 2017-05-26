@@ -24,7 +24,6 @@
 127.0.0.1 cal.meizu.com
 #flyme-ebook
 127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.meizu.com
 127.0.0.1 ebook.res.meizu.com
 #flyme-game
 127.0.0.1 api-game.meizu.com

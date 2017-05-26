@@ -1,5 +1,5 @@
 
-#version=201705261157
+#version=201705261159
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -688,7 +688,6 @@
 127.0.0.1 t-flow.flyme.cn
 127.0.0.1 cal.meizu.com
 127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.meizu.com
 127.0.0.1 ebook.res.meizu.com
 127.0.0.1 api-game.meizu.com
 127.0.0.1 game.res.meizu.com
