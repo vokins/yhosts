@@ -114,6 +114,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.pomhz.com
 127.0.0.1 in.smxsg.com
 127.0.0.1 in.kguke.com
 127.0.0.1 in.yaohq.com

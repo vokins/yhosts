@@ -381,7 +381,6 @@
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
 #ali-phpwind
-127.0.0.1 init.phpwind.net
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
 127.0.0.1 s.phpwind.com

@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
@@ -113,6 +114,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.jbyy010.com
+127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
 127.0.0.1 m.zccompressor.com
 127.0.0.1 e.zccompressor.com
@@ -155,6 +158,7 @@
 #m.bookben.com
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.pomhz.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 e.rpaulfrank.com
 127.0.0.1 c.xhsxgmt.cn
@@ -339,6 +343,7 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 m.umyai.com
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.maibahe300cc.com

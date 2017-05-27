@@ -785,7 +785,6 @@
 127.0.0.1 img.toppr.com.cn
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
-127.0.0.1 hao.tiandi.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @aliyun
@@ -2800,6 +2799,7 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
 127.0.0.1 shu.thxnr.com
@@ -2913,6 +2913,8 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 m.jbyy010.com
+127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
 127.0.0.1 m.zccompressor.com
 127.0.0.1 e.zccompressor.com
@@ -2955,6 +2957,7 @@
 #m.bookben.com
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.pomhz.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 e.rpaulfrank.com
 127.0.0.1 c.xhsxgmt.cn
@@ -3139,6 +3142,7 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 m.umyai.com
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.maibahe300cc.com
@@ -3934,6 +3938,7 @@
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
 #m.piaov.com
+127.0.0.1 in.pomhz.com
 127.0.0.1 in.smxsg.com
 127.0.0.1 in.kguke.com
 127.0.0.1 in.yaohq.com
@@ -5006,7 +5011,6 @@
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
 #ali-phpwind
-127.0.0.1 init.phpwind.net
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
 127.0.0.1 s.phpwind.com
