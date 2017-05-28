@@ -1,5 +1,5 @@
 
-#version=20170529 114
+#version=20170529 121
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1470,8 +1470,12 @@
 127.0.0.1 tracker.yhd.com
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
-127.0.0.1 33.autohome.com.cn
 127.0.0.1 activity.app.autohome.com.cn
+127.0.0.1 applogapi.autohome.com.cn
+127.0.0.1 comm.app.autohome.com.cn
+127.0.0.1 public.app.autohome.com.cn
+127.0.0.1 push.app.autohome.com.cn
+127.0.0.1 33.autohome.com.cn
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
@@ -1479,7 +1483,6 @@
 127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
-127.0.0.1 push.app.autohome.com.cn
 127.0.0.1 pvx.autohome.com.cn
 127.0.0.1 rd.autohome.com.cn
 127.0.0.1 rdx.autohome.com.cn
