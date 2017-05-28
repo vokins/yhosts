@@ -1,5 +1,5 @@
 
-#version=20170527 958
+#version=201705281041
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -988,6 +988,7 @@
 127.0.0.1 api.adv.ott.cibntv.net
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
@@ -2611,6 +2612,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
 127.0.0.1 p.dandan19.top

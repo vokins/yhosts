@@ -60,6 +60,7 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
 127.0.0.1 val.atm.cp31.ott.cibntv.net
