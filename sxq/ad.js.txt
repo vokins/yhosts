@@ -38,6 +38,7 @@ http://m.76long.com/521/Head.js
 http://m.76long.com/521/TOP.JS
 http://m.kankanwu.com/js/hui.js
 http://m.kankanwu.com/js/lezun.js
+http://m.kankanwu.com/le/lezun.js
 http://m.kankanwu.com/js/xuli.js
 http://m.kkkkba.com/js/fumeiti.js
 http://m.piaov.com/js/barner.js
