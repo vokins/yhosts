@@ -1,5 +1,5 @@
 
-#version=201705291344
+#version=201705291355
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -794,6 +794,11 @@
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 union.dbba.cn
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 shenghuo.xiaomi.com
 127.0.0.1 mb.yidianzixun.com
 127.0.0.1 hot.browser.miui.com
@@ -5314,6 +5319,8 @@
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
 127.0.0.1 ss.knet.cn
+127.0.0.1 config.kuyun.com
+127.0.0.1 logonext.tv.kuyun.com
 127.0.0.1 w.bid.ljrtb.cn
 127.0.0.1 res.bid.ljrtb.cn
 127.0.0.1 www.madhouse.cn

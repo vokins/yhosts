@@ -146,6 +146,12 @@
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 union.dbba.cn
+#miui-tv
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
 #miui--1
 127.0.0.1 shenghuo.xiaomi.com
 #miui-browser

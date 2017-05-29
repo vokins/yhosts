@@ -1554,6 +1554,9 @@
 127.0.0.1 kxlogo.knet.cn
 127.0.0.1 rr.knet.cn
 127.0.0.1 ss.knet.cn
+#kuyun.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 logonext.tv.kuyun.com
 #ljrtb.cn
 127.0.0.1 w.bid.ljrtb.cn
 127.0.0.1 res.bid.ljrtb.cn
