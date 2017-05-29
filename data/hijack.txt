@@ -118,6 +118,8 @@
 127.0.0.1 track.dragonparking.com
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 809.ok365.com
+127.0.0.1 818.ok365.com
+127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
 127.0.0.1 cpro.9xu.com

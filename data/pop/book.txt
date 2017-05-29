@@ -459,6 +459,7 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com

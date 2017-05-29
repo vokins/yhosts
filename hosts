@@ -1,5 +1,5 @@
 
-#version=20170529 121
+#version=201705291344
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -611,6 +611,8 @@
 127.0.0.1 track.dragonparking.com
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 809.ok365.com
+127.0.0.1 818.ok365.com
+127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
 127.0.0.1 cpro.9xu.com
@@ -2677,6 +2679,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
