@@ -1,5 +1,5 @@
 
-#version=201705291355
+#version=201705291402
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -824,6 +824,7 @@
 127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 stats.mokeedev.com
+
 127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 2345apicode.dftoutiao.com
 127.0.0.1 houtai.2345.com
