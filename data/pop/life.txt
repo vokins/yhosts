@@ -16,6 +16,9 @@
 #m.hsmil.com
 127.0.0.1 i5.hsmil.com
 127.0.0.1 i6.hsmil.com
+#m.jjnz.com
+127.0.0.1 h1.18sd.cn
+127.0.0.1 h2.18sd.cn
 #m.souid.com
 127.0.0.1 vi1.souid.com
 #m.v4.cc

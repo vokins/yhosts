@@ -1,5 +1,5 @@
 
-#version=20170530 904
+#version=201705302126
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -84,6 +84,7 @@
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 ww6.adm-cnzz.net
 127.0.0.1 www.adm-cnzz.net
@@ -184,9 +185,6 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -274,6 +272,7 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -302,6 +301,11 @@
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 count.video.sina.com.cn
+127.0.0.1 d7.mobaders.com
+127.0.0.1 wxwm1.ikuailian.com
+127.0.0.1 wxwm2.ikuailian.com
+127.0.0.1 zzy.mipujia.com
+127.0.0.1 zzy1.mipujia.com
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com
 127.0.0.1 rs.sinajs.cn
@@ -668,6 +672,7 @@
 127.0.0.1 img.toppr.com.cn
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
+127.0.0.1 g.w5b454.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2146,7 +2151,6 @@
 127.0.0.1 tiads.time.com
 127.0.0.1 delivery.adserver.manutd.com
 127.0.0.1 ads.xprofiles.com
-
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ads.globo.com
 127.0.0.1 stats.bbc.co.uk
@@ -2210,7 +2214,6 @@
 127.0.0.1 ads.doublemax.net
 127.0.0.1 eland.doublemax.net
 127.0.0.1 static.doublemax.net
-
 127.0.0.1 p8u.hinet.net
 127.0.0.1 vatrack.hinet.net
 127.0.0.1 adasad.myweb.hinet.net
@@ -3585,6 +3588,8 @@
 127.0.0.1 a1.huanqiumil.com
 127.0.0.1 i5.hsmil.com
 127.0.0.1 i6.hsmil.com
+127.0.0.1 h1.18sd.cn
+127.0.0.1 h2.18sd.cn
 127.0.0.1 vi1.souid.com
 127.0.0.1 db1.fuz.cc
 127.0.0.1 db2.fuz.cc
@@ -6157,14 +6162,58 @@
 127.0.0.1 output.nend.net
 127.0.0.1 st.yengo.com
 127.0.0.1 www.yengo.com
+127.0.0.1 ad.adriver.ru
+127.0.0.1 content.adriver.ru
+127.0.0.1 servers1.adriver.ru
+127.0.0.1 edp2.adriver.ru
+127.0.0.1 ssp.adriver.ru
+127.0.0.1 cache.betweendigital.com
+127.0.0.1 match.ads.betweendigital.com
+127.0.0.1 pool2.ads.betweendigital.com
+127.0.0.1 dmg.digitaltarget.ru
+127.0.0.1 tag.digitaltarget.ru
 127.0.0.1 ag-gb.marketgid.com
 127.0.0.1 cdn.marketgid.com
 127.0.0.1 counter.marketgid.com
 127.0.0.1 imgg.marketgid.com
 127.0.0.1 jsc.marketgid.com
+127.0.0.1 wsp.marketgid.com
+127.0.0.1 marketgid.com
+127.0.0.1 eu-gmtdmp.gd1.mookie1.com
+127.0.0.1 gmtdmp.mookie1.com
+127.0.0.1 ru-gmtdmp.mookie1.com
+127.0.0.1 cdn-rtb.sape.ru
+127.0.0.1 dispenser-rtb.sape.ru
+127.0.0.1 ssp-rtb.sape.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 ad.dumedia.ru
+127.0.0.1 ad.mail.ru
+127.0.0.1 adriver-sync.rutarget.ru
+127.0.0.1 advombat.ru
+127.0.0.1 betsonsport.ru
+127.0.0.1 faggrim.com
+127.0.0.1 openstat.net
+127.0.0.1 oredero.com
+127.0.0.1 pixel.vihub.ru
+127.0.0.1 rtb.com.ru
+127.0.0.1 rutrk.org
+127.0.0.1 st.targetix.net
+127.0.0.1 stat.adlabs.ru
+127.0.0.1 sync-eu.exe.bid
+127.0.0.1 sync.1dmp.io
+127.0.0.1 sync.botscanner.com
+127.0.0.1 uuidksinc.net
+127.0.0.1 wallet.advcash.com
+127.0.0.1 windcdna.com
+127.0.0.1 winlinebet.ru
+127.0.0.1 wlneteller.adsrv.eacdn.com
+127.0.0.1 www.acint.net
+127.0.0.1 www.inoprosport.su
+127.0.0.1 www.tns-counter.ru
+127.0.0.1 x.bidswitch.net
+127.0.0.1 x01.aidata.io
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net
@@ -6241,8 +6290,6 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
-127.0.0.1 count.vrs.sohu.com
-127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com

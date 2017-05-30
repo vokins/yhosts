@@ -7,3 +7,8 @@
 127.0.0.1 wx2.sinaimg.cn
 127.0.0.1 wx3.sinaimg.cn
 127.0.0.1 wx4.sinaimg.cn
+#baiduimg
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
+

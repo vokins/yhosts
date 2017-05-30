@@ -147,7 +147,6 @@
 127.0.0.1 delivery.adserver.manutd.com
 #usa-sites
 127.0.0.1 ads.xprofiles.com
-
 #australia-sensismediasmart
 127.0.0.1 ad.sensismediasmart.com.au
 #brazil-globo
@@ -240,7 +239,6 @@
 127.0.0.1 ads.doublemax.net
 127.0.0.1 eland.doublemax.net
 127.0.0.1 static.doublemax.net
-
 #hinet
 127.0.0.1 p8u.hinet.net
 127.0.0.1 vatrack.hinet.net

@@ -41,3 +41,5 @@ img.faloo.com
 weidian.com
 go.microsoft.com
 www.aguo.com
+m.37zw.net
+www.wdlinux.cn

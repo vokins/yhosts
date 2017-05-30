@@ -37,6 +37,7 @@
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
 127.0.0.1 ww6.adm-cnzz.net
@@ -150,9 +151,6 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com
 #tuisong
 127.0.0.1 api.tuisong.baidu.com
 #bdimg
@@ -264,6 +262,7 @@
 @base-sina
 #sinaads
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -294,6 +293,12 @@
 127.0.0.1 log.mix.sina.com.cn
 #http://video.sina.com.cn/
 127.0.0.1 count.video.sina.com.cn
+#ent.sina.cn
+127.0.0.1 d7.mobaders.com
+127.0.0.1 wxwm1.ikuailian.com
+127.0.0.1 wxwm2.ikuailian.com
+127.0.0.1 zzy.mipujia.com
+127.0.0.1 zzy1.mipujia.com
 #http://leju.com/
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com

@@ -1,0 +1,27 @@
+#rutracker.org
+127.0.0.1 ad.dumedia.ru
+127.0.0.1 ad.mail.ru
+127.0.0.1 adriver-sync.rutarget.ru
+127.0.0.1 advombat.ru
+127.0.0.1 betsonsport.ru
+127.0.0.1 faggrim.com
+127.0.0.1 openstat.net
+127.0.0.1 oredero.com
+127.0.0.1 pixel.vihub.ru
+127.0.0.1 rtb.com.ru
+127.0.0.1 rutrk.org
+127.0.0.1 st.targetix.net
+127.0.0.1 stat.adlabs.ru
+127.0.0.1 sync-eu.exe.bid
+127.0.0.1 sync.1dmp.io
+127.0.0.1 sync.botscanner.com
+127.0.0.1 uuidksinc.net
+127.0.0.1 wallet.advcash.com
+127.0.0.1 windcdna.com
+127.0.0.1 winlinebet.ru
+127.0.0.1 wlneteller.adsrv.eacdn.com
+127.0.0.1 www.acint.net
+127.0.0.1 www.inoprosport.su
+127.0.0.1 www.tns-counter.ru
+127.0.0.1 x.bidswitch.net
+127.0.0.1 x01.aidata.io

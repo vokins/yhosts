@@ -176,5 +176,6 @@
 127.0.0.1 img.toppr.com.cn
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
+127.0.0.1 g.w5b454.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com

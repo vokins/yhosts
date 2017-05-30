@@ -1,10 +1,33 @@
 @union-ru
+#adriver.ru
+127.0.0.1 ad.adriver.ru
+127.0.0.1 content.adriver.ru
+127.0.0.1 servers1.adriver.ru
+127.0.0.1 edp2.adriver.ru
+127.0.0.1 ssp.adriver.ru
+#betweendigital.com
+127.0.0.1 cache.betweendigital.com
+127.0.0.1 match.ads.betweendigital.com
+127.0.0.1 pool2.ads.betweendigital.com
+#digitaltarget.ru
+127.0.0.1 dmg.digitaltarget.ru
+127.0.0.1 tag.digitaltarget.ru
 #marketgid
 127.0.0.1 ag-gb.marketgid.com
 127.0.0.1 cdn.marketgid.com
 127.0.0.1 counter.marketgid.com
 127.0.0.1 imgg.marketgid.com
 127.0.0.1 jsc.marketgid.com
+127.0.0.1 wsp.marketgid.com
+127.0.0.1 marketgid.com
+#mookie1.com
+127.0.0.1 eu-gmtdmp.gd1.mookie1.com
+127.0.0.1 gmtdmp.mookie1.com
+127.0.0.1 ru-gmtdmp.mookie1.com
+#sape.ru
+127.0.0.1 cdn-rtb.sape.ru
+127.0.0.1 dispenser-rtb.sape.ru
+127.0.0.1 ssp-rtb.sape.ru
 #yadro
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
