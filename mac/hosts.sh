@@ -20,5 +20,5 @@ sudo cp new2.temp /etc/hosts
 rm *.temp
 sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
-say yHosts updated
+say Hosts updated
 echo "Succed..."

@@ -37,6 +37,7 @@
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 img-dsp.oss-cn-beijing.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
@@ -293,7 +294,10 @@
 #http://video.sina.com.cn/
 127.0.0.1 count.video.sina.com.cn
 #ent.sina.cn
+127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
+127.0.0.1 c.zlongad.com
+127.0.0.1 r.zlongad.com
 127.0.0.1 wxwm1.ikuailian.com
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 zzy.mipujia.com
