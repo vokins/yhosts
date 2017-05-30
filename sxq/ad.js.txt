@@ -50,3 +50,4 @@ http://www.bdzhe.com/csss/foot.js
 http://www.btmango.com/templates/0111/style/indexgg.js
 http://www.smdy66.com/js/ggb.js
 http://www.tianyucangqiong1.com/static/js/up.js
+http://m.hmrenti.net/about/float.js
