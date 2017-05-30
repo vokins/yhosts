@@ -4,6 +4,7 @@
 127.0.0.1 f10.baidu.com
 127.0.0.1 f11.baidu.com
 127.0.0.1 f12.baidu.com
+127.0.0.1 count.taobao.com 淘宝pc端收藏宝贝 (XXX人气)不显示
 127.0.0.1 api.comm.miui.com 使用后无法更新工作日数据
 127.0.0.1 apiserver.cctvweishi.com
 127.0.0.1 vv.play.aiseet.atianqi.com

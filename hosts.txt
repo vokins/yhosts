@@ -182,7 +182,6 @@
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 count.taobao.com
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
