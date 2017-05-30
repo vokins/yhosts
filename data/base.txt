@@ -244,6 +244,7 @@
 127.0.0.1 lives.l.qq.com
 @base-jd
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
@@ -296,8 +297,16 @@
 127.0.0.1 count.video.sina.com.cn
 #ent.sina.cn
 127.0.0.1 cre-dp.sina.cn
+127.0.0.1 cre.dp.sina.cn
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 sax.sina.cn
+127.0.0.1 saxs.sina.cn
+127.0.0.1 slog.sina.cn
+127.0.0.1 d1.sinaimg.cn
+127.0.0.1 d3.sinaimg.cn
+127.0.0.1 d6.sinaimg.cn
+127.0.0.1 d7.sinaimg.cn
+127.0.0.1 d8.sinaimg.cn
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com

@@ -3,6 +3,7 @@
 127.0.0.1 ad.mail.ru
 127.0.0.1 adriver-sync.rutarget.ru
 127.0.0.1 advombat.ru
+127.0.0.1 bam.nr-data.net
 127.0.0.1 betsonsport.ru
 127.0.0.1 faggrim.com
 127.0.0.1 openstat.net
