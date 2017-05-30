@@ -252,7 +252,6 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
-127.0.0.1 https-play-g3proxy.lecloud.com
 @base-inside
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 embedlog.duiba.com.cn
