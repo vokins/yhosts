@@ -345,7 +345,7 @@
 @base-sina
 #sinaads
 127.0.0.1 beacon.sina.com.cn
-127.0.0.1 sbeacon.sina.com.cn
+127.0.0.1 d00.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -368,6 +368,7 @@
 127.0.0.1 sax8.sina.com.cn
 127.0.0.1 sax9.sina.com.cn
 127.0.0.1 saxs.sina.com.cn
+127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 #http://www.sina.com.cn/
@@ -377,6 +378,9 @@
 #http://video.sina.com.cn/
 127.0.0.1 count.video.sina.com.cn
 #ent.sina.cn
+127.0.0.1 cre-dp.sina.cn
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sax.sina.cn
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com
@@ -385,6 +389,7 @@
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
+127.0.0.1 hehe1.200218.com
 #http://leju.com/
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com

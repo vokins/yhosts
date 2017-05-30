@@ -1,5 +1,16 @@
 ﻿127.0.0.1 count.vrs.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
+https://sax.sina.cn/view?type=2&t=Nzg1MTUxMzktZDRlYy0zODNhLWE1N2MtYTE4N2ViN2JmODIzCTQ1CVBEUFMwMDAwMDAwNTYyNDAJNTAJMTU0ODA0NQkxCVJUQgkt&am=%7B%22ds%22%3A%221203*678%22%2C%22ov%22%3A%22android%22%7D
+https://sax.sina.com.cn/view?type=nonstd&t=REowMDAxMDc3Mw%3D%3D
+http://d00.sina.com.cn/a.gif'
+r.dmp.sina.cn/cm/waplist?sinagloba
+https://r.dmp.sina.cn/cm/sinaads_ck_wap.js
+https://zzy.mipujia.com/ry3a1ece92f2c2f331db046a92f0b03ae645f7d70d3aac32ed12.js?r=0.37350986099606565
+https://sax8.sina.com.cn/wap/impress?callback=sax_jsonpCallback_0&adunit_id=PDPS000000056105,PDPS000000059890&page_url=https%3A%2F%2Fent.sina.cn%2Ftv%2Ftv%2F2012-07-06%2Fdetail-iawzunex6119090.d.html%3Ffrom%3Dwap%26HTTPS%3D1&timestamp=1496152166164&rotate_count=696&am=%7B%22ds%22%3A%221203*678%22%2C%22ov%22%3A%22android%22%7D
+https://hehe1.200218.com/gl3a1ecf95f5c3ff3edb167583a4ac79bd05b28f5563ac32ed12.js?r=0.37350986099606565
+https://wxwm1.ikuailian.com/fm3a1ece96fec9ff3fdb09689cacac79e65ef7dc0d37eb30ec51322bda.js?r=0.37350986099606565
+推荐阅读：
+https://cre-dp.sina.cn/api/v3/get?merge=3&statics=1&this_page=1&rfunc=105&length=20&fields=url%2Csurl%2Cmtitle%2Cstitle%2Ctitle%2Cwapurls%2Cwapurl%2Cimg%2Ccomment_count%2Ctype%2Cctime%2Cdocid&cateid=sina_all&mod=wpage&cre=tianyi&pageUrl=http%3A%2F%2Fent.sina.com.cn%2Fv%2Fm%2F2012-07-06%2F10023677865.shtml&_=1496152166353&callback=jsonp_dALA1496152166348
 <iframe src="https://r.zlongad.com/site/ads?placeId=9&amp;ref=https%3A%2F%2Fent.sina.cn%2Ftv%2Ftv%2F2012-07-06%2Fdetail-iawzunex6119090.d.html%3Ffrom%3Dwap%26HTTPS%3D1&amp;ti=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A9%AC%E4%B8%9C%E6%BC%82%E4%BA%AE%E5%A5%B3%E5%84%BF%E6%9B%9D%E5%85%89%20_%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91" style="border: 0px; width: 100%; height: 67px;"></iframe>
 <a href="https://c.zlongad.com/ad/c?ideaId=7&amp;placeId=9&amp;t=1496151587&amp;k=27a1ff3e2e2ebd6dd24685edec8e1b50" style="text-decoration: none;" target="_parent"><div style="width:100%"><img style="width:93.8px;height:67px;margin-right:10px;float: left" src="https://img-dsp.oss-cn-beijing.aliyuncs.com/ad/170519135154-5.jpg"><p style="color:#000;font-size:17px;font-family:微软雅黑;line-height:24px;height:55px;word-break: break-all">万人在线 大鱼好打</p><p style="float:left;color:#898989;font-size:10px;font-family:微软雅黑;line-height:12px;height:12px;white-space:nowrap;">广告</p><img style="display:none" src="https://c.zlongad.com/s.gif?ideaId=7&amp;placeId=9&amp;t=1496151587&amp;k=27a1ff3e2e2ebd6dd24685edec8e1b50&amp;s=0.457257001496151789"></div></a>
 <script type="text/javascript" src="https://d6.mobaders.com/s/f/59016b8cd1b7d989dc885bdc?r=0.6728848223918478"></script>

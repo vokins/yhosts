@@ -1,5 +1,5 @@
 
-#version=201705302146
+#version=201705302202
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -272,7 +272,7 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 beacon.sina.com.cn
-127.0.0.1 sbeacon.sina.com.cn
+127.0.0.1 d00.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
@@ -295,12 +295,16 @@
 127.0.0.1 sax8.sina.com.cn
 127.0.0.1 sax9.sina.com.cn
 127.0.0.1 saxs.sina.com.cn
+127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 count.video.sina.com.cn
+127.0.0.1 cre-dp.sina.cn
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sax.sina.cn
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com
@@ -309,6 +313,7 @@
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
+127.0.0.1 hehe1.200218.com
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com
 127.0.0.1 rs.sinajs.cn
