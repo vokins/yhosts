@@ -1,5 +1,5 @@
 
-#version=201705311912
+#version=201705312238
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1277,6 +1277,10 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com
+127.0.0.1 aos-cdn-image.amap.com
+127.0.0.1 page.amap.com
+127.0.0.1 sns.amap.com
+127.0.0.1 store.is.autonavi.com
 127.0.0.1 cdn1.lbesec.com
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com

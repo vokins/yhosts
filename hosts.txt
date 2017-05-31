@@ -1535,6 +1535,11 @@
 #http://51wnl.com/
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com
+#amap.com
+127.0.0.1 aos-cdn-image.amap.com
+127.0.0.1 page.amap.com
+127.0.0.1 sns.amap.com
+127.0.0.1 store.is.autonavi.com
 #http://lbesec.com/
 127.0.0.1 cdn1.lbesec.com
 #http://mobile.xunlei.com/

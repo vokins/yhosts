@@ -1,5 +1,7 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 ebook.meizu.com
+http://wap.amap.com/
+http://m5.amap.com/
 127.0.0.1 pb.bi.gitv.tv
 127.0.0.1 f10.baidu.com
 127.0.0.1 f11.baidu.com
