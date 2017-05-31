@@ -2467,8 +2467,14 @@
 #http://www.ku6.com/
 127.0.0.1 addata.ku6.com
 127.0.0.1 pvdata.ku6.com
-127.0.0.1 api.uniplayad.com
+127.0.0.1 v0.stat.ku6.com
+127.0.0.1 vi1.ku6img.net
+127.0.0.1 vi2.ku6img.net
+127.0.0.1 dwtracking.sdo.com
 127.0.0.1 same.mzy2014.com
+127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi1.mzy2014.com
+127.0.0.1 api.uniplayad.com
 #http://www.le.com/
 127.0.0.1 api.push.le.com
 127.0.0.1 cn.api.push.le.com
@@ -2836,6 +2842,8 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 da.ddanq.com
+127.0.0.1 m.qbyy010.com
 127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
@@ -3210,6 +3218,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com

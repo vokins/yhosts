@@ -1,5 +1,5 @@
 
-#version=201705302220
+#version=201705311912
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1990,8 +1990,14 @@
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 addata.ku6.com
 127.0.0.1 pvdata.ku6.com
-127.0.0.1 api.uniplayad.com
+127.0.0.1 v0.stat.ku6.com
+127.0.0.1 vi1.ku6img.net
+127.0.0.1 vi2.ku6img.net
+127.0.0.1 dwtracking.sdo.com
 127.0.0.1 same.mzy2014.com
+127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi1.mzy2014.com
+127.0.0.1 api.uniplayad.com
 127.0.0.1 api.push.le.com
 127.0.0.1 cn.api.push.le.com
 127.0.0.1 ark.letv.com
@@ -2280,6 +2286,8 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 da.ddanq.com
+127.0.0.1 m.qbyy010.com
 127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
@@ -2628,6 +2636,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com
@@ -6308,6 +6317,8 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com

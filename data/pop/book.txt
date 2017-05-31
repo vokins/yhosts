@@ -1,5 +1,7 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 da.ddanq.com
+127.0.0.1 m.qbyy010.com
 127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
 127.0.0.1 m.jundazulin.com
@@ -374,6 +376,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
 127.0.0.1 www.lhafy.com

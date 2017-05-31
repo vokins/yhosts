@@ -1,24 +1,23 @@
 #!/bin/sh
 
 #  hosts.sh
-#  Created on 2017/5/30.
-#
+#  Created on 2017/5/31.
+
 cd /tmp
 rm *.temp
 curl "https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt" -o "yhosts.temp"
-curl "https://raw.githubusercontent.com/racaljk/hosts/master/hosts " -o "grd.temp"
-curl "https://raw.githubusercontent.com/ss916/bug/master/log/bug " -o "ss916.temp"
-sed -i "" "1,13d" grd.temp
-cat grd.temp ss916.temp >> new.temp
-sed -i "" "/googlesyndication/d" new.temp
-sed -i "" "/googleadservices/d" new.temp
-sed -i "" "/^#/d" new.temp
-sed -i "" "/^$/d" new.temp
-cat new.temp|tr  "\t" " " >new1.temp
-cat yhosts.temp new1.temp >> new2.temp
-sudo cp new2.temp /etc/hosts
+curl "https://raw.githubusercontent.com/ss916/bug/master/log/bug" -o "2.temp"
+curl "https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts" -o "1.temp"
+sed -i "" "1,15d" 1.temp
+cat 1.temp 2.temp >> 3.temp
+sed -i "" "/googleadservices/d" 3.temp
+sed -i "" "/^#/d" 3.temp
+sed -i "" "/^$/d" 3.temp
+cat 3.temp|tr  "\t" " " >grd.temp
+cat yhosts.temp grd.temp >> hosts.temp
+sudo cp hosts.temp /etc/hosts
 rm *.temp
 sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
-say Hosts updated
+say hosts updated
 echo "Succed..."

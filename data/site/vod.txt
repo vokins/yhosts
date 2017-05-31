@@ -70,8 +70,14 @@
 #http://www.ku6.com/
 127.0.0.1 addata.ku6.com
 127.0.0.1 pvdata.ku6.com
-127.0.0.1 api.uniplayad.com
+127.0.0.1 v0.stat.ku6.com
+127.0.0.1 vi1.ku6img.net
+127.0.0.1 vi2.ku6img.net
+127.0.0.1 dwtracking.sdo.com
 127.0.0.1 same.mzy2014.com
+127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi1.mzy2014.com
+127.0.0.1 api.uniplayad.com
 #http://www.le.com/
 127.0.0.1 api.push.le.com
 127.0.0.1 cn.api.push.le.com
