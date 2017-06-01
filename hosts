@@ -1,5 +1,5 @@
 
-#version=201706011715
+#version=201706012030
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -532,6 +532,7 @@
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
 127.0.0.1 clkde.tradedoubler.com
+127.0.0.1 dorado.xiaojukeji.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 trade.koudaitong.com
@@ -2731,6 +2732,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
 127.0.0.1 s.9dcdn.cn
