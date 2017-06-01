@@ -179,6 +179,14 @@
 127.0.0.1 www.5293.com
 127.0.0.1 www.liangao.com
 127.0.0.1 yoo.yiiyoo.net
+#btyunsou.net
+127.0.0.1 8866786.com
+127.0.0.1 b.meiliyue.top
+127.0.0.1 apk.idate520.com
+#cilifuli.com
+127.0.0.1 dm76.dingon.com.cn
+127.0.0.1 images.tygc5.com
+127.0.0.1 cdnimg.pdsywd.com
 #diggbt.net
 127.0.0.1 z.kt0731.com
 127.0.0.1 js3555.championmachinery-cn.com

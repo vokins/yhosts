@@ -43,3 +43,6 @@ go.microsoft.com
 www.aguo.com
 m.37zw.net
 www.wdlinux.cn
+ip.ws.126.net
+www.baidu.com
+cdn.bootcss.com

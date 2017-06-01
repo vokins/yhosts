@@ -390,15 +390,29 @@
 127.0.0.1 d6.sinaimg.cn
 127.0.0.1 d7.sinaimg.cn
 127.0.0.1 d8.sinaimg.cn
+#sina-iask
+127.0.0.1 dd.iask.cn
+127.0.0.1 dd.iaskgo.com
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com
 127.0.0.1 r.zlongad.com
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 127.0.0.1 wxwm1.ikuailian.com
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
+127.0.0.1 sscm2.mipujia.com
 127.0.0.1 hehe1.200218.com
+127.0.0.1 hehe2.200218.com
+127.0.0.1 cdn.aiwen.cc
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 whn.star-media.cn
+127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 wap.cioujs.com
+127.0.0.1 i.hao61.net
 #http://leju.com/
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com
@@ -615,6 +629,7 @@
 127.0.0.1 apnmedia.ask.com
 127.0.0.1 img.apnanalytics.com
 127.0.0.1 www.2345at.com
+127.0.0.1 down.cqssbl.com
 @errorpage/click
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -1537,7 +1552,6 @@
 127.0.0.1 ad-android.51wnl.com
 #amap.com
 127.0.0.1 aos-cdn-image.amap.com
-127.0.0.1 m5.amap.com
 127.0.0.1 page.amap.com
 127.0.0.1 sns.amap.com
 127.0.0.1 store.is.autonavi.com
@@ -3650,6 +3664,14 @@
 127.0.0.1 www.5293.com
 127.0.0.1 www.liangao.com
 127.0.0.1 yoo.yiiyoo.net
+#btyunsou.net
+127.0.0.1 8866786.com
+127.0.0.1 b.meiliyue.top
+127.0.0.1 apk.idate520.com
+#cilifuli.com
+127.0.0.1 dm76.dingon.com.cn
+127.0.0.1 images.tygc5.com
+127.0.0.1 cdnimg.pdsywd.com
 #diggbt.net
 127.0.0.1 z.kt0731.com
 127.0.0.1 js3555.championmachinery-cn.com
@@ -5278,10 +5300,7 @@
 127.0.0.1 click.uve.mobile.sina.cn
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 dl.kjava.sina.cn
-127.0.0.1 r.dmp.sina.cn
-127.0.0.1 sax.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
-127.0.0.1 slog.sina.cn
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
@@ -5289,7 +5308,6 @@
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 counter.sina.com.cn
-127.0.0.1 d00.sina.com.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
@@ -5307,21 +5325,6 @@
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.media.innity.net
 127.0.0.1 ssl-cdn.media.innity.net
-#sina-iask
-127.0.0.1 dd.iask.cn
-127.0.0.1 dd.iaskgo.com
-127.0.0.1 m.haowj.com.cn
-127.0.0.1 pic.haowj.com.cn
-127.0.0.1 hehe1.200218.com
-127.0.0.1 hehe2.200218.com
-127.0.0.1 sscm2.mipujia.com
-127.0.0.1 whn.star-media.cn
-127.0.0.1 qiye11.ejunshi.net
-127.0.0.1 wap.cioujs.com
-127.0.0.1 i.hao61.net
-127.0.0.1 cdn.aiwen.cc
-127.0.0.1 qiyezs.aiwen.cc
-127.0.0.1 qiyem.aiwen.cc
 #sina-icast
 127.0.0.1 adm.icast.cn
 127.0.0.1 cast.ra.icast.cn
@@ -7312,34 +7315,34 @@
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x01.aidata.io
-127.0.0.1 20170501.logic.cpm.cm.kankan.com
-127.0.0.1 20170502.logic.cpm.cm.kankan.com
-127.0.0.1 20170503.logic.cpm.cm.kankan.com
-127.0.0.1 20170504.logic.cpm.cm.kankan.com
-127.0.0.1 20170505.logic.cpm.cm.kankan.com
-127.0.0.1 20170506.logic.cpm.cm.kankan.com
-127.0.0.1 20170507.logic.cpm.cm.kankan.com
-127.0.0.1 20170508.logic.cpm.cm.kankan.com
-127.0.0.1 20170509.logic.cpm.cm.kankan.com
-127.0.0.1 20170510.logic.cpm.cm.kankan.com
-127.0.0.1 20170511.logic.cpm.cm.kankan.com
-127.0.0.1 20170512.logic.cpm.cm.kankan.com
-127.0.0.1 20170513.logic.cpm.cm.kankan.com
-127.0.0.1 20170514.logic.cpm.cm.kankan.com
-127.0.0.1 20170515.logic.cpm.cm.kankan.com
-127.0.0.1 20170516.logic.cpm.cm.kankan.com
-127.0.0.1 20170517.logic.cpm.cm.kankan.com
-127.0.0.1 20170518.logic.cpm.cm.kankan.com
-127.0.0.1 20170519.logic.cpm.cm.kankan.com
-127.0.0.1 20170520.logic.cpm.cm.kankan.com
-127.0.0.1 20170521.logic.cpm.cm.kankan.com
-127.0.0.1 20170522.logic.cpm.cm.kankan.com
-127.0.0.1 20170523.logic.cpm.cm.kankan.com
-127.0.0.1 20170524.logic.cpm.cm.kankan.com
-127.0.0.1 20170525.logic.cpm.cm.kankan.com
-127.0.0.1 20170526.logic.cpm.cm.kankan.com
-127.0.0.1 20170527.logic.cpm.cm.kankan.com
-127.0.0.1 20170528.logic.cpm.cm.kankan.com
-127.0.0.1 20170529.logic.cpm.cm.kankan.com
-127.0.0.1 20170530.logic.cpm.cm.kankan.com
-127.0.0.1 20170531.logic.cpm.cm.kankan.com
+127.0.0.1 20170601.logic.cpm.cm.kankan.com
+127.0.0.1 20170602.logic.cpm.cm.kankan.com
+127.0.0.1 20170603.logic.cpm.cm.kankan.com
+127.0.0.1 20170604.logic.cpm.cm.kankan.com
+127.0.0.1 20170605.logic.cpm.cm.kankan.com
+127.0.0.1 20170606.logic.cpm.cm.kankan.com
+127.0.0.1 20170607.logic.cpm.cm.kankan.com
+127.0.0.1 20170608.logic.cpm.cm.kankan.com
+127.0.0.1 20170609.logic.cpm.cm.kankan.com
+127.0.0.1 20170610.logic.cpm.cm.kankan.com
+127.0.0.1 20170611.logic.cpm.cm.kankan.com
+127.0.0.1 20170612.logic.cpm.cm.kankan.com
+127.0.0.1 20170613.logic.cpm.cm.kankan.com
+127.0.0.1 20170614.logic.cpm.cm.kankan.com
+127.0.0.1 20170615.logic.cpm.cm.kankan.com
+127.0.0.1 20170616.logic.cpm.cm.kankan.com
+127.0.0.1 20170617.logic.cpm.cm.kankan.com
+127.0.0.1 20170618.logic.cpm.cm.kankan.com
+127.0.0.1 20170619.logic.cpm.cm.kankan.com
+127.0.0.1 20170620.logic.cpm.cm.kankan.com
+127.0.0.1 20170621.logic.cpm.cm.kankan.com
+127.0.0.1 20170622.logic.cpm.cm.kankan.com
+127.0.0.1 20170623.logic.cpm.cm.kankan.com
+127.0.0.1 20170624.logic.cpm.cm.kankan.com
+127.0.0.1 20170625.logic.cpm.cm.kankan.com
+127.0.0.1 20170626.logic.cpm.cm.kankan.com
+127.0.0.1 20170627.logic.cpm.cm.kankan.com
+127.0.0.1 20170628.logic.cpm.cm.kankan.com
+127.0.0.1 20170629.logic.cpm.cm.kankan.com
+127.0.0.1 20170630.logic.cpm.cm.kankan.com
+127.0.0.1 20170631.logic.cpm.cm.kankan.com

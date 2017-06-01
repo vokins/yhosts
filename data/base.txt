@@ -307,15 +307,29 @@
 127.0.0.1 d6.sinaimg.cn
 127.0.0.1 d7.sinaimg.cn
 127.0.0.1 d8.sinaimg.cn
+#sina-iask
+127.0.0.1 dd.iask.cn
+127.0.0.1 dd.iaskgo.com
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com
 127.0.0.1 r.zlongad.com
+127.0.0.1 m.haowj.com.cn
+127.0.0.1 pic.haowj.com.cn
 127.0.0.1 wxwm1.ikuailian.com
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
+127.0.0.1 sscm2.mipujia.com
 127.0.0.1 hehe1.200218.com
+127.0.0.1 hehe2.200218.com
+127.0.0.1 cdn.aiwen.cc
+127.0.0.1 qiyezs.aiwen.cc
+127.0.0.1 qiyem.aiwen.cc
+127.0.0.1 whn.star-media.cn
+127.0.0.1 qiye11.ejunshi.net
+127.0.0.1 wap.cioujs.com
+127.0.0.1 i.hao61.net
 #http://leju.com/
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com
