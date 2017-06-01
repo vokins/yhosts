@@ -1,5 +1,5 @@
 
-#version=201706011553
+#version=201706011715
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -6212,6 +6212,15 @@
 127.0.0.1 servers1.adriver.ru
 127.0.0.1 edp2.adriver.ru
 127.0.0.1 ssp.adriver.ru
+127.0.0.1 am15.net
+127.0.0.1 b.am15.net
+127.0.0.1 c.am15.net
+127.0.0.1 w100.am15.net
+127.0.0.1 w1040.am15.net
+127.0.0.1 w1090.am15.net
+127.0.0.1 w180.am15.net
+127.0.0.1 w190.am15.net
+127.0.0.1 w220.am15.net
 127.0.0.1 cache.betweendigital.com
 127.0.0.1 match.ads.betweendigital.com
 127.0.0.1 pool2.ads.betweendigital.com
@@ -6235,6 +6244,39 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 ad.dumedia.ru
 127.0.0.1 ad.mail.ru
+127.0.0.1 rtb.com.ru
+127.0.0.1 st.targetix.net
+127.0.0.1 sync-eu.exe.bid
+127.0.0.1 sync.1dmp.io
+127.0.0.1 x01.aidata.io
+127.0.0.1 adlabs-sync.rutarget.ru
+127.0.0.1 api.rees46.com
+127.0.0.1 bgrndi.com
+127.0.0.1 code.createjs.com
+127.0.0.1 match.c8.net.ua
+127.0.0.1 matching.targeterra.com
+127.0.0.1 mrelko.com
+127.0.0.1 profile.ssp.rambler.ru
+127.0.0.1 sync.rambler.ru
+127.0.0.1 recreativ.ru
+127.0.0.1 track.recreativ.ru
+127.0.0.1 sync.audtd.com
+127.0.0.1 sync2.audtd.com
+127.0.0.1 relap.io
+127.0.0.1 s.dskrt.net
+127.0.0.1 s.uuidksinc.net
+127.0.0.1 spb.bid.run
+127.0.0.1 sync.audsp.com
+127.0.0.1 sync.morgdm.ru
+127.0.0.1 sync.republer.com
+127.0.0.1 sync.teamrtb.net
+127.0.0.1 t.supermario.xyz
+127.0.0.1 t.trafmag.com
+127.0.0.1 tredman.com
+127.0.0.1 udata.mixmarket.biz
+127.0.0.1 v.rmbn.net
+127.0.0.1 www.bgrndi.com
+127.0.0.1 www.mrelko.com
 127.0.0.1 adriver-sync.rutarget.ru
 127.0.0.1 advombat.ru
 127.0.0.1 bam.nr-data.net
@@ -6243,12 +6285,8 @@
 127.0.0.1 openstat.net
 127.0.0.1 oredero.com
 127.0.0.1 pixel.vihub.ru
-127.0.0.1 rtb.com.ru
 127.0.0.1 rutrk.org
-127.0.0.1 st.targetix.net
 127.0.0.1 stat.adlabs.ru
-127.0.0.1 sync-eu.exe.bid
-127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.botscanner.com
 127.0.0.1 uuidksinc.net
 127.0.0.1 wallet.advcash.com
@@ -6259,7 +6297,6 @@
 127.0.0.1 www.inoprosport.su
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 x.bidswitch.net
-127.0.0.1 x01.aidata.io
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net

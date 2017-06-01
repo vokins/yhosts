@@ -5,6 +5,16 @@
 127.0.0.1 servers1.adriver.ru
 127.0.0.1 edp2.adriver.ru
 127.0.0.1 ssp.adriver.ru
+#am15.net
+127.0.0.1 am15.net
+127.0.0.1 b.am15.net
+127.0.0.1 c.am15.net
+127.0.0.1 w100.am15.net
+127.0.0.1 w1040.am15.net
+127.0.0.1 w1090.am15.net
+127.0.0.1 w180.am15.net
+127.0.0.1 w190.am15.net
+127.0.0.1 w220.am15.net
 #betweendigital.com
 127.0.0.1 cache.betweendigital.com
 127.0.0.1 match.ads.betweendigital.com
