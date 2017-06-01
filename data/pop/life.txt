@@ -1,4 +1,7 @@
 @site/life-info
+#http://chuansong.me/
+127.0.0.1 fpb.mn586.com
+127.0.0.1 fpbjiansuo.mn586.com
 #jandan.net
 127.0.0.1 s.jandan.com
 #juzimi.com

@@ -46,3 +46,7 @@ www.wdlinux.cn
 ip.ws.126.net
 www.baidu.com
 cdn.bootcss.com
+www.cloudflare.com
+savebt.com
+cilifuli.com
+

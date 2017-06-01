@@ -1,5 +1,5 @@
 
-#version=201706011530
+#version=201706011553
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3056,9 +3056,19 @@
 127.0.0.1 8866786.com
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
+127.0.0.1 yundingjiayuan.com
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
 127.0.0.1 cdnimg.pdsywd.com
+127.0.0.1 www.lynndollin.com
+127.0.0.1 js384.rrsubway.com
+127.0.0.1 ads.passiontimes.hk
+127.0.0.1 g.meiliyue.top
+127.0.0.1 gmhq3r.baishouxin.cn
+127.0.0.1 mx4.weishiqiang.cn
+127.0.0.1 sod.onelink.me
+127.0.0.1 t.rrsubway.com
+127.0.0.1 www.mohecm.com
 127.0.0.1 z.kt0731.com
 127.0.0.1 js3555.championmachinery-cn.com
 127.0.0.1 bb.78gua.com
@@ -3627,6 +3637,8 @@
 127.0.0.1 www.888zr022.com
 127.0.0.1 xj40666.vip
 127.0.0.1 js4163.yongkang6.com
+127.0.0.1 fpb.mn586.com
+127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 s.jandan.com
 127.0.0.1 xji.qwxcs.com
 127.0.0.1 xco.qwxcs.com
@@ -5741,6 +5753,7 @@
 127.0.0.1 ads.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
+127.0.0.1 app.adjust.com
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
 127.0.0.1 ads.admarvel.com
