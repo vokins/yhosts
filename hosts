@@ -1,5 +1,5 @@
 
-#version=201706012030
+#version=20170603 937
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2674,6 +2674,9 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 js.srhtzx.com
+127.0.0.1 c.m.shumilou.co
+127.0.0.1 s.m.shumilou.co
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com

@@ -3260,6 +3260,9 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
+127.0.0.1 js.srhtzx.com
+127.0.0.1 c.m.shumilou.co
+127.0.0.1 s.m.shumilou.co
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
