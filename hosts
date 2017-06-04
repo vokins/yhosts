@@ -1,5 +1,5 @@
 
-#version=20170603 937
+#version=201706041430
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -713,12 +713,32 @@
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
+127.0.0.1 adcore.lenovomm.com
+127.0.0.1 pushapi.lenovomm.com
+127.0.0.1 sdac.lenovomm.com
+127.0.0.1 susapi.lenovomm.com
 127.0.0.1 adapi.lenovogame.com
+127.0.0.1 lcs.dev.surepush.cn
+127.0.0.1 susapi.dev.surepush.cn
+127.0.0.1 test.surepush.cn
+127.0.0.1 ams.lenovomm.com
 127.0.0.1 fsr.lenovomm.com
+127.0.0.1 fus.lenovomm.com
 127.0.0.1 imfsr.lenovomm.com
+127.0.0.1 lcs.lenovomm.com
 127.0.0.1 lds.lenovomm.com
 127.0.0.1 mfsr.lenovomm.com
-127.0.0.1 susapi.lenovomm.com
+127.0.0.1 pbs.lenovomm.com
+127.0.0.1 prw.lenovomm.com
+127.0.0.1 psb.lenovomm.com
+127.0.0.1 uss-pid.lenovomm.com
+127.0.0.1 wth.lenovomm.com
+127.0.0.1 yx.lenovomm.com
+127.0.0.1 api.bs.zui.com
+127.0.0.1 lds.zui.com
+127.0.0.1 api.anzhuoshangdian.com
+127.0.0.1 lcs.test.lenovomm.cn
+127.0.0.1 wr.ecartoon.net
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
 127.0.0.1 t-e.flyme.cn
@@ -860,7 +880,6 @@
 127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 stats.mokeedev.com
-
 127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 2345apicode.dftoutiao.com
 127.0.0.1 houtai.2345.com
