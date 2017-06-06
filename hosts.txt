@@ -2982,6 +2982,7 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 sha.qjjtc.com
 127.0.0.1 m.tuadong.com
 127.0.0.1 js205.lytubaobao.com
 127.0.0.1 m.sonomoyo.com
