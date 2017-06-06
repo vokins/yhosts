@@ -2293,8 +2293,6 @@
 127.0.0.1 cp.jz5u.net
 #mumayi.net
 127.0.0.1 js.mumayi.net
-#mydrivers.com
-127.0.0.1 icons.mydrivers.com
 #pchome
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net

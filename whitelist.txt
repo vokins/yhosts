@@ -1,5 +1,7 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 ebook.meizu.com
+127.0.0.1 icons.mydrivers.com 导致无法加载图片域名http://img1.mydrivers.com/img/20170407/s_bd483df2828b4b47b6c38f80508ed005.jpg
+http://11.mydrivers.com/news/201209/jquery.raty.min.js 页面加载会有问题
 127.0.0.1 trade.koudaitong.com 有赞商城，付款的那一步被屏蔽。
 127.0.0.1 telepathy.kakamobi.com 驾考宝典
 127.0.0.1 sns.amap.com 登陆域名
