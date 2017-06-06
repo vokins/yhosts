@@ -1,5 +1,5 @@
 
-#version=201706061106
+#version=201706061128
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3175,6 +3175,8 @@
 127.0.0.1 bigbos.top
 127.0.0.1 cc.bigbos.top
 127.0.0.1 kti.bigbos.top
+127.0.0.1 fflsn.com
+127.0.0.1 image.ibb.co
 127.0.0.1 shixunjs.th21333.com
 127.0.0.1 99qqc.com
 127.0.0.1 www.5188yy.com

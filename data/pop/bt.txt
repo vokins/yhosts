@@ -290,6 +290,8 @@
 127.0.0.1 cc.bigbos.top
 127.0.0.1 kti.bigbos.top
 #m.btbtt.co
+127.0.0.1 fflsn.com
+127.0.0.1 image.ibb.co
 127.0.0.1 shixunjs.th21333.com
 127.0.0.1 99qqc.com
 127.0.0.1 www.5188yy.com
