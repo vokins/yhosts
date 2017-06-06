@@ -2219,18 +2219,6 @@
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com
-#4hw.com.cn
-127.0.0.1 jb.4hw.com.cn
-127.0.0.1 js.4hw.com.cn
-127.0.0.1 ssp.4hw.com.cn
-127.0.0.1 jb.mbaidu.top
-127.0.0.1 js.mbaidu.top
-127.0.0.1 jb.mnkan.com
-127.0.0.1 js.mnkan.com
-127.0.0.1 d1.mobaders.com
-127.0.0.1 db.xhbqczl.com
-127.0.0.1 funexist.com
-127.0.0.1 ww.jiaeasy.net
 #admin5.com
 127.0.0.1 100.admin5.com
 #android.18183.com
@@ -2357,6 +2345,9 @@
 127.0.0.1 stat.zol.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+#yangjinyou.com
+127.0.0.1 ad1.yangjinyou.com
+127.0.0.1 ad2.yangjinyou.com
 #fengniao.com
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
@@ -4363,6 +4354,18 @@
 127.0.0.1 xj40666.vip
 127.0.0.1 js4163.yongkang6.com
 @site/life-info
+#4hw.com.cn
+127.0.0.1 jb.4hw.com.cn
+127.0.0.1 js.4hw.com.cn
+127.0.0.1 ssp.4hw.com.cn
+127.0.0.1 jb.mbaidu.top
+127.0.0.1 js.mbaidu.top
+127.0.0.1 jb.mnkan.com
+127.0.0.1 js.mnkan.com
+127.0.0.1 d1.mobaders.com
+127.0.0.1 db.xhbqczl.com
+127.0.0.1 funexist.com
+127.0.0.1 ww.jiaeasy.net
 #http://chuansong.me/
 127.0.0.1 fpb.mn586.com
 127.0.0.1 fpbjiansuo.mn586.com

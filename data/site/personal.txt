@@ -1,0 +1,3 @@
+#yangjinyou.com
+127.0.0.1 ad1.yangjinyou.com
+127.0.0.1 ad2.yangjinyou.com
