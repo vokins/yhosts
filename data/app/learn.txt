@@ -49,7 +49,6 @@
 127.0.0.1 new.zhqiu.com
 #http://www.jiakaobaodian.com/
 127.0.0.1 789.kakamobi.cn
-127.0.0.1 telepathy.kakamobi.com
 #www.xuexila.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org

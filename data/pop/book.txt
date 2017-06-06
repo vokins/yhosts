@@ -276,6 +276,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
 127.0.0.1 m.yadade.com
@@ -376,6 +377,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
@@ -397,9 +399,10 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
-127.0.0.1 js.srhtzx.com
+127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com

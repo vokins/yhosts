@@ -98,11 +98,13 @@
 127.0.0.1 app.ptleju.com
 #min-www.mnw.cn
 127.0.0.1 g.mnw.cn
+127.0.0.1 do.redmx.cn
+127.0.0.1 wo.redmx.cn
+127.0.0.1 ucpb.hdmnw.com
+127.0.0.1 uctt.hdmnw.com
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
 127.0.0.1 ios.ann5.net
-127.0.0.1 ucpb.hdmnw.com
-127.0.0.1 uctt.hdmnw.com
 #min-www.santaihu.com
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net

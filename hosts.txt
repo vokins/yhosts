@@ -630,6 +630,7 @@
 127.0.0.1 img.apnanalytics.com
 127.0.0.1 www.2345at.com
 127.0.0.1 down.cqssbl.com
+127.0.0.1 baidut.github.io
 @errorpage/click
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -643,7 +644,6 @@
 127.0.0.1 tl.771tao.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
-127.0.0.1 trade.koudaitong.com
 @errorpage/inside
 127.0.0.1 s.youzhuanhua.com
 @hijack/operators
@@ -1372,7 +1372,6 @@
 127.0.0.1 new.zhqiu.com
 #http://www.jiakaobaodian.com/
 127.0.0.1 789.kakamobi.cn
-127.0.0.1 telepathy.kakamobi.com
 #www.xuexila.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org
@@ -1574,11 +1573,6 @@
 #http://51wnl.com/
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com
-#amap.com
-127.0.0.1 aos-cdn-image.amap.com
-127.0.0.1 page.amap.com
-127.0.0.1 sns.amap.com
-127.0.0.1 store.is.autonavi.com
 #http://lbesec.com/
 127.0.0.1 cdn1.lbesec.com
 #http://mobile.xunlei.com/
@@ -1786,11 +1780,13 @@
 127.0.0.1 app.ptleju.com
 #min-www.mnw.cn
 127.0.0.1 g.mnw.cn
+127.0.0.1 do.redmx.cn
+127.0.0.1 wo.redmx.cn
+127.0.0.1 ucpb.hdmnw.com
+127.0.0.1 uctt.hdmnw.com
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
 127.0.0.1 ios.ann5.net
-127.0.0.1 ucpb.hdmnw.com
-127.0.0.1 uctt.hdmnw.com
 #min-www.santaihu.com
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net
@@ -2367,6 +2363,9 @@
 127.0.0.1 js.fengniao.com
 #heiguang.com
 127.0.0.1 pro.heiguang.com
+#nipic.com
+127.0.0.1 bd1.nipic.com
+127.0.0.1 bd2.nipic.com
 #poco.cn
 127.0.0.1 a-m-s.poco.cn
 #www.nphoto.net
@@ -3162,6 +3161,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
 127.0.0.1 m.yadade.com
@@ -3262,6 +3262,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
@@ -3283,9 +3284,10 @@
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
 #m.shumilou.co
-127.0.0.1 js.srhtzx.com
+127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
@@ -4221,6 +4223,8 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 @site/game-down
+#m.499.cn
+127.0.0.1 dps.499.cn
 #m.hao76.com
 127.0.0.1 ioa.hdkrs.com
 #m.shouji56.com

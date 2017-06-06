@@ -1,5 +1,5 @@
 
-#version=201706041430
+#version=201706061059
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -525,6 +525,7 @@
 127.0.0.1 img.apnanalytics.com
 127.0.0.1 www.2345at.com
 127.0.0.1 down.cqssbl.com
+127.0.0.1 baidut.github.io
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
 127.0.0.1 www.tigerbrokers.com
@@ -535,7 +536,6 @@
 127.0.0.1 dorado.xiaojukeji.com
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
-127.0.0.1 trade.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
@@ -1153,7 +1153,6 @@
 127.0.0.1 sc.goyozo.com
 127.0.0.1 new.zhqiu.com
 127.0.0.1 789.kakamobi.cn
-127.0.0.1 telepathy.kakamobi.com
 127.0.0.1 abc.yjbys.org
 127.0.0.1 dm.yjbys.org
 127.0.0.1 a.gzpinda.com
@@ -1311,10 +1310,6 @@
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com
-127.0.0.1 aos-cdn-image.amap.com
-127.0.0.1 page.amap.com
-127.0.0.1 sns.amap.com
-127.0.0.1 store.is.autonavi.com
 127.0.0.1 cdn1.lbesec.com
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
@@ -1472,11 +1467,13 @@
 127.0.0.1 aec.woutyo.info
 127.0.0.1 app.ptleju.com
 127.0.0.1 g.mnw.cn
+127.0.0.1 do.redmx.cn
+127.0.0.1 wo.redmx.cn
+127.0.0.1 ucpb.hdmnw.com
+127.0.0.1 uctt.hdmnw.com
 127.0.0.1 sk.junshio.com
 127.0.0.1 www.skwo.net
 127.0.0.1 ios.ann5.net
-127.0.0.1 ucpb.hdmnw.com
-127.0.0.1 uctt.hdmnw.com
 127.0.0.1 j.santaihu.com
 127.0.0.1 dm.santaihu.net
 127.0.0.1 js.santaihu.net
@@ -1915,6 +1912,8 @@
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
 127.0.0.1 pro.heiguang.com
+127.0.0.1 bd1.nipic.com
+127.0.0.1 bd2.nipic.com
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 util.nphoto.net
 127.0.0.1 www8.xitek.com
@@ -2581,6 +2580,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
 127.0.0.1 m.yadade.com
@@ -2674,6 +2674,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
 127.0.0.1 m.yunanfuwuqi.com
@@ -2693,9 +2694,10 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
-127.0.0.1 js.srhtzx.com
+127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
 127.0.0.1 sy.jhtcdj.com
@@ -3546,6 +3548,7 @@
 127.0.0.1 xpj3.net
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
+127.0.0.1 dps.499.cn
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 dps.shouji56.com
 127.0.0.1 ujake.shouji56.com

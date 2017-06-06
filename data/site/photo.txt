@@ -4,6 +4,9 @@
 127.0.0.1 js.fengniao.com
 #heiguang.com
 127.0.0.1 pro.heiguang.com
+#nipic.com
+127.0.0.1 bd1.nipic.com
+127.0.0.1 bd2.nipic.com
 #poco.cn
 127.0.0.1 a-m-s.poco.cn
 #www.nphoto.net

@@ -1,4 +1,6 @@
 @site/game-down
+#m.499.cn
+127.0.0.1 dps.499.cn
 #m.hao76.com
 127.0.0.1 ioa.hdkrs.com
 #m.shouji56.com
