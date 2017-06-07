@@ -469,6 +469,7 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 b.aowugame.com
 127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com

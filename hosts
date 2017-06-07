@@ -1,5 +1,5 @@
 
-#version=201706062017
+#version=201706071801
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1524,7 +1524,6 @@
 127.0.0.1 du.jd.com
 127.0.0.1 push.mobile.meituan.com
 127.0.0.1 s2.zdmimg.com
-127.0.0.1 eimg.smzdm.com
 127.0.0.1 res-ga.smzdm.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
@@ -2748,6 +2747,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 b.aowugame.com
 127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
@@ -3075,6 +3075,8 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 c.queene.cn
+127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
 127.0.0.1 cdnimg.pdsywd.com
@@ -3242,6 +3244,7 @@
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
 127.0.0.1 bbsimages.zkxf119.com
+127.0.0.1 www.gt4ec.net
 127.0.0.1 s.lhusy.com
 127.0.0.1 statics.9669.com
 127.0.0.1 www.beibeigoudai.com

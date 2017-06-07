@@ -1860,7 +1860,6 @@
 127.0.0.1 push.mobile.meituan.com
 #smzdm.com
 127.0.0.1 s2.zdmimg.com
-127.0.0.1 eimg.smzdm.com
 127.0.0.1 res-ga.smzdm.com
 #vip.com
 127.0.0.1 api.union.vip.com
@@ -3345,6 +3344,7 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 b.aowugame.com
 127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
@@ -3691,7 +3691,10 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+#cilidaquan.me
+127.0.0.1 c.queene.cn
 #cilifuli.com
+127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
 127.0.0.1 cdnimg.pdsywd.com
@@ -3871,6 +3874,8 @@
 127.0.0.1 www.appfh.com
 #http://www.btbtt.co/
 127.0.0.1 bbsimages.zkxf119.com
+#savebt.com
+127.0.0.1 www.gt4ec.net
 @site/comic
 #a.acgluna.com
 127.0.0.1 s.lhusy.com
