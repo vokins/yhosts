@@ -2282,7 +2282,7 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 #mydrivers.com 
-127.0.0.1 icons.mydrivers.com 
+127.0.0.1 icons.mydrivers.com
 #wap.ithome.com
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
@@ -3278,6 +3278,7 @@
 127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 e.qbyy010.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
 127.0.0.1 e.jundazulin.com
@@ -4039,6 +4040,7 @@
 127.0.0.1 slb.gedawang.com
 127.0.0.1 js.chinaheh.com
 #m.kkkkba.com
+127.0.0.1 s.hk9600.com
 127.0.0.1 www.70niandai.net
 127.0.0.1 w.yunluge.com
 127.0.0.1 js.wjnpxk.com
@@ -4763,6 +4765,7 @@
 127.0.0.1 api.tongji.today
 127.0.0.1 stat.tongji.today
 127.0.0.1 rh.code.jjyx.com
+127.0.0.1 tv.code.jjyx.com
 127.0.0.1 c.yisu.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 sycnzz.17tanwan.com
