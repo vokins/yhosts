@@ -403,7 +403,6 @@
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
-127.0.0.1 err.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 sdkinit.taobao.com

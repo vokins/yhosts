@@ -1,6 +1,7 @@
 @site/book
 #m.1xiaoshuo.com
 127.0.0.1 da.ddanq.com
+127.0.0.1 dan.qytyf.com
 127.0.0.1 m.qbyy010.com
 127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
@@ -277,6 +278,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
@@ -494,6 +496,7 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.com
+127.0.0.1 gdhyfgd.m.xs222.tw
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
@@ -502,6 +505,7 @@
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
 #s.faloo.com
+127.0.0.1 flux.faloo.com
 127.0.0.1 cdn.0i-i0.com
 127.0.0.1 9pkw.com
 #wap.xxbiquge.com

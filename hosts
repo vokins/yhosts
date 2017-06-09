@@ -1,5 +1,5 @@
 
-#version=201706081212
+#version=201706091926
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -200,7 +200,6 @@
 127.0.0.1 wkclick.baidu.com
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 wenku-cms.bj.bcebos.com
-127.0.0.1 fex.bdstatic.com
 127.0.0.1 kstj.baidu.com
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 nsclickvideo.baidu.com
@@ -2314,6 +2313,7 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 da.ddanq.com
+127.0.0.1 dan.qytyf.com
 127.0.0.1 m.qbyy010.com
 127.0.0.1 m.mzbclean.com
 127.0.0.1 shi.xacqp.com
@@ -2571,6 +2571,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 e.tangoutianxia.com
@@ -2770,12 +2771,14 @@
 127.0.0.1 img2.xztkc.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.com
+127.0.0.1 gdhyfgd.m.xs222.tw
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
+127.0.0.1 flux.faloo.com
 127.0.0.1 cdn.0i-i0.com
 127.0.0.1 9pkw.com
 127.0.0.1 gfnksw.wap.xxbiquge.com
@@ -3350,6 +3353,8 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 www.legozu.com
+127.0.0.1 www.k3bos.com
 127.0.0.1 img.qdscgj.com
 127.0.0.1 lz.wfhxssg.com
 127.0.0.1 uri6.com
@@ -4405,7 +4410,6 @@
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 apoll.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
-127.0.0.1 err.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 re.taobao.com
 127.0.0.1 sdkinit.taobao.com

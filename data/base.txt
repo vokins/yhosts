@@ -173,7 +173,6 @@
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 wenku-cms.bj.bcebos.com
 #https://zhidao.baidu.com/
-127.0.0.1 fex.bdstatic.com
 127.0.0.1 kstj.baidu.com
 #http://v.baidu.com/
 127.0.0.1 adx.xiaodutv.com
