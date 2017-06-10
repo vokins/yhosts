@@ -1,5 +1,5 @@
 
-#version=201706091926
+#version=201706102046
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -838,6 +838,7 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
@@ -1049,6 +1050,10 @@
 127.0.0.1 ad.vryeye.com
 127.0.0.1 api.adv.ott.cibntv.net
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
+127.0.0.1 m.aty.cp45.ott.cibntv.net
+127.0.0.1 mmg.aty.cp45.ott.cibntv.net
+127.0.0.1 push.ott.sohu.com
+127.0.0.1 ottpush.itc.cn
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -2666,6 +2671,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 sub.alisinak.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
@@ -6415,8 +6421,6 @@
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 888.tv.sohu.com
-127.0.0.1 count.vrs.sohu.com
-127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 info.lm.tv.sohu.com

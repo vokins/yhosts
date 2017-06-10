@@ -380,6 +380,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 sub.alisinak.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
 127.0.0.1 e.yunanfuwuqi.com
