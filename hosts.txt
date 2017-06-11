@@ -6042,7 +6042,6 @@
 #bmob
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn
-127.0.0.1 open.bmob.cn
 127.0.0.1 static.bmob.cn
 127.0.0.1 cloud.codenow.cn
 127.0.0.1 codenow.cn

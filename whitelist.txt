@@ -1,6 +1,7 @@
 127.0.0.1 games.ifeng.com
 127.0.0.1 ebook.meizu.com
 127.0.0.1 hot.vrs.sohu.com
+127.0.0.1 open.bmob.cn 以图搜图app首页
 127.0.0.1 eimg.smzdm.com 图标
 127.0.0.1 err.taobao.com 
 127.0.0.1 fex.bdstatic.com 贴吧无法回复

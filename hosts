@@ -1,5 +1,5 @@
 
-#version=201706102046
+#version=201706111452
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -5184,7 +5184,6 @@
 127.0.0.1 piccdn.bloggerads.net
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn
-127.0.0.1 open.bmob.cn
 127.0.0.1 static.bmob.cn
 127.0.0.1 cloud.codenow.cn
 127.0.0.1 codenow.cn
