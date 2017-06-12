@@ -1,5 +1,5 @@
 
-#version=201706121057
+#version=201706121100
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -594,6 +594,10 @@
 127.0.0.1 tl.771tao.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
+127.0.0.1 hao.360.cn
+127.0.0.1 www.2345.com
+127.0.0.1 www.hao123.com
+127.0.0.1 yeah.qq.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
