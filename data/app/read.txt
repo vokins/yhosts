@@ -43,8 +43,6 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
-127.0.0.1 s3.pstatp.com
-127.0.0.1 s3a.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
 127.0.0.1 push.yuedu.163.com
