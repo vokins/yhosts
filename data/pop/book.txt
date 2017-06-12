@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 m.qbyy010.com
@@ -349,6 +350,8 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 s.xmcxz.com
+127.0.0.1 m.qlonglong.com
 127.0.0.1 m.umyai.com
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com

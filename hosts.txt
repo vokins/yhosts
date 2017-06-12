@@ -2935,6 +2935,7 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 m.qbyy010.com
@@ -3284,6 +3285,8 @@
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 b.jxbjt.com
 #m.shenmabook.com
+127.0.0.1 s.xmcxz.com
+127.0.0.1 m.qlonglong.com
 127.0.0.1 m.umyai.com
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.kuwoyy.com
@@ -4532,8 +4535,13 @@
 127.0.0.1 gg.anqu.com
 127.0.0.1 mm.anqu.com
 @site/movie
+#www.pp63.com
+127.0.0.1 6vhao.kkcaicai.com
+127.0.0.1 j.web0523.com
 #dygang.com
 127.0.0.1 dygang.kkcaicai.com
+127.0.0.1 www.fu68.com
+127.0.0.1 j.sc1369.com
 127.0.0.1 img1.tzxrs.com
 127.0.0.1 img2.tzxrs.com
 127.0.0.1 img3.tzxrs.com
@@ -4582,6 +4590,8 @@
 127.0.0.1 w3.yinyuehu.cn
 127.0.0.1 image.vlook.cn
 #www.66yc.cc
+127.0.0.1 s.pomhz.com
+127.0.0.1 p.bnuni.com
 127.0.0.1 tg.qzqywh.com
 #www.bd-film.com
 127.0.0.1 www.youfumei.com
