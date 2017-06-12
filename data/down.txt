@@ -84,6 +84,12 @@
 127.0.0.1 xbp.code.weddingeeos.com
 127.0.0.1 xyy.code.weddingeeos.com
 127.0.0.1 ysej.code.weddingeeos.com
+#mackeeper
+127.0.0.1 download.mackeeper.com
+127.0.0.1 event.mackeeper.com
+127.0.0.1 mackeeper.com
+127.0.0.1 mackeeperapp.mackeeper.com
+127.0.0.1 static.mackeeper.com
 #down-virus
 127.0.0.1 www.ahhjyl.cn
 127.0.0.1 hao.tiandi.com
@@ -155,3 +161,9 @@
 127.0.0.1 www.2345at.com
 127.0.0.1 down.cqssbl.com
 127.0.0.1 baidut.github.io
+127.0.0.1 app2.letmacwork.world
+127.0.0.1 goodmacfaster.club
+127.0.0.1 pl108258.puserving.com
+127.0.0.1 script.crazyegg.com
+127.0.0.1 search.moviecarpet.com
+127.0.0.1 static.hotjar.com
