@@ -41,7 +41,6 @@ http://m.kankanwu.com/js/hui.js
 http://m.kankanwu.com/js/lezun.js
 http://m.kankanwu.com/le/lezun.js
 http://m.kankanwu.com/js/xuli.js
-http://m.kkkkba.com/js/fumeiti.js
 http://m.piaov.com/js/tj.js
 http://m.piaov.com/js/html.js
 http://m.piaov.com/js/tj.js
