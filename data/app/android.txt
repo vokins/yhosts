@@ -134,6 +134,7 @@
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
+127.0.0.1 book.rdtuijian.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 ic.rdtuijian.com
 127.0.0.1 vasapi.rdtuijian.com

@@ -438,10 +438,13 @@
 127.0.0.1 zz.m.sohu.com
 @base-sogou
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 fych.uranus.sogou.com
+127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
@@ -1019,6 +1022,7 @@
 127.0.0.1 s.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
+127.0.0.1 book.rdtuijian.com
 127.0.0.1 dfnews.rdtuijian.com
 127.0.0.1 ic.rdtuijian.com
 127.0.0.1 vasapi.rdtuijian.com
@@ -1771,6 +1775,7 @@
 #jing-chinaiiss.com
 127.0.0.1 analysis.chinaiiss.com
 127.0.0.1 sc.chinaiiss.com
+127.0.0.1 sogouwapjs.chinaiiss.com
 #jing-chinanews.com
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 i8.chinanews.com
@@ -2934,6 +2939,7 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 dan.qytyf.com
@@ -3343,6 +3349,8 @@
 127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 e.ddg1277.com
+127.0.0.1 sy.sxjxhg.com
 127.0.0.1 e.qbyy010.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 e.mzbclean.com
@@ -3542,6 +3550,7 @@
 127.0.0.1 img1.trxxn.com
 #www.tianyucangqiong1.com
 127.0.0.1 s.tianyucangqiong1.com
+127.0.0.1 y.5125129.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
 127.0.0.1 js3987.vdhufs.com
@@ -5522,7 +5531,6 @@
 127.0.0.1 p3p.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 pbd.sogou.com
-127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 pv.sogou.com
 127.0.0.1 rjgw.theta.sogou.com
 127.0.0.1 web.sogou.com

@@ -30,6 +30,7 @@
 #jing-chinaiiss.com
 127.0.0.1 analysis.chinaiiss.com
 127.0.0.1 sc.chinaiiss.com
+127.0.0.1 sogouwapjs.chinaiiss.com
 #jing-chinanews.com
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 i8.chinanews.com
