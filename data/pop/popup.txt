@@ -183,3 +183,5 @@
 127.0.0.1 c.yisu.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 sycnzz.17tanwan.com
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net

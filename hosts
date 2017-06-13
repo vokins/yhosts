@@ -1,5 +1,5 @@
 
-#version=201706132036
+#version=201706132058
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -587,6 +587,7 @@
 127.0.0.1 hao.360.cn
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
+127.0.0.1 m.hao123.com
 127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 yeah.qq.com
 127.0.0.1 daohang.114so.cn
@@ -4095,6 +4096,8 @@
 127.0.0.1 c.yisu.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 sycnzz.17tanwan.com
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
