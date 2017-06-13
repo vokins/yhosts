@@ -8,7 +8,7 @@
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 @lenovo
-#ads
+#lenovo-ads
 127.0.0.1 adcore.lenovomm.com
 127.0.0.1 pushapi.lenovomm.com
 127.0.0.1 sdac.lenovomm.com

@@ -124,7 +124,7 @@
 #phpwind
 127.0.0.1 init.phpwind.net
 @base-baidu
-#ads
+#baidu-ads
 127.0.0.1 api.share.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
