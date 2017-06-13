@@ -120,7 +120,6 @@
 127.0.0.1 cloudservice28.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 bole.shangshufang.ksosoft.com
-127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 ic.ksosoft.com
 127.0.0.1 pc.uf.ksosoft.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com

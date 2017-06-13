@@ -1,5 +1,5 @@
 
-#version=20170613 920
+#version=201706131444
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -850,7 +850,6 @@
 127.0.0.1 cloudservice28.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 bole.shangshufang.ksosoft.com
-127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 ic.ksosoft.com
 127.0.0.1 pc.uf.ksosoft.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
