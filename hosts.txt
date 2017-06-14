@@ -1314,8 +1314,6 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 m.aty.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 push.ott.sohu.com
-127.0.0.1 ottpush.itc.cn
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
