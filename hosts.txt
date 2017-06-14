@@ -432,6 +432,7 @@
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
@@ -3050,6 +3051,8 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.inccnd.com
+127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
 127.0.0.1 m.tuadong.com
 127.0.0.1 js205.lytubaobao.com
@@ -3474,6 +3477,8 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 e.kafka8.com
+127.0.0.1 m.kafka8.com
 127.0.0.1 s.xm9178.com
 127.0.0.1 m.ningdutong.com
 127.0.0.1 m.hhllyt.com
@@ -5521,7 +5526,6 @@
 127.0.0.1 ip.cms.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 imp.go.sohu.com
-127.0.0.1 s.go.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 xls.go.sohu.com
 #sogou

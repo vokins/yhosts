@@ -349,6 +349,7 @@
 127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com

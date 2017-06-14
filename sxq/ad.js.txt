@@ -15,7 +15,6 @@ http://m.nenzei.net/qb/up.js
 http://m.xqingdou.com/js/baidu.js
 http://m.qu.la/js/wap.js
 http://m.sanhao3.com/js/komdimgexmlld.js
-http://m.sanhao3.com/wap/wddxs/wap.js
 http://m.shenmabook.com/wap/dun.js
 http://m.shenshuw.com/js/book.js
 http://m.shu008.com/js/wap.js
