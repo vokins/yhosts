@@ -1644,7 +1644,6 @@
 127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
-127.0.0.1 jinrong.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 static.m.sjzhushou.com
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree

@@ -3,6 +3,7 @@
 127.0.0.1 hot.vrs.sohu.com
 127.0.0.1 push.ott.sohu.com
 127.0.0.1 ottpush.itc.cn
+jinrong.xunlei.com 迅雷金融超市
 127.0.0.1 hoplink.ksosoft.com 影响金山词霸下载
 127.0.0.1 open.bmob.cn 以图搜图app首页
 127.0.0.1 eimg.smzdm.com 图标
