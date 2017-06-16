@@ -2,3 +2,5 @@
 127.0.0.1 mbdapp.iqiyi.com
 #miui-calendar
 127.0.0.1 api.comm.miui.com
+#miui-update
+127.0.0.1 update.miui.com
