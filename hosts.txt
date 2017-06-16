@@ -4866,6 +4866,9 @@
 127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 js.59jd.com
+127.0.0.1 jump.59jd.com
+127.0.0.1 tu.59jd.com
 @union-cn
 #163
 127.0.0.1 adgeo.163.com
