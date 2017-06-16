@@ -1272,6 +1272,8 @@
 127.0.0.1 pic.bloggerads.net
 127.0.0.1 pic2.bloggerads.net
 127.0.0.1 piccdn.bloggerads.net
+#bridgewell.com.tw
+127.0.0.1 img.scupio.com
 #bmob
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn

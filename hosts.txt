@@ -453,8 +453,11 @@
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
-127.0.0.1 theta.sogoucdn.com
+127.0.0.1 art.theta.sogoucdn.com
+127.0.0.1 bite.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 png.lu.sogoucdn.com
+127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
 @base-google
 #admob
@@ -2939,6 +2942,7 @@
 127.0.0.1 ad.evozi.com
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
 127.0.0.1 da.ddanq.com
@@ -3105,6 +3109,7 @@
 #m.bookben.com
 127.0.0.1 guffs.m.bookben.com
 127.0.0.1 gufft.m.bookben.com
+127.0.0.1 s.ztxbd.com
 127.0.0.1 s.pomhz.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 e.rpaulfrank.com
@@ -3325,6 +3330,7 @@
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com
 127.0.0.1 qq.shu008.com
+127.0.0.1 www.sbrqp.com
 127.0.0.1 sub.alisinak.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.vichc.com
@@ -3421,6 +3427,7 @@
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
 127.0.0.1 b.aowugame.com
+127.0.0.1 b.flyreading.cn
 127.0.0.1 www.jndczg.com
 127.0.0.1 ikm0b.yuanshanshu.cn
 127.0.0.1 image.online2019.com
@@ -4354,6 +4361,7 @@
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com
 127.0.0.1 jjd.5442.com
+127.0.0.1 api.ssp.aomeng.net
 127.0.0.1 www.aomeng.net
 127.0.0.1 bdjs.itechwall.com
 127.0.0.1 xxx.caip2y.com
@@ -6132,6 +6140,8 @@
 127.0.0.1 pic.bloggerads.net
 127.0.0.1 pic2.bloggerads.net
 127.0.0.1 piccdn.bloggerads.net
+#bridgewell.com.tw
+127.0.0.1 img.scupio.com
 #bmob
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 file.bmob.cn
