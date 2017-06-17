@@ -37,7 +37,6 @@ http://mb.hd.sohu.com.cn/mc.gif?uid=4373e58e1c51ce8d956aab9d36333a0e&tkey=616e67
 127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
 127.0.0.1 wl.hd.sohu.com
-http://cms-bucket.nosdn.127.net/4da08b2dad2947bca67bd4dc3a83a50020170511003631.png 卡片新闻jpg
 到microsoft.com下载IE11，然后就无法下载了，找了下发现是hostst中屏蔽了g.msn.com　
 http://pub.aplus.pptv.com/
 http://player.aplus.pptv.com/jsplayer/pid/5701.js

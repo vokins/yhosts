@@ -1,5 +1,5 @@
 
-#version=201706162309
+#version=20170617 805
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -55,6 +55,8 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 nos.netease.com
+127.0.0.1 cms-bucket.nosdn.127.net
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com

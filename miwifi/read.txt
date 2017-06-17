@@ -1,4 +1,2 @@
-/etc/crontabs/root
-1 0 * * * sh /etc/dnsmasq.d/mi.sh
+sh /etc/dnsmasq.d/mi.sh && /etc/init.d/dnsmasq restart
 
-sh /etc/dnsmasq.d/mi.sh

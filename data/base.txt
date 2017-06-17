@@ -1,4 +1,7 @@
 @base-163
+#163-news
+127.0.0.1 nos.netease.com
+127.0.0.1 cms-bucket.nosdn.127.net
 #youdao
 127.0.0.1 log.yex.youdao.com
 #youdaoidct
