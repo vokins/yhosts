@@ -35,4 +35,3 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union.click.jd.com
 127.0.0.1 union.m.jd.com
-127.0.0.1 dc2.jd.com
