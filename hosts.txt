@@ -2637,24 +2637,6 @@
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 myes.youku.com
-@site-foregin
-@site-foregin/adult
-#91porn.com
-127.0.0.1 fans.bestvogue.com
-@site-foregin/news
-#m.cn.rfi.fr
-127.0.0.1 nexus.ensighten.com
-#m.cn.nytimes.com
-127.0.0.1 cdn.krxd.net
-@site-foregin/sns
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
-#wp.com
-127.0.0.1 stats.wp.com
-@site-foregin/tools
-#pingdom
-127.0.0.1 rum-collector.pingdom.net
-127.0.0.1 rum-static.pingdom.net
 @site-us
 #abcnews
 127.0.0.1 adsatt.abcnews.starwave.com
@@ -2681,15 +2663,12 @@
 127.0.0.1 advertising.aol.com
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
-127.0.0.1 o.sa.aol.com
 127.0.0.1 s.sa.aol.com
 127.0.0.1 ar.atwola.com
 127.0.0.1 ar1.atwola.com
 127.0.0.1 ar7.atwola.com
 127.0.0.1 ar9.atwola.com
 127.0.0.1 at.atwola.com
-127.0.0.1 cdn.at.atwola.com
-127.0.0.1 cdn.atwola.com
 127.0.0.1 pr.atwola.com
 127.0.0.1 tacoda.at.atwola.com
 127.0.0.1 ads.intergi.com
@@ -3635,7 +3614,6 @@
 127.0.0.1 www.kfwpyyctzmpk.com
 127.0.0.1 kfwpyyctzmpk.com
 127.0.0.1 go.onclasrv.com
-127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 www.predictivadvertising.com
@@ -3783,7 +3761,11 @@
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
 #cilidaquan.me
+127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
+127.0.0.1 p.heib7.top
+127.0.0.1 p.heib6.top
+127.0.0.1 mts.sdtieta.com
 #cilifuli.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
@@ -7386,6 +7368,42 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+@site-foregin/adult
+#91porn.com
+127.0.0.1 fans.bestvogue.com
+@site-foregin/news
+#m.cn.rfi.fr
+127.0.0.1 nexus.ensighten.com
+#m.cn.nytimes.com
+127.0.0.1 cdn.krxd.net
+@site-foregin/sns
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+#wp.com
+127.0.0.1 stats.wp.com
+@site-foregin/tools
+#pingdom
+127.0.0.1 rum-collector.pingdom.net
+127.0.0.1 rum-static.pingdom.net
+@site-foregin/down
+#mac-torrent-download.net
+127.0.0.1 inclk.com
+127.0.0.1 p215223.inclk.com
+127.0.0.1 n.ads3-adnow.com
+127.0.0.1 st-n.ads3-adnow.com
+127.0.0.1 c.codeonclick.com
+127.0.0.1 p215223.clksite.com
+127.0.0.1 p215223.mycdn2.co
+127.0.0.1 www.onclicktop.com
+@site-foregin/union
+#aol-cn.engadget.com
+127.0.0.1 adinfo.aol.com
+127.0.0.1 b.aol.com
+127.0.0.1 o.sa.aol.com
+127.0.0.1 cdn.komentary.aol.com
+127.0.0.1 o.aolcdn.com
+127.0.0.1 cdn.at.atwola.com
+127.0.0.1 cdn.atwola.com
 @union-jp
 #ad-stir
 127.0.0.1 ad-stir.com

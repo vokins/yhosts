@@ -37,7 +37,6 @@
 127.0.0.1 www.kfwpyyctzmpk.com
 127.0.0.1 kfwpyyctzmpk.com
 127.0.0.1 go.onclasrv.com
-127.0.0.1 c.codeonclick.com
 127.0.0.1 clickadu.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 www.predictivadvertising.com
@@ -185,7 +184,11 @@
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
 #cilidaquan.me
+127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
+127.0.0.1 p.heib7.top
+127.0.0.1 p.heib6.top
+127.0.0.1 mts.sdtieta.com
 #cilifuli.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
