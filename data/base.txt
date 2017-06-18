@@ -362,6 +362,8 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 jsnp.golden1.sogou.com
+127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
@@ -375,6 +377,7 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com

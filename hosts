@@ -1,5 +1,5 @@
 
-#version=20170617 911
+#version=201706182326
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -361,6 +361,8 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 jsnp.golden1.sogou.com
+127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 ping.acc.sogou.com
@@ -374,6 +376,7 @@
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
@@ -2363,6 +2366,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 m.huananb.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
@@ -2466,6 +2470,8 @@
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.clubske.com
+127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
@@ -2849,6 +2855,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com
@@ -3423,6 +3430,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 m.24haitao.net
 127.0.0.1 www.legozu.com
 127.0.0.1 www.k3bos.com
 127.0.0.1 img.qdscgj.com
@@ -3537,6 +3545,7 @@
 127.0.0.1 sg.keytui.com
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
+127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com

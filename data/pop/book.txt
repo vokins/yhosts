@@ -1,5 +1,6 @@
 @site/book
 #m.1xiaoshuo.com
+127.0.0.1 m.huananb.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 ke.qzdag.com
 127.0.0.1 m.ddg1277.com
@@ -110,6 +111,8 @@
 127.0.0.1 www.yiranxian.cn
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 e.clubske.com
+127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 sha.qjjtc.com
@@ -526,6 +529,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 alibaba.zhihei.com

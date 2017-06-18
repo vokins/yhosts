@@ -64,6 +64,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 m.24haitao.net
 127.0.0.1 www.legozu.com
 127.0.0.1 www.k3bos.com
 127.0.0.1 img.qdscgj.com
@@ -195,6 +196,7 @@
 127.0.0.1 a.mianbao99.com
 127.0.0.1 m.qcw.com
 #www.smdy66.com
+127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 js257.rrsubway.com
 127.0.0.1 m.xigeng0375.com
 127.0.0.1 v1.0594529.com
