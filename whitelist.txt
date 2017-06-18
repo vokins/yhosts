@@ -3,6 +3,7 @@
 127.0.0.1 hot.vrs.sohu.com
 127.0.0.1 push.ott.sohu.com
 127.0.0.1 ottpush.itc.cn
+127.0.0.1 cms-bucket.nosdn.127.net 网易新闻图片
 127.0.0.1 dc2.jd.com 无法从email跳过去
 jinrong.xunlei.com 迅雷金融超市
 127.0.0.1 hoplink.ksosoft.com 影响金山词霸下载
