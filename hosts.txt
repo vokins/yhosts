@@ -453,6 +453,8 @@
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
+127.0.0.1 qhl.bealge.sogou.com
+127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 union.sogou.com
@@ -3380,6 +3382,7 @@
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 wowo.kilospeak.com
 #m.shushu8.com
+127.0.0.1 wo.rbywg.com
 127.0.0.1 m.gdyyyg.net
 #m.sodu520.net
 127.0.0.1 img.hzkcbs.com

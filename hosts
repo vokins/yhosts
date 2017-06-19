@@ -1,5 +1,5 @@
 
-#version=20170619 936
+#version=201706191134
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -369,6 +369,8 @@
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
+127.0.0.1 qhl.bealge.sogou.com
+127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 union.sogou.com
@@ -2789,6 +2791,7 @@
 127.0.0.1 syd.wayize.cn
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 wowo.kilospeak.com
+127.0.0.1 wo.rbywg.com
 127.0.0.1 m.gdyyyg.net
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
