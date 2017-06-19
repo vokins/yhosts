@@ -1,5 +1,5 @@
 
-#version=201706182346
+#version=20170619 936
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1278,7 +1278,6 @@
 127.0.0.1 click.qianqian.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
-127.0.0.1 od.qingting.fm
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adeventtracker.spotify.com

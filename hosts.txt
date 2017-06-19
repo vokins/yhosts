@@ -1524,7 +1524,6 @@
 #http://m.qingting.fm/
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
-127.0.0.1 od.qingting.fm
 #http://m.ximalaya.com/
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com
