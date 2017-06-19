@@ -190,6 +190,7 @@
 127.0.0.1 p.heib6.top
 127.0.0.1 mts.sdtieta.com
 #cilifuli.com
+127.0.0.1 ds-pv.iqu-operation.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com

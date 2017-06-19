@@ -126,6 +126,7 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
 #m.biqumo.com
+127.0.0.1 e.ksdsuzhou.com
 127.0.0.1 m.jbyy010.com
 127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
@@ -287,6 +288,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com

@@ -1,5 +1,5 @@
 
-#version=201706191134
+#version=201706192028
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2486,6 +2486,7 @@
 127.0.0.1 m.resetgey.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 e.ksdsuzhou.com
 127.0.0.1 m.jbyy010.com
 127.0.0.1 e.jbyy010.com
 127.0.0.1 xian.axkxy.com
@@ -2636,6 +2637,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
 127.0.0.1 js439.lytubaobao.com
@@ -3160,6 +3162,7 @@
 127.0.0.1 p.heib7.top
 127.0.0.1 p.heib6.top
 127.0.0.1 mts.sdtieta.com
+127.0.0.1 ds-pv.iqu-operation.com
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 images.tygc5.com
