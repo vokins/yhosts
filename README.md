@@ -3,7 +3,6 @@
 [PayPal](paypal.me/ikwok/32.69)
 ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
 ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
-![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)
 
 我会把捐赠给我的款项用于吃喜家德，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
 每次吃的时候会把照片更新于此。谢谢款待！
