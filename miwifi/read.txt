@@ -1,2 +1,0 @@
-sh /etc/dnsmasq.d/mi.sh && /etc/init.d/dnsmasq restart
-
