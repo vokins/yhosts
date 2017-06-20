@@ -1,3 +1,14 @@
+
+## 捐赠 Donate 请我吃一次喜家德
+PayPal：paypal.me/ikwok/32.69
+支付宝 ：vokins@gmail.com
+![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
+![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
+![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)
+
+我会把捐赠给我的款项用于吃喜家德水饺，凑够一份吃一次。
+每次吃的时候会把照片更新于此。谢谢！
+
 iMonkey
 优佳猴猴～
 Since 2009-06-06
@@ -9,8 +20,6 @@ Since 2009-06-06
 `
    的
 hosts文件
-
-* AD hosts爱好群 群号:201973909
 
 ### 下载或使用本项目即视为同意以下使用条款。
 * 此项目仅限于`个人`研究，
@@ -28,9 +37,3 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 其他部分以具体引用的第三方开源项目协议为准。
 
-
-## 捐助
-
-![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
-![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
-![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)
