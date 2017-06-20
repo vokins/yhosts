@@ -1,6 +1,6 @@
 
 ## 捐赠 Donate
-[PayPal](paypal.me/ikwok/32.69)
+[PayPal](https://paypal.me/ikwok/32.69)
 ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
 ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
 
