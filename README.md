@@ -1,7 +1,6 @@
 
 ## 捐赠 Donate 请我吃一次喜家德
-PayPal：paypal.me/ikwok/32.69
-支付宝 ：vokins@gmail.com
+[PayPal](paypal.me/ikwok/32.69)
 ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)
 ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)
 ![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)
