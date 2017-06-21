@@ -1,5 +1,4 @@
 @errorpage/click
-127.0.0.1 aka.ms
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com

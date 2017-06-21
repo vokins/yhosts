@@ -3,6 +3,10 @@
 127.0.0.1 hot.vrs.sohu.com
 127.0.0.1 push.ott.sohu.com
 127.0.0.1 ottpush.itc.cn
+127.0.0.1 aka.ms bing首页广告链接缩链跳转，但会影响
+-大量微软云服务中断
+-微软Github仓库的短链接失效
+Xbox部分服务也失效 :(
 127.0.0.1 c-nfa.jd.com 京东首页轮播广告
 od.qingting.fm屏蔽了之后，就没法听有声小说了，这是一个错误的屏蔽地址 重现地址：http://www.qingting.fm/channels/210603
 127.0.0.1 cms-bucket.nosdn.127.net 网易新闻图片

@@ -695,7 +695,6 @@
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
 @errorpage/click
-127.0.0.1 aka.ms
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -3347,6 +3346,9 @@
 127.0.0.1 zzc.shumilou.co
 127.0.0.1 c.m.shumilou.co
 127.0.0.1 s.m.shumilou.co
+127.0.0.1 ayc.m.shumilou.co
+127.0.0.1 c68.asdjqoz.shumilou.co
+127.0.0.1 s56.iuqsdf.shumilou.co
 127.0.0.1 e.ddg1277.com
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 e.qbyy010.com
