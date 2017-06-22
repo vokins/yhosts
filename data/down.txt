@@ -167,3 +167,4 @@
 127.0.0.1 script.crazyegg.com
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
+127.0.0.1 ffb.feihuo.com

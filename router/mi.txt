@@ -1,4 +1,19 @@
-cd /etc && curl -o hosts -k https://raw.githubusercontent.com/vokins/yhosts/master/hosts && cd /etc/dnsmasq.d && curl -o dnsfq.conf -k https://raw.githubusercontent.com/ss916/bug/master/dnsmasq/dnsfq && curl -o ip.conf -k https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf && curl -o union.conf -k https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf
+cd /etc && curl -o hosts -k https://raw.githubusercontent.com/vokins/yhosts/master/hosts && cd /etc/dnsmasq.d && curl -o dnsfq.conf -k https://raw.githubusercontent.com/ss916/bug/master/dnsmasq/dnsfq && curl -o ip.conf -k https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf && curl -o union.conf -k https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf && /etc/init.d/dnsmasq restart
 
 
+#restart all service
+/etc/init.d/dnsmasq restart
+echo ""
+echo "yhosts安装成功！"
+echo ""
+exit 0
 
+#######
+Mi Plus 工具箱
+wget http://vv2.vicp.net/miwifi/install.sh -O /tmp/install.sh && chmod +x /tmp/install.sh && /tmp/install.sh
+
+Misstar Tools 工具箱
+wget http://www.misstar.com/tools/appstore/install.sh -O /tmp/install.sh && chmod +x /tmp/install.sh && /tmp/install.sh
+
+miwifi-ss
+cd /tmp && rm -rf *.sh && curl https://raw.githubusercontent.com/blademainer/miwifi-ss/master/miwifi.sh -o miwifi.sh && chmod +x miwifi.sh && sh ./miwifi.sh && rm -rf *.sh
