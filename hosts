@@ -1,5 +1,5 @@
 
-#version=201706221941
+#version=201706232206
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2369,6 +2369,7 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
 127.0.0.1 m.huananb.com
 127.0.0.1 shi.tsrc8.com
@@ -2764,6 +2765,7 @@
 127.0.0.1 ayc.m.shumilou.co
 127.0.0.1 c68.asdjqoz.shumilou.co
 127.0.0.1 s56.iuqsdf.shumilou.co
+127.0.0.1 s.htjsk.com
 127.0.0.1 e.ddg1277.com
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 e.qbyy010.com
@@ -2873,8 +2875,10 @@
 127.0.0.1 widnd.dajiadou6.com
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.day66.com
+127.0.0.1 d1r2c3w.m.d8qu.com
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
+127.0.0.1 drsw.m.d8qu.com
 127.0.0.1 kdv.d8qu.com
 127.0.0.1 e.kafka8.com
 127.0.0.1 m.kafka8.com
@@ -3161,6 +3165,7 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 ip.hivps.xyz
 127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 p.heib7.top
