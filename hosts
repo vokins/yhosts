@@ -1,5 +1,5 @@
 
-#version=201706232206
+#version=201706241407
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3488,6 +3488,8 @@
 127.0.0.1 m.966886.org
 127.0.0.1 vip.968228.org
 127.0.0.1 m78.xhydrs.cn
+127.0.0.1 s.huayi65.com
+127.0.0.1 im1.56zzw.com
 127.0.0.1 m.hfsteel.net
 127.0.0.1 www.6kwan.com
 127.0.0.1 i.xyqsnc.com

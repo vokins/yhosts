@@ -4144,6 +4144,8 @@
 127.0.0.1 vip.968228.org
 127.0.0.1 m78.xhydrs.cn
 #m.meijukankan.net
+127.0.0.1 s.huayi65.com
+127.0.0.1 im1.56zzw.com
 127.0.0.1 m.hfsteel.net
 127.0.0.1 www.6kwan.com
 127.0.0.1 i.xyqsnc.com
