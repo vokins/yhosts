@@ -31,6 +31,5 @@
 127.0.0.1 b.aol.com
 127.0.0.1 o.sa.aol.com
 127.0.0.1 cdn.komentary.aol.com
-127.0.0.1 o.aolcdn.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
