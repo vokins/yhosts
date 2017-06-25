@@ -1,5 +1,5 @@
 
-#version=201706241407
+#version=201706252252
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3165,6 +3165,12 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 57.jtydbz.com
+127.0.0.1 j.bjyikao.org
+127.0.0.1 s1.mqsyz.com
+127.0.0.1 s1.ykgqs.com
+127.0.0.1 www.5757lm.com
+127.0.0.1 js85.ibcda.org
 127.0.0.1 ip.hivps.xyz
 127.0.0.1 js.brfrb.cn
 127.0.0.1 c.queene.cn
