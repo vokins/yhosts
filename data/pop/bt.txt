@@ -136,6 +136,7 @@
 127.0.0.1 b.175bar.com
 127.0.0.1 www.pasco.cc
 127.0.0.1 cloud.zyiis.net
+127.0.0.1 dspmy.ge95.com
 127.0.0.1 imges.wu65.com
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 js.jianbaimei.com

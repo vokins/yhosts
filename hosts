@@ -1,5 +1,5 @@
 
-#version=201706261544
+#version=201706261622
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -582,6 +582,8 @@
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 ffb.feihuo.com
+127.0.0.1 download.fuyuncc.com
+127.0.0.1 13023.url.7wkw.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -3132,6 +3134,7 @@
 127.0.0.1 b.175bar.com
 127.0.0.1 www.pasco.cc
 127.0.0.1 cloud.zyiis.net
+127.0.0.1 dspmy.ge95.com
 127.0.0.1 imges.wu65.com
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 js.jianbaimei.com

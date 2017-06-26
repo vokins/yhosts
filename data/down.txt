@@ -168,3 +168,5 @@
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 ffb.feihuo.com
+127.0.0.1 download.fuyuncc.com
+127.0.0.1 13023.url.7wkw.com
