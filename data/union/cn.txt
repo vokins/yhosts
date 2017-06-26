@@ -683,7 +683,6 @@
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 cpc.brand.sogou.com
-127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 lk.brand.sogou.com
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 wb.brand.sogou.com
@@ -695,7 +694,6 @@
 127.0.0.1 cpc.sogou.com
 127.0.0.1 mini.cpc.sogou.com
 #sogou-inte
-127.0.0.1 eff.inte.sogou.com
 127.0.0.1 vps.inte.sogou.com
 #sogou-lu
 127.0.0.1 irnvf.lu.sogou.com

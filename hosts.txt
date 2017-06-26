@@ -442,7 +442,10 @@
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou
+127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 eff.inte.sogou.com
+127.0.0.1 eff.lu.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
@@ -457,12 +460,15 @@
 127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
 127.0.0.1 service.epro.sogou.com
+127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
+127.0.0.1 cdn.lu.sogoucdn.com
+127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
@@ -2930,6 +2936,8 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 @site/book
+#baidu.book.3g.cn
+127.0.0.1 www.xxeden.com
 #m.1xiaoshuo.com
 127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
@@ -5592,7 +5600,6 @@
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 cpc.brand.sogou.com
-127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 lk.brand.sogou.com
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 wb.brand.sogou.com
@@ -5604,7 +5611,6 @@
 127.0.0.1 cpc.sogou.com
 127.0.0.1 mini.cpc.sogou.com
 #sogou-inte
-127.0.0.1 eff.inte.sogou.com
 127.0.0.1 vps.inte.sogou.com
 #sogou-lu
 127.0.0.1 irnvf.lu.sogou.com

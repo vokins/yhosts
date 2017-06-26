@@ -1,4 +1,6 @@
 @site/book
+#baidu.book.3g.cn
+127.0.0.1 www.xxeden.com
 #m.1xiaoshuo.com
 127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
