@@ -30,6 +30,7 @@ http://s.faloo.com/wap/js/piaofu2016.js
 http://static1.2436.cn/ad1/afoot.js
 http://t.shuotxts.com/js/tj.js
 http://wap.xxbiquge.com/js/common.js
+http://m.927xs.com/wap/qijixs/zhongwen.js
 http://icili.org/js/my-index.js
 http://m.76long.com/521/BOT.js
 http://m.76long.com/521/Head.js

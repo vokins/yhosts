@@ -1,5 +1,5 @@
 
-#version=201706252257
+#version=20170626 841
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2474,6 +2474,9 @@
 127.0.0.1 b.7788xs.net
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.yiranxian.cn
+127.0.0.1 m.aqiudaohang.com
+127.0.0.1 m.mzp0o0.com
+127.0.0.1 ulow.mingyangzhizun.com
 127.0.0.1 tmc.biquge.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
