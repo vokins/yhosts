@@ -1,5 +1,5 @@
 
-#version=201706261900
+#version=201706262243
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -442,7 +442,6 @@
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
-127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com

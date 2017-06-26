@@ -540,7 +540,6 @@
 #down-360
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
-127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
