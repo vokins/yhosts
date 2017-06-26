@@ -3220,6 +3220,11 @@
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
 #m.lanseshuba.com
+127.0.0.1 img8.lanseshuba.com
+127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
+127.0.0.1 m2ka6betm.m.lanseshuba.com
+127.0.0.1 e.wevvt.com
+127.0.0.1 ywdp.baojijiecheng.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net

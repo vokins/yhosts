@@ -9,6 +9,11 @@ http://m.d8qu.com/style.js
 http://m.dingdianzw.com/js/wap.js
 http://m.kewaishu.org/ad1/wap.js
 http://m.lanseshuba.com/js/pingao.js
+http://m.lanseshuba.com/js/fc3.js
+http://m.lanseshuba.com/js/fc2.js
+http://m.lanseshuba.com/js/fc1.js
+http://m.lanseshuba.com/js/fcyf2.js
+http://m.lanseshuba.com/js/xflb.js
 http://m.nenzei.net/qb/index.js
 http://m.nenzei.net/qb/top.js
 http://m.nenzei.net/qb/up.js
