@@ -121,6 +121,8 @@
 127.0.0.1 dl.9xu.com
 127.0.0.1 js.union-wifi.com
 127.0.0.1 rcv.union-wifi.com
+127.0.0.1 ssp.dmpdsp.com
+127.0.0.1 ssp1.dmpdsp.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com

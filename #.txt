@@ -1,4 +1,9 @@
-﻿http://js85.ibcda.org/57lm/c-365-25.js
+﻿#cloudmobi.net(广告推广，并造成辽宁联通HTTP劫持）
+127.0.0.1 api.cloudmobi.net
+#dmpdsp.com（造成辽宁联通HTTP劫持）
+127.0.0.1 ssp.dmpdsp.com
+127.0.0.1 ssp1.dmpdsp.com
+http://js85.ibcda.org/57lm/c-365-25.js
 962648376  17:23:12
 来自cilidaquan.me
 

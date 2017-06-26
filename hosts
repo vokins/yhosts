@@ -1,5 +1,5 @@
 
-#version=201706262243
+#version=201706262344
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -719,6 +719,8 @@
 127.0.0.1 dl.9xu.com
 127.0.0.1 js.union-wifi.com
 127.0.0.1 rcv.union-wifi.com
+127.0.0.1 ssp.dmpdsp.com
+127.0.0.1 ssp1.dmpdsp.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
@@ -5355,6 +5357,7 @@
 127.0.0.1 js.cnxad.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 js.star8.net
+127.0.0.1 api.cloudmobi.net
 127.0.0.1 ark.cocounion.com
 127.0.0.1 config.cocounion.com
 127.0.0.1 m.cocounion.com

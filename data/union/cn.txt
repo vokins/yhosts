@@ -1309,6 +1309,8 @@
 127.0.0.1 js.cnxad.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 js.star8.net
+#cloudmobi.net
+127.0.0.1 api.cloudmobi.net
 #cocounion.com
 127.0.0.1 ark.cocounion.com
 127.0.0.1 config.cocounion.com
