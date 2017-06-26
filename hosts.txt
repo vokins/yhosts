@@ -3405,6 +3405,12 @@
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
+#m.txt99.cc
+127.0.0.1 ddc.m.txt99.cc
+127.0.0.1 dds.m.txt99.cc
+127.0.0.1 kkc.m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
+127.0.0.1 keryt.jnservo.com
 #m.uuxs.net
 127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
@@ -4047,6 +4053,11 @@
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
 @site/dianbo
+#www.tianxin209.cn
+127.0.0.1 img1.rzcyx.com
+127.0.0.1 img2.rzcyx.com
+127.0.0.1 img3.rzcyx.com
+127.0.0.1 in.htjsk.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #www.bdzhe.com

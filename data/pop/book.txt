@@ -476,6 +476,12 @@
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
+#m.txt99.cc
+127.0.0.1 ddc.m.txt99.cc
+127.0.0.1 dds.m.txt99.cc
+127.0.0.1 kkc.m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
+127.0.0.1 keryt.jnservo.com
 #m.uuxs.net
 127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net

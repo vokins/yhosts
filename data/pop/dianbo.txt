@@ -1,4 +1,9 @@
 @site/dianbo
+#www.tianxin209.cn
+127.0.0.1 img1.rzcyx.com
+127.0.0.1 img2.rzcyx.com
+127.0.0.1 img3.rzcyx.com
+127.0.0.1 in.htjsk.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #www.bdzhe.com

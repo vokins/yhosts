@@ -35,6 +35,7 @@ http://s.faloo.com/wap/js/piaofu2016.js
 http://static1.2436.cn/ad1/afoot.js
 http://t.shuotxts.com/js/tj.js
 http://wap.xxbiquge.com/js/common.js
+http://m.txt99.cc/Public/m/script/common.js
 http://m.927xs.com/wap/qijixs/zhongwen.js
 http://icili.org/js/my-index.js
 http://m.76long.com/521/BOT.js
@@ -70,4 +71,5 @@ http://www.dygang.com/d/3001.js
 http://www.dygang.com/d/3003.js
 http://www.dygang.com/d/3002.js
 http://www.dygang.com/d/5.js
-http://m.meijukankan.net/mm/?s=Player-Index-vid-545-part-1
+http://m.meijukankan.net/
+http://www.tianxin209.cn/

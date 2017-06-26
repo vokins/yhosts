@@ -1,5 +1,5 @@
 
-#version=201706261206
+#version=201706261544
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2812,6 +2812,11 @@
 127.0.0.1 img.hzkcbs.com
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
+127.0.0.1 ddc.m.txt99.cc
+127.0.0.1 dds.m.txt99.cc
+127.0.0.1 kkc.m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
+127.0.0.1 keryt.jnservo.com
 127.0.0.1 a.m.uuxs.net
 127.0.0.1 ss2p.uuxs.net
 127.0.0.1 xia.xiazailou.la
@@ -3406,6 +3411,10 @@
 127.0.0.1 a.tukeai.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
+127.0.0.1 img1.rzcyx.com
+127.0.0.1 img2.rzcyx.com
+127.0.0.1 img3.rzcyx.com
+127.0.0.1 in.htjsk.com
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 e.gythsg.com
