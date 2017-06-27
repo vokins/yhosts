@@ -37,6 +37,7 @@
 127.0.0.1 malacca.inveno.com
 127.0.0.1 ssplog.geekwide.cn
 #m.hmrenti.net
+127.0.0.1 m.96mob.com
 127.0.0.1 c.tkd777.cn
 127.0.0.1 s.3333309.cn
 #m.meitulu.com

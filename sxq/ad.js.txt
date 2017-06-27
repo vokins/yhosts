@@ -12,7 +12,6 @@ http://m.lanseshuba.com/js/pingao.js
 http://m.lanseshuba.com/js/fc3.js
 http://m.lanseshuba.com/js/fc2.js
 http://m.lanseshuba.com/js/fc1.js
-http://m.lanseshuba.com/js/fcyf2.js
 http://m.lanseshuba.com/js/xflb.js
 http://m.nenzei.net/qb/index.js
 http://m.nenzei.net/qb/top.js
@@ -28,7 +27,7 @@ http://m.shushu8.com/js/1tong.js
 http://m.shushu8.com/js/1foot2.js
 http://m.sodu520.net/js/waps.js
 http://m.xs177.com/js/dibu.js
-http://m.xs222.com/js/common.js
+http://m.xs222.tw/js/common.js
 http://s.dzz8.com/public/ptcms/s_wap_novelsearch_index_index.js
 http://s.faloo.com/ou/site/ou4site12.js
 http://s.faloo.com/wap/js/piaofu2016.js
