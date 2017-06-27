@@ -4674,6 +4674,10 @@
 127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.gaore.com
 #www.dysfz.net
+127.0.0.1 888.jiuwanwang.com
+127.0.0.1 c1.6728812.com
+127.0.0.1 p1.6728812.com
+127.0.0.1 a1.99909988.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 www.70lm.com
 127.0.0.1 afesd.zjytyz.com

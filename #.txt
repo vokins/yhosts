@@ -1,4 +1,5 @@
-﻿#cloudmobi.net(广告推广，并造成辽宁联通HTTP劫持）
+﻿view-source:http://23.235.156.167/dysfz.html
+#cloudmobi.net(广告推广，并造成辽宁联通HTTP劫持）
 127.0.0.1 api.cloudmobi.net
 #dmpdsp.com（造成辽宁联通HTTP劫持）
 127.0.0.1 ssp.dmpdsp.com
