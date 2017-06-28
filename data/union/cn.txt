@@ -466,9 +466,6 @@
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 s.wrating.com
 127.0.0.1 sohu.wrating.com
-#ali-yun
-127.0.0.1 click.aliyun.com
-127.0.0.1 promotion.aliyun.com
 #baidu
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
