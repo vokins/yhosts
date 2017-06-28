@@ -8,9 +8,12 @@ fpdownload.macromedia.com
 g3.ykimg.com
 go.microsoft.com
 i.gtimg.cn
+i2.letvimg.com
+i3.letvimg.com
 image.5442.com
 img.alicdn.com
 img.faloo.com
+img32.pplive.cn
 imgcache.qq.com
 ip.ws.126.net
 itunes.apple.com
@@ -66,5 +69,6 @@ www.w3.org
 www.w3c.org
 www.wdlinux.cn
 wx1.sinaimg.cn
+wx2.sinaimg.cn
 wx4.sinaimg.cn
 zhannei.baidu.com
