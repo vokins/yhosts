@@ -4,6 +4,7 @@
 127.0.0.1 push.ott.sohu.com
 127.0.0.1 ottpush.itc.cn
 #ali-yun
+address=/.mmstat.com/0.0.0.0 影響aliyun 的部分靜態文件調用
 127.0.0.1 click.aliyun.com 優惠鏈接跳轉不過去 接觸
 127.0.0.1 promotion.aliyun.com
 Picture on cn.engadget.com form o.aolcdn.com
