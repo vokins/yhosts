@@ -169,3 +169,7 @@
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 download.fuyuncc.com
 127.0.0.1 13023.url.7wkw.com
+127.0.0.1 img.ercfh.com
+127.0.0.1 xz.ercfh.com
+127.0.0.1 m.zzxbn.com
+127.0.0.1 ntamobapps.com

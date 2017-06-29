@@ -195,14 +195,19 @@
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 puds.ucweb.com
+127.0.0.1 up1.tj.u2.ucweb.com
+127.0.0.1 up4.ucweb.com
 127.0.0.1 wap3.ucweb.com
 127.0.0.1 alissl.ucdl.pp.uc.cn
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
+127.0.0.1 puds.test.uae.uc.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 server.m.pp.cn
 127.0.0.1 huichuan.sm.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
 #wrating
 127.0.0.1 c.wrating.com
 127.0.0.1 cookiemapping.wrating.com
@@ -462,6 +467,7 @@
 127.0.0.1 qhl.bealge.sogou.com
 127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 rmoeu.mercury.sogou.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
@@ -705,6 +711,10 @@
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 download.fuyuncc.com
 127.0.0.1 13023.url.7wkw.com
+127.0.0.1 img.ercfh.com
+127.0.0.1 xz.ercfh.com
+127.0.0.1 m.zzxbn.com
+127.0.0.1 ntamobapps.com
 @errorpage/click
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
@@ -3459,6 +3469,7 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 www.dgfggy.com
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.flyreading.cn
 127.0.0.1 www.jndczg.com
@@ -6567,7 +6578,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
 127.0.0.1 g.x.cn.miaozhen.com
 127.0.0.1 gs.m.cn.miaozhen.com

@@ -5,3 +5,11 @@
 962648376  02:37:12
 来自
 http://m.blog.csdn.net/keithyau/article/details/49509187
+
+127.0.0.1 up1.tj.u2.ucweb.com:8011/upload.php
+127.0.0.1 up4.ucweb.com:8012/upload
+
+
+病毒：
+//img.ercfh.com/us.js"></script>
+<script src="//img.ercfh.com/shadu3/js/jquery.min.js"></scrip

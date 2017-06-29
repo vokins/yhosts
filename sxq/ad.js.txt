@@ -48,6 +48,7 @@ http://m.kankanwu.com/le/xuli.js
 http://m.kankanwu.com/le/20X4a.js
 http://m.kankanwu.com/le/bai.js
 http://m.kankanwu.com/le/hui.js
+http://m.kankanwu.com/le/20X4b.js
 http://m.kewaishu.info/ad1/wap.js
 http://m.piaov.com/js/tj.js
 http://m.piaov.com/js/html.js
@@ -72,3 +73,4 @@ http://www.dygang.com/d/3002.js
 http://www.dygang.com/d/5.js
 http://m.meijukankan.net/
 http://www.tianxin209.cn/
+https://www.shenmidizhi.com/static/adm.js

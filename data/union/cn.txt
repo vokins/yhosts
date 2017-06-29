@@ -1628,7 +1628,6 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
 127.0.0.1 g.x.cn.miaozhen.com
 127.0.0.1 gs.m.cn.miaozhen.com

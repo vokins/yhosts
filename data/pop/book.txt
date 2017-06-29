@@ -515,6 +515,7 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 www.dgfggy.com
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.flyreading.cn
 127.0.0.1 www.jndczg.com
