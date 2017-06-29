@@ -359,10 +359,12 @@
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 zz.m.sohu.com
 @base-sogou
+127.0.0.1 cjroq.bealge.sogou.com
 127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
+127.0.0.1 ejzr.golden1.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
@@ -370,6 +372,7 @@
 127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 pcxzo.pluto.sogou.com
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 psfq.gou.sogou.com
