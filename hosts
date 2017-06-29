@@ -1,5 +1,5 @@
 
-#version=201706291035
+#version=201706292048
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2382,6 +2382,7 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 www.xxeden.com
+127.0.0.1 zhe.sytsr.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
@@ -6471,7 +6472,9 @@
 127.0.0.1 ssp-rtb.sape.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
+127.0.0.1 an.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 st.yandexadexchange.net
 127.0.0.1 ad.dumedia.ru
 127.0.0.1 ad.mail.ru
 127.0.0.1 rtb.com.ru

@@ -2943,6 +2943,7 @@
 #baidu.book.3g.cn
 127.0.0.1 www.xxeden.com
 #m.1xiaoshuo.com
+127.0.0.1 zhe.sytsr.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
@@ -7569,7 +7570,9 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
 #yandex.ru
+127.0.0.1 an.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 st.yandexadexchange.net
 #comon
 127.0.0.1 ad.dumedia.ru
 127.0.0.1 ad.mail.ru
