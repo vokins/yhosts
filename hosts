@@ -1,5 +1,5 @@
 
-#version=201706281012
+#version=201706291035
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1907,6 +1907,8 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 mpb1.iteye.com
+127.0.0.1 mpb2.iteye.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
 127.0.0.1 js.ea3w.com
@@ -5081,6 +5083,7 @@
 127.0.0.1 stat.adirects.com
 127.0.0.1 www.admarket.mobi
 127.0.0.1 58749.admaster.com.cn
+127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
@@ -5647,6 +5650,7 @@
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
 127.0.0.1 g.x.cn.miaozhen.com
 127.0.0.1 gs.m.cn.miaozhen.com

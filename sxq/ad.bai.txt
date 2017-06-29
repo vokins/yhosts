@@ -1,4 +1,5 @@
 access.tv.sohu.com
+bbs.safedog.cn
 cdn.bootcss.com
 cilifuli.com
 cilifuli.net
@@ -63,6 +64,7 @@ www.miitbeian.gov.cn
 www.qcloud.com
 www.qiushibaike.com
 www.qq.com
+www.safedog.cn
 www.sina.com.cn
 www.uuxs.net
 www.w3.org
