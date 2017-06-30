@@ -24,7 +24,7 @@ Since 2009-06-06
 # yhosts Project
 
 `
-美观 克制 
+自由 美观 克制 
 `
    的
 hosts文件
