@@ -1,3 +1,4 @@
+
 access.tv.sohu.com
 bbs.safedog.cn
 cdn.bootcss.com
@@ -11,6 +12,7 @@ g4.ykimg.com
 go.microsoft.com
 i.gtimg.cn
 i0.letvimg.com
+i1.letvimg.com
 i2.letvimg.com
 i3.letvimg.com
 image.5442.com

@@ -121,6 +121,7 @@
 127.0.0.1 m.mzp0o0.com
 127.0.0.1 ulow.mingyangzhizun.com
 #m.biquge.com.tw
+127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
