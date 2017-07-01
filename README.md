@@ -19,7 +19,7 @@
 
 2017-07-01消费：虾三鲜24元+松仁土豆丝9元=33元
 ![松仁土豆丝](https://raw.githubusercontent.com/vokins/yhosts/master/xijiade/IMG_20170701_131045.jpg)
-![虾三鲜](https://raw.githubusercontent.com/vokins/yhosts/master/xijiade/IMG_20170701_131751.jpg.jpg)
+![虾三鲜](https://raw.githubusercontent.com/vokins/yhosts/master/xijiade/IMG_20170701_131751.jpg)
 
 iMonkey
 优佳猴猴～
