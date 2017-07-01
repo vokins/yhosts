@@ -2,7 +2,6 @@
 #163-news
 127.0.0.1 e-p4p.163.com
 127.0.0.1 nex.163.com
-127.0.0.1 nos.netease.com
 #youdao
 127.0.0.1 log.yex.youdao.com
 #youdaoidct

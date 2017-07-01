@@ -3,6 +3,7 @@
 127.0.0.1 hot.vrs.sohu.com
 127.0.0.1 push.ott.sohu.com
 127.0.0.1 ottpush.itc.cn
+127.0.0.1 nos.netease.com 随时风暴英雄问题 #103
 #ali-yun
 address=/.mmstat.com/0.0.0.0 影響aliyun 的部分靜態文件調用
 127.0.0.1 click.aliyun.com 優惠鏈接跳轉不過去 接觸
