@@ -1,5 +1,5 @@
 
-#version=201707011048
+#version=20170702 758
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -958,10 +958,7 @@
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
-127.0.0.1 app.migc.xiaomi.com
-127.0.0.1 data.game.xiaomi.com
 127.0.0.1 notice.game.xiaomi.com
-127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 info.sec.miui.com
@@ -2897,6 +2894,7 @@
 127.0.0.1 in.qzkxt.com
 127.0.0.1 img2.xztkc.com
 127.0.0.1 dvygej.m.xs222.com
+127.0.0.1 fyduswkx.m.xs222.tw
 127.0.0.1 gdhyfgd.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.tw
 127.0.0.1 m.xul478.com
@@ -3367,6 +3365,7 @@
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
+127.0.0.1 js658.ltcprtc.com
 127.0.0.1 ttts.leztc.com
 127.0.0.1 www.yezilm.com
 127.0.0.1 js658.tongqing2015.com

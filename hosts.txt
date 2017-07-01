@@ -1122,10 +1122,7 @@
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 #miui-game
-127.0.0.1 app.migc.xiaomi.com
-127.0.0.1 data.game.xiaomi.com
 127.0.0.1 notice.game.xiaomi.com
-127.0.0.1 ppurifier.game.xiaomi.com
 #miui-sec
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -3498,6 +3495,7 @@
 127.0.0.1 img2.xztkc.com
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
+127.0.0.1 fyduswkx.m.xs222.tw
 127.0.0.1 gdhyfgd.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.tw
 127.0.0.1 m.xul478.com
@@ -3994,6 +3992,7 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
 #www.btmango.com
+127.0.0.1 js658.ltcprtc.com
 127.0.0.1 ttts.leztc.com
 127.0.0.1 www.yezilm.com
 127.0.0.1 js658.tongqing2015.com
