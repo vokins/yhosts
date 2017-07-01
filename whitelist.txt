@@ -1,0 +1,3 @@
+https://miuiboot.tracking.miui.com
+刷机后第一开机校验
+address=/.tracking.miui.com/0.0.0.0
