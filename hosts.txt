@@ -714,6 +714,7 @@
 127.0.0.1 xz.ercfh.com
 127.0.0.1 m.zzxbn.com
 127.0.0.1 ntamobapps.com
+127.0.0.1 www.fanqianbb.com
 @errorpage/click
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
@@ -3052,6 +3053,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 ge.zizcy.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 neng.ynmbz.com
 127.0.0.1 huan.szrk3.com
@@ -3696,6 +3698,7 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw(btdigg.co)
+127.0.0.1 go.gotourl.xyz
 127.0.0.1 j.qiqivv.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 m3a425.wdalk.com

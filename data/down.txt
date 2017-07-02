@@ -173,3 +173,4 @@
 127.0.0.1 xz.ercfh.com
 127.0.0.1 m.zzxbn.com
 127.0.0.1 ntamobapps.com
+127.0.0.1 www.fanqianbb.com

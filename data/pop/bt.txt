@@ -48,6 +48,7 @@
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
 #btdigg.pw(btdigg.co)
+127.0.0.1 go.gotourl.xyz
 127.0.0.1 j.qiqivv.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 m3a425.wdalk.com

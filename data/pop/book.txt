@@ -99,6 +99,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 ge.zizcy.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 neng.ynmbz.com
 127.0.0.1 huan.szrk3.com
