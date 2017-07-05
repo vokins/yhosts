@@ -17,6 +17,9 @@
 127.0.0.1 j17.shangc.net
 #yoka.com
 127.0.0.1 adcount.yoka.com
+#https://mip.yxlady.com/
+127.0.0.1 mmc.yxlady.com
+127.0.0.1 bbc.yxlady.com
 #zdface.com
 127.0.0.1 ent1.12584.cn
 127.0.0.1 health1.12584.cn

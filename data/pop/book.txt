@@ -99,6 +99,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 da.yxjad.com
 127.0.0.1 ge.zizcy.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 neng.ynmbz.com
@@ -223,6 +224,7 @@
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
+127.0.0.1 www.yxnbroot.com
 #m.chenhuiwx.org
 127.0.0.1 www.tixing51.net
 127.0.0.1 w.chnup.cn
@@ -306,6 +308,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 kn.awyys.com
@@ -550,6 +553,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
+127.0.0.1 slb.jiehantai.com
 127.0.0.1 www.cnzhqs.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
@@ -564,6 +568,7 @@
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
 127.0.0.1 m.netko0o.com
+127.0.0.1 m.md0z4dh.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
