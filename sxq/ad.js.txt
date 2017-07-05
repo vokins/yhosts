@@ -7,7 +7,6 @@ http://m.bxwx9.org/mjs/wap.js
 http://m.d8qu.com/style.js
 http://m.dingdianzw.com/js/wap.js
 http://m.kewaishu.org/ad1/wap.js
-http://m.lanseshuba.com/js/pingao.js
 http://m.lanseshuba.com/js/fc3.js
 http://m.lanseshuba.com/js/fc2.js
 http://m.lanseshuba.com/js/fc1.js
@@ -38,7 +37,6 @@ http://m.76long.com/521/TOP.JS
 http://m.kankanwu.com/js/hui.js
 http://m.kankanwu.com/js/lezun.js
 http://m.kankanwu.com/js/xuli.js
-http://m.kankanwu.com/le/hui.js
 http://m.kewaishu.info/ad1/wap.js
 http://m.piaov.com/js/html.js
 http://www.00sy.com/Skin/Default/js/funcs.js
