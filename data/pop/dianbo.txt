@@ -74,7 +74,6 @@
 127.0.0.1 wap.tanwan.com
 127.0.0.1 wei.cdcsjs.com
 127.0.0.1 m.ctsywy.com
-127.0.0.1 go.gotourl.xyz
 127.0.0.1 aec.shjk123.net
 127.0.0.1 www.legozu.com
 127.0.0.1 www.k3bos.com
