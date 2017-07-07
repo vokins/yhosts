@@ -2,8 +2,12 @@
 #baidu.book.3g.cn
 127.0.0.1 www.xxeden.com
 #m.1xiaoshuo.com
+127.0.0.1 sha.hnasd.com
+127.0.0.1 m.itskonka.com
 127.0.0.1 zhe.sytsr.com
 127.0.0.1 huan.yxhxs.com
+127.0.0.1 m.maidiankeji.org
+127.0.0.1 qq.kuaipai666.cn
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
@@ -492,10 +496,12 @@
 127.0.0.1 js.hzkcbs.com
 127.0.0.1 lz.hzkcbs.com
 #m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
 127.0.0.1 ddc.m.txt99.cc
 127.0.0.1 dds.m.txt99.cc
 127.0.0.1 kkc.m.txt99.cc
-127.0.0.1 ccc.m.txt99.org
+127.0.0.1 ssp.18.txt99.cc
+127.0.0.1 i.lynsjx.com
 127.0.0.1 keryt.jnservo.com
 #m.uuxs.net
 127.0.0.1 a.m.uuxs.net
@@ -572,6 +578,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.passwz.com
 127.0.0.1 m.netko0o.com
 127.0.0.1 m.md0z4dh.com
 127.0.0.1 m.jifeidandar.com
@@ -590,6 +597,9 @@
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 drsw.m.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 7777c.m.d8qu.com
+127.0.0.1 e.liweiso.com
+127.0.0.1 ptxzw.yigolds.com
 127.0.0.1 m.jnsdkjzs.com
 127.0.0.1 e.jnsdkjzs.com
 127.0.0.1 e.kafka8.com

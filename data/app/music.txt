@@ -1,3 +1,6 @@
+#http://www.1ting.com/
+127.0.0.1 bddm.999d.com
+127.0.0.1 bdjs.999d.com
 #http://www.duomi.com/
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
