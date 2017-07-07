@@ -189,3 +189,4 @@
 127.0.0.1 jump.59jd.com
 127.0.0.1 tu.59jd.com
 127.0.0.1 xxlargepop.com
+127.0.0.1 serve.popads.net
