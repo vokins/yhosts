@@ -4985,6 +4985,7 @@
 127.0.0.1 js.59jd.com
 127.0.0.1 jump.59jd.com
 127.0.0.1 tu.59jd.com
+127.0.0.1 xxlargepop.com
 @union-cn
 #163
 127.0.0.1 adgeo.163.com

@@ -1,5 +1,5 @@
 
-#version=201707072108
+#version=201707072120
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4230,6 +4230,7 @@
 127.0.0.1 js.59jd.com
 127.0.0.1 jump.59jd.com
 127.0.0.1 tu.59jd.com
+127.0.0.1 xxlargepop.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
