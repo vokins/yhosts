@@ -98,6 +98,7 @@
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 app.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 img1.g.pptv.com

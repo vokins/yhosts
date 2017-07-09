@@ -1,7 +1,25 @@
 ﻿http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
 
+http://pv.sohu.com/cityjson?ie=utf-8 以为是测试地区以优化播放cdn加速，暂时解除。
+http://app.aplus.pptv.com/minisite/pptvaphone/m_app_down/pg_2406
+http://uop.umeng.com:443
+http://oth.eve.mdt.qq.com:8080/analytics/upload?rid=68261d96d3ac51c1
+http://adash.m.taobao.com/rest/sur?ak=23332213&av=8.9.5&c=0&v=3.0&s=4ce5f4f1a9aa8418916f0f6769a4c76ee032e4dc&d=WVmjtLFnJ4wDACknOOiepFY%2B&sv=4.3.9&p=a&t=1499590547877&u=&is=1
+http://adash.m.taobao.com/rest/sur?ak=23332213&av=8.9.5&c=0&v=3.0&s=ce1068d43e6de8644607096895059684c5d74fd3&d=WVmjtLFnJ4wDACknOOiepFY%2B&sv=4.3.9&p=a&t=1499590548996&u=&is=1
+http://api.ad.xiaomi.com/brand/appupgrade
+http://oth.eve.mdt.qq.com:8080/analytics/upload?rid=68261d96d3ac51c1
+http://android.config.synacast.com/softlist?device=Redmi+Note+4X&listid=10&sv=6.5.2&osv=6.0.1&channel=82&platform=aphone&appid=com.pplive.androidphone&appver=6.5.2&appplt=aph
+http://ol.synacast.com/smart.html?data=cGx0PWFwaCZBPTAmQj04NjU2MDcwMzg5MTU5OTMmdnZpZD05YjYxZWU1Ny1hYjM4LTQxOTEtYWM3MS1iNWYxNjU5OGM3YjUmQz0xNzUxMzI5NSZEPSVFNCVCQSVBQyVFNSU5RiU4RTgxJUU1JThGJUI3JkU9MTAzJkY9JUU2JTgxJTkwJUU2JTgwJTk2JTJDJUU2JTgzJThBJUU2JTgyJTlBJTJDJUU2JTgyJUFDJUU3JTk2JTkxJTJDJUU3JTg4JUIxJUU2JTgzJTg1JTJDJUU2JTk2JUIwJUU0JUI4JThBJUU3JUJBJUJGJTJDJUU5JTk5JUEyJUU3JUJBJUJGJkc9MTQ5OTU5MDY5MCZ2c3Q9MCZwPTUmdmVyPTYuNS4yJlk1PTg2NTYwNzAzODkxNTk5MyZ0dW5uZWw9ODImc2M9MCZzZHM9MCZudD0wJmNpPTEwMS40NC4xLjQzJmx0PTczNiZpbHQ9MSZkYz0wJmRzdD0wJmZ0PTEmYnd0PTAmdGVjPTQmc2VjdGlvbmlkPTA=&md5=2891c99060a5d76eebf4f536fb74ddf8
+http://ios.synacast.com/1.html?sdPg0uXTraCSqrOYlrKpmpyoraSSrKeioJawpq6bpaacoKaYqKmdnq+eo5axpqyTpZ6ej7yioZazpqecpaGfm6+alripTTARVQ/6oadK/yeSsrOYo5a2pquV0qafz9jG0aWkm6bKqNWknKmbpaijn6mcoaHPm6vJnt3cnZyxsq2cj8GioZbAytii2N/ZzpyxraGStrOVlr6pmZy0raCSubOVlsGpmZy3raCSvLOWlsapmZy8raGSwKmipqCSwqeiqKKSwqiiyNnN2OPO7MLRzePOkL7b3duFpMjo1t/J35bFnLOXo5bCv7+pranOn6fK1aWjltfHo6iZnaeeoZ3NzK2WndKhz6ebpamkzK3HpZawmrOVlrSfpqeLtsSpmpyrvq2gn6uLtr2pnqmbp5a8trOVlsDApqiLwMCpm5yms62kj72XraCambCVnqCmmaSVlsmhpq6bpaacoKaYqKmdnq+eo+ygzLCZqarRnLCWqKqcoLDI1pa8wLOVlsC3pqeLwLSpmqSWnqGamqaYpaWSucyiop6fl6qTpaeSu6uioaCdl6qZnqGanamLx6GpnKyLx6KpmZy1uK2dmaeTpKSamqSZo5a8tqiioJbBsrObp5a4nbOVlrG+pqaLsbSdpqaLsbSepqaLxbypm6eeopaurrOZpqCcmqyepqidma6eoKCSrL+ioaCfj8qooK2emqiZlsSvmrOYqKSSvbmXraWcnpy5s6OpmqaaoJbArKqipqmcj+nK0+TV2OTO1K2c
 
+http://api.danmu.tv.sohu.com/danmu/?act=dmlist_v2&pct=2&sver=6.7.5&num=1500&sysver=6.0.1&poid=1&o=4&vid=3876574&request_from=sohu_vrs_player&partner=6562&dct=2&api_key=9854b2afa779e1a6bff1962447a09dbd&plat=6&aid=9108647
+
+127.0.0.1 t2.a.market.xiaomi.com
+http://t2.a.market.xiaomi.com/download/AdCenter/026a54497ef3d9d5354b72ca6e503fd967a410cdd/AdCenter026a54497ef3d9d5354b72ca6e503fd967a410cdd.jpg
+http://t2.a.market.xiaomi.com/download/AdCenter/04958e45da1c44b693dd2bc48fcbab98e5b2ced76/AdCenter04958e45da1c44b693dd2bc48fcbab98e5b2ced76.jpg
+
+https://tran.news.so.com/news/youlike?air=1&f=jsonp&sign=search&n=10&device=2&version=1.0.0&action=2&u=34870781.4329403712550583300.1499580329516.0867&_=1499581471691&callback=jsonp4
 http://sdkconfig.ad.xiaomi.com:443
 http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1030&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75
 http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1020&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75

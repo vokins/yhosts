@@ -112,6 +112,8 @@
 #v.360.cn
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 p.s.360.cn
+#so
+127.0.0.1 tran.news.so.com
 @base-ali
 #alicdn
 127.0.0.1 afp.alicdn.com
@@ -454,7 +456,6 @@
 127.0.0.1 2016.sina.cn
 @base-sohu
 127.0.0.1 images.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
@@ -1400,6 +1401,7 @@
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 app.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 img1.g.pptv.com
@@ -3110,6 +3112,7 @@
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.qloer.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
 127.0.0.1 e.inccnd.com

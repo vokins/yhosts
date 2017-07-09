@@ -29,6 +29,8 @@
 #v.360.cn
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 p.s.360.cn
+#so
+127.0.0.1 tran.news.so.com
 @base-ali
 #alicdn
 127.0.0.1 afp.alicdn.com
@@ -371,7 +373,6 @@
 127.0.0.1 2016.sina.cn
 @base-sohu
 127.0.0.1 images.sohu.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
