@@ -1,5 +1,5 @@
 
-#version=201707091703
+#version=201707092107
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -202,8 +202,6 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
-127.0.0.1 afd.baidu.com
-127.0.0.1 als.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com

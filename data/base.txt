@@ -174,8 +174,6 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #baidu-news
-127.0.0.1 afd.baidu.com
-127.0.0.1 als.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
