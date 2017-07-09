@@ -22,3 +22,5 @@
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 click.yhd.com
 127.0.0.1 tracker.yhd.com
+127.0.0.1 www.yhd.com
+127.0.0.1 yhd.com
