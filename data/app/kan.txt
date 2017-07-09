@@ -34,6 +34,7 @@
 127.0.0.1 conf.funshion.com
 127.0.0.1 jobsfe.funshion.com
 127.0.0.1 pub.funshion.com
+127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
 127.0.0.1 stat.funshion.net
 127.0.0.1 fun.adx.admaster.com.cn

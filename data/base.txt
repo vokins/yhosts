@@ -171,9 +171,26 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
+#baidu-news
+127.0.0.1 afd.baidu.com
+127.0.0.1 als.baidu.com
+127.0.0.1 cpu.baidu.com
+127.0.0.1 hpd.baidu.com
+127.0.0.1 feed.baidu.com
+127.0.0.1 ss0.baidu.com
+127.0.0.1 ss1.baidu.com
+127.0.0.1 ss2.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
+127.0.0.1 gss0.bdstatic.com
+127.0.0.1 gss2.bdstatic.com
+127.0.0.1 ss0.bdstatic.com
+#baidu-map
+127.0.0.1 dcps.nuomi.com
+127.0.0.1 log.nuomi.com
 #http://pan.baidu.com/
 127.0.0.1 appc.baidu.com
-127.0.0.1 cpu.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 #https://wenku.baidu.com/

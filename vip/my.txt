@@ -1,5 +1,3 @@
-#yhd
-127.0.0.1 www.yhd.com
 #iqiyi-down
 127.0.0.1 mbdapp.iqiyi.com
 #miui-calendar

@@ -1576,6 +1576,7 @@
 127.0.0.1 imp.madserving.com
 127.0.0.1 imp.pdb.madserving.com
 #mediav
+127.0.0.1 show-s.mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
@@ -1883,6 +1884,7 @@
 #xdrig.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
+127.0.0.1 me.xdrig.com
 127.0.0.1 pg.xdrig.com
 127.0.0.1 xdrig.com
 #xtgreat.com
