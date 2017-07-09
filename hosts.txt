@@ -1399,6 +1399,7 @@
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 img1.g.pptv.com
@@ -1651,8 +1652,8 @@
 127.0.0.1 imgad.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
+127.0.0.1 temai.snssdk.com
 127.0.0.1 analytics.snssdk.com
-127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com

@@ -1,6 +1,30 @@
 ﻿http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
 
+
+http://sdkconfig.ad.xiaomi.com:443
+http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1030&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75
+http://wtradv.market.xiaomi.com/v1/page?sysVersion=stable&appVersion=97&channelId=1020&imei=f70f57560fb453a1df15fa3dc8791adb&locationKey=weathercn%3A101120901&country=CN&language=zh&network=WIFI&screenWidth=1080&screenHeight=1920&miuiVersion=V8&device=natrium&dislike=2&model=MI+5s+Plus&androidVersion=23&screenDensity=2.75
+http://weatherapi.market.xiaomi.com/wtr-v3/ad/speaker?imei=f70f57560fb453a1df15fa3dc8791adb&model=MI+5s+Plus&device=natrium&androidVersion=23&miuiVersion=V8.5.3.0.MBGCNED&buildVersion=stable&screenDensity=2.75&screenResolution=2073600&screenWidth=1080&screenHeight=1920&language=zh&country=CN&connectionType=WIFI&version=97&locationKey=weathercn%3A101120901&miuiVersionName=V8&weatherInfo=%7B%22aqi%22%3A%2269%22%2C%22pm25%22%3A%2234%22%2C%22weather%22%3A%221%22%2C%22windSpeed%22%3A%2212.0%22%2C%22feelsLike%22%3A%2223.9%22%2C%22temperature%22%3A%2225%22%7D&dislike=2
+http://weatherapi.market.xiaomi.com/wtr-v3/ad/speaker?imei=f70f57560fb453a1df15fa3dc8791adb&model=MI+5s+Plus&device=natrium&androidVersion=23&miuiVersion=V8.5.3.0.MBGCNED&buildVersion=stable&screenDensity=2.75&screenResolution=2073600&screenWidth=1080&screenHeight=1920&language=zh&country=CN&connectionType=WIFI&version=97&locationKey=weathercn%3A101120901&miuiVersionName=V8&weatherInfo=%7B%22aqi%22%3A%2269%22%2C%22pm25%22%3A%2234%22%2C%22weather%22%3A%221%22%2C%22windSpeed%22%3A%2212.0%22%2C%22feelsLike%22%3A%2223.9%22%2C%22temperature%22%3A%2225%22%7D&dislike=2
+http://resolver.gslb.mi-idc.com/gslb/gslb/getbucket.asp?deviceType=0&list=file.market.xiaomi.com&ver=3.0
+http://beha.ksmobile.com/cps
+http://beha.ksmobile.com/ads
+http://beha.ksmobile.com/ads
+http://data.mistat.xiaomi.com/mistats/v2
+http://api.sec.miui.com:443
+http://data.mistat.xiaomi.com/mistats/v2
+http://adv.sec.miui.com:443
+http://sdkconfig.ad.xiaomi.com:443
+http://api.ad.xiaomi.com/getSkinAds
+http://data.mistat.xiaomi.com:443
+http://sdkconfig.ad.xiaomi.com:443
+http://ads.aplus.pptv.com/mma/sdkconfig.xml
+http://ads.aplus.pptv.com/ipservice/servicejump.html
+http://lf.snssdk.com/service/2/app_log/?iid=12022204711&device_id=37140432919&ac=wifi&channel=lite_xiaomi_shipin&aid=35&app_name=news_article_lite&version_code=600&version_name=6.0.0&device_platform=android&ab_version=146632%2C139024%2C141617%2C140556%2C145819%2C122834%2C143763%2C137627%2C144449%2C142848%2C143433&ab_client=a1%2Cc4%2Ce1%2Cf2%2Cg2%2Cf7&ab_feature=z1&abflag=3&ssmix=a&device_type=MI+5s+Plus&device_brand=Xiaomi&language=zh&os_api=23&os_version=6.0.1&uuid=863818035818138&openudid=2028c4bb9e943753&manifest_version_code=600&resolution=1080*1920&dpi=440&update_version_code=6004&_rticket=1499580070510&tt_data=a
+http://h5.nty.tv189.com/api/tactics/integrate/fixedadv
+127.0.0.1 ib.snssdk.com
+http://securepubads.g.doubleclick.net:443
 http://carowner.baidu.com/carservice/api/feed/get?num=10&xdpi=386&networkType=1&map-version=9.8.5&cuid=A84B28F00EE90E696A489F78EAC526BA|021818530818368&brand=Xiaomi&package=map.android.baidu.carowner&height=1920&width=1080&ydpi=387&os=Android&os-version=23&model=MI%205s%20Plus&com_version=2.6.6&latitude=4155191.464301&longitude=13173290.827142&cityID=234&cityName=%E4%B8%B4%E6%B2%82%E5%B8%82&t=1499578840547
 http://ss0.bdstatic.com:443
 http://gss0.bdstatic.com:443
