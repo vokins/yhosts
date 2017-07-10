@@ -1,5 +1,5 @@
 
-#version=201707092107
+#version=201707101035
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3553,6 +3553,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 www.khxxly.com
 127.0.0.1 wap.tanwan.com
 127.0.0.1 wei.cdcsjs.com
 127.0.0.1 m.ctsywy.com

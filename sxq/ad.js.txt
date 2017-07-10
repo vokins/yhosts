@@ -46,3 +46,6 @@ http://savebt.com/infohash/1354AC45BFB3E644A04D69CC519E83283BD3AC6A.html
 http://m.meijukankan.net/
 http://www.tianxin209.cn/
 https://www.shenmidizhi.com/static/adm.js
+http://m.ikankanwu.com/xuxu/iosandroid.js
+http://m.ikankanwu.com/xuxu/xuli.js
+http://m.ikankanwu.com/xuxu/le.js
