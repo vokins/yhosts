@@ -6,3 +6,102 @@ http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 恢复云数据时会卡住的问题
+
+http://sdkinit.taobao.com/init.htm
+http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
+
+http://app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
+http://app.migc.g.mi.com/migcoss/coss.htm
+http://t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
+127.0.0.1 weatherapi.market.xiaomi.com
+https://milink.pandora.xiaomi.com/milink/probe?mac_address=8715650f394a2cbe65336688e6ebaa22be29cc3e&opaque=302d0531df4653ea755c9057642bb83bdc6b2035
+http://assistant.pandora.xiaomi.com/config
+http://stat.duokanbox.com/tvservice/reportmessage tv消息？
+http://data.mistat.xiaomi.com:443
+127.0.0.1 dl.op.wpscdn.cn 影响wps下载
+
+127.0.0.1 ip.cms.sohu.com 疑似ip判断，暂时删除
+
+#miui-mi
+127.0.0.1 d.g.mi.com
+127.0.0.1 migc.g.mi.com
+127.0.0.1 migcreport.g.mi.com
+127.0.0.1 mis.g.mi.com
+127.0.0.1 sg.a.stat.mi.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 resolver.gslb.mi-idc.com
+
+127.0.0.1 api.tw06.xlmc.sandai.net
+127.0.0.1 pre.api.tw06.xlmc.sandai.net
+127.0.0.1 test.api.xlmc.sandai.net
+127.0.0.1 tw13b093.sandai.net
+127.0.0.1 sousuo.xm.sjzhushou.com
+
+
+127.0.0.1 staging.admin.e.mi.com
+
+127.0.0.1 security.browser.miui.com
+127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 tracking.miui.com
+
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 info.sec.miui.com
+
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 mlog.search.xiaomi.net
+127.0.0.1 union.dbba.cn
+
+
+
+#cm-ksmobile
+127.0.0.1 ads.dh.duba.com
+#cm-wps
+127.0.0.1 ad.docer.wps.cn
+127.0.0.1 docerad.wps.cn
+127.0.0.1 gou.wps.cn
+127.0.0.1 img1.mini.cache.wps.cn
+127.0.0.1 img2.mini.cache.wps.cn
+127.0.0.1 info.wps.cn
+127.0.0.1 minfo.wps.cn
+127.0.0.1 notify.wps.cn
+127.0.0.1 pcfg.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 wpsweb-dc.wps.cn
+127.0.0.1 up.wps.kingsoft.com
+127.0.0.1 bannera.kingsoft-office-service.com
+127.0.0.1 cloudservice15.kingsoft-office-service.com
+127.0.0.1 cloudservice19.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice28.kingsoft-office-service.com
+127.0.0.1 rating6.kingsoft-office-service.com
+127.0.0.1 bole.shangshufang.ksosoft.com
+127.0.0.1 ic.ksosoft.com
+127.0.0.1 pc.uf.ksosoft.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
+
+127.0.0.1 img.gou.wpscdn.cn
+127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 news.docer.com
+127.0.0.1 img.particlenews.com
+127.0.0.1 openapi.particlenews.com
+127.0.0.1 rl.go2yd.com
+127.0.0.1 o.go2yd.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 api.zhuashouji.com
+127.0.0.1 m.zhuashouji.com
+127.0.0.1 book.rdtuijian.com
+127.0.0.1 dfnews.rdtuijian.com
+127.0.0.1 ic.rdtuijian.com
+127.0.0.1 vasapi.rdtuijian.com
+127.0.0.1 a.mini.eastday.com
+127.0.0.1 mini.eastday.com
+127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 img.xingzuo360.cn
+127.0.0.1 tg.602.com
+127.0.0.1 tg.654321wan.com
+127.0.0.1 tg.7477.com
+127.0.0.1 cd.800wen.com
+127.0.0.1 www.gongzhushe.com
+127.0.0.1 www.jbaobao.com
+127.0.0.1 www.maibanu.com
+127.0.0.1 www.duba.com

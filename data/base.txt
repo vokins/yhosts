@@ -71,6 +71,7 @@
 127.0.0.1 z11.cnzz.com
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z4.cnzz.com
+127.0.0.1 w.cnzz.com
 127.0.0.1 www.cnzz.com
 #mct01
 127.0.0.1 a.mct01.com
