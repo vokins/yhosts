@@ -21,7 +21,12 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 dl.op.wpscdn.cn 影响wps下载
 
 127.0.0.1 ip.cms.sohu.com 疑似ip判断，暂时删除
+127.0.0.1 s0.mp.sohu.com
+127.0.0.1 zz.m.sohu.com
 
+127.0.0.1 gss0.bdstatic.com 知道css
+127.0.0.1 gss2.bdstatic.com
+127.0.0.1 ss0.bdstatic.com
 #miui-mi
 127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com

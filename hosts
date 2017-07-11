@@ -1,5 +1,5 @@
 
-#version=201707111431
+#version=201707111739
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -206,15 +206,6 @@
 127.0.0.1 cpu.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
-127.0.0.1 ss0.baidu.com
-127.0.0.1 ss1.baidu.com
-127.0.0.1 ss2.baidu.com
-127.0.0.1 f10.baidu.com
-127.0.0.1 f11.baidu.com
-127.0.0.1 f12.baidu.com
-127.0.0.1 gss0.bdstatic.com
-127.0.0.1 gss2.bdstatic.com
-127.0.0.1 ss0.bdstatic.com
 127.0.0.1 dcps.nuomi.com
 127.0.0.1 log.nuomi.com
 127.0.0.1 appc.baidu.com
@@ -369,13 +360,11 @@
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
 127.0.0.1 images.sohu.com
-127.0.0.1 s0.mp.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
-127.0.0.1 zz.m.sohu.com
 127.0.0.1 cjroq.bealge.sogou.com
 127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
