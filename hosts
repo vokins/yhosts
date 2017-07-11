@@ -1,5 +1,5 @@
 
-#version=201707111739
+#version=201707111750
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -5461,9 +5461,10 @@
 127.0.0.1 cmpp.gentags.net
 127.0.0.1 image.gentags.com
 127.0.0.1 imp.gentags.net
+127.0.0.1 pagechoicemotu.gentags.net
+127.0.0.1 pmptrack-letv.gentags.net
 127.0.0.1 pmptrack-yidianzixunxm.gentags.net
 127.0.0.1 pmptrack-youku.gentags.net
-127.0.0.1 pmptrack-letv.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 v-sence.gentags.net
 127.0.0.1 www.gentags.com
@@ -5706,8 +5707,10 @@
 127.0.0.1 mpush.cn
 127.0.0.1 td.mpush.cn
 127.0.0.1 admin.ninebox.cn
-127.0.0.1 motu.pagechoice.net
+127.0.0.1 col.pagechoice.net
 127.0.0.1 dap.pagechoice.net
+127.0.0.1 images.pagechoice.net
+127.0.0.1 motu.pagechoice.net
 127.0.0.1 sit.pagechoice.net
 127.0.0.1 www.pagechoice.net
 127.0.0.1 appget.cn

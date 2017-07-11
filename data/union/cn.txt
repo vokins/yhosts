@@ -1418,9 +1418,10 @@
 127.0.0.1 cmpp.gentags.net
 127.0.0.1 image.gentags.com
 127.0.0.1 imp.gentags.net
+127.0.0.1 pagechoicemotu.gentags.net
+127.0.0.1 pmptrack-letv.gentags.net
 127.0.0.1 pmptrack-yidianzixunxm.gentags.net
 127.0.0.1 pmptrack-youku.gentags.net
-127.0.0.1 pmptrack-letv.gentags.net
 127.0.0.1 sit.gentags.net
 127.0.0.1 v-sence.gentags.net
 127.0.0.1 www.gentags.com
@@ -1696,8 +1697,10 @@
 #ninebox
 127.0.0.1 admin.ninebox.cn
 #pagechoice
-127.0.0.1 motu.pagechoice.net
+127.0.0.1 col.pagechoice.net
 127.0.0.1 dap.pagechoice.net
+127.0.0.1 images.pagechoice.net
+127.0.0.1 motu.pagechoice.net
 127.0.0.1 sit.pagechoice.net
 127.0.0.1 www.pagechoice.net
 #punchbox
