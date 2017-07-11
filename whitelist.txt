@@ -1,3 +1,8 @@
 https://miuiboot.tracking.miui.com
 刷机后第一开机校验
 address=/.tracking.miui.com/0.0.0.0
+
+http://data.mistat.xiaomi.com/mistats/v2
+127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+恢复云数据时会卡住的问题
