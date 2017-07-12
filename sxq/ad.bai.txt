@@ -20,6 +20,7 @@ image.5442.com
 img.alicdn.com
 img.faloo.com
 img24.pplive.cn
+img31.pplive.cn
 img32.pplive.cn
 img33.pplive.cn
 img34.pplive.cn

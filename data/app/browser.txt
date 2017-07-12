@@ -32,6 +32,8 @@
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
+127.0.0.1 canvas.gdt.qq.com
+127.0.0.1 pms.mb.qq.com
 #http://mse.360.cn/
 127.0.0.1 mbrowser.news.haosou.com
 127.0.0.1 mbrowser.news.so.com

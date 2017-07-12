@@ -131,6 +131,7 @@
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 tian.sycbbs.com
 127.0.0.1 m.qloer.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
