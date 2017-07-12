@@ -75,5 +75,7 @@
 127.0.0.1 stats.magicwindow.cn
 #http://zhangyue.com/
 127.0.0.1 am.g.ireader.com
-127.0.0.1 push.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
+127.0.0.1 push.zhangyue.com
+127.0.0.1 sys.zhangyue.com

@@ -1,6 +1,8 @@
 ﻿http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
-
+#IReader
+0.0.0.0 sys.zhangyue.com
+0.0.0.0 m.ad.zhangyue.com
 http://pv.sohu.com/cityjson?ie=utf-8 以为是测试地区以优化播放cdn加速，暂时解除。
 http://app.aplus.pptv.com/minisite/pptvaphone/m_app_down/pg_2406
 http://uop.umeng.com:443

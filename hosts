@@ -1,5 +1,5 @@
 
-#version=201707111750
+#version=20170712 920
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1336,8 +1336,10 @@
 127.0.0.1 ad.ipadview.com
 127.0.0.1 stats.magicwindow.cn
 127.0.0.1 am.g.ireader.com
-127.0.0.1 push.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
+127.0.0.1 push.zhangyue.com
+127.0.0.1 sys.zhangyue.com
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad-android.51wnl.com
 127.0.0.1 cdn1.lbesec.com
@@ -2437,6 +2439,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 jin.tajxgs.com
 127.0.0.1 ne.cdgxq.com
 127.0.0.1 da.yxjad.com
 127.0.0.1 ge.zizcy.com

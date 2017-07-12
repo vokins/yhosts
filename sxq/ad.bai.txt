@@ -7,6 +7,7 @@ cilifuli.net
 console.qcloud.com
 download.macromedia.com
 fpdownload.macromedia.com
+g1.ykimg.com
 g3.ykimg.com
 g4.ykimg.com
 go.microsoft.com

@@ -103,6 +103,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 jin.tajxgs.com
 127.0.0.1 ne.cdgxq.com
 127.0.0.1 da.yxjad.com
 127.0.0.1 ge.zizcy.com
