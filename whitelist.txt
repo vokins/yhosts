@@ -1,7 +1,9 @@
 https://miuiboot.tracking.miui.com
 刷机后第一开机校验
 address=/.tracking.miui.com/0.0.0.0
-
+#cnblogs.com
+127.0.0.1 images2015.cnblogs.com
+http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg 影响阿里云图片
 http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com

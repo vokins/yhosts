@@ -2439,8 +2439,6 @@
 #bbs.kafan.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
-#cnblogs.com
-127.0.0.1 images2015.cnblogs.com
 #douban.com
 127.0.0.1 erebor.douban.com
 #hupu.com
