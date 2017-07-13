@@ -52,6 +52,8 @@
 127.0.0.1 click.tianyaui.com
 #xici.net
 127.0.0.1 adimgs.xici.net
+#http://m.xilu.com/
+127.0.0.1 1.xilu.com
 #zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com

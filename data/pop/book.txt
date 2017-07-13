@@ -317,6 +317,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 dm.8800271.com.cn
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
@@ -536,6 +537,8 @@
 127.0.0.1 wxmmh.net
 #m.xqingdou.com
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 e.changhehengqi.com
+127.0.0.1 c.dzytjqcc.com
 127.0.0.1 www.dgfggy.com
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.flyreading.cn
@@ -687,6 +690,7 @@
 127.0.0.1 img1.trxxn.com
 #www.tianyucangqiong1.com
 127.0.0.1 s.tianyucangqiong1.com
+127.0.0.1 s.gg0376.com
 127.0.0.1 y.5125129.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
