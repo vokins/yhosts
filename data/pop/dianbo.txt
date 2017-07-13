@@ -71,6 +71,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 www.sytcyf.com
 127.0.0.1 m.12365chia.com
 127.0.0.1 www.khxxly.com
 127.0.0.1 wap.tanwan.com
