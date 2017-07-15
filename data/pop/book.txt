@@ -1,4 +1,13 @@
 @site/book
+#http://m.xs2345.com/
+127.0.0.1 include.xs2345.com
+127.0.0.1 s.m.csefaazc.com.cn
+#www.xinqing100.net
+127.0.0.1 kyx.m.xinqing100.net
+127.0.0.1 xq.zz1000y.com
+127.0.0.1 hjfmo.chuchenqitl.com
+#m.80txt.com
+127.0.0.1 t.oq68.com
 #baidu.book.3g.cn
 127.0.0.1 www.xxeden.com
 #m.1xiaoshuo.com
@@ -233,7 +242,6 @@
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 down.bugeyu.com
-127.0.0.1 www.yxnbroot.com
 #m.chenhuiwx.org
 127.0.0.1 www.tixing51.net
 127.0.0.1 w.chnup.cn
@@ -458,6 +466,7 @@
 127.0.0.1 ayc.m.shumilou.co
 127.0.0.1 c68.asdjqoz.shumilou.co
 127.0.0.1 s56.iuqsdf.shumilou.co
+127.0.0.1 m.cindy17club.com
 127.0.0.1 s.htjsk.com
 127.0.0.1 e.ddg1277.com
 127.0.0.1 sy.sxjxhg.com
@@ -586,6 +595,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.vers80.com
 127.0.0.1 m.passwz.com
 127.0.0.1 m.netko0o.com
 127.0.0.1 m.md0z4dh.com

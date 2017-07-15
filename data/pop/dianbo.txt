@@ -6,6 +6,7 @@
 127.0.0.1 in.htjsk.com
 127.0.0.1 in.nwwap.com
 127.0.0.1 s.nwwap.com
+127.0.0.1 sc.nwwap.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #www.bdzhe.com

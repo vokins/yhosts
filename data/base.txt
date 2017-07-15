@@ -209,13 +209,6 @@
 127.0.0.1 mlb.did.ijinshan.com
 127.0.0.1 sdk.mobad.ijinshan.com
 127.0.0.1 unconf.mobad.ijinshan.com
-#wps
-127.0.0.1 uid.ksosoft.com
-127.0.0.1 event.ksosoft.com
-127.0.0.1 counter.kingsoft.com
-127.0.0.1 cloudservice13.kingsoft-office-service.com
-127.0.0.1 ups.ksmobile.net
-127.0.0.1 ws.ksmobile.net
 @base-qq
 #mstat/report
 127.0.0.1 aeventlog.beacon.qq.com

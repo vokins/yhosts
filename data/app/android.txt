@@ -130,6 +130,7 @@
 #miui-wps
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
+127.0.0.1 uid.ksosoft.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
 #mitv
