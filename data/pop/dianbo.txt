@@ -68,6 +68,7 @@
 #m.haotv8.com
 127.0.0.1 liba.haotv8.com
 127.0.0.1 lib.haotv8.com
+127.0.0.1 sl.xawjwl.com
 127.0.0.1 s.wapadv.com
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com

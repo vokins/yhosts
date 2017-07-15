@@ -1,5 +1,5 @@
 
-#version=201707152204
+#version=201707152217
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -67,6 +67,8 @@
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 e.tf.360.cn
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
 127.0.0.1 b.appjiagu.com
@@ -3489,6 +3491,7 @@
 127.0.0.1 cdn3.e705.net
 127.0.0.1 liba.haotv8.com
 127.0.0.1 lib.haotv8.com
+127.0.0.1 sl.xawjwl.com
 127.0.0.1 s.wapadv.com
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com

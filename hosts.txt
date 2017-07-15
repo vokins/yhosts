@@ -99,6 +99,8 @@
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 e.tf.360.cn
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
 #jiagu
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
@@ -4150,6 +4152,7 @@
 #m.haotv8.com
 127.0.0.1 liba.haotv8.com
 127.0.0.1 lib.haotv8.com
+127.0.0.1 sl.xawjwl.com
 127.0.0.1 s.wapadv.com
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com

@@ -16,6 +16,8 @@
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 e.tf.360.cn
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
 #jiagu
 127.0.0.1 a.appjiagu.com
 127.0.0.1 api.appjiagu.com
