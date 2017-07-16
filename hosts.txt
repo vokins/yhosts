@@ -440,7 +440,6 @@
 #sports
 127.0.0.1 2016.sina.cn
 @base-sohu
-127.0.0.1 images.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
@@ -1067,6 +1066,8 @@
 127.0.0.1 stat.pandora.xiaomi.com
 @mokee
 127.0.0.1 stats.mokeedev.com
+@xgimi.com
+127.0.0.1 analytics.xgimi.com
 @app-browser
 #http://app.2345.com/mob.htm
 127.0.0.1 2345api.dftoutiao.com
@@ -3465,6 +3466,7 @@
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
 #m.xs177.com
+127.0.0.1 e.cindy17club.com
 127.0.0.1 w.lsxmg.com
 127.0.0.1 w.cube3d.cn
 127.0.0.1 w.xayjr.cn

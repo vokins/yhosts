@@ -8,10 +8,17 @@ https://re.jd.com/cps/item/3088292.html
 127.0.0.1 canvas.gdt.qq.com
 xq.zz1000y.com/xq/banner_end.js
 127.0.0.1 cloudservice13.kingsoft-office-service.com 暂时删除
+del
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 hui.sohu.com
+127.0.0.1 info.lm.tv.sohu.com
+127.0.0.1 push.tv.sohu.com
+127.0.0.1 vstat.v.blog.sohu.com
+127.0.0.1 images.sohu.com http://images.sohu.com/saf/assets/huisuan/js/index.js?version=2925fad001
 
 js.passport.qihucdn.com/11.0.1.js?15b7d7a33e9dd085f6e52b4e62b23513":"
 https://jspassport.ssl.qhimg.com/
-
+https://acdn.adnxs.com/ast/static/0.3.8/ast.js
 http://distribute.browser.360.cn/?token=1324f0d2019cef99401f27f95f6beaef&pid=0&time=1500031521&jumpUrl=aHR0cDovL2Rldi50Zy53YW4uMzYwLmNuLz9jaGFubmVsPTUyMTI0MDA1NiZwbGFjZWlkPQ==
 http://pv.sohu.com/cityjson?ie=utf-8 以为是测试地区以优化播放cdn加速，暂时解除。
 http://app.aplus.pptv.com/minisite/pptvaphone/m_app_down/pg_2406

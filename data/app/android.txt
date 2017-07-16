@@ -141,3 +141,5 @@
 127.0.0.1 stat.pandora.xiaomi.com
 @mokee
 127.0.0.1 stats.mokeedev.com
+@xgimi.com
+127.0.0.1 analytics.xgimi.com

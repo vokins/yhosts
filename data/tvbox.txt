@@ -82,13 +82,8 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 888.tv.sohu.com
 127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 download.wan.sohu.com
-127.0.0.1 hui.sohu.com
-127.0.0.1 info.lm.tv.sohu.com
-127.0.0.1 push.tv.sohu.com
-127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 sohu.irs01.com
 #youku

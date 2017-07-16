@@ -1,5 +1,5 @@
 
-#version=201707152217
+#version=201707162111
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -355,7 +355,6 @@
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
-127.0.0.1 images.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
@@ -900,6 +899,7 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 stats.mokeedev.com
+127.0.0.1 analytics.xgimi.com
 127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 2345apicode.dftoutiao.com
 127.0.0.1 houtai.2345.com
@@ -2860,6 +2860,7 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
+127.0.0.1 e.cindy17club.com
 127.0.0.1 w.lsxmg.com
 127.0.0.1 w.cube3d.cn
 127.0.0.1 w.xayjr.cn
@@ -6622,13 +6623,8 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 888.tv.sohu.com
 127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 download.wan.sohu.com
-127.0.0.1 hui.sohu.com
-127.0.0.1 info.lm.tv.sohu.com
-127.0.0.1 push.tv.sohu.com
-127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 sohu.irs01.com
 127.0.0.1 ad.api.3g.tudou.com

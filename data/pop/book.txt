@@ -562,6 +562,7 @@
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
 #m.xs177.com
+127.0.0.1 e.cindy17club.com
 127.0.0.1 w.lsxmg.com
 127.0.0.1 w.cube3d.cn
 127.0.0.1 w.xayjr.cn
