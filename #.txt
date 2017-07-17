@@ -16,6 +16,14 @@ del
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 images.sohu.com http://images.sohu.com/saf/assets/huisuan/js/index.js?version=2925fad001
 
+
+#辽宁联通HTTP劫持
+127.0.0.1 sspapi.youxiaoad.com
+127.0.0.1 c.35kds.com
+127.0.0.1 s.35kds.com
+127.0.0.1 s.6travel.com
+127.0.0.1 shama5.com
+
 js.passport.qihucdn.com/11.0.1.js?15b7d7a33e9dd085f6e52b4e62b23513":"
 https://jspassport.ssl.qhimg.com/
 https://acdn.adnxs.com/ast/static/0.3.8/ast.js

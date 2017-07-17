@@ -1,5 +1,5 @@
 
-#version=201707162111
+#version=201707172058
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -790,6 +790,11 @@
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
 127.0.0.1 g.w5b454.com
+127.0.0.1 sspapi.youxiaoad.com
+127.0.0.1 c.35kds.com
+127.0.0.1 s.35kds.com
+127.0.0.1 s.6travel.com
+127.0.0.1 shama5.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2444,6 +2449,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 zhong.hqgjcm.com
 127.0.0.1 jin.tajxgs.com
 127.0.0.1 ne.cdgxq.com
 127.0.0.1 da.yxjad.com
