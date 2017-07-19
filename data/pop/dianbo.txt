@@ -7,6 +7,7 @@
 127.0.0.1 in.nwwap.com
 127.0.0.1 s.nwwap.com
 127.0.0.1 sc.nwwap.com
+127.0.0.1 bt641499.gotoip4.com
 #bt.kltvv.com
 127.0.0.1 js.lieqitianxia.cn
 #www.bdzhe.com

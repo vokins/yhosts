@@ -422,6 +422,9 @@
 127.0.0.1 cp.5jjx.net
 127.0.0.1 vip.xjidian.com
 #m.shenshuw.com
+127.0.0.1 s.zsxpx.com
+127.0.0.1 in.zsxpx.com
+127.0.0.1 sc.zsxpx.com
 127.0.0.1 m.025suyu.com
 127.0.0.1 m.24haitao.net
 127.0.0.1 in.hkfuy.com
@@ -583,6 +586,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
+127.0.0.1 slb.yinzantouzi.com
 127.0.0.1 slb.jiehantai.com
 127.0.0.1 www.cnzhqs.com
 127.0.0.1 e.feifish66.com
