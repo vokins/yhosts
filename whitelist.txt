@@ -25,7 +25,7 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 ip.cms.sohu.com ÒÉËÆipÅĞ¶Ï£¬ÔİÊ±É¾³ı
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 zz.m.sohu.com
-
+127.0.0.1 you.ctrip.com
 127.0.0.1 gss0.bdstatic.com ÖªµÀcss
 127.0.0.1 gss2.bdstatic.com
 127.0.0.1 ss0.bdstatic.com
