@@ -7,6 +7,8 @@
 #m.cn.nytimes.com
 127.0.0.1 cdn.krxd.net
 @site-foregin/sns
+#facebook
+127.0.0.1 connect.facebook.net
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
 #wp.com

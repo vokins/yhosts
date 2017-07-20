@@ -1,5 +1,16 @@
-﻿http://union-click.jd.com/jdc?e=
+﻿http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
+https://bu01.zybang.com/aeycbycerddwruuycx.js
+https://bu02.zybang.com/kxf?dae=vrt&sez=pqqt&ze=iqxrxpso&hpq=YhhdgQryQq3Qq3kkkQOnmSRbXQOTcaQq3eiVghZcbQq3uwwRqtpuvprtSVwxrSqrSqUtqpwWvqtVQOYha.&wjp=p&zeo=o&atlo=pppoop&wne=q&zpi=5HA9ODCGH&zy=q&lnkp=q&pln=ptootssustpxt&4910=tei5kskc1eoxaqt1emi
+
+这个是fb的广告地址
+https://connect.facebook.net/en_US/fbadnw.js 
+
+http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
+127.0.0.1 re.m.jd.com
+127.0.0.1 union-click.jd.com
+127.0.0.1 union.click.jd.com
+127.0.0.1 union.m.jd.com
 #IReader
 0.0.0.0 sys.zhangyue.com
 0.0.0.0 m.ad.zhangyue.com

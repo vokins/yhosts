@@ -112,6 +112,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 wu.dbwmjj.com
 127.0.0.1 zhong.hqgjcm.com
 127.0.0.1 jin.tajxgs.com
 127.0.0.1 ne.cdgxq.com
@@ -326,6 +327,7 @@
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
 #m.nenzei.net
+127.0.0.1 js412.hot-eam.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
