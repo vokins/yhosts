@@ -18,7 +18,6 @@ https://re.jd.com/cps/item/3088292.html
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 canvas.gdt.qq.com
 xq.zz1000y.com/xq/banner_end.js
-127.0.0.1 cloudservice13.kingsoft-office-service.com 暂时删除
 del
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 hui.sohu.com

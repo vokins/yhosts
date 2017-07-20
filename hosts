@@ -1,5 +1,5 @@
 
-#version=201707201802
+#version=201707201807
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -890,6 +890,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 cloudservice13.kingsoft-office-service.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
