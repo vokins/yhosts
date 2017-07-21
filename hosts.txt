@@ -261,6 +261,7 @@
 127.0.0.1 ubmcmm.baidustatic.com
 #baidu-news
 127.0.0.1 cpu.baidu.com
+127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
 #baidu-map
@@ -452,6 +453,7 @@
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
 127.0.0.1 ejzr.golden1.sogou.com
+127.0.0.1 feed.theta.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
