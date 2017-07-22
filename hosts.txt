@@ -453,7 +453,6 @@
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
 127.0.0.1 ejzr.golden1.sogou.com
-127.0.0.1 feed.theta.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
@@ -3384,6 +3383,7 @@
 127.0.0.1 ayc.m.shumilou.co
 127.0.0.1 c68.asdjqoz.shumilou.co
 127.0.0.1 s56.iuqsdf.shumilou.co
+127.0.0.1 s.aikan6.com
 127.0.0.1 m.cindy17club.com
 127.0.0.1 s.htjsk.com
 127.0.0.1 e.ddg1277.com
@@ -3480,6 +3480,8 @@
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
 #m.xs177.com
+127.0.0.1 w.yamaidei.cn
+127.0.0.1 in.aikan6.com
 127.0.0.1 e.cindy17club.com
 127.0.0.1 w.lsxmg.com
 127.0.0.1 w.cube3d.cn

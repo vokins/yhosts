@@ -370,7 +370,6 @@
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
 127.0.0.1 ejzr.golden1.sogou.com
-127.0.0.1 feed.theta.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
