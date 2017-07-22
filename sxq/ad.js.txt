@@ -4,7 +4,6 @@ http://m.5442.com/style/warp/js/mpads5442.js
 http://m.biquge.com.tw/wap/skin/wap.js
 http://m.biqumo.com/js/wap.js
 http://m.bxwx9.org/mjs/wap.js
-http://m.kewaishu.org/ad1/wap.js
 http://m.lanseshuba.com/js/fc3.js
 http://m.lanseshuba.com/js/fc2.js
 http://m.lanseshuba.com/js/fc1.js
@@ -27,7 +26,6 @@ http://s.faloo.com/wap/js/piaofu2016.js
 http://wap.xxbiquge.com/js/common.js
 http://m.txt99.cc/Public/m/script/common.js
 http://m.927xs.com/wap/qijixs/zhongwen.js
-http://icili.org/js/my-index.js
 http://m.76long.com/521/BOT.js
 http://m.76long.com/521/Head.js
 http://m.76long.com/521/TOP.JS
