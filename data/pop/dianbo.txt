@@ -1,4 +1,6 @@
 @site/dianbo
+#http://www.80dsw.com/
+127.0.0.1 ts.lelexw.com
 #www.tianxin209.cn
 127.0.0.1 img1.rzcyx.com
 127.0.0.1 img2.rzcyx.com
