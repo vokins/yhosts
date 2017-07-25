@@ -1,3 +1,5 @@
+http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou image
+
 https://miuiboot.tracking.miui.com
 刷机后第一开机校验
 address=/.tracking.miui.com/0.0.0.0

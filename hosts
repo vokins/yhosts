@@ -1,5 +1,5 @@
 
-#version=201707242221
+#version=201707251141
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -973,7 +973,6 @@
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 mad.m.maxthon.cn
 127.0.0.1 allnews.uodoo.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
 127.0.0.1 iflow.uczzd.com

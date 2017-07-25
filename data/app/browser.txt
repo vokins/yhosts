@@ -81,7 +81,6 @@
 127.0.0.1 mad.m.maxthon.cn
 #http://www.uc.cn/
 127.0.0.1 allnews.uodoo.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 iflow.uczzd.cn
 127.0.0.1 iflow.uczzd.com
