@@ -3053,6 +3053,7 @@
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 m.biquzi.com
 127.0.0.1 tian.sycbbs.com
 127.0.0.1 m.qloer.com
 127.0.0.1 e.clubske.com
@@ -4151,7 +4152,6 @@
 127.0.0.1 show.niqiu99.org
 127.0.0.1 slb.cybaoxian.com
 127.0.0.1 vv.jiedubang.cn
-127.0.0.1 wd.geilicdn.com
 127.0.0.1 weldimg.pnaea.com
 127.0.0.1 www.shanruibie.cn
 127.0.0.1 zzz7.52896368.com

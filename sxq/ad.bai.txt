@@ -55,6 +55,7 @@ t.cn
 t.shuotxts.com
 tv.sohu.com
 wap.faloo.com
+wd.geilicdn.com
 weidian.com
 wpa.qq.com
 ww1.sinaimg.cn
