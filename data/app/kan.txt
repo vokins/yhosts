@@ -123,3 +123,6 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+#http://www.xigua.com/
+127.0.0.1 adv2.downsave.com
+127.0.0.1 info.downsave.com

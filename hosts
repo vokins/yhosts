@@ -1,5 +1,5 @@
 
-#version=201707281340
+#version=201707282204
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1133,6 +1133,8 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+127.0.0.1 adv2.downsave.com
+127.0.0.1 info.downsave.com
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
@@ -4228,6 +4230,8 @@
 127.0.0.1 tu.59jd.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 serve.popads.net
+127.0.0.1 www.xiacai.com
+127.0.0.1 p.kf3msfm.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com

@@ -190,3 +190,5 @@
 127.0.0.1 tu.59jd.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 serve.popads.net
+127.0.0.1 www.xiacai.com
+127.0.0.1 p.kf3msfm.com

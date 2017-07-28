@@ -1348,6 +1348,9 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+#http://www.xigua.com/
+127.0.0.1 adv2.downsave.com
+127.0.0.1 info.downsave.com
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -4990,6 +4993,8 @@
 127.0.0.1 tu.59jd.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 serve.popads.net
+127.0.0.1 www.xiacai.com
+127.0.0.1 p.kf3msfm.com
 @union-cn
 #163
 127.0.0.1 adgeo.163.com
