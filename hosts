@@ -1,5 +1,5 @@
 
-#version=201707282204
+#version=201707282216
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2879,6 +2879,8 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 db.dghrwj.com
 127.0.0.1 crtl.322927.com
+127.0.0.1 m.jollyspring.com
+127.0.0.1 e.jollyspring.com
 127.0.0.1 s.jxhcyc.com
 127.0.0.1 in.jxhcyc.com
 127.0.0.1 w.yamaidei.cn
@@ -2915,6 +2917,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 yao.ccmdgg.com
 127.0.0.1 m.comesgo.com
 127.0.0.1 m.vers80.com
 127.0.0.1 m.passwz.com
