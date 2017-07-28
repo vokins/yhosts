@@ -2909,6 +2909,8 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 @site/book
+#www.jlgxhq.com
+127.0.0.1 sc.jxhcyc.com
 #http://m.xs2345.com/
 127.0.0.1 include.xs2345.com
 127.0.0.1 s.m.csefaazc.com.cn
@@ -3022,6 +3024,7 @@
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
 #m.37zw.com
+127.0.0.1 me.myycrw.com
 127.0.0.1 shen.zgfszs.com
 127.0.0.1 wu.dbwmjj.com
 127.0.0.1 zhong.hqgjcm.com
@@ -3506,6 +3509,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
 #s.dzz8.com
+127.0.0.1 slb.upshengyi.com
 127.0.0.1 slb.yinzantouzi.com
 127.0.0.1 slb.jiehantai.com
 127.0.0.1 www.cnzhqs.com
@@ -4188,6 +4192,7 @@
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
 #m.kankanwu.com
+127.0.0.1 g.szdn1ms.com
 127.0.0.1 www.sytcyf.com
 127.0.0.1 m.12365chia.com
 127.0.0.1 www.khxxly.com
