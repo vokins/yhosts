@@ -1,5 +1,5 @@
 
-#version=201707282216
+#version=201707291159
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -6453,6 +6453,13 @@
 127.0.0.1 p215223.clksite.com
 127.0.0.1 p215223.mycdn2.co
 127.0.0.1 www.onclicktop.com
+127.0.0.1 lbstatic-a.akamaihd.net
+127.0.0.1 pix.tagcdn.com
+127.0.0.1 serving.bepolite.eu
+127.0.0.1 static.bepolite.eu
+127.0.0.1 s1.adform.net
+127.0.0.1 track.adform.net
+127.0.0.1 www.tradeadexchange.com
 127.0.0.1 adinfo.aol.com
 127.0.0.1 b.aol.com
 127.0.0.1 o.sa.aol.com

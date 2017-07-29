@@ -11,6 +11,19 @@ http://info.downsave.com/geturls.php
 这个是fb的广告地址
 https://connect.facebook.net/en_US/fbadnw.js 
 
+https://www.upload.ee/files/7279250/setup_CN_2052_10.8.0.6206_Professional_VBA.exe.html
+
+
+https://lbstatic-a.akamaihd.net/push.gif?r=188447&iid=1501300033071938204342785160674093&cid=87388731&sv=10700000000&cv=60704000000&co=CN&rg=41&ct=41%7CLuoyang&pk=1000&bw=Chrome&bv=55&pl=Windows&pv=7&iso=China+Unicom+Liaoning&ip=42.224.230.27&ctp=3&t1=854&t2=4.5&t3=29&t4=1746&t5=38&t6=15101&et=2&sd=0
+https://pix.tagcdn.com/ii/et_ee/_2715/1000x300/general/acf6c327/zdztv3277214/?kid=0496ee6b9817a8bbba7b234aab969de08b1ff918
+https://s1.adform.net/banners/scripts/adx.js
+https://s7.addthis.com/static/btn/lg-share-en.gif
+https://serving.bepolite.eu/script?space=50dd7b0f-4105-441f-8f60-18cc3fcb090c&type=onload&page_id=5832313&screen_width=1182&screen_height=517&os=Win32&refurl=http%3A%2F%2Fbbs.kafan.cn%2Fthread-2097715-1-1.html&pageurl=https%3A%2F%2Fwww.upload.ee%2Ffiles%2F7279250%2Fsetup_CN_2052&rnd=1501300033073&_=1501300042418
+https://static.bepolite.eu/banners/039d3944-2a6c-4109-96ac-a05de059320f/1000x300_ET_2974-slim-tkr-cta_86d1b525.jpg
+https://track.adform.net/adfserve/?bn=18494349;1x1inv=1;srctype=3;ord=4605494
+https://www.tradeadexchange.com/a/display.php?r=188447
+https://s1.adform.net/banners/scripts/adx.js
+
 http://union-click.jd.com/jdc?e=
 https://re.jd.com/cps/item/3088292.html
 127.0.0.1 re.m.jd.com
