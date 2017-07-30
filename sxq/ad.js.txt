@@ -1,7 +1,6 @@
 http://m.1xiaoshuo.com/js/common.js
 http://m.37zw.net/js/wap.js
 http://m.5442.com/style/warp/js/mpads5442.js
-http://m.biquge.com.tw/wap/skin/wap.js
 http://m.biqumo.com/js/wap.js
 http://m.bxwx9.org/mjs/wap.js
 http://m.lanseshuba.com/js/fc3.js
@@ -34,7 +33,6 @@ http://www.00sy.com/Skin/Default/js/funcs.js
 http://www.smdy66.com/js/ggb.js
 http://www.tianyucangqiong1.com/static/js/up.js
 http://m.hmrenti.net/about/float.js
-http://cilifuli.com/
 http://cilidaquan.me/
 http://m.meijukankan.net/
 http://www.tianxin209.cn/
@@ -42,4 +40,4 @@ https://www.shenmidizhi.com/static/adm.js
 http://m.ikankanwu.com/xuxu/xuli.js
 http://m.ikankanwu.com/xuxu/hui.js
 http://www.jlgxhq.com/tj123.js
-http://m.80txt.com/images/page.js
+http://m.80txt.com/js/book.js

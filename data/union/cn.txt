@@ -1451,6 +1451,7 @@
 127.0.0.1 tags.growingio.com
 #guomob
 127.0.0.1 c1.guomob.com
+127.0.0.1 code.guomob.com
 127.0.0.1 guomob.com
 127.0.0.1 pic.guomob.com
 127.0.0.1 t3.guomob.com
@@ -1517,14 +1518,18 @@
 127.0.0.1 kejet.com
 127.0.0.1 www.kejet.com
 #keydot
+127.0.0.1 keydot.net
 127.0.0.1 s5.keydot.net
+127.0.0.1 www.keydot.net
 #keyrun
 127.0.0.1 linkpage.cn
+127.0.0.1 t.linkpage.cn
 127.0.0.1 www.51link.com
 127.0.0.1 c1.ulink.cc
 127.0.0.1 ulink.cc
 127.0.0.1 www.ulink.cc
 127.0.0.1 keyrun.cn
+127.0.0.1 c1.keyrun.cn
 127.0.0.1 www.keyrun.cn
 127.0.0.1 keyrun.com
 127.0.0.1 www.keyrun.com

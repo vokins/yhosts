@@ -1,5 +1,0 @@
-@site/gif
-#www.asqql.com
-127.0.0.1 jb.asqql.com
-127.0.0.1 ss.cnczjy.com
-127.0.0.1 ms.cnczjy.com

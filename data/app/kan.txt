@@ -45,6 +45,10 @@
 127.0.0.1 log1.molitv.cn
 127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
+#OpenSubtitles.org
+127.0.0.1 ads2.opensubtitles.org
+#http://www.tiantiankan123.com/
+127.0.0.1 item.ttkvod.com
 #http://www.wasu.cn/
 127.0.0.1 ads.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
@@ -123,6 +127,3 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
-#http://www.xigua.com/
-127.0.0.1 adv2.downsave.com
-127.0.0.1 info.downsave.com

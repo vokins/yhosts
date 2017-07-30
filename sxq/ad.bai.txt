@@ -29,6 +29,8 @@ ip.ws.126.net
 itunes.apple.com
 js.passport.qihucdn.com
 jspassport.ssl.qhimg.com
+libs.baidu.com
+libs.tvmao.cn
 m.37zw.net
 m.5442.com
 m.bookben.com

@@ -11,6 +11,8 @@
 #http://pinyin.sogou.com/
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com
+#http://sopcast.references.tv/
+127.0.0.1 addl.sopcast.cn
 #http://www.vidown.cn/
 127.0.0.1 cc.vidown.cn
 127.0.0.1 conf.vidown.cn
@@ -20,5 +22,9 @@
 127.0.0.1 tj.vidown.cn
 #http://www.winrar.com.cn/
 127.0.0.1 ad.winrar.com.cn
-#http://sopcast.references.tv/
-127.0.0.1 addl.sopcast.cn
+#http://www.xigua.com/
+127.0.0.1 adv2.downsave.com
+127.0.0.1 info.downsave.com
+#http://www.jjvod.com/
+127.0.0.1 mini.jijiplayer.com
+127.0.0.1 txtad.jijiplayer.com
