@@ -17,7 +17,6 @@
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 news.push.126.net
-127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 #163-netease
 127.0.0.1 analytics.hz.netease.com

@@ -1,5 +1,6 @@
 @popup
 127.0.0.1 014.guangdongjiayue.com
+127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
 127.0.0.1 1234xm.com
@@ -19,9 +20,6 @@
 127.0.0.1 888.jiuwanwang.com
 127.0.0.1 9990.spqsd.com
 127.0.0.1 99qqc.com
-127.0.0.1 1.chcx.cn
-127.0.0.1 code.ttpaper.com
-127.0.0.1 ai.xinju.cc
 127.0.0.1 9pkw.com
 127.0.0.1 a.198banjia.com
 127.0.0.1 a.baiy.net
@@ -42,6 +40,7 @@
 127.0.0.1 aec.shjk123.net
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 affiliategroove.com
+127.0.0.1 ai.xinju.cc
 127.0.0.1 aidaban.shushijiameng123.com
 127.0.0.1 ajax-googleapis.chexinet.com
 127.0.0.1 ajialive.com
@@ -129,6 +128,7 @@
 127.0.0.1 code.3shangyou.com
 127.0.0.1 code.gutun.net
 127.0.0.1 code.jojomu.com
+127.0.0.1 code.ttpaper.com
 127.0.0.1 code.wantaico.com
 127.0.0.1 count.qiqipower.com
 127.0.0.1 cp.ggyapp.com
@@ -537,6 +537,7 @@
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
 127.0.0.1 m.ucxxii.com
+127.0.0.1 m.uerzyr.cn
 127.0.0.1 m.umyai.com
 127.0.0.1 m.uzpmrbek.com
 127.0.0.1 m.vers80.com
