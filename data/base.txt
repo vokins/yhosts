@@ -322,6 +322,7 @@
 #sina-iask
 127.0.0.1 dd.iask.cn
 127.0.0.1 dd.iaskgo.com
+127.0.0.1 d1.mobaders.com
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 c.zlongad.com
@@ -580,6 +581,8 @@
 127.0.0.1 s.ddstu.com
 127.0.0.1 rc.fthcz.com
 127.0.0.1 s.fthcz.com
+127.0.0.1 s.gyeet.com
+127.0.0.1 in.gyeet.com
 127.0.0.1 in.gqswg.com
 127.0.0.1 s.gqswg.com
 127.0.0.1 in.hkfuy.com
@@ -658,6 +661,7 @@
 127.0.0.1 js470.doupuer.com
 127.0.0.1 js3555.hongtaidichan.net
 127.0.0.1 js4476.hongtaidichan.net
+127.0.0.1 js4775.hongtaidichan.net
 127.0.0.1 js205.lytubaobao.com
 127.0.0.1 js439.lytubaobao.com
 127.0.0.1 js89.lytubaobao.com
@@ -674,6 +678,7 @@
 127.0.0.1 js883.szfm1.com
 127.0.0.1 s883.szfm1.com
 127.0.0.1 js3555.tiangu99.com
+127.0.0.1 js4775.tiangu99.com
 127.0.0.1 js5540.tiangu99.com
 127.0.0.1 js1597.tongqing2015.com
 127.0.0.1 js2777.tongqing2015.com
@@ -748,6 +753,10 @@
 127.0.0.1 tz.1688988.com
 127.0.0.1 b.175bar.com
 127.0.0.1 s.175bar.com
+127.0.0.1 h1.18sd.cn
+127.0.0.1 h2.18sd.cn
+127.0.0.1 1.21shebao.com
+127.0.0.1 2.21shebao.com
 127.0.0.1 268mob.cn
 127.0.0.1 www.268mob.cn
 127.0.0.1 scimg.27admin.com
@@ -755,6 +764,10 @@
 127.0.0.1 ujs.27admin.com
 127.0.0.1 download.350.com
 127.0.0.1 ldy.350.com
+127.0.0.1 rc.376zf.com
+127.0.0.1 s.376zf.com
+127.0.0.1 tj.51ads.com
+127.0.0.1 www.51ads.com
 127.0.0.1 pic.51vipedu.com
 127.0.0.1 www.51vipedu.com
 127.0.0.1 img2.578965.com
@@ -769,7 +782,9 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 vip.7huoguo.com
+127.0.0.1 vip2.7huoguo.com
 127.0.0.1 vip3.7huoguo.com
+127.0.0.1 vip6.7huoguo.com
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
@@ -777,6 +792,8 @@
 127.0.0.1 p6.95558000.com
 127.0.0.1 p7.95558000.com
 127.0.0.1 p8.95558000.com
+127.0.0.1 img.9ads.net
+127.0.0.1 js.9ads.net
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 js.adxkj.com
@@ -798,6 +815,8 @@
 127.0.0.1 xzl.caip2y.com
 127.0.0.1 cc.ccg51.win
 127.0.0.1 ccg51.win
+127.0.0.1 g.chinapxg.com
+127.0.0.1 p.chinapxg.com
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
@@ -817,6 +836,8 @@
 127.0.0.1 m.dante2007.com
 127.0.0.1 fp.dasheng100.com
 127.0.0.1 hp.dasheng100.com
+127.0.0.1 img752.de92.com
+127.0.0.1 imgcdn.de92.com
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 dd.m.dingdianzw.com
 127.0.0.1 dm76.dingon.com
@@ -836,6 +857,8 @@
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 ju.fqjsjj.com
 127.0.0.1 p.fqjsjj.com
+127.0.0.1 db1.fuz.cc
+127.0.0.1 db2.fuz.cc
 127.0.0.1 js.goodemc.com
 127.0.0.1 nba.goodemc.com
 127.0.0.1 image.haiyunx.com
@@ -905,6 +928,8 @@
 127.0.0.1 maishoubaidu.laishai.net
 127.0.0.1 hh.livehapp.com
 127.0.0.1 ll.livehapp.com
+127.0.0.1 jb.mbaidu.top
+127.0.0.1 js.mbaidu.top
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip2.media8.cn
 127.0.0.1 b.meiliyue.top
@@ -919,6 +944,10 @@
 127.0.0.1 zhidao.baidu.com.mjjdfl.com
 127.0.0.1 z2.mmxcy.com
 127.0.0.1 z3.mmxcy.com
+127.0.0.1 fpb.mn586.com
+127.0.0.1 fpbjiansuo.mn586.com
+127.0.0.1 jb.mnkan.com
+127.0.0.1 js.mnkan.com
 127.0.0.1 846.move7.com
 127.0.0.1 w6061.move7.com
 127.0.0.1 c.msltzer.cn
@@ -962,6 +991,12 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
+127.0.0.1 xco.qwxcs.com
+127.0.0.1 xji.qwxcs.com
+127.0.0.1 c.rexuebi.com
+127.0.0.1 d.rexuebi.com
+127.0.0.1 c1.sxxjdz.com
+127.0.0.1 s1.sxxjdz.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 images.taboola.com
 127.0.0.1 trc.taboola.com
@@ -982,6 +1017,8 @@
 127.0.0.1 t2.ugg66.com
 127.0.0.1 ias816.ujikdd041o.cn
 127.0.0.1 sas816.ujikdd041o.cn
+127.0.0.1 526d.uunice.com
+127.0.0.1 526dimg.uunice.com
 127.0.0.1 vduswjwfcexa.com
 127.0.0.1 www.vduswjwfcexa.com
 127.0.0.1 imges.wu65.com
@@ -1014,6 +1051,8 @@
 127.0.0.1 w.yunluge.com
 127.0.0.1 s.yylys.com
 127.0.0.1 v.yylys.com
+127.0.0.1 mvip.zhuba8.com
+127.0.0.1 vip.zhuba8.com
 127.0.0.1 kd.zzhengre.com
 127.0.0.1 wejs.zzhengre.com
 127.0.0.1 st.zzhyyj.com

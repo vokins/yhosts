@@ -1852,6 +1852,10 @@
 127.0.0.1 push.wapx.cn
 127.0.0.1 wapscdn.wapx.cn
 127.0.0.1 wapx.cn
+#wauee.com
+127.0.0.1 api.anti.wauee.com
+127.0.0.1 stat.wauee.com
+127.0.0.1 static.wauee.com
 #wgnlz.com
 127.0.0.1 cacaca.wgnlz.com
 127.0.0.1 wgn.wgnlz.com

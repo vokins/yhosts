@@ -1,4 +1,10 @@
-﻿http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
+﻿#miui-browser
+127.0.0.1 mb.yidianzixun.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 r.browser.miui.com
+127.0.0.1 reader.browser.miui.com
+
+http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
 https://bu01.zybang.com/aeycbycerddwruuycx.js
 https://bu02.zybang.com/kxf?dae=vrt&sez=pqqt&ze=iqxrxpso&hpq=YhhdgQryQq3Qq3kkkQOnmSRbXQOTcaQq3eiVghZcbQq3uwwRqtpuvprtSVwxrSqrSqUtqpwWvqtVQOYha.&wjp=p&zeo=o&atlo=pppoop&wne=q&zpi=5HA9ODCGH&zy=q&lnkp=q&pln=ptootssustpxt&4910=tei5kskc1eoxaqt1emi
 

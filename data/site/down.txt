@@ -30,6 +30,8 @@
 #kxbeta.com
 127.0.0.1 c.kxbeta.com
 127.0.0.1 d.kxbeta.com
+#m.499.cn
+127.0.0.1 dps.499.cn
 #m.apkpure.com
 127.0.0.1 disqusads.com
 #m.muzisoft.com
@@ -46,6 +48,10 @@
 #m.qqtn.com
 127.0.0.1 a1.5h.com
 127.0.0.1 show.5h.com
+#m.shouji56.com
+127.0.0.1 dps.shouji56.com
+127.0.0.1 ujake.shouji56.com
+127.0.0.1 uqd168.shouji56.com
 #m.shuaji.com
 127.0.0.1 p.abcache.com
 127.0.0.1 s.abcache.com
