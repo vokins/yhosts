@@ -1884,7 +1884,12 @@
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
-#cctv
+#http://app.cctv.com/appkhdxz/ydb/index.shtml
+127.0.0.1 mdrecv.app.cntvwb.cn
+127.0.0.1 sdapprecv.app.cntvwb.cn
+127.0.0.1 vdapprecv.app.cntvwb.cn
+127.0.0.1 cws-cctv.conviva.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com

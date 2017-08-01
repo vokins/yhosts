@@ -1,5 +1,5 @@
 
-#version=201708011323
+#version=201708012140
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1678,6 +1678,11 @@
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
+127.0.0.1 mdrecv.app.cntvwb.cn
+127.0.0.1 sdapprecv.app.cntvwb.cn
+127.0.0.1 vdapprecv.app.cntvwb.cn
+127.0.0.1 cws-cctv.conviva.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
