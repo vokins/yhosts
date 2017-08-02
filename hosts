@@ -1,5 +1,5 @@
 
-#version=201708012202
+#version=201708022142
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4192,6 +4192,9 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 zz12x.net
 127.0.0.1 zzz7.52896368.com
+127.0.0.1 m.yisloda.com
+127.0.0.1 rang.cdqjmc.com
+127.0.0.1 www.flwja.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 crashlytics.163.com
