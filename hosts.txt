@@ -1672,6 +1672,10 @@
 127.0.0.1 test.e.ad.xiaomi.com
 #miui--1
 127.0.0.1 shenghuo.xiaomi.com
+#miui-browser
+127.0.0.1 mb.yidianzixun.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 r.browser.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
 #miui-file
@@ -1931,6 +1935,7 @@
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 xtrader-mipdx.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
@@ -4280,6 +4285,7 @@
 127.0.0.1 m.wuhcontrol.com
 127.0.0.1 m.xul478.com
 127.0.0.1 m.ycsensornet.com
+127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.zzczfreewifi.com
@@ -4385,6 +4391,7 @@
 127.0.0.1 qu.geryi.com
 127.0.0.1 r.14244.com
 127.0.0.1 r.5207470.com
+127.0.0.1 rang.cdqjmc.com
 127.0.0.1 rbjs.chinassp.cn
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rc.szfaq.com
@@ -4440,6 +4447,7 @@
 127.0.0.1 s.yanpoly.com
 127.0.0.1 s.yfycy.com
 127.0.0.1 s.yy58ju.com
+127.0.0.1 s.zjhoudao.com
 127.0.0.1 s.ztxbd.com
 127.0.0.1 s.zzrcz.com
 127.0.0.1 s1.9sfang.com
@@ -4695,6 +4703,7 @@
 127.0.0.1 www.duocpa1.cn
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 www.esptj.com
+127.0.0.1 www.flwja.com
 127.0.0.1 www.founseezb.cn
 127.0.0.1 www.fu68.com
 127.0.0.1 www.gouzhibao.cn
@@ -4827,9 +4836,6 @@
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 zz12x.net
 127.0.0.1 zzz7.52896368.com
-127.0.0.1 m.yisloda.com
-127.0.0.1 rang.cdqjmc.com
-127.0.0.1 www.flwja.com
 @union-cn
 #163
 127.0.0.1 adgeo.163.com

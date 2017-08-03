@@ -1,8 +1,4 @@
-﻿#miui-browser
-127.0.0.1 mb.yidianzixun.com
-127.0.0.1 hot.browser.miui.com
-127.0.0.1 r.browser.miui.com
-127.0.0.1 reader.browser.miui.com
+﻿127.0.0.1 reader.browser.miui.com
 
 http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
 https://bu01.zybang.com/aeycbycerddwruuycx.js

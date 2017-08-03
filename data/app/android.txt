@@ -108,6 +108,10 @@
 127.0.0.1 test.e.ad.xiaomi.com
 #miui--1
 127.0.0.1 shenghuo.xiaomi.com
+#miui-browser
+127.0.0.1 mb.yidianzixun.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 r.browser.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
 #miui-file
