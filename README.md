@@ -1,6 +1,7 @@
 
 ## 捐赠 Donate
 |  AliPay  |  WeChat  |    QQ    |  PayPal  |
+| -------- | -------- | -------- | -------- |
 |   ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)   |   ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)   |   ![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)   |   [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal")  |
 |  支付宝  |   微信   |    QQ    |  PayPal  |  
 
