@@ -1,9 +1,8 @@
 
 ## 捐赠 Donate
-|  AliPay  |  WeChat  |    QQ    |  PayPal  |
+|  支付宝  |   微信   |    QQ    |  PayPal  |
 | -------- | -------- | -------- | -------- |
-|   ![支付宝](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)   |   ![微信](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)   |   ![QQ](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png)   |   [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal")  |
-|  支付宝  |   微信   |    QQ    |  PayPal  |  
+| ![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png) (HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "") | ![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png) (wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx "") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal")  |
 
 
 我会把捐赠给我的款项用于吃喜家德，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
