@@ -1,5 +1,5 @@
 
-#version=201708052108
+#version=201708052310
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4048,6 +4048,7 @@
 127.0.0.1 www.a0b11.com
 127.0.0.1 www.a0c77.com
 127.0.0.1 www.ads80.com
+127.0.0.1 www.ahyuns.com
 127.0.0.1 www.ailicee.com
 127.0.0.1 www.appfh.com
 127.0.0.1 www.baidu.com.cyad456.com
@@ -4098,6 +4099,7 @@
 127.0.0.1 www.legozu.com
 127.0.0.1 www.lessplay.com
 127.0.0.1 www.lhafy.com
+127.0.0.1 www.lhzgqc.com
 127.0.0.1 www.liangao.com
 127.0.0.1 www.lx167.com
 127.0.0.1 www.lynndollin.com

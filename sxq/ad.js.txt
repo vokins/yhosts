@@ -39,5 +39,6 @@ http://www.tianxin209.cn/
 https://www.shenmidizhi.com/static/adm.js
 http://m.ikankanwu.com/xuxu/xuli.js
 http://m.ikankanwu.com/xuxu/hui.js
+http://m.ikankanwu.com/xuxu/xuxuxu.js
 http://www.jlgxhq.com/tj123.js
 http://m.80txt.com/js/book.js
