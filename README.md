@@ -4,7 +4,7 @@
 | -------- | -------- | -------- | -------- |
 | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal") |
 
-
+[![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)](wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx "wechat")
 我会把捐赠给我的款项用于吃喜家德，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
 每次吃的时候会把照片更新于此。谢谢款待！
 
