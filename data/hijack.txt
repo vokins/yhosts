@@ -187,5 +187,6 @@
 127.0.0.1 s.6travel.com
 127.0.0.1 shama5.com
 127.0.0.1 bd.soarfi.cn
+127.0.0.1 creative.ltheanine.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com

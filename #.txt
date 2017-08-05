@@ -1,4 +1,10 @@
 ﻿127.0.0.1 reader.browser.miui.com
+http://61.174.50.168:8080/xyz/w/1.gif
+http://creative.ltheanine.cn/img/0a8d15c2bc8c48438e57ce7fae2df765.gif
+#http://military.china.com/ 
+127.0.0.1 1.aili.com 
+127.0.0.1 2.aili.com 
+
 
 http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
 https://bu01.zybang.com/aeycbycerddwruuycx.js

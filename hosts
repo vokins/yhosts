@@ -1,5 +1,5 @@
 
-#version=201708031015
+#version=201708052108
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -783,6 +783,8 @@
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 js.adxkj.com
 127.0.0.1 kob.adxkj.com
+127.0.0.1 1.aili.com
+127.0.0.1 2.aili.com
 127.0.0.1 api.ssp.aomeng.net
 127.0.0.1 www.aomeng.net
 127.0.0.1 cp.banlaa.com
@@ -1422,6 +1424,7 @@
 127.0.0.1 s.6travel.com
 127.0.0.1 shama5.com
 127.0.0.1 bd.soarfi.cn
+127.0.0.1 creative.ltheanine.cn
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -3556,6 +3559,7 @@
 127.0.0.1 la.gydag.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 lcktg00.com
+127.0.0.1 le.5dydk.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
 127.0.0.1 llsp.gfd80.com

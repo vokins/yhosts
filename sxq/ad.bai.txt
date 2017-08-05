@@ -33,6 +33,7 @@ libs.baidu.com
 libs.tvmao.cn
 m.37zw.net
 m.5442.com
+m.biqumo.com
 m.bookben.com
 m.iask.sina.com.cn
 m.kankanwu.com
