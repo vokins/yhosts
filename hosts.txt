@@ -1467,6 +1467,7 @@
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
 127.0.0.1 hk.jtsh123.com
+127.0.0.1 hao.7654.com
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
@@ -3926,6 +3927,7 @@
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
 127.0.0.1 e.e708.net
+127.0.0.1 e.ejiakm.net
 127.0.0.1 e.gythsg.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.jxxiangchu.com

@@ -185,6 +185,7 @@
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
 127.0.0.1 e.e708.net
+127.0.0.1 e.ejiakm.net
 127.0.0.1 e.gythsg.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.jxxiangchu.com
