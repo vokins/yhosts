@@ -1,4 +1,3 @@
-@popup
 127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
@@ -242,6 +241,7 @@
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 gog9.qzdfc.com
+127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 h.51scj.com
 127.0.0.1 h.kfxyyy.com
@@ -722,6 +722,7 @@
 127.0.0.1 s1.ykgqs.com
 127.0.0.1 s8.weixinfb.cn
 127.0.0.1 satoriomo.xyz
+127.0.0.1 sc.gyeet.com
 127.0.0.1 sc.sczxy.com
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 sese.chmae.com

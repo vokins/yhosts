@@ -140,7 +140,6 @@
 #baidu-ads
 127.0.0.1 api.share.baidu.com
 127.0.0.1 bdimg.share.baidu.com
-127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cm.baidu.com
 127.0.0.1 cm.pos.baidu.com
