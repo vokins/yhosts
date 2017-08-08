@@ -898,6 +898,9 @@
 127.0.0.1 www.jisucn.com
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 tv.code.jjyx.com
+127.0.0.1 nw5.jkjjkj.top
+127.0.0.1 p5.jkjjkj.top
+127.0.0.1 www5.jkjjkj.top
 127.0.0.1 f.jtxh.net
 127.0.0.1 v.jtxh.net
 127.0.0.1 ssp.jtxh.net

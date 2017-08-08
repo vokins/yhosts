@@ -166,7 +166,6 @@
 127.0.0.1 dl.mbsea.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
-127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 dn.5269120.com
 127.0.0.1 do.apkdo.com
 127.0.0.1 dougou88.com
@@ -401,6 +400,9 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 js.static.tebaidu.cn
+127.0.0.1 app.adbszs.com
+
+127.0.0.1 tu.zusrd.cn
 127.0.0.1 js.sxldyx.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 js.willads.pw

@@ -1,5 +1,5 @@
 
-#version=201708081743
+#version=201708081749
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -883,6 +883,9 @@
 127.0.0.1 www.jisucn.com
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 tv.code.jjyx.com
+127.0.0.1 nw5.jkjjkj.top
+127.0.0.1 p5.jkjjkj.top
+127.0.0.1 www5.jkjjkj.top
 127.0.0.1 f.jtxh.net
 127.0.0.1 v.jtxh.net
 127.0.0.1 ssp.jtxh.net
@@ -3273,7 +3276,6 @@
 127.0.0.1 dl.mbsea.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
-127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 dn.5269120.com
 127.0.0.1 do.apkdo.com
 127.0.0.1 dougou88.com
@@ -3508,6 +3510,9 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 js.static.tebaidu.cn
+127.0.0.1 app.adbszs.com
+
+127.0.0.1 tu.zusrd.cn
 127.0.0.1 js.sxldyx.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 js.willads.pw
