@@ -1,5 +1,5 @@
 
-#version=201708081749
+#version=201708081801
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -5088,6 +5088,11 @@
 127.0.0.1 js.ad7.com
 127.0.0.1 trace.ad7.com
 127.0.0.1 www.ad7.com
+127.0.0.1 adbana.com
+127.0.0.1 api.adbana.com
+127.0.0.1 apistat.adbana.com
+127.0.0.1 cnf.adbana.com
+127.0.0.1 stat.adbana.com
 127.0.0.1 api.adcome.cn
 127.0.0.1 music.adcome.cn
 127.0.0.1 res.adcome.cn
