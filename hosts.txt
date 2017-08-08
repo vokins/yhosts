@@ -2440,6 +2440,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 xynhhbw.wap.xxbiquge.com
 #www.tianyucangqiong1.com
 127.0.0.1 s.tianyucangqiong1.com
 #www.xinqing100.net
@@ -3908,6 +3909,7 @@
 127.0.0.1 dl.mbsea.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
+127.0.0.1 dm76.dingon.com.cn
 127.0.0.1 dn.5269120.com
 127.0.0.1 do.apkdo.com
 127.0.0.1 dougou88.com
@@ -4133,6 +4135,7 @@
 127.0.0.1 js.lpshl.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 js.mingxianshanghang.cn
+127.0.0.1 js.mkaqh.cn
 127.0.0.1 js.mstzym.com
 127.0.0.1 js.ojj258.com
 127.0.0.1 js.pxblmj.com
