@@ -1,5 +1,5 @@
 
-#version=201708081801
+#version=201708092224
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3164,6 +3164,7 @@
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 apk.idate520.com
+127.0.0.1 app.adbszs.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 app.ibaiducdn.com
 127.0.0.1 app.nterbx.com
@@ -3424,6 +3425,7 @@
 127.0.0.1 img.qtdfg.com
 127.0.0.1 img.qun89.com
 127.0.0.1 img.rqgsf.com
+127.0.0.1 img.rzlc.org
 127.0.0.1 img.sankezhi.cn
 127.0.0.1 img.shangxize.cn
 127.0.0.1 img.tcdxt.com
@@ -3510,9 +3512,6 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 js.static.tebaidu.cn
-127.0.0.1 app.adbszs.com
-
-127.0.0.1 tu.zusrd.cn
 127.0.0.1 js.sxldyx.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 js.willads.pw
@@ -3531,6 +3530,7 @@
 127.0.0.1 js3555.wmhlch.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3987.vdhufs.com
+127.0.0.1 js4104.scfatao.com
 127.0.0.1 js412.hot-eam.com
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
@@ -3767,6 +3767,7 @@
 127.0.0.1 qq.kuaipai666.cn
 127.0.0.1 qqzy1.cc
 127.0.0.1 qu.geryi.com
+127.0.0.1 qu.gygdmy.com
 127.0.0.1 r.14244.com
 127.0.0.1 r.5207470.com
 127.0.0.1 rang.cdqjmc.com
@@ -3944,6 +3945,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 tu.njflfd.com
 127.0.0.1 tu.szefe.com
+127.0.0.1 tu.zusrd.cn
 127.0.0.1 txt.dongyihongbei.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 u.luxinkm.com
