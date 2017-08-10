@@ -427,6 +427,7 @@
 127.0.0.1 js43.hailiao520.com
 127.0.0.1 js658.ltcprtc.com
 127.0.0.1 js6882.gdskywings.com
+127.0.0.1 js739.scfatao.com
 127.0.0.1 js85.ibcda.org
 127.0.0.1 js883.chengzhao95511.com
 127.0.0.1 js883.dragoncent.com
