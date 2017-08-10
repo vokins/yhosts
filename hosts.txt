@@ -1364,6 +1364,8 @@
 127.0.0.1 dorado.xiaojukeji.com
 @errorpage/weixin
 127.0.0.1 tl.771tao.com
+127.0.0.1 ppiy.v5.yy.com
+127.0.0.1 page.v5.yy.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
 @errorpage/inside

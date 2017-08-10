@@ -1,5 +1,5 @@
 
-#version=201708092224
+#version=201708101554
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1240,6 +1240,8 @@
 127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 dorado.xiaojukeji.com
 127.0.0.1 tl.771tao.com
+127.0.0.1 ppiy.v5.yy.com
+127.0.0.1 page.v5.yy.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 hao.360.cn
