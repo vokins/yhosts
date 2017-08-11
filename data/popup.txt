@@ -98,6 +98,7 @@
 127.0.0.1 c.tkd777.cn
 127.0.0.1 c.wangsufast.com
 127.0.0.1 c.yisu.com
+127.0.0.1 c.ylist.cn
 127.0.0.1 c3.gostats.cn
 127.0.0.1 c8.wangdq.com
 127.0.0.1 ca.5173car.com
@@ -459,6 +460,7 @@
 127.0.0.1 l9bdhcgihw.neihanw.com
 127.0.0.1 la.gydag.com
 127.0.0.1 lan.acwgf.com
+127.0.0.1 lao.zxhymh.com
 127.0.0.1 lcktg00.com
 127.0.0.1 le.5dydk.com
 127.0.0.1 lin.internetofthings-china.com
@@ -672,6 +674,7 @@
 127.0.0.1 s.272xb.com
 127.0.0.1 s.3333309.cn
 127.0.0.1 s.456juhd.com
+127.0.0.1 s.6113371.com
 127.0.0.1 s.80sjw.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 s.ajuhd.com
