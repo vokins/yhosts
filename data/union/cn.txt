@@ -1481,6 +1481,10 @@
 127.0.0.1 lc.jiathis.com
 127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
+#jiayi
+127.0.0.1 gg.ytbee.cn
+127.0.0.1 www.bjxiaohua.com
+127.0.0.1 www.jiaeasy.net
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn

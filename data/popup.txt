@@ -178,6 +178,7 @@
 127.0.0.1 dspmy.ge95.com
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 dx01.daomengad.com
+127.0.0.1 dz2017.zdzxyplyt.com
 127.0.0.1 e.0313413.com
 127.0.0.1 e.968lele.com
 127.0.0.1 e.a907907.com

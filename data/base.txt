@@ -954,6 +954,8 @@
 127.0.0.1 js.mnkan.com
 127.0.0.1 846.move7.com
 127.0.0.1 w6061.move7.com
+127.0.0.1 m.mrsasharingspace.com
+127.0.0.1 e.mrsasharingspace.com
 127.0.0.1 c.msltzer.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 gafxa.code.mytanwan.com
