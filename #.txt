@@ -4,7 +4,8 @@ http://creative.ltheanine.cn/img/0a8d15c2bc8c48438e57ce7fae2df765.gif
 #http://military.china.com/ 
 127.0.0.1 1.aili.com 
 127.0.0.1 2.aili.com 
-
+http://adash.m.taobao.com/rest/sur?ak=12663307&av=8.2.8.081105&c=700169%40travel_android_8.2.8&v=3.0&s=e667279080bbbb92cb9342f7082fe56503617770&d=WYJ%2FGFl38mYDAKQ%2BiqAY7WYp&sv=6.3.2.7&p=a&t=1502618893159&u=&is=1
+飞猪老百姓订单详情无法大开
 127.0.0.1 bzclk.baidu.com
 http://img.zuoyebang.cc/zyb_cf102111ff55d956a1365cd311eaac0e.jpg
 https://bu01.zybang.com/aeycbycerddwruuycx.js

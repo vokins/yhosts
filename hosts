@@ -1,5 +1,5 @@
 
-#version=201708131745
+#version=201708131822
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -142,7 +142,6 @@
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 acs4baichuan.m.taobao.com
-127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 c-adash.m.taobao.com
