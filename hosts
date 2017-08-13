@@ -1,5 +1,5 @@
 
-#version=201708121742
+#version=201708131745
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2523,6 +2523,7 @@
 127.0.0.1 g1.08160.cn
 127.0.0.1 ssp.08160.cn
 127.0.0.1 un.52rkl.cn
+127.0.0.1 mip.yuelvxing.com
 127.0.0.1 ad1.yangjinyou.com
 127.0.0.1 ad2.yangjinyou.com
 127.0.0.1 pic.fengniao.com
@@ -3314,6 +3315,7 @@
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
+127.0.0.1 e.zhuhaixiongyue.com
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 ee.e7006.com
 127.0.0.1 ee.e701.net
@@ -3434,6 +3436,7 @@
 127.0.0.1 img.rzlc.org
 127.0.0.1 img.sankezhi.cn
 127.0.0.1 img.shangxize.cn
+127.0.0.1 img.szsqhby.com
 127.0.0.1 img.tcdxt.com
 127.0.0.1 img.tianqi777.com
 127.0.0.1 img.tygws.com
@@ -3587,6 +3590,7 @@
 127.0.0.1 love.chushoushijian.cn
 127.0.0.1 luotediao.net
 127.0.0.1 ly.betterobot.cn
+127.0.0.1 lz.bjbsti.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 lz.wfhxssg.com
 127.0.0.1 lz.whafwl.com
@@ -4103,6 +4107,7 @@
 127.0.0.1 www.gugeys.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.higame123.com
+127.0.0.1 www.himandy.com
 127.0.0.1 www.hxstfxx.cn
 127.0.0.1 www.hyfyuan.com
 127.0.0.1 www.icdxc.com
@@ -4125,6 +4130,7 @@
 127.0.0.1 www.liangao.com
 127.0.0.1 www.lx167.com
 127.0.0.1 www.lynndollin.com
+127.0.0.1 www.lyztdz.com
 127.0.0.1 www.mbai.cn
 127.0.0.1 www.mohecm.com
 127.0.0.1 www.mountex.cn
@@ -4136,6 +4142,7 @@
 127.0.0.1 www.onewhee.com
 127.0.0.1 www.ooniu.com
 127.0.0.1 www.pasco.cc
+127.0.0.1 www.pintour.com
 127.0.0.1 www.poctd.com
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.punuomisi.cn
