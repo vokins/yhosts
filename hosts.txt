@@ -3819,6 +3819,7 @@
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 b99u.top
 127.0.0.1 ba.cdyqc.com
+127.0.0.1 ba.yyhqch.com
 127.0.0.1 baby.yf898.com
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 bb.78gua.com
@@ -4313,6 +4314,7 @@
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
+127.0.0.1 m.zpoder.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 m3a425.wdalk.com
