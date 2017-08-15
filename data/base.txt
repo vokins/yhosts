@@ -228,7 +228,6 @@
 #push
 127.0.0.1 wap.mpush.qq.com
 #qq
-127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 j.wit.qq.com

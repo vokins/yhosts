@@ -577,7 +577,6 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 #qq-gtimg
-127.0.0.1 ca.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 wb.gtimg.com
 #qq-l

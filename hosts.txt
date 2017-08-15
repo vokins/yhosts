@@ -311,7 +311,6 @@
 #push
 127.0.0.1 wap.mpush.qq.com
 #qq
-127.0.0.1 dp3.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 j.wit.qq.com
@@ -1911,8 +1910,6 @@
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 #http://weixin.qq.com/
-127.0.0.1 btrace.qq.com
-127.0.0.1 btrace.video.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 #http://yixin.im/
@@ -3816,6 +3813,7 @@
 127.0.0.1 b.apzeyu.com
 127.0.0.1 b.baiy.net
 127.0.0.1 b.flyreading.cn
+127.0.0.1 b.xz15801.com
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 b99u.top
 127.0.0.1 ba.cdyqc.com
@@ -3935,6 +3933,7 @@
 127.0.0.1 e.968lele.com
 127.0.0.1 e.a907907.com
 127.0.0.1 e.bdoj.pw
+127.0.0.1 e.cnbmaterials.com
 127.0.0.1 e.dzairen.com
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
@@ -3953,6 +3952,7 @@
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.zhuhaixiongyue.com
+127.0.0.1 ed.aijielang.cn
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 ee.e7006.com
 127.0.0.1 ee.e701.net
@@ -4095,6 +4095,7 @@
 127.0.0.1 img3.fy1g.com
 127.0.0.1 imgcdn.ahzlep.com
 127.0.0.1 imgcdn.xixiwan.net
+127.0.0.1 in.cbgss.com
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ioscdn.ywpod3.com
@@ -4209,6 +4210,7 @@
 127.0.0.1 kkyy.liliyy.com
 127.0.0.1 kn.awyys.com
 127.0.0.1 kn.dahecg.com
+127.0.0.1 kn.tjygyz.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 kuang.myzk1.com
 127.0.0.1 l5.fwt0.com
@@ -4251,6 +4253,7 @@
 127.0.0.1 m.chenhuia.com
 127.0.0.1 m.chnhty.com
 127.0.0.1 m.cmslayue.com
+127.0.0.1 m.cnbmaterials.com
 127.0.0.1 m.comesgo.com
 127.0.0.1 m.cqfangduan.com
 127.0.0.1 m.csmdzj.com
@@ -4436,6 +4439,7 @@
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 s.ajuhd.com
 127.0.0.1 s.bxgmb.com
+127.0.0.1 s.cbgss.com
 127.0.0.1 s.chebse.com
 127.0.0.1 s.dgpzx.com
 127.0.0.1 s.ekeide.com
@@ -4542,6 +4546,7 @@
 127.0.0.1 sva88.czjiuding.cn
 127.0.0.1 swappdl.duoyi.com
 127.0.0.1 sy.jhtcdj.com
+127.0.0.1 sy.kcxsyz.com
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 syd.wayize.cn
@@ -5452,7 +5457,6 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 #qq-gtimg
-127.0.0.1 ca.gtimg.com
 127.0.0.1 lb.gtimg.com
 127.0.0.1 wb.gtimg.com
 #qq-l
