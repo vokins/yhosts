@@ -1,5 +1,12 @@
 ﻿127.0.0.1 reader.browser.miui.com
 
+
+uc国际版现在也搞各种垃圾广告了
+九游广告
+127.0.0.1 sea.napi.ucweb.com 
+127.0.0.1 hk.napi.ucweb.com 
+
+
 127.0.0.1 btrace.qq.com
 127.0.0.1 btrace.video.qq.com
 127.0.0.1 ca.gtimg.com

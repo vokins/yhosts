@@ -197,7 +197,9 @@
 #uc
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
+127.0.0.1 hk.napi.ucweb.com
 127.0.0.1 puds.ucweb.com
+127.0.0.1 sea.napi.ucweb.com
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 wap3.ucweb.com
