@@ -13,7 +13,7 @@ http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 恢复云数据时会卡住的问题
-
+127.0.0.1 img.alicdn.com
 http://sdkinit.taobao.com/init.htm
 http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 

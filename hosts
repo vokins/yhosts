@@ -1,5 +1,5 @@
 
-#version=201708161906
+#version=201708161909
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3117,6 +3117,7 @@
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
+127.0.0.1 1178.shucong.com
 127.0.0.1 1234xm.com
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 1495039.com
@@ -3264,6 +3265,7 @@
 127.0.0.1 d.soxoo.cc
 127.0.0.1 d1.showself.com
 127.0.0.1 d21.deyidai.cn
+127.0.0.1 d28c4.qdgetrich.com
 127.0.0.1 d5.doudou583.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 da.hxspc.com
@@ -3493,6 +3495,7 @@
 127.0.0.1 jiu.nchte.com
 127.0.0.1 jiu.njdkgm.com
 127.0.0.1 jj.youzizhijia.cn
+127.0.0.1 jjdd.12fou.com
 127.0.0.1 jjhd47.115seo.com
 127.0.0.1 jk.pingao.com
 127.0.0.1 jp.2015nian.com
@@ -3563,6 +3566,7 @@
 127.0.0.1 js883.xingyeshangye.com
 127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 js89.shanglinli.com
+127.0.0.1 js897.hot-eam.com
 127.0.0.1 js993.dugbvb.com
 127.0.0.1 jsjs.nthyn.com
 127.0.0.1 jss.tenglink.com
@@ -3986,6 +3990,7 @@
 127.0.0.1 um29.com
 127.0.0.1 un.xlcun.com
 127.0.0.1 union.baidustatic.guannin.com
+127.0.0.1 union.ideejs.cn
 127.0.0.1 update.juw37xqo3x.com
 127.0.0.1 urh.tylll.com
 127.0.0.1 uri6.com
@@ -4880,7 +4885,6 @@
 127.0.0.1 cpc.brand.sogou.com
 127.0.0.1 lk.brand.sogou.com
 127.0.0.1 sy.brand.sogou.com
-127.0.0.1 wb.brand.sogou.com
 127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 a1click.cpc.sogou.com
@@ -4889,7 +4893,6 @@
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 kthxd.lu.sogou.com
-127.0.0.1 lu.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
