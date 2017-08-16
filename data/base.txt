@@ -356,6 +356,7 @@
 #sports
 127.0.0.1 2016.sina.cn
 @base-sohu
+127.0.0.1 images.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
@@ -371,8 +372,10 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 inte1.sogou.com
 127.0.0.1 jsnp.golden1.sogou.com
 127.0.0.1 ktivn.uranus.sogou.com
+127.0.0.1 lu.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 pcxzo.pluto.sogou.com
@@ -386,6 +389,7 @@
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
+127.0.0.1 wb.brand.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com

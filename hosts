@@ -1,5 +1,5 @@
 
-#version=201708152212
+#version=201708161906
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -354,6 +354,7 @@
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
+127.0.0.1 images.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
@@ -368,8 +369,10 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
+127.0.0.1 inte1.sogou.com
 127.0.0.1 jsnp.golden1.sogou.com
 127.0.0.1 ktivn.uranus.sogou.com
+127.0.0.1 lu.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 pcxzo.pluto.sogou.com
@@ -383,6 +386,7 @@
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 sw.mobile.sogou.com
 127.0.0.1 union.sogou.com
+127.0.0.1 wb.brand.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
@@ -3126,6 +3130,7 @@
 127.0.0.1 5568.gjghy.com
 127.0.0.1 57.jtydbz.com
 127.0.0.1 5zkj.com
+127.0.0.1 7mnpeh.com1.z0.glb.clouddn.com
 127.0.0.1 8866786.com
 127.0.0.1 888.jiuwanwang.com
 127.0.0.1 9990.spqsd.com
@@ -3231,6 +3236,7 @@
 127.0.0.1 cell.zhybzp.cn
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 changan.bama555.com
+127.0.0.1 chi.cgxxmy.com
 127.0.0.1 chuntian.xcpqb.cn
 127.0.0.1 ck.scltn.cn
 127.0.0.1 cks.gongyituan.cn
@@ -3725,6 +3731,7 @@
 127.0.0.1 njs.reliancevalve.com
 127.0.0.1 nl.wodhid.com
 127.0.0.1 nnd.xyssp.com
+127.0.0.1 nobody.happyweixin.cn
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 oe.zbttxs.com
 127.0.0.1 p.99mssj.com
@@ -3801,6 +3808,7 @@
 127.0.0.1 s.80sjw.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 s.ajuhd.com
+127.0.0.1 s.bmgan.com
 127.0.0.1 s.bxgmb.com
 127.0.0.1 s.cbgss.com
 127.0.0.1 s.chebse.com
@@ -3928,6 +3936,7 @@
 127.0.0.1 t.jqpszdq.com
 127.0.0.1 t.nbyongle.com
 127.0.0.1 t.pingzei.com
+127.0.0.1 t.qiuqiuqipai.com
 127.0.0.1 t.tzcccm.com
 127.0.0.1 t.uvcourse.net
 127.0.0.1 t.xiangyuyishu.com
@@ -4111,11 +4120,13 @@
 127.0.0.1 www.gt4ec.net
 127.0.0.1 www.guanta37w.com
 127.0.0.1 www.gugeys.com
+127.0.0.1 www.hdhkwl.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.higame123.com
 127.0.0.1 www.himandy.com
 127.0.0.1 www.hxstfxx.cn
 127.0.0.1 www.hyfyuan.com
+127.0.0.1 www.hz7788.com
 127.0.0.1 www.icdxc.com
 127.0.0.1 www.iiad.com
 127.0.0.1 www.istage.com.cn
@@ -5777,6 +5788,8 @@
 127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.moogos.com
 127.0.0.1 rcv.moogos.com
+127.0.0.1 mm.moquanad.com
+127.0.0.1 www.moquanad.com
 127.0.0.1 mpush.cn
 127.0.0.1 td.mpush.cn
 127.0.0.1 admin.ninebox.cn
