@@ -408,6 +408,7 @@
 127.0.0.1 js.lpshl.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 js.mingxianshanghang.cn
+127.0.0.1 js.mjvrt.cn
 127.0.0.1 js.mkaqh.cn
 127.0.0.1 js.mstzym.com
 127.0.0.1 js.ojj258.com
@@ -739,6 +740,7 @@
 127.0.0.1 s.xiaobiaoucai.cn
 127.0.0.1 s.xmcxz.com
 127.0.0.1 s.xpqfc.com
+127.0.0.1 s.xz15801.com
 127.0.0.1 s.yanpoly.com
 127.0.0.1 s.yfycy.com
 127.0.0.1 s.yy58ju.com

@@ -40,6 +40,7 @@
 127.0.0.1 www.pj39330.bet
 127.0.0.1 www.pj39330.com
 127.0.0.1 www.pj5189.com
+127.0.0.1 www.tjsijia8888.com
 127.0.0.1 www.v00087.com
 127.0.0.1 www.v66v66.com
 127.0.0.1 www.ylwy168.com
