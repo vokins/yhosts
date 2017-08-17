@@ -366,6 +366,7 @@
 127.0.0.1 j.jqbee.com
 127.0.0.1 j.klsdmr.com
 127.0.0.1 j.mzdmzd.com
+127.0.0.1 j.qiqivv.com
 127.0.0.1 j.qiqiww.com
 127.0.0.1 j.sc1369.com
 127.0.0.1 j.web0523.com
@@ -446,6 +447,7 @@
 127.0.0.1 js883.chengzhao95511.com
 127.0.0.1 js883.dragoncent.com
 127.0.0.1 js883.free-rc.com
+127.0.0.1 js883.guangzizai.com
 127.0.0.1 js883.wywsdx.com
 127.0.0.1 js883.xingyeshangye.com
 127.0.0.1 js89.dalianhengtai.com
