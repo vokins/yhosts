@@ -128,6 +128,7 @@
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 img-dsp.oss-cn-beijing.aliyuncs.com
+127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 #cnzz
@@ -3916,6 +3917,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 data.3975.com
+127.0.0.1 daz.jinshasi.cn
 127.0.0.1 db.dghrwj.com
 127.0.0.1 db.edwinyan.com
 127.0.0.1 db.xhbqczl.com
@@ -3999,6 +4001,7 @@
 127.0.0.1 g.s8dj.com
 127.0.0.1 g.szdn1ms.com
 127.0.0.1 ge.dezfu.com
+127.0.0.1 ge.xcbmwx.com
 127.0.0.1 ge.zizcy.com
 127.0.0.1 gg.amblrgg.live
 127.0.0.1 gg.btnk024.com
@@ -4009,6 +4012,7 @@
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go1.justsoftware.cn
+127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
@@ -4108,6 +4112,7 @@
 127.0.0.1 img3.fy1g.com
 127.0.0.1 imgcdn.ahzlep.com
 127.0.0.1 imgcdn.xixiwan.net
+127.0.0.1 in.bmgan.com
 127.0.0.1 in.cbgss.com
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 ioa.hdkrs.com
@@ -4131,6 +4136,7 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 jfhe.0769371.com
 127.0.0.1 ji.dazhantai.com
+127.0.0.1 jiaeasy.net
 127.0.0.1 jie.mnxtu.com
 127.0.0.1 jin.hesxz.com
 127.0.0.1 jin.tajxgs.com
