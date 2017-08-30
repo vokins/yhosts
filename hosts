@@ -1,5 +1,5 @@
 
-#version=201708301314
+#version=201708301332
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3411,6 +3411,7 @@
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
+127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 h.51scj.com
@@ -3419,6 +3420,7 @@
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 hao.dian500.com
+127.0.0.1 hao.pdfbs.com
 127.0.0.1 hao.pdfbs.com
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hen.smxay.com
@@ -3724,6 +3726,7 @@
 127.0.0.1 m.qlonglong.com
 127.0.0.1 m.qoiusky.com
 127.0.0.1 m.qqyue.top
+127.0.0.1 m.represented.cn
 127.0.0.1 m.resetgey.com
 127.0.0.1 m.riqu2015.com
 127.0.0.1 m.runiman.com
@@ -3734,6 +3737,7 @@
 127.0.0.1 m.sos0easy.com
 127.0.0.1 m.ssjy168.com
 127.0.0.1 m.suwo0n.com
+127.0.0.1 m.symaw.cn
 127.0.0.1 m.syofew6o.net
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
@@ -3777,6 +3781,7 @@
 127.0.0.1 mo.uryaki.com
 127.0.0.1 mob.coolnay.com
 127.0.0.1 mob.huimee.net
+127.0.0.1 mpic.jmgehn.cn
 127.0.0.1 ms.myyage.com
 127.0.0.1 mssp.yuanfenba.net
 127.0.0.1 mts.sdtieta.com
@@ -3835,6 +3840,7 @@
 127.0.0.1 pop.code.poyang.cn
 127.0.0.1 pp.268mob.com
 127.0.0.1 pp.2945.com
+127.0.0.1 pp2.dhzw.org
 127.0.0.1 ppco.trwba.com
 127.0.0.1 psma02.com
 127.0.0.1 ptxzw.yigolds.com
