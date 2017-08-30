@@ -1,4 +1,10 @@
 ﻿127.0.0.1 reader.browser.miui.com
+http://dspimg.adsame.com/flv/20170810141157_592.jpg
+http://dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com/c?z=ft&la=0&si=600&cg=2023&c=20230119&ci=673&or=3827&l=605460&bg=9114&b=30660&u=https://ad.doubleclick.net/ddm/trackclk/N5840.139612.1071020274421/B20208468.203238950;dc_trk_aid=403016668;dc_trk_cid=91843725
+https://yun.tuia.cn/tuia-media/img/y7via1wl2g.gif
+code.hot-mob.com/api/javascript/sdk4/lib/ads.js
+
+static.doubleclick.net/instream/ad_status.js
 http://dmt.qcrx.cn/tps/noexpire/img/4.0.0/pc_ads_bear.1x.png
 http://jsym.qcrx.cn/swfxb?byc=D4&qcx=DD4&xc=y6C8B6BC&fno=lxxtd7Ed6Jd6J000dbtmrkkyspzdbgsqd6Jwpd6Jlsrkhsyd6J&xcm=4&xw=6&njl=5946DBCC74B5A&ulc=6&yrj
 m=555446&uhn=5&xng=LXQPbTSWX&k1=h4lxe&v10=xsy6&y2=jczy&510=z0kta&q7=9zn4s
@@ -18,7 +24,7 @@ ET https://ca.gtimg.com/adplugin/swf/MediaPlugin.swf?max_age=86400&v=20161201?ma
 ca.gtimg.com/adplugin/swf/MediaPlugin.swf?max_age=86400&v=20161201?max_age=86400&v=20150428&ran=0.2870357078500092:1 GET https://ca.gtimg.com/adplugin/swf/MediaPlugin.
 https://dp3.qq.com/stdlog?bid=pcvideo&sIp=&iQQ=&sBiz=&sOp=&iSta=0&iTy=2481&iFlow=0&sUrl=https%3A%2F%2Fh5.qzone.qq.com%2Fproxy%2Fdomain%2Fic2.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds_html_module%3Fi_uin%3D3094113831%26i_login_uin%3D0%26mode%3D4%26previewV8%3D1%26style%3D102%26version%3D8%26needDelOpr%3Dtrue%26transparence%3Dtrue%26hideExtend%3Dfalse%26showcount%3D10%26MORE_FEEDS_CGI%3Dhttp%253A%252F%252Fic2.qzone.qq.com%252Fcgi-bin%252Ffeeds%252Ffeeds_html_act_all%26refer%3D2%26paramstring%3Dos-win7%7C100&sRef=&sPageId=&sPos=&step=3&val=163&val1=2&val2=603&val3=&val4=&val5=&apid=1C3ABDA90798679D99E66797E1595AB68933184B&pid=5EDF6748AAC4BF52CC604F5744C747EB5026ACF1&vid=q1419bewywi&platform=1&pversion=TencentPlayerOutV3.2.19.358&version=1.4.6&bi=1&bt=0&idx=1&appid=0&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F55.0.2883.87%20Safari%2F537.36&adtype=1&vurl=http%3A%2F%2Flivew.l.qq.com%2Flivemsg%3Fty%3Dweb%26ad_type%3DZT%26pf%3Dout%26pt%3D0%26pc%3D0%26vid%3Dq1419bewywi%26coverid%3D%26live%3D0%26from%3D0%26pu%3D0%26v%3DTencentPlayerOutV3.2.19.358%26plugin%3D1.4.6%26speed%3D0%26vptag%3D%26pid%3D5EDF6748AAC4BF52CC604F5744C747EB5026ACF1%26adaptor%3D2%26musictxt%3D%26chid%3D0%26mbid%3D%26guid%3DC65E67476C5C1E7B53D82D5C0806AFB3C3CAC2BC%26url%3Dhttps%3A%2F%2Fh5.qzone.qq.com%2Fproxy%2Fdomain%2Fic2.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds_html_module%26refer%3Dhttps%3A%2F%2Fuser.qzone.qq.com%2F3094113831%2Fmain%26tua%3Dchrome55%26retry%3D1&reporttime=2017-08-15%2022:10:34%20398&bdua=
 0&admtype=0&adid=&guid=C65E67476C5C1E7B53D82D5C0806AFB3C3CAC2BC&ispip=0&random=8969
-
+中国-独山.上司2017国际摩托车邀请赛http://vzan.com/live/tvchat-430615?v=636395097716058134
 http://61.174.50.168:8080/xyz/w/1.gif
 http://creative.ltheanine.cn/img/0a8d15c2bc8c48438e57ce7fae2df765.gif
 #http://military.china.com/ 

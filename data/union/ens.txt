@@ -1,6 +1,11 @@
 @site-foregin/adult
 #91porn.com
 127.0.0.1 fans.bestvogue.com
+#hk01.com
+127.0.0.1 code.hot-mob.com
+#pronhub.com
+127.0.0.1 rad.reporo.net
+127.0.0.1 ads.traffichunt.com
 @site-foregin/news
 #m.cn.rfi.fr
 127.0.0.1 nexus.ensighten.com

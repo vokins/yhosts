@@ -1077,6 +1077,7 @@
 127.0.0.1 demo.adsame.com
 127.0.0.1 dolphin.adsame.com
 127.0.0.1 dolphin1.adsame.com
+127.0.0.1 dspimg.adsame.com
 127.0.0.1 eagle.adsame.com
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 eagledemo.adsame.com

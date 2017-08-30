@@ -124,6 +124,7 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 beha.ksmobile.com
+127.0.0.1 up.cm.ksmobile.com
 #miui-weather
 127.0.0.1 wtradv.market.xiaomi.com
 #miui-wps
@@ -141,5 +142,25 @@
 127.0.0.1 stat.pandora.xiaomi.com
 @mokee
 127.0.0.1 stats.mokeedev.com
+@oppo
+#oppo-ads
+127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 bdapi.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 httpdns.push.oppomobile.com
+#oppo-browser
+127.0.0.1 dhfs.oppomobile.com
+127.0.0.1 i.flow.browser.oppomobile.com
+127.0.0.1 imagzine.oppomobile.com
+127.0.0.1 fs.uc.nearme.com.cn
+127.0.0.1 i.stat.nearme.com.cn
+127.0.0.1 kv.stat.nearme.com.cn
+127.0.0.1 stat.browser.nearme.com.cn
+127.0.0.1 oppo.yidianzixun.com
+127.0.0.1 i1.go2yd.com
+127.0.0.1 rl.go2yd.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 web-track.go2yd.com
 @xgimi.com
 127.0.0.1 analytics.xgimi.com

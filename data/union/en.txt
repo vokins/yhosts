@@ -479,6 +479,7 @@
 127.0.0.1 ws.tapjoyads.com
 #trafficjunky.net
 127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
 127.0.0.1 vz-cdn.trafficjunky.net
 #turn
 127.0.0.1 analytics.turn.com
