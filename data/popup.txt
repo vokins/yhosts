@@ -128,6 +128,7 @@
 127.0.0.1 cgi.chenyigo.cn
 127.0.0.1 changan.bama555.com
 127.0.0.1 chi.cgxxmy.com
+127.0.0.1 chuantu.biz
 127.0.0.1 chuntian.xcpqb.cn
 127.0.0.1 ck.scltn.cn
 127.0.0.1 cks.gongyituan.cn
@@ -150,6 +151,7 @@
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cz2.rhgyg.com
 127.0.0.1 d.86fm.com
+127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
 127.0.0.1 d.qceg.net
 127.0.0.1 d.soxoo.cc
@@ -298,6 +300,7 @@
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 i.zt-dq.com
 127.0.0.1 i5k3bm.wddyly.cn
+127.0.0.1 ico.58pic.com
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 ikm0b.yuanshanshu.cn
@@ -359,6 +362,7 @@
 127.0.0.1 img.xrtzf.com
 127.0.0.1 img.ygdsp.cn
 127.0.0.1 img.yingkeduo.cn
+127.0.0.1 img.yingshidiguo.cn
 127.0.0.1 img.yintengjiagu.com
 127.0.0.1 img.ytlm.cn
 127.0.0.1 img.zhuanfakong.com
@@ -396,6 +400,7 @@
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 jfhe.0769371.com
 127.0.0.1 ji.dazhantai.com
+127.0.0.1 ji.nyhnx.com
 127.0.0.1 ji.xujx8.com
 127.0.0.1 jiaeasy.net
 127.0.0.1 jie.mnxtu.com
@@ -944,6 +949,7 @@
 127.0.0.1 vip.cainiaofx.com
 127.0.0.1 vip.hys4.com
 127.0.0.1 vip.id528.com
+127.0.0.1 vip.jindu179.com
 127.0.0.1 vip.jixian360.com
 127.0.0.1 vip.jixing8.com
 127.0.0.1 vip.koukou7.com
@@ -1164,6 +1170,7 @@
 127.0.0.1 yang.93manhua.com
 127.0.0.1 yang.jfqkj.com
 127.0.0.1 yao.ccmdgg.com
+127.0.0.1 ydland.youyou822.com
 127.0.0.1 yess.imneinei.com
 127.0.0.1 yi.xmsqz.com
 127.0.0.1 yiqi.whpxy.com
