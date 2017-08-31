@@ -1,4 +1,4 @@
-ver=下午 3:06 2017/8/7 星期一
+ver=下午 2:05 2017/8/31 星期四
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00

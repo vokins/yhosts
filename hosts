@@ -1,5 +1,5 @@
 
-#version=201708301332
+#version=201708311405
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3326,6 +3326,7 @@
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 dm.kingpolo.com.cn
+127.0.0.1 dm.shanghuitianxia.cn
 127.0.0.1 dn.5269120.com
 127.0.0.1 do.apkdo.com
 127.0.0.1 dougou88.com
@@ -3411,7 +3412,6 @@
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
-127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 h.51scj.com
@@ -3420,7 +3420,6 @@
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 hao.dian500.com
-127.0.0.1 hao.pdfbs.com
 127.0.0.1 hao.pdfbs.com
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hen.smxay.com
@@ -3641,6 +3640,7 @@
 127.0.0.1 kkyy.liliyy.com
 127.0.0.1 kn.awyys.com
 127.0.0.1 kn.dahecg.com
+127.0.0.1 kn.hnhqsc.com
 127.0.0.1 kn.tjygyz.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 kuang.myzk1.com
@@ -3905,6 +3905,7 @@
 127.0.0.1 s.meimeidaren.com
 127.0.0.1 s.mt145.com
 127.0.0.1 s.nmqbg.com
+127.0.0.1 s.nvrentao8.com
 127.0.0.1 s.nyydj.com
 127.0.0.1 s.obaolu.net
 127.0.0.1 s.ryre.cn
@@ -3990,6 +3991,7 @@
 127.0.0.1 sva817.minjiadian.cn
 127.0.0.1 sva88.czjiuding.cn
 127.0.0.1 swappdl.duoyi.com
+127.0.0.1 sy.bycxsh.com
 127.0.0.1 sy.jhtcdj.com
 127.0.0.1 sy.kcxsyz.com
 127.0.0.1 sy.sxjxhg.com
@@ -4028,6 +4030,7 @@
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 tian.sycbbs.com
+127.0.0.1 tian.wxhdwy.com
 127.0.0.1 titi.18tzx.com
 127.0.0.1 tj.zhaes.com
 127.0.0.1 tjf.lyhuayun.com
@@ -4194,7 +4197,6 @@
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 www.gt4ec.net
 127.0.0.1 www.guanta37w.com
-127.0.0.1 www.gugeys.com
 127.0.0.1 www.hdhkwl.com
 127.0.0.1 www.hejingroup.cn
 127.0.0.1 www.higame123.com
@@ -4301,6 +4303,7 @@
 127.0.0.1 xxlargepop.com
 127.0.0.1 y.5125129.com
 127.0.0.1 y.dali517.com
+127.0.0.1 y.nvrentao8.com
 127.0.0.1 y.xm9178.com
 127.0.0.1 yang.93manhua.com
 127.0.0.1 yang.jfqkj.com

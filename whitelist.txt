@@ -1,5 +1,7 @@
 http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou image
-127.0.0.1 b.bst.126.net 这个会导致网易博客的评论区头像不见了http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
+127.0.0.1 b.bst.126.net 
+www.gugeys.com
+这个会导致网易博客的评论区头像不见了http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
 http://b.bst.126.net/common/face60.png
 yun.duiba.com.cn 会导致腾讯动漫安卓版的逗比商城白屏
 wd.geilicdn.com weidian image
