@@ -2790,6 +2790,9 @@
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 web.ali213.net
 127.0.0.1 a.fengyx.com
+#douyu.com
+127.0.0.1 g.wan.douyu.com
+127.0.0.1 wan.douyu.com
 #gamersky.com
 127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
@@ -3839,6 +3842,7 @@
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 alm1.tongyuanhejishu.com
 127.0.0.1 amiok.org
+127.0.0.1 anfeng.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
 127.0.0.1 api.goulegu.com
@@ -3890,6 +3894,7 @@
 127.0.0.1 c.ns8d.com
 127.0.0.1 c.queene.cn
 127.0.0.1 c.start280.com
+127.0.0.1 c.t98u8f.com
 127.0.0.1 c.tkd777.cn
 127.0.0.1 c.wangsufast.com
 127.0.0.1 c.yisu.com
@@ -4026,6 +4031,7 @@
 127.0.0.1 f.f70123.com
 127.0.0.1 f.hongm.com
 127.0.0.1 f3.vedeh.com
+127.0.0.1 f56g.me
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 fflsn.com
 127.0.0.1 ffre.ffrepair.com
@@ -4054,6 +4060,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.onclasrv.com
+127.0.0.1 go.ruanmei.com
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
@@ -4342,6 +4349,7 @@
 127.0.0.1 m.desaysmart.com
 127.0.0.1 m.detuns.com
 127.0.0.1 m.ever-lohas.com
+127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.fxfssl.com
 127.0.0.1 m.gdyyyg.net
@@ -4765,6 +4773,7 @@
 127.0.0.1 w.yamaidei.cn
 127.0.0.1 w2.docols.net
 127.0.0.1 w37.govgift.com
+127.0.0.1 w9h1.me
 127.0.0.1 wan.8mfty.com
 127.0.0.1 wan.yigyx.com
 127.0.0.1 wap.sunian888.com
@@ -4784,6 +4793,7 @@
 127.0.0.1 wu.dbwmjj.com
 127.0.0.1 wudi.xdbwc.com
 127.0.0.1 ww.ao29.com
+127.0.0.1 ww.baike113.com
 127.0.0.1 ww.jiaeasy.net
 127.0.0.1 ww202.keyyou.net
 127.0.0.1 wwe.xiankandy.com
@@ -4800,6 +4810,7 @@
 127.0.0.1 www.5188yy.com
 127.0.0.1 www.5293.com
 127.0.0.1 www.5345ll.com
+127.0.0.1 www.537901.com
 127.0.0.1 www.5634.com
 127.0.0.1 www.5675146.com
 127.0.0.1 www.5757lm.com
@@ -4909,6 +4920,7 @@
 127.0.0.1 www.sxdyrq.com
 127.0.0.1 www.symmz.com
 127.0.0.1 www.sytcyf.com
+127.0.0.1 www.szyr341.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
@@ -4940,6 +4952,7 @@
 127.0.0.1 wwwimg.86sjx.com
 127.0.0.1 wwwimg.baijiacn.com
 127.0.0.1 wwws.zxtry.com
+127.0.0.1 wwww.640640.com
 127.0.0.1 wx.paigu.com
 127.0.0.1 wxmmh.net
 127.0.0.1 wywk.seuxm.cn
