@@ -3969,6 +3969,7 @@
 127.0.0.1 dl.mbsea.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
+127.0.0.1 dm.jinshasi.cn
 127.0.0.1 dm.kingpolo.com.cn
 127.0.0.1 dm.shanghuitianxia.cn
 127.0.0.1 dn.5269120.com
@@ -4350,6 +4351,7 @@
 127.0.0.1 m.hhllyt.com
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 m.huananb.com
+127.0.0.1 m.internerl.com
 127.0.0.1 m.itskonka.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 m.joyfuldoors.com
@@ -4373,6 +4375,7 @@
 127.0.0.1 m.qlonglong.com
 127.0.0.1 m.qoiusky.com
 127.0.0.1 m.qqyue.top
+127.0.0.1 m.redmangokids.com
 127.0.0.1 m.represented.cn
 127.0.0.1 m.resetgey.com
 127.0.0.1 m.riqu2015.com
@@ -4514,6 +4517,7 @@
 127.0.0.1 rbjs.chinassp.cn
 127.0.0.1 rc.haodongkeji.cn
 127.0.0.1 rc.szfaq.com
+127.0.0.1 re.fcrdb.com
 127.0.0.1 rfv.ws7j.com
 127.0.0.1 rj.huajingfood.cn
 127.0.0.1 rjs.niuxgame77.com
@@ -4889,6 +4893,7 @@
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.punuomisi.cn
 127.0.0.1 www.qdlansehaiwan.com
+127.0.0.1 www.qigemm.com
 127.0.0.1 www.qinxiu261.com
 127.0.0.1 www.qrsw.net
 127.0.0.1 www.sbrqp.com
