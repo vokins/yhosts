@@ -150,7 +150,6 @@
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 httpdns.push.oppomobile.com
 #oppo-browser
-127.0.0.1 dhfs.oppomobile.com
 127.0.0.1 i.flow.browser.oppomobile.com
 127.0.0.1 imagzine.oppomobile.com
 127.0.0.1 fs.uc.nearme.com.cn

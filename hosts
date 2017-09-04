@@ -1,5 +1,5 @@
 
-#version=201709031733
+#version=20170904 758
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1377,7 +1377,6 @@
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 httpdns.push.oppomobile.com
-127.0.0.1 dhfs.oppomobile.com
 127.0.0.1 i.flow.browser.oppomobile.com
 127.0.0.1 imagzine.oppomobile.com
 127.0.0.1 fs.uc.nearme.com.cn
@@ -3163,6 +3162,7 @@
 127.0.0.1 5568.gjghy.com
 127.0.0.1 57.jtydbz.com
 127.0.0.1 5zkj.com
+127.0.0.1 749808.com
 127.0.0.1 7mnpeh.com1.z0.glb.clouddn.com
 127.0.0.1 8866786.com
 127.0.0.1 888.jiuwanwang.com
@@ -3186,6 +3186,7 @@
 127.0.0.1 ad.tatatimes.com
 127.0.0.1 adimg.bbcss.com
 127.0.0.1 admin.louxia.org
+127.0.0.1 adrunnr.com
 127.0.0.1 ads.passiontimes.hk
 127.0.0.1 aec.shjk123.net
 127.0.0.1 afesd.zjytyz.com
@@ -3235,6 +3236,7 @@
 127.0.0.1 brizads.com
 127.0.0.1 bt641499.gotoip4.com
 127.0.0.1 bu.jxxcfd.com
+127.0.0.1 buyu8001.com
 127.0.0.1 bz.cnjianzhan.net
 127.0.0.1 bz.lhzly.com
 127.0.0.1 c.45io.com
@@ -3307,6 +3309,7 @@
 127.0.0.1 d21.deyidai.cn
 127.0.0.1 d28c4.qdgetrich.com
 127.0.0.1 d5.doudou583.com
+127.0.0.1 d8885.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 da.qgss8.com
@@ -3389,6 +3392,7 @@
 127.0.0.1 f.hongm.com
 127.0.0.1 f3.vedeh.com
 127.0.0.1 f56g.me
+127.0.0.1 fastpopunder.com
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 fflsn.com
 127.0.0.1 ffre.ffrepair.com
@@ -3542,6 +3546,7 @@
 127.0.0.1 j.jqbee.com
 127.0.0.1 j.klsdmr.com
 127.0.0.1 j.mzdmzd.com
+127.0.0.1 j.neemzksw.com
 127.0.0.1 j.qiqivv.com
 127.0.0.1 j.qiqiww.com
 127.0.0.1 j.sc1369.com
@@ -3961,6 +3966,7 @@
 127.0.0.1 sha.hnasd.com
 127.0.0.1 sha.qjjtc.com
 127.0.0.1 sha.shazhouapparel.com
+127.0.0.1 sha50.com
 127.0.0.1 shen.zgfszs.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 shi.xacqp.com
@@ -4160,7 +4166,9 @@
 127.0.0.1 www.17168.com
 127.0.0.1 www.17un.com
 127.0.0.1 www.2016bobo.cf
+127.0.0.1 www.22222jsc.com
 127.0.0.1 www.222627.com
+127.0.0.1 www.256ppp.com
 127.0.0.1 www.3388pjdc.com
 127.0.0.1 www.3jhm.com
 127.0.0.1 www.4207008.com
@@ -4227,6 +4235,8 @@
 127.0.0.1 www.icdxc.com
 127.0.0.1 www.iiad.com
 127.0.0.1 www.istage.com.cn
+127.0.0.1 www.jav23.com
+127.0.0.1 www.jinsha11833.com
 127.0.0.1 www.jjsszy.com
 127.0.0.1 www.jndczg.com
 127.0.0.1 www.ju12345.com
@@ -4246,9 +4256,11 @@
 127.0.0.1 www.lynndollin.com
 127.0.0.1 www.lyztdz.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 www.missweike007.com
 127.0.0.1 www.mohecm.com
 127.0.0.1 www.mountex.cn
 127.0.0.1 www.nbjjd.com
+127.0.0.1 www.nextlnk9.com
 127.0.0.1 www.nmpcdn.com
 127.0.0.1 www.number1cp.cn
 127.0.0.1 www.nvshenfan.com
@@ -4257,6 +4269,7 @@
 127.0.0.1 www.ooniu.com
 127.0.0.1 www.pasco.cc
 127.0.0.1 www.pintour.com
+127.0.0.1 www.pj550077.com
 127.0.0.1 www.poctd.com
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.punuomisi.cn
@@ -4264,6 +4277,8 @@
 127.0.0.1 www.qigemm.com
 127.0.0.1 www.qinxiu261.com
 127.0.0.1 www.qrsw.net
+127.0.0.1 www.rrcai.com
+127.0.0.1 www.sa909.com
 127.0.0.1 www.sbrqp.com
 127.0.0.1 www.schborg.com
 127.0.0.1 www.semmdh.info
@@ -4278,6 +4293,8 @@
 127.0.0.1 www.symmz.com
 127.0.0.1 www.sytcyf.com
 127.0.0.1 www.szyr341.com
+127.0.0.1 www.szyr474.com
+127.0.0.1 www.taobaobo5.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
@@ -4355,6 +4372,7 @@
 127.0.0.1 zhzywl.cc
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl.yoomj.com
+127.0.0.1 zl8206.huliangongyu.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 zz12x.net
 127.0.0.1 zzz7.52896368.com
@@ -6159,6 +6177,13 @@
 127.0.0.1 app.adjust.com
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
+127.0.0.1 a.adk2x.com
+127.0.0.1 adk2x.com
+127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 ns8.adk2x.com
+127.0.0.1 wmedia.adk2x.com
+127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 ads.admarvel.com
 127.0.0.1 www.admarvel.com
 127.0.0.1 admedia.com
