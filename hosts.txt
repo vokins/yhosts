@@ -1055,6 +1055,8 @@
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 sy.flash.mytanwan.com
+127.0.0.1 e.nbhaosheng168.com
+127.0.0.1 m.nbhaosheng168.com
 127.0.0.1 cp.nmbtedu.com
 127.0.0.1 tl.nmbtedu.com
 127.0.0.1 cdn1.res.nx5.com
@@ -1089,6 +1091,8 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
+127.0.0.1 s.qqhpg.com
+127.0.0.1 in.qqhpg.com
 127.0.0.1 xco.qwxcs.com
 127.0.0.1 xji.qwxcs.com
 127.0.0.1 c.rexuebi.com
@@ -3959,6 +3963,7 @@
 127.0.0.1 da.qhdop.com
 127.0.0.1 da.yxjad.com
 127.0.0.1 dadi.c0563.com
+127.0.0.1 dan.chersc.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 data.3975.com
 127.0.0.1 daz.jinshasi.cn
@@ -5013,6 +5018,7 @@
 127.0.0.1 zhou.qhaif.com
 127.0.0.1 zhtjdl.com
 127.0.0.1 zhzywl.cc
+127.0.0.1 zi.ynbzxh.com
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl.yoomj.com
 127.0.0.1 zl8206.huliangongyu.com

@@ -972,6 +972,8 @@
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 sy.code.mytanwan.com
 127.0.0.1 sy.flash.mytanwan.com
+127.0.0.1 e.nbhaosheng168.com
+127.0.0.1 m.nbhaosheng168.com
 127.0.0.1 cp.nmbtedu.com
 127.0.0.1 tl.nmbtedu.com
 127.0.0.1 cdn1.res.nx5.com
@@ -1006,6 +1008,8 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 c2.popads.net
 127.0.0.1 serve.popads.net
+127.0.0.1 s.qqhpg.com
+127.0.0.1 in.qqhpg.com
 127.0.0.1 xco.qwxcs.com
 127.0.0.1 xji.qwxcs.com
 127.0.0.1 c.rexuebi.com

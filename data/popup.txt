@@ -171,6 +171,7 @@
 127.0.0.1 da.qhdop.com
 127.0.0.1 da.yxjad.com
 127.0.0.1 dadi.c0563.com
+127.0.0.1 dan.chersc.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 data.3975.com
 127.0.0.1 daz.jinshasi.cn
@@ -1225,6 +1226,7 @@
 127.0.0.1 zhou.qhaif.com
 127.0.0.1 zhtjdl.com
 127.0.0.1 zhzywl.cc
+127.0.0.1 zi.ynbzxh.com
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl.yoomj.com
 127.0.0.1 zl8206.huliangongyu.com
