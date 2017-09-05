@@ -3,7 +3,9 @@ http://dspimg.adsame.com/flv/20170810141157_592.jpg
 http://dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com/c?z=ft&la=0&si=600&cg=2023&c=20230119&ci=673&or=3827&l=605460&bg=9114&b=30660&u=https://ad.doubleclick.net/ddm/trackclk/N5840.139612.1071020274421/B20208468.203238950;dc_trk_aid=403016668;dc_trk_cid=91843725
 https://yun.tuia.cn/tuia-media/img/y7via1wl2g.gif
 code.hot-mob.com/api/javascript/sdk4/lib/ads.js
-
+<script type="text/javascript" src="http://bdjs.laonanren.com/cpro/ui/mi.js"></script>
+<script type="text/javascript" src="http://a1.yyfensi.com/py3a1ecf91f2c9fe31db1f22c5b8e731ea5bf1d44a38ed3c.js"></script>
+<iframe width="1263" frameborder="0" height="885" scrolling="no" src="http://a2.yyfensi.com/jkvxcsk?mjn=JJG&amp;bni=CDHE&amp;in=5DJCGEKK&amp;qyz=s440kELkDQkDQrki99qpy3tkinzxkDQykDQDBBCDkis4xw&amp;fsy=C&amp;ih=D&amp;jcux=CCCBBC&amp;inx=B&amp;fwn=D&amp;yuw=CGBFGIEIFFDEH&amp;iyr=SbXWi_Zab&amp;0f3=42wuu14ozk43z93sor&amp;vr3=l01o29e61l1ndvlsor&amp;ad7=outwpiyfn7aqz9nqaor"></iframe>
 static.doubleclick.net/instream/ad_status.js
 http://dmt.qcrx.cn/tps/noexpire/img/4.0.0/pc_ads_bear.1x.png
 http://jsym.qcrx.cn/swfxb?byc=D4&qcx=DD4&xc=y6C8B6BC&fno=lxxtd7Ed6Jd6J000dbtmrkkyspzdbgsqd6Jwpd6Jlsrkhsyd6J&xcm=4&xw=6&njl=5946DBCC74B5A&ulc=6&yrj

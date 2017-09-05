@@ -1,5 +1,5 @@
 
-#version=201709042228
+#version=20170905 912
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2558,6 +2558,9 @@
 127.0.0.1 dmt.qcrx.cn
 127.0.0.1 jsym.qcrx.cn
 127.0.0.1 mip.yuelvxing.com
+127.0.0.1 bdjs.laonanren.com
+127.0.0.1 a1.yyfensi.com
+127.0.0.1 a2.yyfensi.com
 127.0.0.1 ad1.yangjinyou.com
 127.0.0.1 ad2.yangjinyou.com
 127.0.0.1 pic.fengniao.com

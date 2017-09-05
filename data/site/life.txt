@@ -42,3 +42,7 @@
 127.0.0.1 jsym.qcrx.cn
 #yuelvxing.com
 127.0.0.1 mip.yuelvxing.com
+#yyfensi.com
+127.0.0.1 bdjs.laonanren.com
+127.0.0.1 a1.yyfensi.com
+127.0.0.1 a2.yyfensi.com
