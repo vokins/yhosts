@@ -18,7 +18,6 @@
 @errorpage/inside
 127.0.0.1 s.youzhuanhua.com
 @errorpage/daohang
-127.0.0.1 hao.360.cn
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
 127.0.0.1 m.hao123.com

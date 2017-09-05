@@ -51,8 +51,7 @@
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
 127.0.0.1 www.jiedaibao.com
-#down-qq
-127.0.0.1 guanjia.qq.com
+#down-
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 c.gj.qq.com
