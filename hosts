@@ -1,5 +1,5 @@
 
-#version=20170905 932
+#version=201709061436
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3809,6 +3809,7 @@
 127.0.0.1 mo.uryaki.com
 127.0.0.1 mob.coolnay.com
 127.0.0.1 mob.huimee.net
+127.0.0.1 moren-1252794300.file.myqcloud.com
 127.0.0.1 mpic.jmgehn.cn
 127.0.0.1 ms.myyage.com
 127.0.0.1 mssp.yuanfenba.net
@@ -4053,6 +4054,7 @@
 127.0.0.1 t2.vbxx.net
 127.0.0.1 t3shz.jinanhe.com.cn
 127.0.0.1 t8.dnvus.com
+127.0.0.1 tai.zwkssb.com
 127.0.0.1 tan.idcqi.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 tf.caohua.com
@@ -4116,6 +4118,7 @@
 127.0.0.1 vip.9wjc.com
 127.0.0.1 vip.at98.com
 127.0.0.1 vip.cainiaofx.com
+127.0.0.1 vip.honghelvdian.com
 127.0.0.1 vip.hys4.com
 127.0.0.1 vip.id528.com
 127.0.0.1 vip.jindu179.com
@@ -6816,6 +6819,8 @@
 127.0.0.1 c16cp358.com
 127.0.0.1 fc56b.me
 127.0.0.1 hjc1990.com
+127.0.0.1 m.qulishi.com
+127.0.0.1 m.xingxd.com
 127.0.0.1 pj3456.com
 127.0.0.1 pj50.com
 127.0.0.1 sd3.44276644.com
