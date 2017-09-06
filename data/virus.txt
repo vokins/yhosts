@@ -63,6 +63,7 @@
 127.0.0.1 www.bet36500050.com
 127.0.0.1 www.c77777777.com
 127.0.0.1 www.d77777777.com
+127.0.0.1 www.fenxiang7.com
 127.0.0.1 www.hg417.bet
 127.0.0.1 www.hg89038.com
 127.0.0.1 www.hg89068.com

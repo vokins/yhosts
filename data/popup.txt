@@ -402,6 +402,7 @@
 127.0.0.1 j.fzjycj.com
 127.0.0.1 j.jqbee.com
 127.0.0.1 j.klsdmr.com
+127.0.0.1 j.mvywgw.cn
 127.0.0.1 j.mzdmzd.com
 127.0.0.1 j.neemzksw.com
 127.0.0.1 j.qiqivv.com

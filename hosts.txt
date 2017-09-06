@@ -2576,6 +2576,9 @@
 127.0.0.1 a.mianbao99.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
+#www.zzlxs.net
+127.0.0.1 www.maimaiol.com
+127.0.0.1 www.360hllx.com
 #9553.com
 127.0.0.1 bdjs.6237237.com
 127.0.0.1 down.91wangmeng.com
@@ -4201,6 +4204,7 @@
 127.0.0.1 j.fzjycj.com
 127.0.0.1 j.jqbee.com
 127.0.0.1 j.klsdmr.com
+127.0.0.1 j.mvywgw.cn
 127.0.0.1 j.mzdmzd.com
 127.0.0.1 j.neemzksw.com
 127.0.0.1 j.qiqivv.com
@@ -7876,6 +7880,7 @@
 127.0.0.1 www.bet36500050.com
 127.0.0.1 www.c77777777.com
 127.0.0.1 www.d77777777.com
+127.0.0.1 www.fenxiang7.com
 127.0.0.1 www.hg417.bet
 127.0.0.1 www.hg89038.com
 127.0.0.1 www.hg89068.com
