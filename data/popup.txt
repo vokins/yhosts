@@ -279,7 +279,6 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.onclasrv.com
-127.0.0.1 go.ruanmei.com
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
@@ -568,6 +567,7 @@
 127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.desaysmart.com
 127.0.0.1 m.detuns.com
+127.0.0.1 m.dilcn.net
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.flowcodeapp.com
