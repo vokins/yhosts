@@ -1,5 +1,5 @@
 
-#version=201709061759
+#version=20170907 900
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1260,6 +1260,7 @@
 127.0.0.1 page.v5.yy.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
+127.0.0.1 mobile.yangkeduo.com
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
 127.0.0.1 m.hao123.com
@@ -4316,6 +4317,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
+127.0.0.1 www.ttcdn.cn
 127.0.0.1 www.tui1999.com
 127.0.0.1 www.uzbciwrwzzhs.com
 127.0.0.1 www.whcrdz.com

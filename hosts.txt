@@ -1387,6 +1387,7 @@
 127.0.0.1 tj.koudaitong.com
 @errorpage/inside
 127.0.0.1 s.youzhuanhua.com
+127.0.0.1 mobile.yangkeduo.com
 @errorpage/daohang
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
@@ -4962,6 +4963,7 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
+127.0.0.1 www.ttcdn.cn
 127.0.0.1 www.tui1999.com
 127.0.0.1 www.uzbciwrwzzhs.com
 127.0.0.1 www.whcrdz.com
