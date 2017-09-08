@@ -168,6 +168,7 @@
 127.0.0.1 d8885.com
 127.0.0.1 da.ddanq.com
 127.0.0.1 da.hxspc.com
+127.0.0.1 da.pdkuai.com
 127.0.0.1 da.qgss8.com
 127.0.0.1 da.qhdop.com
 127.0.0.1 da.yxjad.com
@@ -516,6 +517,7 @@
 127.0.0.1 kn.awyys.com
 127.0.0.1 kn.dahecg.com
 127.0.0.1 kn.hnhqsc.com
+127.0.0.1 kn.kymrzx.com
 127.0.0.1 kn.tjygyz.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 kuang.myzk1.com
@@ -526,6 +528,7 @@
 127.0.0.1 lao.zxhymh.com
 127.0.0.1 lcktg00.com
 127.0.0.1 le.5dydk.com
+127.0.0.1 le.dtzysm.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
 127.0.0.1 llsp.gfd80.com
