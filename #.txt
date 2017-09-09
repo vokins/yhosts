@@ -1,4 +1,6 @@
-﻿
+﻿wuliao.ganji.cn
+http://jiaoben.ganji.cn/tps/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js
+http://analytics.ganji.com/e.gif?gjch=/wu/shoujihao/detail@post_id=74863277@agent=0@ad_type=0@source_type=3@puid=2329344175&gc=/wu/shoujihao/-/-/detail@agent=0&ge=100000002953000100000001@pageType=2@city=307@district=836@street=-1@category=14@major=510@minor=-1@tag=-1@union_id=2@af_id=55@pos_div=27@large_screen=0@client_id=okdab1qf7w@google_ad_slot=@atype=show@reqid=cf6bac0c-3b40-44aa-9b3e-19f16b7ab433&uuid=2696811354956168955510&gjuser=-7449356661961093996&sid=68011313037&ca_source=-&ca_name=-&ca_kw=-&ca_id=-&ca_s=self&ca_n=-&ca_i=-&ifid=-&r=15&gjchver=A&reqid=cf6bac0c-3b40-44aa-9b3e-19f16b7ab433
 
 delete_recursive("/sdcard/MoreExchange");
 delete_recursive("/sdcard/QQSecureDownload");
