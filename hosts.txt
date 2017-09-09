@@ -3287,6 +3287,7 @@
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pcvideoyd.titan.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 py.da.mgtv.com
@@ -3305,6 +3306,7 @@
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 v2.res.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
+127.0.0.1 x1.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
 #http://m.youku.com/
 127.0.0.1 adp.atm.youku.com
