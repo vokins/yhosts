@@ -1,5 +1,5 @@
 
-#version=201709081758
+#version=201709091427
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2100,8 +2100,10 @@
 127.0.0.1 s.m.xqingdou.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.com
+127.0.0.1 asdadasdasda.m.xs222.tw
 127.0.0.1 fyduswkx.m.xs222.tw
 127.0.0.1 gdhyfgd.m.xs222.tw
+127.0.0.1 woriniyy.m.xs222.tw
 127.0.0.1 include.xs2345.com
 127.0.0.1 flux.faloo.com
 127.0.0.1 gfnksw.wap.xxbiquge.com
@@ -2307,6 +2309,8 @@
 127.0.0.1 creatives1.ftimg.net
 127.0.0.1 dolphin.ftimg.net
 127.0.0.1 dolphin4.ftimg.net
+127.0.0.1 rosi.okkkk.com
+127.0.0.1 jack.okkkk.com
 127.0.0.1 cod.southmoney.com
 127.0.0.1 icn.southmoney.com
 127.0.0.1 tongji.southmoney.com
@@ -2708,12 +2712,16 @@
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
+127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcvideoyd.titan.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
+127.0.0.1 py.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
+127.0.0.1 y.da.mgtv.com
 127.0.0.1 flv.res.hunantv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.v2.hunantv.com
@@ -3343,6 +3351,7 @@
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.zymro.com
 127.0.0.1 diomedis.online
+127.0.0.1 dip.fzglqyy.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
 127.0.0.1 dl.kinbest.cn

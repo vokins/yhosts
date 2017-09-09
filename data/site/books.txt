@@ -68,8 +68,10 @@
 #m.xs222.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 gdhyfgd.m.xs222.com
+127.0.0.1 asdadasdasda.m.xs222.tw
 127.0.0.1 fyduswkx.m.xs222.tw
 127.0.0.1 gdhyfgd.m.xs222.tw
+127.0.0.1 woriniyy.m.xs222.tw
 #m.xs2345.com
 127.0.0.1 include.xs2345.com
 #s.faloo.com

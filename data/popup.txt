@@ -186,6 +186,7 @@
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.zymro.com
 127.0.0.1 diomedis.online
+127.0.0.1 dip.fzglqyy.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
 127.0.0.1 dl.kinbest.cn
