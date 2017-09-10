@@ -1,0 +1,12 @@
+@site/comic
+#m.daman.cc
+127.0.0.1 g.daman.cc
+#m.tuku.cc
+127.0.0.1 bdjm.tuku.cc
+127.0.0.1 sougouwap.tuku.cc
+#www.dm530.com
+127.0.0.1 dm531.dm530.net
+127.0.0.1 dm532.dm530.net
+#www.u17.com
+127.0.0.1 tj.u17t.com
+127.0.0.1 s.cdn.u17t.com

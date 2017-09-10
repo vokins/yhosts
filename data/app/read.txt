@@ -40,8 +40,8 @@
 127.0.0.1 imgad.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
+127.0.0.1 temai.snssdk.com
 127.0.0.1 analytics.snssdk.com
-127.0.0.1 ib.snssdk.com
 127.0.0.1 pb3.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
@@ -75,5 +75,7 @@
 127.0.0.1 stats.magicwindow.cn
 #http://zhangyue.com/
 127.0.0.1 am.g.ireader.com
-127.0.0.1 push.zhangyue.com
 127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 m.ad.zhangyue.com
+127.0.0.1 push.zhangyue.com
+127.0.0.1 sys.zhangyue.com

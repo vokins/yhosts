@@ -42,4 +42,6 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 mg.yadro.ru
 #yandex.ru
+127.0.0.1 an.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 st.yandexadexchange.net

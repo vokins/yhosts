@@ -1,3 +1,6 @@
+#http://www.1ting.com/
+127.0.0.1 bddm.999d.com
+127.0.0.1 bdjs.999d.com
 #http://www.duomi.com/
 127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
@@ -39,7 +42,6 @@
 #http://m.qingting.fm/
 127.0.0.1 ad.qingting.fm
 127.0.0.1 s.qtad.qingting.fm
-127.0.0.1 od.qingting.fm
 #http://m.ximalaya.com/
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adse.ximalaya.com

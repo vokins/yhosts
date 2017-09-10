@@ -97,116 +97,69 @@
 127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
-#cm-ksmobile
-127.0.0.1 beha.ksmobile.com
-127.0.0.1 ads.dh.duba.com
-#cm-wps
-127.0.0.1 ad.docer.wps.cn
-127.0.0.1 docerad.wps.cn
-127.0.0.1 gou.wps.cn
-127.0.0.1 img1.mini.cache.wps.cn
-127.0.0.1 img2.mini.cache.wps.cn
-127.0.0.1 info.wps.cn
-127.0.0.1 minfo.wps.cn
-127.0.0.1 notify.wps.cn
-127.0.0.1 pcfg.wps.cn
-127.0.0.1 push.wps.cn
-127.0.0.1 wpsweb-dc.wps.cn
-127.0.0.1 up.wps.kingsoft.com
-127.0.0.1 bannera.kingsoft-office-service.com
-127.0.0.1 cloudservice15.kingsoft-office-service.com
-127.0.0.1 cloudservice19.kingsoft-office-service.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
-127.0.0.1 cloudservice28.kingsoft-office-service.com
-127.0.0.1 rating6.kingsoft-office-service.com
-127.0.0.1 bole.shangshufang.ksosoft.com
-127.0.0.1 hoplink.ksosoft.com
-127.0.0.1 ic.ksosoft.com
-127.0.0.1 pc.uf.ksosoft.com
-127.0.0.1 pixiu.shangshufang.ksosoft.com
-127.0.0.1 dl.op.wpscdn.cn
-127.0.0.1 img.gou.wpscdn.cn
-127.0.0.1 news.op.wpscdn.cn
-127.0.0.1 news.docer.com
-127.0.0.1 img.particlenews.com
-127.0.0.1 openapi.particlenews.com
-127.0.0.1 rl.go2yd.com
-127.0.0.1 o.go2yd.com
-127.0.0.1 s.go2yd.com
-127.0.0.1 api.zhuashouji.com
-127.0.0.1 m.zhuashouji.com
-127.0.0.1 dfnews.rdtuijian.com
-127.0.0.1 ic.rdtuijian.com
-127.0.0.1 a.mini.eastday.com
-127.0.0.1 mini.eastday.com
-127.0.0.1 cnc.ef-cdn.com
-127.0.0.1 img.xingzuo360.cn
-127.0.0.1 tg.602.com
-127.0.0.1 tg.654321wan.com
-127.0.0.1 tg.7477.com
-127.0.0.1 cd.800wen.com
-127.0.0.1 www.gongzhushe.com
-127.0.0.1 www.jbaobao.com
-127.0.0.1 www.maibanu.com
-127.0.0.1 www.duba.com
-#miui-mi
-127.0.0.1 d.g.mi.com
-127.0.0.1 migc.g.mi.com
-127.0.0.1 migcreport.g.mi.com
-127.0.0.1 mis.g.mi.com
-127.0.0.1 sg.a.stat.mi.com
 #miui-xiaomi
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 abtest.mistat.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 mlog.search.xiaomi.net
-127.0.0.1 resolver.msg.xiaomi.net
-127.0.0.1 resolver.gslb.mi-idc.com
-127.0.0.1 union.dbba.cn
-#miui-tv
-127.0.0.1 bss.pandora.xiaomi.com
-127.0.0.1 de.pandora.xiaomi.com
-127.0.0.1 dvb.pandora.xiaomi.com
-127.0.0.1 jellyfish.pandora.xiaomi.com
-127.0.0.1 stat.pandora.xiaomi.com
 #miui--1
 127.0.0.1 shenghuo.xiaomi.com
 #miui-browser
 127.0.0.1 mb.yidianzixun.com
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
-127.0.0.1 security.browser.miui.com
-127.0.0.1 fcanr.tracking.miui.com
-127.0.0.1 tracking.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
-127.0.0.1 api.tw06.xlmc.sandai.net
-127.0.0.1 pre.api.tw06.xlmc.sandai.net
-127.0.0.1 test.api.xlmc.sandai.net
-127.0.0.1 tw13b093.sandai.net
-127.0.0.1 sousuo.xm.sjzhushou.com
 #miui-file
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 #miui-game
-127.0.0.1 app.migc.xiaomi.com
-127.0.0.1 data.game.xiaomi.com
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
 #miui-sec
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 info.sec.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 beha.ksmobile.com
+127.0.0.1 up.cm.ksmobile.com
 #miui-weather
 127.0.0.1 wtradv.market.xiaomi.com
-127.0.0.1 staging.admin.e.mi.com
+#miui-wps
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 event.ksosoft.com
+127.0.0.1 uid.ksosoft.com
+127.0.0.1 ups.ksmobile.net
+127.0.0.1 ws.ksmobile.net
+#mitv
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
 @mokee
 127.0.0.1 stats.mokeedev.com
+@oppo
+#oppo-ads
+127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 bdapi.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 httpdns.push.oppomobile.com
+#oppo-browser
+127.0.0.1 i.flow.browser.oppomobile.com
+127.0.0.1 imagzine.oppomobile.com
+127.0.0.1 fs.uc.nearme.com.cn
+127.0.0.1 i.stat.nearme.com.cn
+127.0.0.1 kv.stat.nearme.com.cn
+127.0.0.1 stat.browser.nearme.com.cn
+127.0.0.1 oppo.yidianzixun.com
+127.0.0.1 i1.go2yd.com
+127.0.0.1 rl.go2yd.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 web-track.go2yd.com
+@xgimi.com
+127.0.0.1 analytics.xgimi.com

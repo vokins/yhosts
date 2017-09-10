@@ -39,6 +39,8 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 mpb1.iteye.com
+127.0.0.1 mpb2.iteye.com
 #dedecms.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -96,6 +98,11 @@
 127.0.0.1 all.rising.com.cn
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
+#ruanmei
+127.0.0.1 d.ruanmei.com
+127.0.0.1 down.ruanmei.com
+127.0.0.1 go.ruanmei.com
+127.0.0.1 m.ruanmei.com
 #safedog.cn
 127.0.0.1 404.safedog.cn
 #www.2cto.com

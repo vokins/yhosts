@@ -38,6 +38,9 @@
 127.0.0.1 cr.wowxt.com
 127.0.0.1 s.shaxiq.com
 127.0.0.1 stat.ff.zmres.com
+#http://m.liuxiaoer.com/
+127.0.0.1 fan.liuxiaoer.com
+127.0.0.1 xi.liuxiaoer.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
 #m.xuexila.com
@@ -56,3 +59,7 @@
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
 127.0.0.1 dm.gzpinda.com
+#zuoyebang
+127.0.0.1 bu01.zybang.com
+127.0.0.1 bu02.zybang.com
+127.0.0.1 img.zuoyebang.cc

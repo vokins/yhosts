@@ -1,21 +1,3 @@
-@site-foregin
-@site-foregin/adult
-#91porn.com
-127.0.0.1 fans.bestvogue.com
-@site-foregin/news
-#m.cn.rfi.fr
-127.0.0.1 nexus.ensighten.com
-#m.cn.nytimes.com
-127.0.0.1 cdn.krxd.net
-@site-foregin/sns
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
-#wp.com
-127.0.0.1 stats.wp.com
-@site-foregin/tools
-#pingdom
-127.0.0.1 rum-collector.pingdom.net
-127.0.0.1 rum-static.pingdom.net
 @site-us
 #abcnews
 127.0.0.1 adsatt.abcnews.starwave.com
@@ -42,15 +24,12 @@
 127.0.0.1 advertising.aol.com
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
-127.0.0.1 o.sa.aol.com
 127.0.0.1 s.sa.aol.com
 127.0.0.1 ar.atwola.com
 127.0.0.1 ar1.atwola.com
 127.0.0.1 ar7.atwola.com
 127.0.0.1 ar9.atwola.com
 127.0.0.1 at.atwola.com
-127.0.0.1 cdn.at.atwola.com
-127.0.0.1 cdn.atwola.com
 127.0.0.1 pr.atwola.com
 127.0.0.1 tacoda.at.atwola.com
 127.0.0.1 ads.intergi.com

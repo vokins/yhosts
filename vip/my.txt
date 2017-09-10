@@ -1,4 +1,8 @@
-127.0.0.1 www.yhd.com
+#iqiyi-down
 127.0.0.1 mbdapp.iqiyi.com
 #miui-calendar
 127.0.0.1 api.comm.miui.com
+#miui-update
+127.0.0.1 update.miui.com
+#360-down
+127.0.0.1 down.360safe.com

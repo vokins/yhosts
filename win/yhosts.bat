@@ -1,5 +1,5 @@
 @echo off
-ver=下午10:19 2017/5/14
+ver=下午 5:46 2017/9/8 星期五
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo.&Echo 请使用右键“以管理员身份运行”&&Pause >NUL&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableExtensions
@@ -26,9 +26,9 @@ if not %str%==%date:~0,4%%date:~5,2%31 (goto Xunlei)
 goto :eof
 
 :downgrd
-rem wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts -e use_proxy=yes -e http_proxy=127.0.0.1:9666
+rem wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts -e use_proxy=yes -e http_proxy=127.0.0.1:9666
 wget -c --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-wget -c --no-check-certificate -O 1.txt https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+wget -c --no-check-certificate -O 1.txt https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts-files/hosts
 rem wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/sy618/hosts/master/FQ
 wget -c --no-check-certificate -O 2.txt https://raw.githubusercontent.com/ss916/bug/master/log/bug
 copy /a 1.txt + 2.txt grd.txt

@@ -7,7 +7,6 @@
 #down-360
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
-127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
@@ -52,8 +51,7 @@
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
 127.0.0.1 www.jiedaibao.com
-#down-qq
-127.0.0.1 guanjia.qq.com
+#down-
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 c.gj.qq.com
@@ -167,3 +165,11 @@
 127.0.0.1 script.crazyegg.com
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 static.hotjar.com
+127.0.0.1 ffb.feihuo.com
+127.0.0.1 download.fuyuncc.com
+127.0.0.1 13023.url.7wkw.com
+127.0.0.1 img.ercfh.com
+127.0.0.1 xz.ercfh.com
+127.0.0.1 m.zzxbn.com
+127.0.0.1 ntamobapps.com
+127.0.0.1 www.fanqianbb.com

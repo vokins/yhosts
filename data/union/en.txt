@@ -25,6 +25,14 @@
 #adk2.co
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
+#adk2x.com
+127.0.0.1 a.adk2x.com
+127.0.0.1 adk2x.com
+127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 adsrvmedia.adk2x.com
+127.0.0.1 ns8.adk2x.com
+127.0.0.1 wmedia.adk2x.com
+127.0.0.1 yepdigital.adk2x.com
 #admarvel.com
 127.0.0.1 ads.admarvel.com
 127.0.0.1 www.admarvel.com
@@ -479,6 +487,7 @@
 127.0.0.1 ws.tapjoyads.com
 #trafficjunky.net
 127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
 127.0.0.1 vz-cdn.trafficjunky.net
 #turn
 127.0.0.1 analytics.turn.com

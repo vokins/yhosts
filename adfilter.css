@@ -3,8 +3,8 @@
 /* i really want this to be global */
 
 /*
-Name: /基础广告过滤
-Version: 0.0.0.5
+Name: /鍩虹骞垮憡杩囨护
+Version: 0.0.0.6
 Author: vokins
 Url: http://code.taobao.org/svn/simpleu/trunk/css/adfilter.css
 Lastchage: 11:18 2017/4/10
@@ -12,15 +12,16 @@ Description: MayBe a better User CSS Help U.
 */
 
 
-/* 位置 */
+/* 浣嶇疆 */
 div[class*="top_ad"],
 div[class*="_adtop_"],
 div[class*="index_ad"],
+div[class*="-right-ad"],
 span[class*="channel_ad"]
 {
 display: none !important;
 	}
-/* 文字 */
+/* 鏂囧瓧 */
 div[class*="ad_text"],
 div[class*="textlink_ad"]
 {
@@ -28,7 +29,7 @@ display: none !important;
 	}
 
 
-/* 通用 */
+/* 閫氱敤 */
 [src*="/advertisement/"]
 {
 display: none !important;
@@ -66,5 +67,10 @@ display: none !important;
 
 /* 163 */
 [src*=".126.net/ntesrich/2"],[src^="http://g.163.com/"],a[href^="http://rd.da.netease.com/"],iframe[src*=".126.net/channel"]{
+display: none !important;
+	}
+
+/* douyu */
+div[class^="room-ad-"],div[class="chat-ad"],div[class="no-login"],ul[class="promos"][data-type="promos"]{
 display: none !important;
 	}

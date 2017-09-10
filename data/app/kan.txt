@@ -25,7 +25,12 @@
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
-#cctv
+#http://app.cctv.com/appkhdxz/ydb/index.shtml
+127.0.0.1 mdrecv.app.cntvwb.cn
+127.0.0.1 sdapprecv.app.cntvwb.cn
+127.0.0.1 vdapprecv.app.cntvwb.cn
+127.0.0.1 cws-cctv.conviva.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 #fun.tv
 127.0.0.1 aa0.pub.funshion.com
@@ -34,6 +39,7 @@
 127.0.0.1 conf.funshion.com
 127.0.0.1 jobsfe.funshion.com
 127.0.0.1 pub.funshion.com
+127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
 127.0.0.1 stat.funshion.net
 127.0.0.1 fun.adx.admaster.com.cn
@@ -44,6 +50,10 @@
 127.0.0.1 log1.molitv.cn
 127.0.0.1 log2.molitv.cn
 127.0.0.1 track.molitv.cn
+#OpenSubtitles.org
+127.0.0.1 ads2.opensubtitles.org
+#http://www.tiantiankan123.com/
+127.0.0.1 item.ttkvod.com
 #http://www.wasu.cn/
 127.0.0.1 ads.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
@@ -60,10 +70,9 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 m.aty.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
-127.0.0.1 push.ott.sohu.com
-127.0.0.1 ottpush.itc.cn
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 xtrader-mipdx.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
@@ -98,6 +107,8 @@
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
+127.0.0.1 ads.aplus.pptv.com
+127.0.0.1 app.aplus.pptv.com
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 img1.g.pptv.com

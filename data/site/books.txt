@@ -1,0 +1,88 @@
+@site/books
+#baidu.book.3g.cn
+127.0.0.1 www.xxeden.com
+#m.69shuwu.com
+127.0.0.1 c.69shuwu.com
+127.0.0.1 s.69shuwu.com
+#m.7788xs.cc
+127.0.0.1 a.7788xs.net
+127.0.0.1 b.7788xs.net
+#m.biquge.com.tw
+127.0.0.1 tmc.biquge.com.tw
+127.0.0.1 tmc.biquge.com
+#m.bmwen.com
+127.0.0.1 a.bmwen.com
+127.0.0.1 b.bmwen.com
+#m.bookben.com
+127.0.0.1 guffs.m.bookben.com
+127.0.0.1 gufft.m.bookben.com
+#m.booktxt.net
+127.0.0.1 tt.booktxt.net
+#m.d8qu.com
+127.0.0.1 d1r2c3w.m.d8qu.com
+127.0.0.1 drc.d8qu.com
+127.0.0.1 drcc.d8qu.com
+127.0.0.1 drsw.m.d8qu.com
+127.0.0.1 kdv.d8qu.com
+127.0.0.1 7777c.m.d8qu.com
+#m.dingdianzw.com
+127.0.0.1 18.m.dingdianzw.com
+127.0.0.1 tyu.m.dingdianzw.com
+#m.lanseshuba.com
+127.0.0.1 img8.lanseshuba.com
+127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
+127.0.0.1 m2ka6betm.m.lanseshuba.com
+#m.qindouxs.co
+127.0.0.1 a.qindouxs.co
+127.0.0.1 b.qindouxs.co
+127.0.0.1 c.qindouxs.co
+#m.sanhao3.com
+127.0.0.1 lkf1.m.sanhao3.com
+#m.shu008.com
+127.0.0.1 baidu.shu008.com
+127.0.0.1 tmall.shu008.com
+127.0.0.1 qq.shu008.com
+#m.shubao520.com
+127.0.0.1 ss.shubao520.com
+#m.shumilou.co
+127.0.0.1 zzc.shumilou.co
+127.0.0.1 c.m.shumilou.co
+127.0.0.1 s.m.shumilou.co
+127.0.0.1 ayc.m.shumilou.co
+127.0.0.1 c68.asdjqoz.shumilou.co
+127.0.0.1 s56.iuqsdf.shumilou.co
+#m.txt99.cc
+127.0.0.1 ccc.m.txt99.org
+127.0.0.1 ddc.m.txt99.cc
+127.0.0.1 dds.m.txt99.cc
+127.0.0.1 kkc.m.txt99.cc
+127.0.0.1 ssp.18.txt99.cc
+#m.uuxs.net
+127.0.0.1 a.m.uuxs.net
+127.0.0.1 ss2p.uuxs.net
+#m.xiazailou.la
+127.0.0.1 xia.xiazailou.la
+127.0.0.1 zai.xiazailou.la
+#m.xqingdou.com
+127.0.0.1 s.m.xqingdou.com
+#m.xs222.com
+127.0.0.1 dvygej.m.xs222.com
+127.0.0.1 gdhyfgd.m.xs222.com
+127.0.0.1 asdadasdasda.m.xs222.tw
+127.0.0.1 fyduswkx.m.xs222.tw
+127.0.0.1 gdhyfgd.m.xs222.tw
+127.0.0.1 woriniyy.m.xs222.tw
+#m.xs2345.com
+127.0.0.1 include.xs2345.com
+#s.faloo.com
+127.0.0.1 flux.faloo.com
+#wap.xxbiquge.com
+127.0.0.1 gfnksw.wap.xxbiquge.com
+127.0.0.1 iiehdh.wap.xxbiquge.com
+127.0.0.1 tsdhgdhe.wap.xxbiquge.com
+127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 xynhhbw.wap.xxbiquge.com
+#www.tianyucangqiong1.com
+127.0.0.1 s.tianyucangqiong1.com
+#www.xinqing100.net
+127.0.0.1 kyx.m.xinqing100.net

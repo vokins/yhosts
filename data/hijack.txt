@@ -92,6 +92,7 @@
 127.0.0.1 hao549.com
 127.0.0.1 www.i1236.net
 127.0.0.1 hk.jtsh123.com
+127.0.0.1 hao.7654.com
 @hijack/netbar
 127.0.0.1 api.g1.junfull.com
 127.0.0.1 api.g2.junfull.com
@@ -117,16 +118,21 @@
 127.0.0.1 930.dragonparking.com
 127.0.0.1 track.dragonparking.com
 127.0.0.1 cdn.dragonstatic.com
+127.0.0.1 cpro.9xu.com
+127.0.0.1 dl.9xu.com
+127.0.0.1 js.union-wifi.com
+127.0.0.1 rcv.union-wifi.com
+127.0.0.1 ssp.dmpdsp.com
+127.0.0.1 ssp1.dmpdsp.com
+127.0.0.1 ad.jsnbrynb.com
+127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
 127.0.0.1 818.ok365.com
 127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
-127.0.0.1 cpro.9xu.com
-127.0.0.1 dl.9xu.com
-127.0.0.1 js.union-wifi.com
-127.0.0.1 rcv.union-wifi.com
 127.0.0.1 engine.tuia.cn
+127.0.0.1 yun.tuia.cn
 127.0.0.1 res.ipingke.com
 127.0.0.1 ggle.lywf.me
 127.0.0.1 cszlks.com
@@ -177,5 +183,13 @@
 127.0.0.1 www.remote88.com
 127.0.0.1 ypv.chengadx.com
 127.0.0.1 g.w5b454.com
+127.0.0.1 sspapi.youxiaoad.com
+127.0.0.1 c.35kds.com
+127.0.0.1 s.35kds.com
+127.0.0.1 s.6travel.com
+127.0.0.1 shama5.com
+127.0.0.1 bd.soarfi.cn
+127.0.0.1 creative.ltheanine.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
+@popup

@@ -82,12 +82,8 @@
 127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
-127.0.0.1 888.tv.sohu.com
+127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 download.wan.sohu.com
-127.0.0.1 hui.sohu.com
-127.0.0.1 info.lm.tv.sohu.com
-127.0.0.1 push.tv.sohu.com
-127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 sohu.irs01.com
 #youku
@@ -103,6 +99,7 @@
 127.0.0.1 cm.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 guanggaoad.youku.com
+127.0.0.1 irs01.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 m.yes.youku.com
 127.0.0.1 mb.atm.youku.com
@@ -127,6 +124,8 @@
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
+127.0.0.1 g.x.cn.majorserving.com
+127.0.0.1 mon.majorserving.com
 127.0.0.1 l.ftx.fancyapi.com
 127.0.0.1 w.fancyapi.com
 127.0.0.1 l.fancyapi.com
