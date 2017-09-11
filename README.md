@@ -4,17 +4,22 @@
 | -------- | -------- | -------- | -------- |
 | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal") |
 
-我会把捐赠给我的款项用于吃喜家德，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
-每次吃的时候会把照片更新于此。谢谢款待！
+我会把捐赠给我的款项用于吃喜家德的水饺/麦当劳的甜筒/肯德基的辣翅/华莱士的鸡块或者其他，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
+尽量把每次吃的时候会把照片更新于此。谢谢款待！
+
 
 当然，你可以捐也可以不捐，捐不捐都是你的自由，捐的话请务必自愿，因为有可能你捐了我也未必提供帮助。
 你捐不捐，我都不欠你的，如果你捐了后悔了，可以联系我退款。
 
-`捐助明细：捐助后可以联系我记录名称（在群内聊或者发邮件开issuse均可）。24小时后将按照匿名记录。谢谢！
+`捐助明细：捐助后可以联系我记录名称（在群内聊、发邮件至vokins#gmail.com或者开issuse均可）。24小时后将按照匿名记录。谢谢！
 `
 
-`捐助专享：所有捐助者可以联系我开通vip功能，享受专属定制数据。
- 信用专享：芝麻分评分大于777分，京东小白信用评分大于99分者，也可以联系我，验证后开通vip功能。
+`
+捐助专享：所有捐助者可以联系我开通vip功能，享受专属定制数据。
+`
+
+`
+信用专享：芝麻评分大于777分，京东信用评分大于99分者，也可以联系我，验证后开通vip功能。
 `
 
 |    名称   |  金额  |       时间       |   付款方式    |
@@ -29,7 +34,7 @@
 |   *雪伟   |  8.8元 | 2017.08.15 22:42 |    支付宝     |
 |   *豪     |  20元  | 2017.08.28 18:26 |    支付宝     |
 |   *宗乐   |  10元  | 2017.08.31 17:06 |    支付宝     |
-
+|   匿  名  |  30元  | 2017.09.10 22:02 |    支付宝     |
 
 2017-07-01消费：虾三鲜24元+松仁土豆丝9元=33元
 ![松仁土豆丝](https://raw.githubusercontent.com/vokins/yhosts/master/xijiade/IMG_20170701_131045.jpg)
