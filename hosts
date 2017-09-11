@@ -1,5 +1,5 @@
 
-#version=201709111347
+#version=201709112128
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2446,6 +2446,7 @@
 127.0.0.1 eezdx.erc.18183.com
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+127.0.0.1 www.pikacn.com
 127.0.0.1 s1.hiapk.com
 127.0.0.1 s2.hiapk.com
 127.0.0.1 gg.blueidea.com

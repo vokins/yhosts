@@ -2930,6 +2930,8 @@
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#http://base64.xpcha.com
+127.0.0.1 www.pikacn.com
 #bbs.hiapk.com
 127.0.0.1 s1.hiapk.com
 127.0.0.1 s2.hiapk.com
