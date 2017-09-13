@@ -3883,6 +3883,7 @@
 127.0.0.1 app.adbszs.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 app.ibaiducdn.com
+127.0.0.1 app.lz55.cn
 127.0.0.1 app.nterbx.com
 127.0.0.1 appcdn.ywjiawen.com
 127.0.0.1 azapp.whroses.com
@@ -3953,6 +3954,7 @@
 127.0.0.1 changan.bama555.com
 127.0.0.1 chi.cgxxmy.com
 127.0.0.1 chi.xajzqx.com
+127.0.0.1 chu.gznsyh.com
 127.0.0.1 chuantu.biz
 127.0.0.1 chuntian.xcpqb.cn
 127.0.0.1 ck.scltn.cn
@@ -3972,6 +3974,7 @@
 127.0.0.1 cp.gs307.com
 127.0.0.1 cpv-ads.ggytc.com
 127.0.0.1 crtl.322927.com
+127.0.0.1 cs1.doupocangqiong1.com
 127.0.0.1 csimg.zcxhl.com
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cz2.rhgyg.com
@@ -4050,6 +4053,7 @@
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
+127.0.0.1 e.youyoumw.com
 127.0.0.1 e.zhuhaixiongyue.com
 127.0.0.1 e.zjkdaikuan.com
 127.0.0.1 ed.aijielang.cn
@@ -4120,6 +4124,7 @@
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
+127.0.0.1 html.350.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
@@ -4209,6 +4214,7 @@
 127.0.0.1 in.bmgan.com
 127.0.0.1 in.cbgss.com
 127.0.0.1 in.hqsjc.com
+127.0.0.1 in.qkptx.com
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ioscdn.ywpod3.com
@@ -4392,6 +4398,7 @@
 127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.desaysmart.com
 127.0.0.1 m.detuns.com
+127.0.0.1 m.dierqingchun.com
 127.0.0.1 m.dilcn.net
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.fengwanwl.com
@@ -4430,6 +4437,7 @@
 127.0.0.1 m.qqyue.top
 127.0.0.1 m.redmangokids.com
 127.0.0.1 m.represented.cn
+127.0.0.1 m.requested.cn
 127.0.0.1 m.resetgey.com
 127.0.0.1 m.riqu2015.com
 127.0.0.1 m.runiman.com
@@ -4457,6 +4465,7 @@
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
+127.0.0.1 m.youyoumw.com
 127.0.0.1 m.zpoder.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.zzczfreewifi.com
@@ -4581,6 +4590,7 @@
 127.0.0.1 s.456juhd.com
 127.0.0.1 s.6113371.com
 127.0.0.1 s.80sjw.com
+127.0.0.1 s.97kuaixiu.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 s.ajuhd.com
 127.0.0.1 s.bmgan.com
@@ -4613,6 +4623,7 @@
 127.0.0.1 s.nvrentao8.com
 127.0.0.1 s.nyydj.com
 127.0.0.1 s.obaolu.net
+127.0.0.1 s.qkptx.com
 127.0.0.1 s.ryre.cn
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 s.shiftrro.com
@@ -4759,6 +4770,7 @@
 127.0.0.1 tu.szefe.com
 127.0.0.1 tu.zusrd.cn
 127.0.0.1 txt.dongyihongbei.com
+127.0.0.1 tyjs.bjjz900.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 u.luxinkm.com
 127.0.0.1 u.yiiwoo.com
@@ -5030,6 +5042,7 @@
 127.0.0.1 xue2b.meiti1.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 y.5125129.com
+127.0.0.1 y.97kuaixiu.com
 127.0.0.1 y.dali517.com
 127.0.0.1 y.nvrentao8.com
 127.0.0.1 y.xm9178.com
