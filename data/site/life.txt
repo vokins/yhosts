@@ -40,6 +40,9 @@
 #www.pingguolv.com
 127.0.0.1 dmt.qcrx.cn
 127.0.0.1 jsym.qcrx.cn
+#www.tuxi.com.cn
+127.0.0.1 1.tuxi.com.cn
+127.0.0.1 2.tuxi.com.cn
 #yuelvxing.com
 127.0.0.1 mip.yuelvxing.com
 #yyfensi.com

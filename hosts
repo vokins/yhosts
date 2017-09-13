@@ -1,5 +1,5 @@
 
-#version=201709131804
+#version=201709131831
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2569,6 +2569,8 @@
 127.0.0.1 un.52rkl.cn
 127.0.0.1 dmt.qcrx.cn
 127.0.0.1 jsym.qcrx.cn
+127.0.0.1 1.tuxi.com.cn
+127.0.0.1 2.tuxi.com.cn
 127.0.0.1 mip.yuelvxing.com
 127.0.0.1 bdjs.laonanren.com
 127.0.0.1 a1.yyfensi.com
@@ -3365,6 +3367,7 @@
 127.0.0.1 dl.img80.net
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 dl.mbsea.com
+127.0.0.1 dlimg.lovfp.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 dm.jinshasi.cn
@@ -3489,6 +3492,8 @@
 127.0.0.1 i.xyqsnc.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 i.zt-dq.com
+127.0.0.1 i2.akjunshi.com
+127.0.0.1 i5.akjunshi.com
 127.0.0.1 i5k3bm.wddyly.cn
 127.0.0.1 ico.58pic.com
 127.0.0.1 iiiiii.sharrysweb.com
@@ -4095,6 +4100,7 @@
 127.0.0.1 tai.zwkssb.com
 127.0.0.1 tan.idcqi.com
 127.0.0.1 tb.code.twyxi.com
+127.0.0.1 td.xue63.com
 127.0.0.1 tf.caohua.com
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
@@ -4303,6 +4309,7 @@
 127.0.0.1 www.lhafy.com
 127.0.0.1 www.lhzgqc.com
 127.0.0.1 www.liangao.com
+127.0.0.1 www.lovfp.com
 127.0.0.1 www.lx167.com
 127.0.0.1 www.lynndollin.com
 127.0.0.1 www.lyztdz.com
@@ -4357,6 +4364,7 @@
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 www.xiacai.com
 127.0.0.1 www.xiaoyq.com
+127.0.0.1 www.xue163.com
 127.0.0.1 www.xuefo365.cn
 127.0.0.1 www.xundefine.com
 127.0.0.1 www.xxkhh.com
