@@ -1,5 +1,5 @@
 
-#version=201709141704
+#version=201709141716
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1568,7 +1568,11 @@
 127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 item.ttkvod.com
 127.0.0.1 ads.wasu.tv
+127.0.0.1 adsystem.wasu.tv
+127.0.0.1 adwasu.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 collector.wasu.cn
+127.0.0.1 delivery-pc.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
 127.0.0.1 ad.yeshitv.com
@@ -3873,6 +3877,7 @@
 127.0.0.1 neng.ynmbz.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 new.yokaunion.com
+127.0.0.1 news.cxxtv.com
 127.0.0.1 news.s9377.com
 127.0.0.1 nian.dshrx.com
 127.0.0.1 njs.hcm94alliance.com
@@ -4216,6 +4221,7 @@
 127.0.0.1 weldc1.021ye.com
 127.0.0.1 wff.wgnmp.com
 127.0.0.1 wm.20150.net
+127.0.0.1 wm.69shi.cn
 127.0.0.1 wo.rbywg.com
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 worldh5.gamehz.cn
@@ -7090,5 +7096,3 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
-127.0.0.1 adwasu.wasu.tv
-127.0.0.1 adsystem.wasu.tv

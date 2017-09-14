@@ -699,6 +699,7 @@
 127.0.0.1 neng.ynmbz.com
 127.0.0.1 net.yiheshun.cn
 127.0.0.1 new.yokaunion.com
+127.0.0.1 news.cxxtv.com
 127.0.0.1 news.s9377.com
 127.0.0.1 nian.dshrx.com
 127.0.0.1 njs.hcm94alliance.com
@@ -1042,6 +1043,7 @@
 127.0.0.1 weldc1.021ye.com
 127.0.0.1 wff.wgnmp.com
 127.0.0.1 wm.20150.net
+127.0.0.1 wm.69shi.cn
 127.0.0.1 wo.rbywg.com
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 worldh5.gamehz.cn

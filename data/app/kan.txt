@@ -56,7 +56,11 @@
 127.0.0.1 item.ttkvod.com
 #http://www.wasu.cn/
 127.0.0.1 ads.wasu.tv
+127.0.0.1 adsystem.wasu.tv
+127.0.0.1 adwasu.wasu.tv
 127.0.0.1 afpcreative.wasu.cn
+127.0.0.1 collector.wasu.cn
+127.0.0.1 delivery-pc.wasu.cn
 127.0.0.1 delivery.wasu.cn
 127.0.0.1 delivery.maihehd.com
 #yeshitv.com
