@@ -74,6 +74,7 @@
 127.0.0.1 b.apzeyu.com
 127.0.0.1 b.baiy.net
 127.0.0.1 b.flyreading.cn
+127.0.0.1 b.qkptx.com
 127.0.0.1 b.xz15801.com
 127.0.0.1 b.yunfanlm.net
 127.0.0.1 b99u.top
@@ -139,6 +140,7 @@
 127.0.0.1 chu.gznsyh.com
 127.0.0.1 chuantu.biz
 127.0.0.1 chuntian.xcpqb.cn
+127.0.0.1 cilidaquan.pw
 127.0.0.1 ck.scltn.cn
 127.0.0.1 cks.gongyituan.cn
 127.0.0.1 clickadu.com
@@ -187,6 +189,7 @@
 127.0.0.1 dd.70yst.com
 127.0.0.1 dddddd.diaobanstudio.com
 127.0.0.1 dfdd.pandayigou.com
+127.0.0.1 dfx.shhuixiangwuliu.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.zymro.com
 127.0.0.1 diomedis.online
@@ -300,6 +303,7 @@
 127.0.0.1 hao.dian500.com
 127.0.0.1 hao.pdfbs.com
 127.0.0.1 hd.ylddq.com
+127.0.0.1 he.xdyszx.com
 127.0.0.1 hen.smxay.com
 127.0.0.1 hhqda.pop.t5yx.cn
 127.0.0.1 hipersushiads.com
@@ -449,6 +453,7 @@
 127.0.0.1 js.72bss.com
 127.0.0.1 js.a3p4.net
 127.0.0.1 js.aomeishang.com
+127.0.0.1 js.bjwwfx001.org.cn
 127.0.0.1 js.brfrb.cn
 127.0.0.1 js.cdjqjy.com
 127.0.0.1 js.chinaheh.com
