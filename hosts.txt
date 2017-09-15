@@ -4334,8 +4334,12 @@
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
 127.0.0.1 js43.hailiao520.com
+127.0.0.1 js4941.gaoxiaocup.com
+127.0.0.1 js651.dupinpu.com
 127.0.0.1 js658.ltcprtc.com
 127.0.0.1 js6882.gdskywings.com
+127.0.0.1 js7022.gdskywings.com
+127.0.0.1 js7022.panzuoLuo.com
 127.0.0.1 js739.scfatao.com
 127.0.0.1 js85.ibcda.org
 127.0.0.1 js883.chengzhao95511.com
@@ -4471,6 +4475,7 @@
 127.0.0.1 m.suwo0n.com
 127.0.0.1 m.symaw.cn
 127.0.0.1 m.syofew6o.net
+127.0.0.1 m.tccti.com
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
 127.0.0.1 m.ucxxii.com
@@ -4517,6 +4522,7 @@
 127.0.0.1 mob.huimee.net
 127.0.0.1 moren-1252794300.file.myqcloud.com
 127.0.0.1 mpic.jmgehn.cn
+127.0.0.1 mqq.zgdmsj.cn
 127.0.0.1 ms.myyage.com
 127.0.0.1 mssp.yuanfenba.net
 127.0.0.1 mts.sdtieta.com
@@ -4819,6 +4825,7 @@
 127.0.0.1 v.e704.net
 127.0.0.1 v.hr41.cn
 127.0.0.1 v.huomob.com
+127.0.0.1 v.jiaheyonggu.com
 127.0.0.1 v.xiucm.com
 127.0.0.1 v7.kawinhome.com
 127.0.0.1 ve.tsdlp.com
@@ -4971,6 +4978,7 @@
 127.0.0.1 www.k3bos.com
 127.0.0.1 www.khxxly.com
 127.0.0.1 www.koudai6.com
+127.0.0.1 www.laiququan.com
 127.0.0.1 www.lansha.tv
 127.0.0.1 www.legozu.com
 127.0.0.1 www.lessplay.com
