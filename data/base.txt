@@ -353,10 +353,12 @@
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
 #http://weibo.com/
+127.0.0.1 adimg.uve.weibo.com
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 #sports

@@ -599,7 +599,6 @@
 127.0.0.1 dl.kjava.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 trends.mobile.sina.cn
-127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
 #sina-com.cn
 127.0.0.1 ad4.sina.com.cn

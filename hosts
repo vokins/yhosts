@@ -1,5 +1,5 @@
 
-#version=201709151818
+#version=201709161558
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -352,10 +352,12 @@
 127.0.0.1 tongji.leju.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 1407.adsina.allyes.com
+127.0.0.1 adimg.uve.weibo.com
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 biz.weibo.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 2016.sina.cn
@@ -3806,6 +3808,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.passwz.com
 127.0.0.1 m.qcw.com
+127.0.0.1 m.qiyunmuye.com
 127.0.0.1 m.qloer.com
 127.0.0.1 m.qlonglong.com
 127.0.0.1 m.qoiusky.com
@@ -4132,6 +4135,7 @@
 127.0.0.1 titi.18tzx.com
 127.0.0.1 tj.zhaes.com
 127.0.0.1 tjf.lyhuayun.com
+127.0.0.1 tkmdng.cn
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 tp.sphwq.net
 127.0.0.1 ts.hivecn.cn
@@ -5023,7 +5027,6 @@
 127.0.0.1 dl.kjava.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 trends.mobile.sina.cn
-127.0.0.1 wapwbclick.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn

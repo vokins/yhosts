@@ -628,6 +628,7 @@
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.passwz.com
 127.0.0.1 m.qcw.com
+127.0.0.1 m.qiyunmuye.com
 127.0.0.1 m.qloer.com
 127.0.0.1 m.qlonglong.com
 127.0.0.1 m.qoiusky.com
@@ -954,6 +955,7 @@
 127.0.0.1 titi.18tzx.com
 127.0.0.1 tj.zhaes.com
 127.0.0.1 tjf.lyhuayun.com
+127.0.0.1 tkmdng.cn
 127.0.0.1 tks1y9.bairuile.cn
 127.0.0.1 tp.sphwq.net
 127.0.0.1 ts.hivecn.cn
