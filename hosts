@@ -1,5 +1,5 @@
 
-#version=201709161558
+#version=201709161849
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1270,6 +1270,9 @@
 127.0.0.1 yeah.qq.com
 127.0.0.1 www.jiayuan.com
 127.0.0.1 www.baihe.com
+127.0.0.1 www.saxmcu.cn
+127.0.0.1 xbk.haolewangame.com
+127.0.0.1 ndyjs.xjtu.edu.cn
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
@@ -3178,6 +3181,8 @@
 127.0.0.1 shama5.com
 127.0.0.1 bd.soarfi.cn
 127.0.0.1 creative.ltheanine.cn
+127.0.0.1 eee.eh39.co
+127.0.0.1 312036.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
@@ -4247,6 +4252,7 @@
 127.0.0.1 www-777563.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 www.100fenlm.com
+127.0.0.1 www.163ren.com
 127.0.0.1 www.17168.com
 127.0.0.1 www.17un.com
 127.0.0.1 www.2016bobo.cf

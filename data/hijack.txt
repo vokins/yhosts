@@ -190,6 +190,8 @@
 127.0.0.1 shama5.com
 127.0.0.1 bd.soarfi.cn
 127.0.0.1 creative.ltheanine.cn
+127.0.0.1 eee.eh39.co
+127.0.0.1 312036.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

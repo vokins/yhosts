@@ -1067,6 +1067,7 @@
 127.0.0.1 www-777563.com
 127.0.0.1 www.10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 www.100fenlm.com
+127.0.0.1 www.163ren.com
 127.0.0.1 www.17168.com
 127.0.0.1 www.17un.com
 127.0.0.1 www.2016bobo.cf
