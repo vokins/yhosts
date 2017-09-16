@@ -3833,7 +3833,8 @@
 127.0.0.1 312036.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
-@popup127.0.0.1 014.guangdongjiayue.com
+@popup
+127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
@@ -3902,6 +3903,9 @@
 127.0.0.1 app.lz55.cn
 127.0.0.1 app.nterbx.com
 127.0.0.1 appcdn.ywjiawen.com
+127.0.0.1 aswl.d3kdh34.pw
+127.0.0.1 aswl.dfs3e4.pw
+127.0.0.1 aswl.zjhim.com
 127.0.0.1 azapp.whroses.com
 127.0.0.1 b.9dreams.net
 127.0.0.1 b.aowugame.com
@@ -4000,6 +4004,7 @@
 127.0.0.1 d.86fm.com
 127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
+127.0.0.1 d.anluyg.net
 127.0.0.1 d.qceg.net
 127.0.0.1 d.soxoo.cc
 127.0.0.1 d1.showself.com
@@ -4085,6 +4090,7 @@
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 ee.e7006.com
 127.0.0.1 ee.e701.net
+127.0.0.1 emss.zjhim.com
 127.0.0.1 enco.qqduckshop.com
 127.0.0.1 epqzviy9.bid
 127.0.0.1 ethod.gzgmjcx.com
@@ -4545,6 +4551,7 @@
 127.0.0.1 mts.sdtieta.com
 127.0.0.1 mx4.weishiqiang.cn
 127.0.0.1 myjj.pyzkk.com
+127.0.0.1 n.yccaffe.org
 127.0.0.1 n.yfi8.com
 127.0.0.1 ne.cdgxq.com
 127.0.0.1 neng.ynmbz.com
@@ -4819,6 +4826,7 @@
 127.0.0.1 tu.zusrd.cn
 127.0.0.1 txt.dongyihongbei.com
 127.0.0.1 tyjs.bjjz900.com
+127.0.0.1 u.anluyg.net
 127.0.0.1 u.diginavi.net
 127.0.0.1 u.luxinkm.com
 127.0.0.1 u.yiiwoo.com
@@ -7920,16 +7928,22 @@
 127.0.0.1 8184.cc
 127.0.0.1 85058s.com
 127.0.0.1 90053999.com
+127.0.0.1 aaaa.tly331.pw
 127.0.0.1 bg339.com
 127.0.0.1 c16cp358.com
+127.0.0.1 cdn.staticfile.org
 127.0.0.1 cymzc.com
+127.0.0.1 eeaa.tly331.pw
 127.0.0.1 fc56b.me
 127.0.0.1 girlcc.cc
 127.0.0.1 hjc1990.com
+127.0.0.1 img.alicdn.com
 127.0.0.1 imgc.cymzc.com
 127.0.0.1 imgp.cymzc.com
+127.0.0.1 jjaa.tly331.pw
 127.0.0.1 k1w5.me
 127.0.0.1 kkk.sywdwx.com
+127.0.0.1 llaa.tly331.pw
 127.0.0.1 m.495495.com
 127.0.0.1 m.551144.com
 127.0.0.1 m.640640.com
@@ -7941,6 +7955,7 @@
 127.0.0.1 p555.cc
 127.0.0.1 pj3456.com
 127.0.0.1 pj50.com
+127.0.0.1 ppaa.tly331.pw
 127.0.0.1 sd3.44276644.com
 127.0.0.1 ssl.cuxiaoso.com
 127.0.0.1 vj0.42422277.com
