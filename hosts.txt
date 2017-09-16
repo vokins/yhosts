@@ -3833,8 +3833,7 @@
 127.0.0.1 312036.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
-@popup
-127.0.0.1 014.guangdongjiayue.com
+@popup127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
@@ -4063,6 +4062,8 @@
 127.0.0.1 e.e708.net
 127.0.0.1 e.ejiakm.net
 127.0.0.1 e.gythsg.com
+127.0.0.1 e.hurnt.com
+127.0.0.1 e.iorgb.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.jxxiangchu.com
 127.0.0.1 e.kimgfvz.com
@@ -4070,7 +4071,9 @@
 127.0.0.1 e.liuliu666.com
 127.0.0.1 e.liweiso.com
 127.0.0.1 e.lndjj.com
+127.0.0.1 e.miaoxinqipei.com
 127.0.0.1 e.mushizhubao.com
+127.0.0.1 e.qiyunmuye.com
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.yanglaopt.net
@@ -4243,6 +4246,7 @@
 127.0.0.1 in.hqsjc.com
 127.0.0.1 in.qkptx.com
 127.0.0.1 ini.litingxin.cn
+127.0.0.1 io.hyfastfood.com
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ioscdn.ywpod3.com
 127.0.0.1 iospage.manjiangshuyue.com
@@ -4387,6 +4391,7 @@
 127.0.0.1 lcktg00.com
 127.0.0.1 le.5dydk.com
 127.0.0.1 le.dtzysm.com
+127.0.0.1 lhg.alisinak.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
 127.0.0.1 llsp.gfd80.com
@@ -4403,6 +4408,7 @@
 127.0.0.1 m.025suyu.com
 127.0.0.1 m.12306media.com
 127.0.0.1 m.24haitao.net
+127.0.0.1 m.3kw.cc
 127.0.0.1 m.77vcd.com
 127.0.0.1 m.966886.org
 127.0.0.1 m.96mob.com
@@ -4444,6 +4450,7 @@
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 m.huananb.com
 127.0.0.1 m.internerl.com
+127.0.0.1 m.iorgb.com
 127.0.0.1 m.itskonka.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 m.joyfuldoors.com
@@ -4454,6 +4461,7 @@
 127.0.0.1 m.laikahotel.com
 127.0.0.1 m.maidiankeji.org
 127.0.0.1 m.md0z4dh.com
+127.0.0.1 m.miaoxinqipei.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.mushizhubao.com
 127.0.0.1 m.mzp0o0.com
@@ -4475,6 +4483,7 @@
 127.0.0.1 m.riqu2015.com
 127.0.0.1 m.runiman.com
 127.0.0.1 m.sdhzstone.net
+127.0.0.1 m.see3k.com
 127.0.0.1 m.sigbusa.com
 127.0.0.1 m.snow001.com
 127.0.0.1 m.sonomoyo.com
@@ -4815,6 +4824,7 @@
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 ucuc.baiducu.com
+127.0.0.1 ue.yhde168.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 ujs.jialiren.net
 127.0.0.1 ulow.mingyangzhizun.com
