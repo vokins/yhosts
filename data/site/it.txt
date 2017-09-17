@@ -21,6 +21,8 @@
 #chinaz.com
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
+127.0.0.1 cdn.earnify.com
+127.0.0.1 union2.cnbetacdn.com
 127.0.0.1 analytics.jiuzhilan.com
 127.0.0.1 app.jiuzhilan.com
 127.0.0.1 cdn.jiuzhilan.com
