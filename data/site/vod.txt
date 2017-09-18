@@ -13,7 +13,6 @@
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 #http://www.baofeng.com/
-127.0.0.1 cdn.baofenggame.com
 127.0.0.1 data.danmu.baofeng.com
 127.0.0.1 static.danmu.baofeng.com
 127.0.0.1 active.baofeng.com

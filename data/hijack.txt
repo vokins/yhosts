@@ -78,7 +78,6 @@
 127.0.0.1 hivedata.cc
 @hijack/apk-down
 127.0.0.1 m.kubiqq.com
-127.0.0.1 m.3944540.com
 127.0.0.1 m5.apk.67mo.com
 @hijack/microsoft
 127.0.0.1 ieonline.microsoft.com
@@ -148,7 +147,6 @@
 127.0.0.1 ssp.kss.ksyun.com
 127.0.0.1 stjzh.gdtarget.com
 127.0.0.1 wo.iuni.com.cn
-127.0.0.1 ip.l9po.com
 127.0.0.1 cdn.ads.jlscds.com
 127.0.0.1 stuff.202m.com
 127.0.0.1 www.202m.com

@@ -1,4 +1,3 @@
-@site/girl
 #hotmm.tk
 127.0.0.1 url.hotmm.tk
 #m.5442.com

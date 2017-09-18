@@ -93,7 +93,6 @@
 127.0.0.1 count5.pconline.com.cn
 127.0.0.1 count6.pconline.com.cn
 127.0.0.1 imgad0.pconline.com.cn
-127.0.0.1 c.ypmob.com
 #pcpop.com
 127.0.0.1 33.pcpop.com
 127.0.0.1 ashow.pcpop.com

@@ -12,7 +12,6 @@
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 mydisplay.ctfile.com
 #fxxz.com
-127.0.0.1 show.tcth8.com
 127.0.0.1 t1.612.com
 127.0.0.1 count.612.com
 127.0.0.1 c5.97you.net
@@ -42,7 +41,6 @@
 127.0.0.1 d8.muzisoft.com
 127.0.0.1 d9.muzisoft.com
 #m.panduoduo.net
-127.0.0.1 s.szfaq.com
 127.0.0.1 s.bccyyc.com
 127.0.0.1 s.cooolyi.cn
 #m.qqtn.com
@@ -50,8 +48,6 @@
 127.0.0.1 show.5h.com
 #m.shouji56.com
 127.0.0.1 dps.shouji56.com
-127.0.0.1 ujake.shouji56.com
-127.0.0.1 uqd168.shouji56.com
 #m.shuaji.com
 127.0.0.1 p.abcache.com
 127.0.0.1 s.abcache.com
@@ -63,8 +59,6 @@
 #pc6.com
 127.0.0.1 tj.20hn.cn
 127.0.0.1 c2.97you.net
-127.0.0.1 cdn.b9377h.com
-127.0.0.1 news.b9377h.com
 127.0.0.1 cdn.ef9377.com
 127.0.0.1 cdn.a9377j.com
 #m.uzff.com
@@ -76,7 +70,6 @@
 127.0.0.1 ads.yxdown.com
 127.0.0.1 gg.yxdown.com
 127.0.0.1 ggr.yxdown.com
-127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 img.zhihei.com
 #http://www.didown.com/
 127.0.0.1 public.didown.com

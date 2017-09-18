@@ -1,4 +1,3 @@
-@site/life-info
 #4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
 127.0.0.1 js.4hw.com.cn
@@ -21,8 +20,6 @@
 127.0.0.1 ma2.meishij.net
 #m.qiushibaike.com
 127.0.0.1 becode.qiushibaike.com
-#m.souid.com
-127.0.0.1 vi1.souid.com
 #m.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com

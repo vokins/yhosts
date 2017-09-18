@@ -129,7 +129,6 @@
 #su-haianw.com
 127.0.0.1 gg.haianw.com
 #su-yx.js.cn
-127.0.0.1 adsclick.yx.js.cn
 #wan-hefei.cc
 127.0.0.1 ad.hefei.cc
 #xiang-rednet.cn

@@ -14,7 +14,6 @@
 127.0.0.1 bg339.com
 127.0.0.1 c16cp358.com
 127.0.0.1 cdn.staticfile.org
-127.0.0.1 cymzc.com
 127.0.0.1 eeaa.tly331.pw
 127.0.0.1 fc56b.me
 127.0.0.1 girlcc.cc
@@ -76,7 +75,6 @@
 127.0.0.1 www.hg89068.com
 127.0.0.1 www.hg89078.com
 127.0.0.1 www.jinshagt222.com
-127.0.0.1 www.js602322.com
 127.0.0.1 www.kxmav2.com
 127.0.0.1 www.lzcei.com
 127.0.0.1 www.pj38330.bet

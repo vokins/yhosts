@@ -27,7 +27,6 @@
 127.0.0.1 adplexmedia.adk2.co
 #adk2x.com
 127.0.0.1 a.adk2x.com
-127.0.0.1 adk2x.com
 127.0.0.1 adplexmedia.adk2x.com
 127.0.0.1 adsrvmedia.adk2x.com
 127.0.0.1 ns8.adk2x.com
