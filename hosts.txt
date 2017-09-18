@@ -263,6 +263,7 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 mipcache.bdstatic.com
 #baidu-news
 127.0.0.1 cpu.baidu.com
 127.0.0.1 cpu-admin.baidu.com
@@ -1315,12 +1316,14 @@
 127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 dorado.xiaojukeji.com
 @errorpage/weixin
-127.0.0.1 vzan.com
 127.0.0.1 tl.771tao.com
-127.0.0.1 ppiy.v5.yy.com
-127.0.0.1 page.v5.yy.com
+127.0.0.1 vzan.com
+127.0.0.1 wx.shunliandongli.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
+#yy
+127.0.0.1 ppiy.v5.yy.com
+127.0.0.1 page.v5.yy.com
 @errorpage/inside
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 mobile.yangkeduo.com
@@ -2361,6 +2364,9 @@
 127.0.0.1 gufft.m.bookben.com
 #m.booktxt.net
 127.0.0.1 tt.booktxt.net
+#m.dingdianzw.com
+127.0.0.1 1.fei.dingdianzw.com
+127.0.0.1 dsds.dingdianzw.com
 #m.lanseshuba.com
 127.0.0.1 img8.lanseshuba.com
 127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
@@ -2589,6 +2595,10 @@
 127.0.0.1 j17.shangc.net
 #yoka.com
 127.0.0.1 adcount.yoka.com
+#yxlady.com
+127.0.0.1 bbcc.yxlady.com
+127.0.0.1 dm50.yxlady.com
+127.0.0.1 js50.yxlady.com
 #zdface.com
 127.0.0.1 ent1.12584.cn
 127.0.0.1 health1.12584.cn
@@ -2983,6 +2993,9 @@
 127.0.0.1 ma2.meishij.net
 #m.qiushibaike.com
 127.0.0.1 becode.qiushibaike.com
+#m.souid.com
+127.0.0.1 f1.daxishi.com
+127.0.0.1 f2.daxishi.com
 #m.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com
@@ -3830,6 +3843,7 @@
 127.0.0.1 c.queene.cn
 127.0.0.1 c.start280.com
 127.0.0.1 c.t98u8f.com
+127.0.0.1 c.tctyb.cn
 127.0.0.1 c.tkd777.cn
 127.0.0.1 c.wangsufast.com
 127.0.0.1 c.ylist.cn

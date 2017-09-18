@@ -9,12 +9,14 @@
 127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 dorado.xiaojukeji.com
 @errorpage/weixin
-127.0.0.1 vzan.com
 127.0.0.1 tl.771tao.com
-127.0.0.1 ppiy.v5.yy.com
-127.0.0.1 page.v5.yy.com
+127.0.0.1 vzan.com
+127.0.0.1 wx.shunliandongli.com
 #www.youzan.com
 127.0.0.1 tj.koudaitong.com
+#yy
+127.0.0.1 ppiy.v5.yy.com
+127.0.0.1 page.v5.yy.com
 @errorpage/inside
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 mobile.yangkeduo.com

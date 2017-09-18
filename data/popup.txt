@@ -109,6 +109,7 @@
 127.0.0.1 c.queene.cn
 127.0.0.1 c.start280.com
 127.0.0.1 c.t98u8f.com
+127.0.0.1 c.tctyb.cn
 127.0.0.1 c.tkd777.cn
 127.0.0.1 c.wangsufast.com
 127.0.0.1 c.ylist.cn

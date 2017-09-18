@@ -15,6 +15,9 @@
 127.0.0.1 gufft.m.bookben.com
 #m.booktxt.net
 127.0.0.1 tt.booktxt.net
+#m.dingdianzw.com
+127.0.0.1 1.fei.dingdianzw.com
+127.0.0.1 dsds.dingdianzw.com
 #m.lanseshuba.com
 127.0.0.1 img8.lanseshuba.com
 127.0.0.1 lw7b6aa2re8.m.lanseshuba.com

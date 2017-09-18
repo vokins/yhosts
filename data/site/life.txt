@@ -20,6 +20,9 @@
 127.0.0.1 ma2.meishij.net
 #m.qiushibaike.com
 127.0.0.1 becode.qiushibaike.com
+#m.souid.com
+127.0.0.1 f1.daxishi.com
+127.0.0.1 f2.daxishi.com
 #m.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 stat.vccoo.com
