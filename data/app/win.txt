@@ -11,8 +11,6 @@
 #http://pinyin.sogou.com/
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com
-#http://sopcast.references.tv/
-127.0.0.1 addl.sopcast.cn
 #http://www.vidown.cn/
 127.0.0.1 cc.vidown.cn
 127.0.0.1 conf.vidown.cn

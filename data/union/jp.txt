@@ -16,8 +16,6 @@
 127.0.0.1 api.adfurikun.jp
 127.0.0.1 i.adfurikun.jp
 127.0.0.1 ipua.adfurikun.jp
-#bead-ad
-127.0.0.1 bead-ad.com
 #i-mobile
 127.0.0.1 i-mobile.co.jp
 127.0.0.1 spad.i-mobile.co.jp

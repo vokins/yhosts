@@ -260,11 +260,7 @@
 #dvworld
 127.0.0.1 ads.dvworld.com.tw
 #secretchina
-127.0.0.1 ad.secretchina.com
-127.0.0.1 static1.secretchina.com
-127.0.0.1 a.epochtimes.com
 127.0.0.1 ad.epochtimes.com
-127.0.0.1 ads3.epochtimes.com
 #sinovision
 127.0.0.1 ad.sinovision.net
 127.0.0.1 adsys.sinovision.net

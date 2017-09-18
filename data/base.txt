@@ -411,9 +411,6 @@
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
 @base-google
-#admob
-127.0.0.1 r.admob.com
-127.0.0.1 mm.admob.com
 #doubleclick
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
@@ -860,8 +857,6 @@
 127.0.0.1 lz.hzkcbs.com
 127.0.0.1 img.jgchq.com
 127.0.0.1 mm.jgchq.com
-127.0.0.1 c.jheva.com
-127.0.0.1 m.jheva.com
 127.0.0.1 cp.jiajv.net
 127.0.0.1 i.jiajv.net
 127.0.0.1 vip.jisucn.com
@@ -899,8 +894,6 @@
 127.0.0.1 vip2.media8.cn
 127.0.0.1 b.meiliyue.top
 127.0.0.1 g.meiliyue.top
-127.0.0.1 v.meiti1.net
-127.0.0.1 v1.meiti1.net
 127.0.0.1 i.mengmob.com
 127.0.0.1 iii.mengmob.com
 127.0.0.1 news.baidu.com.mjjdfl.com

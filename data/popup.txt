@@ -183,7 +183,6 @@
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 dddddd.diaobanstudio.com
-127.0.0.1 dfdd.pandayigou.com
 127.0.0.1 dfx.shhuixiangwuliu.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.zymro.com
@@ -232,7 +231,6 @@
 127.0.0.1 e.qiyunmuye.com
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
-127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.youyoumw.com
 127.0.0.1 e.zhuhaixiongyue.com
@@ -288,7 +286,6 @@
 127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
-127.0.0.1 h.51scj.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 hai.yzygo.com
@@ -624,7 +621,6 @@
 127.0.0.1 m.vers80.com
 127.0.0.1 m.vichc.com
 127.0.0.1 m.weboser.com
-127.0.0.1 m.wuhcontrol.com
 127.0.0.1 m.xul478.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
@@ -937,15 +933,12 @@
 127.0.0.1 uri6.com
 127.0.0.1 url.222bz.com
 127.0.0.1 uu.85655095.com
-127.0.0.1 v.360daidai.net
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.acasys88.cn
 127.0.0.1 v.e7002.com
 127.0.0.1 v.e704.net
 127.0.0.1 v.hr41.cn
-127.0.0.1 v.huomob.com
 127.0.0.1 v.jiaheyonggu.com
-127.0.0.1 v.xiucm.com
 127.0.0.1 v7.kawinhome.com
 127.0.0.1 ve.tsdlp.com
 127.0.0.1 vimg.dwstatic.com
@@ -963,7 +956,6 @@
 127.0.0.1 vip.zhineng6.com
 127.0.0.1 vns800600.net
 127.0.0.1 vvv.sqjgdx.com
-127.0.0.1 vvv.weixindmp.com
 127.0.0.1 w.1lib.cn
 127.0.0.1 w.3big.net
 127.0.0.1 w.aidizi.com
@@ -1060,7 +1052,6 @@
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 www.flwja.com
-127.0.0.1 www.founseezb.cn
 127.0.0.1 www.fu68.com
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 www.gt4ec.net
@@ -1158,7 +1149,6 @@
 127.0.0.1 www.yl850555.com
 127.0.0.1 www.yobobobox.com
 127.0.0.1 www.yodong.com
-127.0.0.1 www.youfumei.com
 127.0.0.1 www.youmsm.com
 127.0.0.1 www.yxnbroot.com
 127.0.0.1 www.zhzywl.cc
