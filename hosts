@@ -1,5 +1,5 @@
 
-#version=201709182159
+#version=20170919 046
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3241,6 +3241,7 @@
 127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
 127.0.0.1 d.anluyg.net
+127.0.0.1 d.pr33.cn 
 127.0.0.1 d.qceg.net
 127.0.0.1 d.soxoo.cc
 127.0.0.1 d1.showself.com
@@ -3259,11 +3260,13 @@
 127.0.0.1 data.3975.com
 127.0.0.1 daz.jinshasi.cn
 127.0.0.1 db.xhbqczl.com
+127.0.0.1 dd.520zhai.net
 127.0.0.1 dd.70yst.com
 127.0.0.1 dddddd.diaobanstudio.com
 127.0.0.1 dfx.shhuixiangwuliu.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.zymro.com
+127.0.0.1 difnxm.cn 
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
@@ -3575,6 +3578,7 @@
 127.0.0.1 jss.tenglink.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 jumping.nyyryy.com
+127.0.0.1 k.yp68.cn 
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 kawa11.space
 127.0.0.1 ke.njwxh.com
