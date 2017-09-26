@@ -1,6 +1,0 @@
-http://livew.l.qq.com:443
-http://tj.video.qq.com:443
-http://l.qq.com:443
-http://sb.scorecardresearch.com:443
-http://ra.gtimg.com:443
-http://p.l.qq.com:443

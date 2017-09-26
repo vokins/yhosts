@@ -1,4 +1,5 @@
 access.tv.sohu.com
+app.3987.com
 bbs.safedog.cn
 cdn.bootcss.com
 cilifuli.com
@@ -10,6 +11,7 @@ g1.ykimg.com
 g2.ykimg.com
 g3.ykimg.com
 g4.ykimg.com
+gif-china.cc
 go.microsoft.com
 i.gtimg.cn
 i0.letvimg.com
@@ -32,9 +34,12 @@ jspassport.ssl.qhimg.com
 libs.baidu.com
 libs.tvmao.cn
 m.37zw.net
+m.3987.com
+m.499.cn
 m.5442.com
 m.biqumo.com
 m.bookben.com
+m.btbtdy.com
 m.iask.sina.com.cn
 m.kankanwu.com
 m.kewai.la
@@ -68,13 +73,16 @@ ww2.sinaimg.cn
 ww3.sinaimg.cn
 ww4.sinaimg.cn
 www.00sy.com
+www.5857.com
 www.66ys.tv
 www.aguo.com
 www.baidu.com
 www.biqugeapp.com
+www.btbtdy.com
 www.check-domains.com
 www.cloudflare.com
 www.google.com
+www.imdb.com
 www.jiang.com
 www.macromedia.com
 www.miitbeian.gov.cn

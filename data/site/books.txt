@@ -40,6 +40,8 @@
 127.0.0.1 ayc.m.shumilou.co
 127.0.0.1 c68.asdjqoz.shumilou.co
 127.0.0.1 s56.iuqsdf.shumilou.co
+#m.sodu520.net
+127.0.0.1 baik1.m.sodu520.net
 #m.txt99.cc
 127.0.0.1 ccc.m.txt99.org
 127.0.0.1 ddc.m.txt99.cc

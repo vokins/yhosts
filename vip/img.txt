@@ -14,4 +14,5 @@
 127.0.0.1 ss0.baidu.com
 127.0.0.1 ss1.baidu.com
 127.0.0.1 ss2.baidu.com
-
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com

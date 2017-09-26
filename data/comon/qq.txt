@@ -4,10 +4,15 @@
 #v.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 livew.l.qq.com
+127.0.0.1 l.qq.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 p.tencentmind.com
+127.0.0.1 ra.gtimg.com
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 tytx.m.cn.miaozhen.com
+127.0.0.1 sb.scorecardresearch.com

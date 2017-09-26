@@ -1,0 +1,26 @@
+#https://m.apkpure.com/
+127.0.0.1 disqusads.com
+#m.3987.com
+127.0.0.1 sj1.3987.com
+127.0.0.1 statics.3987.com
+#m.499.cn
+127.0.0.1 dps.499.cn
+#m.shouji56.com
+127.0.0.1 dps.shouji56.com
+127.0.0.1 tongji.tt.shouji56.com
+127.0.0.1 xz.tongji.shouji56.com
+#m.shuaji.com
+127.0.0.1 p.abcache.com
+127.0.0.1 s.abcache.com
+#m.wanyx.com
+127.0.0.1 shili.wanyx.com
+127.0.0.1 js.yixui.com
+127.0.0.1 sp.yixui.com
+#www.ctfile.com
+127.0.0.1 doubleclick.ctfile.com
+127.0.0.1 mydisplay.ctfile.com
+#www.greenxf.com
+127.0.0.1 xzq.greenxf.net
+#www.yxdown.com
+127.0.0.1 ggr.yxdown.com
+127.0.0.1 tongji.ads.yxdown.com

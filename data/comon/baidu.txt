@@ -9,6 +9,7 @@
 127.0.0.1 msite.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
+127.0.0.1 s.cpro.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 ae.bdstatic.com
 127.0.0.1 su.bdstatic.com

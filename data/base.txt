@@ -406,6 +406,7 @@
 127.0.0.1 cdn.lu.sogoucdn.com
 127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 inte.theta.sogoucdn.com
+127.0.0.1 jpg.inte.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com

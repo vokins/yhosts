@@ -1,3 +1,4 @@
+从yhosts删除掉的部分数据
 127.0.0.1 verystat.xinmin.cn
 127.0.0.1 jj.jxnews.com.cn
 127.0.0.1 realcalc.jxnews.com.cn

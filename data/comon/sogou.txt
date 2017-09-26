@@ -1,2 +1,3 @@
 127.0.0.1 ztrpm.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 jpg.inte.sogoucdn.com
