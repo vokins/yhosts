@@ -1,0 +1,26 @@
+#www.21cn.com
+127.0.0.1 admarket.21cn.com
+127.0.0.1 adshows.21cn.com
+127.0.0.1 analytics.21cn.com
+127.0.0.1 market.21cn.com
+127.0.0.1 shows.21cn.com
+#www.china.com
+127.0.0.1 dvsend.china.com
+127.0.0.1 dvser.china.com
+127.0.0.1 dvser02.china.com
+127.0.0.1 rank.hit.china.com
+127.0.0.1 sssvd.china.com
+127.0.0.1 track.china.com
+#www.ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 ids.deliver.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
+#www.tom.com
+127.0.0.1 adserve2.tom.com
+127.0.0.1 js.pub.tom.com
+127.0.0.1 slides.discovery.tom.com
+127.0.0.1 tongji.tom.com
+127.0.0.1 youle.tom.com
+127.0.0.1 data.adserve.tomoimg.cn
+127.0.0.1 data.adserve2.tomoimg.cn

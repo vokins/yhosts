@@ -1,0 +1,9 @@
+127.0.0.1 s12.cnzz.com
+127.0.0.1 s13.cnzz.com
+127.0.0.1 s19.cnzz.com
+127.0.0.1 s22.cnzz.com
+127.0.0.1 s4.cnzz.com
+127.0.0.1 s85.cnzz.com
+127.0.0.1 s86.cnzz.com
+127.0.0.1 s95.cnzz.com
+127.0.0.1 w.cnzz.com

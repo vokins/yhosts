@@ -1,6 +1,4 @@
-#1fangchan.com
-127.0.0.1 adhome.1fangchan.com
-#58.com
+#m.58.com
 127.0.0.1 adshow.58.com
 127.0.0.1 brandshow.58.com
 127.0.0.1 jing.58.com
@@ -13,7 +11,7 @@
 127.0.0.1 t1.58cdn.com.cn
 127.0.0.1 t2.58cdn.com.cn
 127.0.0.1 t3.58cdn.com.cn
-#fang.com
+#m.fang.com
 127.0.0.1 click1n.soufun.com
 127.0.0.1 clickm.fang.com
 127.0.0.1 clickn.fang.com
@@ -21,19 +19,18 @@
 127.0.0.1 countubn.light.soufun.com
 127.0.0.1 mshow.fang.com
 127.0.0.1 tongji.home.soufun.com
-#fangtoo.com
+#m.fangtoo.com
 127.0.0.1 cpro.fangtoo.com
 127.0.0.1 ubm.fangtoo.com
-#ganji.com
+#m.ganji.com
 127.0.0.1 ad.ganji.com
 127.0.0.1 analytics.ganji.com
 127.0.0.1 click.ganji.com
 127.0.0.1 ganjituiguang.ganji.com
-127.0.0.1 jiaoben.ganji.cn
-127.0.0.1 sta.ganji.com
 127.0.0.1 tralog.ganji.com
+127.0.0.1 jiaoben.ganji.cn
 127.0.0.1 wuliao.ganji.cn
-#house365.com
+#m.house365.com
 127.0.0.1 ad.house365.com
 127.0.0.1 adadmin.house365.com
 127.0.0.1 ads.house365.com

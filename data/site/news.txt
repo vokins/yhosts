@@ -1,0 +1,24 @@
+#www.chinadaily.com.cn
+127.0.0.1 same.chinadaily.com.cn
+127.0.0.1 usercollection.chinadaily.com.cn
+#www.chinanews.com
+127.0.0.1 me.afp.chinanews.com
+#www.gmw.cn
+127.0.0.1 ad.gmw.cn
+#www.huanqiu.com
+127.0.0.1 boardx.huanqiu.com
+127.0.0.1 interactive.huanqiu.com
+127.0.0.1 ipengtai.huanqiu.com
+#www.infzm.com
+127.0.0.1 stats.infzm.com
+127.0.0.1 x.infzm.com
+127.0.0.1 sgg.southcn.com
+#www.people.com.cn
+127.0.0.1 pmm.people.com.cn
+#www.xinhuanet.com
+127.0.0.1 embed.xinhuanet.com
+127.0.0.1 tmisc.home.news.cn
+127.0.0.1 webd.home.news.cn
+#www.ynet.com
+127.0.0.1 gao.ynet.com
+127.0.0.1 trace.ynet.com

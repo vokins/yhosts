@@ -1,5 +1,3 @@
-#hotmm.tk
-127.0.0.1 url.hotmm.tk
 #m.5442.com
 127.0.0.1 bs.5442.com
 127.0.0.1 sdjs.5442.com

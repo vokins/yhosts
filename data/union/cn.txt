@@ -1724,7 +1724,6 @@
 127.0.0.1 mmae.qtmojo.com
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
-127.0.0.1 xiciim.qtmojo.com
 127.0.0.1 mon.xtgreat.com
 127.0.0.1 www.xtgreat.com
 #qucaigg.com

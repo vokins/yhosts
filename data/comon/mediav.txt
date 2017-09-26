@@ -1,0 +1,4 @@
+127.0.0.1 pages.juxiao.mediav.com
+127.0.0.1 show.g.mediav.com
+127.0.0.1 static.mediav.com
+

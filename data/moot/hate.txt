@@ -1,0 +1,14 @@
+#buy
+127.0.0.1 yhd.com
+127.0.0.1 www.yhd.com
+127.0.0.1 www.hisense.cn
+127.0.0.1 www.hisense.com
+127.0.0.1 www.aifou.cn
+#phone
+127.0.0.1 www.flyme.cn
+127.0.0.1 bbs.meizu.cn
+127.0.0.1 store.meizu.com
+127.0.0.1 www.meizu.com
+#sns
+127.0.0.1 www.baihe.com
+127.0.0.1 www.jiayuan.com

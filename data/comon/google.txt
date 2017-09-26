@@ -1,0 +1,4 @@
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www.googletagmanager.com

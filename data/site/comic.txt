@@ -1,8 +1,5 @@
 #m.daman.cc
 127.0.0.1 g.daman.cc
-#m.tuku.cc
-127.0.0.1 bdjm.tuku.cc
-127.0.0.1 sougouwap.tuku.cc
-#www.u17.com
+#m.u17.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com

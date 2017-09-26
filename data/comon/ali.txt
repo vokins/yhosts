@@ -1,0 +1,30 @@
+127.0.0.1 afp.alicdn.com
+127.0.0.1 afpeng.alimama.com
+127.0.0.1 afpmm.alicdn.com
+127.0.0.1 c.wrating.com
+127.0.0.1 p.tanx.com
+
+127.0.0.1 static.mediav.com
+
+127.0.0.1 cdn.vamaker.com
+127.0.0.1 cl2.webterren.com
+127.0.0.1 images.sohu.com
+127.0.0.1 js.ptmind.com
+127.0.0.1 kxlogo.knet.cn
+127.0.0.1 pic.fastapi.net
+127.0.0.1 a.irs01.com
+
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 m.reachmax.cn
+127.0.0.1 trace.rtbasia.com
+127.0.0.1 v2.reachmax.cn
+
+127.0.0.1 fp.fraudmetrix.cn
+127.0.0.1 static.fraudmetrix.cn
+127.0.0.1 click-cn.plista.com
+127.0.0.1 farm-cn.plista.com
+127.0.0.1 static-cn.plista.com
+127.0.0.1 api.growingio.com
+127.0.0.1 growingio.com
+127.0.0.1 tags.growingio.com
+127.0.0.1 www.growingio.com

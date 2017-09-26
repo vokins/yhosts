@@ -1,0 +1,424 @@
+http://adv.jxnews.com.cn/2006/newtg/index.php
+http://ad.jxnews.com.cn/lm/2017/images/index-bg1.jpg
+http://www.jxnews.com.cn/first/js/home/index_ad_top.js
+http://www.jxnews.com.cn/js/www.js
+http://ad.beihai365.com/ide/adsview/adsview.min.js
+http://ad.beihai365.com/ide/adsense/home2015v2i-1.js
+http://ad.beihai365.com/ide/adsense/home2015v2i-2.js
+http://ad.beihai365.com/ide/adsense/home2015v2i-3.js
+http://ad.beihai365.com/ide/adsense/home2015v2i-4.js
+http://ad.beihai365.com/ide/adsense/home2015v2i-5.js
+http://afpimages.eastday.com/k.js
+http://tongji.eastday.com/webdig.js?z=1
+_acK({aid:70461,format:0,mode:1,gid:1,destid:"indexwz_1",sendreferer:1,serverbaseurl:"eastday.acs86.com/"});
+<script language='javascript' src='http://www2.xinmin.cn/showadcode.asp?w=1024&h=90&posid=1776&x=js'></script>
+<script language="javascript" src="http://total.xinmin.cn/"></script>
+<!-- 广告 -->
+<!--[if gt IE 6]><!-->
+var post_host = "http://rec.real_calc.enorth.com.cn/real_calc_w/";
+var spare_host = "http://bak.real_calc.enorth.com.cn/1.jpg?";
+<script src="http://eap.enorth.com.cn/js/20/2014index_quanping.js"></script>
+<script src="http://eap.enorth.com.cn/js/20/2014index_tanchu.js"></script>
+<script src="http://eap.enorth.com.cn/js/20/2014index_tanchu2.js"></script>
+<!--<![endif]-->
+<script src="http://eap.enorth.com.cn/js/20/2014index_bakantou.js"></script>
+<div class="guanggao1">
+<div class="guanggao1_1"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner3_zuo.js"></script></div>
+<div class="guanggao1_2"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner3_you.js"></script></div></div>
+<div class="guanggao1"><script src="http://eap.enorth.com.cn/js/20/2014index1_tonglan1.js"></script></div>
+<div class="guanggao1_1"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner1_zuo.js"></script></div>
+<div class="guanggao1_2"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner1_you.js"></script></div></div>
+<div class="guanggao1_1"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner2_zuo.js"></script></div>
+<div class="guanggao1_2"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner2_you.js"></script></div></div>
+<div class="guanggao1"><script src="http://eap.enorth.com.cn/js/20/2014index1_tonglan2.js"></script></div>
+<div class="guanggao1"><script src="http://eap.enorth.com.cn/js/20/2014index1_tonglan3.js"></script></div>
+<div class="guanggao1_1"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner4_zuo.js"></script></div>
+<div class="guanggao1_2"><script src="http://eap.enorth.com.cn/js/20/2014index1_banner4_you.js"></script></div></div>
+src="http://dvsend.china.com/js/interflow.js"
+http://dvser.china.com/s?z=china&c=277');
+http://dvser02.china.com/s?z=china&c='+adid+'
+http://dvser.china.com/s?z=china&c='+adcode+'" charset="gbk
+http://sssvd.china.com/js/4n3j9p.js
+<script src="http://track.china.com/js/func.js"></script>
+http://rank.hit.china.com/news?to=ad&t=0&id=31464202&tid=1000&cid=22&en=news
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2456">
+
+<!-- AdSame ShowCode: 新版中文1227 / 中文大首页15.8.28 / 弹窗 Begin -->
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2327">
+</script>
+<!-- AdSame ShowCode: 新版中文1227 / 中文大首页15.8.28 / 弹窗 End -->
+<!-- AdSame ShowCode: 新版中文1227 / 中文大首页15.8.28 / 自定义 Begin -->
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2328">
+<!-- AdSame ShowCode: 新版中文1227 / 中文图片流 15.9.10 / 弹窗 Begin -->
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2367">
+<!-- AdSame ShowCode: 新版中文1227 / 中文图片流 15.9.10 / 弹窗 End -->
+<!-- AdSame ShowCode: 新版中文1227 / 中文图片流 15.9.10 / 自定义 Begin -->
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2370">
+<!-- AdSame ShowCode: 新版中文1227 / 中文图片流 15.9.10 / 自定义 End -->
+<!-- AdSame ShowCode: 360合作广告 / 中文页 / 内容页矩形 Begin -->
+<script type="text/javascript" src="http://same.chinadaily.com.cn/s?z=chinadaily&#38;c=2454" charset="gbk">
+<!-- 用户行为分析脚本 start -->
+(function() {
+var gw = document.createElement("script");
+gw.src = "https://usercollection.chinadaily.com.cn/analytics?token=0mpxACjz6aOJd4lmKACohw==";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(gw, s);
+<!-- 用户行为分析脚本 end -->
+<script type="text/javascript" charset="utf-8" src="http://sc.chinaiiss.com/do.php?do=ad&amp;ac=ad_show_json&amp;parameter=163,155,268,269,272,273,274,275,281,229,230,233,234,282,238,236,235,237,240,231,286,162,355,356,357,358,382,389,390,401,436,437,439,440,453,462,472,473,474,475,476,477,503,504,505,506,520,521,556,558,559,560,561,562,563,564,565,568,584,585,586,454,599,600,463,603,604,605,587,588,609,615,616,617,618&amp;refurl=&amp;cityid=0&amp;l=http://mil.chinaiiss.com/html/20179/18/a8e634.html&amp;r=1505786"></script>
+http://www.chinaiiss.com/unionsogou.html?zlid=10&i=336&j=280&pvid=0001505793754885_1126921431
+_acK({aid:2028,format:0,mode:1,gid:1,serverbaseurl:"me.afp.chinanews.com/"});
+<!--Ad Survey 广告加载基础代码-->
+<script type="text/javascript" src="http://ipengtai.huanqiu.com/resource/js/base.js"></script>
+<!-- 公共头部分 begin -->
+<script src="http://interactive.huanqiu.com/?c=hits&a=addHits&id=11266464&catid=1262"></script>
+http://himg2.huanqiu.com/statics/hq2013/allMinJs/adStatistics/adStatistics.js
+<div style="display:none">
+<script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script>
+<script type="text/javascript">wd_paramtracker("_wdxid=undefined")</script>
+<noscript>
+<img src="http://webd.home.news.cn/1.gif?z=1&amp;_wdxid=undefined" border="0" />
+<!--AdForward Begin:-->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2015hp|HpQp01_01&amp;db=xinhuanet&amp;border=0&amp;local=yes&amp;js=ie"
+<ins data-ycad-slot="156"></ins>
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/config/global-cfg.js"></script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/expand/332.js"></script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/fetch/st-main.js?st-cfg=config/xz-lnpd-config&amp;st-v=combine-st/combine-st" id="st-main"></script>
+http://res1.ynet.com/40/ynet_new_ad.js
+http://gao.ynet.com/fawan/partner.html?id=3181302&width=640&height=60&display=inlay-fix
+<script type="text/javascript" src="//pb1.qujishu.com/fasgbzzxgdh.js"></script>
+<img id="sr_vimg" src="//x.9dagui.com/img/720_360/www.tubatu.jpg">
+<script src="http://ad.17zhaole.com/ad?s=x2&amp;sid=10507&amp;w=720&amp;h=360&amp;r=1889606987&amp;pvid=01505786124822_1889606987&amp;pvr=http%3A%2F%2Fchinaiiss.com%2F"></script>
+<script src="http://www.17zhaole.com/z/7z.js"></script>
+<script src='http://www.17zhaole.com/z/9z.js'></script>
+(function(){var a=(new Date()).getTime();var c=Math.floor(Math.random()*2147483646);var b=a+"_"+c;(new Image()).src="http://pb.17zhaole.com/pv?of=y2&sid=509&w=336&h=280&t="+a+"&r="+c+"&pvid="+b+"&cw="+document.body.clientWidth+"&ch="+document.body.clientHeight+"&pvr="+encodeURIComponent(document.referrer);var d="00"+b;var e='<div id="'+d+'" style="width:'+336+"px;height:"+280+'px;">';e=e+'<iframe src="http://www.chinaiiss.com/unionsogou.html?zlid=7&i=336&j=280" width="'+336+'" height="'+280+'" align="center,center" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>';document.writeln(e);return})();
+<script type="text/javascript" src="http://ad.dzwindows.com/module/adsview/content/adsview.js"></script>
+<!-- <link href="http://ad.dzwww.com/2017adpic/pj17.css" rel="stylesheet" type="text/css" /> -->
+www.dzwww.com/data/js/asp_3194.js
+www.dzwww.com/data/js/asp_3195.js
+www.dzwww.com/data/js/asp_3204.js
+www.dzwww.com/data/js/asp_3209.js
+www.dzwww.com/data/js/asp_3275.js
+www.dzwww.com/data/js/asp_3349.js
+www.dzwww.com/data/js/asp_3350.js
+www.dzwww.com/data/js/asp_3352.js
+www.dzwww.com/data/js/asp_3414.js
+www.dzwww.com/data/js/asp_3498.js
+www.dzwww.com/data/js/asp_3499.js
+www.dzwww.com/data/js/asp_3705.js
+www.dzwww.com/tpl/2016/js/wap_1.js
+www.dzwww.com/tpl/2016/js/wap_2.js
+www.dzwww.com/tpl/2016/js/wap_3.js
+www.dzwww.com/tpl/2016/js/wap_4.js
+www.dzwww.com/tpl/2016/js/wap_5.js
+www.dzwww.com/tpl/2016/js/wap_6.js
+www.dzwww.com/tpl/2016/js/wap_7.js
+www.dzwww.com/tpl/2016/js/wap_8.js
+www.dzwww.com/tpl/2016/js/wap_9.js
+http://g3.iqilu.com/static_files/multiads/230/smultiads_230.js
+<script type='text/javascript' src='http://g3.iqilu.com/static_files/multiads/231/smultiads_231.js'></script>
+<script type='text/javascript' src='http://g4.iqilu.com/multiads.js'></script>
+<!--伸缩广告-->
+<div style="padding-top:2px;" id="badad">
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up//uploc44.js" charset="gb2312"></script>
+<!--广告加载 -->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1017.txt" charset="GB2312"></script>
+<!--A01-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2012-9/display975.txt" charset="GB2312"></script>
+<!--A02 -->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up//display42.txt" charset="GB2312"></script>
+<!--A-l-01-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1015.txt" charset="GB2312"></script>
+<!--A04-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1016.txt" charset="GB2312"></script>
+<!--A05-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-6/display1075.txt" charset="GB2312"></script>
+<!--A06-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-4/display1020.txt" charset="GB2312"></script>
+<!--A07-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2015-6/display1231.txt" charset="GB2312"></script>
+<!--A-l-07-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1014.txt" charset="GB2312"></script>
+<!--A08-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2015-6/display1232.txt" charset="GB2312"></script>
+<!--A-l-08-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1012.txt" charset="GB2312"></script>
+<!--A09-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1013.txt" charset="GB2312"></script>
+<!--A10-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-5/display1068.txt" charset="GB2312"></script>
+<!--A11-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-5/display1069.txt" charset="GB2312"></script>
+<!--A12-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1010.txt" charset="GB2312"></script>
+<!--A13-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1011.txt" charset="GB2312"></script>
+<!--A14-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-8/display1109.txt" charset="GB2312"></script>
+<!--A15-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-8/display1110.txt" charset="GB2312"></script>
+<!--A16-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1008.txt" charset="GB2312"></script>
+<!--A17-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1009.txt" charset="GB2312"></script>
+<!--A18-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1006.txt" charset="GB2312"></script>
+<!--A19-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1007.txt" charset="GB2312"></script>
+<!--A20-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1005.txt" charset="GB2312"></script>
+<!--A21-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2015-7/display1233.txt " charset="GB2312"></script>
+<!--A22-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-9/display1138.txt" charset="GB2312"></script>
+<!--A23-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-9/display1139.txt" charset="GB2312"></script>
+<!--A24-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2015-5/display1227.txt" charset="GB2312"></script>
+<!--A25-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2015-5/display1228.txt" charset="GB2312"></script>
+<!--A26-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1002.txt" charset="GB2312"></script>
+<!--A28-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2014-8/display1124.txt" charset="GB2312"></script>
+<!--A29-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1000.txt" charset="GB2312"></script>
+<!--A30-1-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1001.txt" charset="GB2312"></script>
+<!--A30-2-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display998.txt" charset="GB2312"></script>
+<!--A31-1-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display999.txt" charset="GB2312"></script>
+<!--A31-2-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display997.txt" charset="GB2312"></script>
+<!--A32-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2013-3/display1004.txt" charset="GB2312"></script>
+<!--A33-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2012-2/uploc933.js" charset="gb2312"></script>
+<!--A34-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up/loc/2012-2/uploc932.js" charset="gb2312"></script>
+<!--A35-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up//display40.txt" charset="GB2312"></script>
+<!--A36-->
+<script language="JavaScript" type="text/javascript" src="http://up.qingdaonews.com/up//display41.txt" charset="GB2312"></script>
+<!--A37-->
+<script language="JavaScript" type="text/javascript" src="http://3.up.qingdaonews.com/up/loc/2013-3/display1003.txt" charset="GB2312"></script>
+<div class="wrapfix pt10 pb10">
+<div class="da66050"><script language="JavaScript" type="text/javascript" src="http://3.up.qingdaonews.com/up/loc/2014-10/uploc1158.js" alt="N1" charset="GB2312"></script></div>
+<div class="da30050"><script language="JavaScript" type="text/javascript" src="http://1.up.qingdaonews.com/up/loc/2014-10/uploc1161.js" alt="N2" charset="GB2312"></script></div>
+</div>
+<div class="wrapfix pb10">
+<div class="da66050"><script language="JavaScript" type="text/javascript" src="http://4.up.qingdaonews.com/up/loc/2014-10/uploc1159.js" alt="N3" charset="GB2312"></script></div>
+<div class="da30050"><script language="JavaScript" type="text/javascript" src="http://2.up.qingdaonews.com/up/loc/2014-10/uploc1162.js" alt="N4" charset="GB2312"></script></div>
+<div class="da66050"><script language="JavaScript" type="text/javascript" src="http://0.up.qingdaonews.com/up/loc/2014-10/uploc1160.js" alt="N5" charset="GB2312"></script></div>
+<div class="da30050"><script language="JavaScript" type="text/javascript" src="http://3.up.qingdaonews.com/up/loc/2014-10/uploc1163.js" alt
+bot="AdvClassList" endspan --><script language="JavaScript" charset="gb2312" src="http://stat.zbii.com/phpstat/count/abefffgh/abefffgh.js"
+<img src="http://518.sdinfo.net/images/2016/20160511.jpg" width="970" height="82 border="0" />
+<script src="http://www.ccnovel.com/d/js/acmsd/thea8.js"></script>
+<div class="widget widget_ui_ad">
+<script>
+var mediav_ad_logo = false;
+var mediav_ad_pub = 'xO7SkN_1038674';
+var mediav_ad_width = '300';
+var mediav_ad_height = '250';
+<script type="text/javascript" language="javascript" charset="utf-8"  src="https://static-ssl.mediav.com/js/mvf_g2.js"></script>
+http://www.ccnovel.com/skin/ecms009/js/pg.js
+<img src="http://gg.ptfish.com/attach/image/2017/0913/09-03-27-837-1737.gif" alt="喜盈门" width="120" height="250" style=" vertical-align:bottom; ">
+http://gg.ptfish.com/module/adsview/content/adsview.js
+<script type="text/javascript" src="http://adm.xmfish.com/shw/664.js" charset="utf-8"></script>
+<!-- A1对联跟随广告 start -->
+<script type="text/javascript" src="http://cmm.xmfish.com/bshw/153.js" charset="utf-8"></script>
+http://img.cmm.xmfish.com/pages/uploads/20170908/1504862161.gif
+<div class="mt8"><script type="text/javascript" src="http://cmm.xmfish.com/bshw/1299.js" charset="utf-8"></script></div>
+<div class="mt8"><script type="text/javascript" src="http://cmm.xmfish.com/bshw/1251.js" charset="utf-8"></script></div>
+http://img.cmm.xmfish.com/pages/uploads/20170908/1504864650.gif
+http://img.cmm.xmfish.com/pages/uploads/20170717/1500254785.jpg
+<script language="javascript" type="text/javascript" src="http://g.hsw.cn/data/tool.php"></script>
+<script type="text/javascript" src="http://g.hsw.cn/js_wei/1134.js"></script> </div>
+<div style="width:980px;margin:10px auto" class="footggw"><a href="http://www.jz-union.com/web/index.php" target="_blank"><img src="http://ggw.watertu.com/gsw/ggw/foot/jzsite.jpg"></a></div
+src="http://gg.haianw.com/2014/aide/aide.gif" /></a></td>
+<td align="center" valign="bottom"><a href="http://www.haianw.com/thread-1093169-1-1.html" target="_blank"><img  src="http://gg.haianw.com/2017/muse.gif" /></a></td>
+<td align="right" valign="bottom"><a href="http://www.haianw.com/thread-1099779-1-1.html" target="_blank"><img
+src="http://gg.haianw.com/2017/qumei.jpg" /></a></td>
+</tr>
+<td width="82" align="center"><a href="http://cqnet110.gov.cn/" rel="nofollow"><img src="http://adimg.cqnews.net/2012-03-15/b46f3981ada86b87c3d120ae76a75d9e.gif" border="0"></a></td>
+<td width="94" align="center"><a href="http://beian.cqnet110.gov.cn/webrecord/innernet/Welcome.jsp?bano=50000001100014&bado=cqnews.net" rel="nofollow"><img src="http://adimg.cqnews.net/2012-03-15/82a5b2815918a3e29bb0b19222933c97.gif" border="0"></a></td>
+<div id="__plugins"> <img src="http://phpad.cqnews.net/static_files/ad/PHPADM_STAT.js" style="display:none;" />
+<script src="http://adf.dahe.cn/adjs/1_379.js"></script>
+<script src="http://adf.dahe.cn/adjs/1_380.js"></script>
+<script language="javascript" type="text/javascript" charset="gbk" src="http://adf.dahe.cn/pv/77.js" ></script>
+<!-- AFP两段式代码-公用代码 -->
+<script type="text/javascript" src="http://market.21cn.com/asp/k.js"></script>
+var jsSrc='http://adshows.21cn.com/washow?posId='+adId+'&anchorid='+anchorId;
+http://news.dayoo.com/textad/201709/08/4f173eb3-13d6-499f-a0ed-3f8e5090923d.jpg
+//]]>--></script><noscript><a href='http://x.infzm.com/www/delivery/ck.php?n=a6f98c95&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://x.infzm.com/www/delivery/avw.php?zoneid=71&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6f98c95' border='0' alt=
+<script src="http://stats.infzm.com/public/static/analysis/analysis-pc.js"></script>
+<!-- AdSame ShowCode: 南方新闻网 / 全站细览 / 全站细览通栏广告 Begin -->
+<div id="2014_ad01_backup" style="display:none;"><script type="text/javascript" src="http://sgg.southcn.com/s?z=south&c=10"></script></div>
+<!-- AdSame ShowCode: 南方新闻网 / 全站细览 / 全站细览通栏广告 End -->
+<!-- AdSame ShowCode: 南方新闻网 / 全站细览 / 全站细览画中画 Begin -->
+<div id="2014_ad02_backup" style="display:none;"><script type="text/javascript" src="http://sgg.southcn.com/s?z=south&c=12"></script>
+<script type="text/javascript" src="http://sgg.southcn.com/s?z=south&c=722" charset="gbk" ></script>
+<!-- AdSame ShowCode: 南方新闻网 / 全站细览 / 全站细览画中画 End -->
+$.getJSON("http://adi.cnool.net/AdShowCache2013?www-window|1|2578&callback=?", function (ret) {
+$.getJSON("https://adi2007.cnool.net/AdShowCache2013?home-sybt|1|2471&callback=?", function (ret) {
+<script language="JavaScript1.1" src="https://ida.cnool.net/AdShowCache?cnool-syzt|1|2624|s|ad1_" charset="gb2312"></script>
+<script src="https://adp.cnool.net/js/scroll_ad1.js" charset="gb2312"></script>
+/javascript" src="http://go.hangzhou.com.cn/?ad_id=173" cha
+<script language="javascript" src="http://ggg.zj.com/js/zjad_510.js"></script>
+http://ad.egou.com/ads.jsp?name=TOP_ADS&site=1&term=1&page
+style="display:none"> <a href="http://a.dangdang.com/tjump.php?q=fhezwGb%2BUG6O6s5VTARwSTMUODcvkAknxfrLg47OC%2FrtdP6bMXIOVvGTc3fhmTzF595z8RPHPVQNIX0X8FfNV61WRAMFA5ApJ71cI8iHq6iTEg%3D" name="f_1" dd_name="焦点图6" title="" target="_blank">
+<img src="http://img60.ddimg.cn/2017/9/19/201709191359549934.jpg" width="772" height="310" data="http://a.dangdang.com/api/data/cpx/img/39470001/1">
+</a> </textarea></li><li style="position: absolute; opacity: 0; z-index: 1;" ddt-expose="attr[z-index='9']"><textarea style="display:none"> <a href="http://a.dangdang.com/tjump.php?q=foeHgxnuXN2LO9jhXqFhP7ITuDcvkAknxfrLg47OC%2FrtdP6bMXIOVvGTc3fhmTzF595bOldF6JxFGNlaCzYrAgGvufgTKDnmJ6KitZrSUjTYvQ%3D" name="f_1" dd_name="焦点图0" title="" target="_blank">
+<img src="http://img63.ddimg.cn/2017/9/19/2017091919552449413.jpg" width="772" height="310" data="http://a.dangdang.com/api/data/cpx/img/39290001/1">
+</a> </textarea></li><li style="position: absolute; opacity: 0; z-index: 1;" ddt-expose="attr[z-index='9']"><textarea style="display:none"> <a href="http://a.dangdang.com/tjump.php?q=fnknHiNmQQWnNCud8RWEyPjDuDcvkAknxfrLg47OC%2FrtdP%2FDpUqEInC8Kz59l8oybGTsJJfx%2BiozHZSLsKBBwNGTDtxSYhxpjoXplJGz7KLH%2F8WaLAelJ9LivVYNFPU86rQ" name="f_1" dd_name="焦点图3" title="" target="_blank">
+<script type="text/javascript">var newsuggesturl = "http://schprompt.dangdang.com/suggest_new.php?";</script>
+https://tkmdng.cn/m-1026-1512341"></script>
+http://oss-article.55-img.com/ads/201608/e619cd0ffca29f2978791a3a901a59026e5bc993.jpg
+<script type="text/javascript" src="http://ll.gxsky.com/yfy/"></script></BODY>
+<noscript><link rel="stylesheet" type="text/css" href="//cc.dace.hupu.com/_dace.gif?et=wap&vid=0x5e9ecd16875569cb&sid=WL_tch_m&ref=https%3A%2F%2Fwww.hupu.com%2F&path=http%3A%2F%2Fm.hupu.com%2F&rkw=&rurl=www.hupu.com&ip=223.68.189.0&vst=8598fb63.8e1ed0ec&v=1.0.1&inu=1&utmn=15059737841780364072&ptp=1000"></noscript><script>window.inu = '1'</script>
+https://b3.hoopchina.com.cn/web/module/dace/m/m_dace.js
+https://sdk.appadhoc.com/ab.plus.js
+<div class="archy_had a_h "><a href="./portal.php" target="_blank"><img src="http://pic.jdunion.com/zhangxin/lianmeng/liangmeng2.jpg" border="0"></a></div>
+http://pic.jd-bbs.com/logo/zcys.gif
+http://pic.jd-bbs.com/hivi/hivi201707.gif
+http://pic.jd-bbs.com/zhangxin/hifi/dm/dm.gif
+<script src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+<script type="text/javascript" src="//tracking.cat898.com/about/log.js"></script>
+var fmedia_ad="http://panda.kdnet.net/data/fmedia/fmedia_club_detail.js";
+<!-- script type="text/javascript" src="http://super.cat898.com/?c=ad&a=fmedia&popcontents=1&min=1"></script -->
+<div id="panda_club_dispbbs_l_5" style="display:none"><script type="text/javascript" src="http://super.kdnet.net/data/position/p61.js"></script></div>
+https://boardx.huanqiu.com/smu0/c.js?l=0
+https://www.8ao8ao.com/smu0/o.js
+https://sj.adunite.com/u3087853-1-2-1026.js
+<script type="text/javascript" src="https://pf-2.pchome.net/pf.php"></script>
+http://pf.pchome.net/flow.js
+<script src="http://tongji.miercn.com/stat_ajax.php?action=mier&amp;page=1&amp;shorttitle=头条2-稿件&amp;id=1253497&amp;title=蒙古彻底陷入崩溃：真相令亿万国人颤栗&amp;senddate=1505962402&amp;write=闻舞"></script>
+lass="app-link" href="http://xray.jebe.renren.com/xray/monitor/click.htm?clickUrl=http://fenqi.renren.com/?origin=587&adzoneID=fenqi&creativeID=0&userID=0" target="_blank"><img class="app-icon" width="32" height="32" style="backgro
+<a href="http://bolt.jebe.renren.com/introduce.htm" class="l-2" target="_blank">中小企业<br />自助广告</a>
+http://ebp.renren.com/ebpn/show?userid=230426571&isvip=false&hideads=false&…enren.com%2F230426571&requestToken=1047053616&_rtk=a29c38a&_=1505977671864 Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://static.tianyaui.com/qy/adsame/ads.js
+list"),a=e.length;i.getScript("http://803.tianya.cn/keyword?title="+i(".js-bbs-act").attr("js_title")+"&item="+bbsGlobal.item+"&returnNum="+a+"&handle=json&varPara=keywordAd",function(){if(window.keywordAd){for(var t,n=window.keywordAd.ads,s=0;s<n.length;s++){t=n[s],e.eq(s%a).append('<li><a data-id="'+t.id+'" title="[广告]'+t.ads_title+'" target="_blank" href="'+t.ads_url+'">[广告]'+t.ads_title+"</a></li>");var o=document.createElement("img");o.src="http://collect.tianya.cn/newAccess.jsp?"+i.param({p:"ad-keyWord-s",clickurl:t.ads_url,other:{ad_id:t.id,sys:"qyZone"}}),o.onload=o.onerror=function(){o=null}}e.find("li a").bind("click",function(){var
+http://click.tianyaui.com/clkme.jsp?item=funinfo&idArticle=7501810&cookie=__cid%3DCN%3B+__guid%3D844841453%3B+__guid2%3D844841453%3B+__u_a%3Dv2.2.0%3B+bc_exp%3D10%3B+bc_ids_m%3Dhw%3B+leftNavId%3D0%3B+__ptime%3D1505978050018%3B+time%3Dct%3D1505978053.006&_=1505978053854
+http://803.tianya.cn/keyword?title=%E5%80%BC%E7%8F%AD%E5%A4%9C%E9%87%8C%E7%9D%A1%E4%B8%8D%E7%9D%80%EF%BC%8C%E8%AF%B4%E8%AF%B4%E6%88%91%E5%9C%A8%E6%89%8B%E6%9C%AF%E5%AE%A4%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%90%A7%E3%80%82&item=funinfo&returnNum=2&handle=json&varPara=keywordAd&_=1505978053848
+http://dol.tianya.cn/s?z=tianya&c=9930215,9930201,9930219,9930208,9930209,9930210,9930211,9930212,9930213,9930214,9930205,9930204,9930207,9930217,9930202,9930203,9930218,9930221,9930222,9930223,9930299
+http://adimgs.xici.net/public.php?service=files&t=15307034291f1fa320034d2ce2bffe69&download
+http://xiciim.qtmojo.com/main/s?user=xici|15ty|15fbty12&db=xiciim&border=0&local=yes&js=ie
+http://cdn.vamaker.com/vamaker/vamaker.c.js
+http://stats.g.doubleclick.net/dc.js
+http://pic.fastapi.net/sdk/js/a.js
+http://www.google-analytics.com/analytics.js
+http://newspage.xilu.com/model/xilu_bottom.js
+http://1.xilu.com/ko3a1dc695fecaf13cdb4c3e93a8f222a156edd0.js
+<script type="text/javascript" src="http://abc.douguo.com/dyqeqzxnubfhnqu.js"></script>
+(window._ssp_global = window._ssp_global || {}).userConfig = {
+domain: "ggb.douguo.com"
+}
+http://ab.meishiba.com.cn/zqdq377eou.js net::ERR_CONNECTION_REFUSED
+131756196f:320 GET http://ab.meishiba.com.cn/jetmdnddnhlfgmk.js net:
+GET http://dup.baidustatic.com/js/dm.js net::ERR_CONNECTION_REFUSED
+(index):217 GET http://baidu-union-js.xiachufang.com/idvjcmcfcgkcef.js net::ERR_CONNECTION_REFUSED
+(index):251 GET http://baidu-union-js.xiachufang.com/lgymfpfiojn.js net::ERR_CONNECTION_REFUSED
+(index):331 GET http://baidu-union-js.xiachufang.com/dyqexhxgebfhnqu.js net::ERR_CONNECTION_REFUSED
+(index):365 GET http://baidu-union-js.xiachufang.com/fasgzjzipdh.js net::ERR_CONNECTION_REFUSED
+(index):455 GET http://baidu-union-js.xiachufang.com/idvjcmclagkcef.js net::ERR_CONNECTION_REFUSED
+(index):489 GET http://baidu-union-js.xiachufang.com/kfxleoengimhnlou.js net::ERR_CONNECTION_REFUSED
+http://dn-growing.qbox.me/vds.js
+https://abc.douguo.com/pkcqmslhhnrcghj.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://abc.douguo.com/kfxlnlghcimhnlou.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://abc.douguo.com/mhznpnipgkon.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://ali.xinshipu.cn/js/inc.20151111.js
+http://shrek.6.cn/live.6.cn/e6u2/rp.p
+http://sclick.6rooms.com/crossdomain.xml
+document.write('<script type="text/javascript" src="http://fan.liuxiaoer.com/c1db5ync2p.js"></script>');
+document.write('<script type="text/javascript" src="http://fan.liuxiaoer.com/cf3a1ec298f1cef438db0679c5adf722f75ce3d20129ac32ed12.js"></script>');
+document.write('<script type="text/javascript" src="http://fan.liuxiaoer.com/uidy4cs5fg.js"></script>');
+http://d.yjbys.com/mqkonkoqenepgdzkon.js
+http://a.yjbys.com/m/s.js
+http://abc.yjbys.com/oayksvuk?urv=FAG&jvq=9A9B&qv=2B8BE99C&ygh=p11xhBIhANhANBohf6rj60hfkwuhANuqiv0pqhAN6qvo62uqiv0pqhAN9DBEE8Hhfp1ut&gce=9D8E88DFA8H9C&rkcf=99988A&qgz=P-UTfXW_-&qp=A&qnv=B&nev=A&qvf=8&nag=9
+<script src='http://www.srhuafeng.com/img/6606'></script>
+<script src='http://www.srhuafeng.com/img/1060'></script>
+<script src='http://www.srhuafeng.com/img/1059'></script>
+<script src='http://www.srhuafeng.com/img/1058'></script>
+https://www.s3d4.cn/Content/webimg/ad.jpg
+<script src="http://bd2.jobui.com/cpro/ui/dm.js" type="text/javascript"></script>
+bd3.jobui.com"
+http://bai3.gushiwen.org/wrdic99813.js
+http://js.xuexila.com/m/idangerous.swiper-1.9.1.min.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://js.xuexila.com/m/idangerous.swiper.scrollbar-1.2.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://js.xuexila.com/m/swiper-demos.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://w5sac788c1.360doc.cn/bwocxxftczdec.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://w5sac788c1.360doc.cn/ezohoihoicgorvwy.js Failed to load resource:
+http://js.ruiwen.com/a/m/s.js
+http://d.ruiwen.com/mqkonkoqenepgdzkon.js
+http://abc.ruiwen.com/ejmyi?zwa=rms&oav=lmln&va=enknqmtq&dlm=Udd.MnuMmzMmzZMKbeVgR_MKP-ZMmzhVN-MmzcdMmzUdZYKQ-PMmznmlnmMKUdZ&vsa=m&lhj=lpkqkkrkmpnno&vak=k&sfl=l&vu=m&wphk=lllkkl&sja=m&vle=1D65K98CD&u32=bge1dbr28vcwtd18aor&6m5=ptkyg0x3a1efvbwqaor
+https://bu01.zybang.com/bzdfc5ukjh.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://bu01.zybang.com/ytlzpbciiwai.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://bu01.zybang.com/wgdgey1jd5.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://bu01.zybang.com/x7dr62dhpn.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+https://hm.baidu.com/hm.js?4052fbeb9f65d9bea3bf0137c0585a43 Failed to load resource: net::ERR_CONNECTION_REFUSED
+问老师
+</a><div class="cpro after-middleAd"><script type="text/javascript" src="https://bu01.zybang.com/ytlzpbciiwai.js">
+</style>
+<dl class="card be5cc68" id="baiduAd">
+<dt>为您推荐<span class="temp-ad">(广告)</span></dt>
+<div class="bottom-banner">
+<script type="text/javascript" src="https://bu01.zybang.com/wgdgey1jd5.js"></script>
+</dl>
+<style>.qb_wgt-recommend{margin-bottom:0!important}.qb_wgt-recommend .title{padding:15px 15px 0 32px;font-weight:700;position:relative}.qb_wgt-recommend .title:before{content:"";border:2px solid #45B7FF;position:absolute;height:14px;left:17px;top:17px}</style>
+<div class="card qb_wgt-recommend">
+<p class="title">学习生活服务 </p>
+<div class="ad-container">
+<script type="text/javascript" src="https://bu01.zybang.com/x7dr62dhpn.js"></script>
+<script src='http://m.youyoumw.com/22539'></script>
+<a href="http://midas.rong360.com/c?z=dbname&amp;la=0&amp;si=7&amp;cg=4&amp;c=132&amp;ci=9&amp;or=39&amp;l=296&amp;bg=296&amp;b=356&amp;u=http://m.rong360.com/app/osdown/?ios=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Frong360-dai-kuan-xin-yong%2Fid1026689855%3Fl%3Dzh%26ls%3D1%26mt%3D8&amp;android=http%3A%2F%2Fwww.rong360.com%2Fdl%2Frong360-c_strategyhead-release.apk"><img width="100%" src="https://www.rong360.com/ad/dbname/2017/01/0_4.jpg"></a>
+<script  src="http://advapi.ahtv.cn/adv/data/script/hg_ad.js"></script>
+<script language="JavaScript" src="http://counter.m1905.com/count.php?contentid=85649"></script>
+http://a.irs01.com/hat?_t=i&type=imp&hat_id=MTcxJjg4JjY0MTImMTI3OTEmNTU3MDkmnw8
+http://b.scorecardresearch.com/beacon.js
+http://jqmt.qq.com/cdn_dianjiliu.js?a=0.941455258987844
+http://jqmt.qq.com/rpt.png?plf=3&cnt=2&r0=8,121,0&r1=3540,94,0
+http://jsqmt.qq.com/cdn_djl.js
+http://livec.l.qq.com/livemsg?ty=web&cli_uin=0&cli_key=&wba=&ad_type=FT|LD|KB&rfid=&pf=client&pt=0&pc=0&vid=409725803&coverid=&live=1&from=1&pu=0&v=10020374&plugin=1.4.6&speed=0&vptag=channel1&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&adaptor=2&musictxt=&chid=0&mbid=&guid={452BE58E-8812-CCE9-1079-6627CB29F555}&tua=unknown&st=0
+http://livec.l.qq.com/livemsg?ty=web&cli_uin=0&cli_key=&wba=&ad_type=FT|LD|KB&rfid=765ff6fd69dfff1532a6c08a76577566_1506174095&pf=client&pt=0&pc=0&vid=409725803&coverid=&live=1&from=1&pu=0&v=10020374&plugin=1.4.6&speed=1191&vptag=channel1&pid={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&adaptor=2&musictxt=&chid=0&mbid=&guid={452BE58E-8812-CCE9-1079-6627CB29F555}&tua=unknown&st=0
+http://livep.l.qq.com/livemsg?aid_vip_type=1&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&r90=1&st_id_t=0&live=1&ufc_filter=0&l=4003&aver_flag=6148&ev=6.0.134.134&vid=409725803&pf=client&txpheader=1&use_axp=0&ip_filter=1&o=90&adtype=KB&plugin=1.4.6&live_drm=0&refluence=2017&coverid=&livepid=32944&vptag=channel1&lcount=1&t=0&tagid=0&dura=0&axpheader=1&v=10020374&reqtime=1506174153&chid=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&oadid=409725803&si=2553010954&soid=2AC783F6005959C6648F59401400&url=null&aid_tpid=10&aid_tpid2=0&use_txp=0&backfunnel=202&ping_data=dXBfdmVyc2lvbj1WNi4wLjEzNC4xMzQ&requestl=2017&from=1
+http://livep.l.qq.com/livemsg?ev=6.0.134.134&ping_data=dXBfdmVyc2lvbj1WNi4wLjEzNC4xMzQ&si=2553010954&pid2={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&use_axp=0&aver_flag=0&l=13&reqtime=1506174209&live=1&refluence=13&requestl=13&o=394&adtype=FT&plugin=1.4.6&pf=client&txpheader=1&coverid=&livepid=32944&r90=1&soid=2AC783F6005859C6650137329100&aid_vip_type=1&aid_tpid=10&use_txp=0&ip_filter=0&axpheader=1&st_id_t=0&v=10020374&lcount=1&chid=0&live_drm=0&backfunnel=401&ufc_filter=0&aid_tpid2=0&dura=0&vid=409725803&url=null&from=1&vptag=channel1&pid={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&tagid=0&oadid=13&t=0
+http://livep.l.qq.com/livemsg?ev=6.0.134.134&ping_data=dXBfdmVyc2lvbj1WNi4wLjEzNC4xMzQ&si=2553010954&pid2={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&use_axp=0&aver_flag=0&l=13&reqtime=1506174209&live=1&refluence=13&requestl=13&o=394&adtype=KB&plugin=1.4.6&pf=client&txpheader=1&coverid=&livepid=32944&r90=1&soid=2AC783F6005859C6650137329100&aid_vip_type=1&aid_tpid=10&use_txp=0&ip_filter=0&axpheader=1&st_id_t=0&v=10020374&lcount=1&chid=0&live_drm=0&backfunnel=401&ufc_filter=0&aid_tpid2=0&dura=0&vid=409725803&url=null&from=1&vptag=channel1&pid={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&tagid=0&oadid=13&t=0
+http://livep.l.qq.com/livemsg?ev=6.0.134.134&ping_data=dXBfdmVyc2lvbj1WNi4wLjEzNC4xMzQ&si=2553010954&pid2={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&use_axp=0&aver_flag=0&l=13&reqtime=1506174209&live=1&refluence=13&requestl=13&o=394&adtype=LD&plugin=1.4.6&pf=client&txpheader=1&coverid=&livepid=32944&r90=1&soid=2AC783F6005859C6650137329100&aid_vip_type=1&aid_tpid=10&use_txp=0&ip_filter=0&axpheader=1&st_id_t=0&v=10020374&lcount=1&chid=0&live_drm=0&backfunnel=401&ufc_filter=0&aid_tpid2=0&dura=0&vid=409725803&url=null&from=1&vptag=channel1&pid={BDD73113-A5FD-4B7F-A2F9-C2ECF4240DF9}&tagid=0&oadid=13&t=0
+http://livep.l.qq.com/livemsg?gf=2&txpheader=1&live=1&oadid=409725803&fl=1&pf=client&st_id_t=0&l=4003&o=3537657&adtype=LD&refluence=2017&coverid=&dura=0&axpheader=1&plugin=1.4.6&lcount=4&t=0&vptag=channel1&aver=0&use_txp=0&aid_tpid2=0&reqtime=1506174147&urlchid=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&tailroll=1&v=10020374&use_axp=0&ufc_filter=0&aid_tpid=10&ip_filter=1&isthirdip=0&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&acpm=2&cip=42.199.131.246&live_drm=0&aver_flag=6149&iptype=0&livepid=32944&ev=6.0.134.134&ufc_match=0&aid_vip_type=1&imagemd5=42d8480127cef2490fadcbe975af5ab4&isfloatindex=0&mt=5000&chid=0&adlength=50000&si=2553010954&tagid=&vid=409725803&imagelog=1&soid=2AC783F6005959C6648F59401400&from=1&cid=2142663&url=null&requestl=2017&ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA
+http://livep.l.qq.com/livemsg?mt=15000&cid=1805716567&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&axpheader=1&live=1&ufc_filter=0&oadid=409725803&aid_vip_type=1&use_txp=1&si=2553010954&st_id_t=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&l=4003&o=3586469&adtype=LD&plugin=1.4.6&reporttime=0&coverid=&ev=6.0.134.134&ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA&ip_filter=1&refluence=2017&live_drm=0&lcount=3&aid_tpid=10&btpri=&vptag=channel1&txpheader=1&v=10020374&reqtime=1506174132&pf=client&btoid=1805716567&aid_tpid2=0&pctr=&soid=2AC783F6005959C6648F59401400&use_axp=1&pri=ph+91D4pwDxPcfVmvTyyhpELMn94WfoL&url=null&livepid=32944&from=1&requestl=2017&vid=409725803&chid=0&dura=0&t=0
+http://livep.l.qq.com/livemsg?ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA&live=1&iptype=0&l=2017&cip=42.199.131.246&aid_tpid2=0&pf=client&dura=0&o=3428775&adtype=LD&plugin=1.4.6&imagelog=1&coverid=&txpheader=1&vptag=channel1&ip_filter=1&aid_tpid=10&livepid=32944&ev=6.0.134.134&si=2553010954&oadid=409725803&v=10020374&reqtime=1506174095&t=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&imagemd5=d4dd7a92f2de927aba983b1371473a93&lcount=1&requestl=2017&live_drm=0&tagid=&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&ufc_filter=0&use_axp=1&urlchid=0&mt=15000&axpheader=1&use_txp=1&aid_vip_type=1&soid=2AC783F6005959C6648F59401400&isfloatindex=0&aver_flag=6148&step=0&chid=0&isthirdip=0&st_id_t=0&url=null&from=1&aver=0&refluence=2017&cid=2021465&vid=409725803
+http://livep.l.qq.com/livemsg?ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA&live=1&iptype=0&l=2017&cip=42.199.131.246&aid_tpid2=0&pf=client&dura=0&txpheader=1&adtype=LD&plugin=1.4.6&imagelog=1&coverid=&o=3428775&vptag=channel1&ip_filter=1&aid_tpid=10&livepid=32944&ev=6.0.134.134&si=2553010954&oadid=409725803&v=10020374&lcount=1&t=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&imagemd5=d4dd7a92f2de927aba983b1371473a93&reqtime=1506174099&requestl=2017&live_drm=0&tagid=&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&ufc_filter=0&use_axp=1&urlchid=0&mt=15000&axpheader=1&use_txp=1&aid_vip_type=1&soid=2AC783F6005959C6648F59401400&isfloatindex=0&aver_flag=6148&step=1&chid=0&isthirdip=0&st_id_t=0&url=null&from=1&aver=0&refluence=2017&cid=2021465&vid=409725803
+http://livep.l.qq.com/livemsg?ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA&live=1&iptype=0&l=2017&cip=42.199.131.246&aid_tpid2=0&pf=client&dura=0&txpheader=1&adtype=LD&plugin=1.4.6&imagelog=1&coverid=&o=3428775&vptag=channel1&ip_filter=1&aid_tpid=10&livepid=32944&ev=6.0.134.134&si=2553010954&oadid=409725803&v=10020374&lcount=1&t=0&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&imagemd5=d4dd7a92f2de927aba983b1371473a93&reqtime=1506174106&requestl=2017&live_drm=0&tagid=&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&ufc_filter=0&use_axp=1&urlchid=0&mt=15000&axpheader=1&use_txp=1&aid_vip_type=1&soid=2AC783F6005959C6648F59401400&isfloatindex=0&zcindex=0&aver_flag=6148&chid=0&isthirdip=0&st_id_t=0&url=null&from=1&aver=0&refluence=2017&cid=2021465&vid=409725803
+http://livep.l.qq.com/livemsg?use_axp=0&ping_data=dXBfdmVyc2lvbj1WNi4wLjEzNC4xMzQ&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&vid=409725803&r90=1&axpheader=1&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&live=1&l=2017&use_txp=0&aid_tpid2=0&aid_vip_type=1&pf=client&dura=0&o=394&soid=2AC783F6005959C6648F59401400&plugin=1.4.6&backfunnel=401&requestl=2017&coverid=&txpheader=1&adtype=FT&ip_filter=1&aid_tpid=10&aver_flag=6148&ev=6.0.134.134&si=2553010954&oadid=409725803&v=10020374&livepid=32944&t=0&live_drm=0&vptag=channel1&reqtime=1506174096&lcount=1&url=null&from=1&tagid=0&refluence=2017&st_id_t=0&chid=0&ufc_filter=0
+http://livep.l.qq.com/livemsg?use_axp=1&ping_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRWiZ1cF92ZXJzaW9uPVY2LjAuMTM0LjEzNA&urlchid=0&mt=15000&axpheader=1&pid2={02E47803-107D-4E1C-9AA0-61C800253BDF}&live=1&iptype=0&l=2017&cip=42.199.131.246&aid_tpid2=0&st_id_t=0&aid_vip_type=1&pf=client&from=1&dura=0&o=3607317&adtype=LD&plugin=1.4.6&vid=409725803&imagelog=1&coverid=&txpheader=1&use_txp=1&ip_filter=1&cid=2181045&aid_tpid=10&aver_flag=0&ev=6.0.134.134&si=2553010954&soid=2AC783F6005959C6648F59401400&v=10020374&livepid=32944&t=0&live_drm=0&vptag=channel1&reqtime=1506174117&oadid=409725803&isthirdip=0&lcount=2&url=null&requestl=2017&tagid=&aver=0&refluence=2017&imagemd5=5363150b91f12f4952af5868664cb07e&pid={02E47803-107D-4E1C-9AA0-61C800253BDF}&chid=0&ufc_filter=0&isfloatindex=0
+http://m.reachmax.cn/rm.gif?ext=19
+http://p.tencentmind.com/p?oid=PUB_3428775&soid=2AC783F6005959C6648F594014&soidip=42.199.131.246&loc=LV_2017_LD_LD&lkey=2017&OpenUDID=&MAC=&IDFA=&IP=42.199.131.246&IMEI=&AndroidID=
+http://p.tencentmind.com/p?oid=PUB_3537657&soid=2AC783F6005959C6648F594014&soidip=42.199.131.246&loc=LV_2017_LD_LD&lkey=2017&OpenUDID=&MAC=&IDFA=&IP=42.199.131.246&IMEI=&AndroidID=
+http://p.tencentmind.com/p?oid=PUB_3607317&soid=2AC783F6005959C6648F594014&soidip=42.199.131.246&loc=LV_2017_LD_LD&lkey=2017&OpenUDID=&MAC=&IDFA=&IP=42.199.131.246&IMEI=&AndroidID=
+http://qqshow2-item.qq.com/bz.gif?a=0.07512267050333321&b=1506174099472
+http://tj.video.qq.com/fcgi-bin/set_cookie?otype=json&id=&pt=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&dm=cache.tv.qq.com&pa=%2Fwin%2Fplay.html&sr=300x600&ul=en-US&tv=0.0.7&r=1506174209291&url=http%3A%2F%2Fcache.tv.qq.com%2Fwin%2Fplay.html%3Fsid%3D409725803%26chid%3D%26pid%3D32944&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F29.0.1547.59%20Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F29.0.1547.59%20Safari%2F537.36%20QQLive%2F10020374%2F50170815%20Safari%2F537.36
+http://trace.rtbasia.com/track/qq/ajjhkt?
+http://tytx.m.cn.miaozhen.com/x/k=2049053&p=77OHg&dx=qqvideo-20170923&rt=2&ns=42.199.131.246&ni=PUB_3428775&v=__LOC__&xa=__ADPLATFORM__&tr=2AC783F6005959C6648F594014&mo=&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&txp=cc22e76468b100c3130f0e96f268&o=?
+http://tytx.m.cn.miaozhen.com/x/k=2057258&p=78VV5&dx=[IPDX]&rt=2&ns=42.199.131.246&ni=PUB_3586469&v=__LOC__&xa=__ADPLATFORM__&tr=2AC783F6005959C6648F594014&mo=Windows%20NT%206.1&m0=&m0a=[DUID]&m1=[ANDROIDID1]&m1a=&m2=&m4=__AAID__&m5=&m6=[MAC1]&m6a=&txp=cc22e76468b100c3130f0e96f268&o=http://ad.doubleclick.net/ddm/trackimp/N8897.276640QQ/B20282637.204498299;dc_trk_aid=404300681;dc_trk_cid=92570876;ord=[TIMESTAMP]?
+http://v2.reachmax.cn/count/run.php?var=YT02OTdLdkhXMkI5Jm11aWQ9QVFFQnNVYUlsYWExZWFEWE1xeHNKMnpsTVEycjlsb01FQ1J0JnZlcj0wJmNwaWQ9MjAxMDgyJnB1Yj02JmJjPTY5N0t2SGwyQjkmbD0yMDUzMjQ4JmNpZD0yMDE4ODQzNyZwbGF0PTEmcz0xJm5pZD0x
+http://vqq.admaster.com.cn/i/a87915,b1987790,c2083,i0,m202,8a1,8b1,0iPUB_3607317,1e1,1fcc22e76468b100c3130f0e96f268,h2AC783F6005959C6648F594014,uhttp://im-x.jd.com/dsp/np?posid=1999&v=707&union_id=1000023388&pid=209&tagid=7198
+http://pages.juxiao.mediav.com/ad/360/look/showcase-300x250-1.html?showid=z0nCgx Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://pages.juxiao.mediav.com/ad/360/look/showcase-300x600-1.html?showid=Uu9okn Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+http://show.g.mediav.com/s?jsonp=jQuery11110030843138905343848_1506242965618&showid=8NCet5&type=1&of=4&newf=1&reqtimes=1&impct=3&_=1506242965620 Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://show.g.mediav.com/s?jsonp=jQuery11110030843138905343848_150624296561…=1&uid=94105401527836791506242966726158&reqtimes=2&impct=3&_=1506242965621 Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://static.mediav.com/js/mvf_g2.js Failed to load resource: net::ERR_CONNECTION_REFUSED
+http://bdjs.ixiumei.com/mqkonkoqenepgdzkon.js
+http://bdjs1.ixiumei.com/ahhese?urv=zyy&jvq=zyyy&qv=s045440z&ygh=frrn_18_0D_0Duuu_Y7331_Yamk_0D-lbpmgb_0D45y60_Yfrkj&rkcf=zzzyy0&nev=0&qgz=FRKJYNMQR&nag=z&qnv=z&qvf=y&gce=z3y42y52yz545&qp=0&dx2=7w338jkoh573dhadcxr&s35=goic53zzc7qvsg8vkj4i&y79=hjg6rs64ystgha4te29
+https://count.wk2.com:2368/index.php?m=r&charset=&atime=2010/10/22&ref=http%3A%2F%2Fwww.cr173.com%2F&url=http%3A%2F%2Fwww.cr173.com%2Fsoft%2F17298.html&username=cr_wh&type=0&rid=17298&platform=1&content=PPTV%E8%81%9A%E5%8A%9B%7CPPTV%E8%81%9A%E5%8A%9B%E4%B8%8B%E8%BD%BD7.0.8%E5%AE%98%E6%96%B9%E7%89%88_PPTV%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86%E8%A5%BF%E8%A5%BF%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD
+http://a1.zhanzhang.net/cxmytpmguaedgm.js
+<img src="http://xzq.greenxf.net/img/baibj.png" width="5" height="5">
+<li><a 
+href="http://dps.499.cn/tls884697f9/566"><img src="http://i-3.499.cn/2017/8/15/da91be88-c55f-4d73-98bc-28fbb4f4b5ab.jpg?width=612&height=260" /></a></li>
+window.location.href = "http://dps.shouji56.com/tls7b800e62/1236/";
+.src = "http://xz.tongji.shouji56.com/count.do?ch=msj56&sid="+ id + "&ua=" + navigator.userAgent;
+ tjimg.src = "http://tongji.tt.shouji56.com/sys/count.do?sc=a2V5cz16Zl93ZWl4aW4=&source=" 
+<script type="text/javascript" src="http://s.abcache.com/youlaohu/script/index.js"></script>
+mg src="http://p.abcache.com/360/image/8.png" width="32" height="32" alt="诈金花" /></a></li>
+http://js.yixui.com/js/ds.js
+127.0.0.1 sp.yixui.com/api/v1/slot',
+http:\/\/shili.wanyx.com\/kq3a1ecf96f7c2f63edb0d7882adf766a142e3d31d23ac32ed12.js

@@ -1,0 +1,178 @@
+127.0.0.1 verystat.xinmin.cn
+127.0.0.1 jj.jxnews.com.cn
+127.0.0.1 realcalc.jxnews.com.cn
+127.0.0.1 dvs.china.com
+127.0.0.1 dvsour.china.com
+127.0.0.1 game.china.com
+127.0.0.1 statistic.dvsend.china.com
+127.0.0.1 read.huabian.com
+127.0.0.1 www.huabian.com
+127.0.0.1 adpic.chinadaily.com.cn
+127.0.0.1 analysis.chinaiiss.com
+127.0.0.1 sogouwapjs.chinaiiss.com
+127.0.0.1 life.ynet.com
+127.0.0.1 rss.ynet.com
+127.0.0.1 t.ynet.com
+127.0.0.1 wxif.ynet.com
+#jing-youth.cn
+127.0.0.1 d.youth.cn
+127.0.0.1 adm.zbinfo.net
+#min-www.ccnovel.com
+127.0.0.1 dm.lexueyy.com
+127.0.0.1 js.lexueyy.com
+127.0.0.1 aec.woutyo.info
+127.0.0.1 app.ptleju.com
+#min-www.mnw.cn
+127.0.0.1 do.redmx.cn
+127.0.0.1 wo.redmx.cn
+127.0.0.1 ucpb.hdmnw.com
+127.0.0.1 uctt.hdmnw.com
+127.0.0.1 sk.junshio.com
+127.0.0.1 www.skwo.net
+127.0.0.1 ios.ann5.net
+#min-www.santaihu.com
+127.0.0.1 j.santaihu.com
+127.0.0.1 dm.santaihu.net
+127.0.0.1 js.santaihu.net
+127.0.0.1 c.xingjuhe.com
+127.0.0.1 s.media.xingjuhe.com
+
+127.0.0.1 img.adm.qzbbs.com
+127.0.0.1 adm.qzbbs.com
+127.0.0.1 img.adm.zzfish.cn
+127.0.0.1 cstm.gusuwang.com
+#www.dayoo.com
+127.0.0.1 images.dayoo.com
+127.0.0.1 stats.dayoo.com
+#yue-southcn.com
+127.0.0.1 countimages.cnool.net
+127.0.0.1 log.event.cnool.net
+127.0.0.1 schprompt.dangdang.com
+127.0.0.1 t.dangdang.com
+#2chcn.com
+127.0.0.1 code1.2chcn.net
+127.0.0.1 search1.2chcn.net
+#55bbs.com
+127.0.0.1 stat.55bbs.com
+127.0.0.1 imp.55bbs.com
+127.0.0.1 zjs.55bbs.com
+127.0.0.1 zpv.55bbs.com
+#blogbus.com
+127.0.0.1 ad.thinkmedia.cn
+127.0.0.1 j.nnsky.com
+127.0.0.1 dd.022aifang.com
+127.0.0.1 t1.hoopchina.com.cn
+127.0.0.1 www.hxyifu.com
+127.0.0.1 pub.mop.com
+127.0.0.1 801.tianya.cn
+127.0.0.1 806.tianya.cn
+127.0.0.1 808.tianya.cn
+127.0.0.1 bdj.tianya.cn
+127.0.0.1 a.codevm.com
+#1fangchan.com
+127.0.0.1 adhome.1fangchan.com
+#m.cidianwang.com
+127.0.0.1 a.gzpinda.com
+127.0.0.1 abc.gzpinda.com
+127.0.0.1 dm.gzpinda.com
+127.0.0.1 js.xtcake.com
+127.0.0.1 img.xtcake.com
+127.0.0.1 www.a0b33.com
+127.0.0.1 www.jusha.com
+#m.3y.uu456.com
+127.0.0.1 wapad11.btdcw.com
+127.0.0.1 wapad12.btdcw.com
+#m.hujiang.com
+127.0.0.1 track.hujiang.com
+127.0.0.1 trackcommon.hujiang.com
+#m.baike.com
+127.0.0.1 stat.baike.com
+127.0.0.1 ad1.baike.com
+127.0.0.1 ehd.baike.com
+127.0.0.1 ll.hudong.com
+#m.zhishi365.com
+127.0.0.1 sc.goyozo.com
+127.0.0.1 new.zhqiu.com
+#www.eol.cn
+127.0.0.1 pv.img.eol.cn
+#m.jiakaobaodian.com
+127.0.0.1 789.kakamobi.cn
+#www.xuexila.com
+127.0.0.1 abc.yjbys.org
+127.0.0.1 dm.yjbys.org
+127.0.0.1 scriptwap1.360doc.cn
+127.0.0.1 scriptwap2.360doc.cn
+127.0.0.1 scriptwap3.360doc.cn
+127.0.0.1 wasd50fd12.360doc.cn
+127.0.0.1 d.h5.coffeedak.cn
+127.0.0.1 cp.h5.coffeedak.cn
+127.0.0.1 request.zzad.com
+127.0.0.1 zjs.zzad.com
+127.0.0.1 zz.cc.zzad.com
+127.0.0.1 zzad.com
+127.0.0.1 fghm.ga25.com
+127.0.0.1 fghmc.ga25.com
+127.0.0.1 fghmimg.ga25.com
+127.0.0.1 cr.wowxt.com
+127.0.0.1 s.shaxiq.com
+#hotmm.tk
+127.0.0.1 url.hotmm.tk
+#m.tuku.cc
+127.0.0.1 bdjm.tuku.cc
+127.0.0.1 sougouwap.tuku.cc
+#9553.com
+#www.cr173.com
+127.0.0.1 cpro.cr173.com
+#www.crsky.com
+127.0.0.1 count.crsky.com
+127.0.0.1 dx.crsky.com
+127.0.0.1 images.crsky.com
+#www.fxxz.com
+127.0.0.1 t1.612.com
+127.0.0.1 count.612.com
+127.0.0.1 c5.97you.net
+#greenxf.com
+127.0.0.1 baidu.greenxf.cn
+127.0.0.1 cp.greenxf.cn
+127.0.0.1 i.cdnxiazai.com
+127.0.0.1 down.xiazai2.net
+#gueizu.com
+127.0.0.1 imxiexie.cn
+127.0.0.1 oatdbtwdu.qnssl.com
+127.0.0.1 u193035.pr00001.com
+127.0.0.1 www.94lm.com
+127.0.0.1 www.sg-huanya.com
+#kxbeta.com
+127.0.0.1 c.kxbeta.com
+127.0.0.1 d.kxbeta.com
+#m.muzisoft.com
+127.0.0.1 d.ltss8.com
+127.0.0.1 down.qiqi.cc
+127.0.0.1 s.69duk.com
+127.0.0.1 d7.muzisoft.com
+127.0.0.1 d8.muzisoft.com
+127.0.0.1 d9.muzisoft.com
+#m.panduoduo.net
+127.0.0.1 s.bccyyc.com
+127.0.0.1 s.cooolyi.cn
+#m.qqtn.com
+127.0.0.1 a1.5h.com
+127.0.0.1 show.5h.com
+#oyksoft.com
+127.0.0.1 a.oyksoft.com
+127.0.0.1 r.71sem.com
+#pc6.com
+127.0.0.1 tj.20hn.cn
+127.0.0.1 c2.97you.net
+127.0.0.1 cdn.ef9377.com
+127.0.0.1 cdn.a9377j.com
+#www.121down.com
+127.0.0.1 fe0s.nuion.cn
+#m.uzff.com
+127.0.0.1 a1.289.com
+127.0.0.1 list.289.com
+127.0.0.1 img.zhihei.com
+127.0.0.1 ads.yxdown.com
+127.0.0.1 gg.yxdown.com
+#http://www.didown.com/
+127.0.0.1 public.didown.com

@@ -1,0 +1,30 @@
+#3g.yjbys.com
+127.0.0.1 a.yjbys.com
+127.0.0.1 abc.yjbys.com
+127.0.0.1 d.yjbys.com
+#edu.jobui.com
+127.0.0.1 bd2.jobui.com
+127.0.0.1 bd3.jobui.com
+#m.gushiwen.org
+127.0.0.1 bai3.gushiwen.org
+#m.liuxiaoer.com
+127.0.0.1 fan.liuxiaoer.com
+127.0.0.1 xi.liuxiaoer.com
+#m.ruiwen.com
+127.0.0.1 abc.ruiwen.com
+127.0.0.1 d.ruiwen.com
+127.0.0.1 js.ruiwen.com
+#m.xuexila.com
+127.0.0.1 js.xuexila.com
+#www.360doc.cn
+127.0.0.1 eclick.360doc.com
+127.0.0.1 w5sac788c1.360doc.cn
+#www.ajpsp.com
+127.0.0.1 www.s3d4.cn
+127.0.0.1 www.srhuafeng.com
+#www.jyeoo.com
+127.0.0.1 a.jyeoo.com
+#www.zybang.com
+127.0.0.1 bu01.zybang.com
+127.0.0.1 bu02.zybang.com
+127.0.0.1 img.zuoyebang.cc

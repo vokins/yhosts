@@ -26,6 +26,8 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+#m.sanhao3.com
+127.0.0.1 lkf1.m.sanhao3.com
 #m.shu008.com
 127.0.0.1 baidu.shu008.com
 127.0.0.1 tmall.shu008.com

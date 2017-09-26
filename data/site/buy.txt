@@ -1,26 +1,22 @@
-#egou.com
+#www.egou.com
 127.0.0.1 ad.egou.com
-#dangdang
+#www.dangdang.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
-127.0.0.1 schprompt.dangdang.com
-127.0.0.1 t.dangdang.com
-#jd.com
+#www.jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 du.jd.com
-#meituan.com
+#www.meituan.com
 127.0.0.1 push.mobile.meituan.com
-#smzdm.com
+#www.smzdm.com
 127.0.0.1 s2.zdmimg.com
 127.0.0.1 res-ga.smzdm.com
-#vip.com
+#www.vip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 ms.vipstatic.com
-#wepiao.com
+#www.wepiao.com
 127.0.0.1 ads.wepiao.com
-#yhd.com
+#www.yhd.com
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 click.yhd.com
 127.0.0.1 tracker.yhd.com
-127.0.0.1 www.yhd.com
-127.0.0.1 yhd.com

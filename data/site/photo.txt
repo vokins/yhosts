@@ -1,24 +1,15 @@
-#fengniao.com
+#m.heiguang.com
+127.0.0.1 pro.heiguang.com
+#m.poco.cn
+127.0.0.1 a-m-s.poco.cn
+#www.fengniao.com
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
-#heiguang.com
-127.0.0.1 pro.heiguang.com
-#nipic.com
+#www.nipic.com
 127.0.0.1 bd1.nipic.com
 127.0.0.1 bd2.nipic.com
-#poco.cn
-127.0.0.1 a-m-s.poco.cn
 #www.nphoto.net
 127.0.0.1 util.nphoto.net
-#xitek.com
+#ww.xitek.com
 127.0.0.1 www8.xitek.com
-#dcfever.com
-127.0.0.1 adx.adxglobal.com
-#photoblog.hk
-127.0.0.1 ad.unimhk.com
-127.0.0.1 pixel-hk.pixelinteractivemedia.com
-127.0.0.1 snap.snapmobile.asia
-127.0.0.1 static.snapmobile.asia
-#www.asqql.com
-127.0.0.1 jb.asqql.com

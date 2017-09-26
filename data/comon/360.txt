@@ -1,0 +1,4 @@
+127.0.0.1 s.360.cn
+127.0.0.1 haostat.qihoo.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com

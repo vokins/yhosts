@@ -1,4 +1,4 @@
-ver=下午 2:05 2017/8/31 星期四
+ver=下午 4:36 2017/9/26 星期二
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -16,7 +16,7 @@ del /f pop.txt union.txt app.txt sitecn.txt
 exit
 
 :del
-del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt
+del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt moot.txt old.txt
 goto :eof
 
 :bat
@@ -39,9 +39,9 @@ goto :eof
 @SET win=%cd%\win
 @cd %CURRENTDIR%
 rem "%win%\sed.exe" -i "$d" site.txt
-set files=direct.txt active.txt base.txt cps.txt down.txt error.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
+set files=direct.txt active.txt base.txt moot.txt down.txt old.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=direct.txt active.txt base.txt cps.txt down.txt error.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
+set files=direct.txt active.txt base.txt moot.txt down.txt old.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt

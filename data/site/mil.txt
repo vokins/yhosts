@@ -1,0 +1,19 @@
+#www.chinaiiss.com
+127.0.0.1 sc.chinaiiss.com
+127.0.0.1 ad.17zhaole.com
+127.0.0.1 nb.17zhaole.com
+127.0.0.1 pb.17zhaole.com
+127.0.0.1 www.17zhaole.com
+127.0.0.1 x.9dagui.com
+#www.miercn.com
+127.0.0.1 hz.miercn.com
+127.0.0.1 tongji.miercn.com
+#www.tiexue.net
+127.0.0.1 a.itiexue.net
+127.0.0.1 jph.itiexue.net
+127.0.0.1 log.tiexue.net
+127.0.0.1 js.firefang.cn
+127.0.0.1 zzjs2.firefang.cn
+#www.xilu.com
+127.0.0.1 1.xilu.com
+127.0.0.1 newspage.xilu.com
