@@ -26,6 +26,7 @@
 127.0.0.1 99qqc.com
 127.0.0.1 9pkw.com
 127.0.0.1 a.198banjia.com
+127.0.0.1 a.53yao.com
 127.0.0.1 a.baiy.net
 127.0.0.1 a.cj-cy.com
 127.0.0.1 a.e7009.com
@@ -36,6 +37,7 @@
 127.0.0.1 a1.99909988.com
 127.0.0.1 a1.huiqituan.com
 127.0.0.1 a1.lmaq.cn
+127.0.0.1 a1.peoplecdn.cn
 127.0.0.1 a1.waihui518.com
 127.0.0.1 a1.zhanzhang.net
 127.0.0.1 aaa.pyzxsl.com
@@ -78,6 +80,7 @@
 127.0.0.1 aswl.dfs3e4.pw
 127.0.0.1 aswl.zjhim.com
 127.0.0.1 azapp.whroses.com
+127.0.0.1 b.53yao.com
 127.0.0.1 b.9dreams.net
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.apzeyu.com
@@ -137,6 +140,7 @@
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 cc.zhongtoufc.com
+127.0.0.1 cd75.htyfmm.com
 127.0.0.1 cdn.0i-i0.com
 127.0.0.1 cdn.adsk2.co
 127.0.0.1 cdn.adstract.com
@@ -178,6 +182,7 @@
 127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
 127.0.0.1 d.anluyg.net
+127.0.0.1 d.pr33.cn
 127.0.0.1 d.pr33.cn 
 127.0.0.1 d.qceg.net
 127.0.0.1 d.soxoo.cc
@@ -204,6 +209,7 @@
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.mmhhjt.com
 127.0.0.1 di.zymro.com
+127.0.0.1 difnxm.cn
 127.0.0.1 difnxm.cn 
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 dip.pyangzi.com
@@ -217,6 +223,7 @@
 127.0.0.1 dm.jinshasi.cn
 127.0.0.1 dm.kingpolo.com.cn
 127.0.0.1 dm.shanghuitianxia.cn
+127.0.0.1 dm77.xftnam.com
 127.0.0.1 dn.5269120.com
 127.0.0.1 do.apkdo.com
 127.0.0.1 dougou88.com
@@ -306,6 +313,7 @@
 127.0.0.1 gmtw.wzflourish.com
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.onclasrv.com
+127.0.0.1 go.util.zlibs.com
 127.0.0.1 go1.justsoftware.cn
 127.0.0.1 godloveme.cn
 127.0.0.1 gog9.qzdfc.com
@@ -343,6 +351,7 @@
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 ikm0b.yuanshanshu.cn
+127.0.0.1 im.lokoo.com.cn
 127.0.0.1 im.opiuat.com
 127.0.0.1 im.tuan520.com
 127.0.0.1 im1.56zzw.com
@@ -406,6 +415,7 @@
 127.0.0.1 img2.hrccb.com
 127.0.0.1 img2.xztkc.com
 127.0.0.1 img3.fy1g.com
+127.0.0.1 img3.xydfn.com
 127.0.0.1 imgcdn.ahzlep.com
 127.0.0.1 imgcdn.xixiwan.net
 127.0.0.1 in.bmgan.com
@@ -529,6 +539,7 @@
 127.0.0.1 jss.tenglink.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 jumping.nyyryy.com
+127.0.0.1 k.yp68.cn
 127.0.0.1 k.yp68.cn 
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 kawa11.space
@@ -741,6 +752,7 @@
 127.0.0.1 pf.h5game.cn
 127.0.0.1 pgm.yide69.com
 127.0.0.1 pic.9doo.cn
+127.0.0.1 pic.aihaogou.com.cn
 127.0.0.1 pic.by175.com
 127.0.0.1 pic.hkivs.cn
 127.0.0.1 pic.hui598.cn
@@ -799,6 +811,7 @@
 127.0.0.1 s.bxgmb.com
 127.0.0.1 s.cbgss.com
 127.0.0.1 s.chebse.com
+127.0.0.1 s.doyo.cn
 127.0.0.1 s.ekeide.com
 127.0.0.1 s.esyzdb.com
 127.0.0.1 s.ffhtek.com
@@ -830,10 +843,12 @@
 127.0.0.1 s.shiftrro.com
 127.0.0.1 s.sinbadacn.com
 127.0.0.1 s.staqnet.com
+127.0.0.1 s.sufficient.cn
 127.0.0.1 s.sxz67.com
 127.0.0.1 s.tbaocdn.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.wapadv.com
+127.0.0.1 s.wfyqc.com
 127.0.0.1 s.wyttech.cn
 127.0.0.1 s.xdcqcyp.com
 127.0.0.1 s.xiaobiaoucai.cn

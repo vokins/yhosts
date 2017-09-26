@@ -1,6 +1,11 @@
+http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
+
 http://puui.qpic.cn/
+http://sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou image
 127.0.0.1 b.bst.126.net 
+127.0.0.1 i8.chinanews.com
+http://i8.chinanews.com/2013/home/images/logo.jpg
 www.gugeys.com
 img.alicdn.com
 127.0.0.1 s.wasu.cn css js

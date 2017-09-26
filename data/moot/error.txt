@@ -27,8 +27,6 @@
 127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 yeah.qq.com
 @errorpage/sns
-127.0.0.1 www.jiayuan.com
-127.0.0.1 www.baihe.com
 127.0.0.1 www.saxmcu.cn
 127.0.0.1 xbk.haolewangame.com
 127.0.0.1 ndyjs.xjtu.edu.cn

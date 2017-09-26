@@ -1,3 +1,5 @@
+#www.asqql.com
+127.0.0.1 jb.asqql.com
 #4hw.com.cn
 127.0.0.1 jb.4hw.com.cn
 127.0.0.1 js.4hw.com.cn
@@ -20,6 +22,9 @@
 127.0.0.1 ma2.meishij.net
 #m.qiushibaike.com
 127.0.0.1 becode.qiushibaike.com
+127.0.0.1 cdn.aiclicash.com
+127.0.0.1 rcv.iclicash.com
+127.0.0.1 cdn.iclicash.com
 #m.souid.com
 127.0.0.1 f1.daxishi.com
 127.0.0.1 f2.daxishi.com
@@ -29,8 +34,6 @@
 #m.xiumu.cn
 127.0.0.1 b17.xiumu.cn
 127.0.0.1 j17.xiumu.cn
-#xilu.com
-127.0.0.1 newspage.xilu.com
 #wap.08160.cn
 127.0.0.1 fnm.08160.cn
 127.0.0.1 g1.08160.cn
