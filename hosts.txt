@@ -2909,6 +2909,7 @@
 127.0.0.1 b.qkptx.com
 127.0.0.1 b.xz15801.com
 127.0.0.1 b.yunfanlm.net
+127.0.0.1 b0.qinsx.cn
 127.0.0.1 b99u.top
 127.0.0.1 ba.cdyqc.com
 127.0.0.1 ba.fqzds.com
@@ -3495,6 +3496,7 @@
 127.0.0.1 m.youyoumw.com
 127.0.0.1 m.zpoder.com
 127.0.0.1 m.zzczfreewifi.com
+127.0.0.1 m2.qinsx.cn
 127.0.0.1 m3l823.wdalk.com
 127.0.0.1 m4r328.qzxsls.com
 127.0.0.1 m78.xhydrs.cn
@@ -3621,6 +3623,7 @@
 127.0.0.1 s.3333309.cn
 127.0.0.1 s.456juhd.com
 127.0.0.1 s.6113371.com
+127.0.0.1 s.7now.cn
 127.0.0.1 s.80sjw.com
 127.0.0.1 s.97kuaixiu.com
 127.0.0.1 s.9dcdn.cn
@@ -3920,6 +3923,7 @@
 127.0.0.1 www.70lm.com
 127.0.0.1 www.70niandai.net
 127.0.0.1 www.7540.com
+127.0.0.1 www.774951.com
 127.0.0.1 www.8033bb.com
 127.0.0.1 www.8066hg.com
 127.0.0.1 www.86kx.com

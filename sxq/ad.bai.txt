@@ -29,6 +29,7 @@ img34.pplive.cn
 imgcache.qq.com
 ip.ws.126.net
 itunes.apple.com
+itunes.apple.com
 js.passport.qihucdn.com
 jspassport.ssl.qhimg.com
 libs.baidu.com
@@ -77,6 +78,7 @@ www.5857.com
 www.66ys.tv
 www.aguo.com
 www.baidu.com
+www.biqugeapp.com
 www.biqugeapp.com
 www.btbtdy.com
 www.check-domains.com
