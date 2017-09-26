@@ -1,5 +1,5 @@
 
-#version=201709261835
+#version=201709261845
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -2442,6 +2442,7 @@
 127.0.0.1 c.gzsanxiaomingshi.cn
 127.0.0.1 c.k429fma.com
 127.0.0.1 c.ns8d.com
+127.0.0.1 c.pimst.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 c.shunlige.com
 127.0.0.1 c.start280.com
