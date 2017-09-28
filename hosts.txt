@@ -3097,6 +3097,7 @@
 127.0.0.1 ed.aijielang.cn
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 ee.e701.net
+127.0.0.1 ein.51yingfa.com
 127.0.0.1 emss.zjhim.com
 127.0.0.1 enco.qqduckshop.com
 127.0.0.1 epernn.cn
@@ -3686,6 +3687,7 @@
 127.0.0.1 s.sufficient.cn
 127.0.0.1 s.sxz67.com
 127.0.0.1 s.tbaocdn.com
+127.0.0.1 s.temaidi.com
 127.0.0.1 s.ukeiae.com
 127.0.0.1 s.wapadv.com
 127.0.0.1 s.wfyqc.com
