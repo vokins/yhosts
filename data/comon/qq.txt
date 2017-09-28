@@ -1,6 +1,7 @@
 127.0.0.1 cm.e.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
+127.0.0.1 cm.l.qq.com
 #v.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com

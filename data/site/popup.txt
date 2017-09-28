@@ -122,6 +122,7 @@
 127.0.0.1 c.facebookma.cn
 127.0.0.1 c.gzsanxiaomingshi.cn
 127.0.0.1 c.k429fma.com
+127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.ns8d.com
 127.0.0.1 c.pimst.cn
 127.0.0.1 c.queene.cn
@@ -232,6 +233,7 @@
 127.0.0.1 down.91wangmeng.com
 127.0.0.1 down.bugeyu.com
 127.0.0.1 down.xiazaiyuan.net
+127.0.0.1 dqq.lnfund.org.cn
 127.0.0.1 ds-pv.iqu-operation.com
 127.0.0.1 dsdsc.win
 127.0.0.1 dspmy.ge95.com
@@ -267,6 +269,7 @@
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.youyoumw.com
+127.0.0.1 e.zgjjkk.com
 127.0.0.1 e.zhuhaixiongyue.com
 127.0.0.1 e.zjkdaikuan.com
 127.0.0.1 ed.aijielang.cn
@@ -274,6 +277,7 @@
 127.0.0.1 ee.e701.net
 127.0.0.1 emss.zjhim.com
 127.0.0.1 enco.qqduckshop.com
+127.0.0.1 epernn.cn
 127.0.0.1 epqzviy9.bid
 127.0.0.1 ew16d.package12.com
 127.0.0.1 extstat.com
@@ -413,6 +417,7 @@
 127.0.0.1 img.ytlm.cn
 127.0.0.1 img.zhuanfakong.com
 127.0.0.1 img1.pszyzxh.org
+127.0.0.1 img1.xydfn.com
 127.0.0.1 img2.cs153.com
 127.0.0.1 img2.hrccb.com
 127.0.0.1 img2.xztkc.com
@@ -422,6 +427,7 @@
 127.0.0.1 imgcdn.xixiwan.net
 127.0.0.1 in.bmgan.com
 127.0.0.1 in.cbgss.com
+127.0.0.1 in.daskm.com
 127.0.0.1 in.hqsjc.com
 127.0.0.1 in.qkptx.com
 127.0.0.1 ini.litingxin.cn
@@ -502,6 +508,7 @@
 127.0.0.1 js.srhtzx.com
 127.0.0.1 js.static.tebaidu.cn
 127.0.0.1 js.sxldyx.com
+127.0.0.1 js.szande.com.cn
 127.0.0.1 js.wdad001.com
 127.0.0.1 js.willads.pw
 127.0.0.1 js.wjnpxk.com
@@ -516,6 +523,7 @@
 127.0.0.1 js3555.rencai56.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3987.vdhufs.com
+127.0.0.1 js4104.lygshgj.com
 127.0.0.1 js4104.scfatao.com
 127.0.0.1 js412.hot-eam.com
 127.0.0.1 js412.nbhxgjz.com
@@ -527,6 +535,7 @@
 127.0.0.1 js7022.gdskywings.com
 127.0.0.1 js7022.panzuoLuo.com
 127.0.0.1 js739.scfatao.com
+127.0.0.1 js74.0937jyg.com
 127.0.0.1 js74.fate-xy.com
 127.0.0.1 js883.chengzhao95511.com
 127.0.0.1 js883.dragoncent.com
@@ -559,6 +568,7 @@
 127.0.0.1 kn.tjygyz.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 kuang.myzk1.com
+127.0.0.1 l.mnjkw.cn
 127.0.0.1 l5.fwt0.com
 127.0.0.1 l9bdhcgihw.neihanw.com
 127.0.0.1 la.gydag.com
@@ -624,6 +634,7 @@
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 m.jsqinvest.com
 127.0.0.1 m.kooyum.com
+127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 m.ky666666.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 m.laikahotel.com
@@ -676,6 +687,7 @@
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
 127.0.0.1 m.youyoumw.com
+127.0.0.1 m.zgjjkk.com
 127.0.0.1 m.zpoder.com
 127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 m2.qinsx.cn
@@ -748,6 +760,7 @@
 127.0.0.1 p2.hyz86.com
 127.0.0.1 p2.qinsx.cn
 127.0.0.1 p2.ykauto.cn
+127.0.0.1 pan.gxssjz.com
 127.0.0.1 pb.funshion.net.cn
 127.0.0.1 pb.sys.pp8.com
 127.0.0.1 pc.ctsywy.com
@@ -815,6 +828,7 @@
 127.0.0.1 s.bxgmb.com
 127.0.0.1 s.cbgss.com
 127.0.0.1 s.chebse.com
+127.0.0.1 s.daskm.com
 127.0.0.1 s.doyo.cn
 127.0.0.1 s.ekeide.com
 127.0.0.1 s.esyzdb.com
@@ -1001,6 +1015,7 @@
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 ucan.25pp.com
+127.0.0.1 ucqq.cnsptv.com.cn
 127.0.0.1 ucuc.baiducu.com
 127.0.0.1 ue.yhde168.com
 127.0.0.1 uimg.1qwe3r.com
@@ -1125,7 +1140,6 @@
 127.0.0.1 www.bkdg.net
 127.0.0.1 www.boxercrazy.org
 127.0.0.1 www.cckke.com
-127.0.0.1 www.cnys.com
 127.0.0.1 www.cnzhqs.com
 127.0.0.1 www.cooolyi.com
 127.0.0.1 www.cuijianguo.com
@@ -1289,6 +1303,7 @@
 127.0.0.1 z2.lnymd.com
 127.0.0.1 zen.ztidu.com
 127.0.0.1 zhe.sytsr.com
+127.0.0.1 zhi.dydyhg.com
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 zhong.hqgjcm.com
 127.0.0.1 zhou.qhaif.com

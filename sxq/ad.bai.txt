@@ -38,6 +38,7 @@ m.37zw.net
 m.3987.com
 m.499.cn
 m.5442.com
+m.91danmei.cc
 m.biqumo.com
 m.bookben.com
 m.btbtdy.com
@@ -83,14 +84,18 @@ www.biqugeapp.com
 www.btbtdy.com
 www.check-domains.com
 www.cloudflare.com
+www.dadatxt.com
+www.gnu.org
 www.google.com
 www.imdb.com
 www.jiang.com
 www.macromedia.com
 www.miitbeian.gov.cn
+www.opensource.org
 www.qcloud.com
 www.qiushibaike.com
 www.qq.com
+www.rejuwang.com
 www.safedog.cn
 www.sina.com.cn
 www.uuxs.net
