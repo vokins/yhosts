@@ -2921,6 +2921,8 @@
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 baiduyubaidu.com
 127.0.0.1 bbsimages.zkxf119.com
+127.0.0.1 bd3.chuiyue.com
+127.0.0.1 bd4.chuiyue.com
 127.0.0.1 bdjiaoben.wmxa.cn
 127.0.0.1 bdjs.6237237.com
 127.0.0.1 bdjs.itechwall.com
@@ -3068,6 +3070,7 @@
 127.0.0.1 e.apmengxin.com
 127.0.0.1 e.bdoj.pw
 127.0.0.1 e.cnbmaterials.com
+127.0.0.1 e.ddhuangchao.com
 127.0.0.1 e.dzairen.com
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
@@ -3084,6 +3087,7 @@
 127.0.0.1 e.lovezhishou.com
 127.0.0.1 e.miaoxinqipei.com
 127.0.0.1 e.mushizhubao.com
+127.0.0.1 e.plerv.com
 127.0.0.1 e.qiyunmuye.com
 127.0.0.1 e.tommysdream.net
 127.0.0.1 e.vwws6.net
@@ -3473,6 +3477,7 @@
 127.0.0.1 m.onlifjj.net
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.passwz.com
+127.0.0.1 m.plerv.com
 127.0.0.1 m.qcw.com
 127.0.0.1 m.qiyunmuye.com
 127.0.0.1 m.qloer.com
@@ -4129,6 +4134,7 @@
 127.0.0.1 zhe.sytsr.com
 127.0.0.1 zhi.dydyhg.com
 127.0.0.1 zhong.3gmtr.com
+127.0.0.1 zhong.admddc.com
 127.0.0.1 zhong.hqgjcm.com
 127.0.0.1 zhou.qhaif.com
 127.0.0.1 zhtjdl.com
