@@ -1,3 +1,5 @@
+
+127.0.0.1
 access.tv.sohu.com
 app.3987.com
 bbs.safedog.cn
@@ -28,7 +30,6 @@ img33.pplive.cn
 img34.pplive.cn
 imgcache.qq.com
 ip.ws.126.net
-itunes.apple.com
 itunes.apple.com
 js.passport.qihucdn.com
 jspassport.ssl.qhimg.com
@@ -79,7 +80,7 @@ www.5857.com
 www.66ys.tv
 www.aguo.com
 www.baidu.com
-www.biqugeapp.com
+www.beian.gov.cn
 www.biqugeapp.com
 www.btbtdy.com
 www.check-domains.com

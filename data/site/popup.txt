@@ -140,6 +140,7 @@
 127.0.0.1 ca.5173car.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 cache.xw126.com
+127.0.0.1 can.hbttcc.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 cb.h5.coffeedak.cn
 127.0.0.1 cc.xaepgyy.com
@@ -539,6 +540,7 @@
 127.0.0.1 js6882.gdskywings.com
 127.0.0.1 js7022.gdskywings.com
 127.0.0.1 js7022.panzuoLuo.com
+127.0.0.1 js7129.shxqeps.com
 127.0.0.1 js739.scfatao.com
 127.0.0.1 js74.0937jyg.com
 127.0.0.1 js74.fate-xy.com
