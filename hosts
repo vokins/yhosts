@@ -1,5 +1,5 @@
 
-#version=201710021701
+#version=201710021854
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4251,6 +4251,7 @@
 127.0.0.1 eee.eh39.co
 127.0.0.1 312036.com
 127.0.0.1 www.wifijia.net
+127.0.0.1 toutiao.2haha.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
