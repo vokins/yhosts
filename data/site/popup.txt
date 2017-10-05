@@ -789,6 +789,7 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic.shadowsmell.com
 127.0.0.1 pic.shaidouzi.com
+127.0.0.1 pic.thzhd.wang
 127.0.0.1 pic.tzgmy.com
 127.0.0.1 pic.whdmny.com
 127.0.0.1 pic.wq425cj.com
@@ -1244,6 +1245,7 @@
 127.0.0.1 www.szyr474.com
 127.0.0.1 www.taobaobo5.com
 127.0.0.1 www.thyysj.com
+127.0.0.1 www.thztv.net
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
 127.0.0.1 www.ttcdn.cn
