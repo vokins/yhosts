@@ -1,5 +1,5 @@
 
-#version=201710021854
+#version=201710051957
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3112,6 +3112,7 @@
 127.0.0.1 pic.hkivs.cn
 127.0.0.1 pic.hui598.cn
 127.0.0.1 pic.lehuohh.com
+127.0.0.1 pic.pic-img.com
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic.shadowsmell.com
 127.0.0.1 pic.shaidouzi.com
