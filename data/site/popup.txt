@@ -32,6 +32,7 @@
 127.0.0.1 a.e7009.com
 127.0.0.1 a.qhwch.com
 127.0.0.1 a.shamla.net
+127.0.0.1 a.soonyou123.com
 127.0.0.1 a.tukeai.com
 127.0.0.1 a.uzhiv.com
 127.0.0.1 a1.99909988.com
@@ -134,6 +135,7 @@
 127.0.0.1 c.tctyb.cn
 127.0.0.1 c.tkd777.cn
 127.0.0.1 c.wangsufast.com
+127.0.0.1 c.xsdwj.com.cn
 127.0.0.1 c.ylist.cn
 127.0.0.1 c3.gostats.cn
 127.0.0.1 c8.wangdq.com
@@ -905,6 +907,7 @@
 127.0.0.1 sc.gyeet.com
 127.0.0.1 sc.sczxy.com
 127.0.0.1 sccdn.f2zd.com
+127.0.0.1 seen.h01ce.cn
 127.0.0.1 sese.chmae.com
 127.0.0.1 sha.hnasd.com
 127.0.0.1 sha.qjjtc.com

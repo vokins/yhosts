@@ -1,6 +1,6 @@
 echo 请右键“以管理员身份运行”
 
-::23:08 2017/1/11/周三
+::10:51 2017/10/7
 start http://www.2345.com/?k66560772
 
 ::去除快捷方式字样
@@ -244,6 +244,8 @@ sc config ShellHWDetection start= disabled
 sc stop ShellHWDetection
 :: 关闭Smartscreen应用筛选器
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScreenEnabled" /d off /t REG_SZ /f
+:: 关闭缩略图缓存
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "DisableThumbnailCache" /t REG_DWORD /d 1 /f
 :: 解锁IE主页
 reg delete "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /f >nul
 :: 设置IE主页 http://www.baidu.com/?tn=baidulocal
