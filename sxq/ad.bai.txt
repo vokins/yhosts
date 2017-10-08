@@ -64,6 +64,7 @@ static.duoshuo.com
 static.qiushibaike.com
 static1.2436.cn
 su.baidu.com
+subhd.com
 t.cn
 t.shuotxts.com
 tv.sohu.com

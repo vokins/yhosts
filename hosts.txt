@@ -3785,7 +3785,6 @@
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 sub.alisinak.com
 127.0.0.1 sube.puwangkj.com
-127.0.0.1 subhd.com
 127.0.0.1 sv719.dreamdays.cn
 127.0.0.1 sva88.czjiuding.cn
 127.0.0.1 swappdl.duoyi.com
