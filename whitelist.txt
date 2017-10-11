@@ -7,6 +7,8 @@ subhd.com
 image
 127.0.0.1 b.bst.126.net 
 127.0.0.1 i8.chinanews.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
 http://i8.chinanews.com/2013/home/images/logo.jpg
 www.gugeys.com
 img.alicdn.com

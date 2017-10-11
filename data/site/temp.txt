@@ -51,6 +51,7 @@
 127.0.0.1 admin.louxia.org
 127.0.0.1 adrunnr.com
 127.0.0.1 ads.passiontimes.hk
+127.0.0.1 adsin.zhangyoubao.com
 127.0.0.1 aec.shjk123.net
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 affiliategroove.com
@@ -110,6 +111,7 @@
 127.0.0.1 bls.china360car.com
 127.0.0.1 bobo.xmwty.com
 127.0.0.1 brizads.com
+127.0.0.1 bt.xitongmonitor.com
 127.0.0.1 bt641499.gotoip4.com
 127.0.0.1 bu.jxxcfd.com
 127.0.0.1 buyu8001.com
@@ -530,6 +532,7 @@
 127.0.0.1 js.zgyemy.com
 127.0.0.1 js152.cnpinzhuo.com
 127.0.0.1 js1597.txjzjx.cn
+127.0.0.1 js205.dupinpu.com
 127.0.0.1 js3555.alitianxia168.com
 127.0.0.1 js3555.rencai56.com
 127.0.0.1 js3743.dgxinhuan.com

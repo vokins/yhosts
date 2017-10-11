@@ -24,6 +24,7 @@
 127.0.0.1 download.bav.baidu.com
 127.0.0.1 download.sd.baidu.com
 127.0.0.1 shadu.baidu.com
+127.0.0.1 w.gdown.baidu.com
 127.0.0.1 w.x.baidu.com
 127.0.0.1 weishi.baidu.com
 #down-baidu/bar-browser

@@ -1,4 +1,14 @@
+#doubleclick
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
+#syndication
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com

@@ -1,6 +1,6 @@
 echo 请右键“以管理员身份运行”
 
-::10:51 2017/10/7
+::15:35 2017/10/11/周三
 start http://www.2345.com/?k66560772
 
 ::去除快捷方式字样
@@ -259,6 +259,8 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Gwx" /v DisableGwx /t REG_DWOR
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpadate" /v "DisableOSUpgrade" /t REG_DWORD /d 1 /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade" /v "ReservationsAllowed" /t REG_DWORD /d 0 /f
 del /f /s /a /q %SystemRoot%\System32\GWX
+:: 关闭推送安装服务
+Reg add "HKLM\SOFTWARE\Policies\Microsoft\PushToInstall" /v "DisablePushToInstall" /t REG_DWORD /d "1" /f
 :: 劫持一些修改主页和后台下载推广的文件
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345MiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345Movie.exe" /v Debugger /t REG_SZ /d "p" /f

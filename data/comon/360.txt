@@ -1,4 +1,23 @@
+#360
+127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s1.stat.lianmeng.360.cn
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 s.360.cn
+127.0.0.1 e.tf.360.cn
+#jiagu
+127.0.0.1 service.jiagu.360.cn
+127.0.0.1 cpull.360.cn
+127.0.0.1 a.appjiagu.com
+127.0.0.1 api.appjiagu.com
+127.0.0.1 b.appjiagu.com
+127.0.0.1 c.appjiagu.com
+127.0.0.1 j.appjiagu.com
+127.0.0.1 p.appjiagu.com
+127.0.0.1 s.appjiagu.com
+#v.360.cn
+127.0.0.1 huodong.mobilem.360.cn
+127.0.0.1 p.s.360.cn
+#so
 127.0.0.1 haostat.qihoo.com
-127.0.0.1 js.passport.qihucdn.com
-127.0.0.1 jspassport.ssl.qhimg.com
+127.0.0.1 tran.news.so.com

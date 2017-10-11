@@ -1,0 +1,8 @@
+#163-news
+127.0.0.1 e-p4p.163.com
+127.0.0.1 nex.163.com
+#youdao
+127.0.0.1 gorgon.youdao.com
+127.0.0.1 impservice.dictapp.youdao.com
+127.0.0.1 log.yex.youdao.com
+127.0.0.1 ydpushserver.youdao.com

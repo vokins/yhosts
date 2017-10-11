@@ -1,10 +1,84 @@
+#alicdn
 127.0.0.1 afp.alicdn.com
-127.0.0.1 afpeng.alimama.com
 127.0.0.1 afpmm.alicdn.com
-127.0.0.1 c.wrating.com
+127.0.0.1 asearch.alicdn.com
+127.0.0.1 atanx.alicdn.com
+127.0.0.1 atanx2.alicdn.com
+127.0.0.1 nbsdk-baichuan.alicdn.com
+#alimama
+127.0.0.1 a.alimama.cn
+127.0.0.1 afpeng.alimama.com
+127.0.0.1 afpssp.alimama.com
+#aliyuncs
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 img-dsp.oss-cn-beijing.aliyuncs.com
+127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
+127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
+127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
+127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
+#ipinyou
+127.0.0.1 cm.ipinyou.com
+127.0.0.1 optimus.ipinyou.com
+#mct01
+127.0.0.1 a.mct01.com
+127.0.0.1 static.mct01.com
+#mmstat
+127.0.0.1 ac.mmstat.com
+127.0.0.1 cnzz.mmstat.com
+127.0.0.1 wgo.mmstat.com
+127.0.0.1 yt.mmstat.com
+#phpwind
+127.0.0.1 init.phpwind.net
+#tanx
+127.0.0.1 a.tanx.com
+127.0.0.1 cdn.tanx.com
+127.0.0.1 cms.tanx.com
+127.0.0.1 df.tanx.com
+127.0.0.1 ecpm.tanx.com
 127.0.0.1 p.tanx.com
+127.0.0.1 pcookie.tanx.com
+127.0.0.1 phs.tanx.com
+#taobao
+127.0.0.1 acs4baichuan.m.taobao.com
+127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 ai.m.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 pre.nbsdk-baichuan.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 strip.taobaocdn.com
+127.0.0.1 tunion-api.m.taobao.com
+#uc
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 hk.napi.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 sea.napi.ucweb.com
+127.0.0.1 up1.tj.u2.ucweb.com
+127.0.0.1 up4.ucweb.com
+127.0.0.1 wap3.ucweb.com
+127.0.0.1 alissl.ucdl.pp.uc.cn
+127.0.0.1 api.mp.uc.cn
+127.0.0.1 applog.uc.cn
+127.0.0.1 puds.test.uae.uc.cn
+127.0.0.1 track.uc.cn
+127.0.0.1 log.cs.pp.cn
+127.0.0.1 server.m.pp.cn
+127.0.0.1 huichuan.sm.cn
+127.0.0.1 u.uc123.com
+127.0.0.1 u.ucfly.com
+#wrating
+127.0.0.1 c.wrating.com
+127.0.0.1 cookiemapping.wrating.com
+127.0.0.1 sina.wrating.com
+127.0.0.1 tongji.wrating.com
 
-127.0.0.1 static.mediav.com
 
 127.0.0.1 cdn.vamaker.com
 127.0.0.1 cl2.webterren.com

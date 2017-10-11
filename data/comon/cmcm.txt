@@ -1,0 +1,12 @@
+#cmcm
+127.0.0.1 ms.cmcm.com
+127.0.0.1 pegasus.cmcm.com
+127.0.0.1 cmcdl.cmcm.com
+127.0.0.1 dl.cm.ksmobile.com
+#ijinshan
+127.0.0.1 andmlbf.tj.ijinshan.com
+127.0.0.1 apns.ios.ijinshan.com
+127.0.0.1 bp.mobad.ijinshan.com
+127.0.0.1 mlb.did.ijinshan.com
+127.0.0.1 sdk.mobad.ijinshan.com
+127.0.0.1 unconf.mobad.ijinshan.com
