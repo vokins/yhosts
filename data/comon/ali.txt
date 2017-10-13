@@ -18,6 +18,7 @@
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
+127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 #ipinyou
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 optimus.ipinyou.com

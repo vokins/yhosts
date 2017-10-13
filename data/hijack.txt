@@ -212,6 +212,7 @@
 127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn
 127.0.0.1 static.1.chenggao.cn
+127.0.0.1 a.waczt.cn
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
 @hijack/x-router

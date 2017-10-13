@@ -1,5 +1,5 @@
 
-#version=20171014 039
+#version=20171014 053
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -118,6 +118,7 @@
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
+127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 optimus.ipinyou.com
 127.0.0.1 a.mct01.com
@@ -4880,6 +4881,7 @@
 127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn
 127.0.0.1 static.1.chenggao.cn
+127.0.0.1 a.waczt.cn
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 info.yitsoftware.com
