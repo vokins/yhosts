@@ -1,4 +1,6 @@
+
 127.0.0.1
+127.0.0.1 
 access.tv.sohu.com
 app.3987.com
 bbs.safedog.cn
@@ -91,6 +93,7 @@ www.gnu.org
 www.google.com
 www.imdb.com
 www.jiang.com
+www.jiujiu6.com
 www.macromedia.com
 www.miitbeian.gov.cn
 www.opensource.org

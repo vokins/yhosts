@@ -18,6 +18,14 @@
 127.0.0.1 ppiy.v5.yy.com
 127.0.0.1 page.v5.yy.com
 @errorpage/inside
+127.0.0.1 activity.m.duiba.com.cn
+127.0.0.1 embedlog.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
+127.0.0.1 www.duiba.com.cn
+127.0.0.1 m.maila88.com
+127.0.0.1 api.tatagou.com.cn
+127.0.0.1 log.ttjx.tatagou.com.cn
+127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 mobile.yangkeduo.com
 @errorpage/daohang

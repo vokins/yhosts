@@ -1,46 +1,94 @@
 #sohu
+127.0.0.1 3rd.t.sohu.com
+127.0.0.1 ad.mail.sohu.com
+127.0.0.1 ad.sohu.com
+127.0.0.1 corp.sohu.com
+127.0.0.1 cpc.sohu.com
+127.0.0.1 suvset.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 imp.go.sohu.com
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
-127.0.0.1 x1.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 xls.go.sohu.com
 #sogou
+127.0.0.1 adsence.sogou.com
+127.0.0.1 fair.sogou.com
+127.0.0.1 files2.sogou.com
+127.0.0.1 goto.sogou.com
+127.0.0.1 ht.www.sogou.com
+127.0.0.1 image.p4p.sogou.com
+127.0.0.1 p3p.sogou.com
+127.0.0.1 pb.sogou.com
+127.0.0.1 pbd.sogou.com
 127.0.0.1 ping.acc.sogou.com
+127.0.0.1 psfq.gou.sogou.com
+127.0.0.1 pv.sogou.com
+127.0.0.1 rd.e.sogou.com
+127.0.0.1 rjgw.theta.sogou.com
+127.0.0.1 rmoeu.mercury.sogou.com
+127.0.0.1 sw.mobile.sogou.com
+127.0.0.1 union.sogou.com
+127.0.0.1 web.sogou.com
+#sogou-bealge
 127.0.0.1 cjroq.bealge.sogou.com
 127.0.0.1 qhl.bealge.sogou.com
+#sogou-brand
+127.0.0.1 alpha.brand.sogou.com
+127.0.0.1 brand.sogou.com
+127.0.0.1 cpc.brand.sogou.com
 127.0.0.1 dsp.brand.sogou.com
 127.0.0.1 dspcm.brand.sogou.com
+127.0.0.1 lk.brand.sogou.com
+127.0.0.1 sy.brand.sogou.com
 127.0.0.1 wb.brand.sogou.com
-127.0.0.1 rd.e.sogou.com
+#sogou-cpc
+127.0.0.1 a1click.cpc.sogou.com
+127.0.0.1 cpc.sogou.com
+127.0.0.1 mini.cpc.sogou.com
+#sogou-epro
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
+#sogou-golden1
 127.0.0.1 ejzr.golden1.sogou.com
 127.0.0.1 jsnp.golden1.sogou.com
 127.0.0.1 pjyu.golden1.sogou.com
-127.0.0.1 psfq.gou.sogou.com
+##sogou-husky
+127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 gxe.husky.sogou.com
+#sogou-inte
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 inte1.sogou.com
 127.0.0.1 p.inte.sogou.com
+127.0.0.1 vps.inte.sogou.com
+#sogou-lu
 127.0.0.1 eff.lu.sogou.com
+127.0.0.1 irnvf.lu.sogou.com
+127.0.0.1 kthxd.lu.sogou.com
 127.0.0.1 lu.sogou.com
+127.0.0.1 m.lu.sogou.com
+127.0.0.1 p.lu.sogou.com
+127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 ztrpm.lu.sogou.com
-127.0.0.1 rmoeu.mercury.sogou.com
-127.0.0.1 sw.mobile.sogou.com
+#sogou-pluto
 127.0.0.1 pcxzo.pluto.sogou.com
 127.0.0.1 qxm.pluto.sogou.com
+#sogou-uranus
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 ktivn.uranus.sogou.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 xtruh.uranus.sogou.com
-127.0.0.1 union.sogou.com
-#sogoucdn
+#sogou-cdn
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 art.theta.sogoucdn.com
 127.0.0.1 bite.theta.sogoucdn.com
 127.0.0.1 cdn.lu.sogoucdn.com
+127.0.0.1 dl.wan.sogoucdn.com
+127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 jpg.inte.sogoucdn.com
@@ -48,3 +96,17 @@
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
+#sogou-optaim
+127.0.0.1 pv.focus.cn
+127.0.0.1 cdn.optaim.com
+127.0.0.1 clk.optaim.com
+127.0.0.1 cm.optaim.com
+127.0.0.1 demo.optaim.com
+127.0.0.1 imp.optaim.com
+127.0.0.1 tk.optaim.com
+127.0.0.1 www.optaim.com
+#sogou-wan
+127.0.0.1 athena.wan.sogou.com
+127.0.0.1 img.wan.sogou.com
+127.0.0.1 iwan.sogou.com
+127.0.0.1 wan.sogou.com

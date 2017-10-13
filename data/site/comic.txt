@@ -3,3 +3,5 @@
 #m.u17.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
+#www.manhuaren.com
+127.0.0.1 adsapi.manhuaren.com

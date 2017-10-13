@@ -64,6 +64,7 @@
 #s.faloo.com
 127.0.0.1 flux.faloo.com
 #wap.xxbiquge.com
+127.0.0.1 nhybskdo.wap.xxbiquge.com
 127.0.0.1 xynhhbw.wap.xxbiquge.com
 #www.tianyucangqiong1.com
 127.0.0.1 s.tianyucangqiong1.com

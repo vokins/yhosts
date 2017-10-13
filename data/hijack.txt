@@ -192,6 +192,28 @@
 127.0.0.1 312036.com
 127.0.0.1 www.wifijia.net
 127.0.0.1 toutiao.2haha.com
+127.0.0.1 a.beilamusi.com
+127.0.0.1 a.benshiw.net
+127.0.0.1 activity.yuyiya.com
+127.0.0.1 buyimg.bianxianmao.com
+127.0.0.1 cpv.ty229.com
+127.0.0.1 creative.jdkic.com
+127.0.0.1 cz01016102.cg2017.com
+127.0.0.1 display.adhudong.com
+127.0.0.1 down.dashendown.com
+127.0.0.1 dps.wtdtjs.com
+127.0.0.1 engine.lvehaisen.com
+127.0.0.1 i.huilixieye.net
+127.0.0.1 img0.egou.com
+127.0.0.1 jct.maptu.cn
+127.0.0.1 m.7180443.com
+127.0.0.1 m.cnbeta.com
+127.0.0.1 mti.35kds.com
+127.0.0.1 new.ltheanine.cn
+127.0.0.1 parking.zunmi.cn
+127.0.0.1 static.1.chenggao.cn
+127.0.0.1 www.chenggao.cn
+127.0.0.1 yun.yuyiya.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

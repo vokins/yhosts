@@ -1,0 +1,114 @@
+#sina-com.cn
+127.0.0.1 ad4.sina.com.cn
+127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
+127.0.0.1 count.video.sina.com.cn
+127.0.0.1 counter.sina.com.cn
+127.0.0.1 cre.mix.sina.com.cn
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 d00.sina.com.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 d9.sina.com.cn
+127.0.0.1 dcads.sina.com.cn
+127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.amp.ad.sina.com.cn
+127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.mix.sina.com.cn
+127.0.0.1 m.beacon.sina.com.cn
+127.0.0.1 mg.games.sina.com.cn
+127.0.0.1 motu.p4p.sina.com.cn
+127.0.0.1 pfp.sina.com.cn
+127.0.0.1 rm.sina.com.cn
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 sax1.sina.com.cn
+127.0.0.1 sax2.sina.com.cn
+127.0.0.1 sax3.sina.com.cn
+127.0.0.1 sax4.sina.com.cn
+127.0.0.1 sax5.sina.com.cn
+127.0.0.1 sax6.sina.com.cn
+127.0.0.1 sax7.sina.com.cn
+127.0.0.1 sax8.sina.com.cn
+127.0.0.1 sax9.sina.com.cn
+127.0.0.1 saxs.sina.com.cn
+127.0.0.1 sbeacon.sina.com.cn
+127.0.0.1 slog.sina.com.cn
+127.0.0.1 staticadm.leju.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
+#sina-com
+127.0.0.1 pfpip.sina.com
+#sina-cn
+127.0.0.1 2016.sina.cn
+127.0.0.1 adimg.mobile.sina.cn
+127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 cre-dp.sina.cn
+127.0.0.1 cre.dp.sina.cn
+127.0.0.1 dl.kjava.sina.cn
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sax.sina.cn
+127.0.0.1 saxs.sina.cn
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 slog.sina.cn
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 u1.img.mobile.sina.cn
+127.0.0.1 wapwbclick.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
+127.0.0.1 wbpctips.mobile.sina.cn
+#sina-js
+127.0.0.1 newspush.sinajs.cn
+127.0.0.1 rs.sinajs.cn
+#sina-img
+127.0.0.1 d1.sinaimg.cn
+127.0.0.1 d3.sinaimg.cn
+127.0.0.1 d6.sinaimg.cn
+127.0.0.1 d7.sinaimg.cn
+127.0.0.1 d8.sinaimg.cn
+#sina-iask
+127.0.0.1 dd.iask.cn
+127.0.0.1 dd.iaskgo.com
+#leju.com
+127.0.0.1 adm.leju.com
+127.0.0.1 tongji.leju.com
+#weibo.com
+127.0.0.1 adimg.uve.weibo.com
+127.0.0.1 alitui.weibo.com
+127.0.0.1 biz.weibo.com
+127.0.0.1 c.biz.weibo.com
+127.0.0.1 c.wcpt.biz.weibo.com
+127.0.0.1 game.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 zymo.mps.weibo.com
+127.0.0.1 dp.im.weibo.cn
+127.0.0.1 game.weibo.cn
+127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 m.game.weibo.cn
+127.0.0.1 promote.biz.weibo.cn
+#sina-icast
+127.0.0.1 adm.icast.cn
+127.0.0.1 cast.ra.icast.cn
+127.0.0.1 js.icast.cn
+127.0.0.1 kw.ra.icast.cn
+127.0.0.1 labs.ra.icast.cn
+127.0.0.1 post.ra.icast.cn
+127.0.0.1 pre.ra.icast.cn
+127.0.0.1 pv.ra.icast.cn
+127.0.0.1 res.icast.cn
+127.0.0.1 rm.ra.icast.cn
+127.0.0.1 rmtx.ra.icast.cn
+127.0.0.1 track.ra.icast.cn
+127.0.0.1 track2.ra.icast.cn
+#sina-com.hk
+127.0.0.1 avn.innity.com
+127.0.0.1 cast.innity.com
+127.0.0.1 cdn.innity.net
+127.0.0.1 cdn.media.innity.net
+127.0.0.1 ssl-cdn.media.innity.net
