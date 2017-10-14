@@ -1,5 +1,5 @@
 
-#version=20171014 110
+#version=20171015 143
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4878,7 +4878,6 @@
 127.0.0.1 img0.egou.com
 127.0.0.1 jct.maptu.cn
 127.0.0.1 m.7180443.com
-127.0.0.1 m.cnbeta.com
 127.0.0.1 mti.35kds.com
 127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn

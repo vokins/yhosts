@@ -5500,7 +5500,6 @@
 127.0.0.1 img0.egou.com
 127.0.0.1 jct.maptu.cn
 127.0.0.1 m.7180443.com
-127.0.0.1 m.cnbeta.com
 127.0.0.1 mti.35kds.com
 127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn
