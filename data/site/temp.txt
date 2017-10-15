@@ -1036,6 +1036,7 @@
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 tian.awkjs.com
+127.0.0.1 tian.piaogj.com
 127.0.0.1 tian.sycbbs.com
 127.0.0.1 tian.wxhdwy.com
 127.0.0.1 titi.18tzx.com

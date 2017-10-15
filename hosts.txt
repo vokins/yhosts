@@ -2363,6 +2363,8 @@
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
+#xunlei
+127.0.0.1 hub5btmain.sandai.net
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -3854,6 +3856,7 @@
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 tian.awkjs.com
+127.0.0.1 tian.piaogj.com
 127.0.0.1 tian.sycbbs.com
 127.0.0.1 tian.wxhdwy.com
 127.0.0.1 titi.18tzx.com

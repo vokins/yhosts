@@ -1,5 +1,5 @@
 
-#version=20171015 143
+#version=201710152150
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -1985,6 +1985,7 @@
 127.0.0.1 info.downsave.com
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
+127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
@@ -3342,6 +3343,7 @@
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 tian.awkjs.com
+127.0.0.1 tian.piaogj.com
 127.0.0.1 tian.sycbbs.com
 127.0.0.1 tian.wxhdwy.com
 127.0.0.1 titi.18tzx.com

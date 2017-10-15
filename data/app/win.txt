@@ -26,3 +26,5 @@
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
+#xunlei
+127.0.0.1 hub5btmain.sandai.net
