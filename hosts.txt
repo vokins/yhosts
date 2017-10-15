@@ -381,6 +381,7 @@
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 idm-su.baidu.com
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
@@ -3338,6 +3339,7 @@
 127.0.0.1 js.chinaheh.com
 127.0.0.1 js.cnscdj.com
 127.0.0.1 js.eyouv.cn
+127.0.0.1 js.gewuwen.com
 127.0.0.1 js.hhcskj.com
 127.0.0.1 js.jermr.com
 127.0.0.1 js.jianbaimei.com
@@ -3401,6 +3403,7 @@
 127.0.0.1 js897.hot-eam.com
 127.0.0.1 js993.dugbvb.com
 127.0.0.1 jsjs.nthyn.com
+127.0.0.1 json.gewuwen.com
 127.0.0.1 jss.tenglink.com
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 jumping.nyyryy.com

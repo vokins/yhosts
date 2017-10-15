@@ -12,6 +12,7 @@
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 idm-su.baidu.com
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
