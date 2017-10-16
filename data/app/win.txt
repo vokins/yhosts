@@ -28,3 +28,5 @@
 127.0.0.1 txtad.jijiplayer.com
 #xunlei
 127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
