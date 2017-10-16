@@ -101,6 +101,8 @@
 127.0.0.1 baby.yf898.com
 127.0.0.1 baidu.bosiwangzi.cn
 127.0.0.1 baiduyubaidu.com
+127.0.0.1 bax.xiawu.com
+127.0.0.1 bay.xiawu.com
 127.0.0.1 bbsimages.zkxf119.com
 127.0.0.1 bd3.chuiyue.com
 127.0.0.1 bd4.chuiyue.com
