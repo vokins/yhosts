@@ -2440,6 +2440,9 @@
 #m.biquge.com.tw
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+#m.biqugego.com
+127.0.0.1 ow.biqugego.com
+127.0.0.1 owin.biqugego.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
@@ -3550,6 +3553,7 @@
 127.0.0.1 api.drxdai.com
 127.0.0.1 api.goulegu.com
 127.0.0.1 api.ireai.cn
+127.0.0.1 api.ppoi.org
 127.0.0.1 api.rideraid.net
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 apisoft.df0535.com
@@ -3718,6 +3722,7 @@
 127.0.0.1 difnxm.cn 
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 dip.pyangzi.com
+127.0.0.1 dip.zgydjr.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
 127.0.0.1 dl.kinbest.cn
@@ -3764,6 +3769,7 @@
 127.0.0.1 e.liweiso.com
 127.0.0.1 e.lndjj.com
 127.0.0.1 e.lovezhishou.com
+127.0.0.1 e.lyjz001.com
 127.0.0.1 e.miaoxinqipei.com
 127.0.0.1 e.mushizhubao.com
 127.0.0.1 e.nxypz.com
@@ -3796,6 +3802,7 @@
 127.0.0.1 f.716120.com
 127.0.0.1 f.e719.net
 127.0.0.1 f.f70123.com
+127.0.0.1 f.fm-gj.com
 127.0.0.1 f.hongm.com
 127.0.0.1 f3.vedeh.com
 127.0.0.1 f56g.me
@@ -3951,6 +3958,7 @@
 127.0.0.1 iphone.7659.com
 127.0.0.1 iskdpg.com
 127.0.0.1 its.fugetech.com
+127.0.0.1 iutr.uozwys.top
 127.0.0.1 j.91cmzx.com
 127.0.0.1 j.biquge520.cc
 127.0.0.1 j.bjlanjin.com
@@ -4161,9 +4169,11 @@
 127.0.0.1 m.kooyum.com
 127.0.0.1 m.ksdsuzhou.com
 127.0.0.1 m.ky666666.com
+127.0.0.1 m.kzqcs.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 m.laikahotel.com
 127.0.0.1 m.lovezhishou.com
+127.0.0.1 m.lyjz001.com
 127.0.0.1 m.maidiankeji.org
 127.0.0.1 m.md0z4dh.com
 127.0.0.1 m.miaoxinqipei.com
@@ -4317,6 +4327,7 @@
 127.0.0.1 pp.268mob.com
 127.0.0.1 pp2.dhzw.org
 127.0.0.1 ppco.trwba.com
+127.0.0.1 ppoi.org
 127.0.0.1 psma02.com
 127.0.0.1 ptxzw.yigolds.com
 127.0.0.1 pv.cpc163.com
@@ -4564,6 +4575,7 @@
 127.0.0.1 ulow.mingyangzhizun.com
 127.0.0.1 um29.com
 127.0.0.1 un.xlcun.com
+127.0.0.1 unhybvgf.m.zwda.com
 127.0.0.1 union.baidustatic.guannin.com
 127.0.0.1 union.ideejs.cn
 127.0.0.1 union.star-media.cn
@@ -4844,6 +4856,7 @@
 127.0.0.1 yn.001fzc.com
 127.0.0.1 yoo.yiiyoo.net
 127.0.0.1 you.ymfzs.com
+127.0.0.1 yu.wokekk.com
 127.0.0.1 yue.sqext.com
 127.0.0.1 yunbofangbt.com
 127.0.0.1 yundingjiayuan.com
@@ -4857,6 +4870,7 @@
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 zhong.admddc.com
 127.0.0.1 zhong.hqgjcm.com
+127.0.0.1 zhong.zzhszj.com
 127.0.0.1 zhou.qhaif.com
 127.0.0.1 zhtjdl.com
 127.0.0.1 zhzywl.cc
