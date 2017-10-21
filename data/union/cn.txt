@@ -1084,6 +1084,7 @@
 127.0.0.1 cdn.moogos.com
 127.0.0.1 rcv.moogos.com
 #moquanad.com
+127.0.0.1 cc.moquanad.com
 127.0.0.1 mm.moquanad.com
 127.0.0.1 www.moquanad.com
 #mpush.cn

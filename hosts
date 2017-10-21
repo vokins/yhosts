@@ -1,5 +1,5 @@
 
-#version=201710212233
+#version=201710212240
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3011,6 +3011,7 @@
 127.0.0.1 al.za5.net
 127.0.0.1 alibaba.zhihei.com
 127.0.0.1 amiok.org
+127.0.0.1 an.wikigifth.com
 127.0.0.1 anfeng.com
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
@@ -3307,6 +3308,7 @@
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
 127.0.0.1 guo.kbstyn.com
+127.0.0.1 gz.hxdaka.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 hai.yzygo.com
@@ -3803,6 +3805,7 @@
 127.0.0.1 pv.cpc163.com
 127.0.0.1 pv.fq9r.com
 127.0.0.1 pw.lpsxssm.com
+127.0.0.1 py.wikigifth.com
 127.0.0.1 q.0451106.com
 127.0.0.1 q.ox11.com
 127.0.0.1 qb.xindream.cn
@@ -5872,6 +5875,7 @@
 127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.moogos.com
 127.0.0.1 rcv.moogos.com
+127.0.0.1 cc.moquanad.com
 127.0.0.1 mm.moquanad.com
 127.0.0.1 www.moquanad.com
 127.0.0.1 mpush.cn
