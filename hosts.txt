@@ -3753,6 +3753,7 @@
 127.0.0.1 e.a907907.com
 127.0.0.1 e.apmengxin.com
 127.0.0.1 e.bdoj.pw
+127.0.0.1 e.cluoy.com
 127.0.0.1 e.cnbmaterials.com
 127.0.0.1 e.ddhuangchao.com
 127.0.0.1 e.dzairen.com
@@ -3760,6 +3761,7 @@
 127.0.0.1 e.e70123.com
 127.0.0.1 e.e708.net
 127.0.0.1 e.ejiakm.net
+127.0.0.1 e.gjshcn.com
 127.0.0.1 e.gythsg.com
 127.0.0.1 e.hurnt.com
 127.0.0.1 e.iorgb.com
@@ -3841,6 +3843,7 @@
 127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gou.51gpt.com
 127.0.0.1 guo.gyrtg.com
+127.0.0.1 guo.kbstyn.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 ha12.qxxys.com
 127.0.0.1 hai.yzygo.com
@@ -3857,6 +3860,7 @@
 127.0.0.1 hjfmo.chuchenqitl.com
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
+127.0.0.1 hmdp.dingdianzw.com
 127.0.0.1 html.350.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
@@ -3914,6 +3918,7 @@
 127.0.0.1 img.jsjpac.com
 127.0.0.1 img.qdscgj.com
 127.0.0.1 img.qqgeshou.com
+127.0.0.1 img.qrsw.net
 127.0.0.1 img.qun89.com
 127.0.0.1 img.rqgsf.com
 127.0.0.1 img.rzlc.org
@@ -4140,6 +4145,7 @@
 127.0.0.1 m.cayanfang.com
 127.0.0.1 m.cdn.mx1688.com.cn
 127.0.0.1 m.chenhuia.com
+127.0.0.1 m.cluoy.com
 127.0.0.1 m.cmslayue.com
 127.0.0.1 m.cnbmaterials.com
 127.0.0.1 m.comesgo.com
@@ -4154,6 +4160,7 @@
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.gdyyyg.net
+127.0.0.1 m.gjshcn.com
 127.0.0.1 m.gtnde.com
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 m.hascosafety.com
@@ -4529,6 +4536,7 @@
 127.0.0.1 tan.idcqi.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 td.xue63.com
+127.0.0.1 te.gdhdfs.com
 127.0.0.1 tf.caohua.com
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
