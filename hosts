@@ -1,5 +1,5 @@
 
-#version=201710212240
+#version=201710221400
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4918,6 +4918,7 @@
 127.0.0.1 a.waczt.cn
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
+127.0.0.1 extmoney.i1608.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
