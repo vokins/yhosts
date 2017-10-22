@@ -1,5 +1,5 @@
 
-#version=201710221400
+#version=201710222047
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -3065,6 +3065,7 @@
 127.0.0.1 bls.china360car.com
 127.0.0.1 bobo.xmwty.com
 127.0.0.1 brizads.com
+127.0.0.1 bt.sidmea.com
 127.0.0.1 bt.xitongmonitor.com
 127.0.0.1 bt641499.gotoip4.com
 127.0.0.1 bu.jxxcfd.com
@@ -3102,6 +3103,7 @@
 127.0.0.1 can.hbttcc.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 cb.h5.coffeedak.cn
+127.0.0.1 cc.st123.info
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 cc.yfi052.pw
 127.0.0.1 cc.zhongtoufc.com
@@ -3110,6 +3112,7 @@
 127.0.0.1 cdn.0i-i0.com
 127.0.0.1 cdn.adsk2.co
 127.0.0.1 cdn.adstract.com
+127.0.0.1 cdn.aegins.com
 127.0.0.1 cdn.aiwen.cc
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 cdn1.res.uzham.com
@@ -3215,6 +3218,7 @@
 127.0.0.1 e.0313413.com
 127.0.0.1 e.968lele.com
 127.0.0.1 e.a907907.com
+127.0.0.1 e.aobde.com
 127.0.0.1 e.apmengxin.com
 127.0.0.1 e.bdoj.pw
 127.0.0.1 e.cluoy.com
@@ -3900,6 +3904,7 @@
 127.0.0.1 s.zjhoudao.com
 127.0.0.1 s.zlongad.com
 127.0.0.1 s.ztxbd.com
+127.0.0.1 s.zxwdw.com
 127.0.0.1 s1.9sfang.com
 127.0.0.1 s1.diaojiaoji168.com
 127.0.0.1 s1.hnhbyxdq.com
@@ -4318,6 +4323,7 @@
 127.0.0.1 y.gyhzr.com
 127.0.0.1 y.nvrentao8.com
 127.0.0.1 y.xm9178.com
+127.0.0.1 y.zxwdw.com
 127.0.0.1 ya.fyjyhm.com
 127.0.0.1 yang.93manhua.com
 127.0.0.1 yang.jfqkj.com
@@ -6757,7 +6763,6 @@
 127.0.0.1 20171029.logic.cpm.cm.kankan.com
 127.0.0.1 20171030.logic.cpm.cm.kankan.com
 127.0.0.1 20171031.logic.cpm.cm.kankan.com
-
 127.0.0.1 018520.com
 127.0.0.1 13023.url.7wkw.com
 127.0.0.1 30350f.com
