@@ -86,7 +86,6 @@
 127.0.0.1 livem.l.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
-127.0.0.1 livew.l.qq.com
 127.0.0.1 ls.l.qq.com
 127.0.0.1 p2.l.qq.com
 127.0.0.1 p3.l.qq.com

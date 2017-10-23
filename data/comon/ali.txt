@@ -9,6 +9,8 @@
 127.0.0.1 a.alimama.cn
 127.0.0.1 afpeng.alimama.com
 127.0.0.1 afpssp.alimama.com
+#aliyun
+127.0.0.1 promotion.aliyun.com
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com

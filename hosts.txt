@@ -154,6 +154,8 @@
 127.0.0.1 a.alimama.cn
 127.0.0.1 afpeng.alimama.com
 127.0.0.1 afpssp.alimama.com
+#aliyun
+127.0.0.1 promotion.aliyun.com
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
@@ -847,7 +849,6 @@
 127.0.0.1 livem.l.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
-127.0.0.1 livew.l.qq.com
 127.0.0.1 ls.l.qq.com
 127.0.0.1 p2.l.qq.com
 127.0.0.1 p3.l.qq.com
@@ -3694,7 +3695,6 @@
 127.0.0.1 d.agkn.com
 127.0.0.1 d.anluyg.net
 127.0.0.1 d.pr33.cn
-127.0.0.1 d.pr33.cn 
 127.0.0.1 d.qceg.net
 127.0.0.1 d.s11.cn
 127.0.0.1 d.soxoo.cc
@@ -3725,7 +3725,6 @@
 127.0.0.1 di.mmhhjt.com
 127.0.0.1 di.zymro.com
 127.0.0.1 difnxm.cn
-127.0.0.1 difnxm.cn 
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 dip.pyangzi.com
 127.0.0.1 dip.zgydjr.com
@@ -4092,7 +4091,6 @@
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 k.yp68.cn
-127.0.0.1 k.yp68.cn 
 127.0.0.1 kaf.hnoka.com
 127.0.0.1 kawa11.space
 127.0.0.1 ke.njwxh.com
