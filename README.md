@@ -1,12 +1,18 @@
 ！！这是一个关于美食交流的项目。
+！！上网是因为兴趣和乐趣走到一起，互相交流和学习。
+！！毕竟大家都有自己的生活，祝福你们身体健康，事事顺意。
+！！这个世界离了谁都行，谁都不欠谁的。
+！！不捐钱还在背后说三道四的那些垃圾，有多远滚多远。
 
 ## 捐赠 Donate
 |  支付宝  |   微信   |    QQ    |  PayPal  |
 | -------- | -------- | -------- | -------- |
 | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal") |
 
+
 一份号外（转自目前唯一授权的去广告DNS服务）：
-【通知】由于本人无意侵犯到onekeyhosts的经济利益，现fundns受到onekeyhosts污蔑，称fundns存在劫持做广告，此事对fundns造成不可逆的恶劣影响，有没有劫持行为，相信fundns的用户心中自有公道。此事对fundns维护团队影响深刻，经过认真考虑，以及基于当前政治形势，fundns维护团队决定在下月（11月）24日服务器到期时停服，停服前fundns将正常为大家提供解析服务。fundns是一个公益项目，fundns运行所依赖的hosts源来自网络上公开的项目，fundns维护团队由衷感谢以下伙伴：racaljk，sy 618，wangchunming，laod，i-meto，同时，也感谢那些默默提供可用ip以及贡献出自己sni服务器的小伙伴。最后，引用某vpn提供商的一句话:相见有时，后会无期。
+【通知】由于本人无意侵犯到onekeyhosts的经济利益，现fundns受到onekeyhosts污蔑，称fundns存在劫持做广告，此事对fundns造成不可逆的恶劣影响，有没有劫持行为，相信fundns的用户心中自有公道。此事对fundns维护团队影响深刻，经过认真考虑，以及基于当前形势，fundns维护团队决定在下月（11月）24日服务器到期时停服，停服前fundns将正常为大家提供解析服务。fundns是一个公益项目，fundns运行所依赖的hosts源来自网络上公开的项目，fundns维护团队由衷感谢以下伙伴：racaljk，sy 618，wangchunming，laod，i-meto，同时，也感谢那些默默提供可用ip以及贡献出自己sni服务器的小伙伴。最后，引用某vpn提供商的一句话:相见有时，后会无期。
+
 
 我会把捐赠给我的款项用于吃喜家德的水饺/麦当劳的甜筒/肯德基的辣翅/华莱士的鸡块或者其他，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
 尽量把每次吃的时候会把照片更新于此。谢谢款待！
