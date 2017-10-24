@@ -133,7 +133,6 @@
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 commercial.shouji.360.cn
-
 127.0.0.1 msg.shouji.360.cn
 #360-qihoo
 127.0.0.1 s.qhupdate.com
@@ -143,6 +142,10 @@
 #360-total security
 127.0.0.1 display.360totalsecurity.com
 127.0.0.1 static.ts.360.com
+#360-ads
+127.0.0.1 s7.qhres.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
 #alicdn
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
@@ -3484,6 +3487,7 @@
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+
 127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.qwedcfv.com
@@ -3516,6 +3520,7 @@
 127.0.0.1 a.53yao.com
 127.0.0.1 a.baiy.net
 127.0.0.1 a.cj-cy.com
+127.0.0.1 a.cn.duoyi.com
 127.0.0.1 a.e7009.com
 127.0.0.1 a.qhwch.com
 127.0.0.1 a.shamla.net
@@ -3567,6 +3572,7 @@
 127.0.0.1 app.ibaiducdn.com
 127.0.0.1 app.lz55.cn
 127.0.0.1 app.nterbx.com
+127.0.0.1 app.xyjqy.com
 127.0.0.1 appcdn.ywjiawen.com
 127.0.0.1 aswl.d3kdh34.pw
 127.0.0.1 aswl.dfs3e4.pw
@@ -3578,6 +3584,7 @@
 127.0.0.1 b.apzeyu.com
 127.0.0.1 b.baiy.net
 127.0.0.1 b.flyreading.cn
+127.0.0.1 b.gwylm.com
 127.0.0.1 b.qhwch.com
 127.0.0.1 b.qkptx.com
 127.0.0.1 b.xz15801.com
@@ -3674,6 +3681,7 @@
 127.0.0.1 clk.umelly.com
 127.0.0.1 clk.uunt.com
 127.0.0.1 cloud.zyiis.net
+127.0.0.1 cn.duoyi.com
 127.0.0.1 code.33shangyou.com
 127.0.0.1 code.3shangyou.com
 127.0.0.1 code.gutun.net
@@ -3763,6 +3771,7 @@
 127.0.0.1 e.bdoj.pw
 127.0.0.1 e.cluoy.com
 127.0.0.1 e.cnbmaterials.com
+127.0.0.1 e.csyueye.com
 127.0.0.1 e.ddhuangchao.com
 127.0.0.1 e.dzairen.com
 127.0.0.1 e.e7001.com
@@ -3806,6 +3815,7 @@
 127.0.0.1 epqzviy9.bid
 127.0.0.1 ew16d.package12.com
 127.0.0.1 extstat.com
+127.0.0.1 ey.hmj800.com
 127.0.0.1 eyjs.39xc.net
 127.0.0.1 eyjs.b7nkd.cn
 127.0.0.1 f.649u.com
@@ -3822,6 +3832,7 @@
 127.0.0.1 ffre.ffrepair.com
 127.0.0.1 freespace.juchaojie.com
 127.0.0.1 fsjsp.com
+127.0.0.1 fssl.caohua.com
 127.0.0.1 funexist.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.ad8.cc
@@ -3843,6 +3854,7 @@
 127.0.0.1 global.ymtracking.com
 127.0.0.1 gmhq3r.baishouxin.cn
 127.0.0.1 gmtw.wzflourish.com
+127.0.0.1 gnmbd.top
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.util.zlibs.com
@@ -3859,6 +3871,7 @@
 127.0.0.1 han.dgxzwj.com
 127.0.0.1 hao.dian500.com
 127.0.0.1 hao.pdfbs.com
+127.0.0.1 hd.biyao365.com
 127.0.0.1 hd.ylddq.com
 127.0.0.1 he.xdyszx.com
 127.0.0.1 hehe1.200218.com
@@ -3870,6 +3883,7 @@
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 hmdp.dingdianzw.com
+127.0.0.1 hp.moecz.com
 127.0.0.1 html.350.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
@@ -4114,6 +4128,7 @@
 127.0.0.1 l5.fwt0.com
 127.0.0.1 l9bdhcgihw.neihanw.com
 127.0.0.1 la.gydag.com
+127.0.0.1 la.hzzfan.com
 127.0.0.1 la.xynzgs.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 lao.zxhymh.com
@@ -4131,6 +4146,7 @@
 127.0.0.1 ly.betterobot.cn
 127.0.0.1 lz.bjbsti.com
 127.0.0.1 lz.chaelc.com
+127.0.0.1 lz.hmbgw.com
 127.0.0.1 lz.wfhxssg.com
 127.0.0.1 lz.whafwl.com
 127.0.0.1 m.025suyu.com
@@ -4160,6 +4176,7 @@
 127.0.0.1 m.comesgo.com
 127.0.0.1 m.cqfangduan.com
 127.0.0.1 m.csmdzj.com
+127.0.0.1 m.csyueye.com
 127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.ddhuangchao.com
 127.0.0.1 m.detuns.com
@@ -4224,6 +4241,7 @@
 127.0.0.1 m.sos0easy.com
 127.0.0.1 m.ssjy168.com
 127.0.0.1 m.suwo0n.com
+127.0.0.1 m.symae.cn
 127.0.0.1 m.symaw.cn
 127.0.0.1 m.syofew6o.net
 127.0.0.1 m.tccti.com
@@ -4521,6 +4539,7 @@
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 syd.wayize.cn
+127.0.0.1 symae.cn
 127.0.0.1 t.3apf.com
 127.0.0.1 t.adxchina.cn
 127.0.0.1 t.adyun.com
@@ -4552,6 +4571,7 @@
 127.0.0.1 td.xue63.com
 127.0.0.1 te.gdhdfs.com
 127.0.0.1 tf.caohua.com
+127.0.0.1 tfssl.caohua.com
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
 127.0.0.1 tian.awkjs.com
@@ -4582,6 +4602,7 @@
 127.0.0.1 tu.zusrd.cn
 127.0.0.1 txt.dongyihongbei.com
 127.0.0.1 tyjs.bjjz900.com
+127.0.0.1 tz.zjhoudao.com
 127.0.0.1 u.anluyg.net
 127.0.0.1 u.diginavi.net
 127.0.0.1 u.luxinkm.com
@@ -4735,6 +4756,7 @@
 127.0.0.1 www.flwja.com
 127.0.0.1 www.fu68.com
 127.0.0.1 www.funshion.net.cn
+127.0.0.1 www.gnmbd.top
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 www.gt4ec.net
 127.0.0.1 www.gzmzts.com
@@ -4834,6 +4856,7 @@
 127.0.0.1 www.yodong.com
 127.0.0.1 www.youfumei.com
 127.0.0.1 www.youmsm.com
+127.0.0.1 www.yunxuu.com
 127.0.0.1 www.yxnbroot.com
 127.0.0.1 www.zhzywl.cc
 127.0.0.1 www.zjjgtz.com
@@ -4884,6 +4907,7 @@
 127.0.0.1 yunbofangbt.com
 127.0.0.1 yundingjiayuan.com
 127.0.0.1 ywdp.baojijiecheng.com
+127.0.0.1 yzgyds.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z2.19950501.com
 127.0.0.1 z2.lnymd.com

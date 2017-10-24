@@ -42,7 +42,6 @@
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 commercial.shouji.360.cn
-
 127.0.0.1 msg.shouji.360.cn
 #360-qihoo
 127.0.0.1 s.qhupdate.com
@@ -52,3 +51,7 @@
 #360-total security
 127.0.0.1 display.360totalsecurity.com
 127.0.0.1 static.ts.360.com
+#360-ads
+127.0.0.1 s7.qhres.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
