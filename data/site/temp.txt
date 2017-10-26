@@ -121,6 +121,7 @@
 127.0.0.1 bdjs1.ixiumei.com
 127.0.0.1 bi.ycmtsr.com
 127.0.0.1 bls.china360car.com
+127.0.0.1 bmg.wnbfw.com
 127.0.0.1 bobo.xmwty.com
 127.0.0.1 brizads.com
 127.0.0.1 bt.sidmea.com
@@ -289,6 +290,7 @@
 127.0.0.1 e.e70123.com
 127.0.0.1 e.e708.net
 127.0.0.1 e.ejiakm.net
+127.0.0.1 e.farwx.com
 127.0.0.1 e.gjshcn.com
 127.0.0.1 e.gythsg.com
 127.0.0.1 e.hurnt.com
@@ -310,6 +312,7 @@
 127.0.0.1 e.tommysdream.net
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
+127.0.0.1 e.xkqpco.com
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.youyoumw.com
@@ -767,6 +770,7 @@
 127.0.0.1 m.vichc.com
 127.0.0.1 m.weboser.com
 127.0.0.1 m.wuqutu.com
+127.0.0.1 m.xkqpco.com
 127.0.0.1 m.xul478.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
@@ -793,6 +797,7 @@
 127.0.0.1 mm.bbrpg.cn
 127.0.0.1 mm.nngft.com
 127.0.0.1 mm.ttlowe.com
+127.0.0.1 mm.ttyzy.cn
 127.0.0.1 mmbb.dzjzg.com
 127.0.0.1 mo.uryaki.com
 127.0.0.1 mob.coolnay.com
@@ -1193,6 +1198,7 @@
 127.0.0.1 wm.69shi.cn
 127.0.0.1 wo.rbywg.com
 127.0.0.1 wo.sxzzhj.com
+127.0.0.1 wo.zgsxhx.com
 127.0.0.1 wo1.menghuanzs.com
 127.0.0.1 worldh5.gamehz.cn
 127.0.0.1 wowo.kilospeak.com

@@ -114,6 +114,7 @@
 127.0.0.1 v2.hdd.log.hunantv.com
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 v2.res.log.hunantv.com
+127.0.0.1 imgaliyun.da.mgtv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 x1.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
