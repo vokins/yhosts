@@ -25,6 +25,9 @@
 127.0.0.1 img8.lanseshuba.com
 127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
 127.0.0.1 m2ka6betm.m.lanseshuba.com
+#m.mytxt.cc
+127.0.0.1 druic.mytxt.cc
+127.0.0.1 druis.mytxt.cc
 #m.qindouxs.co
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co

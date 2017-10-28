@@ -1177,6 +1177,21 @@
 #sns
 127.0.0.1 www.baihe.com
 127.0.0.1 www.jiayuan.com
+#cant del account
+127.0.0.1 www.qbao.com
+127.0.0.1 agent.qbao.com
+127.0.0.1 bc.qbao.com
+127.0.0.1 detail.qbao.com
+127.0.0.1 enterprise.qbao.com
+127.0.0.1 events.qbao.com
+127.0.0.1 qhb.qbao.com
+127.0.0.1 store.qbao.com
+127.0.0.1 vc.qbao.com
+127.0.0.1 www.dlingspace.com
+127.0.0.1 www.youpiaole.com
+127.0.0.1 www.zhongmin.cn
+127.0.0.1 www.aihuishou.com
+127.0.0.1 www.gome.com.cn
 @down
 #down-2345
 127.0.0.1 dl.2345.com
@@ -2464,6 +2479,9 @@
 127.0.0.1 img8.lanseshuba.com
 127.0.0.1 lw7b6aa2re8.m.lanseshuba.com
 127.0.0.1 m2ka6betm.m.lanseshuba.com
+#m.mytxt.cc
+127.0.0.1 druic.mytxt.cc
+127.0.0.1 druis.mytxt.cc
 #m.qindouxs.co
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
@@ -3489,7 +3507,6 @@
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
-
 127.0.0.1 014.guangdongjiayue.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.qwedcfv.com
@@ -3804,6 +3821,7 @@
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.xkqpco.com
+127.0.0.1 e.xkqpco.com.com
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.youyoumw.com
@@ -3829,6 +3847,7 @@
 127.0.0.1 f.f70123.com
 127.0.0.1 f.fm-gj.com
 127.0.0.1 f.hongm.com
+127.0.0.1 f.yijikm.com
 127.0.0.1 f3.vedeh.com
 127.0.0.1 f56g.me
 127.0.0.1 fastpopunder.com
@@ -3893,6 +3912,7 @@
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
+127.0.0.1 hxgccl.cn
 127.0.0.1 i.9le.net
 127.0.0.1 i.hao61.net
 127.0.0.1 i.lynsjx.com
@@ -3980,6 +4000,7 @@
 127.0.0.1 in.bmgan.com
 127.0.0.1 in.cbgss.com
 127.0.0.1 in.daskm.com
+127.0.0.1 in.fjxyo.com
 127.0.0.1 in.hqsjc.com
 127.0.0.1 in.qkptx.com
 127.0.0.1 ini.litingxin.cn
@@ -4048,6 +4069,7 @@
 127.0.0.1 js.jermr.com
 127.0.0.1 js.jianbaimei.com
 127.0.0.1 js.jtdcg.com
+127.0.0.1 js.jxabp.com.cn
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 js.lpshl.com
 127.0.0.1 js.lwnne.cn
@@ -4113,6 +4135,7 @@
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 k.yp68.cn
 127.0.0.1 kaf.hnoka.com
+127.0.0.1 kai.anyysz.com
 127.0.0.1 kai.dyzdkj.com
 127.0.0.1 kawa11.space
 127.0.0.1 ke.njwxh.com
@@ -4149,6 +4172,7 @@
 127.0.0.1 love.chushoushijian.cn
 127.0.0.1 luotediao.net
 127.0.0.1 ly.betterobot.cn
+127.0.0.1 lyunsd.cn
 127.0.0.1 lz.bjbsti.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 lz.hmbgw.com
@@ -4169,6 +4193,7 @@
 127.0.0.1 m.baidu.com.zhiduo.org
 127.0.0.1 m.biquzi.com
 127.0.0.1 m.bueson.com
+127.0.0.1 m.bvosv.com
 127.0.0.1 m.calculated.cn
 127.0.0.1 m.car156.net
 127.0.0.1 m.cartekj.com
@@ -4262,6 +4287,7 @@
 127.0.0.1 m.weboser.com
 127.0.0.1 m.wuqutu.com
 127.0.0.1 m.xkqpco.com
+127.0.0.1 m.xkqpco.com.com
 127.0.0.1 m.xul478.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
@@ -4424,6 +4450,7 @@
 127.0.0.1 s.ekeide.com
 127.0.0.1 s.esyzdb.com
 127.0.0.1 s.ffhtek.com
+127.0.0.1 s.fjxyo.com
 127.0.0.1 s.fytza.cn
 127.0.0.1 s.gg0376.com
 127.0.0.1 s.glasszz.com
@@ -4902,6 +4929,7 @@
 127.0.0.1 yang.93manhua.com
 127.0.0.1 yang.jfqkj.com
 127.0.0.1 yao.ccmdgg.com
+127.0.0.1 yao.zzsdjq.com
 127.0.0.1 ydland.youyou822.com
 127.0.0.1 yess.imneinei.com
 127.0.0.1 yi.xmsqz.com
