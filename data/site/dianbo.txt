@@ -7,3 +7,6 @@
 127.0.0.1 a.mianbao99.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
+#www.tvmao.cn
+127.0.0.1 libs.tvmao.cn
+127.0.0.1 slib.tvmao.cn

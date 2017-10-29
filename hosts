@@ -1,5 +1,5 @@
 
-#version=201710291352
+#version=20171030 150
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2572,6 +2572,9 @@
 127.0.0.1 a.mianbao99.com
 #www.xigua110.com
 127.0.0.1 a.xigua110.com
+#www.tvmao.cn
+127.0.0.1 libs.tvmao.cn
+127.0.0.1 slib.tvmao.cn
 #https://m.apkpure.com/
 127.0.0.1 disqusads.com
 #m.3987.com
@@ -3920,6 +3923,7 @@
 127.0.0.1 huhu.jzm81.com
 127.0.0.1 hxgccl.cn
 127.0.0.1 i.9le.net
+127.0.0.1 i.cpc163.com
 127.0.0.1 i.hao61.net
 127.0.0.1 i.lynsjx.com
 127.0.0.1 i.rtkshealth.com
@@ -4219,6 +4223,7 @@
 127.0.0.1 m.dierqingchun.com
 127.0.0.1 m.dilcn.net
 127.0.0.1 m.ever-lohas.com
+127.0.0.1 m.farwx.com
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.gdyyyg.net
@@ -4619,11 +4624,13 @@
 127.0.0.1 tian.sycbbs.com
 127.0.0.1 tian.wxhdwy.com
 127.0.0.1 titi.18tzx.com
+127.0.0.1 tj.kc0314.com
 127.0.0.1 tj.tt1386.com
 127.0.0.1 tj.zhaes.com
 127.0.0.1 tjf.lyhuayun.com
 127.0.0.1 tkmdng.cn
 127.0.0.1 tks1y9.bairuile.cn
+127.0.0.1 tl.zcsfs.cn
 127.0.0.1 tp.sphwq.net
 127.0.0.1 ts.hivecn.cn
 127.0.0.1 ts.lelexw.com
@@ -4911,6 +4918,7 @@
 127.0.0.1 wxwm1.ikuailian.com
 127.0.0.1 wxwm2.ikuailian.com
 127.0.0.1 x.892155.com
+127.0.0.1 x.hskj.net
 127.0.0.1 x1.5jcom.com.cn
 127.0.0.1 xc.ttklg.net
 127.0.0.1 xi.xztms.com
