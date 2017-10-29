@@ -1,5 +1,5 @@
 ﻿
-
+http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
 g.aligames.com游戏中心
 api.open.uc.cn推荐阅读
 http://quan.s3d4.cn/content/ad.jpg

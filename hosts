@@ -1,5 +1,5 @@
 
-#version=201710282258
+#version=201710291352
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1181,15 +1181,18 @@
 127.0.0.1 www.baihe.com
 127.0.0.1 www.jiayuan.com
 #cant del account
-127.0.0.1 www.qbao.com
+127.0.0.1 a.qbao.com
 127.0.0.1 agent.qbao.com
 127.0.0.1 bc.qbao.com
 127.0.0.1 detail.qbao.com
 127.0.0.1 enterprise.qbao.com
 127.0.0.1 events.qbao.com
+127.0.0.1 m.qbao.com
 127.0.0.1 qhb.qbao.com
+127.0.0.1 qn-act.qbcdn.com
 127.0.0.1 store.qbao.com
 127.0.0.1 vc.qbao.com
+127.0.0.1 www.qbao.com
 127.0.0.1 www.dlingspace.com
 127.0.0.1 www.youpiaole.com
 127.0.0.1 www.zhongmin.cn
@@ -7806,7 +7809,6 @@
 127.0.0.1 cdn.holdlakh.com
 127.0.0.1 cdn.img.kachapt.cn
 127.0.0.1 cdn.img.liuxingyul.cn
-127.0.0.1 cdn.staticfile.org
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 cl.xzqxzs.com
