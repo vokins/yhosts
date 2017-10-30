@@ -1,5 +1,5 @@
 
-#version=20171030 150
+#version=201710301557
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -149,6 +149,8 @@
 127.0.0.1 s7.qhres.com
 127.0.0.1 js.passport.qihucdn.com
 127.0.0.1 jspassport.ssl.qhimg.com
+127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 top.h.qhmsg.com
 #alicdn
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
@@ -742,11 +744,13 @@
 127.0.0.1 max-l.mediav.com
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
+127.0.0.1 pages-juxiao.mediav.com
 127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 pv.mediav.com
 127.0.0.1 s3m.mediav.com
 127.0.0.1 sdk.mediav.com
 127.0.0.1 secure.mediav.com
+127.0.0.1 show-3.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com

@@ -55,3 +55,5 @@
 127.0.0.1 s7.qhres.com
 127.0.0.1 js.passport.qihucdn.com
 127.0.0.1 jspassport.ssl.qhimg.com
+127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 top.h.qhmsg.com
