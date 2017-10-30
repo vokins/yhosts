@@ -38,6 +38,7 @@
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.union.360.cn
+127.0.0.1 click.stat.hao.360.cn
 #360-mob
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 api.shuaji.360.cn
@@ -48,12 +49,11 @@
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 top.h.qhimg.com
 127.0.0.1 guess.h.qhimg.com
+127.0.0.1 top.h.qhmsg.com
 #360-total security
 127.0.0.1 display.360totalsecurity.com
-127.0.0.1 static.ts.360.com
 #360-ads
+127.0.0.1 s6.qhres.com
 127.0.0.1 s7.qhres.com
 127.0.0.1 js.passport.qihucdn.com
 127.0.0.1 jspassport.ssl.qhimg.com
-127.0.0.1 click.stat.hao.360.cn
-127.0.0.1 top.h.qhmsg.com

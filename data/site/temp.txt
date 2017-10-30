@@ -80,6 +80,7 @@
 127.0.0.1 app.adbszs.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 app.ibaiducdn.com
+127.0.0.1 app.jgyee.com
 127.0.0.1 app.lz55.cn
 127.0.0.1 app.nterbx.com
 127.0.0.1 app.xyjqy.com
@@ -223,6 +224,7 @@
 127.0.0.1 d1.showself.com
 127.0.0.1 d21.deyidai.cn
 127.0.0.1 d28c4.qdgetrich.com
+127.0.0.1 d2d2d2.changxiangziyou.com
 127.0.0.1 d6.mobaders.com
 127.0.0.1 d7.mobaders.com
 127.0.0.1 d8885.com
@@ -349,6 +351,7 @@
 127.0.0.1 fsjsp.com
 127.0.0.1 fssl.caohua.com
 127.0.0.1 funexist.com
+127.0.0.1 fzz.shgqjr.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.ad8.cc
 127.0.0.1 g.buka9.com
@@ -420,6 +423,7 @@
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 ikm0b.suiyangxiankuankuozhngxue.com
 127.0.0.1 ikm0b.yuanshanshu.cn
+127.0.0.1 ildie.gundam-online.com
 127.0.0.1 im.lokoo.com.cn
 127.0.0.1 im.opiuat.com
 127.0.0.1 im.tuan520.com
@@ -741,6 +745,7 @@
 127.0.0.1 m.nxypz.com
 127.0.0.1 m.onlifjj.net
 127.0.0.1 m.papajia55.com
+127.0.0.1 m.parksonlong.com
 127.0.0.1 m.passwz.com
 127.0.0.1 m.plerv.com
 127.0.0.1 m.prazpf.cn
@@ -821,6 +826,8 @@
 127.0.0.1 mts.sdtieta.com
 127.0.0.1 mx4.weishiqiang.cn
 127.0.0.1 myjj.pyzkk.com
+127.0.0.1 myjsym.zichenit.com
+127.0.0.1 mymm.zichenit.com
 127.0.0.1 n.yccaffe.org
 127.0.0.1 n.yfi8.com
 127.0.0.1 ne.cdgxq.com
