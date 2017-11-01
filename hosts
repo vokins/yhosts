@@ -1,5 +1,5 @@
 
-#version=201710302128
+#version=201711012153
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -3753,6 +3753,7 @@
 127.0.0.1 d7.mobaders.com
 127.0.0.1 d8885.com
 127.0.0.1 da.ddanq.com
+127.0.0.1 da.hjzndq.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 da.pdkuai.com
 127.0.0.1 da.qgss8.com
@@ -3774,6 +3775,7 @@
 127.0.0.1 difnxm.cn
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 dip.pyangzi.com
+127.0.0.1 dip.wl963.com
 127.0.0.1 dip.zgydjr.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
@@ -3806,9 +3808,11 @@
 127.0.0.1 e.aobde.com
 127.0.0.1 e.apmengxin.com
 127.0.0.1 e.bdoj.pw
+127.0.0.1 e.bokanedu.net
 127.0.0.1 e.cluoy.com
 127.0.0.1 e.cnbmaterials.com
 127.0.0.1 e.csyueye.com
+127.0.0.1 e.czlhgz.com
 127.0.0.1 e.ddhuangchao.com
 127.0.0.1 e.dzairen.com
 127.0.0.1 e.e7001.com
@@ -4215,6 +4219,7 @@
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 m.baidu.com.zhiduo.org
 127.0.0.1 m.biquzi.com
+127.0.0.1 m.bokanedu.net
 127.0.0.1 m.bueson.com
 127.0.0.1 m.bvosv.com
 127.0.0.1 m.calculated.cn
@@ -4783,6 +4788,7 @@
 127.0.0.1 www.5675146.com
 127.0.0.1 www.5814889.com
 127.0.0.1 www.5857.com
+127.0.0.1 www.64si.com
 127.0.0.1 www.6604.org
 127.0.0.1 www.68aj.com
 127.0.0.1 www.6kwan.com
@@ -7780,37 +7786,37 @@
 127.0.0.1 www.inoprosport.su
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 x.bidswitch.net
-127.0.0.1 20171001.logic.cpm.cm.kankan.com
-127.0.0.1 20171002.logic.cpm.cm.kankan.com
-127.0.0.1 20171003.logic.cpm.cm.kankan.com
-127.0.0.1 20171004.logic.cpm.cm.kankan.com
-127.0.0.1 20171005.logic.cpm.cm.kankan.com
-127.0.0.1 20171006.logic.cpm.cm.kankan.com
-127.0.0.1 20171007.logic.cpm.cm.kankan.com
-127.0.0.1 20171008.logic.cpm.cm.kankan.com
-127.0.0.1 20171009.logic.cpm.cm.kankan.com
-127.0.0.1 20171010.logic.cpm.cm.kankan.com
-127.0.0.1 20171011.logic.cpm.cm.kankan.com
-127.0.0.1 20171012.logic.cpm.cm.kankan.com
-127.0.0.1 20171013.logic.cpm.cm.kankan.com
-127.0.0.1 20171014.logic.cpm.cm.kankan.com
-127.0.0.1 20171015.logic.cpm.cm.kankan.com
-127.0.0.1 20171016.logic.cpm.cm.kankan.com
-127.0.0.1 20171017.logic.cpm.cm.kankan.com
-127.0.0.1 20171018.logic.cpm.cm.kankan.com
-127.0.0.1 20171019.logic.cpm.cm.kankan.com
-127.0.0.1 20171020.logic.cpm.cm.kankan.com
-127.0.0.1 20171021.logic.cpm.cm.kankan.com
-127.0.0.1 20171022.logic.cpm.cm.kankan.com
-127.0.0.1 20171023.logic.cpm.cm.kankan.com
-127.0.0.1 20171024.logic.cpm.cm.kankan.com
-127.0.0.1 20171025.logic.cpm.cm.kankan.com
-127.0.0.1 20171026.logic.cpm.cm.kankan.com
-127.0.0.1 20171027.logic.cpm.cm.kankan.com
-127.0.0.1 20171028.logic.cpm.cm.kankan.com
-127.0.0.1 20171029.logic.cpm.cm.kankan.com
-127.0.0.1 20171030.logic.cpm.cm.kankan.com
-127.0.0.1 20171031.logic.cpm.cm.kankan.com
+127.0.0.1 20171101.logic.cpm.cm.kankan.com
+127.0.0.1 20171102.logic.cpm.cm.kankan.com
+127.0.0.1 20171103.logic.cpm.cm.kankan.com
+127.0.0.1 20171104.logic.cpm.cm.kankan.com
+127.0.0.1 20171105.logic.cpm.cm.kankan.com
+127.0.0.1 20171106.logic.cpm.cm.kankan.com
+127.0.0.1 20171107.logic.cpm.cm.kankan.com
+127.0.0.1 20171108.logic.cpm.cm.kankan.com
+127.0.0.1 20171109.logic.cpm.cm.kankan.com
+127.0.0.1 20171110.logic.cpm.cm.kankan.com
+127.0.0.1 20171111.logic.cpm.cm.kankan.com
+127.0.0.1 20171112.logic.cpm.cm.kankan.com
+127.0.0.1 20171113.logic.cpm.cm.kankan.com
+127.0.0.1 20171114.logic.cpm.cm.kankan.com
+127.0.0.1 20171115.logic.cpm.cm.kankan.com
+127.0.0.1 20171116.logic.cpm.cm.kankan.com
+127.0.0.1 20171117.logic.cpm.cm.kankan.com
+127.0.0.1 20171118.logic.cpm.cm.kankan.com
+127.0.0.1 20171119.logic.cpm.cm.kankan.com
+127.0.0.1 20171120.logic.cpm.cm.kankan.com
+127.0.0.1 20171121.logic.cpm.cm.kankan.com
+127.0.0.1 20171122.logic.cpm.cm.kankan.com
+127.0.0.1 20171123.logic.cpm.cm.kankan.com
+127.0.0.1 20171124.logic.cpm.cm.kankan.com
+127.0.0.1 20171125.logic.cpm.cm.kankan.com
+127.0.0.1 20171126.logic.cpm.cm.kankan.com
+127.0.0.1 20171127.logic.cpm.cm.kankan.com
+127.0.0.1 20171128.logic.cpm.cm.kankan.com
+127.0.0.1 20171129.logic.cpm.cm.kankan.com
+127.0.0.1 20171130.logic.cpm.cm.kankan.com
+127.0.0.1 20171131.logic.cpm.cm.kankan.com
 127.0.0.1 018520.com
 127.0.0.1 13023.url.7wkw.com
 127.0.0.1 30350f.com

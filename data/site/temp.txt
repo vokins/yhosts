@@ -229,6 +229,7 @@
 127.0.0.1 d7.mobaders.com
 127.0.0.1 d8885.com
 127.0.0.1 da.ddanq.com
+127.0.0.1 da.hjzndq.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 da.pdkuai.com
 127.0.0.1 da.qgss8.com
@@ -250,6 +251,7 @@
 127.0.0.1 difnxm.cn
 127.0.0.1 dip.fzglqyy.com
 127.0.0.1 dip.pyangzi.com
+127.0.0.1 dip.wl963.com
 127.0.0.1 dip.zgydjr.com
 127.0.0.1 diwang.nzezn.com
 127.0.0.1 dl.img80.net
@@ -282,9 +284,11 @@
 127.0.0.1 e.aobde.com
 127.0.0.1 e.apmengxin.com
 127.0.0.1 e.bdoj.pw
+127.0.0.1 e.bokanedu.net
 127.0.0.1 e.cluoy.com
 127.0.0.1 e.cnbmaterials.com
 127.0.0.1 e.csyueye.com
+127.0.0.1 e.czlhgz.com
 127.0.0.1 e.ddhuangchao.com
 127.0.0.1 e.dzairen.com
 127.0.0.1 e.e7001.com
@@ -691,6 +695,7 @@
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 m.baidu.com.zhiduo.org
 127.0.0.1 m.biquzi.com
+127.0.0.1 m.bokanedu.net
 127.0.0.1 m.bueson.com
 127.0.0.1 m.bvosv.com
 127.0.0.1 m.calculated.cn
@@ -1259,6 +1264,7 @@
 127.0.0.1 www.5675146.com
 127.0.0.1 www.5814889.com
 127.0.0.1 www.5857.com
+127.0.0.1 www.64si.com
 127.0.0.1 www.6604.org
 127.0.0.1 www.68aj.com
 127.0.0.1 www.6kwan.com
