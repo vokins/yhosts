@@ -1,4 +1,0 @@
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
-#http://mac.xunlei.com/
-127.0.0.1 liveupdate.mac.sandai.net

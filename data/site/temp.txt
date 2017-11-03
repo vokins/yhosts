@@ -1,4 +1,6 @@
+
 127.0.0.1 014.guangdongjiayue.com
+127.0.0.1 1.1010pic.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.qwedcfv.com
 127.0.0.1 1.xytom.com
@@ -8,6 +10,7 @@
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 1495039.com
 127.0.0.1 18l.dingdianzw.com
+127.0.0.1 2.1010pic.com
 127.0.0.1 2017img.myxh999.com
 127.0.0.1 2w.edu0.cn
 127.0.0.1 35baba.cn
@@ -683,6 +686,7 @@
 127.0.0.1 lz.whafwl.com
 127.0.0.1 m.025suyu.com
 127.0.0.1 m.12306media.com
+127.0.0.1 m.1680go.com
 127.0.0.1 m.24haitao.net
 127.0.0.1 m.3987.com
 127.0.0.1 m.3kw.cc
@@ -1024,6 +1028,7 @@
 127.0.0.1 sc.gyeet.com
 127.0.0.1 sc.sczxy.com
 127.0.0.1 sccdn.f2zd.com
+127.0.0.1 sdk.appadhoc.com
 127.0.0.1 seen.h01ce.cn
 127.0.0.1 sese.chmae.com
 127.0.0.1 sha.hnasd.com
@@ -1256,6 +1261,7 @@
 127.0.0.1 www.360hllx.com
 127.0.0.1 www.3jhm.com
 127.0.0.1 www.4207008.com
+127.0.0.1 www.5066.net
 127.0.0.1 www.5188yy.com
 127.0.0.1 www.5293.com
 127.0.0.1 www.5345ll.com
@@ -1479,6 +1485,8 @@
 127.0.0.1 zi.ynbzxh.com
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl8206.huliangongyu.com
+127.0.0.1 zyz.91friend.com
+127.0.0.1 zyz1.91friend.com
 127.0.0.1 zz12x.net
 127.0.0.1 zzcw.office-mall.net
 127.0.0.1 zzy.mipujia.com

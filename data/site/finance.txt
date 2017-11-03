@@ -14,7 +14,6 @@
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
 127.0.0.1 caixinimg.adsame.com
-127.0.0.1 m.1680go.com
 #m.hexun.com
 127.0.0.1 h01.hxsame.hexun.com
 127.0.0.1 h02.hxsame.hexun.com

@@ -384,6 +384,7 @@
 
 127.0.0.1 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 #baidu
+127.0.0.1 cpro.baidu.cn
 127.0.0.1 api.share.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 bdimg.share.baidu.com
@@ -1507,6 +1508,7 @@
 127.0.0.1 stat.it168.com
 #mydrivers.com 
 127.0.0.1 icons.mydrivers.com
+127.0.0.1 xc.mydrivers.com
 #orsoon.com
 127.0.0.1 desk.orsoon.com
 #wap.ithome.com
@@ -1635,47 +1637,9 @@
 127.0.0.1 static.snapmobile.asia
 #www.dcfever.com
 127.0.0.1 adx.adxglobal.com
-@aliyun
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 tvupgrade.yunos.com
-127.0.0.1 uuidapi.yunos.com
-@amigo
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
-@lenovo
-#lenovo-ads
-127.0.0.1 adcore.lenovomm.com
-127.0.0.1 pushapi.lenovomm.com
-127.0.0.1 sdac.lenovomm.com
-127.0.0.1 susapi.lenovomm.com
-127.0.0.1 adapi.lenovogame.com
-127.0.0.1 lcs.dev.surepush.cn
-127.0.0.1 susapi.dev.surepush.cn
-127.0.0.1 test.surepush.cn
-#lenovo
-127.0.0.1 ams.lenovomm.com
-127.0.0.1 fsr.lenovomm.com
-127.0.0.1 fus.lenovomm.com
-127.0.0.1 imfsr.lenovomm.com
-127.0.0.1 lcs.lenovomm.com
-127.0.0.1 lds.lenovomm.com
-127.0.0.1 mfsr.lenovomm.com
-127.0.0.1 pbs.lenovomm.com
-127.0.0.1 prw.lenovomm.com
-127.0.0.1 psb.lenovomm.com
-127.0.0.1 uss-pid.lenovomm.com
-127.0.0.1 wth.lenovomm.com
-127.0.0.1 yx.lenovomm.com
-#zui
-127.0.0.1 api.bs.zui.com
-127.0.0.1 lds.zui.com
-#ns
-127.0.0.1 api.anzhuoshangdian.com
-127.0.0.1 lcs.test.lenovomm.cn
-127.0.0.1 wr.ecartoon.net
-@meizu
 #flyme-ads
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 bro.flyme.cn
@@ -1708,7 +1672,10 @@
 127.0.0.1 tongji.meizu.com
 #flyme-weather
 127.0.0.1 aider-res.meizu.com
-@miui
+#itunes-radio
+127.0.0.1 iadctest.qwapi.com
+#http://mac.xunlei.com/
+127.0.0.1 liveupdate.mac.sandai.net
 #cm-adfuture
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
@@ -1726,6 +1693,9 @@
 #cm-advmob
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
+#cm-duba
+127.0.0.1 bu1.duba.com
+127.0.0.1 bu2.duba.com
 #cm-ijinshan
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
@@ -1777,9 +1747,7 @@
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
-@mokee
 127.0.0.1 stats.mokeedev.com
-@oppo
 #oppo-ads
 127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adx.ads.oppomobile.com
@@ -1798,8 +1766,69 @@
 127.0.0.1 rl.go2yd.com
 127.0.0.1 s.go2yd.com
 127.0.0.1 web-track.go2yd.com
-@xgimi.com
+#http://www.bitcomet.com/
+127.0.0.1 inside.bitcomet.com
+#http://player.gomlab.com/
+127.0.0.1 info.gomlab.com
+127.0.0.1 playinfo.gomlab.com
+127.0.0.1 promotion.gomlab.com
+#http://potplayer.daum.net/
+127.0.0.1 adimg.daumcdn.net
+127.0.0.1 analytics.ad.daum.net
+127.0.0.1 display.ad.daum.net
+#http://pinyin.sogou.com/
+127.0.0.1 info.pinyin.sogou.com
+127.0.0.1 ping.pinyin.sogou.com
+#http://www.vidown.cn/
+127.0.0.1 cc.vidown.cn
+127.0.0.1 conf.vidown.cn
+127.0.0.1 gg.vidown.cn
+127.0.0.1 minisite.vidown.cn
+127.0.0.1 rtlog.vidown.cn
+127.0.0.1 tj.vidown.cn
+#http://www.winrar.com.cn/
+127.0.0.1 ad.winrar.com.cn
+#http://www.xigua.com/
+127.0.0.1 adv2.downsave.com
+127.0.0.1 info.downsave.com
+#http://www.jjvod.com/
+127.0.0.1 mini.jijiplayer.com
+127.0.0.1 txtad.jijiplayer.com
 127.0.0.1 analytics.xgimi.com
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+127.0.0.1 tvupgrade.yunos.com
+127.0.0.1 uuidapi.yunos.com
+#lenovo-ads
+127.0.0.1 adcore.lenovomm.com
+127.0.0.1 pushapi.lenovomm.com
+127.0.0.1 sdac.lenovomm.com
+127.0.0.1 susapi.lenovomm.com
+127.0.0.1 adapi.lenovogame.com
+127.0.0.1 lcs.dev.surepush.cn
+127.0.0.1 susapi.dev.surepush.cn
+127.0.0.1 test.surepush.cn
+#lenovo
+127.0.0.1 ams.lenovomm.com
+127.0.0.1 fsr.lenovomm.com
+127.0.0.1 fus.lenovomm.com
+127.0.0.1 imfsr.lenovomm.com
+127.0.0.1 lcs.lenovomm.com
+127.0.0.1 lds.lenovomm.com
+127.0.0.1 mfsr.lenovomm.com
+127.0.0.1 pbs.lenovomm.com
+127.0.0.1 prw.lenovomm.com
+127.0.0.1 psb.lenovomm.com
+127.0.0.1 uss-pid.lenovomm.com
+127.0.0.1 wth.lenovomm.com
+127.0.0.1 yx.lenovomm.com
+#zui
+127.0.0.1 api.bs.zui.com
+127.0.0.1 lds.zui.com
+#ns
+127.0.0.1 api.anzhuoshangdian.com
+127.0.0.1 lcs.test.lenovomm.cn
+127.0.0.1 wr.ecartoon.net
 @app-browser
 #http://app.2345.com/mob.htm
 127.0.0.1 2345api.dftoutiao.com
@@ -2108,10 +2137,6 @@
 127.0.0.1 i.haloapps.com
 127.0.0.1 mo.test.haloapps.com
 127.0.0.1 mo.haloapps.cn
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
-#http://mac.xunlei.com/
-127.0.0.1 liveupdate.mac.sandai.net
 #http://im.qq.com/
 127.0.0.1 jrlt.beacon.qq.com
 127.0.0.1 log.tbs.qq.com
@@ -2366,34 +2391,6 @@
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
-#http://www.bitcomet.com/
-127.0.0.1 inside.bitcomet.com
-#http://player.gomlab.com/
-127.0.0.1 info.gomlab.com
-127.0.0.1 playinfo.gomlab.com
-127.0.0.1 promotion.gomlab.com
-#http://potplayer.daum.net/
-127.0.0.1 adimg.daumcdn.net
-127.0.0.1 analytics.ad.daum.net
-127.0.0.1 display.ad.daum.net
-#http://pinyin.sogou.com/
-127.0.0.1 info.pinyin.sogou.com
-127.0.0.1 ping.pinyin.sogou.com
-#http://www.vidown.cn/
-127.0.0.1 cc.vidown.cn
-127.0.0.1 conf.vidown.cn
-127.0.0.1 gg.vidown.cn
-127.0.0.1 minisite.vidown.cn
-127.0.0.1 rtlog.vidown.cn
-127.0.0.1 tj.vidown.cn
-#http://www.winrar.com.cn/
-127.0.0.1 ad.winrar.com.cn
-#http://www.xigua.com/
-127.0.0.1 adv2.downsave.com
-127.0.0.1 info.downsave.com
-#http://www.jjvod.com/
-127.0.0.1 mini.jijiplayer.com
-127.0.0.1 txtad.jijiplayer.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -2601,7 +2598,8 @@
 127.0.0.1 ggr.yxdown.com
 127.0.0.1 tongji.ads.yxdown.com
 #www.aili.com
-127.0.0.1 1.aili.com#3g.cnfol.com
+127.0.0.1 1.aili.com
+#3g.cnfol.com
 127.0.0.1 logs.cnfol.com
 127.0.0.1 gg8888.cnfol.com
 #bbs.macd.cn
@@ -2617,7 +2615,6 @@
 127.0.0.1 logstat.caixin.com
 127.0.0.1 promote.caixin.com
 127.0.0.1 caixinimg.adsame.com
-127.0.0.1 m.1680go.com
 #m.hexun.com
 127.0.0.1 h01.hxsame.hexun.com
 127.0.0.1 h02.hxsame.hexun.com
@@ -3468,8 +3465,6 @@
 127.0.0.1 youle.tom.com
 127.0.0.1 data.adserve.tomoimg.cn
 127.0.0.1 data.adserve2.tomoimg.cn
-#bbs.gpsuu.com
-127.0.0.1 www.5066.net
 #bbs.gxsky.com
 127.0.0.1 ll.gxsky.com
 #bbs.tianya.cn
@@ -3484,7 +3479,6 @@
 #www.hupu.com
 127.0.0.1 cc.dace.hupu.com
 127.0.0.1 ccdace.hupu.com
-127.0.0.1 sdk.appadhoc.com
 #www.jdbbs.com
 127.0.0.1 pic.jd-bbs.com
 127.0.0.1 pic.jdbbs.com
@@ -3515,7 +3509,9 @@
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+
 127.0.0.1 014.guangdongjiayue.com
+127.0.0.1 1.1010pic.com
 127.0.0.1 1.chcx.cn
 127.0.0.1 1.qwedcfv.com
 127.0.0.1 1.xytom.com
@@ -3525,6 +3521,7 @@
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 1495039.com
 127.0.0.1 18l.dingdianzw.com
+127.0.0.1 2.1010pic.com
 127.0.0.1 2017img.myxh999.com
 127.0.0.1 2w.edu0.cn
 127.0.0.1 35baba.cn
@@ -4200,6 +4197,7 @@
 127.0.0.1 lz.whafwl.com
 127.0.0.1 m.025suyu.com
 127.0.0.1 m.12306media.com
+127.0.0.1 m.1680go.com
 127.0.0.1 m.24haitao.net
 127.0.0.1 m.3987.com
 127.0.0.1 m.3kw.cc
@@ -4541,6 +4539,7 @@
 127.0.0.1 sc.gyeet.com
 127.0.0.1 sc.sczxy.com
 127.0.0.1 sccdn.f2zd.com
+127.0.0.1 sdk.appadhoc.com
 127.0.0.1 seen.h01ce.cn
 127.0.0.1 sese.chmae.com
 127.0.0.1 sha.hnasd.com
@@ -4773,6 +4772,7 @@
 127.0.0.1 www.360hllx.com
 127.0.0.1 www.3jhm.com
 127.0.0.1 www.4207008.com
+127.0.0.1 www.5066.net
 127.0.0.1 www.5188yy.com
 127.0.0.1 www.5293.com
 127.0.0.1 www.5345ll.com
@@ -4996,6 +4996,8 @@
 127.0.0.1 zi.ynbzxh.com
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl8206.huliangongyu.com
+127.0.0.1 zyz.91friend.com
+127.0.0.1 zyz1.91friend.com
 127.0.0.1 zz12x.net
 127.0.0.1 zzcw.office-mall.net
 127.0.0.1 zzy.mipujia.com

@@ -1,4 +1,4 @@
-ver=23:33 2017/10/13/周五
+ver=14:15 2017/11/3/周五
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -12,7 +12,7 @@ rem "%~dp0win\dos2unix.exe" -n 1A.txt hosts.txt
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
-del /f pop.txt union.txt app.txt sitecn.txt moot.txt old.txt comon.txt
+del /f pop.txt union.txt app.txt sitecn.txt moot.txt old.txt comon.txt os.txt
 exit
 
 :del
@@ -39,9 +39,9 @@ goto :eof
 @SET win=%cd%\win
 @cd %CURRENTDIR%
 rem "%win%\sed.exe" -i "$d" site.txt
-set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
+set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
+set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt
