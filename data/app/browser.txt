@@ -2,6 +2,7 @@
 #http://app.2345.com/mob.htm
 127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 2345apicode.dftoutiao.com
+127.0.0.1 imgsreview.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 fw.mb.lenovomm.com
