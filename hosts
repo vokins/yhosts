@@ -1,5 +1,5 @@
 
-#version=201711041753
+#version=20171105 936
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2603,6 +2603,7 @@
 127.0.0.1 tongji.ads.yxdown.com
 #www.aili.com
 127.0.0.1 1.aili.com
+127.0.0.1 2.aili.com
 #3g.cnfol.com
 127.0.0.1 logs.cnfol.com
 127.0.0.1 gg8888.cnfol.com
@@ -3199,8 +3200,6 @@
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 js.adxkj.com
 127.0.0.1 kob.adxkj.com
-127.0.0.1 1.aili.com
-127.0.0.1 2.aili.com
 127.0.0.1 api.ssp.aomeng.net
 127.0.0.1 www.aomeng.net
 127.0.0.1 cp.banlaa.com
@@ -5117,17 +5116,31 @@
 127.0.0.1 cmop.mgtv.com
 127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
+127.0.0.1 imgaliyun.res.mgtv.com
+127.0.0.1 mobaliyun.res.mgtv.com
+127.0.0.1 mobile.da.mgtv.com
 127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pcvideoyd.titan.mgtv.com
+127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 py.da.mgtv.com
+127.0.0.1 v1-play.log.mgtv.com
+127.0.0.1 v2.da.mgtv.com
+127.0.0.1 v2.log.mgtv.com
+127.0.0.1 web-disp.titan.mgtv.com
+127.0.0.1 web-disp1.titan.mgtv.com
+127.0.0.1 web-disp2.titan.mgtv.com
+127.0.0.1 web.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 y.da.mgtv.com
 127.0.0.1 flv.res.hunantv.com
+127.0.0.1 imgaliyun.da.mgtv.com
 127.0.0.1 log.da.hunantv.com
+127.0.0.1 log.p2p.hunantv.com
+127.0.0.1 log.rc.hunantv.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 mobile.log.hunantv.com
 127.0.0.1 mp4.res.hunantv.com
@@ -5138,10 +5151,18 @@
 127.0.0.1 v2.hdd.log.hunantv.com
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 v2.res.log.hunantv.com
-127.0.0.1 imgaliyun.da.mgtv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 x1.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
+127.0.0.1 ads-api.videojj.com
+127.0.0.1 cytron.videojj.com
+127.0.0.1 cytroncdn.videojj.com
+127.0.0.1 log.videojj.com
+127.0.0.1 me.videojj.com
+127.0.0.1 plat.videojj.com
+127.0.0.1 store.videojj.com
+127.0.0.1 va.videojj.com
+127.0.0.1 videojj.com
 #http://m.youku.com/
 127.0.0.1 adp.atm.youku.com
 127.0.0.1 iyes.youku.com
