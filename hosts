@@ -1,5 +1,5 @@
 
-#version=20171105 936
+#version=20171105 954
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -5119,7 +5119,6 @@
 127.0.0.1 imgaliyun.res.mgtv.com
 127.0.0.1 mobaliyun.res.mgtv.com
 127.0.0.1 mobile.da.mgtv.com
-127.0.0.1 pc.bz.mgtv.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcvideoaliyun.titan.mgtv.com
@@ -5130,9 +5129,6 @@
 127.0.0.1 v1-play.log.mgtv.com
 127.0.0.1 v2.da.mgtv.com
 127.0.0.1 v2.log.mgtv.com
-127.0.0.1 web-disp.titan.mgtv.com
-127.0.0.1 web-disp1.titan.mgtv.com
-127.0.0.1 web-disp2.titan.mgtv.com
 127.0.0.1 web.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 y.da.mgtv.com
