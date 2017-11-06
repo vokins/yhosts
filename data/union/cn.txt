@@ -884,6 +884,7 @@
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 yyt.irs01.com
+127.0.0.1 v.irs01.com
 #jesgoo
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com

@@ -1,11 +1,11 @@
 #baidu
-127.0.0.1 cpro.baidu.cn
 127.0.0.1 api.share.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cm.baidu.com
 127.0.0.1 cm.pos.baidu.com
+127.0.0.1 cpro.baidu.cn
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 eclick.baidu.com
@@ -23,6 +23,7 @@
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
+127.0.0.1 river.zhidao.baidu.com
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com

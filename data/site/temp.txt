@@ -675,9 +675,11 @@
 127.0.0.1 le.5dydk.com
 127.0.0.1 le.dtzysm.com
 127.0.0.1 lhg.alisinak.com
+127.0.0.1 li.anyysz.com
 127.0.0.1 li.fszhxd.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
+127.0.0.1 log.kuaigeng.com
 127.0.0.1 lol.pnhfc.com
 127.0.0.1 love.66san.com
 127.0.0.1 love.chushoushijian.cn

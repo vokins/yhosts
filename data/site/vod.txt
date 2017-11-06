@@ -57,6 +57,16 @@
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
+---
+127.0.0.1 co.dtech.baofeng.com
+127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 iphonelog.shouji.baofeng.com
+127.0.0.1 newapi.shouji.baofeng.com
+127.0.0.1 p2pmid.baofeng.com
+127.0.0.1 app.houyi.baofeng.net
+127.0.0.1 nclog.pad.baofeng.net
+127.0.0.1 web.houyi.baofeng.net
+127.0.0.1 xs.houyi.baofeng.net
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
 127.0.0.1 kkpgv.kankan.com
@@ -144,10 +154,17 @@
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 push.m.youku.com
 #http://www.youku.com/
+127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 bsv.atm.youku.com
 127.0.0.1 count.atm.youku.com
+127.0.0.1 dmapp.youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
+127.0.0.1 myes.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 service.danmu.youku.com
+127.0.0.1 statis.mobile.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valb.atm.youku.com
@@ -155,9 +172,3 @@
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 valt.atm.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 r.l.youku.com
-127.0.0.1 dmapp.youku.com
-127.0.0.1 service.danmu.youku.com
-127.0.0.1 api.gamex.mobile.youku.com
-127.0.0.1 myes.youku.com

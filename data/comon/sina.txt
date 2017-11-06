@@ -86,6 +86,8 @@
 127.0.0.1 c.wcpt.biz.weibo.com
 127.0.0.1 game.weibo.com
 127.0.0.1 s.alitui.weibo.com
+127.0.0.1 sdkapp.uve.weibo.com
+127.0.0.1 wbapp.uve.weibo.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 game.weibo.cn
