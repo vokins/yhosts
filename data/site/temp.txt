@@ -868,6 +868,7 @@
 127.0.0.1 nnd.xyssp.com
 127.0.0.1 nobody.happyweixin.cn
 127.0.0.1 oask.xulizui6.com
+127.0.0.1 odfd.nixiclothing.com
 127.0.0.1 oe.zbttxs.com
 127.0.0.1 ov.qdttzk.com
 127.0.0.1 p.99mssj.com
@@ -955,6 +956,7 @@
 127.0.0.1 ri.zywhjd.com
 127.0.0.1 rj.huajingfood.cn
 127.0.0.1 rjs.niuxgame77.com
+127.0.0.1 rsas.szzek.com
 127.0.0.1 s.272xb.com
 127.0.0.1 s.3333309.cn
 127.0.0.1 s.456juhd.com
@@ -1370,6 +1372,7 @@
 127.0.0.1 www.pasco.cc
 127.0.0.1 www.pintour.com
 127.0.0.1 www.pj550077.com
+127.0.0.1 www.pjbjzf.com
 127.0.0.1 www.poctd.com
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.punuomisi.cn

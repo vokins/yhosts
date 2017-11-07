@@ -10,6 +10,9 @@
 #m.biqugego.com
 127.0.0.1 ow.biqugego.com
 127.0.0.1 owin.biqugego.com
+#m.biquguo.com
+127.0.0.1 7a57a5a743894a0e.m.biquguo.com
+127.0.0.1 7f8d3ee6b2525320.m.biquguo.com
 #m.bmwen.com
 127.0.0.1 a.bmwen.com
 127.0.0.1 b.bmwen.com
