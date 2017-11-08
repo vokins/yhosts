@@ -12,6 +12,9 @@
 127.0.0.1 pingma.qq.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 strategy.beacon.qq.com
+#qq-1
+127.0.0.1 dp3.qq.com
+127.0.0.1 imc.l.qq.com
 #qq-ad
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com

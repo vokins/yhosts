@@ -3,10 +3,19 @@
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
 
+http://im-x.jd.com:443
+http://d.jd.com:443
+http://gia.jd.com:443
+https://gia.jd.com/y.html?v=0.406636398664997&o=re.jd.com/cps/item/5602251.html
+https://dp3.qq.com/stdlog/?bid=10091006&appuser=&requestid=8044460a-a8af-4e6b-8035-6ff3dc9e59dd&guid=473ae75c011ca7d2d9ac1c34189af15e&pf=in&pfEx=pc&chid=0&timestamp=1510138132159&mvid=r0566gbscjw&videoDuration=2191.32&coverid=2juld9h6rjo5i1x&qq=o1172783377&pversion=3.4.22&live=0&version=gpgp_outsite&ua=chrome61&adtype=LD|KB|PVL&isTrueView=false&adid=1&oid=3692731,3675319,1805918120,3648005,3648143&vid=l02001ujmv6,e02005suko0,f0200tj3vty,x0200sssd7u,e0200na7x0z&adclick=3692731&clicktime=10559&step=4
+http://imc.l.qq.com/click?oid=3692731&cid=2319897&adtype=LD&refluence=4003&requestl=4003&soid=70E9062700885A02E11380216400&aver=0&ev=6.0.164.164&aver_flag=6148&tagid=10025185&si=731111690&target=4003&isfloatindex=0&pf=in&loc=LV_1001_LDVi_LD&vptag=iqiyi&click_data=dXNlcl9pbmZvPXZCejVuamt3RnhXNkd1T0JJejRURTdRZSZ1cF92ZXJzaW9uPVY2LjAuMTY0LjE2NA==&chid=0&live=0&aid_tpid=10&aid_tpid2=1001&aid_tpid3=10001&aid_dura=2191&aid_vid_drm=0&aid_cid_drm=0&aid_copyright=467&aid_cover=2juld9h6rjo5i1x&aid_subtype=9_1&aid_column=55289&aid_vip_type=1
+
 
 127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
 【一.条.狗.的.使.命.mp4】 http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
+http://60.217.249.146/vlive.qqvideo.tc.qq.com/AkUjwQllyJ3XQVo544JpngTRQEmmaX6-F30EQMaXsoUU/f0200tj3vty.p201.1.mp4?vkey=50B892660E29FA115AEAFA0102F1C3464F45A9BC85E9BEF86748295713C3D68F6792C46A84F75B60EB8BB926062757222479DF9AA6E52FB45E83F9C276BB2632378D176AF4178AD6F2971437016E1DA1662BD4C6CA51E9524E33382AB8214AAFD4D97EE1A0DA46D2E9E41557E8184ECE3C9DDF4EB29E7D7A&platform=10201&sdtfrom=&fmt=shd&level=0&locid=cfeb3172-3b86-4b4c-87ef-40e363c9bca0&size=2558125&ocid=2573604268
+https://mfm.video.qq.com/danmu?otype=json&callback=jQuery1910539093510913198_1510137665471&timestamp=45&target_id=2196595083&count=80&second_count=6&session_key=0%2C0%2C0&_=1510137665500
 
 http://nbsdk-baichuan.alicdn.com:443
 http://statis.mobile.youku.com:443
