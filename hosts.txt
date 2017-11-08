@@ -3742,6 +3742,7 @@
 127.0.0.1 code.jojomu.com
 127.0.0.1 code.ttpaper.com
 127.0.0.1 code.wantaico.com
+127.0.0.1 coro.benbaisteel.com
 127.0.0.1 count.qiqipower.com
 127.0.0.1 count.wk2.com
 127.0.0.1 cp.ggyapp.com
@@ -3788,6 +3789,7 @@
 127.0.0.1 dd.520zhai.net
 127.0.0.1 dd.70yst.com
 127.0.0.1 dddddd.diaobanstudio.com
+127.0.0.1 dfc1.benbaisteel.com
 127.0.0.1 dfx.shhuixiangwuliu.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.mmhhjt.com
@@ -3960,6 +3962,7 @@
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
 127.0.0.1 hxgccl.cn
+127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 i.9le.net
 127.0.0.1 i.cpc163.com
 127.0.0.1 i.hao61.net
