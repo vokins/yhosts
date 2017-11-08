@@ -876,15 +876,17 @@
 127.0.0.1 t4.guomob.com
 127.0.0.1 www.guomob.com
 #irs
-127.0.0.1 m.irs01.com
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
+127.0.0.1 iqiyi.irs01.com
 127.0.0.1 letv.irs01.com
+127.0.0.1 m.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
-127.0.0.1 yyt.irs01.com
 127.0.0.1 v.irs01.com
+127.0.0.1 v12-r0566gbscjw.z.irs01.com
+127.0.0.1 yyt.irs01.com
 #jesgoo
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com

@@ -2,6 +2,12 @@
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
+
+
+127.0.0.1 disp.titan.mgtv.com
+127.0.0.1 disp1.titan.mgtv.com
+【一.条.狗.的.使.命.mp4】 http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
+
 http://nbsdk-baichuan.alicdn.com:443
 http://statis.mobile.youku.com:443
 http://iyes.youku.com:443
@@ -12,7 +18,7 @@ http://adp.atm.youku.com/predict
 http://adp.atm.youku.com:443
 http://m.atm.youku.com:443
 http://v.irs01.com:443
-
+<img src="http://api.ijunhai.com/channelAd/getAdParams/pf/2/channel_ad/dianruiweb/junhai_adid/14459/game_id/U200000048" style="width: 0px; height: 0px; display: none;">
 http://adashxgc.ut.taobao.com:443
 http://dp.im.weibo.cn:443
 http://wbapp.uve.weibo.com:443

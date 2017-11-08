@@ -8,6 +8,7 @@
 127.0.0.1 adimg.daumcdn.net
 127.0.0.1 analytics.ad.daum.net
 127.0.0.1 display.ad.daum.net
+127.0.0.1 track.tiara.daum.net
 #http://pinyin.sogou.com/
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com

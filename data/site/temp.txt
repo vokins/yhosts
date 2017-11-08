@@ -72,6 +72,7 @@
 127.0.0.1 api.ahjinshu.com
 127.0.0.1 api.drxdai.com
 127.0.0.1 api.goulegu.com
+127.0.0.1 api.ijunhai.com
 127.0.0.1 api.ireai.cn
 127.0.0.1 api.ppoi.org
 127.0.0.1 api.rideraid.net
@@ -79,6 +80,7 @@
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 apk.idate520.com
 127.0.0.1 app.3987.com
+127.0.0.1 app.5211hui.com
 127.0.0.1 app.adbszs.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 app.ibaiducdn.com
@@ -242,6 +244,7 @@
 127.0.0.1 da.yxjad.com
 127.0.0.1 da.zzsdjq.com
 127.0.0.1 dadi.c0563.com
+127.0.0.1 daima1.18tzx.com
 127.0.0.1 dan.chersc.com
 127.0.0.1 dan.qytyf.com
 127.0.0.1 data.3975.com
@@ -284,6 +287,7 @@
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 dx01.daomengad.com
 127.0.0.1 dz2017.zdzxyplyt.com
+127.0.0.1 dzz.wankeedu.com
 127.0.0.1 e.0313413.com
 127.0.0.1 e.968lele.com
 127.0.0.1 e.a907907.com
@@ -359,6 +363,7 @@
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 fflsn.com
 127.0.0.1 ffre.ffrepair.com
+127.0.0.1 flv.ytshuirun.com
 127.0.0.1 freespace.juchaojie.com
 127.0.0.1 fsjsp.com
 127.0.0.1 fssl.caohua.com
@@ -653,6 +658,7 @@
 127.0.0.1 ke.qzdag.com
 127.0.0.1 keryt.jnservo.com
 127.0.0.1 kiki.ykjmy.com
+127.0.0.1 kiss.blockplus.cc
 127.0.0.1 kiss.cncy8.com
 127.0.0.1 kk.doudouldy.com
 127.0.0.1 kkyy.liliyy.com
@@ -754,6 +760,7 @@
 127.0.0.1 m.kzqcs.com
 127.0.0.1 m.laigame7.net
 127.0.0.1 m.laikahotel.com
+127.0.0.1 m.lovefz.com
 127.0.0.1 m.lovezhishou.com
 127.0.0.1 m.lyjz001.com
 127.0.0.1 m.maidiankeji.org
@@ -929,6 +936,7 @@
 127.0.0.1 py.wikigifth.com
 127.0.0.1 q.0451106.com
 127.0.0.1 q.ox11.com
+127.0.0.1 qb.haikangsj.com
 127.0.0.1 qb.xindream.cn
 127.0.0.1 qd.maskbaby.com.cn
 127.0.0.1 qd.moutaihotel.cn
