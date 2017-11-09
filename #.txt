@@ -2,6 +2,9 @@
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
+http://t1.a.market.xiaomi.com/download/AdCenter/009cd4169c14b1b92b275e0a99f89b410dd41f5fa/AdCenter009cd4169c14b1b92b275e0a99f89b410dd41f5fa.jpg
+http://ef-dongfeng.tanx.com/im?e=aZ11YqeGFUugsWqVnuydz5n6FdKEbNtOVVGGoZ1OK-QI1aHP6eqqhTnIqdvcsZwcEUPUNGTQaLJZdKoQ28RoCEQ8LpuQc2rIKMaCJGcyW1l1VpDcUSUzabT-vN9MR6dtWLta1zZVvYbPTpYbdn9PprnxsuOYJnVteRSuimxIhVKnxA781jwtVJBtaVtjUacF-Q7W2NKHiItLSMkEfn6sViXOP3lznZcHgTIcs54Uar5R0Hfgw5rsWqiXr_Ce_wR6iNs_8nOVkBSG0LZPcaOlQNg2foItSYr7raHRQlGyTCA0BUQFPKVMEA&k=311
+http://t5.a.market.xiaomi.com/thumbnail/jpeg/w0q70/AdCenter/0bc1f52cf886f29a4387765cd38da9b4e9040a46b/AdCenter0bc1f52cf886f29a4387765cd38da9b4e9040a46b.jpg
 
 http://im-x.jd.com:443
 http://d.jd.com:443

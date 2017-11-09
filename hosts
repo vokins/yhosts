@@ -1,5 +1,5 @@
 
-#version=201711082206
+#version=20171110 739
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -193,6 +193,7 @@
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
 127.0.0.1 ecpm.tanx.com
+127.0.0.1 ef-dongfeng.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 phs.tanx.com
