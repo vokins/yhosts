@@ -5,3 +5,6 @@
 127.0.0.1 static.snapmobile.asia
 #www.dcfever.com
 127.0.0.1 adx.adxglobal.com
+#www.epinv.com
+127.0.0.1 a.epinv.com
+127.0.0.1 b.epinv.com
