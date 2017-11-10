@@ -5,6 +5,7 @@
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
 127.0.0.1 1178.shucong.com
+127.0.0.1 1234.jjxgly.com
 127.0.0.1 1234xm.com
 127.0.0.1 13pic.jdlhg.com
 127.0.0.1 1495039.com
@@ -315,6 +316,7 @@
 127.0.0.1 e.hfyxdl.com
 127.0.0.1 e.hurnt.com
 127.0.0.1 e.iorgb.com
+127.0.0.1 e.jdgsgl.com
 127.0.0.1 e.jkangfu.com
 127.0.0.1 e.jxxiangchu.com
 127.0.0.1 e.kimgfvz.com
@@ -561,6 +563,7 @@
 127.0.0.1 jie.mnxtu.com
 127.0.0.1 jin.hesxz.com
 127.0.0.1 jin.tajxgs.com
+127.0.0.1 jin.xcdzsw.com
 127.0.0.1 jin.xnjzsn.com
 127.0.0.1 jin.zzsno1.com
 127.0.0.1 jiu.nchte.com
@@ -710,6 +713,7 @@
 127.0.0.1 m.77vcd.com
 127.0.0.1 m.96mob.com
 127.0.0.1 m.anzhuotan.com
+127.0.0.1 m.aomde.com
 127.0.0.1 m.apmengxin.com
 127.0.0.1 m.aqiudaohang.com
 127.0.0.1 m.axiba66.com
@@ -756,6 +760,7 @@
 127.0.0.1 m.internerl.com
 127.0.0.1 m.iorgb.com
 127.0.0.1 m.itskonka.com
+127.0.0.1 m.jdgsgl.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 m.jsqinvest.com
 127.0.0.1 m.kooyum.com
@@ -1251,6 +1256,7 @@
 127.0.0.1 wazero.online
 127.0.0.1 wei.cdcsjs.com
 127.0.0.1 weixinssp.14684.com
+127.0.0.1 weld830.uunice.com
 127.0.0.1 weldc1.021ye.com
 127.0.0.1 wff.wgnmp.com
 127.0.0.1 whn.star-media.cn
