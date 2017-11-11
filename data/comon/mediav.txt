@@ -3,6 +3,7 @@
 127.0.0.1 click.mediav.com
 127.0.0.1 cm.mediav.com
 127.0.0.1 g1max.mediav.com
+127.0.0.1 g1xd.mediav.com
 127.0.0.1 item.mediav.com
 127.0.0.1 juxiao.mediav.com
 127.0.0.1 material-ssl.mediav.com

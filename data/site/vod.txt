@@ -166,3 +166,6 @@
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 valt.atm.youku.com
+#http://dongfang.letvlive.com/
+127.0.0.1 1.letvlive.com
+127.0.0.1 2.letvlive.com
