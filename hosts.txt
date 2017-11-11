@@ -4178,11 +4178,14 @@
 127.0.0.1 js.yinhaijuan.com
 127.0.0.1 js.yiwuds.com
 127.0.0.1 js.zgyemy.com
+127.0.0.1 js123.0937jyg.com
 127.0.0.1 js132.dupinpu.com
 127.0.0.1 js1516.0937jyg.com
+127.0.0.1 js1517.0937jyg.com
 127.0.0.1 js152.cnpinzhuo.com
 127.0.0.1 js1597.txjzjx.cn
 127.0.0.1 js1810.dupinpu.com
+127.0.0.1 js1811.dupinpu.com
 127.0.0.1 js205.dupinpu.com
 127.0.0.1 js257.0937jyg.com
 127.0.0.1 js3555.alitianxia168.com
