@@ -2,8 +2,15 @@
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
+http://wap.zol.com.cn/385/384973/index.html
+http://cpro.zol.com.cn/uyswvswymvxxmmqswrxv.js
+http://ydjs.zol.com.cn/zmilepr?czd=16z&rdy=0317&yd=s1y420y5&gop=frrn_18_0D_0Du-n_Yxmj_Yamk_Yal_0D163_0D162751_0Dglbcv_Yfrkj&ydn=y&kvm=034yvz17y&okm=z3zy32767y601&yx=0&ymd=y&yvd=z&knn=0317vzyy4z&kxn=0317vz05z&vmd=0&zskn=zzzyyz&kn=7675vy&vio=z&yoh=FRKJYNMQR&xzx=E9I&kdn=ZzvZz&ms8=usz0qmgdx26bb9vbo6r&tl4=wih5p1cy5dhetjfw29
 
-
+#
+http://logs.51cto.com/rizhi/count/count.js
+http://gg.51cto.com/www/delivery/lg.php?bannerid=3546&campaignid=780&zoneid=631&loc=1&referer=http%3A%2F%2Fwww.51cto.com%2Fart%2F201704%2F537009.htm&cb=9865c32054
+http://gg2.51cto.com/www/delivery/lg.php?bannerid=3717&campaignid=779&zoneid=594&loc=1&referer=http%3A%2F%2Fwww.51cto.com%2Fart%2F201704%2F537009.htm&cb=e93ad2dc2c
+http://gg3.51cto.com/www/delivery/lg.php?bannerid=3933&campaignid=780&zoneid=270&loc=1&referer=http%3A%2F%2Fwww.51cto.com%2Fart%2F201704%2F537009.htm&cb=5c8b0dc9cc
 
 https://zx.baosmx.com/55359
 

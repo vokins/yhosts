@@ -1,3 +1,8 @@
+#51cto.com
+127.0.0.1 gg.51cto.com
+127.0.0.1 gg2.51cto.com
+127.0.0.1 gg3.51cto.com
+127.0.0.1 logs.51cto.com
 #admin5.com
 127.0.0.1 100.admin5.com
 #android.18183.com
@@ -125,8 +130,7 @@
 127.0.0.1 stat.zdnet.com.cn
 #zol.com.cn
 127.0.0.1 api.zol.com
-127.0.0.1 afp.zol-img.com.cn
-127.0.0.1 pic.zol-img.com.cn
+127.0.0.1 cpro.zol.com.cn
 127.0.0.1 dynamic.zol.com.cn
 127.0.0.1 imp.zol.com.cn
 127.0.0.1 pv.zol.com.cn
@@ -135,5 +139,8 @@
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
 127.0.0.1 stat.zol.com.cn
+127.0.0.1 ydjs.zol.com.cn
+127.0.0.1 afp.zol-img.com.cn
+127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn

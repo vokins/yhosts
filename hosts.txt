@@ -1452,6 +1452,11 @@
 127.0.0.1 img.tan5858.com
 127.0.0.1 img1.tan5858.com
 127.0.0.1 maccms.tan5858.com
+#51cto.com
+127.0.0.1 gg.51cto.com
+127.0.0.1 gg2.51cto.com
+127.0.0.1 gg3.51cto.com
+127.0.0.1 logs.51cto.com
 #admin5.com
 127.0.0.1 100.admin5.com
 #android.18183.com
@@ -1579,8 +1584,7 @@
 127.0.0.1 stat.zdnet.com.cn
 #zol.com.cn
 127.0.0.1 api.zol.com
-127.0.0.1 afp.zol-img.com.cn
-127.0.0.1 pic.zol-img.com.cn
+127.0.0.1 cpro.zol.com.cn
 127.0.0.1 dynamic.zol.com.cn
 127.0.0.1 imp.zol.com.cn
 127.0.0.1 pv.zol.com.cn
@@ -1589,6 +1593,9 @@
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
 127.0.0.1 stat.zol.com.cn
+127.0.0.1 ydjs.zol.com.cn
+127.0.0.1 afp.zol-img.com.cn
+127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
 #www.asqql.com
@@ -3720,6 +3727,7 @@
 127.0.0.1 can.hbttcc.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 cb.h5.coffeedak.cn
+127.0.0.1 cc.idasui.cn
 127.0.0.1 cc.st123.info
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 cc.yfi052.pw
@@ -4690,6 +4698,7 @@
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 sub.alisinak.com
 127.0.0.1 sube.puwangkj.com
+127.0.0.1 suixingfu.guluw.com
 127.0.0.1 sv719.dreamdays.cn
 127.0.0.1 sva88.czjiuding.cn
 127.0.0.1 swappdl.duoyi.com
@@ -5068,6 +5077,7 @@
 127.0.0.1 y.5125129.com
 127.0.0.1 y.97kuaixiu.com
 127.0.0.1 y.dali517.com
+127.0.0.1 y.fm6w.com
 127.0.0.1 y.gwylm.com
 127.0.0.1 y.gyhzr.com
 127.0.0.1 y.nvrentao8.com
