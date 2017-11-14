@@ -1,5 +1,5 @@
 
-#version=201711141341
+#version=201711141405
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2161,6 +2161,8 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
+#rrys
+127.0.0.1 pat.farvd.com
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -2366,6 +2368,7 @@
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com

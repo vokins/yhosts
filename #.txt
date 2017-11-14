@@ -5,6 +5,24 @@
 http://wap.zol.com.cn/385/384973/index.html
 http://cpro.zol.com.cn/uyswvswymvxxmmqswrxv.js
 http://ydjs.zol.com.cn/zmilepr?czd=16z&rdy=0317&yd=s1y420y5&gop=frrn_18_0D_0Du-n_Yxmj_Yamk_Yal_0D163_0D162751_0Dglbcv_Yfrkj&ydn=y&kvm=034yvz17y&okm=z3zy32767y601&yx=0&ymd=y&yvd=z&knn=0317vzyy4z&kxn=0317vz05z&vmd=0&zskn=zzzyyz&kn=7675vy&vio=z&yoh=FRKJYNMQR&xzx=E9I&kdn=ZzvZz&ms8=usz0qmgdx26bb9vbo6r&tl4=wih5p1cy5dhetjfw29
+http://sdk.cferw.com/sdkapi.php
+http://sdk.cferw.com/preload.php
+http://pat.farvd.com/uploads/picture/2016/10/16/1508120947.jpg
+http://pat.farvd.com/uploads/picture/2016/10/12/1507775529.jpg
+http://sdk.cferw.com/sdkreapi.php
+http://api.exc.mob.com/errconf
+http://sdksitter.m.sjzhushou.com/sdk/verify
+http://api.share.mob.com/conn
+http://api.share.mob.com/snsconf
+http://sdk.cferw.com/versiontapi.php?v=9&type=7
+http://alog.umeng.com/app_logs
+http://api.share.mob.com/conf5
+http://uop.umeng.com:443
+http://m.data.mob.com/v2/cconf?appkey=a85f8007e044&plat=1&apppkg=com.yyets.pro&appver=2.4.2&networktype=wifi&duid=5eabaa3e1b73f5abc9b3b7501b6f1687f7e8923a
+http://devs.data.mob.com/dinfo
+http://devs.data.mob.com/dsign
+http://c.data.mob.com/v2/cdata
+http://api.share.mob.com/log4
 
 #
 http://logs.51cto.com/rizhi/count/count.js
