@@ -2805,6 +2805,9 @@
 127.0.0.1 a.yjbys.com
 127.0.0.1 abc.yjbys.com
 127.0.0.1 d.yjbys.com
+#baike.com
+127.0.0.1 ehd.baike.com
+127.0.0.1 ll.hudong.com
 #edu.jobui.com
 127.0.0.1 bd2.jobui.com
 127.0.0.1 bd3.jobui.com
@@ -4280,6 +4283,7 @@
 127.0.0.1 li.fszhxd.com
 127.0.0.1 lin.internetofthings-china.com
 127.0.0.1 link.yida558.com
+127.0.0.1 lkme.cc
 127.0.0.1 log.kuaigeng.com
 127.0.0.1 lol.pnhfc.com
 127.0.0.1 love.66san.com
@@ -4654,6 +4658,7 @@
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 sdk.appadhoc.com
 127.0.0.1 seen.h01ce.cn
+127.0.0.1 seen.ttfgames.cn
 127.0.0.1 sese.chmae.com
 127.0.0.1 sha.hnasd.com
 127.0.0.1 sha.qjjtc.com
@@ -4863,6 +4868,7 @@
 127.0.0.1 weixinssp.14684.com
 127.0.0.1 weld830.uunice.com
 127.0.0.1 weldc1.021ye.com
+127.0.0.1 wen.jshbyn.com
 127.0.0.1 wff.wgnmp.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 wm.20150.net

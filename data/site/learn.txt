@@ -2,6 +2,9 @@
 127.0.0.1 a.yjbys.com
 127.0.0.1 abc.yjbys.com
 127.0.0.1 d.yjbys.com
+#baike.com
+127.0.0.1 ehd.baike.com
+127.0.0.1 ll.hudong.com
 #edu.jobui.com
 127.0.0.1 bd2.jobui.com
 127.0.0.1 bd3.jobui.com

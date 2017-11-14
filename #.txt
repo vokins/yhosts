@@ -1,4 +1,17 @@
-﻿#xunlei
+﻿http://ehd.baike.com",
+http://ll.hudong.com/flux.js?57fc5b1de6563e05ea50c4a1
+http://ppx.hgo7r.cn/20600758147cb8d5a1b87b05aa14ace9
+http://seen.ttfgames.cn/img/34/cx/10660.png
+http://www.lyztdz.com/blog/pv8852?blog_id=6847&pid=5235&uid=6053&tc_id=6065&tpl_id=5032&plan_type=CPM&planuid=1002&site_id=0&user_ip=39.76.222.174&base_cookies=MTUxMDY3MTU0NjAyNw==&browser=534.30&ver=0&kernel=Android%204.1.1&modle_name=%20MI2&system_version=Android:4.1.1.
+https://lkme.cc/js/linkedme.min.js
+https://wen.jshbyn.com/img/shenwu/noc/27/640x150.gif
+https://www.wcnmd.top/img/8852
+http://www.lyztdz.com/blog/pv8852?blog_id=6847&pid=5235&uid=6053&tc_id=6065&tpl_id=5032&plan_type=CPM&planuid=1002&site_id=0&user_ip=39.76.222.174&base_cookies=MTUxMDY3MTU0NjAyNw==&browser=534.30&ver=0&kernel=Android 4.1.1&modle_name= MI2&system_version=Android:4.1.1';
+http://www.yunxuu.com/blog/c8852?blogid=6847&siteid=0&uid=6053&pid=5235&userip=39.76.222.174&tpl_id=5032&plantype=CPM&planuid=1002",
+http://a.cn.duoyi.com/rewrite?fromid=2301094510245",
+
+
+#xunlei
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 127.0.0.1 upgrade.xl9.xunlei.com
