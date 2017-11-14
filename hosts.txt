@@ -727,6 +727,7 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
@@ -1464,6 +1465,9 @@
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#anzhi.com
+127.0.0.1 fd.anzhi.com
+127.0.0.1 pv.anzhi.com
 #base64.xpcha.com
 127.0.0.1 www.pikacn.com
 #bbs.hiapk.com
@@ -5809,6 +5813,9 @@
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 extmoney.i1608.com
+127.0.0.1 yun.lvehaisen.com
+127.0.0.1 api.bailingjiankang.com
+127.0.0.1 m.bailingjiankang.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

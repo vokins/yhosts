@@ -10,6 +10,9 @@
 #anquan
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
+#anzhi.com
+127.0.0.1 fd.anzhi.com
+127.0.0.1 pv.anzhi.com
 #base64.xpcha.com
 127.0.0.1 www.pikacn.com
 #bbs.hiapk.com

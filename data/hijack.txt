@@ -215,6 +215,9 @@
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 extmoney.i1608.com
+127.0.0.1 yun.lvehaisen.com
+127.0.0.1 api.bailingjiankang.com
+127.0.0.1 m.bailingjiankang.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
