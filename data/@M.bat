@@ -1,4 +1,6 @@
-ver=14:15 2017/11/3/周五
+%1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
+cd /d "%~dp0"
+ver=14:30 2017/11/15/周三
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00

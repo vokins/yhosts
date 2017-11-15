@@ -556,6 +556,7 @@
 127.0.0.1 j.bjyikao.org
 127.0.0.1 j.dotimg.cn
 127.0.0.1 j.fzjycj.com
+127.0.0.1 j.jimeilm.com
 127.0.0.1 j.jqbee.com
 127.0.0.1 j.klsdmr.com
 127.0.0.1 j.mvywgw.cn
@@ -1429,6 +1430,7 @@
 127.0.0.1 www.lessplay.com
 127.0.0.1 www.lhafy.com
 127.0.0.1 www.lhzgqc.com
+127.0.0.1 www.liangao.com
 127.0.0.1 www.liangao.com
 127.0.0.1 www.lovfp.com
 127.0.0.1 www.lx167.com

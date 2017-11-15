@@ -911,9 +911,11 @@
 #jointreport-switch.com
 127.0.0.1 demo.jointreport-switch.com
 127.0.0.1 lg2.jointreport-switch.com
+127.0.0.1 lg4.jointreport-switch.com
 127.0.0.1 media-static.jointreport-switch.com
 127.0.0.1 media.jointreport-switch.com
 127.0.0.1 popup.jointreport-switch.com
+127.0.0.1 safe-aisle.jointreport-switch.com
 127.0.0.1 static.jointreport-switch.com
 #jpush
 127.0.0.1 www.jpush.cn
