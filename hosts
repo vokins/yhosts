@@ -1,5 +1,5 @@
 
-#version=201711151430
+#version=201711191547
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2500,7 +2500,11 @@
 127.0.0.1 go.hangzhou.com.cn
 #zhe-zj.com
 127.0.0.1 ggg.zj.com
-#m.69shuwu.com
+127.0.0.1 sm1.todgo.com
+127.0.0.1 sm2.todgo.com
+127.0.0.1 coro.benbaisteel.com
+127.0.0.1 dfc1.benbaisteel.com
+127.0.0.1 hyfh.benbaisteel.com#m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
 #m.7788xs.cc
@@ -2864,6 +2868,17 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 m.vvnna.com
+127.0.0.1 m.wxmg2016.com
+127.0.0.1 e.wxmg2016.com
+127.0.0.1 m.kteyz.com
+127.0.0.1 e.kteyz.com
+127.0.0.1 y.2013sh.com
+127.0.0.1 m.bslmw.com
+127.0.0.1 b.2013sh.com
+127.0.0.1 js.pyangzi.com
+127.0.0.1 raeqqe.cn
+127.0.0.1 html.yuntzs.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -3779,7 +3794,6 @@
 127.0.0.1 code.jojomu.com
 127.0.0.1 code.ttpaper.com
 127.0.0.1 code.wantaico.com
-127.0.0.1 coro.benbaisteel.com
 127.0.0.1 count.qiqipower.com
 127.0.0.1 count.wk2.com
 127.0.0.1 cp.ggyapp.com
@@ -3826,7 +3840,6 @@
 127.0.0.1 dd.520zhai.net
 127.0.0.1 dd.70yst.com
 127.0.0.1 dddddd.diaobanstudio.com
-127.0.0.1 dfc1.benbaisteel.com
 127.0.0.1 dfx.shhuixiangwuliu.com
 127.0.0.1 dfx.xiaoyuanzuqiu.cn
 127.0.0.1 di.mmhhjt.com
@@ -4004,7 +4017,6 @@
 127.0.0.1 huhu.jzm81.com
 127.0.0.1 husp.cccccd.com
 127.0.0.1 hxgccl.cn
-127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 i.9le.net
 127.0.0.1 i.cpc163.com
 127.0.0.1 i.hao61.net

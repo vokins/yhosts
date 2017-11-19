@@ -1,0 +1,11 @@
+127.0.0.1 m.vvnna.com
+127.0.0.1 m.wxmg2016.com
+127.0.0.1 e.wxmg2016.com
+127.0.0.1 m.kteyz.com
+127.0.0.1 e.kteyz.com
+127.0.0.1 y.2013sh.com
+127.0.0.1 m.bslmw.com
+127.0.0.1 b.2013sh.com
+127.0.0.1 js.pyangzi.com
+127.0.0.1 raeqqe.cn
+127.0.0.1 html.yuntzs.com

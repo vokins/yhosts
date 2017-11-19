@@ -1,0 +1,5 @@
+127.0.0.1 sm1.todgo.com
+127.0.0.1 sm2.todgo.com
+127.0.0.1 coro.benbaisteel.com
+127.0.0.1 dfc1.benbaisteel.com
+127.0.0.1 hyfh.benbaisteel.com
