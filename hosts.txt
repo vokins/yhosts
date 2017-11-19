@@ -2432,6 +2432,10 @@
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
+127.0.0.1 renren2.maoyun.tv
+127.0.0.1 app.xysryh.com
+127.0.0.1 qp.yunanfuwuqi.com
+127.0.0.1 a.ecook.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn

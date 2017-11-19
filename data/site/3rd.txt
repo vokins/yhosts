@@ -1,0 +1,4 @@
+127.0.0.1 renren2.maoyun.tv
+127.0.0.1 app.xysryh.com
+127.0.0.1 qp.yunanfuwuqi.com
+127.0.0.1 a.ecook.cn
