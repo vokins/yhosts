@@ -1952,7 +1952,6 @@
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
 127.0.0.1 image.zzd.sm.cn
-127.0.0.1 api.open.uc.cn
 127.0.0.1 g.aligames.com
 #2344.com
 127.0.0.1 bdjs.2344.com
@@ -2887,6 +2886,10 @@
 127.0.0.1 js412.0937jyg.com
 127.0.0.1 mad.kuuad.com
 127.0.0.1 pic2016.5442.com
+127.0.0.1 e.xkanf.com
+127.0.0.1 m.quldu.com
+127.0.0.1 m.xkanf.com
+127.0.0.1 y.hzht666.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

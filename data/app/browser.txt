@@ -91,5 +91,4 @@
 127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
 127.0.0.1 image.zzd.sm.cn
-127.0.0.1 api.open.uc.cn
 127.0.0.1 g.aligames.com
