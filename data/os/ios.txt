@@ -1,2 +1,4 @@
 #itunes-radio
 127.0.0.1 iadctest.qwapi.com
+#unknow
+127.0.0.1 r.myadx.net

@@ -1,5 +1,5 @@
 
-#version=201712041646
+#version=201712042138
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1706,6 +1706,8 @@
 127.0.0.1 aider-res.meizu.com
 #itunes-radio
 127.0.0.1 iadctest.qwapi.com
+#unknow
+127.0.0.1 r.myadx.net
 #http://mac.xunlei.com/
 127.0.0.1 liveupdate.mac.sandai.net
 #cm-adfuture
