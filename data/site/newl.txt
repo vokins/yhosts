@@ -46,6 +46,4 @@
 127.0.0.1 y.dingdianzw.com
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 www.jx5m.com
-127.0.0.1 s.hzht666.com
-127.0.0.1 vip.qqxwf.com
-127.0.0.1 s1.521daixiao.com
+127.0.0.1 www.wancai.com

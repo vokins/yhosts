@@ -1371,6 +1371,7 @@
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
 127.0.0.1 g.rs.yoyi.com.cn
+127.0.0.1 h.sora.yoyi.com.cn
 127.0.0.1 log2.air.yoyi.com.cn
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn

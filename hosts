@@ -1,5 +1,5 @@
 
-#version=201712042138
+#version=20171205 903
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2440,6 +2440,13 @@
 127.0.0.1 app.xysryh.com
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 a.ecook.cn
+127.0.0.1 s.hzht666.com
+127.0.0.1 vip.qqxwf.com
+127.0.0.1 s1.521daixiao.com
+127.0.0.1 ad.lqalm.com
+127.0.0.1 js.feitian001.com
+127.0.0.1 ss.swagger1.com
+127.0.0.1 xs.swagger1.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -2921,9 +2928,7 @@
 127.0.0.1 y.dingdianzw.com
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 www.jx5m.com
-127.0.0.1 s.hzht666.com
-127.0.0.1 vip.qqxwf.com
-127.0.0.1 s1.521daixiao.com
+127.0.0.1 www.wancai.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -7269,6 +7274,7 @@
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
 127.0.0.1 g.rs.yoyi.com.cn
+127.0.0.1 h.sora.yoyi.com.cn
 127.0.0.1 log2.air.yoyi.com.cn
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 mapping.yoyi.com.cn
@@ -7305,6 +7311,7 @@
 127.0.0.1 su.addthis.com
 #adinall.com
 127.0.0.1 ads.adinall.com
+127.0.0.1 app-tj.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
 #adjust.com

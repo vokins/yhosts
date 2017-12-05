@@ -18,6 +18,7 @@
 127.0.0.1 su.addthis.com
 #adinall.com
 127.0.0.1 ads.adinall.com
+127.0.0.1 app-tj.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
 #adjust.com
