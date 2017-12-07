@@ -2926,6 +2926,18 @@
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 www.jx5m.com
 127.0.0.1 www.wancai.com
+127.0.0.1 j0.jegxny.com
+127.0.0.1 m8t1130.gaolen.com
+127.0.0.1 vj.x-ssp.com
+127.0.0.1 cc.700ok.net
+127.0.0.1 code.hajuwang.cn
+127.0.0.1 ed.sczhilong.cn
+127.0.0.1 g.zx-jsp.com
+127.0.0.1 js412.yexfes.com
+127.0.0.1 sdn.penggua.com.cn
+127.0.0.1 shke.kuuad.com
+127.0.0.1 uc.haoyunyuan.cc
+127.0.0.1 yigojo.iae365.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
