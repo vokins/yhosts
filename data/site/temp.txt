@@ -1428,7 +1428,6 @@
 127.0.0.1 www.lhafy.com
 127.0.0.1 www.lhzgqc.com
 127.0.0.1 www.liangao.com
-127.0.0.1 www.liangao.com
 127.0.0.1 www.lovfp.com
 127.0.0.1 www.lx167.com
 127.0.0.1 www.lynndollin.com

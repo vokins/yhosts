@@ -3,3 +3,5 @@
 127.0.0.1 coro.benbaisteel.com
 127.0.0.1 dfc1.benbaisteel.com
 127.0.0.1 hyfh.benbaisteel.com
+127.0.0.1 bdjs.58news.org
+127.0.0.1 bddm.58news.org

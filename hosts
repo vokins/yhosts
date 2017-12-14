@@ -1,5 +1,5 @@
 
-#version=201712071256
+#version=201712142304
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2516,7 +2516,10 @@
 127.0.0.1 sm2.todgo.com
 127.0.0.1 coro.benbaisteel.com
 127.0.0.1 dfc1.benbaisteel.com
-127.0.0.1 hyfh.benbaisteel.com#m.69shuwu.com
+127.0.0.1 hyfh.benbaisteel.com
+127.0.0.1 bdjs.58news.org
+127.0.0.1 bddm.58news.org
+#m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
 #m.7788xs.cc
@@ -2941,6 +2944,29 @@
 127.0.0.1 shke.kuuad.com
 127.0.0.1 uc.haoyunyuan.cc
 127.0.0.1 yigojo.iae365.com
+127.0.0.1 abc.88shu.cn
+127.0.0.1 a.vlion.cn
+127.0.0.1 adx.88shu.cn
+127.0.0.1 adx.dlads.cn
+127.0.0.1 erwqw.zh1155.com
+127.0.0.1 gg.kkcaicai.com
+127.0.0.1 loldy.jiangmg.com
+127.0.0.1 e.lvyishengtai.com
+127.0.0.1 e.meooe.com
+127.0.0.1 e.tianxiazhenji.com
+127.0.0.1 ibafnw.cn
+127.0.0.1 in.bjgtsh.com
+127.0.0.1 js412.yqjxzw.com
+127.0.0.1 js74.yqjxzw.com
+127.0.0.1 ld.shouhou100.com
+127.0.0.1 m.lvyishengtai.com
+127.0.0.1 m.meooe.com
+127.0.0.1 m.pptte.com
+127.0.0.1 m.tianxiazhenji.com
+127.0.0.1 m.wshufa.com
+127.0.0.1 s.bjgtsh.com
+127.0.0.1 sui.cdgjxt.com
+127.0.0.1 uqum.52shouyou.com.cn
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -5066,7 +5092,6 @@
 127.0.0.1 www.lessplay.com
 127.0.0.1 www.lhafy.com
 127.0.0.1 www.lhzgqc.com
-127.0.0.1 www.liangao.com
 127.0.0.1 www.liangao.com
 127.0.0.1 www.lovfp.com
 127.0.0.1 www.lx167.com
