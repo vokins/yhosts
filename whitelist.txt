@@ -3,6 +3,13 @@ http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 127.0.0.1 web-disp1.titan.mgtv.com
 127.0.0.1 web-disp2.titan.mgtv.com
 
+
+百度手机助手下载
+#http://pan.baidu.com/
+127.0.0.1 appc.baidu.com
+127.0.0.1 hmma.baidu.com
+127.0.0.1 dxp.baidu.com
+
 http://api.open.uc.cn
 会导致交易猫无法购买
 
