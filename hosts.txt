@@ -2512,6 +2512,14 @@
 127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 bdjs.58news.org
 127.0.0.1 bddm.58news.org
+127.0.0.1 jian1.juqingba.cn
+127.0.0.1 wuliao.juqingba.cn
+127.0.0.1 bd1.flfgw.cn
+127.0.0.1 bd2.flfgw.cn
+127.0.0.1 bd1.home8080.cn
+127.0.0.1 bd2.home8080.cn
+127.0.0.1 js.daxueshengqiandai.com
+127.0.0.1 ssp.daxueshengqiandai.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
@@ -2960,6 +2968,15 @@
 127.0.0.1 s.bjgtsh.com
 127.0.0.1 sui.cdgjxt.com
 127.0.0.1 uqum.52shouyou.com.cn
+127.0.0.1 js6878.bjyikao.org
+127.0.0.1 v.szpaopao.com
+127.0.0.1 e.diogv.com
+127.0.0.1 e.jingonghuanbao.com
+127.0.0.1 img.kanuxian.cn
+127.0.0.1 m.diogv.com
+127.0.0.1 m.jingonghuanbao.com
+127.0.0.1 m.qusub.com
+127.0.0.1 p.ynjczy.net
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

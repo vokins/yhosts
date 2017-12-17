@@ -5,3 +5,11 @@
 127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 bdjs.58news.org
 127.0.0.1 bddm.58news.org
+127.0.0.1 jian1.juqingba.cn
+127.0.0.1 wuliao.juqingba.cn
+127.0.0.1 bd1.flfgw.cn
+127.0.0.1 bd2.flfgw.cn
+127.0.0.1 bd1.home8080.cn
+127.0.0.1 bd2.home8080.cn
+127.0.0.1 js.daxueshengqiandai.com
+127.0.0.1 ssp.daxueshengqiandai.com
