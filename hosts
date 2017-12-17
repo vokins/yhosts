@@ -1,5 +1,5 @@
 
-#version=201712172018
+#version=201712172032
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1183,6 +1183,7 @@
 127.0.0.1 www.cubcc.com
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
+127.0.0.1 www.taoev.com
 #buy
 127.0.0.1 yhd.com
 127.0.0.1 www.yhd.com
@@ -2980,6 +2981,10 @@
 127.0.0.1 m.jingonghuanbao.com
 127.0.0.1 m.qusub.com
 127.0.0.1 p.ynjczy.net
+127.0.0.1 chjxzk.1555110.cn
+127.0.0.1 f1.luoshenbest.cn
+127.0.0.1 lm.souid.com
+127.0.0.1 nai.cpxkvc.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

@@ -91,3 +91,7 @@
 127.0.0.1 m.jingonghuanbao.com
 127.0.0.1 m.qusub.com
 127.0.0.1 p.ynjczy.net
+127.0.0.1 chjxzk.1555110.cn
+127.0.0.1 f1.luoshenbest.cn
+127.0.0.1 lm.souid.com
+127.0.0.1 nai.cpxkvc.com
