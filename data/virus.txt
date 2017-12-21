@@ -174,3 +174,14 @@
 127.0.0.1 xpjkf888.com
 127.0.0.1 xx.popo.6615871.com
 127.0.0.1 xz.ercfh.com
+127.0.0.1 index.woai310.com
+127.0.0.1 splog.ccvfast.top
+127.0.0.1 www.iiewl.com
+127.0.0.1 www.jj123.com.cn
+127.0.0.1 u.raidmedia.com.cn
+127.0.0.1 update.bainv.net
+127.0.0.1 u.yizuya.com
+127.0.0.1 p.raidmedia.com.cn
+127.0.0.1 tactics.bainv.net
+127.0.0.1 p.yizuya.com
+127.0.0.1 c2.58toto.net

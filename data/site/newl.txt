@@ -95,3 +95,8 @@
 127.0.0.1 f1.luoshenbest.cn
 127.0.0.1 lm.souid.com
 127.0.0.1 nai.cpxkvc.com
+127.0.0.1 code1f.m.shushu8.com
+127.0.0.1 e.resmv.com
+127.0.0.1 edu.www.dingdianzw.com
+127.0.0.1 d.danangmo.cn
+127.0.0.1 jbflil.cn
