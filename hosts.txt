@@ -5310,7 +5310,6 @@
 127.0.0.1 log.vdinfo.baofeng.com
 127.0.0.1 logger.treexml.baofeng.com
 127.0.0.1 midinfo.baofeng.com
-127.0.0.1 newapi.shouji.baofeng.com
 127.0.0.1 p2pmid.baofeng.com
 127.0.0.1 pvlog.hd.baofeng.com
 127.0.0.1 sclog.moviebox.baofeng.com

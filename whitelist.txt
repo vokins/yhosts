@@ -12,6 +12,8 @@ vidown 升级
 127.0.0.1 hmma.baidu.com
 127.0.0.1 dxp.baidu.com
 
+newapi.shouji.baofeng.com fix baofeng
+
 http://api.open.uc.cn
 会导致交易猫无法购买
 
