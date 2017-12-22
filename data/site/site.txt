@@ -11,11 +11,6 @@
 127.0.0.1 rank.hit.china.com
 127.0.0.1 sssvd.china.com
 127.0.0.1 track.china.com
-#www.ifeng.com
-127.0.0.1 dol.deliver.ifeng.com
-127.0.0.1 dolphin.deliver.ifeng.com
-127.0.0.1 ids.deliver.ifeng.com
-127.0.0.1 ifengad.3g.ifeng.com
 #www.tom.com
 127.0.0.1 adserve2.tom.com
 127.0.0.1 js.pub.tom.com

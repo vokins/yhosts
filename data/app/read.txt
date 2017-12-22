@@ -13,11 +13,17 @@
 127.0.0.1 api.iapps.ifeng.com
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 stadig0.ifeng.com
+127.0.0.1 dmpclick.deliver.ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 ids.deliver.ifeng.com
+127.0.0.1 ids1.deliver.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 iis3g.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 stadig.ifeng.com
-127.0.0.1 stadig0.ifeng.com
 127.0.0.1 c0.ifengimg.com
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 js.51taifu.com
@@ -40,8 +46,12 @@
 127.0.0.1 imgad.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
-127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
+127.0.0.1 ib.snssdk.com
+127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.bytedance.com
+127.0.0.1 dm.pstatp.com
 127.0.0.1 pb3.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com

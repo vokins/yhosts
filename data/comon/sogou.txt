@@ -1,11 +1,13 @@
 #sohu
 127.0.0.1 3rd.t.sohu.com
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 ad.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 suvset.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 t.ads.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com

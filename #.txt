@@ -3,7 +3,15 @@ http://sdkconfig.ad.xiaomi.com:443
 http://zeus.ad.xiaomi.com:443
 http://m.irs01.com:443
 http://irs01.com/hvt?_ua=UA-iqiyi-140001&_t=i&_z=m&imei=OgxfS80VMlOt5afrkKFCtYvxEgUcDVMab2GOqehj8%2BsuVw%2F9ALinpP41kVM5XBswZZNcP%2BAllmlZxKbnlPZRvg%3D%3D&mac=opxD3Xiki3WORXrvoW4J7LV7SXet6SQGm4d44AHLNzNtrObtUKsVCymPMyFzTwLGa0X0b5I6L2ZISDsfSMx6mA%3D%3D&androidid=IwmJ5f1gXTRe5oG1Lje%2FJLvt1%2FuYBDhC5KGHt5n9sn0TalX3wR3cRxlIC92c8ZzsBDH8Gxur%2BxAOAKXM1R5A3A%3D%3D&os_version=6.0.1&sr=1080*1920&device_name=Redmi+Note+3+Xiaomi&encrypt=1&os=0&qyidv2=0775435B687B8CF326D6DF25527303F4&type=start&v_id=874217700&upid=99405e28a43fdd70f7cdcc496cdb769b&spend=0&ts=1513945982918&len=0&aqyid=3496de2617c87599697c4f042dbb7bf6_7806653756c36519_B0ZE2Z35ZF3Z26ZC5&pps=0&pu=2518352047&cupid_uid=3496de2617c87599697c4f042dbb7bf6&secure_p=GPhone_player_apk_xiaomi&lang=zh_CN&app_lm=cn&req_times=0&req_sn=1513945982925
+http://ib.snssdk.com/api/ad/canvas/preload/v2/?iid=20491508571&device_id=43692157423&ac=wifi&channel=xiaomi&aid=13&app_name=news_article&version_code=650&version_name=6.5.0&device_platform=android&ab_client=a1%2Cc4%2Ce1%2Cf2%2Cg2%2Cf7&ab_feature=94563%2C102749&abflag=3&ssmix=a&device_type=Redmi+5+Plus&device_brand=xiaomi&language=zh&os_api=25&os_version=7.1.2&uuid=866399038591243&openudid=b025e5a1752d70aa&manifest_version_code=650&resolution=1080*2030&dpi=440&update_version_code=65007&_rticket=1513949609038&plugin=0&rom_version=miui_v9_v9.0.4.0.negcnei
+http://ib.snssdk.com/api/ad/share/v1/?iid=20491508571&device_id=43692157423&ac=wifi&channel=xiaomi&aid=13&app_name=news_article&version_code=650&version_name=6.5.0&device_platform=android&ab_client=a1%2Cc4%2Ce1%2Cf2%2Cg2%2Cf7&ab_feature=94563%2C102749&abflag=3&ssmix=a&device_type=Redmi+5+Plus&device_brand=xiaomi&language=zh&os_api=25&os_version=7.1.2&uuid=866399038591243&openudid=b025e5a1752d70aa&manifest_version_code=650&resolution=1080*2030&dpi=440&update_version_code=65007&_rticket=1513949609039&plugin=0&rom_version=miui_v9_v9.0.4.0.negcnei
+http://ib.snssdk.com/api/ad/refresh/v1/?iid=20491508571&device_id=43692157423&ac=wifi&channel=xiaomi&aid=13&app_name=news_article&version_code=650&version_name=6.5.0&device_platform=android&ab_client=a1%2Cc4%2Ce1%2Cf2%2Cg2%2Cf7&ab_feature=94563%2C102749&abflag=3&ssmix=a&device_type=Redmi+5+Plus&device_brand=xiaomi&language=zh&os_api=25&os_version=7.1.2&uuid=866399038591243&openudid=b025e5a1752d70aa&manifest_version_code=650&resolution=1080*2030&dpi=440&update_version_code=65007&_rticket=1513949609048&plugin=0&rom_version=miui_v9_v9.0.4.0.negcnei
 
+http://redirect.networkbench.com:443
+
+
+
+http://t2.a.market.xiaomi.com/thumbnail/jpeg/w0q70/AdCenter/0bb05c5c79f214b0e1252ed72f0c7bb17e514cd50/AdCenter0bb05c5c79f214b0e1252ed72f0c7bb17e514cd50.jpg
 http://img.zjolcdn.com/05zjol/adcode/images/upload/201427021127026938.jpg
 http://vj.x-ssp.com/o5_bottom.js
 http://m8t1130.gaolen.com/mobile/app/640200/4548784GRFFSGFHTTR51245784.gif

@@ -27,6 +27,7 @@
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 sax.sina.com.cn
+127.0.0.1 saxn.sina.com.cn
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 sax2.sina.com.cn
 127.0.0.1 sax3.sina.com.cn
