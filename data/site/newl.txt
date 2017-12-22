@@ -100,3 +100,5 @@
 127.0.0.1 edu.www.dingdianzw.com
 127.0.0.1 d.danangmo.cn
 127.0.0.1 jbflil.cn
+127.0.0.1 m.yingchengtou.com
+127.0.0.1 e.yingchengtou.com
