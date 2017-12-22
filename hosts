@@ -1,5 +1,5 @@
 
-#version=201712222257
+#version=201712222308
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2079,6 +2079,9 @@
 127.0.0.1 agn.aty.cp45.ott.cibntv.net
 127.0.0.1 m.aty.cp45.ott.cibntv.net
 127.0.0.1 mmg.aty.cp45.ott.cibntv.net
+127.0.0.1 agn.aty.snmsohu.aisee.tv
+127.0.0.1 m.aty.snmsohu.aisee.tv
+127.0.0.1 mmg.aty.snmsohu.aisee.tv
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 xtrader-mipdx.cn.miaozhen.com
