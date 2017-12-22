@@ -20,6 +20,7 @@
 127.0.0.1 breeze.olclient.baofeng.com
 127.0.0.1 co.dtech.baofeng.com
 127.0.0.1 coop.pop.baofeng.com
+127.0.0.1 androidlog.shouji.baofeng.com
 127.0.0.1 dailylog.storm.baofeng.com
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 eventlog.hd.baofeng.com
