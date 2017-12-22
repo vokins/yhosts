@@ -13,3 +13,5 @@
 127.0.0.1 bd2.home8080.cn
 127.0.0.1 js.daxueshengqiandai.com
 127.0.0.1 ssp.daxueshengqiandai.com
+127.0.0.1 d520m.gzcl999.cn
+127.0.0.1 j520s.gzcl999.cn
