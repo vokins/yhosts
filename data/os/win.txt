@@ -13,7 +13,6 @@
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com
 #http://www.vidown.cn/
-127.0.0.1 cc.vidown.cn
 127.0.0.1 conf.vidown.cn
 127.0.0.1 gg.vidown.cn
 127.0.0.1 minisite.vidown.cn

@@ -8,59 +8,35 @@
 127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
-127.0.0.1 fw.mb.lenovomm.com
-127.0.0.1 mb.lenovomm.com
-127.0.0.1 news.mb.lenovomm.com
 127.0.0.1 ad.gtbrowser.com
-127.0.0.1 api.gtbrowser.com
-#http://m.browser.baidu.com/mb
-127.0.0.1 als.baidu.com
-127.0.0.1 afd.baidu.com
-127.0.0.1 mbrowser.bdstatic.com
 #http://mb.qq.com/
 127.0.0.1 adsense.html5.qq.com
-127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 novelsns.html5.qq.com
 127.0.0.1 pvstat.html5.qq.com
-127.0.0.1 recmd.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-127.0.0.1 zixuncooperation.html5.qq.com
-127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adsolution.imtt.qq.com
-127.0.0.1 cfg.imtt.qq.com
-127.0.0.1 soft.tbs.imtt.qq.com
-127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 canvas.gdt.qq.com
-127.0.0.1 pms.mb.qq.com
 #http://mse.360.cn/
-127.0.0.1 mbrowser.news.haosou.com
-127.0.0.1 mbrowser.news.so.com
-127.0.0.1 mbs.hao.360.cn
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
 127.0.0.1 res.qhupdate.com
 #http://mse.sogou.com/
 127.0.0.1 config.push.sogou.com
-127.0.0.1 download.zhushou.sogou.com
 127.0.0.1 pull.push.sogou.com
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
-127.0.0.1 ezine.oupeng.com
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 startup.oupeng.com
 127.0.0.1 notify.oupeng.com
-127.0.0.1 open.snssdk.com
-127.0.0.1 img.zixun.oupeng.com
-127.0.0.1 zixun.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 t.adbxb.cn
@@ -83,12 +59,3 @@
 127.0.0.1 j.wan.liebao.cn
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
-#http://www.uc.cn/
-127.0.0.1 allnews.uodoo.com
-127.0.0.1 m.uczzd.cn
-127.0.0.1 iflow.uczzd.cn
-127.0.0.1 iflow.uczzd.com
-127.0.0.1 iflow.uczzd.com.cn
-127.0.0.1 iflow.uczzd.net
-127.0.0.1 image.zzd.sm.cn
-127.0.0.1 g.aligames.com

@@ -1,4 +1,6 @@
 #baidu
+127.0.0.1 afd.baidu.com
+127.0.0.1 als.baidu.com
 127.0.0.1 api.share.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 bdimg.share.baidu.com

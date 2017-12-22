@@ -28,17 +28,23 @@
 127.0.0.1 rcv.mobad.ijinshan.com
 #miui-xiaomi
 127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
+127.0.0.1 zeus.ad.xiaomi.com
+#miui-stat
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 storeconfig.mistat.xiaomi.com
 #miui--1
 127.0.0.1 shenghuo.xiaomi.com
 #miui-browser
-127.0.0.1 mb.yidianzixun.com
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
 #miui-download
@@ -46,6 +52,7 @@
 #miui-file
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
+127.0.0.1 fb.xk.miui.com
 #miui-game
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
@@ -69,3 +76,4 @@
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 irs01.com
