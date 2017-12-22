@@ -12,6 +12,7 @@ vidown Éý¼¶
 127.0.0.1 hmma.baidu.com
 127.0.0.1 dxp.baidu.com
 
+127.0.0.1 ib.snssdk.com
 newapi.shouji.baofeng.com fix baofeng
 
 http://api.open.uc.cn

@@ -1,5 +1,5 @@
 
-#version=201712222250
+#version=201712222257
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2311,7 +2311,6 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
-127.0.0.1 ib.snssdk.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 dm.bytedance.com
 127.0.0.1 dm.pstatp.com
