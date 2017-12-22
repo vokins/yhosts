@@ -1,5 +1,5 @@
 
-#version=201712222239
+#version=201712222250
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2989,6 +2989,8 @@
 127.0.0.1 jbflil.cn
 127.0.0.1 m.yingchengtou.com
 127.0.0.1 e.yingchengtou.com
+127.0.0.1 ne.1rtb.com
+127.0.0.1 ssp.1rtb.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -5297,53 +5299,55 @@
 #http://www.baofeng.com/
 127.0.0.1 data.danmu.baofeng.com
 127.0.0.1 static.danmu.baofeng.com
-127.0.0.1 action.logger.baofeng.com
 127.0.0.1 active.baofeng.com
 127.0.0.1 breeze.olclient.baofeng.com
 127.0.0.1 co.dtech.baofeng.com
 127.0.0.1 coop.pop.baofeng.com
 127.0.0.1 androidlog.shouji.baofeng.com
-127.0.0.1 dailylog.storm.baofeng.com
-127.0.0.1 duration.logger.baofeng.com
-127.0.0.1 eventlog.hd.baofeng.com
-127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 iphonelog.shouji.baofeng.com
+127.0.0.1 dailylog.storm.baofeng.com
+127.0.0.1 eventlog.hd.baofeng.com
 127.0.0.1 log.ltype.baofeng.com
 127.0.0.1 log.nvwa.baofeng.com
-127.0.0.1 log.vdinfo.baofeng.com
 127.0.0.1 logger.treexml.baofeng.com
-127.0.0.1 midinfo.baofeng.com
 127.0.0.1 p2pmid.baofeng.com
 127.0.0.1 pvlog.hd.baofeng.com
-127.0.0.1 sclog.moviebox.baofeng.com
-127.0.0.1 storm.logger.baofeng.com
-127.0.0.1 timelog.moviebox.baofeng.com
-127.0.0.1 tips.logger.baofeng.com
-127.0.0.1 tree.logger.baofeng.com
+127.0.0.1 log.vdinfo.baofeng.com
+127.0.0.1 midinfo.baofeng.com
 127.0.0.1 vdinfo.baofeng.com
 127.0.0.1 videodown.baofeng.com
+127.0.0.1 action.logger.baofeng.com
+127.0.0.1 duration.logger.baofeng.com
+127.0.0.1 houyi.logger.baofeng.com
+127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 tips.logger.baofeng.com
+127.0.0.1 tree.logger.baofeng.com
+127.0.0.1 sclog.moviebox.baofeng.com
+127.0.0.1 timelog.moviebox.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
-127.0.0.1 app.houyi.baofeng.net
-127.0.0.1 ck.houyi.baofeng.net
-127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 config.baofeng.net
-127.0.0.1 corner.houyi.baofeng.net
-127.0.0.1 d3f.houyi.baofeng.net
-127.0.0.1 fyd.houyi.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
-127.0.0.1 loading.baofeng5.baofeng.net
-127.0.0.1 log.houyi.baofeng.net
-127.0.0.1 mid.houyi.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
 127.0.0.1 nclog.pad.baofeng.net
+127.0.0.1 loading.baofeng5.baofeng.net
 127.0.0.1 onlinetips.baofeng5.baofeng.net
-127.0.0.1 parser.houyi.baofeng.net
+127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 pvlog.moviebox.baofeng.net
 127.0.0.1 rec.moviebox.baofeng.net
+127.0.0.1 corner.houyi.baofeng.net
+127.0.0.1 app.houyi.baofeng.net
+127.0.0.1 ck.houyi.baofeng.net
+127.0.0.1 d3f.houyi.baofeng.net
+127.0.0.1 fyd.houyi.baofeng.net
+127.0.0.1 log.houyi.baofeng.net
+127.0.0.1 mid.houyi.baofeng.net
+127.0.0.1 parser.houyi.baofeng.net
 127.0.0.1 static.houyi.baofeng.net
+127.0.0.1 wbwl.houyi.baofeng.net
 127.0.0.1 web.houyi.baofeng.net
 127.0.0.1 wl.houyi.baofeng.net
+127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 #http://www.kankan.com/
 127.0.0.1 biz5.kankan.com
