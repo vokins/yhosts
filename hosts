@@ -1,5 +1,5 @@
 
-#version=20171223 037
+#version=201712232029
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -90,6 +90,8 @@
 #163-news
 127.0.0.1 e-p4p.163.com
 127.0.0.1 nex.163.com
+#163-music
+127.0.0.1 iadmat.nosdn.127.net
 #youdao
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -2995,6 +2997,8 @@
 127.0.0.1 e.yingchengtou.com
 127.0.0.1 ne.1rtb.com
 127.0.0.1 ssp.1rtb.com
+127.0.0.1 de.dzribao.com
+127.0.0.1 wwwokzyzy.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
