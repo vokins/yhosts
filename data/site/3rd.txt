@@ -9,3 +9,4 @@
 127.0.0.1 js.feitian001.com
 127.0.0.1 ss.swagger1.com
 127.0.0.1 xs.swagger1.com
+127.0.0.1 hoisin.coocaatv.com

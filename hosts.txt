@@ -2442,6 +2442,7 @@
 127.0.0.1 js.feitian001.com
 127.0.0.1 ss.swagger1.com
 127.0.0.1 xs.swagger1.com
+127.0.0.1 hoisin.coocaatv.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -2996,6 +2997,7 @@
 127.0.0.1 ssp.1rtb.com
 127.0.0.1 de.dzribao.com
 127.0.0.1 wwwokzyzy.com
+127.0.0.1 www.yqjxzw.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

@@ -45,6 +45,7 @@ m.iask.sina.com.cn
 m.kankanwu.com
 m.kewai.la
 m.kewaishu.info
+m.nenzei88.com
 m.zwda.com
 pan.meijukankan.net
 photocdn.sohu.com
@@ -94,6 +95,7 @@ www.jiang.com
 www.jiujiu6.com
 www.macromedia.com
 www.miitbeian.gov.cn
+www.nenzei88.com
 www.opensource.org
 www.qcloud.com
 www.qiushibaike.com
