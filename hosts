@@ -1,5 +1,5 @@
 
-#version=201712252134
+#version=201712252145
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2527,6 +2527,10 @@
 127.0.0.1 ssp.daxueshengqiandai.com
 127.0.0.1 d520m.gzcl999.cn
 127.0.0.1 j520s.gzcl999.cn
+127.0.0.1 bdd.hainan.net
+127.0.0.1 bds.hainan.net
+127.0.0.1 script-bd.baixing.net
+127.0.0.1 tu.baixing.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
@@ -3000,6 +3004,10 @@
 127.0.0.1 de.dzribao.com
 127.0.0.1 wwwokzyzy.com
 127.0.0.1 www.yqjxzw.com
+127.0.0.1 ssp.kxly360.com
+127.0.0.1 src.duanxin520.com
+127.0.0.1 ssp.zf313.com
+127.0.0.1 img.butanian.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -3650,6 +3658,7 @@
 #bbs.gxsky.com
 127.0.0.1 ll.gxsky.com
 #bbs.tianya.cn
+127.0.0.1 801.tianya.cn
 127.0.0.1 803.tianya.cn
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com

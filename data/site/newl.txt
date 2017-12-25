@@ -107,3 +107,7 @@
 127.0.0.1 de.dzribao.com
 127.0.0.1 wwwokzyzy.com
 127.0.0.1 www.yqjxzw.com
+127.0.0.1 ssp.kxly360.com
+127.0.0.1 src.duanxin520.com
+127.0.0.1 ssp.zf313.com
+127.0.0.1 img.butanian.com
