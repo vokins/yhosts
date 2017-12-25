@@ -1,5 +1,5 @@
 
-#version=201712242144
+#version=201712252134
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -832,7 +832,6 @@
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 wap.mpush.qq.com
 #qq-t
-127.0.0.1 pingtcss.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
