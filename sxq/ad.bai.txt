@@ -1,3 +1,4 @@
+00sy.net
 access.tv.sohu.com
 app.3987.com
 bbs.safedog.cn
@@ -6,6 +7,7 @@ cilifuli.com
 cilifuli.net
 console.qcloud.com
 download.macromedia.com
+download.xiusho.com
 fpdownload.macromedia.com
 g1.ykimg.com
 g2.ykimg.com
@@ -29,6 +31,7 @@ img34.pplive.cn
 imgcache.qq.com
 ip.ws.126.net
 itunes.apple.com
+js.meitulu.com
 js.passport.qihucdn.com
 jspassport.ssl.qhimg.com
 libs.baidu.com
@@ -45,6 +48,7 @@ m.iask.sina.com.cn
 m.kankanwu.com
 m.kewai.la
 m.kewaishu.info
+m.meituri.com
 m.nenzei88.com
 m.zwda.com
 pan.meijukankan.net
@@ -78,8 +82,11 @@ ww2.sinaimg.cn
 ww3.sinaimg.cn
 ww4.sinaimg.cn
 www.00sy.com
+www.00sy.net
+www.100huts.com
 www.5857.com
 www.66ys.tv
+www.71wx.net
 www.aguo.com
 www.baidu.com
 www.beian.gov.cn
@@ -103,10 +110,12 @@ www.qq.com
 www.rejuwang.com
 www.safedog.cn
 www.sina.com.cn
+www.taoshu8.org
 www.uuxs.net
 www.w3.org
 www.w3c.org
 www.wdlinux.cn
+www.www.00sy.net
 wx1.sinaimg.cn
 wx2.sinaimg.cn
 wx3.sinaimg.cn
