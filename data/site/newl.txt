@@ -127,4 +127,8 @@
 127.0.0.1 s.yjkyj.cn
 127.0.0.1 m.jieyixiu.com
 127.0.0.1 a.shczz.com
+127.0.0.1 ssp.kxly360.com
+127.0.0.1 src.duanxin520.com
+127.0.0.1 ssp.zf313.com
+127.0.0.1 img.butanian.com
 127.0.0.1 www.tujidao.com

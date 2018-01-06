@@ -15,3 +15,7 @@
 127.0.0.1 ssp.daxueshengqiandai.com
 127.0.0.1 d520m.gzcl999.cn
 127.0.0.1 j520s.gzcl999.cn
+127.0.0.1 bdd.hainan.net
+127.0.0.1 bds.hainan.net
+127.0.0.1 script-bd.baixing.net
+127.0.0.1 tu.baixing.com

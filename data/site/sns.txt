@@ -1,6 +1,7 @@
 #bbs.gxsky.com
 127.0.0.1 ll.gxsky.com
 #bbs.tianya.cn
+127.0.0.1 801.tianya.cn
 127.0.0.1 803.tianya.cn
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com
