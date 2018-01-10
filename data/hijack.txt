@@ -218,6 +218,14 @@
 127.0.0.1 yun.lvehaisen.com
 127.0.0.1 api.bailingjiankang.com
 127.0.0.1 m.bailingjiankang.com
+127.0.0.1 ad.dqwjzm.com
+127.0.0.1 cl.he9630.com
+127.0.0.1 cs.dqwjzm.com
+127.0.0.1 fanli.1668g.com
+127.0.0.1 md.he9630.com
+127.0.0.1 md.sh5e.com
+127.0.0.1 ss.he9630.com
+127.0.0.1 xs.he9630.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
