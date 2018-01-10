@@ -1136,8 +1136,6 @@
 127.0.0.1 mmae.qtmojo.com
 127.0.0.1 snim.qtmojo.com
 127.0.0.1 wmdeal.qtmojo.com
-127.0.0.1 mon.xtgreat.com
-127.0.0.1 www.xtgreat.com
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 2tu.qucaigg.com
@@ -1299,9 +1297,12 @@
 127.0.0.1 xdrig.com
 #xtgreat.com
 127.0.0.1 cc.xtgreat.com
+127.0.0.1 e.x.cn.xtgreat.com
 127.0.0.1 g.x.cn.xtgreat.com
 127.0.0.1 js.xtgreat.com
 127.0.0.1 s.x.cn.xtgreat.com
+127.0.0.1 mon.xtgreat.com
+127.0.0.1 www.xtgreat.com
 #xunfei
 127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ads.voiceads.cn
