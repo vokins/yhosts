@@ -6,6 +6,9 @@ cdn.bootcss.com
 cilifuli.com
 cilifuli.net
 console.qcloud.com
+m.ddbiquge.com
+m.shuyuewu.co
+qr.alipay.com
 download.macromedia.com
 download.xiusho.com
 fpdownload.macromedia.com

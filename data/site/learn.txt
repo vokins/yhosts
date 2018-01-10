@@ -8,6 +8,8 @@
 #edu.jobui.com
 127.0.0.1 bd2.jobui.com
 127.0.0.1 bd3.jobui.com
+#muchong.com
+127.0.0.1 z1hihu.xmcimg.com
 #m.gushiwen.org
 127.0.0.1 bai3.gushiwen.org
 #m.liuxiaoer.com
