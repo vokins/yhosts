@@ -41,6 +41,7 @@
 127.0.0.1 df.tanx.com
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 ef-dongfeng.tanx.com
+127.0.0.1 opehs.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 phs.tanx.com

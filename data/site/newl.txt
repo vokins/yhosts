@@ -136,3 +136,6 @@
 127.0.0.1 e.nduop.com
 127.0.0.1 s.maipubao.cn
 127.0.0.1 in.djhbxz.com
+127.0.0.1 mini.eastday.com
+127.0.0.1 toutiao.jxnews.com.cn
+127.0.0.1 tongji.wlongchina.com

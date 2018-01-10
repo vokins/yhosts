@@ -4,6 +4,10 @@
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
 127.0.0.1 jifendownload.2345.cn
+127.0.0.1 minipage.2345.com
+127.0.0.1 update.minipage.2345.com
+127.0.0.1 conf.xiniuz.com
+127.0.0.1 www.xiniuz.com
 #down-360
 127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
