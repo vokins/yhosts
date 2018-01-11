@@ -139,3 +139,7 @@
 127.0.0.1 mini.eastday.com
 127.0.0.1 toutiao.jxnews.com.cn
 127.0.0.1 tongji.wlongchina.com
+127.0.0.1 img.wuben56.com
+127.0.0.1 et.ganyite.com
+127.0.0.1 czf.cchfjz.com
+
