@@ -142,4 +142,6 @@
 127.0.0.1 img.wuben56.com
 127.0.0.1 et.ganyite.com
 127.0.0.1 czf.cchfjz.com
-
+127.0.0.1 c.mkmp365.com
+127.0.0.1 img3.qekun.com
+127.0.0.1 s.sqwscy.com

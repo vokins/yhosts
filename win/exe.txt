@@ -1,2 +1,5 @@
 2345PicMiniPage
 2345PicHomePage
+wzdh2345.exe
+install_duba.exe
+install_ksafe.exe

@@ -19,3 +19,5 @@
 127.0.0.1 bds.hainan.net
 127.0.0.1 script-bd.baixing.net
 127.0.0.1 tu.baixing.com
+127.0.0.1 abc.sundxs.com
+127.0.0.1 b.sundxs.com

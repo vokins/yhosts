@@ -1,5 +1,5 @@
 
-#version=201801112114
+#version=201801141027
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2541,6 +2541,8 @@
 127.0.0.1 bds.hainan.net
 127.0.0.1 script-bd.baixing.net
 127.0.0.1 tu.baixing.com
+127.0.0.1 abc.sundxs.com
+127.0.0.1 b.sundxs.com
 #m.69shuwu.com
 127.0.0.1 c.69shuwu.com
 127.0.0.1 s.69shuwu.com
@@ -3051,7 +3053,9 @@
 127.0.0.1 img.wuben56.com
 127.0.0.1 et.ganyite.com
 127.0.0.1 czf.cchfjz.com
-
+127.0.0.1 c.mkmp365.com
+127.0.0.1 img3.qekun.com
+127.0.0.1 s.sqwscy.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
