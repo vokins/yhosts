@@ -1,4 +1,0 @@
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 tvupgrade.yunos.com
-127.0.0.1 uuidapi.yunos.com

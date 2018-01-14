@@ -1,3 +1,0 @@
-127.0.0.1 ads.gionee.com
-127.0.0.1 pdl.gionee.com
-127.0.0.1 adres.myaora.net

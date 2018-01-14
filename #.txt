@@ -1,3 +1,14 @@
+#oppo-browser
+127.0.0.1 i.flow.browser.oppomobile.com
+127.0.0.1 imagzine.oppomobile.com
+127.0.0.1 fs.uc.nearme.com.cn
+127.0.0.1 i.stat.nearme.com.cn
+127.0.0.1 kv.stat.nearme.com.cn
+127.0.0.1 stat.browser.nearme.com.cn
+127.0.0.1 oppo.yidianzixun.com
+127.0.0.1 s.go2yd.com
+127.0.0.1 web-track.go2yd.com
+
 http://j0.jegxny.com/cpv/images/close.png
 http://sdkconfig.ad.xiaomi.com:443
 http://zeus.ad.xiaomi.com:443

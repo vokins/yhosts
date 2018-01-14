@@ -145,3 +145,10 @@
 127.0.0.1 c.mkmp365.com
 127.0.0.1 img3.qekun.com
 127.0.0.1 s.sqwscy.com
+127.0.0.1 mwa.xingyimin.com
+127.0.0.1 e.wnxcg.com
+127.0.0.1 m.ksttwz.com
+127.0.0.1 m.kewro.com
+127.0.0.1 e.ksttwz.com
+127.0.0.1 code.laojiayoufang.com
+127.0.0.1 items.bingdiantao.com
