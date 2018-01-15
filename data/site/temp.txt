@@ -742,7 +742,6 @@
 127.0.0.1 m.1680go.com
 127.0.0.1 m.24haitao.net
 127.0.0.1 m.3987.com
-127.0.0.1 m.3kw.cc
 127.0.0.1 m.77vcd.com
 127.0.0.1 m.96mob.com
 127.0.0.1 m.anzhuotan.com

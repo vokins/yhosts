@@ -21,3 +21,5 @@
 127.0.0.1 tu.baixing.com
 127.0.0.1 abc.sundxs.com
 127.0.0.1 b.sundxs.com
+127.0.0.1 lm.dawenxue.org
+127.0.0.1 img.dawenxue.org
