@@ -152,3 +152,6 @@
 127.0.0.1 e.ksttwz.com
 127.0.0.1 code.laojiayoufang.com
 127.0.0.1 items.bingdiantao.com
+127.0.0.1 maw.wnbfw.com
+127.0.0.1 m.laojiayoufang.com
+127.0.0.1 58lm.vip

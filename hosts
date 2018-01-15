@@ -1,5 +1,5 @@
 
-#version=201801141040
+#version=20180115 957
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2447,6 +2447,10 @@
 127.0.0.1 hoisin.coocaatv.com
 127.0.0.1 kovjo.com
 127.0.0.1 fzz.cloud.1234507.com
+#dygang.com
+127.0.0.1 ad.adhouyi.cn
+127.0.0.1 ad.wang502.com
+127.0.0.1 pb.wang502.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -3055,6 +3059,9 @@
 127.0.0.1 e.ksttwz.com
 127.0.0.1 code.laojiayoufang.com
 127.0.0.1 items.bingdiantao.com
+127.0.0.1 maw.wnbfw.com
+127.0.0.1 m.laojiayoufang.com
+127.0.0.1 58lm.vip
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

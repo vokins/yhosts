@@ -1,0 +1,19 @@
+#ali-yunos
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+127.0.0.1 tvupgrade.yunos.com
+127.0.0.1 uuidapi.yunos.com
+#gionee-amigo
+127.0.0.1 ads.gionee.com
+127.0.0.1 pdl.gionee.com
+127.0.0.1 adres.myaora.net
+#mokee
+127.0.0.1 stats.mokeedev.com
+#oppo-ads
+127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 bdapi.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 httpdns.push.oppomobile.com
+#xgimi
+127.0.0.1 analytics.xgimi.com

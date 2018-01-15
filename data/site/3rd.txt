@@ -12,3 +12,7 @@
 127.0.0.1 hoisin.coocaatv.com
 127.0.0.1 kovjo.com
 127.0.0.1 fzz.cloud.1234507.com
+#dygang.com
+127.0.0.1 ad.adhouyi.cn
+127.0.0.1 ad.wang502.com
+127.0.0.1 pb.wang502.com
