@@ -116,7 +116,6 @@
 127.0.0.1 analytics.atdmt.com
 127.0.0.1 api.atdmt.com
 127.0.0.1 atdmt.com
-127.0.0.1 atlasdmt.com
 127.0.0.1 c.atdmt.com
 127.0.0.1 click.atdmt.com
 127.0.0.1 clk.atdmt.com

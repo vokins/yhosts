@@ -2,4 +2,3 @@
 127.0.0.1 newswifiapi.dfshurufa.com
 #vpn-betternet
 127.0.0.1 wpc.32df9.rhocdn.net
-

@@ -64,7 +64,6 @@
 #sogou-inte
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 inte.sogou.com
-127.0.0.1 inte1.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 vps.inte.sogou.com
 #sogou-lu

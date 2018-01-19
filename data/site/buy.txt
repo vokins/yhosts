@@ -6,8 +6,6 @@
 #www.jd.com
 127.0.0.1 ads.union.jd.com
 127.0.0.1 du.jd.com
-#www.meituan.com
-127.0.0.1 push.mobile.meituan.com
 #www.smzdm.com
 127.0.0.1 s2.zdmimg.com
 127.0.0.1 res-ga.smzdm.com

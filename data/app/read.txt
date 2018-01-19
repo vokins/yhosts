@@ -65,16 +65,13 @@
 #http://www.dmzj.com/
 127.0.0.1 ad.bayescom.com
 #http://www.qidian.com/
-127.0.0.1 a.game.qidian.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 dwtrack.qidian.com
 127.0.0.1 o.if.qidian.com
-127.0.0.1 tongji.qidian.com
 127.0.0.1 uedas.qidian.com
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 s1.cmfu.com
 #http://www.wufazhuce.com/
-127.0.0.1 click.focusad.cn
 127.0.0.1 finead.cn
 127.0.0.1 www.finead.cn
 127.0.0.1 fengche.cpv6.com

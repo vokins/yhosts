@@ -23,4 +23,3 @@
 127.0.0.1 xzq.greenxf.net
 #www.yxdown.com
 127.0.0.1 ggr.yxdown.com
-127.0.0.1 tongji.ads.yxdown.com

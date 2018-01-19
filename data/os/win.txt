@@ -22,7 +22,6 @@
 127.0.0.1 ad.winrar.com.cn
 #http://www.xigua.com/
 127.0.0.1 adv2.downsave.com
-127.0.0.1 info.downsave.com
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com

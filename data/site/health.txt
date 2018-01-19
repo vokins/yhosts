@@ -4,7 +4,6 @@
 127.0.0.1 bdmm.xywy.com
 127.0.0.1 gg.xywy.com
 127.0.0.1 hao123.xywy.com
-127.0.0.1 o.xywy.com
 127.0.0.1 page.xywy.com
 127.0.0.1 stat-y.xywy.com
 127.0.0.1 stat-z.xywy.com

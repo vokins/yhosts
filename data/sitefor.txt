@@ -31,7 +31,6 @@
 127.0.0.1 ar9.atwola.com
 127.0.0.1 at.atwola.com
 127.0.0.1 pr.atwola.com
-127.0.0.1 tacoda.at.atwola.com
 127.0.0.1 ads.intergi.com
 127.0.0.1 ng3.ads.warnerbros.com
 #ap.org
@@ -61,7 +60,6 @@
 127.0.0.1 c.live.com
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 ms.analytics.live.com
-127.0.0.1 rad.live.com
 127.0.0.1 watson.live.com
 127.0.0.1 msnportal.112.2o7.net
 #lycos.com
@@ -82,8 +80,6 @@
 127.0.0.1 hit.webcentre.lycos.co.uk
 #msn.com
 127.0.0.1 ads1.msn.com
-127.0.0.1 a.rad.msn.com
-127.0.0.1 b.rad.msn.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 a.ads2.msn.com
@@ -94,10 +90,6 @@
 127.0.0.1 adsyndication.msn.com
 127.0.0.1 analytics.msn.com
 127.0.0.1 analytics.r.msn.com
-127.0.0.1 arc1.msn.com
-127.0.0.1 arc2.msn.com
-127.0.0.1 arc3.msn.com
-127.0.0.1 arc9.msn.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 c.msn.com.cn
@@ -113,17 +105,14 @@
 127.0.0.1 ads2.msads.net
 127.0.0.1 global.msads.net
 127.0.0.1 crl.microsoft.com
-127.0.0.1 rad.microsoft.com
 127.0.0.1 watson.microsoft.com
 #playboy.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com
 #suntimes.com
-127.0.0.1 oascentral.suntimes.com
 #time.com
 127.0.0.1 tiads.time.com
 #umanutd.com
-127.0.0.1 delivery.adserver.manutd.com
 #usa-sites
 127.0.0.1 ads.xprofiles.com
 #australia-sensismediasmart
@@ -175,10 +164,6 @@
 127.0.0.1 ad.naver.com
 127.0.0.1 adcr.naver.com
 127.0.0.1 adcreative.naver.com
-127.0.0.1 nv1.ad.naver.com
-127.0.0.1 nv2.ad.naver.com
-127.0.0.1 nv1.adcreative.naver.net
-127.0.0.1 nv2.adcreative.naver.net
 127.0.0.1 adimg3.search.naver.net
 #korea-daum
 127.0.0.1 alea.adam.ad.daum.net
@@ -207,11 +192,8 @@
 #singapore-asiaone
 127.0.0.1 adtag.asiaone.com
 #singapore-zaobao
-127.0.0.1 ads.zaobao.com
 #anyway
 #chinatimes
-127.0.0.1 ad.cyberone.com.tw
-127.0.0.1 admanager.cyberone.com.tw
 #cyberctm
 127.0.0.1 ads.cyberctm.com
 #doublemax

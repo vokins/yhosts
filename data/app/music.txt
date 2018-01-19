@@ -19,7 +19,6 @@
 #http://mo.kugou.com/
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 d.kugou.com
-127.0.0.1 install2.kugou.com
 127.0.0.1 kgmobilestat.kugou.com
 127.0.0.1 log.web.kugou.com
 127.0.0.1 mobilelog.kugou.com

@@ -75,7 +75,6 @@
 127.0.0.1 d8.sinaimg.cn
 #sina-iask
 127.0.0.1 dd.iask.cn
-127.0.0.1 dd.iaskgo.com
 #leju.com
 127.0.0.1 adm.leju.com
 127.0.0.1 tongji.leju.com

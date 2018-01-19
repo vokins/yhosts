@@ -36,7 +36,6 @@
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 startup.oupeng.com
-127.0.0.1 notify.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 t.adbxb.cn

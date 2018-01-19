@@ -18,7 +18,6 @@
 #flyme-push
 127.0.0.1 api-push.meizu.com
 127.0.0.1 push.res.meizu.com
-127.0.0.1 upush.res.meizu.com
 #flyme-reader
 127.0.0.1 openapi-news.meizu.com
 127.0.0.1 reader.meizu.com

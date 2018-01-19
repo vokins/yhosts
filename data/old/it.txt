@@ -4,7 +4,6 @@
 127.0.0.1 gg3.51cto.com
 127.0.0.1 logs.51cto.com
 #admin5.com
-127.0.0.1 100.admin5.com
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
 #anquan
@@ -30,7 +29,6 @@
 127.0.0.1 stats.chinaz.com
 #cnbeta.com
 127.0.0.1 cdn.earnify.com
-127.0.0.1 union2.cnbetacdn.com
 127.0.0.1 analytics.jiuzhilan.com
 127.0.0.1 app.jiuzhilan.com
 127.0.0.1 cdn.jiuzhilan.com
@@ -70,7 +68,6 @@
 #feng.com
 127.0.0.1 yes1.feng.com
 127.0.0.1 lynn.zgsemi.cn
-127.0.0.1 ss2.zsjuchang.cn
 #it168.com
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com
@@ -79,10 +76,7 @@
 127.0.0.1 icons.mydrivers.com
 127.0.0.1 xc.mydrivers.com
 #orsoon.com
-127.0.0.1 desk.orsoon.com
 #wap.ithome.com
-127.0.0.1 1.win7china.com
-127.0.0.1 2.win7china.com
 #jb51.net
 127.0.0.1 bdjs.jb51.net
 127.0.0.1 dm.jb51.net

@@ -12,7 +12,6 @@
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 fus.lenovomm.com
 127.0.0.1 imfsr.lenovomm.com
-127.0.0.1 lcs.lenovomm.com
 127.0.0.1 lds.lenovomm.com
 127.0.0.1 mfsr.lenovomm.com
 127.0.0.1 pbs.lenovomm.com

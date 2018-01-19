@@ -66,10 +66,8 @@
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 ers.baidu.com
 127.0.0.1 fclick.baidu.com
-127.0.0.1 fcm.baidu.com
 127.0.0.1 fexclick.baidu.com
 127.0.0.1 g.baidu.com
-127.0.0.1 nj.baichuan.baidu.com
 127.0.0.1 release.baidu.com
 127.0.0.1 rplog.baidu.com
 127.0.0.1 sclick.baidu.com
@@ -100,17 +98,13 @@
 127.0.0.1 a.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
-127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 rp.baidu.com
 127.0.0.1 testwn.baidu.com
-127.0.0.1 unstat.baidu.com
 #baidu-player
 127.0.0.1 ad.player.baidu.com
-127.0.0.1 static.pay.baidu.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
@@ -121,12 +115,8 @@
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 #baidu-zhidao
-127.0.0.1 stat.zhidahao.baidu.com
-127.0.0.1 tongji.zhidao.baidu.com
 #baidu-soft
 #91
-127.0.0.1 adsearch.appx.91.com
-127.0.0.1 appx.91.com
 127.0.0.1 e.91.com
 #baidu-duapps.com
 127.0.0.1 duapps.com
@@ -390,7 +380,6 @@
 127.0.0.1 m.reachmax.cn
 127.0.0.1 v2.reachmax.cn
 127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 getui.gexin.com
 127.0.0.1 api.gi.igexin.com
 127.0.0.1 api.y.igexin.com
 127.0.0.1 c.nz.gt.igexin.com
@@ -898,9 +887,6 @@
 127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
 #jiayi
-127.0.0.1 gg.ytbee.cn
-127.0.0.1 www.bjxiaohua.com
-127.0.0.1 www.jiaeasy.net
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn

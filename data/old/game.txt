@@ -42,7 +42,6 @@
 127.0.0.1 att.stargame.com
 127.0.0.1 appsupport.stargame.com
 #tgbus.com
-127.0.0.1 gg.tgbus.com
 127.0.0.1 vista.tgbus.com
 127.0.0.1 tracker.tgbus.com
 127.0.0.1 vista.tgbusdata.cn

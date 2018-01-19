@@ -88,18 +88,13 @@
 127.0.0.1 sohu.irs01.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
-127.0.0.1 stats.tudou.com
-127.0.0.1 p-log.ykimg.com
-127.0.0.1 themis.ykimg.com
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 b.smartvideo.youku.com
-127.0.0.1 c.l.youku.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 guanggaoad.youku.com
-127.0.0.1 irs01.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 m.yes.youku.com
 127.0.0.1 mb.atm.youku.com
@@ -112,12 +107,10 @@
 127.0.0.1 player.lstat.youku.com
 127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com
-127.0.0.1 stat.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 store.tv.api.3g.youku.com
 127.0.0.1 store.xl.api.3g.youku.com
 127.0.0.1 urchin.lstat.youku.com
-127.0.0.1 v.l.youku.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 wan.youku.com
 #youku-area

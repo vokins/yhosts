@@ -3,7 +3,6 @@
 #http://live.jstv.com/
 127.0.0.1 adsys.chinacloudapp.cn
 #http://star.gdtv.cn/
-127.0.0.1 adv.grtn.cn
 #http://v.ahtv.cn/live/ahlive/
 127.0.0.1 advapi.ahtv.cn
 #http://www.1905.com/vod/
@@ -115,7 +114,6 @@
 127.0.0.1 web.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 y.da.mgtv.com
-127.0.0.1 flv.res.hunantv.com
 127.0.0.1 imgaliyun.da.mgtv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.p2p.hunantv.com
@@ -150,14 +148,12 @@
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 push.m.youku.com
 #http://www.youku.com/
-127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 bsv.atm.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 myes.youku.com
-127.0.0.1 p.l.youku.com
 127.0.0.1 r.l.youku.com
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 statis.mobile.youku.com
