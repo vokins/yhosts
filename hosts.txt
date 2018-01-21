@@ -3060,6 +3060,29 @@
 127.0.0.1 m.mrtuo.com
 127.0.0.1 m.xberu.com
 127.0.0.1 www.webkooo.com
+127.0.0.1 272829.cc
+127.0.0.1 a.m.gxwztv.com
+127.0.0.1 a.wlfnb.com
+127.0.0.1 api.ireai.cn
+127.0.0.1 ba.fqzds.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 c.sxzmj.cn
+127.0.0.1 cc.1515788.net
+127.0.0.1 code.wantaico.com
+127.0.0.1 h.sxzmj.cn
+127.0.0.1 html.sunday8.com
+127.0.0.1 html.yuntzs.com
+127.0.0.1 j.12306media.com
+127.0.0.1 li.anyysz.com
+127.0.0.1 lkf1.m.sanhao3.com
+127.0.0.1 mjs.csyymp4.com
+127.0.0.1 p2s.m.uuxs.la
+127.0.0.1 rc.fthcz.com
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 ss.sysad.cn
+127.0.0.1 tongji.ads.yxdown.com
+127.0.0.1 w.sxzmj.cn
+127.0.0.1 xin.ygqczh.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -5366,6 +5389,16 @@
 127.0.0.1 cs.dqwjzm.com
 127.0.0.1 fanli.1668g.com
 127.0.0.1 md.sh5e.com
+127.0.0.1 adx3.iq39.com
+127.0.0.1 bds.soarfi.cn
+127.0.0.1 ds.missyougame.cn
+127.0.0.1 m.cudaojia.com
+127.0.0.1 sss.soarfi.cn
+127.0.0.1 uns.soarfi.cn
+127.0.0.1 web.kuaisouwifi.com
+127.0.0.1 wy.ce22d.cn
+127.0.0.1 yun.sifuhe.cn
+127.0.0.1 yun.tuisnake.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

@@ -218,6 +218,16 @@
 127.0.0.1 cs.dqwjzm.com
 127.0.0.1 fanli.1668g.com
 127.0.0.1 md.sh5e.com
+127.0.0.1 adx3.iq39.com
+127.0.0.1 bds.soarfi.cn
+127.0.0.1 ds.missyougame.cn
+127.0.0.1 m.cudaojia.com
+127.0.0.1 sss.soarfi.cn
+127.0.0.1 uns.soarfi.cn
+127.0.0.1 web.kuaisouwifi.com
+127.0.0.1 wy.ce22d.cn
+127.0.0.1 yun.sifuhe.cn
+127.0.0.1 yun.tuisnake.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
