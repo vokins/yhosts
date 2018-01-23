@@ -1,5 +1,5 @@
 
-#version=201801212005
+#version=201801231822
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1224,6 +1224,8 @@
 127.0.0.1 www.zhongmin.cn
 127.0.0.1 www.aihuishou.com
 127.0.0.1 www.gome.com.cn
+127.0.0.1 maimai.cn
+127.0.0.1 acc.maimai.cn
 @down
 #down-2345
 127.0.0.1 dl.2345.com
@@ -3086,6 +3088,13 @@
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 w.sxzmj.cn
 127.0.0.1 xin.ygqczh.com
+127.0.0.1 ardmall.com
+127.0.0.1 dd.mangofortune.net
+127.0.0.1 m.gameyun907.net
+127.0.0.1 m.symac.cn
+127.0.0.1 ms.qaqact.cn
+127.0.0.1 o.08jm.cn
+127.0.0.1 zyf.fzdfwy.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

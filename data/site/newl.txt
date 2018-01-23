@@ -276,3 +276,10 @@
 127.0.0.1 tongji.ads.yxdown.com
 127.0.0.1 w.sxzmj.cn
 127.0.0.1 xin.ygqczh.com
+127.0.0.1 ardmall.com
+127.0.0.1 dd.mangofortune.net
+127.0.0.1 m.gameyun907.net
+127.0.0.1 m.symac.cn
+127.0.0.1 ms.qaqact.cn
+127.0.0.1 o.08jm.cn
+127.0.0.1 zyf.fzdfwy.com

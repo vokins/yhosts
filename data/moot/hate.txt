@@ -30,3 +30,5 @@
 127.0.0.1 www.zhongmin.cn
 127.0.0.1 www.aihuishou.com
 127.0.0.1 www.gome.com.cn
+127.0.0.1 maimai.cn
+127.0.0.1 acc.maimai.cn
