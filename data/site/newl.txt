@@ -283,3 +283,12 @@
 127.0.0.1 ms.qaqact.cn
 127.0.0.1 o.08jm.cn
 127.0.0.1 zyf.fzdfwy.com
+127.0.0.1 e.harbinbaojia.net
+127.0.0.1 e.t71q.com
+127.0.0.1 js.wzttqq.me
+127.0.0.1 js.zyrfanli.com
+127.0.0.1 js89.dupinpu.com
+127.0.0.1 m.harbinbaojia.net
+127.0.0.1 www.360jiaquan.com
+127.0.0.1 www.6615338.cn
+127.0.0.1 www.weiguizhizuo.com
