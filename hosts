@@ -1,5 +1,5 @@
 
-#version=201801251927
+#version=201801272343
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2144,7 +2144,6 @@
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 mfm.video.qq.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
-127.0.0.1 union.video.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 #http://yixin.im/
 127.0.0.1 ad.yixin.im
@@ -3104,6 +3103,22 @@
 127.0.0.1 www.360jiaquan.com
 127.0.0.1 www.6615338.cn
 127.0.0.1 www.weiguizhizuo.com
+127.0.0.1 assets.258ydh.com
+127.0.0.1 c.jsyeyuzuqiu.org
+127.0.0.1 e.ennmt.com
+127.0.0.1 e.joyxv.com
+127.0.0.1 e.wxlzyh.com
+127.0.0.1 in.zmyuer.com
+127.0.0.1 js6882.jianbangjiaoyu.com
+127.0.0.1 m.ennmt.com
+127.0.0.1 m.guanren11.com
+127.0.0.1 m.joyxv.com
+127.0.0.1 m.wxlzyh.com
+127.0.0.1 pic2016.ytqmx.com
+127.0.0.1 s.hnhgw.cn
+127.0.0.1 s.zmyuer.com
+127.0.0.1 static.ppliuliang.com
+127.0.0.1 www.8269996.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
