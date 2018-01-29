@@ -2410,7 +2410,8 @@
 127.0.0.1 ad.adhouyi.cn
 127.0.0.1 ad.wang502.com
 127.0.0.1 pb.wang502.com
-#gan-jxnews.com.cn
+127.0.0.1 m.symaj.cn
+127.0.0.1 symaj.cn#gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
 #gui-beihai365.com
@@ -3116,6 +3117,15 @@
 127.0.0.1 s.zmyuer.com
 127.0.0.1 static.ppliuliang.com
 127.0.0.1 www.8269996.com
+127.0.0.1 app.hytdsm.com
+127.0.0.1 app.juwang.com
+127.0.0.1 drsw.m.yuyouge.com
+127.0.0.1 kbsdsd.ibangzhu.org
+127.0.0.1 koy8y.haiwon.com.cn
+127.0.0.1 mc.allxin.com
+127.0.0.1 nryiou.cn
+127.0.0.1 wxb.wxbdfm.com
+127.0.0.1 zx.baosmx.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -5432,6 +5442,7 @@
 127.0.0.1 wy.ce22d.cn
 127.0.0.1 yun.sifuhe.cn
 127.0.0.1 yun.tuisnake.com
+127.0.0.1 cz01016102.ms758.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

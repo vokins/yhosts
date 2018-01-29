@@ -9,6 +9,8 @@
 127.0.0.1 s.go2yd.com
 127.0.0.1 web-track.go2yd.com
 
+ad.mail.sohu.com
+https://ad.mail.sohu.com/mail/images/score_ad_foot1_750x79.png
 http://j0.jegxny.com/cpv/images/close.png
 http://sdkconfig.ad.xiaomi.com:443
 http://zeus.ad.xiaomi.com:443

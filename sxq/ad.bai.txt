@@ -1,5 +1,6 @@
 00sy.net
 3g.wenxuemm.com
+a.app.qq.com
 access.tv.sohu.com
 alicili.pw
 app.3987.com
@@ -22,10 +23,13 @@ cilifuli.net
 cililianbt.com
 cnbtkitty.com
 console.qcloud.com
+d7.muzisoft.com
 diggbt.fyi
 diggbts.com
+dl.wandoujia.com
 download.macromedia.com
 download.xiusho.com
+ewenxue.net
 feifeibt.net
 fpdownload.macromedia.com
 g1.ykimg.com
@@ -49,6 +53,7 @@ img32.pplive.cn
 img33.pplive.cn
 img34.pplive.cn
 imgcache.qq.com
+int.dpool.sina.com.cn
 ip.ws.126.net
 itunes.apple.com
 js.meitulu.com
@@ -91,6 +96,7 @@ m.67shu.com
 m.69shu.org
 m.6mao.com
 m.80txt.com
+m.81zw.com
 m.83zw.com
 m.88106.com
 m.88dushu.com
@@ -144,6 +150,7 @@ m.ddbiquge.com
 m.ddxsw.net
 m.dhzw.org
 m.dingdiann.com
+m.du1du.org
 m.duanwenxue.com
 m.fhxiaoshuo.com
 m.fhxsw.org
@@ -179,6 +186,7 @@ m.miaoshufang.com
 m.mishug.com
 m.mpzw.com
 m.mytxt.cc
+m.nbzww.org
 m.nenzei88.com
 m.panqis.cn
 m.pinshuw.com
@@ -242,6 +250,7 @@ m.zhenben.cc
 m.zhuaji.org
 m.zwda.com
 m.zwdu.com
+maweb.3g.qq.com
 pan.meijukankan.net
 photocdn.sohu.com
 photocdn.tv.sohu.com
@@ -289,9 +298,12 @@ www.100huts.com
 www.5857.com
 www.66ys.tv
 www.71wx.net
+www.81zw.com
+www.92txt.net
 www.aguo.com
 www.baidu.com
 www.beian.gov.cn
+www.biquge.cn
 www.biquge22.com
 www.biqugeapp.com
 www.btbtdy.com
@@ -307,8 +319,10 @@ www.hdbee.net
 www.imdb.com
 www.jiang.com
 www.jiujiu6.com
+www.liewen.cc
 www.macromedia.com
 www.miitbeian.gov.cn
+www.muzisoft.com
 www.nenzei88.com
 www.opensource.org
 www.qcloud.com
@@ -325,6 +339,7 @@ www.w3.org
 www.w3c.org
 www.wdlinux.cn
 www.www.00sy.net
+www.yawenb.com
 wx1.sinaimg.cn
 wx2.sinaimg.cn
 wx3.sinaimg.cn

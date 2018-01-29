@@ -18,3 +18,5 @@
 127.0.0.1 ad.adhouyi.cn
 127.0.0.1 ad.wang502.com
 127.0.0.1 pb.wang502.com
+127.0.0.1 m.symaj.cn
+127.0.0.1 symaj.cn

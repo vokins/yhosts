@@ -308,3 +308,12 @@
 127.0.0.1 s.zmyuer.com
 127.0.0.1 static.ppliuliang.com
 127.0.0.1 www.8269996.com
+127.0.0.1 app.hytdsm.com
+127.0.0.1 app.juwang.com
+127.0.0.1 drsw.m.yuyouge.com
+127.0.0.1 kbsdsd.ibangzhu.org
+127.0.0.1 koy8y.haiwon.com.cn
+127.0.0.1 mc.allxin.com
+127.0.0.1 nryiou.cn
+127.0.0.1 wxb.wxbdfm.com
+127.0.0.1 zx.baosmx.com
