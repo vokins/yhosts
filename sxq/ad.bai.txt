@@ -70,6 +70,7 @@ m.11kt.cn
 m.138txt.com
 m.16kxsw.com
 m.208xs.com
+m.22ff.com
 m.23sw.net
 m.23txt.com
 m.23us.cc
@@ -277,6 +278,7 @@ storebt.cc
 storetorrents.com
 su.baidu.com
 subhd.com
+support.cloudflare.com
 t.cn
 t.shuotxts.com
 torrentkitty.uno
@@ -324,6 +326,7 @@ www.macromedia.com
 www.miitbeian.gov.cn
 www.muzisoft.com
 www.nenzei88.com
+www.okzyzy.com
 www.opensource.org
 www.qcloud.com
 www.qiushibaike.com

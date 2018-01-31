@@ -59,12 +59,14 @@
 */www/delivery/*
 
 //cpro.baidustatic.com/*
+//cpro2.baidustatic.com/*
 pos.baidu.com/*
 https://hm.baidu.com/*
 
 *.googlesyndication.com/*
 *.googleadsserving.cn/*
 *.google-analytics.com/*
+*.doubleclick.net/*
 
 ||g.163.com/*
 163.com##div[adtype$="Ad"]

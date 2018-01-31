@@ -1,5 +1,5 @@
 
-#version=201801291821
+#version=201801311938
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -92,7 +92,9 @@
 127.0.0.1 nex.163.com
 #163-music
 127.0.0.1 iadmat.nosdn.127.net
+127.0.0.1 yt-adp.nosdn.127.net
 #youdao
+127.0.0.1 dsp-click.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 log.yex.youdao.com
@@ -3129,6 +3131,12 @@
 127.0.0.1 nryiou.cn
 127.0.0.1 wxb.wxbdfm.com
 127.0.0.1 zx.baosmx.com
+127.0.0.1 material.mtty.xin
+127.0.0.1 mtty-cdn.mtty.xin
+127.0.0.1 ds-pc.admsger.com
+127.0.0.1 stats.dmp.ghac.cn
+127.0.0.1 tj.tongjiwo.com
+127.0.0.1 weyyae.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -3596,6 +3604,7 @@
 127.0.0.1 pf.pchome.net
 127.0.0.1 pf-2.pchome.net
 #www.douban.com
+127.0.0.1 ad.doubanio.com
 127.0.0.1 erebor.douban.com
 #www.hupu.com
 127.0.0.1 cc.dace.hupu.com
@@ -5323,8 +5332,6 @@
 127.0.0.1 u0.s.minisplat.cn
 127.0.0.1 u1.s.minisplat.cn
 127.0.0.1 u2.s.minisplat.cn
-127.0.0.1 mm.dopa.com.cn
-127.0.0.1 pd.dopa.com.cn
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 144.dragonparking.com
@@ -5341,7 +5348,14 @@
 127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
 127.0.0.1 818.ok365.com
+127.0.0.1 817.dopa.com
+127.0.0.1 818.dopa.com
+127.0.0.1 bd1.dopa.com
+127.0.0.1 bd2.dopa.com
+127.0.0.1 cloudcdn.dopa.com
 127.0.0.1 cloudcdn.dopa.com.cn
+127.0.0.1 mm.dopa.com.cn
+127.0.0.1 pd.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
 127.0.0.1 engine.tuia.cn

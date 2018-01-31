@@ -106,8 +106,6 @@
 127.0.0.1 u0.s.minisplat.cn
 127.0.0.1 u1.s.minisplat.cn
 127.0.0.1 u2.s.minisplat.cn
-127.0.0.1 mm.dopa.com.cn
-127.0.0.1 pd.dopa.com.cn
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 144.dragonparking.com
@@ -124,7 +122,14 @@
 127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
 127.0.0.1 818.ok365.com
+127.0.0.1 817.dopa.com
+127.0.0.1 818.dopa.com
+127.0.0.1 bd1.dopa.com
+127.0.0.1 bd2.dopa.com
+127.0.0.1 cloudcdn.dopa.com
 127.0.0.1 cloudcdn.dopa.com.cn
+127.0.0.1 mm.dopa.com.cn
+127.0.0.1 pd.dopa.com.cn
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
 127.0.0.1 engine.tuia.cn

@@ -317,3 +317,9 @@
 127.0.0.1 nryiou.cn
 127.0.0.1 wxb.wxbdfm.com
 127.0.0.1 zx.baosmx.com
+127.0.0.1 material.mtty.xin
+127.0.0.1 mtty-cdn.mtty.xin
+127.0.0.1 ds-pc.admsger.com
+127.0.0.1 stats.dmp.ghac.cn
+127.0.0.1 tj.tongjiwo.com
+127.0.0.1 weyyae.com
