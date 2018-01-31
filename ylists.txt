@@ -1,9 +1,9 @@
-! Version: 16:26 2018/1/31
-! Version: 0.1.2.1.15
+! Version: 16:31 2018/1/31
+! Version: 0.1.2.1.16
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
-! Description:AD hosts∞Æ∫√»∫:201973909.
+! Description:AD hosts:201973909.
 ! Homepage: https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
 
 ##div[class*="_top_ad"]
@@ -42,7 +42,6 @@
 */brandads/*
 */cpc.js
 */cpro/*
-*/cpro/*
 */cpv/*
 */data/attachment/common/cf/*
 */ggimg/*
@@ -51,7 +50,6 @@
 */htmlcode/*
 */iframe/gg/*
 */mstat/*
-*/pagead/*
 */pagead/*
 */promotion/*
 */sinaads/*
