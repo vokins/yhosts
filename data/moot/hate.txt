@@ -32,3 +32,4 @@
 127.0.0.1 www.gome.com.cn
 127.0.0.1 maimai.cn
 127.0.0.1 acc.maimai.cn
+127.0.0.1 www.qianshengqian.com
