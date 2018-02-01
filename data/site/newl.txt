@@ -323,3 +323,8 @@
 127.0.0.1 stats.dmp.ghac.cn
 127.0.0.1 tj.tongjiwo.com
 127.0.0.1 weyyae.com
+127.0.0.1 jumpm.58xmgys.com
+127.0.0.1 jumpe.58xmgys.com
+127.0.0.1 m.miiuv.com
+127.0.0.1 e.miiuv.com
+127.0.0.1 fbc.ffychb.com
