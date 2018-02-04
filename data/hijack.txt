@@ -234,6 +234,9 @@
 127.0.0.1 yun.sifuhe.cn
 127.0.0.1 yun.tuisnake.com
 127.0.0.1 cz01016102.ms758.com
+127.0.0.1 js.ywsem.com
+127.0.0.1 c.ywsem.com
+127.0.0.1 s.051352.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

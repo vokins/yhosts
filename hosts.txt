@@ -3142,6 +3142,22 @@
 127.0.0.1 m.miiuv.com
 127.0.0.1 e.miiuv.com
 127.0.0.1 fbc.ffychb.com
+127.0.0.1 e.bvoer.com
+127.0.0.1 m.bvoer.com
+127.0.0.1 m.icyrd.com
+127.0.0.1 e.icyrd.com
+127.0.0.1 e.xetvb.com
+127.0.0.1 m.xetvb.com
+127.0.0.1 m.lfdydk.com
+127.0.0.1 e.lfdydk.com
+127.0.0.1 c.bjtrh.net
+127.0.0.1 dsaewq.2039sw.org
+127.0.0.1 kn.qzdaren.com
+127.0.0.1 lpldpf.cnssdai.cn
+127.0.0.1 m.4z5o27.cn
+127.0.0.1 mass.mall044.com
+127.0.0.1 www.51dql.com
+127.0.0.1 www.kaitongyewu.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -5465,6 +5481,9 @@
 127.0.0.1 yun.sifuhe.cn
 127.0.0.1 yun.tuisnake.com
 127.0.0.1 cz01016102.ms758.com
+127.0.0.1 js.ywsem.com
+127.0.0.1 c.ywsem.com
+127.0.0.1 s.051352.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
