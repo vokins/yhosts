@@ -344,3 +344,6 @@
 127.0.0.1 mass.mall044.com
 127.0.0.1 www.51dql.com
 127.0.0.1 www.kaitongyewu.com
+127.0.0.1 fxc.aiquxs.com
+127.0.0.1 pwj.biqugezw.com
+127.0.0.1 vmzqwz.cn
