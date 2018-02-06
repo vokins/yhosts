@@ -1,5 +1,5 @@
-! Version: 16:31 2018/1/31
-! Version: 0.1.2.1.16
+! Version: 9:50 2018/2/6
+! Version: 0.1.2.1.17
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -8,6 +8,8 @@
 
 ##div[class*="_top_ad"]
 ##div[class*="right_ad_"]
+##div[id^="adLeft"]
+##div[id^="adRight"]
 ##div[id^="ad_thread"]
 ##div[id^="google_ads"]
 
