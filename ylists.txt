@@ -11,7 +11,8 @@
 ##div[class$=" adv"]
 ##div[id^="adBody"]
 ##div[id^="google_ads"]
-
+##div[class^="tempad"]
+##iframe[src^="ad"]
 
 ##div[id^="adLeft"]
 ##div[id^="adRight"]
