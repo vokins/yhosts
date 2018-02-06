@@ -1,14 +1,44 @@
-! Version: 10:39 2018/2/6
-! Version: 0.1.2.1.31
+! Version: 11:40 2018/2/6
+! Version: 0.1.2.2.1
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Homepage: https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
 
-##div[class$=" adv"]
+##div[class^="ad0"]
+##div[class^="ad1"]
+##div[class^="ad2"]
+##div[class^="ad3"]
+##div[class^="ad4"]
+##div[class^="ad5"]
+##div[class^="ad6"]
+##div[class^="ad7"]
+##div[class^="ad8"]
+##div[class^="ad9"]
+##div[class^="ad-9"]
+
+##div[class*="ad-area"]
+##div[class^="adArea"]
+##div[class^="adarea"]
+##div[class^="adbox"]
+##div[class^="ad-box"]
+##div[class^="adList"]
+##div[class^="ad-list"]
+##div[class^="adtext"]
+
+##div[class*="adLeft"]
+##div[class*="adRight"]
+##div[class^="adtop"]
 ##div[class*="_top_ad"]
 ##div[class*="right_ad_"]
+
+##div[id^="leftad"]
+##div[id*="ad_left"]
+##div[id*="ad_right"]
+##div[id^="right_ad"]
+
+##div[class$=" adv"]
 ##div[class^="tempad"]
 ##div[id="topAdv"]
 ##div[id^="adBody"]
@@ -20,7 +50,11 @@
 ##div[id^="ad_thread"]
 ##div[id="ads_c_tpc"]
 ##div[id="ads_r_tpc"]
+##div[class^="ad_text"]
 ##div[class^="sign"][style^="max-height"]
+##font[class="jammer"]
+##SPAN[class="transparent"]
+##[style*="font-size:0p"],[style*="font-size: 0p"]
 
 xinhuanet.com##div[id^="YCADS"]
 tieba.baidu.com##li[class$="  clearfix"]
