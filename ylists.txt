@@ -1,5 +1,5 @@
-! Version: 11:40 2018/2/6
-! Version: 0.1.2.2.1
+! Version: 12:31 2018/2/8
+! Version: 0.1.2.2.6
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -26,12 +26,17 @@
 ##div[class^="adList"]
 ##div[class^="ad-list"]
 ##div[class^="adtext"]
+##div[class*="textlink_ad"]
 
 ##div[class*="adLeft"]
 ##div[class*="adRight"]
 ##div[class^="adtop"]
+##div[class*="_adtop_"]
 ##div[class*="_top_ad"]
 ##div[class*="right_ad_"]
+##div[class*="-right-ad"]
+##div[class*="index_ad"]
+##span[class*="channel_ad"]
 
 ##div[id^="leftad"]
 ##div[id*="ad_left"]
@@ -44,6 +49,7 @@
 ##div[id^="adBody"]
 ##div[id^="google_ads"]
 ##iframe[src^="ad"]
+##[src*="/advertisement/"]
 
 ##div[id^="adLeft"]
 ##div[id^="adRight"]
@@ -56,8 +62,6 @@
 ##SPAN[class="transparent"]
 ##[style*="font-size:0p"],[style*="font-size: 0p"]
 
-xinhuanet.com##div[id^="YCADS"]
-tieba.baidu.com##li[class$="  clearfix"]
 
 *//ads.*
 */AD/*
@@ -107,16 +111,42 @@ tieba.baidu.com##li[class$="  clearfix"]
 */tps/noexpire/*
 */www/delivery/*
 
+##[href*="/cpro/ui/"]
+##[src*="/cpro/ui/"]
+##[href*="cpro.baidu.com"]
+##[src*="pos.baidu.com"]
+##[src*="baidustatic.com"]
 //cpro.baidustatic.com/*
 //cpro2.baidustatic.com/*
 pos.baidu.com/*
 https://hm.baidu.com/*
 
-*.googlesyndication.com/*
-*.googleadsserving.cn/*
-*.google-analytics.com/*
+##[src*="/pagead/"]
+##[src*="doubleclick.net"]
+##[src*="googlesyndication.com"]
 *.doubleclick.net/*
+*.google-analytics.com/*
+*.googleadsserving.cn/*
+*.googlesyndication.com/*
 
+##[href*=".simba.taobao.com"]
+##[href*="re.taobao.com/"]
+##[src*=".alimama.com"]
+##[src*="afpmm.alicdn.com"]
+##[src*="alicdn.com/creation/html/"]
+##[src*="asearch.alicdn.com"]
+##[src*="atanx.alicdn.com"]
+##[src*="strip.alicdn.com/tfscom/"]
+
+##iframe[src*="360buyimg.com/jzt/tpl/sspPic.html?ad"]
+##[src*="im-x.jd.com/"]
+##[href*="ccc-x.jd.com/"]
+
+
+##iframe[src*=".126.net/channel"]
+##a[href^="http://rd.da.netease.com/"]
+##[src^="http://g.163.com/"]
+##[src*=".126.net/ntesrich/"]
 ||g.163.com/*
 163.com##div[adtype$="Ad"]
 163.com##div[class^="ad_hover"]
@@ -130,6 +160,13 @@ news.163.com##div[class^="gallery-guess"]
 news.163.com##div[class^="mod_ad_"]
 news.163.com###xtClick
 
+www.douyu.com###div[class^="room-ad-"]
+www.douyu.com###div[class="chat-ad"]
+www.douyu.com###div[class="no-login"]
+www.douyu.com###ul[class="promos"][data-type="promos"]
+
+xinhuanet.com##div[id^="YCADS"]
+tieba.baidu.com##li[class$="  clearfix"]
 *.mediav.com/*
 *.cnzz.com/*
 //ad.doubanio.com/*
