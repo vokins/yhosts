@@ -3161,6 +3161,11 @@
 127.0.0.1 fxc.aiquxs.com
 127.0.0.1 pwj.biqugezw.com
 127.0.0.1 vmzqwz.cn
+127.0.0.1 e.tdtsd.com
+127.0.0.1 imgs.aiquxs.com
+127.0.0.1 imgs.biqugezw.com
+127.0.0.1 m.symag.cn
+127.0.0.1 www.geiyujieda.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
