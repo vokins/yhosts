@@ -352,3 +352,9 @@
 127.0.0.1 imgs.biqugezw.com
 127.0.0.1 m.symag.cn
 127.0.0.1 www.geiyujieda.com
+127.0.0.1 e.nwxzs.com
+127.0.0.1 js7129.dlkjgjmy.com
+127.0.0.1 m.nwxzs.com
+127.0.0.1 p.saozhu1.top
+127.0.0.1 www.qzgjprj.com
+127.0.0.1 www.szshouzhai.com

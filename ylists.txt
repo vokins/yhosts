@@ -1,5 +1,5 @@
-! Version: 10:01 2018/2/9/周五
-! Version: 0.1.2.2.8
+! Version: 11:31 2018/2/9/周五
+! Version: 0.1.2.2.10
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -69,8 +69,10 @@
 */AdCenter/*
 */VediosAD/*
 */ad/*
+*/ad_adapter/*
 */adbox/*
 */adcode/*
+*/adcreatives/*
 */adimages/*
 */adjs/*
 */adlink/*
@@ -81,7 +83,6 @@
 */adservice/*
 */adstat/*
 */adstatic/*
-*/adcreatives/*
 */adt.php
 */adv.php
 */adv/*
@@ -112,6 +113,7 @@
 */tps/noexpire/*
 */www/delivery/*
 
+##div[id^="cpro_"]
 ##[href*="/cpro/ui/"]
 ##[src*="/cpro/ui/"]
 ##[href*="cpro.baidu.com"]

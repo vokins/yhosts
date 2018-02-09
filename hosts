@@ -1,5 +1,5 @@
 
-#version=201802081225
+#version=201802091134
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1464,7 +1464,6 @@
 127.0.0.1 gg2.51cto.com
 127.0.0.1 gg3.51cto.com
 127.0.0.1 logs.51cto.com
-#admin5.com
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
 #anquan
@@ -1510,6 +1509,9 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 medal.blog.csdn.net
+127.0.0.1 cee1.iteye.com
+127.0.0.1 cee2.iteye.com
 127.0.0.1 mpb1.iteye.com
 127.0.0.1 mpb2.iteye.com
 #dedecms.com
@@ -1787,6 +1789,9 @@
 127.0.0.1 wtradv.market.xiaomi.com
 #miui-wps
 127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 mo.res.wpscdn.cn
+127.0.0.1 mostat.wps.cn
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
@@ -3169,6 +3174,12 @@
 127.0.0.1 imgs.biqugezw.com
 127.0.0.1 m.symag.cn
 127.0.0.1 www.geiyujieda.com
+127.0.0.1 e.nwxzs.com
+127.0.0.1 js7129.dlkjgjmy.com
+127.0.0.1 m.nwxzs.com
+127.0.0.1 p.saozhu1.top
+127.0.0.1 www.qzgjprj.com
+127.0.0.1 www.szshouzhai.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

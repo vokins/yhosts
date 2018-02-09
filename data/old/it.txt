@@ -3,7 +3,6 @@
 127.0.0.1 gg2.51cto.com
 127.0.0.1 gg3.51cto.com
 127.0.0.1 logs.51cto.com
-#admin5.com
 #android.18183.com
 127.0.0.1 eezdx.erc.18183.com
 #anquan
@@ -49,6 +48,9 @@
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
 127.0.0.1 img.ads.csdn.net
+127.0.0.1 medal.blog.csdn.net
+127.0.0.1 cee1.iteye.com
+127.0.0.1 cee2.iteye.com
 127.0.0.1 mpb1.iteye.com
 127.0.0.1 mpb2.iteye.com
 #dedecms.com

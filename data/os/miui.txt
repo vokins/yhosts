@@ -66,6 +66,9 @@
 127.0.0.1 wtradv.market.xiaomi.com
 #miui-wps
 127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 mo.res.wpscdn.cn
+127.0.0.1 mostat.wps.cn
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
