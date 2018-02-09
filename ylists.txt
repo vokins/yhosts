@@ -1,5 +1,5 @@
-! Version: 12:39 2018/2/8
-! Version: 0.1.2.2.7
+! Version: 10:01 2018/2/9/÷‹ŒÂ
+! Version: 0.1.2.2.8
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -60,7 +60,8 @@
 ##div[class^="sign"][style^="max-height"]
 ##font[class="jammer"]
 ##SPAN[class="transparent"]
-##[style*="font-size:0p"],[style*="font-size: 0p"]
+##[style*="font-size:0p"]
+##[style*="font-size: 0p"]
 
 
 *//ads.*
@@ -169,6 +170,7 @@ xinhuanet.com##div[id^="YCADS"]
 tieba.baidu.com##li[class$="  clearfix"]
 *.mediav.com/*
 *.cnzz.com/*
+//u-x.jd.com/*
 //ad.doubanio.com/*
 http://*.pstatp.com/origin/*
 http://common.jxnews.com.cn/2011/*.swf
