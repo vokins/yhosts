@@ -1,5 +1,5 @@
-! Version: 11:31 2018/2/9/÷‹ŒÂ
-! Version: 0.1.2.2.10
+! Version: 16:28 2018/2/19
+! Version: 0.1.2.2.12
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -45,6 +45,7 @@
 
 ##div[class$=" adv"]
 ##div[class^="tempad"]
+##div[class$="sponsor"]
 ##div[id="topAdv"]
 ##div[id^="adBody"]
 ##div[id^="google_ads"]
