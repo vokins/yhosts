@@ -35,7 +35,6 @@
 127.0.0.1 yepdigital.adk2x.com
 #admarvel.com
 127.0.0.1 ads.admarvel.com
-127.0.0.1 www.admarvel.com
 #admedia.com
 127.0.0.1 admedia.com
 127.0.0.1 b.admedia.com
@@ -186,11 +185,7 @@
 127.0.0.1 settings.crashlytics.com
 #criteo.com
 127.0.0.1 cas.criteo.com
-127.0.0.1 cat.sh.cn.criteo.com
-127.0.0.1 dis.cn.criteo.com
 127.0.0.1 dis.criteo.com
-127.0.0.1 dis.ny.us.criteo.com
-127.0.0.1 dis.sh.cn.criteo.com
 127.0.0.1 dis.us.criteo.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 rtax.criteo.com
@@ -326,14 +321,11 @@
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 apptv.w.inmobi.com
-127.0.0.1 au-cn.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
-127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
-127.0.0.1 et-cn.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
@@ -362,7 +354,6 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 pages2.marketo.com
 #mdotm.com
-127.0.0.1 ads.mdotm.com
 127.0.0.1 cdn.mdotm.com
 #mgid.com
 127.0.0.1 aa-gb.mgid.com
@@ -373,7 +364,6 @@
 127.0.0.1 ad-gb.mgid.com
 127.0.0.1 ae-gb.mgid.com
 127.0.0.1 aj-gb.mgid.com
-127.0.0.1 fem.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 mgid.com

@@ -5,7 +5,6 @@
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
 #http://weixin.qq.com/
-127.0.0.1 variety.tc.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 mfm.video.qq.com
 127.0.0.1 vlive.qqvideo.tc.qq.com

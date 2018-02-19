@@ -58,7 +58,6 @@
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 nbsdk-baichuan.taobao.com
-127.0.0.1 pre.nbsdk-baichuan.taobao.com
 127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 tunion-api.m.taobao.com
@@ -87,8 +86,6 @@
 127.0.0.1 sina.wrating.com
 127.0.0.1 tongji.wrating.com
 #ali-baba
-127.0.0.1 dmtracking.alibaba.com
-127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 p4psearch.china.alibaba.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
 127.0.0.1 fm.p0y.cn
@@ -137,15 +134,6 @@
 127.0.0.1 t.alimama.com
 127.0.0.1 i.mmcdn.cn
 #ali-mlt01
-127.0.0.1 cm.mlt01.com
-127.0.0.1 cmdy.mlt01.com
-127.0.0.1 cmhk.mlt01.com
-127.0.0.1 cmhz.mlt01.com
-127.0.0.1 mega.mlt01.com
-127.0.0.1 minisite.mlt01.com
-127.0.0.1 mlt01.com
-127.0.0.1 static.mlt01.com
-127.0.0.1 tanx.mlt01.com
 #ali-mm
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
@@ -175,7 +163,6 @@
 127.0.0.1 w.m.taobao.com
 127.0.0.1 ai.taobao.com
 127.0.0.1 api.wapa.taobao.com
-127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 re.taobao.com
@@ -199,7 +186,6 @@
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 #ali-umeng
-127.0.0.1 alog.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 at.umeng.com
@@ -207,7 +193,6 @@
 127.0.0.1 dev.umeng.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 umeng.com
-127.0.0.1 uop.umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com
@@ -221,9 +206,7 @@
 127.0.0.1 www.whalecloud.com
 127.0.0.1 cdn.puata.info
 127.0.0.1 ex.puata.info
-127.0.0.1 log.umtrack.com
 127.0.0.1 log.umsns.com
-127.0.0.1 stats.umsns.com
 127.0.0.1 www.uyunad.com
 #ali-wandoujia.com
 127.0.0.1 push.wandoujia.com

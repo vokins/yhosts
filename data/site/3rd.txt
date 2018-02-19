@@ -3,7 +3,6 @@
 127.0.0.1 a.ecook.cn
 127.0.0.1 s.hzht666.com
 127.0.0.1 vip.qqxwf.com
-127.0.0.1 s1.521daixiao.com
 127.0.0.1 ad.lqalm.com
 127.0.0.1 js.feitian001.com
 127.0.0.1 ss.swagger1.com

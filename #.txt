@@ -9,6 +9,13 @@
 127.0.0.1 s.go2yd.com
 127.0.0.1 web-track.go2yd.com
 
+del #360-ads
+127.0.0.1 s6.qhres.com
+127.0.0.1 s7.qhres.com
+127.0.0.1 js.passport.qihucdn.com
+127.0.0.1 jspassport.ssl.qhimg.com
+
+
 http://bd1.dopa.com/lfjnyw.js
 http://bd2.dopa.com/lfjnyw.js
 http://817.dopa.com/?dm=%E7%BD%91%E6%98%93.com&acc=5D5A62D6-E069-4097-BAAC-2E895820346F&poprequest=1

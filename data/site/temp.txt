@@ -36,7 +36,6 @@
 127.0.0.1 a1.peoplecdn.cn
 127.0.0.1 a1.waihui518.com
 127.0.0.1 a1.zhanzhang.net
-127.0.0.1 aaa.pyzxsl.com
 127.0.0.1 ab.dydab.com
 127.0.0.1 abc.zhiyaspa.com
 127.0.0.1 abcd.zsrt88.cn
@@ -52,7 +51,6 @@
 127.0.0.1 aes01.com
 127.0.0.1 affiliategroove.com
 127.0.0.1 ai.xinju.cc
-127.0.0.1 ajax-googleapis.chexinet.com
 127.0.0.1 ajialive.com
 127.0.0.1 al.za5.net
 127.0.0.1 amiok.org
@@ -62,7 +60,6 @@
 127.0.0.1 api.goulegu.com
 127.0.0.1 api.ijunhai.com
 127.0.0.1 api.ppoi.org
-127.0.0.1 api.rideraid.net
 127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 apk.idate520.com
@@ -148,7 +145,6 @@
 127.0.0.1 cdn.jllstudio.com
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 cdn1.res.uzham.com
-127.0.0.1 cdn3.e705.net
 127.0.0.1 changan.bama555.com
 127.0.0.1 chuantu.biz
 127.0.0.1 cilidaquan.pw
@@ -169,7 +165,6 @@
 127.0.0.1 crtl.322927.com
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cz.ifeng0.com
-127.0.0.1 cz2.rhgyg.com
 127.0.0.1 d.86fm.com
 127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
@@ -235,13 +230,10 @@
 127.0.0.1 e.farwx.com
 127.0.0.1 e.gitpw.com
 127.0.0.1 e.gjshcn.com
-127.0.0.1 e.gythsg.com
 127.0.0.1 e.hfyxdl.com
 127.0.0.1 e.hurnt.com
 127.0.0.1 e.iorgb.com
 127.0.0.1 e.jdgsgl.com
-127.0.0.1 e.jxxiangchu.com
-127.0.0.1 e.kimgfvz.com
 127.0.0.1 e.liweiso.com
 127.0.0.1 e.lndjj.com
 127.0.0.1 e.lovezhishou.com
@@ -255,20 +247,16 @@
 127.0.0.1 e.ricpt.com
 127.0.0.1 e.tiantianedu.net
 127.0.0.1 e.tommysdream.net
-127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.xkqpco.com
 127.0.0.1 e.xkqpco.com.com
-127.0.0.1 e.yidulive.net
 127.0.0.1 e.youyoumw.com
 127.0.0.1 e.zgjjkk.com
-127.0.0.1 e.zhuhaixiongyue.com
 127.0.0.1 e.zjkdaikuan.com
 127.0.0.1 ed.aijielang.cn
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 ein.51yingfa.com
 127.0.0.1 emss.zjhim.com
-127.0.0.1 enco.qqduckshop.com
 127.0.0.1 epernn.cn
 127.0.0.1 ew16d.package12.com
 127.0.0.1 extstat.com
@@ -295,7 +283,6 @@
 127.0.0.1 g.ousns.net
 127.0.0.1 g.s8dj.com
 127.0.0.1 g.szdn1ms.com
-127.0.0.1 g9.ruifeng99.com
 127.0.0.1 gfh.ahfzly.com
 127.0.0.1 gg.amblrgg.live
 127.0.0.1 global.ymtracking.com
@@ -305,10 +292,8 @@
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 godloveme.cn
-127.0.0.1 gog9.qzdfc.com
 127.0.0.1 gz.hxdaka.com
 127.0.0.1 h5.taihao.cc
-127.0.0.1 ha12.qxxys.com
 127.0.0.1 hd.biyao365.com
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hhqda.pop.t5yx.cn
@@ -320,7 +305,6 @@
 127.0.0.1 html.350.com
 127.0.0.1 husp.cccccd.com
 127.0.0.1 hxgccl.cn
-127.0.0.1 i.9le.net
 127.0.0.1 i.hao61.net
 127.0.0.1 i.xyqsnc.com
 127.0.0.1 i2.akjunshi.com
@@ -328,18 +312,14 @@
 127.0.0.1 ico.58pic.com
 127.0.0.1 iiiiii.sharrysweb.com
 127.0.0.1 ildie.gundam-online.com
-127.0.0.1 ilil0o.shadowsmell.com
 127.0.0.1 im.lokoo.com.cn
 127.0.0.1 im1.56zzw.com
 127.0.0.1 image.37wan.cn
 127.0.0.1 image.hj217.com
 127.0.0.1 image.ibb.co
 127.0.0.1 image.qj175.com
-127.0.0.1 image.vlook.cn
-127.0.0.1 images.tygc5.com
 127.0.0.1 images.xibei70.com
 127.0.0.1 img.balaiyani.com
-127.0.0.1 img.cnsjx.com.cn
 127.0.0.1 img.contx.cn
 127.0.0.1 img.dydab.com
 127.0.0.1 img.feitian001.com
@@ -352,8 +332,6 @@
 127.0.0.1 img.qqgeshou.com
 127.0.0.1 img.qrsw.net
 127.0.0.1 img.rqgsf.com
-127.0.0.1 img.sankezhi.cn
-127.0.0.1 img.shangxize.cn
 127.0.0.1 img.sheyuansu.com
 127.0.0.1 img.szsqhby.com
 127.0.0.1 img.tcdxt.com
@@ -403,9 +381,7 @@
 127.0.0.1 j.sjzdomeili.com
 127.0.0.1 j.vrclean.com
 127.0.0.1 j.wangdaizao.com
-127.0.0.1 j.web0523.com
 127.0.0.1 j.wubai.cc
-127.0.0.1 j.xiwujianshen.com
 127.0.0.1 j.ytbt.cc
 127.0.0.1 jfhe.0769371.com
 127.0.0.1 ji.dazhantai.com
@@ -457,7 +433,6 @@
 127.0.0.1 js1811.dupinpu.com
 127.0.0.1 js205.dupinpu.com
 127.0.0.1 js257.0937jyg.com
-127.0.0.1 js3987.vdhufs.com
 127.0.0.1 js4104.lygshgj.com
 127.0.0.1 js4104.scfatao.com
 127.0.0.1 js412.hot-eam.com
@@ -488,7 +463,6 @@
 127.0.0.1 jumping.nyyryy.com
 127.0.0.1 jv7zf.baohaocat.cn
 127.0.0.1 k.yp68.cn
-127.0.0.1 kaf.hnoka.com
 127.0.0.1 keryt.jnservo.com
 127.0.0.1 kiss.blockplus.cc
 127.0.0.1 kn.awyys.com
@@ -497,11 +471,9 @@
 127.0.0.1 kn.kymrzx.com
 127.0.0.1 kn.qhdfxkj.com
 127.0.0.1 kn.tjygyz.com
-127.0.0.1 kpwzxz.cn
 127.0.0.1 l.mnjkw.cn
 127.0.0.1 l9bdhcgihw.neihanw.com
 127.0.0.1 la.gydag.com
-127.0.0.1 lcktg00.com
 127.0.0.1 lhg.alisinak.com
 127.0.0.1 link.yida558.com
 127.0.0.1 lkme.cc
@@ -541,7 +513,6 @@
 127.0.0.1 m.cnbmaterials.com
 127.0.0.1 m.comesgo.com
 127.0.0.1 m.csyueye.com
-127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.czlhgz.com
 127.0.0.1 m.ddhuangchao.com
 127.0.0.1 m.dierqingchun.com
@@ -549,7 +520,6 @@
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.farwx.com
 127.0.0.1 m.fengwanwl.com
-127.0.0.1 m.gdyyyg.net
 127.0.0.1 m.gitpw.com
 127.0.0.1 m.gjshcn.com
 127.0.0.1 m.gtnde.com
@@ -570,14 +540,12 @@
 127.0.0.1 m.lovezhishou.com
 127.0.0.1 m.lyjz001.com
 127.0.0.1 m.maidiankeji.org
-127.0.0.1 m.md0z4dh.com
 127.0.0.1 m.miaoxinqipei.com
 127.0.0.1 m.mobiorg8.com
 127.0.0.1 m.mushizhubao.com
 127.0.0.1 m.mzp0o0.com
 127.0.0.1 m.netko0o.com
 127.0.0.1 m.nxypz.com
-127.0.0.1 m.onlifjj.net
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.parksonlong.com
 127.0.0.1 m.passwz.com
@@ -604,7 +572,6 @@
 127.0.0.1 m.symaa.cn
 127.0.0.1 m.symae.cn
 127.0.0.1 m.symaw.cn
-127.0.0.1 m.syofew6o.net
 127.0.0.1 m.tccti.com
 127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tommysdream.net
@@ -612,7 +579,6 @@
 127.0.0.1 m.twldmx.com
 127.0.0.1 m.uerzyr.cn
 127.0.0.1 m.umyai.com
-127.0.0.1 m.uzpmrbek.com
 127.0.0.1 m.verpt.com
 127.0.0.1 m.vers80.com
 127.0.0.1 m.vichc.com
@@ -628,12 +594,10 @@
 127.0.0.1 m.zgjjkk.com
 127.0.0.1 m.zpoder.com
 127.0.0.1 m2.qinsx.cn
-127.0.0.1 m3l823.wdalk.com
 127.0.0.1 m78.yatemy.cn
 127.0.0.1 m9.xcdf.cn
 127.0.0.1 malacca.inveno.com
 127.0.0.1 mm.2436.cn
-127.0.0.1 mm.ahyau.com
 127.0.0.1 mm.bbrpg.cn
 127.0.0.1 mm.nngft.com
 127.0.0.1 mo.uryaki.com
@@ -645,7 +609,6 @@
 127.0.0.1 mtl.ttsqgs.com
 127.0.0.1 myjsym.zichenit.com
 127.0.0.1 mymm.zichenit.com
-127.0.0.1 n.yccaffe.org
 127.0.0.1 n.yfi8.com
 127.0.0.1 new.yokaunion.com
 127.0.0.1 news.cxxtv.com
@@ -687,7 +650,6 @@
 127.0.0.1 pic.by175.com
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 pic.hkivs.cn
-127.0.0.1 pic.lehuohh.com
 127.0.0.1 pic.lovelala.cn
 127.0.0.1 pic.pic-img.com
 127.0.0.1 pic.pxstda.com
@@ -697,7 +659,6 @@
 127.0.0.1 pic.wxxitie.com
 127.0.0.1 pic1.59wd.com
 127.0.0.1 pop.code.poyang.cn
-127.0.0.1 pp.268mob.com
 127.0.0.1 pp2.dhzw.org
 127.0.0.1 ppoi.org
 127.0.0.1 ppx.hgo7r.cn
@@ -721,12 +682,9 @@
 127.0.0.1 r.5207470.com
 127.0.0.1 r.zlongad.com
 127.0.0.1 rbjs.chinassp.cn
-127.0.0.1 rc.haodongkeji.cn
-127.0.0.1 rj.huajingfood.cn
 127.0.0.1 rjs.niuxgame77.com
 127.0.0.1 rsas.szzek.com
 127.0.0.1 s.272xb.com
-127.0.0.1 s.3333309.cn
 127.0.0.1 s.6113371.com
 127.0.0.1 s.7now.cn
 127.0.0.1 s.80sjw.com
@@ -778,23 +736,19 @@
 127.0.0.1 s1.kutongji.com
 127.0.0.1 s1.mqsyz.com
 127.0.0.1 s1.ykgqs.com
-127.0.0.1 s2.521daixiao.com
 127.0.0.1 s2.kuaibaopay.com
-127.0.0.1 s4.521daixiao.com
 127.0.0.1 sc.gyeet.com
 127.0.0.1 sc.sczxy.com
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 sdk.appadhoc.com
 127.0.0.1 seen.h01ce.cn
 127.0.0.1 seen.ttfgames.cn
-127.0.0.1 sese.chmae.com
 127.0.0.1 sha50.com
 127.0.0.1 shixunjs.th21333.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
 127.0.0.1 sj.uukanshu.com
 127.0.0.1 sjkmio.812920.top
 127.0.0.1 sl.xawjwl.com
-127.0.0.1 slb.cybaoxian.com
 127.0.0.1 slb.jiehantai.com
 127.0.0.1 slb.pcmzn.com
 127.0.0.1 slb.sxuantang.com
@@ -803,11 +757,9 @@
 127.0.0.1 snw5.jkjjkj.top
 127.0.0.1 sod.onelink.me
 127.0.0.1 soft.qymma.com
-127.0.0.1 souacode.com
 127.0.0.1 sp.wndoor.com
 127.0.0.1 sp5.jkjjkj.top
 127.0.0.1 ss.shuajuzu.com
-127.0.0.1 ssplog.geekwide.cn
 127.0.0.1 sss.jusha.com
 127.0.0.1 sss.wzjmr.com
 127.0.0.1 static.1j1j.com
@@ -818,7 +770,6 @@
 127.0.0.1 statics.9669.com
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 sub.alisinak.com
-127.0.0.1 sube.puwangkj.com
 127.0.0.1 suixingfu.guluw.com
 127.0.0.1 sv719.dreamdays.cn
 127.0.0.1 swappdl.duoyi.com
@@ -837,7 +788,6 @@
 127.0.0.1 t.cnsjx.net
 127.0.0.1 t.cyuew.com
 127.0.0.1 t.dmtrck.com
-127.0.0.1 t.e706.net
 127.0.0.1 t.hzaibi.com
 127.0.0.1 t.iz55.com
 127.0.0.1 t.nbyongle.com
@@ -849,7 +799,6 @@
 127.0.0.1 t188.dazhonghua.cn
 127.0.0.1 t2.vbxx.net
 127.0.0.1 t2.wshufa.com
-127.0.0.1 t8.dnvus.com
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 td.xue63.com
 127.0.0.1 tf.caohua.com
@@ -877,7 +826,6 @@
 127.0.0.1 tyjs.bjjz900.com
 127.0.0.1 tz.zjhoudao.com
 127.0.0.1 u.anluyg.net
-127.0.0.1 u.diginavi.net
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u291014.pr00001.com
 127.0.0.1 ucan.25pp.com
@@ -898,7 +846,6 @@
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.acasys88.cn
 127.0.0.1 v.e7002.com
-127.0.0.1 v.e704.net
 127.0.0.1 v.hr41.cn
 127.0.0.1 v.jiaheyonggu.com
 127.0.0.1 v7.kawinhome.com
@@ -907,12 +854,10 @@
 127.0.0.1 vip.cainiaofx.com
 127.0.0.1 vip.id528.com
 127.0.0.1 vip.jindu179.com
-127.0.0.1 vip.jixian360.com
 127.0.0.1 vip.jixing8.com
 127.0.0.1 vip.mall044.com
 127.0.0.1 vip.sc386.com
 127.0.0.1 vip.shuma2.com
-127.0.0.1 vip.zhineng6.com
 127.0.0.1 vmjjzk.cn
 127.0.0.1 vns800600.net
 127.0.0.1 w.1lib.cn
@@ -920,7 +865,6 @@
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.chnup.cn
 127.0.0.1 w.cube3d.cn
-127.0.0.1 w.gd8023.com
 127.0.0.1 w.gszbba.cn
 127.0.0.1 w.hbalx.cn
 127.0.0.1 w.lsxmg.com
@@ -928,7 +872,6 @@
 127.0.0.1 w.xayjr.cn
 127.0.0.1 w.yamaidei.cn
 127.0.0.1 w2.gszbba.cn
-127.0.0.1 w6w.fsbxg1688.com
 127.0.0.1 w9h1.me
 127.0.0.1 wap.cioujs.com
 127.0.0.1 wap.txwdn.com
@@ -955,7 +898,6 @@
 127.0.0.1 www.222627.com
 127.0.0.1 www.256ppp.com
 127.0.0.1 www.3388pjdc.com
-127.0.0.1 www.360hllx.com
 127.0.0.1 www.4207008.com
 127.0.0.1 www.5066.net
 127.0.0.1 www.5188yy.com
@@ -971,7 +913,6 @@
 127.0.0.1 www.68aj.com
 127.0.0.1 www.6kwan.com
 127.0.0.1 www.7080555.com
-127.0.0.1 www.70lm.com
 127.0.0.1 www.7540.com
 127.0.0.1 www.8033bb.com
 127.0.0.1 www.8066hg.com
@@ -995,7 +936,6 @@
 127.0.0.1 www.day66.com
 127.0.0.1 www.dgfggy.com
 127.0.0.1 www.diediao.com
-127.0.0.1 www.dimeiz.com
 127.0.0.1 www.duocpa2.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 www.flwja.com
@@ -1019,7 +959,6 @@
 127.0.0.1 www.jav23.com
 127.0.0.1 www.jinsha11833.com
 127.0.0.1 www.jndczg.com
-127.0.0.1 www.ju12345.com
 127.0.0.1 www.juchenglm.com
 127.0.0.1 www.jutou5.com
 127.0.0.1 www.jystea.com
@@ -1090,8 +1029,6 @@
 127.0.0.1 www.zjjgtz.com
 127.0.0.1 www.zxziyuan.com
 127.0.0.1 www.zz123.com
-127.0.0.1 wwwimg.86sjx.com
-127.0.0.1 wwwimg.baijiacn.com
 127.0.0.1 wwws.zxtry.com
 127.0.0.1 wwww.640640.com
 127.0.0.1 wx.paigu.com
@@ -1109,7 +1046,6 @@
 127.0.0.1 xy.shijialianzuishuai.com
 127.0.0.1 y.5125129.com
 127.0.0.1 y.97kuaixiu.com
-127.0.0.1 y.dali517.com
 127.0.0.1 y.fm6w.com
 127.0.0.1 y.gwylm.com
 127.0.0.1 y.gyhzr.com
@@ -1118,8 +1054,6 @@
 127.0.0.1 y.zxwdw.com
 127.0.0.1 ydland.youyou822.com
 127.0.0.1 yess.imneinei.com
-127.0.0.1 yiqi.whpxy.com
-127.0.0.1 yjxzs.com
 127.0.0.1 yn.001fzc.com
 127.0.0.1 yoo.yiiyoo.net
 127.0.0.1 yunbofangbt.com

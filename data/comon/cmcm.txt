@@ -1,6 +1,5 @@
 #cmcm
 127.0.0.1 ms.cmcm.com
-127.0.0.1 pegasus.cmcm.com
 127.0.0.1 cmcdl.cmcm.com
 127.0.0.1 dl.cm.ksmobile.com
 #ijinshan

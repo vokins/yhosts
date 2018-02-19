@@ -78,7 +78,6 @@
 127.0.0.1 mmg.aty.snmsohu.aisee.tv
 #http://pd.youku.com/CIBN
 127.0.0.1 g.dtv.cn.miaozhen.com
-127.0.0.1 xtrader-mipdx.cn.miaozhen.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net

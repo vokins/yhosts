@@ -54,7 +54,6 @@
 127.0.0.1 app.houyi.baofeng.net
 127.0.0.1 ck.houyi.baofeng.net
 127.0.0.1 d3f.houyi.baofeng.net
-127.0.0.1 fyd.houyi.baofeng.net
 127.0.0.1 log.houyi.baofeng.net
 127.0.0.1 mid.houyi.baofeng.net
 127.0.0.1 parser.houyi.baofeng.net
@@ -72,11 +71,9 @@
 127.0.0.1 distf.stat.kankan.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 loadm.exelator.com
-127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 #http://www.ku6.com/
 127.0.0.1 addata.ku6.com
 127.0.0.1 pvdata.ku6.com
-127.0.0.1 v0.stat.ku6.com
 127.0.0.1 vi1.ku6img.net
 127.0.0.1 vi2.ku6img.net
 127.0.0.1 dwtracking.sdo.com

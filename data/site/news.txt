@@ -16,7 +16,6 @@
 #www.people.com.cn
 127.0.0.1 pmm.people.com.cn
 #www.xinhuanet.com
-127.0.0.1 embed.xinhuanet.com
 127.0.0.1 tmisc.home.news.cn
 127.0.0.1 webd.home.news.cn
 #www.ynet.com

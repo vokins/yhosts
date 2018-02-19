@@ -72,7 +72,6 @@
 127.0.0.1 m.zzxbn.com
 127.0.0.1 m78n.me
 127.0.0.1 mibook-10006092.cos.myqcloud.com
-127.0.0.1 morepoweronmac.trade
 127.0.0.1 njs.myyage.com
 127.0.0.1 onclkds.com
 127.0.0.1 ops.zibov.com
@@ -85,7 +84,6 @@
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 s.xcfe.cn
 127.0.0.1 script.crazyegg.com
-127.0.0.1 search.moviecarpet.com
 127.0.0.1 ss.subo.me
 127.0.0.1 ssl.cuxiaoso.com
 127.0.0.1 static.hotjar.com

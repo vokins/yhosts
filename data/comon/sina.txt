@@ -107,7 +107,6 @@
 127.0.0.1 rm.ra.icast.cn
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
-127.0.0.1 track2.ra.icast.cn
 #sina-com.hk
 127.0.0.1 avn.innity.com
 127.0.0.1 cast.innity.com
