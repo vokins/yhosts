@@ -1191,6 +1191,10 @@
 127.0.0.1 maimai.cn
 127.0.0.1 acc.maimai.cn
 127.0.0.1 www.qianshengqian.com
+127.0.0.1 s.tantanapp.com
+127.0.0.1 lp.tantanapp.com
+127.0.0.1 apk-ssl.tancdn.com
+127.0.0.1 tantanapp.com
 @down
 #down-2345
 127.0.0.1 dl.2345.com
@@ -3140,6 +3144,35 @@
 127.0.0.1 tqd.ntpddq.com
 127.0.0.1 kn.barnfps.com
 127.0.0.1 c.ytvbn.cn
+127.0.0.1 a.m.gxwztv.com
+127.0.0.1 a.wlfnb.com
+127.0.0.1 api.ireai.cn
+127.0.0.1 api.rideraid.net
+127.0.0.1 ba.fqzds.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 code.wantaico.com
+127.0.0.1 e.027blzs.com
+127.0.0.1 e.gglay.com
+127.0.0.1 e.jxxiangchu.com
+127.0.0.1 e.mrsasharingspace.com
+127.0.0.1 e.qvxyz.com
+127.0.0.1 e.yidulive.net
+127.0.0.1 html.yuntzs.com
+127.0.0.1 j.12306media.com
+127.0.0.1 js.adm.cnzz.net
+127.0.0.1 li.anyysz.com
+127.0.0.1 lkf1.m.sanhao3.com
+127.0.0.1 m.027blzs.com
+127.0.0.1 m.gglay.com
+127.0.0.1 m.sanjiangge.com
+127.0.0.1 mjs.csyymp4.com
+127.0.0.1 rc.fthcz.com
+127.0.0.1 rc.haodongkeji.cn
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 tongji.ads.yxdown.com
+127.0.0.1 www.zreder.com
+127.0.0.1 xin.ygqczh.com
+127.0.0.1 zx.baosmx.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

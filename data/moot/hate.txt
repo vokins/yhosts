@@ -33,3 +33,7 @@
 127.0.0.1 maimai.cn
 127.0.0.1 acc.maimai.cn
 127.0.0.1 www.qianshengqian.com
+127.0.0.1 s.tantanapp.com
+127.0.0.1 lp.tantanapp.com
+127.0.0.1 apk-ssl.tancdn.com
+127.0.0.1 tantanapp.com
