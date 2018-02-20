@@ -1,5 +1,5 @@
 
-#version=20180220 919
+#version=20180220 926
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -1538,11 +1538,6 @@
 127.0.0.1 all.rising.com.cn
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
-#ruanmei
-127.0.0.1 d.ruanmei.com
-127.0.0.1 down.ruanmei.com
-127.0.0.1 go.ruanmei.com
-127.0.0.1 m.ruanmei.com
 #safedog.cn
 127.0.0.1 404.safedog.cn
 #www.2cto.com
