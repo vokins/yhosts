@@ -1,5 +1,5 @@
-! Version: 16:28 2018/2/19
-! Version: 0.1.2.2.12
+! Version: 9:37 2018/2/21
+! Version: 0.1.2.2.17
 ! Title: yList
 ! Expires: 2 days
 ! Author:Kim
@@ -18,7 +18,7 @@
 ##div[class^="ad9"]
 ##div[class^="ad-9"]
 
-##div[class*="ad-area"]
+##div[class^="ad-area"]
 ##div[class^="adArea"]
 ##div[class^="adarea"]
 ##div[class^="adbox"]
@@ -49,8 +49,10 @@
 ##div[id="topAdv"]
 ##div[id^="adBody"]
 ##div[id^="google_ads"]
-##iframe[src^="ad"]
 ##[src*="/advertisement/"]
+##iframe[src*="/ad/"]
+##iframe[src^="ad"]
+##img[src*="/ad/"]
 
 ##div[id^="adLeft"]
 ##div[id^="adRight"]

@@ -15,6 +15,9 @@ del #360-ads
 127.0.0.1 js.passport.qihucdn.com
 127.0.0.1 jspassport.ssl.qhimg.com
 
+将##div[class*="ad-area"]
+改为##div[class^="ad-area"]以解决
+<div class="post-head-area">的误杀问题
 
 http://bd1.dopa.com/lfjnyw.js
 http://bd2.dopa.com/lfjnyw.js
