@@ -19,3 +19,5 @@
 127.0.0.1 pb.wang502.com
 127.0.0.1 m.symaj.cn
 127.0.0.1 symaj.cn
+#http://www.ttvdo.com
+127.0.0.1 cndjs-1251973891.coshk.myqcloud.com

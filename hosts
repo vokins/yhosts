@@ -1,5 +1,5 @@
 
-#version=20180221 937
+#version=201802241525
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2095,6 +2095,8 @@
 127.0.0.1 dc.vmoters.com
 #rrys
 127.0.0.1 pat.farvd.com
+#adesk
+127.0.0.1 service.ad.adesk.com
 #halolauncher
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -2399,6 +2401,8 @@
 127.0.0.1 pb.wang502.com
 127.0.0.1 m.symaj.cn
 127.0.0.1 symaj.cn
+#http://www.ttvdo.com
+127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -3173,6 +3177,14 @@
 127.0.0.1 zx.baosmx.com
 127.0.0.1 1e2hyl3b.wq42211.com
 127.0.0.1 mc.allxin.com
+127.0.0.1 e.emgwq.com
+127.0.0.1 m.emgwq.com
+127.0.0.1 e.hellomingpian.com
+127.0.0.1 m.hellomingpian.com
+127.0.0.1 e.lzytt.com
+127.0.0.1 m.lzytt.com
+127.0.0.1 m.qvxyz.com
+127.0.0.1 e.ptrvc.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

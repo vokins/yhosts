@@ -18,6 +18,14 @@ del #360-ads
 将##div[class*="ad-area"]
 改为##div[class^="ad-area"]以解决
 <div class="post-head-area">的误杀问题
+https://trc.taboola.com/cnbeta/trc/3/json?tim=11%3A00%3A39.618&data=%7B%22id%22%3A16%2C%22ii%22%3A%22%2Fview%2F701147.htm%22%2C%22it%22%3A%22text%22%2C%22sd%22%3A%22v2_d66e8add5c0dc652f2b6952bb95c35ba_54c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef_1519440166_1519441238_CNawjgYQjrREGPuxha6cLCAFKAMwMA%22%2C%22ui%22%3A%2254c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef%22%2C%22uifp%22%3A%2254c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef%22%2C%22vi%22%3A1519441239616%2C%22cv%22%3A%22295-97-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fm.cnbeta.com%2Fview%2F701147.htm%22%2C%22bv%22%3A%220%22%2C%22ul%22%3A%5B%22zh-CN%22%5D%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-t2m%22%2C%22s%22%3A4%2C%22uim%22%3A%22thumbnails-m%3Aabp%3D0%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails-m%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails-m%22%7D%5D%2C%22cb%22%3A%22TRC.callbacks.recommendations_1%22%2C%22lt%22%3A%22normal%22%7D
+
+https://sb.scorecardresearch.com/beacon.js
+https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS
+
+https://cdn.taboola.com/libtrc/cnbeta/loader.js
+https://cdn.taboola.com/libtrc/impl.295-97-RELEASE.js
+
 
 http://bd1.dopa.com/lfjnyw.js
 http://bd2.dopa.com/lfjnyw.js

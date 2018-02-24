@@ -384,3 +384,11 @@
 127.0.0.1 zx.baosmx.com
 127.0.0.1 1e2hyl3b.wq42211.com
 127.0.0.1 mc.allxin.com
+127.0.0.1 e.emgwq.com
+127.0.0.1 m.emgwq.com
+127.0.0.1 e.hellomingpian.com
+127.0.0.1 m.hellomingpian.com
+127.0.0.1 e.lzytt.com
+127.0.0.1 m.lzytt.com
+127.0.0.1 m.qvxyz.com
+127.0.0.1 e.ptrvc.com
