@@ -189,3 +189,5 @@ http://www.dygang.net/d/gg/*
 http://www.dysfz.cc/img/*
 https://www.shuaigay.win/cp.js
 https://cs-op.douyucdn.cn/nggsys/*
+||static.cnbetacdn.com/frontend/vipics/*
+##div[id^="taboola-"]
