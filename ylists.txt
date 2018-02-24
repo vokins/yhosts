@@ -1,10 +1,13 @@
-! Version: 9:37 2018/2/21
-! Version: 0.1.2.2.17
+[Adblock Plus 2.0]
+! Version: 201802241055
 ! Title: yList
-! Expires: 2 days
+! Last modified: 10:55 2018/2/24
+! Expires: 10 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
-! Homepage: https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
+! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
+! Homepage: https://github.com/vokins/yhosts/blob/master/ylists.txt
+!
 
 ##div[class^="ad0"]
 ##div[class^="ad1"]
