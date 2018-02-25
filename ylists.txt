@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201802242250
+! Version: 201802252030
 ! Title: yList
-! Last modified: 10:47 2018/2/24
+! Last modified: 8:28 2018/2/25
 ! Expires: 10 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -199,3 +199,4 @@ https://cs-op.douyucdn.cn/nggsys/*
 ||logic.cpm.cm.kankan.com
 ||float.kankan.com
 ||biz5.kankan.com
+shuaigay.win##[style*="99999"]
