@@ -3190,6 +3190,15 @@
 127.0.0.1 fghmimg.ga25.com
 127.0.0.1 www.ynbojie.com
 127.0.0.1 m.ptrvc.com
+127.0.0.1 cdn.5bong.com
+127.0.0.1 dyb.jdcbuy.com
+127.0.0.1 p.jbflil.cn
+127.0.0.1 static.beilamusi.com
+127.0.0.1 sy.shongcheng.com
+127.0.0.1 c.ytbnm.cn
+127.0.0.1 h1ng3lem8.m.lanseshuba.com
+127.0.0.1 m.kcooy.com
+127.0.0.1 pupu.xnhh120.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
