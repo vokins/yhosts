@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201802271810
+! Version: 201802271815
 ! Title: yList
-! Last modified: 6:10 2018/2/27
-! Expires: 10 days (update frequency)
+! Last modified: 6:15 2018/2/27
+! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
@@ -202,3 +202,4 @@ https://cs-op.douyucdn.cn/nggsys/*
 shuaigay.win##[style*="99999"]
 trakt.tv##div[id="huckster-desktop-wrapper"]
 trakt.tv##div[id="huckster-mobile-top-square"]
+trakt.tv##div[id="huckster-mobile-square-wrapper"]
