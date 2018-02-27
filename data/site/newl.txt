@@ -409,3 +409,6 @@
 127.0.0.1 h1ng3lem8.m.lanseshuba.com
 127.0.0.1 m.kcooy.com
 127.0.0.1 pupu.xnhh120.com
+127.0.0.1 e.kcooy.com
+127.0.0.1 s.918jcw.com
+127.0.0.1 www.mengyuanwei.com

@@ -2400,6 +2400,8 @@
 127.0.0.1 symaj.cn
 #http://www.ttvdo.com
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
+#jbzj.com
+127.0.0.1 jscode.jbzj.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -3199,6 +3201,9 @@
 127.0.0.1 h1ng3lem8.m.lanseshuba.com
 127.0.0.1 m.kcooy.com
 127.0.0.1 pupu.xnhh120.com
+127.0.0.1 e.kcooy.com
+127.0.0.1 s.918jcw.com
+127.0.0.1 www.mengyuanwei.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn

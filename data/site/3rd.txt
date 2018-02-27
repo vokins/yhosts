@@ -21,3 +21,5 @@
 127.0.0.1 symaj.cn
 #http://www.ttvdo.com
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
+#jbzj.com
+127.0.0.1 jscode.jbzj.com
