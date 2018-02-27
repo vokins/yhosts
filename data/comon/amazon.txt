@@ -1,1 +1,2 @@
+127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
