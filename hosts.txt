@@ -2402,6 +2402,8 @@
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
 #jbzj.com
 127.0.0.1 jscode.jbzj.com
+127.0.0.1 ad-delivery.net
+127.0.0.1 adserver.adtech.de
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
