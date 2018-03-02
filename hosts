@@ -1,5 +1,5 @@
 
-#version=201802271807
+#version=201803022211
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -3278,6 +3278,12 @@
 127.0.0.1 e.kcooy.com
 127.0.0.1 s.918jcw.com
 127.0.0.1 www.mengyuanwei.com
+127.0.0.1 c.rmetop.com
+127.0.0.1 e.ywbwsm.com
+127.0.0.1 m.lzida.com
+127.0.0.1 m.ywbwsm.com
+127.0.0.1 vt.bjhdonline.com
+127.0.0.1 www.qupinhj.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
@@ -7500,37 +7506,37 @@
 127.0.0.1 www.inoprosport.su
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 x.bidswitch.net
-127.0.0.1 20180201.logic.cpm.cm.kankan.com
-127.0.0.1 20180202.logic.cpm.cm.kankan.com
-127.0.0.1 20180203.logic.cpm.cm.kankan.com
-127.0.0.1 20180204.logic.cpm.cm.kankan.com
-127.0.0.1 20180205.logic.cpm.cm.kankan.com
-127.0.0.1 20180206.logic.cpm.cm.kankan.com
-127.0.0.1 20180207.logic.cpm.cm.kankan.com
-127.0.0.1 20180208.logic.cpm.cm.kankan.com
-127.0.0.1 20180209.logic.cpm.cm.kankan.com
-127.0.0.1 20180210.logic.cpm.cm.kankan.com
-127.0.0.1 20180211.logic.cpm.cm.kankan.com
-127.0.0.1 20180212.logic.cpm.cm.kankan.com
-127.0.0.1 20180213.logic.cpm.cm.kankan.com
-127.0.0.1 20180214.logic.cpm.cm.kankan.com
-127.0.0.1 20180215.logic.cpm.cm.kankan.com
-127.0.0.1 20180216.logic.cpm.cm.kankan.com
-127.0.0.1 20180217.logic.cpm.cm.kankan.com
-127.0.0.1 20180218.logic.cpm.cm.kankan.com
-127.0.0.1 20180219.logic.cpm.cm.kankan.com
-127.0.0.1 20180220.logic.cpm.cm.kankan.com
-127.0.0.1 20180221.logic.cpm.cm.kankan.com
-127.0.0.1 20180222.logic.cpm.cm.kankan.com
-127.0.0.1 20180223.logic.cpm.cm.kankan.com
-127.0.0.1 20180224.logic.cpm.cm.kankan.com
-127.0.0.1 20180225.logic.cpm.cm.kankan.com
-127.0.0.1 20180226.logic.cpm.cm.kankan.com
-127.0.0.1 20180227.logic.cpm.cm.kankan.com
-127.0.0.1 20180228.logic.cpm.cm.kankan.com
-127.0.0.1 20180229.logic.cpm.cm.kankan.com
-127.0.0.1 20180230.logic.cpm.cm.kankan.com
-127.0.0.1 20180231.logic.cpm.cm.kankan.com
+127.0.0.1 20180301.logic.cpm.cm.kankan.com
+127.0.0.1 20180302.logic.cpm.cm.kankan.com
+127.0.0.1 20180303.logic.cpm.cm.kankan.com
+127.0.0.1 20180304.logic.cpm.cm.kankan.com
+127.0.0.1 20180305.logic.cpm.cm.kankan.com
+127.0.0.1 20180306.logic.cpm.cm.kankan.com
+127.0.0.1 20180307.logic.cpm.cm.kankan.com
+127.0.0.1 20180308.logic.cpm.cm.kankan.com
+127.0.0.1 20180309.logic.cpm.cm.kankan.com
+127.0.0.1 20180310.logic.cpm.cm.kankan.com
+127.0.0.1 20180311.logic.cpm.cm.kankan.com
+127.0.0.1 20180312.logic.cpm.cm.kankan.com
+127.0.0.1 20180313.logic.cpm.cm.kankan.com
+127.0.0.1 20180314.logic.cpm.cm.kankan.com
+127.0.0.1 20180315.logic.cpm.cm.kankan.com
+127.0.0.1 20180316.logic.cpm.cm.kankan.com
+127.0.0.1 20180317.logic.cpm.cm.kankan.com
+127.0.0.1 20180318.logic.cpm.cm.kankan.com
+127.0.0.1 20180319.logic.cpm.cm.kankan.com
+127.0.0.1 20180320.logic.cpm.cm.kankan.com
+127.0.0.1 20180321.logic.cpm.cm.kankan.com
+127.0.0.1 20180322.logic.cpm.cm.kankan.com
+127.0.0.1 20180323.logic.cpm.cm.kankan.com
+127.0.0.1 20180324.logic.cpm.cm.kankan.com
+127.0.0.1 20180325.logic.cpm.cm.kankan.com
+127.0.0.1 20180326.logic.cpm.cm.kankan.com
+127.0.0.1 20180327.logic.cpm.cm.kankan.com
+127.0.0.1 20180328.logic.cpm.cm.kankan.com
+127.0.0.1 20180329.logic.cpm.cm.kankan.com
+127.0.0.1 20180330.logic.cpm.cm.kankan.com
+127.0.0.1 20180331.logic.cpm.cm.kankan.com
 127.0.0.1 018520.com
 127.0.0.1 13023.url.7wkw.com
 127.0.0.1 30350f.com

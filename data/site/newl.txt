@@ -412,3 +412,9 @@
 127.0.0.1 e.kcooy.com
 127.0.0.1 s.918jcw.com
 127.0.0.1 www.mengyuanwei.com
+127.0.0.1 c.rmetop.com
+127.0.0.1 e.ywbwsm.com
+127.0.0.1 m.lzida.com
+127.0.0.1 m.ywbwsm.com
+127.0.0.1 vt.bjhdonline.com
+127.0.0.1 www.qupinhj.com
