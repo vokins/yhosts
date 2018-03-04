@@ -418,3 +418,5 @@
 127.0.0.1 m.ywbwsm.com
 127.0.0.1 vt.bjhdonline.com
 127.0.0.1 www.qupinhj.com
+127.0.0.1 e.romgv.com
+127.0.0.1 m.romgv.com
