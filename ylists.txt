@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201802271815
+! Version: 20180305220337
 ! Title: yList
-! Last modified: 6:15 2018/2/27
+! Last modified: 10:03 2018/3/5
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -177,6 +177,13 @@ www.douyu.com###ul[class="promos"][data-type="promos"]
 
 xinhuanet.com##div[id^="YCADS"]
 tieba.baidu.com##li[class$="  clearfix"]
+
+##[href^="//ggs.myzaker.com/"]
+##[src^="//ggs.myzaker.com/"]
+myzaker.com##a[id^="dsp_id_"]
+myzaker.com##div[class="zk_top_barwrap"]
+##img[id="qrcode"]
+
 *.mediav.com/*
 *.cnzz.com/*
 //u-x.jd.com/*

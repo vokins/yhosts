@@ -3283,6 +3283,7 @@
 127.0.0.1 www.qupinhj.com
 127.0.0.1 e.romgv.com
 127.0.0.1 m.romgv.com
+127.0.0.1 fpbbdx1.51240.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
