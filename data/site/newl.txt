@@ -1,3 +1,10 @@
+127.0.0.1 e.lifuzhubao.com
+127.0.0.1 js2553.xjzyq.com
+127.0.0.1 kn.archrug.com
+127.0.0.1 m.dxmci.com
+127.0.0.1 m.lifuzhubao.com
+127.0.0.1 s.georgias.cn
+127.0.0.1 s.zgclmw.cn
 127.0.0.1 m.vvnna.com
 127.0.0.1 m.wxmg2016.com
 127.0.0.1 e.wxmg2016.com
