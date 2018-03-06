@@ -1,5 +1,5 @@
 
-#version=201803052206
+#version=201803061435
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -3287,6 +3287,8 @@
 127.0.0.1 e.romgv.com
 127.0.0.1 m.romgv.com
 127.0.0.1 fpbbdx1.51240.com
+127.0.0.1 img1.mekbet.com
+127.0.0.1 sss.zbred.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
