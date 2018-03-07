@@ -1,5 +1,5 @@
 
-#version=201803061709
+#version=201803071357
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -2476,6 +2476,8 @@
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
 #jbzj.com
 127.0.0.1 jscode.jbzj.com
+#m.babayu.com
+127.0.0.1 w.jscsd.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -2864,6 +2866,10 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.dxmci.com
+127.0.0.1 j.qijijs.top
+127.0.0.1 love.yy0555.com
+127.0.0.1 y.shuoshuocm.com
 127.0.0.1 e.lifuzhubao.com
 127.0.0.1 js2553.xjzyq.com
 127.0.0.1 kn.archrug.com

@@ -23,3 +23,5 @@
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
 #jbzj.com
 127.0.0.1 jscode.jbzj.com
+#m.babayu.com
+127.0.0.1 w.jscsd.cn
