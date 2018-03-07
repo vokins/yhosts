@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180306144438
+! Version: 20180307113015
 ! Title: yList
-! Last modified: 2:44 2018/3/6
+! Last modified: 11:30 2018/3/7
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -45,6 +45,8 @@
 ##div[id*="ad_left"]
 ##div[id*="ad_right"]
 ##div[id^="right_ad"]
+##div[id^="adleft"]
+##div[id^="adright"]
 
 ##div[class$=" adv"]
 ##div[class^="tempad"]
