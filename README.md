@@ -63,7 +63,7 @@ Since 2009-06-06
 # yhosts Project
 
 `
-最好
+不好用
 `
    的
 hosts文件
