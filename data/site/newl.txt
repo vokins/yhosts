@@ -1,3 +1,10 @@
+127.0.0.1 e.wjdfv.com
+127.0.0.1 e.youweiprint.com
+127.0.0.1 jdw.zjuwjdc.com
+127.0.0.1 m.wjdfv.com
+127.0.0.1 m.youweiprint.com
+127.0.0.1 t75.qyqc4s.com
+127.0.0.1 www.ymrzr.com
 127.0.0.1 e.dxmci.com
 127.0.0.1 j.qijijs.top
 127.0.0.1 love.yy0555.com

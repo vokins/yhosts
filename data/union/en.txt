@@ -318,14 +318,18 @@
 127.0.0.1 telstra.imrworldwide.com
 #inmobi.com
 127.0.0.1 i.l.inmobicdn.net
+127.0.0.1 au.w.inmobi.cn
+127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 apptv.w.inmobi.com
+127.0.0.1 au.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 et.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com

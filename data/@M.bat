@@ -1,6 +1,6 @@
 %1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
 cd /d "%~dp0"
-ver=14:30 2017/11/15/ÖÜÈý
+ver=8:35 2018/3/10
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -14,11 +14,11 @@ rem "%~dp0win\dos2unix.exe" -n 1A.txt hosts.txt
 call :winhosts
 ping -n 3 127.0.0.1
 call :del
-del /f pop.txt union.txt app.txt sitecn.txt moot.txt old.txt comon.txt os.txt
+del /f pop.txt union.txt app.txt sitecn.txt moot.txt old.txt comon.txt os.txt 333.txt
 exit
 
 :del
-del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt
+del /f Version.txt Xunlei.txt bat.txt 1A.txt lyq.txt 333.txt
 goto :eof
 
 :bat
@@ -41,9 +41,12 @@ goto :eof
 @SET win=%cd%\win
 @cd %CURRENTDIR%
 rem "%win%\sed.exe" -i "$d" site.txt
-set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
+set files=active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
+for %%a in (%files%) do (type "%%a">>333.txt)
+"%win%\sed.exe" -i "s/127.0.0.1/0.0.0.0/g" 333.txt
+set files=direct.txt 333.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=direct.txt active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
+set files=active.txt base.txt comon.txt direct.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt

@@ -44,6 +44,9 @@
 127.0.0.1 c.wkanx.com
 127.0.0.1 c1.wkanx.com
 127.0.0.1 static.wkanx.com
+#wifi8.com
+127.0.0.1 adnew.wifi8.com
+127.0.0.1 cmsapi.wifi8.com
 #wifiwnmm
 127.0.0.1 wifishow.ggsafe.com
 #http://zdworks.com/

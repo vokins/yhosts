@@ -30,6 +30,7 @@
 #http://itaoxiaoshuo.com/
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 itaoxiaoshuo.com
+127.0.0.1 rpnews.itaoxiaoshuo.com
 #https://itunes.apple.com/cn/app/lao-zi-sou-shu/id1147985301
 127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 #http://kuaibao.qq.com/mobile.html
@@ -78,6 +79,17 @@
 #http://www.zhuishushenqi.com/
 127.0.0.1 ad.ipadview.com
 127.0.0.1 stats.magicwindow.cn
+127.0.0.1 alertserver.ushaqi.com
+127.0.0.1 d.1391.com
+127.0.0.1 lyapi.1391.com
+127.0.0.1 lyjk.1391.com
+127.0.0.1 lylog.1391.com
+127.0.0.1 mhd.1391.com
+127.0.0.1 mhdpay.1391.com
+127.0.0.1 mhdtestks3.1391.com
+127.0.0.1 mhdufile.1391.com
+127.0.0.1 mhjk.1391.com
+127.0.0.1 sqtpks3.1391.com
 #http://zhangyue.com/
 127.0.0.1 am.g.ireader.com
 127.0.0.1 img.ad.zhangyue.com

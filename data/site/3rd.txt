@@ -25,3 +25,9 @@
 127.0.0.1 jscode.jbzj.com
 #m.babayu.com
 127.0.0.1 w.jscsd.cn
+#https://m.zhidiy.com
+127.0.0.1 su.8881919.cc
+#www.yueyuyy.com
+127.0.0.1 m.nthtcs.com
+127.0.0.1 mob.12365chia.com 
+127.0.0.1 ref.12365chia.com

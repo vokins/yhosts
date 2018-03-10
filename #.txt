@@ -1,3 +1,29 @@
+127.0.0.1 data.openspeech.cn #零点书屋 科大讯飞
+127.0.0.1 scs.openspeech.cn  #待测试
+127.0.0.1 hdns.openspeech.cn #待测试
+127.0.0.1 hxqd.openspeech.cn #零点书屋 科大讯飞 #待测试
+127.0.0.1 redpack.pay.xiaomi.com #小米红包
+127.0.0.1 chat.im.taobao.com #APP淘小说 淘宝消息
+127.0.0.1 api.k.sohu.com #APP淘小说 sohu新闻
+127.0.0.1 a.app.qq.com #APP淘小说 tencent app 下载
+127.0.0.1 idmgr.ww.taobao.com #APP淘小说 淘宝
+127.0.0.1 wb.110.taobao.com #夸克 淘宝安全中心
+127.0.0.1 ynuf.alipay.com #夸克 支付宝
+127.0.0.1 cdn.ark.qq.com #qq防篡改下载
+127.0.0.1 sugs.m.sm.cn #夸克 神马搜索建议
+127.0.0.1 n1.itc.cn #APP淘小说 sohu 图床
+127.0.0.1 a.union.mi.com #小米商城cps跳转
+127.0.0.1 qzs.qq.com #QQ空间
+127.0.0.1 channel.jd.com #jd
+127.0.0.1 tools.3g.qq.com
+127.0.0.1 api.ximalaya.com #西马拉雅api 暂不确定是否为广告
+127.0.0.1 zhwnlapi.etouch.cn  #万年历api
+127.0.0.1 wap.cmread.com #中移动阅读
+
+127.0.0.1 android.bugly.qq.com#APP调查反馈与升级
+127.0.0.1 astat.bugly.qq.com#APP调查反馈与升级
+127.0.0.1 bugly.qq.com #APP调查反馈与升级
+
 #oppo-browser
 127.0.0.1 i.flow.browser.oppomobile.com
 127.0.0.1 imagzine.oppomobile.com

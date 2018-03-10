@@ -231,6 +231,15 @@
 127.0.0.1 yun.tuisnake.com
 127.0.0.1 cz01016102.ms758.com
 127.0.0.1 s.051352.com
+127.0.0.1 e.51xmgys.com
+127.0.0.1 m.51xmgys.com
+127.0.0.1 slzs.52xiyou.com
+127.0.0.1 aqw.quanliyouxi.cn
+127.0.0.1 tyu.quanliyouxi.cn
+127.0.0.1 kio.quanliyouxi.cn
+127.0.0.1 a2.rabbitpre.com
+127.0.0.1 rvb.quanliyouxi.cn
+127.0.0.1 ntx.quanliyouxi.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
