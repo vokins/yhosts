@@ -1,5 +1,5 @@
 
-#version=201803102139
+#version=201803121826
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2401,6 +2401,11 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 do.lymstsc.com
+127.0.0.1 m.sxxca.com
+127.0.0.1 ms.awqsaged.cn
+127.0.0.1 s.zhfyws.com
+127.0.0.1 xf.m.shuhuangge.org
 127.0.0.1 e.wjdfv.com
 127.0.0.1 e.youweiprint.com
 127.0.0.1 jdw.zjuwjdc.com

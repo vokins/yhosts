@@ -2899,6 +2899,11 @@
 #www.xilu.com
 0.0.0.0 1.xilu.com
 0.0.0.0 newspage.xilu.com
+0.0.0.0 do.lymstsc.com
+0.0.0.0 m.sxxca.com
+0.0.0.0 ms.awqsaged.cn
+0.0.0.0 s.zhfyws.com
+0.0.0.0 xf.m.shuhuangge.org
 0.0.0.0 e.wjdfv.com
 0.0.0.0 e.youweiprint.com
 0.0.0.0 jdw.zjuwjdc.com
