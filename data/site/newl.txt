@@ -1,3 +1,14 @@
+127.0.0.1 e.picbr.com
+127.0.0.1 e.zhuyuanp.shop
+127.0.0.1 in.zhfyws.com
+127.0.0.1 js739.tcnmf.com
+127.0.0.1 m.picbr.com
+127.0.0.1 m.zhuyuanp.shop
+127.0.0.1 www.dadjia.com
+127.0.0.1 cc.piao.jianzhigg.com
+127.0.0.1 js.5iydz.com
+127.0.0.1 m.tiaopimiao.net
+127.0.0.1 zhidao.sdhckj.com
 127.0.0.1 do.lymstsc.com
 127.0.0.1 m.sxxca.com
 127.0.0.1 ms.awqsaged.cn
