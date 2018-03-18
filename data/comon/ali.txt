@@ -24,6 +24,7 @@
 127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 #ipinyou
 127.0.0.1 cm.ipinyou.com
+127.0.0.1 fm.ipinyou.com
 127.0.0.1 fms.ipinyou.com
 127.0.0.1 optimus.ipinyou.com
 127.0.0.1 vt.ipinyou.com

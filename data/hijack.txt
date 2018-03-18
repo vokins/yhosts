@@ -240,6 +240,7 @@
 127.0.0.1 a2.rabbitpre.com
 127.0.0.1 rvb.quanliyouxi.cn
 127.0.0.1 ntx.quanliyouxi.cn
+127.0.0.1 dsp.hypers.com.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

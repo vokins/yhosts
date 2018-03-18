@@ -31,3 +31,6 @@
 127.0.0.1 m.nthtcs.com
 127.0.0.1 mob.12365chia.com 
 127.0.0.1 ref.12365chia.com
+#http://www.nicotv.cc
+127.0.0.1 km.jianduankm.com
+127.0.0.1 pc.5151gj.com

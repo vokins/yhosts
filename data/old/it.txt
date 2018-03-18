@@ -127,12 +127,16 @@
 127.0.0.1 cpro.zol.com.cn
 127.0.0.1 dynamic.zol.com.cn
 127.0.0.1 imp.zol.com.cn
+127.0.0.1 js.zol.com.cn
+127.0.0.1 mstat.zol.com.cn
 127.0.0.1 pv.zol.com.cn
 127.0.0.1 pvc.zol.com.cn
 127.0.0.1 pvm.zol.com.cn
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
+127.0.0.1 pvtest.zol.com.cn
 127.0.0.1 stat.zol.com.cn
+127.0.0.1 wappv.zol.com.cn
 127.0.0.1 ydjs.zol.com.cn
 127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 pic.zol-img.com.cn

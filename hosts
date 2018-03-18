@@ -1,5 +1,5 @@
 
-#version=201803142341
+#version=201803181449
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -105,6 +105,7 @@
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 127.0.0.1 cm.ipinyou.com
+127.0.0.1 fm.ipinyou.com
 127.0.0.1 fms.ipinyou.com
 127.0.0.1 optimus.ipinyou.com
 127.0.0.1 vt.ipinyou.com
@@ -1355,12 +1356,16 @@
 127.0.0.1 cpro.zol.com.cn
 127.0.0.1 dynamic.zol.com.cn
 127.0.0.1 imp.zol.com.cn
+127.0.0.1 js.zol.com.cn
+127.0.0.1 mstat.zol.com.cn
 127.0.0.1 pv.zol.com.cn
 127.0.0.1 pvc.zol.com.cn
 127.0.0.1 pvm.zol.com.cn
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
+127.0.0.1 pvtest.zol.com.cn
 127.0.0.1 stat.zol.com.cn
+127.0.0.1 wappv.zol.com.cn
 127.0.0.1 ydjs.zol.com.cn
 127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 pic.zol-img.com.cn
@@ -2117,6 +2122,8 @@
 127.0.0.1 m.nthtcs.com
 127.0.0.1 mob.12365chia.com 
 127.0.0.1 ref.12365chia.com
+127.0.0.1 km.jianduankm.com
+127.0.0.1 pc.5151gj.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
@@ -2402,6 +2409,29 @@
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
 127.0.0.1 e.picbr.com
+127.0.0.1 biq.keefung-zs.com
+127.0.0.1 c.ynlysg.com
+127.0.0.1 e.aishowbger.com
+127.0.0.1 e.khuoy.com
+127.0.0.1 e.viiqx.com
+127.0.0.1 e.zhuyuanp.top
+127.0.0.1 js.wo-x.cn
+127.0.0.1 lmwap.awtks.com
+127.0.0.1 m.aishowbger.com
+127.0.0.1 m.khuoy.com
+127.0.0.1 m.smsksx.com
+127.0.0.1 m.viiqx.com
+127.0.0.1 m.zhuyuanp.top
+127.0.0.1 qweqwe.mctvhp.cn
+127.0.0.1 www.mpzw.com
+127.0.0.1 www.vangmobi.com
+127.0.0.1 xpe.cxaerp.com
+127.0.0.1 7xkfic.com2.z0.glb.qiniucdn.com
+127.0.0.1 mc.hujiang.com
+127.0.0.1 cpv-adv.ggytc.com
+127.0.0.1 csiw.sharrysweb.com
+127.0.0.1 s2.dnaxddnc.com
+127.0.0.1 vip.hyz86.com
 127.0.0.1 e.zhuyuanp.shop
 127.0.0.1 in.zhfyws.com
 127.0.0.1 js739.tcnmf.com
@@ -4938,6 +4968,7 @@
 127.0.0.1 a2.rabbitpre.com
 127.0.0.1 rvb.quanliyouxi.cn
 127.0.0.1 ntx.quanliyouxi.cn
+127.0.0.1 dsp.hypers.com.cn
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
