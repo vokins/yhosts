@@ -241,6 +241,8 @@
 127.0.0.1 rvb.quanliyouxi.cn
 127.0.0.1 ntx.quanliyouxi.cn
 127.0.0.1 dsp.hypers.com.cn
+127.0.0.1 fanli.1668g.com
+127.0.0.1 www.youka.la
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

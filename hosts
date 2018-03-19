@@ -1,5 +1,5 @@
 
-#version=201803181449
+#version=20180320 038
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1002,6 +1002,7 @@
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
+127.0.0.1 union-click.jd.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
 127.0.0.1 go.fcwr8.com
@@ -2408,20 +2409,27 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 3wz6z.bchuangpi.cn
+127.0.0.1 743m1.11a12.com
+127.0.0.1 e.zhuyuanp.shop
+127.0.0.1 e.zhuyuanp.top
+127.0.0.1 lan.btwan5.com
+127.0.0.1 m.zhuyuanp.shop
+127.0.0.1 m.zhuyuanp.top
+127.0.0.1 ugg.keefung-zs.com
+127.0.0.1 www.dajean.com
 127.0.0.1 e.picbr.com
 127.0.0.1 biq.keefung-zs.com
 127.0.0.1 c.ynlysg.com
 127.0.0.1 e.aishowbger.com
 127.0.0.1 e.khuoy.com
 127.0.0.1 e.viiqx.com
-127.0.0.1 e.zhuyuanp.top
 127.0.0.1 js.wo-x.cn
 127.0.0.1 lmwap.awtks.com
 127.0.0.1 m.aishowbger.com
 127.0.0.1 m.khuoy.com
 127.0.0.1 m.smsksx.com
 127.0.0.1 m.viiqx.com
-127.0.0.1 m.zhuyuanp.top
 127.0.0.1 qweqwe.mctvhp.cn
 127.0.0.1 www.mpzw.com
 127.0.0.1 www.vangmobi.com
@@ -2432,11 +2440,9 @@
 127.0.0.1 csiw.sharrysweb.com
 127.0.0.1 s2.dnaxddnc.com
 127.0.0.1 vip.hyz86.com
-127.0.0.1 e.zhuyuanp.shop
 127.0.0.1 in.zhfyws.com
 127.0.0.1 js739.tcnmf.com
 127.0.0.1 m.picbr.com
-127.0.0.1 m.zhuyuanp.shop
 127.0.0.1 www.dadjia.com
 127.0.0.1 cc.piao.jianzhigg.com
 127.0.0.1 js.5iydz.com
@@ -4969,6 +4975,8 @@
 127.0.0.1 rvb.quanliyouxi.cn
 127.0.0.1 ntx.quanliyouxi.cn
 127.0.0.1 dsp.hypers.com.cn
+127.0.0.1 fanli.1668g.com
+127.0.0.1 www.youka.la
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
