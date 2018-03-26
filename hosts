@@ -1,5 +1,5 @@
 
-#version=20180320 038
+#version=20180327 028
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1801,9 +1801,6 @@
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 astat.bugly.qq.com
-127.0.0.1 bugly.qq.com
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 mfm.video.qq.com
@@ -2409,6 +2406,34 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 assets.258pcf.com
+127.0.0.1 c.mhxy.org.cn
+127.0.0.1 c.panqishu.com
+127.0.0.1 c.sss1989.com
+127.0.0.1 e.ishowms.com
+127.0.0.1 e.qsove.com
+127.0.0.1 e.txtxr.com
+127.0.0.1 e.zcdor.com
+127.0.0.1 e.zhuyuanp.shop
+127.0.0.1 e.zhuyuanp.top
+127.0.0.1 js.paochala.net
+127.0.0.1 kn.nykps.com
+127.0.0.1 kn.zstjy.com
+127.0.0.1 m.81ngn1.cn
+127.0.0.1 m.ishowms.com
+127.0.0.1 m.jinchaoyu.com
+127.0.0.1 m.qsove.com
+127.0.0.1 m.txtxr.com
+127.0.0.1 m.zcdor.com
+127.0.0.1 m.zhuyuanp.shop
+127.0.0.1 m.zhuyuanp.top
+127.0.0.1 nv.souid.com
+127.0.0.1 s1.iigushi.com
+127.0.0.1 suoooi.cn
+127.0.0.1 wsoe.kwiago.com
+127.0.0.1 www.qinchugudao.com
+127.0.0.1 www.rannabio.com
+127.0.0.1 zxr.fzxrjx.com
 127.0.0.1 3wz6z.bchuangpi.cn
 127.0.0.1 743m1.11a12.com
 127.0.0.1 e.zhuyuanp.shop

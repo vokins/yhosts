@@ -2135,9 +2135,6 @@
 0.0.0.0 activeqq.3g.qq.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 pmir.3g.qq.com
-0.0.0.0 android.bugly.qq.com
-0.0.0.0 astat.bugly.qq.com
-0.0.0.0 bugly.qq.com
 0.0.0.0 cmshow.gtimg.cn
 #http://weixin.qq.com/
 0.0.0.0 wxsnsdy.tc.qq.com
@@ -2908,6 +2905,34 @@
 #www.xilu.com
 0.0.0.0 1.xilu.com
 0.0.0.0 newspage.xilu.com
+0.0.0.0 assets.258pcf.com
+0.0.0.0 c.mhxy.org.cn
+0.0.0.0 c.panqishu.com
+0.0.0.0 c.sss1989.com
+0.0.0.0 e.ishowms.com
+0.0.0.0 e.qsove.com
+0.0.0.0 e.txtxr.com
+0.0.0.0 e.zcdor.com
+0.0.0.0 e.zhuyuanp.shop
+0.0.0.0 e.zhuyuanp.top
+0.0.0.0 js.paochala.net
+0.0.0.0 kn.nykps.com
+0.0.0.0 kn.zstjy.com
+0.0.0.0 m.81ngn1.cn
+0.0.0.0 m.ishowms.com
+0.0.0.0 m.jinchaoyu.com
+0.0.0.0 m.qsove.com
+0.0.0.0 m.txtxr.com
+0.0.0.0 m.zcdor.com
+0.0.0.0 m.zhuyuanp.shop
+0.0.0.0 m.zhuyuanp.top
+0.0.0.0 nv.souid.com
+0.0.0.0 s1.iigushi.com
+0.0.0.0 suoooi.cn
+0.0.0.0 wsoe.kwiago.com
+0.0.0.0 www.qinchugudao.com
+0.0.0.0 www.rannabio.com
+0.0.0.0 zxr.fzxrjx.com
 0.0.0.0 3wz6z.bchuangpi.cn
 0.0.0.0 743m1.11a12.com
 0.0.0.0 e.zhuyuanp.shop

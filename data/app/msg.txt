@@ -4,9 +4,6 @@
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 pmir.3g.qq.com
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 astat.bugly.qq.com
-127.0.0.1 bugly.qq.com
 127.0.0.1 cmshow.gtimg.cn
 #http://weixin.qq.com/
 127.0.0.1 wxsnsdy.tc.qq.com

@@ -1,3 +1,7 @@
+删除127.0.0.1 android.bugly.qq.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 bugly.qq.com 
+云试听 极光测试兼容性
 127.0.0.1 data.openspeech.cn #零点书屋 科大讯飞
 127.0.0.1 scs.openspeech.cn  #待测试
 127.0.0.1 hdns.openspeech.cn #待测试
