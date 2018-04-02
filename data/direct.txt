@@ -19,11 +19,6 @@
 74.222.26.90 uvwxyz.xyz
 74.222.26.90 www.uvwxyz.xyz
 @direct/3rd
-#alfred
-139.162.207.229 www.alfredapp.com
-#dxomark
-5.196.172.196 www.dxomark.com
-43.245.63.22 cdn.dxomark.com
 #gaysex
 216.58.199.243 www.gaysex18.net
 216.58.200.243 www.gaysex18.net
