@@ -1,5 +1,5 @@
 
-#version=201804022251
+#version=201804071425
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -932,6 +932,7 @@
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 jpg.inte.sogoucdn.com
 127.0.0.1 moka.inte.sogoucdn.com
+127.0.0.1 omg.inte.sogoucdn.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -1483,7 +1484,6 @@
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 storeconfig.mistat.xiaomi.com
-127.0.0.1 shenghuo.xiaomi.com
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 etl.xlmc.sandai.net
@@ -2403,6 +2403,23 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 5yrra.deshuangwang.cn
+127.0.0.1 b.sqwscy.com
+127.0.0.1 drvmy.ats68.cn
+127.0.0.1 e.fzyda.com
+127.0.0.1 e.sezvc.com
+127.0.0.1 e.wvver.com
+127.0.0.1 e.zhuyuanp.top
+127.0.0.1 kn.y12f.com
+127.0.0.1 m.fzyda.com
+127.0.0.1 m.sezvc.com
+127.0.0.1 m.zhuyuanp.top
+127.0.0.1 ttm.htfmbt.com
+127.0.0.1 www.danpinwu.com
+127.0.0.1 www.gj500.com
+127.0.0.1 www.hblinwei.com
+127.0.0.1 www.juren0.com
+127.0.0.1 www.xrain.net
 127.0.0.1 bhjac.azvub.cn
 127.0.0.1 n.dz0na.com
 127.0.0.1 c.cyto-biotherapy.com
@@ -2438,7 +2455,6 @@
 127.0.0.1 e.txtxr.com
 127.0.0.1 e.zcdor.com
 127.0.0.1 e.zhuyuanp.shop
-127.0.0.1 e.zhuyuanp.top
 127.0.0.1 js.paochala.net
 127.0.0.1 kn.nykps.com
 127.0.0.1 kn.zstjy.com
@@ -2449,7 +2465,6 @@
 127.0.0.1 m.txtxr.com
 127.0.0.1 m.zcdor.com
 127.0.0.1 m.zhuyuanp.shop
-127.0.0.1 m.zhuyuanp.top
 127.0.0.1 nv.souid.com
 127.0.0.1 s1.iigushi.com
 127.0.0.1 suoooi.cn

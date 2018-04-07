@@ -28,6 +28,10 @@
 127.0.0.1 astat.bugly.qq.com#APP调查反馈与升级
 127.0.0.1 bugly.qq.com #APP调查反馈与升级
 
+删除
+#miui--1
+127.0.0.1 shenghuo.xiaomi.com
+
 #oppo-browser
 127.0.0.1 i.flow.browser.oppomobile.com
 127.0.0.1 imagzine.oppomobile.com
