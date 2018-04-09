@@ -65,7 +65,6 @@
 #uc
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
-127.0.0.1 bjcu.u3.ucweb.com
 127.0.0.1 hk.napi.ucweb.com
 127.0.0.1 kwurl.ucweb.com
 127.0.0.1 puds.ucweb.com

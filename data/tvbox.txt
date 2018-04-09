@@ -102,9 +102,7 @@
 127.0.0.1 miaozhen.atm.youku.com
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 notify.youku.com
 127.0.0.1 passport-log.youku.com
-127.0.0.1 player.lstat.youku.com
 127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 static.atm.youku.com
@@ -129,4 +127,3 @@
 127.0.0.1 p-cn.acxiom-online.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
-127.0.0.1 www.bfshan.cn

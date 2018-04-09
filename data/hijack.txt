@@ -140,7 +140,6 @@
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 ds.jlbksy.com
 127.0.0.1 migu.kssws.ks-cdn.com
-127.0.0.1 news.766ba.net
 127.0.0.1 sc.ggfeng.com
 127.0.0.1 sd.kk3g.net
 127.0.0.1 sp3.cndm.com

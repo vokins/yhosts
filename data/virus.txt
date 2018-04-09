@@ -27,7 +27,6 @@
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 cs.wanwandou.com
 127.0.0.1 dl.xzqxzs.com
-127.0.0.1 down.cqssbl.com
 127.0.0.1 down.xiazaidc.com
 127.0.0.1 downlaod.xiaocen.com
 127.0.0.1 download.123cw.cn
@@ -63,7 +62,6 @@
 127.0.0.1 m.qianka.com
 127.0.0.1 m.qulishi.com
 127.0.0.1 m.xingxd.com
-127.0.0.1 m.zzxbn.com
 127.0.0.1 m78n.me
 127.0.0.1 mibook-10006092.cos.myqcloud.com
 127.0.0.1 njs.myyage.com

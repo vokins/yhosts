@@ -5,8 +5,6 @@
 127.0.0.1 m.clubske.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 m.feifish66.com
-127.0.0.1 e.hnctsm.com
-127.0.0.1 m.hnctsm.com
 127.0.0.1 e.inccnd.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 e.jackaow.com
@@ -84,9 +82,6 @@
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.keytui.com
 127.0.0.1 sg.keytui.com
-127.0.0.1 s1.limeishang.com
-127.0.0.1 s2.limeishang.com
-127.0.0.1 s3.limeishang.com
 127.0.0.1 t1.51maiwanju.com
 127.0.0.1 t2.51maiwanju.com
 127.0.0.1 t3.51maiwanju.com

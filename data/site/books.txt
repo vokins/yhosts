@@ -18,4 +18,3 @@
 #s.faloo.com
 127.0.0.1 flux.faloo.com
 #wap.xxbiquge.com
-127.0.0.1 nhybskdo.wap.xxbiquge.com

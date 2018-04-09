@@ -9,7 +9,6 @@
 127.0.0.1 171111.zwytcs.org
 127.0.0.1 2.1010pic.com
 127.0.0.1 2017img.myxh999.com
-127.0.0.1 2w.edu0.cn
 127.0.0.1 35baba.cn
 127.0.0.1 5.qqm98.com
 127.0.0.1 5568.gjghy.com
@@ -302,7 +301,6 @@
 127.0.0.1 img.il8r.com
 127.0.0.1 img.jsjpac.com
 127.0.0.1 img.qqgeshou.com
-127.0.0.1 img.rqgsf.com
 127.0.0.1 img.sheyuansu.com
 127.0.0.1 img.tcdxt.com
 127.0.0.1 img.uyangyong.cn
@@ -344,7 +342,6 @@
 127.0.0.1 j.s11.cn
 127.0.0.1 j.sc1369.com
 127.0.0.1 j.vrclean.com
-127.0.0.1 j.wangdaizao.com
 127.0.0.1 j.wubai.cc
 127.0.0.1 j.ytbt.cc
 127.0.0.1 jfhe.0769371.com
@@ -353,7 +350,6 @@
 127.0.0.1 jjhd47.115seo.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.133u.com
-127.0.0.1 js.1maode.com
 127.0.0.1 js.5068.com
 127.0.0.1 js.526d.com
 127.0.0.1 js.69lm.com.cn
@@ -392,7 +388,6 @@
 127.0.0.1 js4104.scfatao.com
 127.0.0.1 js412.hot-eam.com
 127.0.0.1 js412.nbhxgjz.com
-127.0.0.1 js412.wangdaizao.com
 127.0.0.1 js4941.gaoxiaocup.com
 127.0.0.1 js5515.guangzizai.com
 127.0.0.1 js651.dupinpu.com
@@ -751,7 +746,6 @@
 127.0.0.1 tu.njflfd.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 txt.dongyihongbei.com
-127.0.0.1 tyjs.bjjz900.com
 127.0.0.1 tz.zjhoudao.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u291014.pr00001.com
@@ -760,7 +754,6 @@
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 um29.com
 127.0.0.1 un.xlcun.com
-127.0.0.1 unhybvgf.m.zwda.com
 127.0.0.1 union.baidustatic.guannin.com
 127.0.0.1 union.ideejs.cn
 127.0.0.1 union.star-media.cn
@@ -790,7 +783,6 @@
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.chnup.cn
 127.0.0.1 w.cube3d.cn
-127.0.0.1 w.hbalx.cn
 127.0.0.1 w.lsxmg.com
 127.0.0.1 w.werpig.com
 127.0.0.1 w.xayjr.cn
@@ -802,7 +794,6 @@
 127.0.0.1 weld830.uunice.com
 127.0.0.1 weldc1.021ye.com
 127.0.0.1 wen.jshbyn.com
-127.0.0.1 wff.wgnmp.com
 127.0.0.1 whn.star-media.cn
 127.0.0.1 wm.20150.net
 127.0.0.1 wm.69shi.cn
@@ -925,7 +916,6 @@
 127.0.0.1 www.taobaobo5.com
 127.0.0.1 www.thztv.net
 127.0.0.1 www.tjhuajiantang.com
-127.0.0.1 www.trafficbaike1.com
 127.0.0.1 www.ttcdn.cn
 127.0.0.1 www.tui1999.com
 127.0.0.1 www.wcnmd.top
@@ -983,7 +973,6 @@
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl8206.huliangongyu.com
 127.0.0.1 zs1111.sxzzapp.com
-127.0.0.1 zs1111.wangdaizao.com
 127.0.0.1 zs1111.youzue.com
 127.0.0.1 zyz.91friend.com
 127.0.0.1 zyz1.91friend.com

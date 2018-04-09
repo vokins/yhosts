@@ -22,7 +22,6 @@
 127.0.0.1 www.juren0.com
 127.0.0.1 www.xrain.net
 127.0.0.1 bhjac.azvub.cn
-127.0.0.1 n.dz0na.com
 127.0.0.1 c.cyto-biotherapy.com
 127.0.0.1 c.mobishu.com
 127.0.0.1 e.osaws.com
@@ -307,7 +306,6 @@
 127.0.0.1 m.rwganw.cn
 127.0.0.1 c.danangmo.cn
 127.0.0.1 plmkolp.m.58xs.tw
-127.0.0.1 tsjdgzm.m.3dllc.cc
 127.0.0.1 www.baiduzhidahao.cc
 127.0.0.1 www.yueyelive.com
 127.0.0.1 e.yangjingbang.net
