@@ -9,10 +9,8 @@
 127.0.0.1 8184.cc
 127.0.0.1 85058s.com
 127.0.0.1 90053999.com
-127.0.0.1 aaaa.tly331.pw
 127.0.0.1 ad.dokrmob.com
 127.0.0.1 apnmedia.ask.com
-127.0.0.1 app2.letmacwork.world
 127.0.0.1 baidut.github.io
 127.0.0.1 bg339.com
 127.0.0.1 c.silvinst.com
@@ -21,7 +19,6 @@
 127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 cdn.app.liuxingyul.cn
-127.0.0.1 cdn.holdlakh.com
 127.0.0.1 cdn.img.kachapt.cn
 127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 cdn.wwwpromoter.com
@@ -38,7 +35,6 @@
 127.0.0.1 download.mediaget.com
 127.0.0.1 download.qianka.com
 127.0.0.1 download3.123cw.cn
-127.0.0.1 eeaa.tly331.pw
 127.0.0.1 fc56b.me
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 gi.xi.gxabj.com
@@ -55,12 +51,10 @@
 127.0.0.1 imgp.cymzc.com
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 iosipa.b0.upaiyun.com
-127.0.0.1 jjaa.tly331.pw
 127.0.0.1 js.um0592.com
 127.0.0.1 k1w5.me
 127.0.0.1 kl.hfdforging.com
 127.0.0.1 ld.mediaget.com
-127.0.0.1 llaa.tly331.pw
 127.0.0.1 m.495495.com
 127.0.0.1 m.551144.com
 127.0.0.1 m.640640.com
@@ -79,7 +73,6 @@
 127.0.0.1 pj3456.com
 127.0.0.1 pj50.com
 127.0.0.1 pl108258.puserving.com
-127.0.0.1 ppaa.tly331.pw
 127.0.0.1 r.xcycm.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 s.xcfe.cn

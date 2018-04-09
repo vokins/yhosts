@@ -2,7 +2,6 @@
 127.0.0.1 bddm.999d.com
 127.0.0.1 bdjs.999d.com
 #http://www.duomi.com/
-127.0.0.1 pc.boxshows.com
 127.0.0.1 service.ad.duomi.com
 #http://www.kugou.com/
 127.0.0.1 ads.bssdl.kugou.com
@@ -11,7 +10,6 @@
 127.0.0.1 gamebox.kugou.com
 127.0.0.1 install.kugou.com
 127.0.0.1 log.stat.kugou.com
-127.0.0.1 minidcsc.kugou.com
 127.0.0.1 mvads.kugou.com
 127.0.0.1 sdn.kugou.com
 127.0.0.1 tj.kugou.com

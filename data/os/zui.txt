@@ -18,7 +18,6 @@
 127.0.0.1 prw.lenovomm.com
 127.0.0.1 psb.lenovomm.com
 127.0.0.1 uss-pid.lenovomm.com
-127.0.0.1 wth.lenovomm.com
 127.0.0.1 yx.lenovomm.com
 #zui
 127.0.0.1 api.bs.zui.com

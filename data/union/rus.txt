@@ -21,7 +21,6 @@
 127.0.0.1 sync.audtd.com
 127.0.0.1 sync2.audtd.com
 127.0.0.1 relap.io
-127.0.0.1 s.dskrt.net
 127.0.0.1 s.uuidksinc.net
 127.0.0.1 spb.bid.run
 127.0.0.1 sync.audsp.com
@@ -46,7 +45,6 @@
 127.0.0.1 pixel.vihub.ru
 127.0.0.1 rutrk.org
 127.0.0.1 stat.adlabs.ru
-127.0.0.1 sync.botscanner.com
 127.0.0.1 uuidksinc.net
 127.0.0.1 wallet.advcash.com
 127.0.0.1 windcdna.com

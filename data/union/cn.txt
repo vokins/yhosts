@@ -97,10 +97,8 @@
 127.0.0.1 a.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 hdj.baidu.com
-127.0.0.1 inside.baidu.com
 127.0.0.1 mssp.baidu.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 testwn.baidu.com
 #baidu-player
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 dd713.bj.bcebos.com
@@ -279,7 +277,6 @@
 #8ox.cn
 127.0.0.1 d16b4.8ox.cn
 127.0.0.1 66.8ox.cn
-127.0.0.1 u5.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
 #9dtiny.cn
@@ -671,7 +668,6 @@
 #cpmchina.co
 127.0.0.1 adimg.cpmchina.co
 127.0.0.1 click.cpmchina.co
-127.0.0.1 click.onesoft.im
 127.0.0.1 r.cpmchina.co
 127.0.0.1 www.cpmchina.co
 #daoyoudao.com
@@ -950,8 +946,6 @@
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
-127.0.0.1 letv-mipdx.cn.miaozhen.com
-127.0.0.1 letv.ipdx.cn.miaozhen.com
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 miaozhen.com
 127.0.0.1 mse.mbm.cn.miaozhen.com
@@ -1088,7 +1082,6 @@
 127.0.0.1 l.supfast.net
 #ta80.com
 127.0.0.1 good.ta80.com
-127.0.0.1 js.ta80.com
 #talkingdata.net
 127.0.0.1 analytics.talkingdata.net
 127.0.0.1 gaandroid.talkingdata.net
@@ -1114,8 +1107,6 @@
 127.0.0.1 rp.crasheye.cn
 #touclick
 127.0.0.1 cap.touclick.com
-127.0.0.1 captcha-static.touclick.com
-127.0.0.1 cdnjs.touclick.com
 127.0.0.1 ver.touclick.com
 127.0.0.1 www.touclick.com
 #udbac.com
@@ -1251,13 +1242,11 @@
 127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 a2.img.static.youmi.net
 127.0.0.1 a3.img.static.youmi.net
-127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 apk.static.youmi.net
 127.0.0.1 au.youmi.net
 127.0.0.1 banner.img.static.youmi.net
 127.0.0.1 cf8d.stat.gw.youmi.net
-127.0.0.1 exrep.youmi.net
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 r.youmi.net

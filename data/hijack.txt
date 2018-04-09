@@ -190,7 +190,6 @@
 127.0.0.1 buyimg.bianxianmao.com
 127.0.0.1 cpv.ty229.com
 127.0.0.1 creative.jdkic.com
-127.0.0.1 cz01016102.cg2017.com
 127.0.0.1 display.adhudong.com
 127.0.0.1 down.dashendown.com
 127.0.0.1 dps.wtdtjs.com
@@ -202,7 +201,6 @@
 127.0.0.1 mti.35kds.com
 127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn
-127.0.0.1 static.1.chenggao.cn
 127.0.0.1 a.waczt.cn
 127.0.0.1 www.chenggao.cn
 127.0.0.1 yun.yuyiya.com
@@ -243,6 +241,7 @@
 127.0.0.1 dsp.hypers.com.cn
 127.0.0.1 fanli.1668g.com
 127.0.0.1 www.youka.la
+127.0.0.1 bixia.fymm.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

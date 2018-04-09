@@ -3,3 +3,4 @@
 127.0.0.1 daa.shuzilm.cn
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 stream.shuzilm.cn
+127.0.0.1 www.shuzilm.cn

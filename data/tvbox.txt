@@ -114,6 +114,7 @@
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 wan.youku.com
 #youku-area
+127.0.0.1 vali.cp31.ott.cibntv.net
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
@@ -122,9 +123,6 @@
 127.0.0.1 l.ftx.fancyapi.com
 127.0.0.1 w.fancyapi.com
 127.0.0.1 l.fancyapi.com
-127.0.0.1 api.shuzilm.cn
-127.0.0.1 daa.shuzilm.cn
-127.0.0.1 www.shuzilm.cn
 127.0.0.1 cb.lomark.cn
 127.0.0.1 reply.lomark.cn
 127.0.0.1 rm.lomark.cn

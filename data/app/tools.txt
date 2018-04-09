@@ -14,7 +14,6 @@
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
-127.0.0.1 api.mobads4app.com
 127.0.0.1 www.appodealx.com
 #http://www.chubao.cn/
 127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com

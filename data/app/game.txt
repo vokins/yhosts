@@ -45,7 +45,6 @@
 127.0.0.1 gmota.g188.net
 #uu.cc
 127.0.0.1 app.uu.cc
-127.0.0.1 c.uu.cc
 127.0.0.1 dl.uu.cc
 127.0.0.1 game.subway.uu.cc
 127.0.0.1 in1.feed.uu.cc
@@ -53,8 +52,6 @@
 127.0.0.1 in1.secure.uu.cc
 127.0.0.1 sdklog.uu.cc
 127.0.0.1 sdkpay.uu.cc
-127.0.0.1 stat.uu.cc
-127.0.0.1 push.gxpan.cn
 127.0.0.1 shiwan.dl.gxpan.cn
 127.0.0.1 va.gxpan.cn
 127.0.0.1 api2.play.cn

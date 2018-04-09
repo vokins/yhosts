@@ -103,7 +103,6 @@
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 hq.appsflyer.com
-127.0.0.1 partners.appsflyer.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
@@ -201,9 +200,6 @@
 127.0.0.1 tga.csbew.com
 127.0.0.1 tgb.csbew.com
 #directrev.com
-127.0.0.1 ad.directrev.com
-127.0.0.1 cdn.directrev.com
-127.0.0.1 ggo.directrev.com
 #drawbridge.com
 127.0.0.1 api.adsymptotic.com
 127.0.0.1 p.adsymptotic.com
@@ -377,7 +373,6 @@
 127.0.0.1 ads.nexage.com
 127.0.0.1 cdn.millennialmedia.com
 127.0.0.1 images.millennialmedia.com
-127.0.0.1 millennialmedia.com
 127.0.0.1 www.millennialmedia.com
 #mobfox
 127.0.0.1 my.mobfox.com

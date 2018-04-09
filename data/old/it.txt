@@ -40,7 +40,6 @@
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
 #codego.net
-127.0.0.1 z22.jxydsb.com
 #csdn.net
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
@@ -69,7 +68,6 @@
 127.0.0.1 g.x.evolife.cn
 #feng.com
 127.0.0.1 yes1.feng.com
-127.0.0.1 lynn.zgsemi.cn
 #it168.com
 127.0.0.1 168.it168.com
 127.0.0.1 adshow.it168.com

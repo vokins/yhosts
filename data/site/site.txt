@@ -17,5 +17,3 @@
 127.0.0.1 slides.discovery.tom.com
 127.0.0.1 tongji.tom.com
 127.0.0.1 youle.tom.com
-127.0.0.1 data.adserve.tomoimg.cn
-127.0.0.1 data.adserve2.tomoimg.cn

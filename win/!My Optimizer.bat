@@ -153,15 +153,7 @@ echo    微软遥测相关任务计划禁用完毕！
 
 :: 2.右键菜单调整部分：
 
-::右键菜单添加：获取TrustedInstaller权限
-rem 获取TrustedInstaller权限
-reg add "HKCR\*\shell\runas" /ve /d "获取TrustedInstaller权限" /f
-reg add "HKCR\*\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-reg add "HKCR\*\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-reg add "HKCR\Directory\shell\runas" /ve /d "获取TrustedInstaller权限" /f
-reg add "HKCR\Directory\shell\runas" /v "NoWorkingDirectory" /d "" /f
-reg add "HKCR\Directory\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
-reg add "HKCR\Directory\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
+
 ::右键菜单：新建增强
 reg add "HKCR\.bat" /ve /d "batfile" /f
 reg add "HKCR\.bat\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
@@ -440,6 +432,14 @@ exit
 
 
 
-
+::右键菜单添加：获取TrustedInstaller权限
+rem 获取TrustedInstaller权限
+reg add "HKCR\*\shell\runas" /ve /d "获取TrustedInstaller权限" /f
+reg add "HKCR\*\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+reg add "HKCR\*\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+reg add "HKCR\Directory\shell\runas" /ve /d "获取TrustedInstaller权限" /f
+reg add "HKCR\Directory\shell\runas" /v "NoWorkingDirectory" /d "" /f
+reg add "HKCR\Directory\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
+reg add "HKCR\Directory\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
 
 

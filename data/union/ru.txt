@@ -18,7 +18,6 @@
 #betweendigital.com
 127.0.0.1 cache.betweendigital.com
 127.0.0.1 match.ads.betweendigital.com
-127.0.0.1 pool2.ads.betweendigital.com
 #digitaltarget.ru
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 tag.digitaltarget.ru
