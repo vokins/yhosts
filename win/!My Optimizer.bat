@@ -10,10 +10,10 @@ COLOR 0a
 :: 1.服务调整部分：
 ::禁用远程修改注册表
 rem Remote Registry:使远程用户能修改此计算机上的注册表设置。如果此服务被终止，只有此计算机上的用户才能修改注册表。如果此服务被禁用，任何依赖它的服务将无法启动。
-sc config RemoteRegistry start=DISABLED
+sc config RemoteRegistry start= disabled
 ::禁用错误报告
 rem Windows Error Reporting Service:允许在程序停止运行或停止响应时报告错误，并允许提供现有解决方案。还允许为诊断和修复服务生成日志。如果此服务被停止，则错误报告将无法正确运行，而且可能不显示诊断服务和修复的结果。
-sc config WerSvc start=DISABLED
+sc config WerSvc start= disabled
 ::禁用收集性能信息
 rem Performance Logs & Alerts:性能日志和警报根据预配置的计划参数从本地或远程计算机收集性能数据，然后将该数据写入日志或触发警报。如果停止此服务，将不收集性能信息。如果禁用此服务，则明确依赖它的所有服务将无法启动。
 sc stop pla
@@ -42,16 +42,18 @@ sc config diagnosticshub.standardcollector.service start= disabled
 ::禁用零售演示服务
 rem Disables RetailDemo service:当设备处于零售演示模式时，零售演示服务将控制设备活动。
 net stop RetailDemo > NUL 2>&1
-sc config RetailDemo start=disabled
+sc config RetailDemo start= disabled
 ::Data Sharing Service：提供应用程序之间的数据代理。
 sc stop DsSvc
 sc config DsSvc start= disabled
 ::禁用Superfetch服务
-rem 关闭理由：可能会有时会占用大量的系统内存   Superfetch技术就是将多余的物理内存作为缓存使用的，如果有4G以上的内存完全可以关闭。
-rem 延迟启动 Superfetch 服务 sc config "SysMain" start= delayed-auto
-sc config SysMain start= disabled
+rem 关闭理由：可能会有时会占用大量的系统内存   Superfetch技术就是将多余的物理内存作为缓存使用的，如果有4G以上的内存完全可以关闭。sc config SysMain start= disabled
+rem 延迟启动 Superfetch 服务
+sc config "SysMain" start= delayed-auto
 ::禁用程序兼容性助手
 rem Program Compatibility Assistant Service:此服务为程序兼容性助手(PCA)提供支持。PCA 监视由用户安装和运行的程序，并检测已知兼容性问题。如果停止此服务，PCA 将无法正常运行。
+ECHO 关闭程序兼容性助手
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f
 sc stop PcaSvc
 sc config PcaSvc start= disabled
 ::禁用Windows Search
@@ -59,6 +61,11 @@ rem Windows Search：为文件、电子邮件和其他内容提供内容索引、属性缓存和搜索结果。
 sc stop WSearch
 sc config WSearch start= disabled
 del "C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb" /s > NUL 2>&1
+::禁用Windows Media Player Network Sharing Service
+rem 使用通用即插即用设备与其他网络播放机和媒体设备共享 Windows Media Player 媒体库
+sc stop WMPNetworkSvc
+ping -n 3 127.0.0.1>nul
+sc config WMPNetworkSvc start= disabled
 ::禁用并停止硬件自动播放服务
 rem Shell Hardware Detection:为自动播放硬件事件提供通知。
 sc stop ShellHWDetection
@@ -68,17 +75,17 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "N
 reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDriveTypeAutorun" /t REG_DWORD /d "0xFF" /f
 ::关闭Security Center：WSCSVC(Windows 安全中心)服务监视并报告计算机上的安全健康设置。健康设置包括防火墙(打开/关闭)、防病毒(打开/关闭/过期)、反间谍软件(打开/关闭/过期)、Windows 更新(自动/手动下载并安装更新)、用户帐户控制(打开/关闭)以及 Internet 设置(推荐/不推荐)。该服务为独立软件供应商提供 COM API 以便向安全中心服务注册并记录其产品的状态。安全和维护 UI 使用该服务在“安全和维护”控制面板中提供 systray 警报和安全健康状况的图形视图。网络访问保护(NAP)使用该服务向 NAP 网络策略服务器报告客户端的安全健康状况，以便进行网络隔离决策。该服务还提供一个公共 API，以允许外部客户以编程方式检索系统的聚合安全健康状况。
 sc stop wscsvc >nul
-sc config wscsvc start= disabled>nul 2>nul
+sc config wscsvc start= disabled
 ::关闭Windows Defender Advanced Threat Protection Service：Windows Defender 高级威胁防护服务通过监视和报告计算机上发生的安全事件来防范高级威胁。
 sc stop Sense >nul
-sc config Sense start= disabled >nul
+sc config Sense start= disabled
 ::关闭Windows Defender Antivirus Network Inspection Service：帮助防止针对网络协议中的已知和新发现的漏洞发起的入侵企图
 sc stop WdNisSvc >nul
-sc config WdNisSvc start= disabled >nul
+sc config WdNisSvc start= disabled
 ::关闭Windows Defender Antivirus Service：帮助用户防止恶意软件及其他潜在的垃圾软件。
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
 sc stop WinDefend >nul
-sc config WinDefend start= disabled >nul
+sc config WinDefend start= disabled
 ::关闭Windows Defender Firewall：Windows Defender 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机。
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
@@ -92,7 +99,7 @@ sc config SecurityHealthService start= disabled
 sc stop lfsvc
 sc config lfsvc start= disabled
 ::Downloaded Maps Manager：供应用程序访问已下载地图的 Windows 服务。此服务由访问已下载地图的应用程序按需启动。禁用此服务将阻止应用访问地图。
-sc config MapsBroker start= disabled>nul 2>nul
+sc config MapsBroker start= disabled
 ::停止系统还原与备份
 net stop SDRSVC
 
@@ -153,8 +160,23 @@ echo    微软遥测相关任务计划禁用完毕！
 
 
 :: 2.右键菜单调整部分：
-
-
+::右键菜单添加：获取超级管理员权限
+rem 获取TrustedInstaller权限
+reg add "HKCR\*\shell\runas" /ve /d "获取超级管理员权限" /f
+reg add "HKCR\*\shell\runas" /v "HasLUAShield" /d "" /f
+reg add "HKCR\*\shell\runas" /v "NoWorkingDirectory" /d "" /f
+reg add "HKCR\*\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+reg add "HKCR\*\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+reg add "HKCR\Directory\shell\runas" /ve /d "获取超级管理员权限" /f
+reg add "HKCR\Directory\shell\runas" /v "HasLUAShield" /d "" /f
+reg add "HKCR\Directory\shell\runas" /v "NoWorkingDirectory" /d "" /f
+reg add "HKCR\Directory\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
+reg add "HKCR\Directory\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
+reg add "HKCR\exefile\shell\runas2" /ve /d "获取超级管理员权限" /f
+reg add "HKCR\exefile\shell\runas2" /v "HasLUAShield" /d "" /f
+reg add "HKCR\exefile\shell\runas2" /v "NoWorkingDirectory" /d "" /f
+reg add "HKCR\exefile\shell\runas2\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+reg add "HKCR\exefile\shell\runas2\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
 ::右键菜单：新建增强
 reg add "HKCR\.bat" /ve /d "batfile" /f
 reg add "HKCR\.bat\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
@@ -203,7 +225,9 @@ reg delete "HKCR\Folder\shellex\ContextMenuHandlers\Library Location" /f
 ::清理右键菜单：授予访问权限
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked" /v "{F81E9010-6EA4-11CE-A7FF-00AA003CA9F6}" /d "" /f
 ::右键菜单添加用记事本打开
-reg add "HKEY_CLASSES_ROOT\*\shell\Noteped" /ve /d 使用记事本打开 /f
+rem reg add "HKLM\SOFTWARE\Classes\*\shell\OpenInNotepad" /ve /d "用记事本打开" /f
+rem reg add "HKLM\SOFTWARE\Classes\*\shell\OpenInNotepad\command" /ve /d "notepad.exe %%1" /f
+reg add "HKEY_CLASSES_ROOT\*\shell\Noteped" /ve /d 用记事本打开 /f
 reg add "HKEY_CLASSES_ROOT\*\shell\Noteped\command" /ve /d "notepad.exe %%1" /f
 ::右键菜单添加DLL/OCX文件右键加上(反)注册
 reg add "HKCR\Dllfile\shell\注册 DLL\Command" /ve /d "Regsvr32 %%1" /f
@@ -211,7 +235,9 @@ reg add "HKCR\Dllfile\shell\注销 DLL\Command" /ve /d "Regsvr32 /u %%1" /f
 reg add "HKCR\Ocxfile\shell\注册 OCX\Command" /ve /d "Regsvr32 %%1" /f
 reg add "HKCR\Ocxfile\shell\注销 OCX\Command" /ve /d "Regsvr32 /u %%1" /f
 ::右键菜单添加cmd快速通道
-reg add "HKCR\folder\shell\cmd" /ve /d "在此打开CMD" /f
+rem reg add "HKCR\Folder\shell\在此处打开命令窗口" /v "EditFlags" /t REG_BINARY /d "00000000" /f
+rem reg add "HKCR\Folder\shell\在此处打开命令窗口\command" /ve /d "\"cmd\" /K cd /d %%L" /f
+reg add "HKCR\folder\shell\cmd" /ve /d "在此处打开命令窗口" /f
 reg add "HKCR\folder\shell\cmd\command" /ve /d "cmd.exe /k cd %%1" /f
 ::右键删除-复制名称、复制路径、复制、移动
 reg delete "HKLM\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To" /f
@@ -311,10 +337,17 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v "M
 reg add "HKLM\Software\Policies\Microsoft\Internet Explorer\Suggested Sites" /v Enabled /t REG_DWORD /d 1 /f
 ::关闭自动更新
 reg add "HKLM\Software\Policies\Microsoft\Internet Explorer\Infodelivery\Restrictions" /v NoUpdateCheck /t REG_DWORD /d 1 /f
-::关闭IE请勿追踪功能(Do Not Track)
-reg add "HKLM\Software\Policies\Microsoft\MicrosoftEdge\Main" /v DoNotTrack /t REG_DWORD /d 0 /f
+::关闭IE请勿追踪功能(Do Not Track) reg add "HKLM\Software\Policies\Microsoft\MicrosoftEdge\Main" /v DoNotTrack /t REG_DWORD /d 0 /f
+::打开IE请勿追踪功能(Do Not Track)
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "DoNotTrack" /d "1" /t REG_DWORD /f
 ::启用搜索建议
 reg add "HKLM\Software\Policies\Microsoft\Internet Explorer" /v AllowServicePoweredQSA /t REG_DWORD /d 1 /f
+::启用IE增强保护模式
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Isolation" /d "PMEM" /t REG_SZ /f
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Isolation64Bit" /d 1 /t REG_DWORD /f
+::开启IE11企业模式
+reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Main\EnterpriseMode" /v SiteList /d "HKCU\Software\policies\Microsoft\Internet Explorer\Main\EnterpriseMode" /t reg_sz /f
+reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Main\EnterpriseMode" /v Enable /d "" /t reg_sz /f
 ::关闭定位
 reg add "HKLM\Software\Policies\Microsoft\Internet Explorer\Geolocation" /v PolicyDisableGeolocation /t REG_DWORD /d 1 /f
 ::其他
@@ -326,6 +359,17 @@ reg add "HKLM\Software\Policies\Microsoft\MicrosoftEdge\PhishingFilter" /v Enabl
 
 
 :: 6.微软拼音输入法配置选项
+::添加中文美式键盘并设为默认
+reg add "HKCU\Keyboard Layout" /f
+reg add "HKCU\Keyboard Layout\Preload" /v "1" /d "00000804" /f
+reg add "HKCU\Keyboard Layout\Preload" /v "2" /d "d0010804" /f
+reg add "HKCU\Keyboard Layout\Substitutes" /v "00000804" /d "00000409" /f
+reg add "HKCU\Keyboard Layout\Substitutes" /v "d0010804" /d "00000804" /f
+reg add "HKCU\Keyboard Layout\Toggle" /f
+reg add "HKCU\SOFTWARE\Microsoft\CTF\Assemblies\0x00000804" /f
+reg add "HKCU\SOFTWARE\Microsoft\CTF\Assemblies\0x00000804\{34745C63-B2F0-4784-8B67-5E12C8701A31}" /v "Default" /d "{00000000-0000-0000-0000-000000000000}" /f
+reg add "HKCU\SOFTWARE\Microsoft\CTF\Assemblies\0x00000804\{34745C63-B2F0-4784-8B67-5E12C8701A31}" /v "Profile" /d "{00000000-0000-0000-0000-000000000000}" /f
+reg add "HKCU\SOFTWARE\Microsoft\CTF\Assemblies\0x00000804\{34745C63-B2F0-4784-8B67-5E12C8701A31}" /v "KeyboardLayout" /t REG_DWORD /d 67700740 /f
 ::微软拼音默认为英语输入
 reg add "HKCU\SOFTWARE\Microsoft\InputMethod\Settings\CHS" /v "Default Mode" /t REG_DWORD /d 1 /f
 ::关闭微软拼音云计算
@@ -357,7 +401,7 @@ Start /wait schtasks.exe /Change /DISABLE /TN "\Microsoft\Windows\WindowsUpdate\
 reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
 :: 记事本自动换行
 reg add "HKCU\Software\Microsoft\NotePad" /v "fwrap" /t REG_DWORD /d 1 /f
-::去除休眠文件
+::禁用休眠
 powercfg -h off
 ::Win离开模式
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayModeEnabled /t REG_DWORD /d 00000001 /f
@@ -373,15 +417,20 @@ SCHTASKS /Change /DISABLE /TN "\Microsoft\Windows\Defrag\ScheduledDefrag"
 ::禁止Windows发送错误报告
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting" /v "Disabled" /d 1 /t REG_DWORD /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PCHealth\ErrorReporting" /v "DoReport" /d 0 /t REG_DWORD /f
+reg add "HKCU\Software\Policies\Microsoft\Windows\Windows Error Reporting" /v "LoggingDisabled" /d 1 /t REG_DWORD /f
+::禁止系统日志和内存转储
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\CrashControl" /v "LogEvent" /d 0 /t REG_DWORD /f
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\CrashControl" /v "AutoReboot" /d 0 /t REG_DWORD /f
+reg add "HKLM\SYSTEM\ControlSet001\Control\CrashControl" /v "CrashDumpEnabled" /d 0 /t REG_DWORD /f
 ::关闭系统保护并删除还原点
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /v "RPSessionInterval" /d 0 /t REG_DWORD /f
-reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SPP\Clients" /f
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v "DisableSR" /d 1 /t REG_DWORD /f
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Installer" /v "LimitSystemRestoreCheckpointing" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /v "RPSessionInterval" /d 0 /t REG_DWORD /f
+reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SPP\Clients" /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v "DisableSR" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Installer" /v "LimitSystemRestoreCheckpointing" /d 1 /t REG_DWORD /f
 ::禁止运行计算机自动维护计划
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ScheduledDiagnostics" /v "EnabledExecution" /d 0 /t REG_DWORD /f
 ::关闭客户体验改善计划
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SQMClient\Windows" /v "CEIPEnable" /d 0 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\SQMClient\Windows" /v "CEIPEnable" /d 0 /t REG_DWORD /f
 ::键盘记住上次NumLock状态
 reg add "HKEY_USERS\.DEFAULT\Control Panel\Keyboard" /v "InitialKeyboardIndicators" /d "2" /f
 ::关闭UAC
@@ -390,15 +439,15 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\S
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 77 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
 ::退出程序时自动清理内存中的DLL
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v AlwaysUnloadDll /t REG_DWORD /d 00000001 /f
-::执行关机时强制退出应用程序（制杀后台不等待）
+::执行关机时强制退出应用程序（关机时强杀后台不等待）
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control" /v "WaitToKillServiceTimeout" /d 0 /t REG_SZ /f
 ::加快菜单与任务栏预览的显示速度
 reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /d 0 /t REG_SZ /f
 reg add "HKEY_CURRENT_USER\Control Panel\Mouse" /v MouseHoverTime /d 0 /t REG_SZ /f
 ::关闭远程协助
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowToGetHelp" /d 0 /t REG_dword /f
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowUnsolicited" /d 0 /t REG_dword /f
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fDenyTSConnections" /d 1 /t REG_dword /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowToGetHelp" /d 0 /t REG_dword /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowUnsolicited" /d 0 /t REG_dword /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fDenyTSConnections" /d 1 /t REG_dword /f
 ::清理启动项
 attrib -s -h -r "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\*.*"
 attrib -s -h -r "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.*"
@@ -422,25 +471,14 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image F
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wzdh2345.exe" /v Debugger /t REG_SZ /d "p" /f
 
 
+
+ECHO 更新策略
+gpupdate /force
+
 cls
-gpupdate /force >nul
+
 del "%userprofile%\AppData\Local\iconcache.db" /f /q
 taskkill /f /im explorer.exe
 start %systemroot%\explorer
 start explorer
 exit
-
-
-
-
-::右键菜单添加：获取TrustedInstaller权限
-rem 获取TrustedInstaller权限
-reg add "HKCR\*\shell\runas" /ve /d "获取TrustedInstaller权限" /f
-reg add "HKCR\*\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-reg add "HKCR\*\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-reg add "HKCR\Directory\shell\runas" /ve /d "获取TrustedInstaller权限" /f
-reg add "HKCR\Directory\shell\runas" /v "NoWorkingDirectory" /d "" /f
-reg add "HKCR\Directory\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
-reg add "HKCR\Directory\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
-
-
