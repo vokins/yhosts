@@ -41,12 +41,12 @@ goto :eof
 @SET win=%cd%\win
 @cd %CURRENTDIR%
 rem "%win%\sed.exe" -i "$d" site.txt
-set files=active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt
+set files=active.txt base.txt comon.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
 for %%a in (%files%) do (type "%%a">>333.txt)
 rem 暂时删除转换以保证使用127 获得最好的兼容性。"%win%\sed.exe" -i "s/127.0.0.1/0.0.0.0/g" 333.txt
 set files=direct.txt 333.txt
 for %%a in (%files%) do (type "%%a">>hosts.txt)
-set files=active.txt base.txt comon.txt direct.txt moot.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
+set files=active.txt base.txt comon.txt direct.txt down.txt old.txt os.txt android.txt app.txt sitecn.txt sitefor.txt hijack.txt popup.txt union.txt xunlei.txt virus.txt tvbox.txt
 for %%a in (%files%) do (type "%%a">>lyq.txt)
 "%win%\sed.exe" -i "/^#/d" lyq.txt
 "%win%\sed.exe" -i "/^@/d" lyq.txt
