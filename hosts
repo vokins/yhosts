@@ -1729,7 +1729,6 @@
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 analytics.spotify.com
 127.0.0.1 log.spotify.com
-127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
