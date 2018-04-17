@@ -1,3 +1,9 @@
+127.0.0.1 c.wechat.jx.cn
+127.0.0.1 sy.jlhygy.com
+127.0.0.1 user.tiankongzudui.com
+127.0.0.1 www.57.com.cn
+127.0.0.1 www.588yw.com
+127.0.0.1 www.hunpingou.com
 127.0.0.1 ass.wkbmw.cn
 127.0.0.1 e.bbvjs.com
 127.0.0.1 e.focuscat.com
