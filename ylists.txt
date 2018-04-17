@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180313190302
+! Version: 20180417232425
 ! Title: yList
-! Last modified: 7:03 2018/3/13
+! Last modified: 23:24 2018/4/17
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -218,3 +218,5 @@ shuaigay.win##[style*="99999"]
 trakt.tv##div[id="huckster-desktop-wrapper"]
 trakt.tv##div[id="huckster-mobile-top-square"]
 trakt.tv##div[id="huckster-mobile-square-wrapper"]
+bbs.pcbeta.com###diynavtop + style + div[class]
+pcbeta.com##.forum_top ~ div[class]
