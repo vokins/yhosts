@@ -1,4 +1,40 @@
 
+::锁定IE主页 
+reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /d 1 /f >nul
+::关闭DEP 
+bcdedit /set {current} nx Alwaysoff
+::关闭Windows Defender Firewall：Windows Defender 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机。
+sc config mpssvc start= disabled
+::关闭Windows Defender 安全中心服务
+sc config SecurityHealthService start= disabled
+rem 去除快捷方式小箭头
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 29 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
+rem 登录显示桌面而非开始屏幕
+reg add "HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer" /v GoToDesktopOnSignIn /d 1 /t REG_DWORD /f
+rem 显示受保护的系统文件
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\SHOWALL" /v "CheckedValue" /d 1 /t REG_DWORD /f
+::禁止Windows发送错误报告
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PCHealth\ErrorReporting" /v "DoReport" /d 0 /t REG_DWORD /f
+::禁用组件堆栈（Component Based Servicing）日志
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing" /v "EnableLog" /t REG_DWORD /d 0 /f
+::系统失败：自动重新启动
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\CrashControl" /v "AutoReboot" /d 0 /t REG_DWORD /f
+::禁用更新解压模块（Delta Package Expander）日志
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing" /v "EnableDpxLog" /t REG_DWORD /d 0 /f
+
+::禁用休眠
+powercfg -h off
+::Win离开模式（睡眠不影响下载）
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayModeEnabled /t REG_DWORD /d 00000001 /f
+
+::加快菜单与任务栏预览的显示速度
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /d 0 /t REG_SZ /f
+reg add "HKEY_CURRENT_USER\Control Panel\Mouse" /v MouseHoverTime /d 0 /t REG_SZ /f
+
+::禁止运行计算机自动维护计划
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ScheduledDiagnostics" /v "EnabledExecution" /d 0 /t REG_DWORD /f
+
+
 http://tools.yiclear.com/ChinaList2.0.txt
 
 这些都是我近期收到的垃圾短信。根本就不是银行发的。我会定期收集把这些二次甚至是多次跳转的网址做出屏蔽。放到ems.txt文件夹里。email&sms营销短链接。

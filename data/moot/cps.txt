@@ -26,6 +26,7 @@
 127.0.0.1 i.click.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 s.click.tmall.com
+127.0.0.1 temai.m.taobao.com
 127.0.0.1 jx.tmall.com
 @cps-jd
 127.0.0.1 ccc.x.jd.com
