@@ -1120,6 +1120,7 @@
 #eMail&SMS
 127.0.0.1 dc.tt
 127.0.0.1 dpurl.cn
+127.0.0.1 h9p9.cn
 127.0.0.1 mrw.so
 127.0.0.1 suo.im
 127.0.0.1 t.cn
@@ -1127,6 +1128,8 @@
 127.0.0.1 t1n.cn
 127.0.0.1 taou.cn
 127.0.0.1 u6.gg
+127.0.0.1 url.cn
+127.0.0.1 v.u22l.cc
 127.0.0.1 www.w1a.cc
 @errorpage/click
 127.0.0.1 cps.yaoqing.com
@@ -2890,6 +2893,20 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 360vip.front99.com
+127.0.0.1 e.fimky.com
+127.0.0.1 e.vaxyz.com
+127.0.0.1 e.xmgysweb.com
+127.0.0.1 e.zabxb.com
+127.0.0.1 kn.qqqmdq.com
+127.0.0.1 m.abfirst.cn
+127.0.0.1 m.fimky.com
+127.0.0.1 m.vaxyz.com
+127.0.0.1 m.xmgysweb.com
+127.0.0.1 m.zabxb.com
+127.0.0.1 s.wxktv.cn
+127.0.0.1 s.yunpifu.cn
+127.0.0.1 www.tukexiu.com
 127.0.0.1 baxf.m.shuhuangge.org
 127.0.0.1 e.cdfzcz.com
 127.0.0.1 e.chfuw.com

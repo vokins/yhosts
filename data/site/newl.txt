@@ -1,3 +1,17 @@
+127.0.0.1 360vip.front99.com
+127.0.0.1 e.fimky.com
+127.0.0.1 e.vaxyz.com
+127.0.0.1 e.xmgysweb.com
+127.0.0.1 e.zabxb.com
+127.0.0.1 kn.qqqmdq.com
+127.0.0.1 m.abfirst.cn
+127.0.0.1 m.fimky.com
+127.0.0.1 m.vaxyz.com
+127.0.0.1 m.xmgysweb.com
+127.0.0.1 m.zabxb.com
+127.0.0.1 s.wxktv.cn
+127.0.0.1 s.yunpifu.cn
+127.0.0.1 www.tukexiu.com
 127.0.0.1 baxf.m.shuhuangge.org
 127.0.0.1 e.cdfzcz.com
 127.0.0.1 e.chfuw.com
