@@ -1,4 +1,4 @@
-rem ver: 17:43 2018/4/22/周日
+rem ver: 21:43 2018/4/27/周五
 @ECHO OFF
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -6,6 +6,9 @@ Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableDelayedExpansion
 TITLE Windows 10 调整工具
 COLOR 0a
+
+:: 清空剪贴版
+mshta vbscript:clipboardData.SetData("text","")(close)
 
 :: 1.服务调整部分：
 ::禁用远程修改注册表
@@ -142,6 +145,28 @@ echo    微软遥测相关任务计划禁用完毕！
 
 
 :: 2.右键菜单调整部分：
+::右键菜单添加:显示/隐藏文件
+>"%windir%\SuperHidden.vbs" echo Dim WSHShell
+>>"%windir%\SuperHidden.vbs" echo Set WSHShell = WScript.CreateObject("WScript.Shell")
+>>"%windir%\SuperHidden.vbs" echo sTitle1 = "SSH=0"
+>>"%windir%\SuperHidden.vbs" echo sTitle2 = "SSH=1"
+>>"%windir%\SuperHidden.vbs" echo if WSHShell.RegRead("HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden") = 1 then
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "0", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "2", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "1", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.SendKeys "{F5}"
+>>"%windir%\SuperHidden.vbs" echo else
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "1", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "1", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "0", "REG_DWORD"
+>>"%windir%\SuperHidden.vbs" echo WSHShell.SendKeys "{F5}"
+>>"%windir%\SuperHidden.vbs" echo end if
+>>"%windir%\SuperHidden.vbs" echo Set WSHShell = Nothing
+>>"%windir%\SuperHidden.vbs" echo WScript.Quit(0)
+reg add "HKCR\Directory\Background\shell\SuperHidden" /ve /d "显示/隐藏文件"(H)"" /f
+reg add "HKCR\Directory\Background\shell\SuperHidden\Command" /ve /d "WScript.exe C:\windows\SuperHidden.vbs" /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "ShowSuperHidden" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "Hidden" /t REG_DWORD /d 2 /f
 ::右键菜单添加：获取超级管理员权限(获取TrustedInstaller权限)
 reg add "HKCR\*\shell\runas" /ve /d "获取超级管理员权限" /f
 reg add "HKCR\*\shell\runas" /v "HasLUAShield" /d "" /f

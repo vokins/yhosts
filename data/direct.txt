@@ -9,24 +9,4 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
-#uvwxyz.xyz
-74.222.26.86 bbs.uvwxyz.xyz
-74.222.26.86 ipv6.uvwxyz.xyz
-74.222.26.86 uvwxyz.xyz
-74.222.26.86 www.uvwxyz.xyz
-74.222.26.90 bbs.uvwxyz.xyz
-74.222.26.90 ipv6.uvwxyz.xyz
-74.222.26.90 uvwxyz.xyz
-74.222.26.90 www.uvwxyz.xyz
 @direct/3rd
-#gaysex
-216.58.199.243 www.gaysex18.net
-216.58.200.243 www.gaysex18.net
-64.233.188.121 www.gaysex18.net
-172.217.26.115 www.gaysex18.net
-172.217.25.211 www.gaysex18.net
-104.27.164.22 gaysex69.net
-172.217.27.147 gaysexhd.net
-104.27.164.22 www.gaysex69.net
-216.58.200.243 www.sexgayhd.net
-172.217.27.147 www.gaysexhd.net
