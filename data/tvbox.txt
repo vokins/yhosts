@@ -112,7 +112,6 @@
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 wan.youku.com
 #youku-area
-127.0.0.1 vali.cp31.ott.cibntv.net
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com

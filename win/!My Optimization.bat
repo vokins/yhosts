@@ -91,24 +91,19 @@ net stop Sense
 echo    正在禁用微软遥测相关任务计划，请稍候……
 SCHTASKS /Change /TN "Microsoft\Office\Office 15 Subscription Heartbeat" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Office\Office ClickToRun Service Monitor" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetry\AgentFallBack2016" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetry\OfficeTelemetryAgentLogOn2016" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentFallBack" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentFallBack2016" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentLogOn" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentLogOn2016" /disable>nul 2>nul
+SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetry\AgentFallBack2016" /disable>nul 2>nul
+SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetry\OfficeTelemetryAgentLogOn2016" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\AppID\SmartScreenSpecific" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\AitAgent" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Autochk\Proxy" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\CloudExperienceHost\CreateObjectTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\BthSQM" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Uploader" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\DiskFootprint\Diagnostics" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\FileHistory\File History (maintenance mode)" /disable>nul 2>nul
@@ -116,13 +111,11 @@ SCHTASKS /Change /TN "Microsoft\Windows\Maintenance\WinSAT" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ActivateWindowsSearch" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ConfigureInternetTimeService" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\DispatchRecoveryTasks" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ehDRMInit" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\InstallPlayReady" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Media Center\mcupdate" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\MediaCenterRecoveryTask" /disable>nul 2>nul
-SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ObjectStoreRecoveryTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\OCURActivate" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\OCURDiscovery" /disable>nul 2>nul
+SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ObjectStoreRecoveryTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\PBDADiscovery" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\PBDADiscoveryW1" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\PBDADiscoveryW2" /disable>nul 2>nul
@@ -132,12 +125,19 @@ SCHTASKS /Change /TN "Microsoft\Windows\Media Center\RegisterSearch" /disable>nu
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ReindexSearchRoot" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\SqlLiteRecoveryTask" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Media Center\UpdateRecordPath" /disable>nul 2>nul
+SCHTASKS /Change /TN "Microsoft\Windows\Media Center\ehDRMInit" /disable>nul 2>nul
+SCHTASKS /Change /TN "Microsoft\Windows\Media Center\mcupdate" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\PI\Sqm-Tasks" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitor" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Shell\FamilySafetyRefresh" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Shell\FamilySafetyUpload" /disable>nul 2>nul
 SCHTASKS /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /disable>nul 2>nul
+schtasks /change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable
+schtasks /change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable
+schtasks /change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable
+schtasks /change /TN "Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" /disable
+schtasks /change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable
 cls
 echo.
 echo    微软遥测相关任务计划禁用完毕！
