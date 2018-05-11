@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180417232425
+! Version: 20180512001833
 ! Title: yList
-! Last modified: 23:24 2018/4/17
+! Last modified: 0:18 2018/5/12
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -77,55 +77,92 @@
 ##a[href*="/ppop.php?"]
 ##[src="/js/tj.js"]
 
+
 *//ads.*
 */AD/*
 */AdCenter/*
 */VediosAD/*
+*/ad.js
 */ad/*
+*/ad/files/*
+*/ad/images/*
+*/ad/js/*
 */ad_adapter/*
+*/ad_display.php*
+*/ad_img/*
+*/adb.php
 */adbox/*
 */adcode/*
 */adcreatives/*
 */adimages/*
 */adjs/*
 */adlink/*
+*/admaster/*
+*/adpolestar/*
 */ads.js
 */ads/*
+*/ads_js/*
 */adsame/*
 */adsense/*
+*/adserve/*
 */adservice/*
 */adstat/*
 */adstatic/*
 */adt.php
 */adv.php
 */adv/*
+*/adver/*
 */advert/*
+*/advert2/*
 */advertclient/*
 */advertise/*
 */advertisement/*
+*/advertising/*
 */advpic/*
 */adx.php
 */adx.php*
 */afp-creative/*
+*/afp/*
+*/analytics.js
 */analytics/*
+*/api/ad/*
+*/baiduunion/*
 */brandads/*
 */cpc.js
+*/cpc/*
 */cpro/*
 */cpv/*
 */data/attachment/common/cf/*
+*/delivery/*
+*/ggao/*
 */ggimg/*
 */guanggao/*
-*/html/click/*.html
+*/html/click/*
 */htmlcode/*
 */iframe/gg/*
+*/iframeads/*
+*/jscode/*
+*/material/*.html
 */mstat/*
 */pagead/*
+*/piwik.js
 */promotion/*
+*/showads.php?
 */sinaads/*
 */stat.php?id=*
+*/syndication.js
+*/syndication/*
 */textad/*
 */tps/noexpire/*
-*/www/delivery/*
+*/union/images/*
+
+*/adshow.php?*
+http://adimage.*
+http://adimg.*
+http://ads.*
+http://adsense.*
+http://adv.*
+http://allyes.*
 
 ##div[id^="cpro_"]
 ##[href*="/cpro/ui/"]
@@ -196,15 +233,19 @@ myzaker.com##div[class="zk_top_barwrap"]
 *.cnzz.com/*
 //u-x.jd.com/*
 //ad.doubanio.com/*
+http://*.pstatp.com/large/*
 http://*.pstatp.com/origin/*
 http://common.jxnews.com.cn/2011/*.swf
+http://files.jb51.net/image/*.gif
+http://img.jb51.net/image/*.gif
 http://static.cnbetacdn.com/frontend/vipics/*
 http://tp.nty.tv189.com/image/tmpl/*
 http://www.66ys.tv/d/*
 http://www.dygang.net/d/gg/*
 http://www.dysfz.cc/img/*
-https://www.shuaigay.win/cp.js
+http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
+https://www.shuaigay.win/cp.js
 ||static.cnbetacdn.com/frontend/vipics/*
 ##div[id^="taboola-"]
 !union
