@@ -80,9 +80,6 @@
 127.0.0.1 m5.apk.67mo.com
 @hijack/microsoft
 127.0.0.1 ieonline.microsoft.com
-@hijack/miwifi
-127.0.0.1 browser.gwdang.com
-127.0.0.1 router.gwdang.com
 @hijack/domain
 127.0.0.1 offline-adv.oray.com
 @hijack/homepage

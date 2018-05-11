@@ -1,4 +1,8 @@
 127.0.0.1 vali.cp31.ott.cibntv.net 这个域名好像加载优酷自己的播放器了
+@hijack/miwifi
+127.0.0.1 browser.gwdang.com
+127.0.0.1 router.gwdang.com
+
 ::锁定IE主页 
 reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /d 1 /f >nul
 ::关闭DEP 
