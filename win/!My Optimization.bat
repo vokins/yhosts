@@ -81,12 +81,12 @@ sc config MapsBroker start= disabled
 ::停止系统还原与备份
 net stop SDRSVC > NUL 2>&1
 ::关闭Windows Defender Antivirus Network Inspection Service：帮助防止针对网络协议中的已知和新发现的漏洞发起的入侵企图
-net stop WdNisSvc > NUL
+net stop WdNisSvc > NUL 2>&1
 ::关闭Windows Defender Antivirus Service：帮助用户防止恶意软件及其他潜在的垃圾软件。
-net stop WinDefend > NUL
+net stop WinDefend > NUL 2>&1
 ::关闭Windows Defender Advanced Threat Protection Service：Windows Defender 高级威胁防护服务通过监视和报告计算机上发生的安全事件来防范高级威胁。
-sc stop Sense
-net stop Sense
+sc stop Sense > NUL 2>&1
+net stop Sense > NUL 2>&1
 
 echo    正在禁用微软遥测相关任务计划，请稍候……
 SCHTASKS /Change /TN "Microsoft\Office\Office 15 Subscription Heartbeat" /disable>nul 2>nul

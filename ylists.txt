@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180526193001
+! Version: 20180526221955
 ! Title: yList
-! Last modified: 19:30 2018/5/26
+! Last modified: 22:19 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -79,7 +79,6 @@
 ##a[href*="/ppop.php?"]
 ##div[id^="taboola-"]
 ##div[class="download-tips"]
-##div[style="display: block;"]
 ##section[class="m-qr-code"]
 
 */js/a_d/*
@@ -183,13 +182,13 @@ http://allyes.*
 //cpro2.baidustatic.com/*
 pos.baidu.com/*
 https://hm.baidu.com/*
-baidu.com##div[class="first-card-container"]
 baidu.com##div[class="blank-frame"]
+baidu.com##div[class="first-card-container"]
+baidu.com##div[id="feed-recommend"]
 m.site.baidu.com##div[class="feed"]
 m.site.baidu.com##div[class="haotab"]
 m.site.baidu.com##div[class="infoFlow"]
 m.baidu.com##div[class="page-banner"]
-baidu.com##div[id="feed-recommend"]
 baijiahao.baidu.com##div[class="bottomMargin"]
 baijiahao.baidu.com##div[class="outmargin"]
 baijiahao.baidu.com##div[class^="openall"]
