@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180526182505
+! Version: 201805261832
 ! Title: yList
-! Last modified: 18:25 2018/5/26
+! Last modified: 18:32 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -218,7 +218,11 @@ baidu.com##div[id="feed-recommend"]
 @@||l.qq.com/livemsg
 @@||l.qq.com/crossdomain.xml
 @@||l.qq.com/proxyhttp
-
+//pgdt.gtimg.cn/*
+//recmd.html5.qq.com/*
+a[href*=".gdt.qq.com/"]
+img[src^="//pgdt.gtimg.cn/"]
+3g.qq.com##li[class="j-cms-ads"]
 
 ##iframe[src*=".126.net/channel"]
 ##a[href^="http://rd.da.netease.com/"]
