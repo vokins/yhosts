@@ -35,7 +35,6 @@
 127.0.0.1 su.bdimg.com
 #bdstatic
 127.0.0.1 ae.bdstatic.com
-127.0.0.1 b.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com

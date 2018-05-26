@@ -1,5 +1,5 @@
 
-#version=201805261931
+#version=201805262224
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -322,7 +322,6 @@
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 su.bdimg.com
 127.0.0.1 ae.bdstatic.com
-127.0.0.1 b.bdstatic.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
