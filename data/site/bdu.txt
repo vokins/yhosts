@@ -23,3 +23,7 @@
 127.0.0.1 b.sundxs.com
 127.0.0.1 lm.dawenxue.org
 127.0.0.1 img.dawenxue.org
+127.0.0.1 bd-s.baixing.net
+127.0.0.1 bd-js.baixing.net
+127.0.0.1 src.zf313.com
+127.0.0.1 ssp.kjwx8.com

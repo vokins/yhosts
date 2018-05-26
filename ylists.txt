@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201805261835
+! Version: 201805261846
 ! Title: yList
-! Last modified: 18:35 2018/5/26
+! Last modified: 18:46 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -260,6 +260,13 @@ photo.sina.cn##ul[id="recommand"]
 ##[src^="//ggs.myzaker.com/"]
 myzaker.com##a[id^="dsp_id_"]
 myzaker.com##div[class="zk_top_barwrap"]
+
+##a[href^="http://dol.tianya.cn/"]
+##img[src^="http://801.tianya.cn/"]
+tianya.cn##div[class^="gg gg-item"]
+tianya.cn##li[class^="gg gg-item"]
+tianya.cn##div[class="ty-footer"]
+tianya.cn##div[class^="u-like"]
 
 *.mediav.com/*
 *.cnzz.com/*
