@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201805261846
+! Version: 20180526193001
 ! Title: yList
-! Last modified: 18:46 2018/5/26
+! Last modified: 19:30 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -190,7 +190,10 @@ m.site.baidu.com##div[class="haotab"]
 m.site.baidu.com##div[class="infoFlow"]
 m.baidu.com##div[class="page-banner"]
 baidu.com##div[id="feed-recommend"]
-
+baijiahao.baidu.com##div[class="bottomMargin"]
+baijiahao.baidu.com##div[class="outmargin"]
+baijiahao.baidu.com##div[class^="openall"]
+baijiahao.baidu.com##div[class^="commentEmbed-backHomeBtn"]
 
 ##[src*="/fumeiti.js"]
 ##[src*="/pagead/"]
