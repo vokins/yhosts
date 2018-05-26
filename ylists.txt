@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180512001833
+! Version: 201805261721
 ! Title: yList
-! Last modified: 0:18 2018/5/12
+! Last modified: 17:19 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -174,6 +174,9 @@ http://allyes.*
 //cpro2.baidustatic.com/*
 pos.baidu.com/*
 https://hm.baidu.com/*
+baidu.com##div[class="first-card-container"]
+baidu.com##div[class="blank-frame"]
+
 
 ##[src*="/fumeiti.js"]
 ##[src*="/pagead/"]
@@ -261,3 +264,5 @@ trakt.tv##div[id="huckster-mobile-top-square"]
 trakt.tv##div[id="huckster-mobile-square-wrapper"]
 bbs.pcbeta.com###diynavtop + style + div[class]
 pcbeta.com##.forum_top ~ div[class]
+m.smzdm.com##div[class="logo-download"]
+m.smzdm.com##div[class="foot-banner"]
