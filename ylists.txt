@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180526173601
+! Version: 20180526182505
 ! Title: yList
-! Last modified: 17:36 2018/5/26
+! Last modified: 18:25 2018/5/26
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -73,11 +73,18 @@
 ##[style*="font-size:0p"]
 ##[style*="font-size: 0p"]
 
+##[src="/js/tj.js"]
+##img[id="qrcode"]
 ##img[src*="/c/o.php?"]
 ##a[href*="/ppop.php?"]
-##[src="/js/tj.js"]
+##div[id^="taboola-"]
+##div[class="download-tips"]
+##div[style="display: block;"]
+##section[class="m-qr-code"]
 
-
+*/js/a_d/*
+*/tongji.js
+*/js/bottom.js
 *//ads.*
 */AD/*
 */AdCenter/*
@@ -164,12 +171,14 @@ http://adsense.*
 http://adv.*
 http://allyes.*
 
+
 ##div[id^="cpro_"]
 ##[href*="/cpro/ui/"]
 ##[src*="/cpro/ui/"]
 ##[href*="cpro.baidu.com"]
 ##[src*="pos.baidu.com"]
 ##[src*="baidustatic.com"]
+##[src*="river.zhidao.baidu.com"]
 //cpro.baidustatic.com/*
 //cpro2.baidustatic.com/*
 pos.baidu.com/*
@@ -180,6 +189,8 @@ m.site.baidu.com##div[class="feed"]
 m.site.baidu.com##div[class="haotab"]
 m.site.baidu.com##div[class="infoFlow"]
 m.baidu.com##div[class="page-banner"]
+baidu.com##div[id="feed-recommend"]
+
 
 ##[src*="/fumeiti.js"]
 ##[src*="/pagead/"]
@@ -203,6 +214,11 @@ m.baidu.com##div[class="page-banner"]
 ##[src*="im-x.jd.com/"]
 ##[href*="ccc-x.jd.com/"]
 
+||l.qq.com/lview?
+@@||l.qq.com/livemsg
+@@||l.qq.com/crossdomain.xml
+@@||l.qq.com/proxyhttp
+
 
 ##iframe[src*=".126.net/channel"]
 ##a[href^="http://rd.da.netease.com/"]
@@ -220,6 +236,7 @@ news.163.com##div[class^="ad-mobile"]
 news.163.com##div[class^="gallery-guess"]
 news.163.com##div[class^="mod_ad_"]
 news.163.com###xtClick
+news.163.com##div[class^="newsapp-"]
 
 www.douyu.com###div[class^="room-ad-"]
 www.douyu.com###div[class="chat-ad"]
@@ -229,11 +246,15 @@ www.douyu.com###ul[class="promos"][data-type="promos"]
 xinhuanet.com##div[id^="YCADS"]
 tieba.baidu.com##li[class$="  clearfix"]
 
+sina.cn##section[class="xc_conpoment"]
+sina.cn##section[class^="s_card j_article_relevent"]
+sina.cn##section[class="center_de"]
+photo.sina.cn##ul[id="recommand"]
+
 ##[href^="//ggs.myzaker.com/"]
 ##[src^="//ggs.myzaker.com/"]
 myzaker.com##a[id^="dsp_id_"]
 myzaker.com##div[class="zk_top_barwrap"]
-##img[id="qrcode"]
 
 *.mediav.com/*
 *.cnzz.com/*
@@ -253,7 +274,7 @@ http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
 https://www.shuaigay.win/cp.js
 ||static.cnbetacdn.com/frontend/vipics/*
-##div[id^="taboola-"]
+
 !union
 ||miaomuhome.cn^
 ||guomob.com^
@@ -267,5 +288,9 @@ trakt.tv##div[id="huckster-mobile-top-square"]
 trakt.tv##div[id="huckster-mobile-square-wrapper"]
 bbs.pcbeta.com###diynavtop + style + div[class]
 pcbeta.com##.forum_top ~ div[class]
+
+
 m.smzdm.com##div[class="logo-download"]
 m.smzdm.com##div[class="foot-banner"]
+i.ifeng.com##div[class="download_box"]
+ifeng.com##div[class="ifengLookori"]
