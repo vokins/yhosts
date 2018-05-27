@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180527102950
+! Version: 20180527112439
 ! Title: yList
-! Last modified: 10:29 2018/5/27
+! Last modified: 11:24 2018/5/27
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -165,7 +165,8 @@
 */textad/*
 */tps/noexpire/*
 */union/images/*
-
+*/fumeiti.js
+*/piaofu.js
 */adshow.php?*
 http://adimage.*
 http://adimg.*
@@ -292,6 +293,7 @@ http://www.dysfz.cc/img/*
 http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
 https://www.shuaigay.win/cp.js
+https://a.mianbaoimg.com:8083/*
 
 ||static.cnbetacdn.com/frontend/vipics/*
 cnbeta.com##div[class^="cbv"]
