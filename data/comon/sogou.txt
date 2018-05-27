@@ -102,7 +102,6 @@
 127.0.0.1 pv.focus.cn
 127.0.0.1 cdn.optaim.com
 127.0.0.1 clk.optaim.com
-127.0.0.1 cm.optaim.com
 127.0.0.1 demo.optaim.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 tk.optaim.com

@@ -12,7 +12,6 @@
 127.0.0.1 ad.dokrmob.com
 127.0.0.1 apnmedia.ask.com
 127.0.0.1 baidut.github.io
-127.0.0.1 bg339.com
 127.0.0.1 c.silvinst.com
 127.0.0.1 c1.668559.com
 127.0.0.1 c16cp358.com
@@ -25,7 +24,6 @@
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 cl.xzqxzs.com
 127.0.0.1 creative.wwwpromoter.com
-127.0.0.1 cs.wanwandou.com
 127.0.0.1 dl.xzqxzs.com
 127.0.0.1 down.xiazaidc.com
 127.0.0.1 downlaod.xiaocen.com
@@ -40,7 +38,6 @@
 127.0.0.1 girlcc.cc
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
-127.0.0.1 hd.hd.hhyhfs.com
 127.0.0.1 hjc1990.com
 127.0.0.1 hwt.player888.cn
 127.0.0.1 img.apnanalytics.com
@@ -66,7 +63,6 @@
 127.0.0.1 mibook-10006092.cos.myqcloud.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 onclkds.com
-127.0.0.1 ops.zibov.com
 127.0.0.1 p555.cc
 127.0.0.1 pj3456.com
 127.0.0.1 pj50.com

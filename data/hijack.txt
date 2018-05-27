@@ -176,8 +176,6 @@
 127.0.0.1 s.35kds.com
 127.0.0.1 s.6travel.com
 127.0.0.1 bd.soarfi.cn
-127.0.0.1 creative.ltheanine.cn
-127.0.0.1 eee.eh39.co
 127.0.0.1 312036.com
 127.0.0.1 www.wifijia.net
 127.0.0.1 a.beilamusi.com
@@ -195,7 +193,6 @@
 127.0.0.1 jct.maptu.cn
 127.0.0.1 m.7180443.com
 127.0.0.1 mti.35kds.com
-127.0.0.1 new.ltheanine.cn
 127.0.0.1 parking.zunmi.cn
 127.0.0.1 a.waczt.cn
 127.0.0.1 www.chenggao.cn
@@ -235,7 +232,6 @@
 127.0.0.1 rvb.quanliyouxi.cn
 127.0.0.1 ntx.quanliyouxi.cn
 127.0.0.1 dsp.hypers.com.cn
-127.0.0.1 fanli.1668g.com
 127.0.0.1 www.youka.la
 127.0.0.1 bixia.fymm.cn
 @hijack/x-router

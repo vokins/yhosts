@@ -4,17 +4,7 @@
 #m.biqugego.com
 127.0.0.1 ow.biqugego.com
 127.0.0.1 owin.biqugego.com
-#m.biquguo.com
-127.0.0.1 7a57a5a743894a0e.m.biquguo.com
-127.0.0.1 7f8d3ee6b2525320.m.biquguo.com
-#m.bookben.com
-#m.dingdianzw.com
-#m.lanseshuba.com
-#m.shu008.com
-#m.shubao520.com
-127.0.0.1 ss.shubao520.com
 #m.xs2345.com
 127.0.0.1 include.xs2345.com
 #s.faloo.com
 127.0.0.1 flux.faloo.com
-#wap.xxbiquge.com

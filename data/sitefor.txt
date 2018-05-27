@@ -24,7 +24,6 @@
 127.0.0.1 advertising.aol.com
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
-127.0.0.1 s.sa.aol.com
 127.0.0.1 ar.atwola.com
 127.0.0.1 ar1.atwola.com
 127.0.0.1 ar7.atwola.com
@@ -109,10 +108,8 @@
 #playboy.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com
-#suntimes.com
 #time.com
 127.0.0.1 tiads.time.com
-#umanutd.com
 #usa-sites
 127.0.0.1 ads.xprofiles.com
 #australia-sensismediasmart
@@ -143,7 +140,6 @@
 127.0.0.1 adcdn.goo.ne.jp
 #japan-excite.co.jp
 127.0.0.1 adimp.excite.co.jp
-#japan-mixi
 #japan-yahoo.co.jp
 127.0.0.1 ai.yimg.jp
 127.0.0.1 ard.yahoo.co.jp
@@ -166,7 +162,6 @@
 127.0.0.1 adcreative.naver.com
 127.0.0.1 adimg3.search.naver.net
 #korea-daum
-127.0.0.1 alea.adam.ad.daum.net
 127.0.0.1 m1.daumcdn.net
 #korea-gmarket
 127.0.0.1 adscript.gmarket.co.kr
@@ -189,11 +184,6 @@
 127.0.0.1 i.bigmir.net
 127.0.0.1 stat.bigmir.net
 127.0.0.1 h.holder.com.ua
-#singapore-asiaone
-127.0.0.1 adtag.asiaone.com
-#singapore-zaobao
-#anyway
-#chinatimes
 #cyberctm
 127.0.0.1 ads.cyberctm.com
 #doublemax
@@ -236,7 +226,6 @@
 #hotrank
 127.0.0.1 h01.hotrank.com.tw
 127.0.0.1 www.hotrank.com.tw
-#sitebro
 #yahoo taiwan
 127.0.0.1 ad.wretch.cc
 #dvworld

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180526221955
+! Version: 20180527102950
 ! Title: yList
-! Last modified: 22:19 2018/5/26
+! Last modified: 10:29 2018/5/27
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -57,6 +57,7 @@
 ##[src*="/advertisement/"]
 ##[src*=".adnxs.com/"]
 ##[src*=".criteo.com/"]
+##[src^="js/float.js"]
 ##iframe[src*="/ad/"]
 ##iframe[src^="ad"]
 ##img[src*="/ad/"]
@@ -72,6 +73,9 @@
 ##SPAN[class="transparent"]
 ##[style*="font-size:0p"]
 ##[style*="font-size: 0p"]
+##div[class="tac mb5"]
+##div[class="textMes"]
+
 
 ##[src="/js/tj.js"]
 ##img[id="qrcode"]
@@ -194,6 +198,7 @@ baijiahao.baidu.com##div[class="outmargin"]
 baijiahao.baidu.com##div[class^="openall"]
 baijiahao.baidu.com##div[class^="commentEmbed-backHomeBtn"]
 
+##ins[class="adsbygoogle"]
 ##[src*="/fumeiti.js"]
 ##[src*="/pagead/"]
 ##[src*="doubleclick.net"]
@@ -287,7 +292,11 @@ http://www.dysfz.cc/img/*
 http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
 https://www.shuaigay.win/cp.js
+
 ||static.cnbetacdn.com/frontend/vipics/*
+cnbeta.com##div[class^="cbv"]
+cnbeta.com##section[class="cbv"]
+cnbeta.com##div[class="tac"]
 
 !union
 ||miaomuhome.cn^

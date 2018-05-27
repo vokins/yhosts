@@ -102,7 +102,6 @@
 127.0.0.1 miaozhen.atm.youku.com
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 passport-log.youku.com
 127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com
 127.0.0.1 static.atm.youku.com

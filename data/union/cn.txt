@@ -110,8 +110,6 @@
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
-#baidu-zhidao
-#baidu-soft
 #91
 127.0.0.1 e.91.com
 #baidu-duapps.com
@@ -122,7 +120,6 @@
 #001union
 127.0.0.1 jump.001union.com
 127.0.0.1 jump.baidu.001union.com
-#00oo00.com
 #1133
 127.0.0.1 c1.xcy8.com
 127.0.0.1 img.xcy8.com
@@ -161,7 +158,6 @@
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
 127.0.0.1 union2.50bang.org
-#235123
 #37cs
 127.0.0.1 cs.37see.com
 127.0.0.1 p.37see.com
@@ -262,12 +258,10 @@
 127.0.0.1 b4.6dad.com
 127.0.0.1 e4.6dad.com
 127.0.0.1 www.6dad.com
-#70e
 #77869
 127.0.0.1 pic183025.images9999.com
 127.0.0.1 pic494036.images9999.com
 127.0.0.1 pic837013.images9999.com
-127.0.0.1 pic.778669.com
 #7clink
 127.0.0.1 e.7clink.com
 127.0.0.1 img.7clink.com
@@ -279,9 +273,6 @@
 127.0.0.1 66.8ox.cn
 127.0.0.1 89.8ox.cn
 127.0.0.1 dl.8ox.cn
-#9dtiny.cn
-127.0.0.1 e.9dtiny.cn
-127.0.0.1 www.9dtiny.cn
 #9imobi.com
 127.0.0.1 adsdk.9imobi.com
 #99click
@@ -562,7 +553,6 @@
 127.0.0.1 urd103.analysys.cn
 127.0.0.1 urd240.analysys.cn
 127.0.0.1 urd345.analysys.cn
-#anreson.net
 #appdriver
 127.0.0.1 appdriver.cn
 127.0.0.1 sandbox.appdriver.cn
@@ -641,7 +631,6 @@
 127.0.0.1 rtbstat.zcdsp.com
 #chinauma.net
 127.0.0.1 mcc.chinauma.net
-#cnxad
 #cloudmobi.net
 127.0.0.1 api.cloudmobi.net
 #cocounion.com
@@ -686,26 +675,18 @@
 127.0.0.1 api.android.dianru.com
 127.0.0.1 static.dianru.com
 127.0.0.1 www.dianru.com
-#dianview.com
-127.0.0.1 a-api.dianview.com
 #dmrtb.com
 127.0.0.1 track.dmrtb.com
 #domob.cn
 127.0.0.1 api.domob.cn
 127.0.0.1 c.domob.cn
-127.0.0.1 domob.cn
-127.0.0.1 domob.com.cn
 127.0.0.1 dvx-android.domob.cn
 127.0.0.1 e.domob.cn
-127.0.0.1 e.domob.com.cn
 127.0.0.1 r.domob.cn
 127.0.0.1 r.ow.domob.cn
 127.0.0.1 s.domob.cn
-127.0.0.1 scc.domob.cn
 127.0.0.1 sd.domob.cn
-127.0.0.1 sdl.domob.cn
 127.0.0.1 sm.domob.cn
-127.0.0.1 swx.domob.cn
 #doudouguo
 127.0.0.1 img.img18.com
 #doumob
@@ -716,9 +697,6 @@
 127.0.0.1 secure.dsp.com
 #duomeng
 127.0.0.1 duomeng.cn
-127.0.0.1 c.duomeng.cn
-127.0.0.1 c.duomeng.net
-127.0.0.1 e.duomeng.org
 #dxpmedia
 127.0.0.1 map.dxpmedia.com
 127.0.0.1 clk.dxpmedia.com
@@ -817,7 +795,6 @@
 127.0.0.1 lc.jiathis.com
 127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
-#jiayi
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
@@ -980,7 +957,6 @@
 127.0.0.1 www.mijifen.com
 #moad
 127.0.0.1 ft.moad.cn
-127.0.0.1 moad.cn
 127.0.0.1 pic.moad.cn
 127.0.0.1 wap.moad.cn
 #mob.com
@@ -1231,7 +1207,6 @@
 127.0.0.1 www.ylunion.com
 #youmi
 127.0.0.1 ssl.ymapp.com
-127.0.0.1 video.ymapp.com
 127.0.0.1 w.ymapp.com
 127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 a.img.static.youmi.net
@@ -1239,12 +1214,10 @@
 127.0.0.1 a2.img.static.youmi.net
 127.0.0.1 a3.img.static.youmi.net
 127.0.0.1 aos.wall.youmi.net
-127.0.0.1 apk.static.youmi.net
 127.0.0.1 au.youmi.net
 127.0.0.1 banner.img.static.youmi.net
 127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 notifiter.youmi.net
-127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 r.youmi.net
 127.0.0.1 s.youmi.net
 127.0.0.1 stat.gw.youmi.net

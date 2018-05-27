@@ -4,7 +4,6 @@
 #http://www.duomi.com/
 127.0.0.1 service.ad.duomi.com
 #http://www.kugou.com/
-127.0.0.1 ads.bssdl.kugou.com
 127.0.0.1 channel.fanxing.kugou.com
 127.0.0.1 fanxing.kugou.com
 127.0.0.1 gamebox.kugou.com
@@ -51,7 +50,6 @@
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
-127.0.0.1 test.ad.cmvideo.cn
 #http://music.migu.cn/
 127.0.0.1 rprsv.richpush.cn
 127.0.0.1 wtrace.cmgame.com

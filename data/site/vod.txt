@@ -27,10 +27,7 @@
 127.0.0.1 logger.treexml.baofeng.com
 127.0.0.1 p2pmid.baofeng.com
 127.0.0.1 pvlog.hd.baofeng.com
-127.0.0.1 log.vdinfo.baofeng.com
 127.0.0.1 midinfo.baofeng.com
-127.0.0.1 vdinfo.baofeng.com
-127.0.0.1 videodown.baofeng.com
 127.0.0.1 action.logger.baofeng.com
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 houyi.logger.baofeng.com

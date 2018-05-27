@@ -23,4 +23,4 @@
 127.0.0.1 lds.zui.com
 #ns
 127.0.0.1 lcs.test.lenovomm.cn
-127.0.0.1 wr.ecartoon.net
+
