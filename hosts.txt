@@ -2856,6 +2856,12 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 c.mightiger.net
+127.0.0.1 m.mightiger.net
+127.0.0.1 www.langjiyisheng.com
+127.0.0.1 xfo.monesyy.com
+127.0.0.1 www.somennew.com
+127.0.0.1 www.ytdksb.com
 127.0.0.1 druic.mytxt.cc
 127.0.0.1 druis.mytxt.cc
 127.0.0.1 e.0531mnk.net

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180527112439
+! Version: 20180604232350
 ! Title: yList
-! Last modified: 11:24 2018/5/27
+! Last modified: 23:23 2018/6/4
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -292,7 +292,7 @@ http://www.dygang.net/d/gg/*
 http://www.dysfz.cc/img/*
 http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
-https://www.shuaigay.win/cp.js
+https://www.shuaigay.win/*.js
 https://a.mianbaoimg.com:8083/*
 
 ||static.cnbetacdn.com/frontend/vipics/*
@@ -308,6 +308,7 @@ cnbeta.com##div[class="tac"]
 ||float.kankan.com
 ||biz5.kankan.com
 shuaigay.win##[style*="99999"]
+##div[style*="000000000"]
 trakt.tv##div[id="huckster-desktop-wrapper"]
 trakt.tv##div[id="huckster-mobile-top-square"]
 trakt.tv##div[id="huckster-mobile-square-wrapper"]
