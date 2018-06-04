@@ -1,4 +1,3 @@
-github.com
 00sy.net
 3g.wenxuemm.com
 a.app.qq.com
@@ -39,6 +38,7 @@ g2.ykimg.com
 g3.ykimg.com
 g4.ykimg.com
 gif-china.cc
+github.com
 go.microsoft.com
 i.biquge5200.com
 i.gtimg.cn
@@ -322,6 +322,7 @@ www.btbtdy.com
 www.btrabbit.net
 www.check-domains.com
 www.cloudflare.com
+www.cnys.com
 www.dadatxt.com
 www.dawangraoming.com
 www.dybee.me
