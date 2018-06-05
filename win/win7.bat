@@ -1,11 +1,4 @@
 echo 请右键“以管理员身份运行”
-
-::15:35 2017/10/11/周三
-start http://www.2345.com/?k66560772
-
-::去除快捷方式字样
-REG ADD "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer" /v link /t REG_BINARY /d 00000000 /f
-
 ::去除休眠文件
 powercfg -h off
 
@@ -227,12 +220,6 @@ reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\Gadgets" /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
 sc stop WinDefend >nul
 sc config WinDefend start= disabled >nul
-:: 关闭Windows防火墙
-reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
-sc stop MpsSvc
-sc config MpsSvc start=disabled >nul
 :: 关闭Windows升级服务
 net stop wuauserv >nul
 sc config wuauserv start=disabled >nul
@@ -240,8 +227,9 @@ sc config wuauserv start=disabled >nul
 sc stop wscsvc >nul
 sc config wscsvc start= disabled >nul
 :: 禁用并停止硬件自动播放服务
-sc config ShellHWDetection start= disabled
 sc stop ShellHWDetection
+sc config ShellHWDetection start= disabled
+
 :: 关闭Smartscreen应用筛选器
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScreenEnabled" /d off /t REG_SZ /f
 :: 关闭缩略图缓存
