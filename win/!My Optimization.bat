@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 14:26 2018/6/5
+rem 20:23 2018/6/6
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -678,10 +678,17 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image F
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install_ksafe.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wzdh2345.exe" /v Debugger /t REG_SZ /d "p" /f
 
-:: 14.APP注册设置
+:: 14.
+::禁用驱动程序数字签名认证：
+bcdedit /set loadoptions DDISABLE_INTEGRITY_CHECKS
+bcdedit /set TESTSIGNING ON
+::启用驱动程序数字签名认证：
+::bcdedit /set loadoptions DENABLE_INTEGRITY_CHECKS
+::bcdedit /set TESTSIGNING OFF
+
+:: 15.APP注册设置
 reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "累累" /f
 reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
-
 
 echo 更新策略
 gpupdate /force 

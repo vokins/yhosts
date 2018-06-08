@@ -2,6 +2,9 @@
 @hijack/miwifi
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
+https://static.addtoany.com/menu/page.js
+https://pl14369502.puserving.com/96/99/40/96994049779816e0da7aaef62317c92c.js
+https://ie8eamus.com/sfp.js
 
 ::锁定IE主页 
 reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /d 1 /f >nul

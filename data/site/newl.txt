@@ -1,3 +1,8 @@
+127.0.0.1 a.shangz99991.com
+127.0.0.1 e.gxjfh.com
+127.0.0.1 rcyy3.kaopuwangjz.com
+127.0.0.1 www.fenqihome.com
+127.0.0.1 wxaw.tiantongmaoyi.com
 127.0.0.1 c.mightiger.net
 127.0.0.1 m.mightiger.net
 127.0.0.1 www.langjiyisheng.com
@@ -16,7 +21,6 @@
 127.0.0.1 m.gujinyue.com
 127.0.0.1 m.jlxzt.com
 127.0.0.1 m.kxhie.com
-127.0.0.1 m.mightiger.net
 127.0.0.1 m.szqifu.com
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.yyeks.com
@@ -97,7 +101,6 @@
 127.0.0.1 q6rwa.eschangchi.com
 127.0.0.1 siqwqjza.m.yikanxiaoshuo.net
 127.0.0.1 ssh.szxiuchang.com
-127.0.0.1 www.ytdksb.com
 127.0.0.1 zae.gzzena.com
 127.0.0.1 zhongzicili.cc
 127.0.0.1 greenxfs.down.123ch.cn

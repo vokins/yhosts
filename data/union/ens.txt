@@ -40,6 +40,10 @@
 127.0.0.1 s1.adform.net
 127.0.0.1 track.adform.net
 127.0.0.1 www.tradeadexchange.com
+#downloadly.ir
+127.0.0.1 static.addtoany.com
+127.0.0.1 pl14369502.puserving.com
+127.0.0.1 ie8eamus.com
 @site-foregin/union
 #aol-cn.engadget.com
 127.0.0.1 adinfo.aol.com

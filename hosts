@@ -1,5 +1,5 @@
 
-#version=201806042332
+#version=20180608 840
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2254,6 +2254,11 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 a.shangz99991.com
+127.0.0.1 e.gxjfh.com
+127.0.0.1 rcyy3.kaopuwangjz.com
+127.0.0.1 www.fenqihome.com
+127.0.0.1 wxaw.tiantongmaoyi.com
 127.0.0.1 c.mightiger.net
 127.0.0.1 m.mightiger.net
 127.0.0.1 www.langjiyisheng.com
@@ -2272,7 +2277,6 @@
 127.0.0.1 m.gujinyue.com
 127.0.0.1 m.jlxzt.com
 127.0.0.1 m.kxhie.com
-127.0.0.1 m.mightiger.net
 127.0.0.1 m.szqifu.com
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.yyeks.com
@@ -2353,7 +2357,6 @@
 127.0.0.1 q6rwa.eschangchi.com
 127.0.0.1 siqwqjza.m.yikanxiaoshuo.net
 127.0.0.1 ssh.szxiuchang.com
-127.0.0.1 www.ytdksb.com
 127.0.0.1 zae.gzzena.com
 127.0.0.1 zhongzicili.cc
 127.0.0.1 greenxfs.down.123ch.cn
@@ -6209,6 +6212,9 @@
 127.0.0.1 s1.adform.net
 127.0.0.1 track.adform.net
 127.0.0.1 www.tradeadexchange.com
+127.0.0.1 static.addtoany.com
+127.0.0.1 pl14369502.puserving.com
+127.0.0.1 ie8eamus.com
 127.0.0.1 adinfo.aol.com
 127.0.0.1 b.aol.com
 127.0.0.1 cdn.komentary.aol.com
