@@ -9,4 +9,9 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
+#Flash
+127.0.0.1 flash.2144.com
+127.0.0.1 www.2144.cn
+#MicroSoft
+127.0.0.1 ieonline.microsoft.com
 @direct/3rd

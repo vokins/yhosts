@@ -9,6 +9,11 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
+#Flash
+127.0.0.1 flash.2144.com
+127.0.0.1 www.2144.cn
+#MicroSoft
+127.0.0.1 ieonline.microsoft.com
 @direct/3rd
 #acdsee
 127.0.0.1 acdid.acdsystems.com
@@ -2856,10 +2861,31 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.czggcj.com
+127.0.0.1 e.kwjkd.com
+127.0.0.1 e.meizhuanghe.com
+127.0.0.1 e.nnfiy.com
+127.0.0.1 uun.1uandun.com
+127.0.0.1 in.dsjcfw.com
+127.0.0.1 js.soduso.cc
+127.0.0.1 m.chexiw.com
+127.0.0.1 m.cqytjzgc.com
+127.0.0.1 m.kwjkd.com
+127.0.0.1 m.nnfiy.com
+127.0.0.1 m.yuandajiayuan.com
+127.0.0.1 pv.sohu.com
+127.0.0.1 s.dsjcfw.com
+127.0.0.1 zjm.zzmmkj.com
 127.0.0.1 a.shangz99991.com
 127.0.0.1 e.gxjfh.com
 127.0.0.1 rcyy3.kaopuwangjz.com
 127.0.0.1 www.fenqihome.com
+127.0.0.1 e.okfhn.com
+127.0.0.1 m.mxguan.com
+127.0.0.1 m.pna2w.cn
+127.0.0.1 tj.tongjiwo.com
+127.0.0.1 n.zqqf0.cn
+127.0.0.1 ztd.szkdst.com
 127.0.0.1 wxaw.tiantongmaoyi.com
 127.0.0.1 c.mightiger.net
 127.0.0.1 m.mightiger.net
@@ -2982,7 +3008,6 @@
 127.0.0.1 m.heygugu.com
 127.0.0.1 m.jgkto.com
 127.0.0.1 m.jwiyr.com
-127.0.0.1 m.mxguan.com
 127.0.0.1 m.nernv.com
 127.0.0.1 m.osndy.com
 127.0.0.1 m.tcksbz888.com
@@ -3468,7 +3493,6 @@
 127.0.0.1 mtty-cdn.mtty.xin
 127.0.0.1 ds-pc.admsger.com
 127.0.0.1 stats.dmp.ghac.cn
-127.0.0.1 tj.tongjiwo.com
 127.0.0.1 weyyae.com
 127.0.0.1 jumpm.58xmgys.com
 127.0.0.1 jumpe.58xmgys.com
@@ -5226,8 +5250,6 @@
 @hijack/apk-down
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m5.apk.67mo.com
-@hijack/microsoft
-127.0.0.1 ieonline.microsoft.com
 @hijack/domain
 127.0.0.1 offline-adv.oray.com
 @hijack/homepage

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20180604232350
+! Version: 201806102213
 ! Title: yList
-! Last modified: 23:23 2018/6/4
+! Last modified: 22:13 2018/6/10
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -61,6 +61,16 @@
 ##iframe[src*="/ad/"]
 ##iframe[src^="ad"]
 ##img[src*="/ad/"]
+##div[class*="ad_block"]
+##[src*="9999999"]
+##[style*="99999"]
+##div[style*="000000000"]
+##img[alt^="ÌÚÑ¶ÔÆ"]
+##script[src^="/baidu/"]
+##div>div[id="baseHeight"]
+##div>div[id="baseHeight"] + *
+##body>div[class^="i"][id^="i"]
+##body>div[class^="i"][id^="i"] + *
 
 ##div[id^="adLeft"]
 ##div[id^="adRight"]
@@ -174,7 +184,7 @@ http://ads.*
 http://adsense.*
 http://adv.*
 http://allyes.*
-
+*.com/baidu/*
 
 ##div[id^="cpro_"]
 ##[href*="/cpro/ui/"]
@@ -307,14 +317,10 @@ cnbeta.com##div[class="tac"]
 ||logic.cpm.cm.kankan.com
 ||float.kankan.com
 ||biz5.kankan.com
-shuaigay.win##[style*="99999"]
-##div[style*="000000000"]
 trakt.tv##div[id="huckster-desktop-wrapper"]
 trakt.tv##div[id="huckster-mobile-top-square"]
 trakt.tv##div[id="huckster-mobile-square-wrapper"]
-bbs.pcbeta.com###diynavtop + style + div[class]
-pcbeta.com##.forum_top ~ div[class]
-
+pcbeta.com##div[id="wp"]>style+div
 
 m.smzdm.com##div[class="logo-download"]
 m.smzdm.com##div[class="foot-banner"]
