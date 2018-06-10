@@ -1,3 +1,23 @@
+删除：
+#lenovo
+127.0.0.1 sdac.lenovomm.com
+127.0.0.1 ams.lenovomm.com
+127.0.0.1 fsr.lenovomm.com
+127.0.0.1 fus.lenovomm.com
+127.0.0.1 imfsr.lenovomm.com
+127.0.0.1 lds.lenovomm.com
+127.0.0.1 mfsr.lenovomm.com
+127.0.0.1 prw.lenovomm.com
+127.0.0.1 psb.lenovomm.com
+127.0.0.1 uss-pid.lenovomm.com
+127.0.0.1 yx.lenovomm.com
+#zui
+127.0.0.1 api.bs.zui.com
+127.0.0.1 lds.zui.com
+#ns
+127.0.0.1 lcs.test.lenovomm.cn
+
+
 127.0.0.1 vali.cp31.ott.cibntv.net 这个域名好像加载优酷自己的播放器了
 @hijack/miwifi
 127.0.0.1 browser.gwdang.com

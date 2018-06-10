@@ -1,2 +1,0 @@
-#http://mac.xunlei.com/
-127.0.0.1 liveupdate.mac.sandai.net

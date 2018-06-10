@@ -12,6 +12,8 @@
 #Flash
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
+#iTunes-radio
+127.0.0.1 iadctest.qwapi.com
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
 @direct/3rd

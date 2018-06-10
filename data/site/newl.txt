@@ -1,4 +1,6 @@
 127.0.0.1 e.czggcj.com
+127.0.0.1 r.myadx.net
+127.0.0.1 log.orchidscape.net
 127.0.0.1 e.kwjkd.com
 127.0.0.1 e.meizhuanghe.com
 127.0.0.1 e.nnfiy.com

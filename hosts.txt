@@ -12,6 +12,8 @@
 #Flash
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
+#iTunes-radio
+127.0.0.1 iadctest.qwapi.com
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
 @direct/3rd
@@ -1624,6 +1626,7 @@
 #www.epinv.com
 127.0.0.1 a.epinv.com
 127.0.0.1 b.epinv.com
+@android
 #ali-yunos
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -1633,6 +1636,14 @@
 127.0.0.1 ads.gionee.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
+#lenovo-zui(oneui)
+127.0.0.1 adcore.lenovomm.com
+127.0.0.1 pushapi.lenovomm.com
+127.0.0.1 susapi.lenovomm.com
+127.0.0.1 adapi.lenovogame.com
+127.0.0.1 lcs.dev.surepush.cn
+127.0.0.1 susapi.dev.surepush.cn
+127.0.0.1 test.surepush.cn
 #mokee
 127.0.0.1 stats.mokeedev.com
 #oppo-ads
@@ -1674,12 +1685,6 @@
 127.0.0.1 tongji.meizu.com
 #flyme-weather
 127.0.0.1 aider-res.meizu.com
-#itunes-radio
-127.0.0.1 iadctest.qwapi.com
-#unknow
-127.0.0.1 r.myadx.net
-#http://mac.xunlei.com/
-127.0.0.1 liveupdate.mac.sandai.net
 #cm-adfuture
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
@@ -1788,32 +1793,6 @@
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
-#lenovo-ads
-127.0.0.1 adcore.lenovomm.com
-127.0.0.1 pushapi.lenovomm.com
-127.0.0.1 sdac.lenovomm.com
-127.0.0.1 susapi.lenovomm.com
-127.0.0.1 adapi.lenovogame.com
-127.0.0.1 lcs.dev.surepush.cn
-127.0.0.1 susapi.dev.surepush.cn
-127.0.0.1 test.surepush.cn
-#lenovo
-127.0.0.1 ams.lenovomm.com
-127.0.0.1 fsr.lenovomm.com
-127.0.0.1 fus.lenovomm.com
-127.0.0.1 imfsr.lenovomm.com
-127.0.0.1 lds.lenovomm.com
-127.0.0.1 mfsr.lenovomm.com
-127.0.0.1 prw.lenovomm.com
-127.0.0.1 psb.lenovomm.com
-127.0.0.1 uss-pid.lenovomm.com
-127.0.0.1 yx.lenovomm.com
-#zui
-127.0.0.1 api.bs.zui.com
-127.0.0.1 lds.zui.com
-#ns
-127.0.0.1 lcs.test.lenovomm.cn
-
 @app-browser
 #http://app.2345.com/mob.htm
 127.0.0.1 2345api.dftoutiao.com
@@ -2305,6 +2284,8 @@
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
+#http://mac.xunlei.com/
+127.0.0.1 liveupdate.mac.sandai.net
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 api.appodeal.com
@@ -2862,6 +2843,8 @@
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
 127.0.0.1 e.czggcj.com
+127.0.0.1 r.myadx.net
+127.0.0.1 log.orchidscape.net
 127.0.0.1 e.kwjkd.com
 127.0.0.1 e.meizhuanghe.com
 127.0.0.1 e.nnfiy.com
