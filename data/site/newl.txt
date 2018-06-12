@@ -1,3 +1,10 @@
+127.0.0.1 a6.codejumps.com
+127.0.0.1 a6s.1cakeclub.com
+127.0.0.1 ddpxhq.cn
+127.0.0.1 m.dxectas1.cn
+127.0.0.1 m.jhcgood.com
+127.0.0.1 qlisv.siemens6es7.com
+127.0.0.1 wqqsa.puzihua.com
 127.0.0.1 e.czggcj.com
 127.0.0.1 r.myadx.net
 127.0.0.1 log.orchidscape.net

