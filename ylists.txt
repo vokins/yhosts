@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201806122125
+! Version: 201806140959
 ! Title: yList
-! Last modified: 21:25 2018/6/12
+! Last modified: 9:59 2018/6/14
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -80,11 +80,11 @@
 ##div[class^="sign"][style^="max-height"]
 ##font[class="jammer"]
 ##SPAN[class="transparent"]
+##span[style="display:none"]
 ##[style*="font-size:0p"]
 ##[style*="font-size: 0p"]
 ##div[class="tac mb5"]
 ##div[class="textMes"]
-
 
 ##[src="/js/tj.js"]
 ##img[id="qrcode"]
@@ -301,7 +301,6 @@ http://www.dygang.net/d/gg/*
 http://www.dysfz.cc/img/*
 http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
-https://www.shuaigay.win/*.js
 https://a.mianbaoimg.com:8083/*
 
 ||static.cnbetacdn.com/frontend/vipics/*
