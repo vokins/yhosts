@@ -1,5 +1,5 @@
 
-#version=201806131649
+#version=20180614 943
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -650,7 +650,6 @@
 127.0.0.1 view.mediav.com
 127.0.0.1 www.mediav.com
 127.0.0.1 xd.mediav.com
-127.0.0.1 c.bing.com
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
 127.0.0.1 aeventlog.beacon.qq.com

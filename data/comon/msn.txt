@@ -1,3 +1,2 @@
-127.0.0.1 c.bing.com
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com

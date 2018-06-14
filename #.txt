@@ -1,3 +1,4 @@
+删除c.bing.com
 屏蔽：会影响红双喜网站
 <script src="http://www.cqsta.com/cc/sh.js"></script>
 <script type="text/javascript">
