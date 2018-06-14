@@ -234,7 +234,7 @@
 127.0.0.1 bixia.fymm.cn
 127.0.0.1 q1scv.vov0.com
 127.0.0.1 www.yiluup.com
-127.0.0.1 http://www.cqsta.com/cc/sh.js
+127.0.0.1 www.cqsta.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

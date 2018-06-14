@@ -1,3 +1,6 @@
+https://adservice.google.com/adsid/integrator.js?domain=www.insanelymac.com
+https://securepubads.g.doubleclick.net/gpt/pubads_impl_214.js
+
 删除c.bing.com
 屏蔽：会影响红双喜网站
 <script src="http://www.cqsta.com/cc/sh.js"></script>

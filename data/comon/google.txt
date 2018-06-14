@@ -6,6 +6,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 #syndication
+127.0.0.1 adservice.google.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com

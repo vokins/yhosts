@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201806140959
+! Version: 201806141049
 ! Title: yList
-! Last modified: 9:59 2018/6/14
+! Last modified: 10:49 2018/6/14
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -85,6 +85,12 @@
 ##[style*="font-size: 0p"]
 ##div[class="tac mb5"]
 ##div[class="textMes"]
+##td[class="plc plm"]>div[class="sign"]
+##td[class="plc plm"]>div[class="a_pb"]
+##div.wp>div[class="a_mu"]
+##strong>div[class="a_pb"]
+##div[class="wp a_t"]>table
+##table[cellpadding="0"][cellspacing="1"]>tbody
 
 ##[src="/js/tj.js"]
 ##img[id="qrcode"]
@@ -94,22 +100,41 @@
 ##div[class="download-tips"]
 ##section[class="m-qr-code"]
 
-*/js/a_d/*
-*/tongji.js
-*/js/bottom.js
 *//ads.*
+*/ad.js
+*/ad_close.gif
+*/ad_display.php*
+*/adb.php
+*/ads.js
+*/adshow.php*
+*/adt.php
+*/adv.php
+*/adx.php
+*/analytics.js
+*/cpc.js
+*/fumeiti.js
+*/js/bottom.js
+*/piaofu.js
+*/piwik.js
+*/showads.php*
+*/stat.php?id=*
+*/syndication.js
+*/tongji.js
+http://adimage.*
+http://adimg.*
+http://adsense.*
+http://adv.*
+http://allyes.*
+
 */AD/*
 */AdCenter/*
 */VediosAD/*
-*/ad.js
 */ad/*
 */ad/files/*
 */ad/images/*
 */ad/js/*
 */ad_adapter/*
-*/ad_display.php*
 */ad_img/*
-*/adb.php
 */adbox/*
 */adcode/*
 */adcreatives/*
@@ -118,7 +143,6 @@
 */adlink/*
 */admaster/*
 */adpolestar/*
-*/ads.js
 */ads/*
 */ads_js/*
 */adsame/*
@@ -127,8 +151,6 @@
 */adservice/*
 */adstat/*
 */adstatic/*
-*/adt.php
-*/adv.php
 */adv/*
 */adver/*
 */advert/*
@@ -138,16 +160,12 @@
 */advertisement/*
 */advertising/*
 */advpic/*
-*/adx.php
-*/adx.php*
 */afp-creative/*
 */afp/*
-*/analytics.js
 */analytics/*
 */api/ad/*
 */baiduunion/*
 */brandads/*
-*/cpc.js
 */cpc/*
 */cpro/*
 */cpv/*
@@ -160,29 +178,17 @@
 */htmlcode/*
 */iframe/gg/*
 */iframeads/*
+*/js/a_d/*
 */jscode/*
-*/material/*.html
+*/material/*
 */mstat/*
 */pagead/*
-*/piwik.js
 */promotion/*
-*/showads.php?
 */sinaads/*
-*/stat.php?id=*
-*/syndication.js
 */syndication/*
 */textad/*
 */tps/noexpire/*
 */union/images/*
-*/fumeiti.js
-*/piaofu.js
-*/adshow.php?*
-http://adimage.*
-http://adimg.*
-http://ads.*
-http://adsense.*
-http://adv.*
-http://allyes.*
 *.com/baidu/*
 
 ##div[id^="cpro_"]
@@ -302,6 +308,7 @@ http://www.dysfz.cc/img/*
 http://www.hltm.cc/gg/*
 https://cs-op.douyucdn.cn/nggsys/*
 https://a.mianbaoimg.com:8083/*
+https://yes1.feng.com/*
 
 ||static.cnbetacdn.com/frontend/vipics/*
 cnbeta.com##div[class^="cbv"]
@@ -324,3 +331,5 @@ m.smzdm.com##div[class="logo-download"]
 m.smzdm.com##div[class="foot-banner"]
 i.ifeng.com##div[class="download_box"]
 ifeng.com##div[class="ifengLookori"]
+
+@@www.insanelymac.com

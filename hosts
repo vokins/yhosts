@@ -1,5 +1,5 @@
 
-#version=20180614 943
+#version=201806141105
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -597,6 +597,7 @@
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
+127.0.0.1 adservice.google.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
@@ -4686,7 +4687,7 @@
 127.0.0.1 bixia.fymm.cn
 127.0.0.1 q1scv.vov0.com
 127.0.0.1 www.yiluup.com
-127.0.0.1 http://www.cqsta.com/cc/sh.js
+127.0.0.1 www.cqsta.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
