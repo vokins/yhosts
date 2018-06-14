@@ -736,8 +736,17 @@
 127.0.0.1 view.mediav.com
 127.0.0.1 www.mediav.com
 127.0.0.1 xd.mediav.com
+#adnxs
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 nym2-tr.adnxs.com
+127.0.0.1 sin1-ib.adnxs.com
+127.0.0.1 vcdn.adnxs.com
+#msn
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 px.ads.linkedin.com
 #mstat/report
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
@@ -6706,7 +6715,6 @@
 127.0.0.1 inline.admedia.com
 127.0.0.1 m.admedia.com
 #adnxs.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 admeld.adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
@@ -7200,9 +7208,6 @@
 127.0.0.1 beacon.krxd.net
 127.0.0.1 cdn.krxd.net
 @site-foregin/sns
-#facebook
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #wp.com
 127.0.0.1 stats.wp.com
 @site-foregin/tools

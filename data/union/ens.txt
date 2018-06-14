@@ -13,9 +13,6 @@
 127.0.0.1 beacon.krxd.net
 127.0.0.1 cdn.krxd.net
 @site-foregin/sns
-#facebook
-#linkedin.com
-127.0.0.1 dc.ads.linkedin.com
 #wp.com
 127.0.0.1 stats.wp.com
 @site-foregin/tools

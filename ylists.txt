@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201806141049
+! Version: 201806141636
 ! Title: yList
-! Last modified: 10:49 2018/6/14
+! Last modified: 16:36 2018/6/14
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -47,6 +47,7 @@
 ##div[id^="right_ad"]
 ##div[id^="adleft"]
 ##div[id^="adright"]
+##iframe[id*="AdContainer_"]
 
 ##div[class$=" adv"]
 ##div[class^="tempad"]
@@ -291,8 +292,9 @@ tianya.cn##li[class^="gg gg-item"]
 tianya.cn##div[class="ty-footer"]
 tianya.cn##div[class^="u-like"]
 
-*.mediav.com/*
+*.adnxs.com/*
 *.cnzz.com/*
+*.mediav.com/*
 //u-x.jd.com/*
 //ad.doubanio.com/*
 http://*.pstatp.com/large/*
@@ -333,3 +335,6 @@ i.ifeng.com##div[class="download_box"]
 ifeng.com##div[class="ifengLookori"]
 
 @@www.insanelymac.com
+
+s.taobao.com##div[id="mainsrp-p4pBottom"]
+s.taobao.com##div[id="mainsrp-p4pRight"]

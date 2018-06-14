@@ -1,5 +1,5 @@
 
-#version=201806141105
+#version=201806141636
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -651,8 +651,14 @@
 127.0.0.1 view.mediav.com
 127.0.0.1 www.mediav.com
 127.0.0.1 xd.mediav.com
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 nym2-tr.adnxs.com
+127.0.0.1 sin1-ib.adnxs.com
+127.0.0.1 vcdn.adnxs.com
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
+127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 px.ads.linkedin.com
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 astrategy.beacon.qq.com
@@ -5812,7 +5818,6 @@
 127.0.0.1 g.admedia.com
 127.0.0.1 inline.admedia.com
 127.0.0.1 m.admedia.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 admeld.adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
@@ -6214,7 +6219,6 @@
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 cdn.krxd.net
-127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 stats.wp.com
 127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 rum-static.pingdom.net

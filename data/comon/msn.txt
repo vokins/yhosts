@@ -1,2 +1,11 @@
+#adnxs
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 nym2-tr.adnxs.com
+127.0.0.1 sin1-ib.adnxs.com
+127.0.0.1 vcdn.adnxs.com
+#msn
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
+#linkedin.com
+127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 px.ads.linkedin.com
