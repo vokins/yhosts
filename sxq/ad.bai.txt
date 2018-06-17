@@ -296,6 +296,7 @@ wap.yb3.cc
 wd.geilicdn.com
 weidian.com
 windows.microsoft.com
+wokansjb.com
 wpa.qq.com
 ww1.sinaimg.cn
 ww2.sinaimg.cn
@@ -339,6 +340,7 @@ www.miitbeian.gov.cn
 www.mpzw.com
 www.muzisoft.com
 www.nenzei88.com
+www.okzyzy.cc
 www.okzyzy.com
 www.opensource.org
 www.qcloud.com

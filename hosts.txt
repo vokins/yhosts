@@ -2851,6 +2851,23 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 cdn.ndapp.com
+127.0.0.1 e.kunpp.com
+127.0.0.1 e.lancedu.com
+127.0.0.1 e.oesnw.com
+127.0.0.1 e.pomkl.com
+127.0.0.1 m.edo5.com
+127.0.0.1 m.lancedu.com
+127.0.0.1 m.oesnw.com
+127.0.0.1 m.pomkl.com
+127.0.0.1 m.tuopp.com
+127.0.0.1 m.zuopp.com
+127.0.0.1 nch.xnghmc.com
+127.0.0.1 saxxaz.taohuayuan8888.com
+127.0.0.1 ssh.517pass.com
+127.0.0.1 www.18dusun.com
+127.0.0.1 www.gxdhgb.com
+127.0.0.1 ytsyyey.com
 127.0.0.1 f.cn-sd.com
 127.0.0.1 j.dipowang.cn
 127.0.0.1 zs0613.mengchengbao.com
