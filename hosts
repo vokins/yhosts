@@ -1,5 +1,5 @@
 
-#version=201806171619
+#version=20180619 024
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -608,7 +608,6 @@
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
-127.0.0.1 d.jd.com
 127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
@@ -2247,6 +2246,11 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 b4xuj.zzhhts.com
+127.0.0.1 dsadas.hydp188.com
+127.0.0.1 m.miupp.com
+127.0.0.1 m.zenffs.cn
+127.0.0.1 ssh.jsyzw132.com
 127.0.0.1 cdn.ndapp.com
 127.0.0.1 e.kunpp.com
 127.0.0.1 e.lancedu.com

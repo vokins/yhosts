@@ -693,7 +693,6 @@
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
-127.0.0.1 d.jd.com
 127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
@@ -2851,6 +2850,11 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 b4xuj.zzhhts.com
+127.0.0.1 dsadas.hydp188.com
+127.0.0.1 m.miupp.com
+127.0.0.1 m.zenffs.cn
+127.0.0.1 ssh.jsyzw132.com
 127.0.0.1 cdn.ndapp.com
 127.0.0.1 e.kunpp.com
 127.0.0.1 e.lancedu.com
