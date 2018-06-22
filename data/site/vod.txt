@@ -89,6 +89,8 @@
 127.0.0.1 www.zamplus.com
 127.0.0.1 cm.fancyapi.com
 #http://www.mgtv.com/
+127.0.0.1 m2.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
