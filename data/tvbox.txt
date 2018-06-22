@@ -1,3 +1,5 @@
+#tb
+127.0.0.1 ip.taobao.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
