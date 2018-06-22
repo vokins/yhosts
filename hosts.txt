@@ -7717,3 +7717,6 @@
 127.0.0.1 p-cn.acxiom-online.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
+127.0.0.1 m2.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
+127.0.0.1 ip.taobao.com
