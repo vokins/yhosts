@@ -1,3 +1,8 @@
+127.0.0.1 www.atcryp.com
+127.0.0.1 ihl3ga.hepengshan.cn
+127.0.0.1 gyca9f.dahuangcheng.cn
+127.0.0.1 wer.bendougou.cn
+127.0.0.1 bmw2ep.paomifen.cn
 127.0.0.1 b4xuj.zzhhts.com
 127.0.0.1 dsadas.hydp188.com
 127.0.0.1 m.miupp.com
