@@ -1,3 +1,7 @@
+127.0.0.1 app.9yyg.cn
+127.0.0.1 ad.stsywl.com
+127.0.0.1 img.cxxyft.com
+127.0.0.1 pic.neiyicun.net
 127.0.0.1 www.atcryp.com
 127.0.0.1 ihl3ga.hepengshan.cn
 127.0.0.1 gyca9f.dahuangcheng.cn
@@ -549,7 +553,6 @@
 127.0.0.1 aa.zldh123.com
 127.0.0.1 c.28487.net
 127.0.0.1 e.28487.net
-127.0.0.1 pic.neiyicun.net
 127.0.0.1 e.admin60.com
 127.0.0.1 js883.hnfpgm.com
 127.0.0.1 j.yljiaoluo.com
