@@ -2851,6 +2851,16 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 api.newbelden.com
+127.0.0.1 a6.bjdianyue.com
+127.0.0.1 a6.taobanapp.com
+127.0.0.1 c6.bjdianyue.com
+127.0.0.1 chaojilamei.cn
+127.0.0.1 js.saiqizhi.com
+127.0.0.1 m.ienkdago.cn
+127.0.0.1 m.wgewj.cn
+127.0.0.1 ms.sysapr.cn
+127.0.0.1 p.bjdianyue.com
 127.0.0.1 app.9yyg.cn
 127.0.0.1 ad.stsywl.com
 127.0.0.1 img.cxxyft.com
