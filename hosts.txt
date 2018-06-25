@@ -1125,6 +1125,7 @@
 127.0.0.1 u6.gg
 127.0.0.1 v.u22l.cc
 127.0.0.1 www.w1a.cc
+127.0.0.1 www.z8o.cn
 @errorpage/click
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 wm.makeding.com
@@ -2850,6 +2851,11 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 www.atcryp.com
+127.0.0.1 ihl3ga.hepengshan.cn
+127.0.0.1 gyca9f.dahuangcheng.cn
+127.0.0.1 wer.bendougou.cn
+127.0.0.1 bmw2ep.paomifen.cn
 127.0.0.1 b4xuj.zzhhts.com
 127.0.0.1 dsadas.hydp188.com
 127.0.0.1 m.miupp.com
@@ -3830,9 +3836,6 @@
 127.0.0.1 xji.qwxcs.com
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
-127.0.0.1 cdn.taboola.com
-127.0.0.1 images.taboola.com
-127.0.0.1 trc.taboola.com
 127.0.0.1 app.tanwan.com
 127.0.0.1 wap.tanwan.com
 127.0.0.1 b.code.tanwanyx.com
@@ -4870,6 +4873,8 @@
 127.0.0.1 www.zamplus.com
 127.0.0.1 cm.fancyapi.com
 #http://www.mgtv.com/
+127.0.0.1 m2.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 as.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cmop.mgtv.com
@@ -7154,6 +7159,13 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
 #taboola
+127.0.0.1 15.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 images.taboola.com
+127.0.0.1 imprhkmp.taboola.com
+127.0.0.1 match.taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 vidstat.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
@@ -7214,6 +7226,13 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+#ot
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 i.liadm.com
+127.0.0.1 i.ssix.io
+127.0.0.1 load77.exelator.com
+127.0.0.1 stags.bluekai.com
+127.0.0.1 sync.crwdcntrl.net
 @site-foregin/adult
 #91porn.com
 127.0.0.1 fans.bestvogue.com
@@ -7717,12 +7736,3 @@
 127.0.0.1 p-cn.acxiom-online.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
-127.0.0.1 m2.da.mgtv.com
-127.0.0.1 mobile2.da.mgtv.com
-127.0.0.1 ip.taobao.com
-127.0.0.1 www.atcryp.com
-127.0.0.1 ihl3ga.hepengshan.cn
-127.0.0.1 gyca9f.dahuangcheng.cn
-127.0.0.1 wer.bendougou.cn
-127.0.0.1 bmw2ep.paomifen.cn
-127.0.0.1 static-s.iqiyi.com

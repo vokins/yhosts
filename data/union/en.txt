@@ -460,6 +460,13 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
 #taboola
+127.0.0.1 15.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 images.taboola.com
+127.0.0.1 imprhkmp.taboola.com
+127.0.0.1 match.taboola.com
+127.0.0.1 trc.taboola.com
+127.0.0.1 vidstat.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
@@ -520,3 +527,10 @@
 #zedo
 127.0.0.1 d8.zedo.com
 127.0.0.1 z1.zedo.com
+#ot
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 i.liadm.com
+127.0.0.1 i.ssix.io
+127.0.0.1 load77.exelator.com
+127.0.0.1 stags.bluekai.com
+127.0.0.1 sync.crwdcntrl.net

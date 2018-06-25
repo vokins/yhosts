@@ -177,9 +177,6 @@
 127.0.0.1 xji.qwxcs.com
 127.0.0.1 c.rexuebi.com
 127.0.0.1 d.rexuebi.com
-127.0.0.1 cdn.taboola.com
-127.0.0.1 images.taboola.com
-127.0.0.1 trc.taboola.com
 127.0.0.1 app.tanwan.com
 127.0.0.1 wap.tanwan.com
 127.0.0.1 b.code.tanwanyx.com
