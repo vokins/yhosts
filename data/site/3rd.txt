@@ -1,3 +1,6 @@
+127.0.0.1 www.jagcn.com
+127.0.0.1 ddd.haodizhi666.com
+127.0.0.1 woaizhongguo.cdn111222.com
 127.0.0.1 renren2.maoyun.tv
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 a.ecook.cn
