@@ -377,9 +377,6 @@
 127.0.0.1 ads.mopub.com
 127.0.0.1 analytics.mopub.com
 127.0.0.1 www.mopub.com
-#msn
-127.0.0.1 ads1.msads.net
-127.0.0.1 mobileads.msn.com
 #mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.mydas.mobi

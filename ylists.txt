@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201806251358
+! Version: 201807030213
 ! Title: yList
-! Last modified: 13:58 2018/6/25
+! Last modified: 2:13 2018/7/3
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -111,6 +111,8 @@
 */adv.php
 */adx.php
 */analytics.js
+*/cnm.js
+*/cnzz.js
 */cpc.js
 */fumeiti.js
 */js/bottom.js
