@@ -65,7 +65,6 @@
 ##div[class*="ad_block"]
 ##[src*="9999999"]
 ##div[style*="000000000"]
-##img[alt^="ÌÚÑ¶ÔÆ"]
 ##script[src^="/baidu/"]
 ##div>div[id="baseHeight"]
 ##div>div[id="baseHeight"] + *
