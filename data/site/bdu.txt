@@ -27,3 +27,4 @@
 127.0.0.1 bd-js.baixing.net
 127.0.0.1 src.zf313.com
 127.0.0.1 ssp.kjwx8.com
+127.0.0.1 j.baminw.cn
