@@ -1,3 +1,9 @@
+127.0.0.1 e.anmeilai.net
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 kn.gzcce.cn
+127.0.0.1 lol.pnhfc.com
+127.0.0.1 m.anmeilai.net
+127.0.0.1 sou.xanbhx.com
 127.0.0.1 ask.gaykes.com
 127.0.0.1 b.rifub.com
 127.0.0.1 e.diupp.com

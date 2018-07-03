@@ -1,9 +1,9 @@
 #360-lianmeng
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
-127.0.0.1 cm.lianmeng.360.cn
 #360-tf
 127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
@@ -12,7 +12,6 @@
 127.0.0.1 tf.360.cn
 127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 v.tf.360.cn
-127.0.0.1 huodong.mobilem.360.cn
 #jiagu
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 cpull.360.cn
@@ -33,15 +32,16 @@
 #360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
-127.0.0.1 huid.ad.360.cn
+127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 cm.dmp.360.cn
 127.0.0.1 dev.tg.wan.360.cn
+127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.union.360.cn
-127.0.0.1 click.stat.hao.360.cn
 #360-mob
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 commercial.shouji.360.cn
-127.0.0.1 api.shuaji.360.cn
+127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 msg.shouji.360.cn
 #360-qihoo
 127.0.0.1 s.qhupdate.com

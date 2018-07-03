@@ -66,9 +66,20 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+#126
+127.0.0.1 img1.126.net
+127.0.0.1 img2.126.net
+127.0.0.1 img3.126.net
+127.0.0.1 pimg1.126.net
+127.0.0.1 static.ws.126.net
+127.0.0.1 webstat.ws.126.net
 #163-news
+127.0.0.1 analytics.163.com
 127.0.0.1 e-p4p.163.com
+127.0.0.1 g.163.com
 127.0.0.1 nex.163.com
+127.0.0.1 popme.163.com
+127.0.0.1 temp.163.com
 #163-music
 127.0.0.1 iadmat.nosdn.127.net
 127.0.0.1 yt-adp.nosdn.127.net
@@ -78,12 +89,16 @@
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 ydpushserver.youdao.com
+#netease
+127.0.0.1 img4.cache.netease.com
+127.0.0.1 img6.cache.netease.com
+127.0.0.1 img5.cache.netease.com
 #360-lianmeng
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
-127.0.0.1 cm.lianmeng.360.cn
 #360-tf
 127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn
@@ -92,7 +107,6 @@
 127.0.0.1 tf.360.cn
 127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 v.tf.360.cn
-127.0.0.1 huodong.mobilem.360.cn
 #jiagu
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 cpull.360.cn
@@ -113,15 +127,16 @@
 #360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
-127.0.0.1 huid.ad.360.cn
+127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 cm.dmp.360.cn
 127.0.0.1 dev.tg.wan.360.cn
+127.0.0.1 huid.ad.360.cn
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 s.union.360.cn
-127.0.0.1 click.stat.hao.360.cn
 #360-mob
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 commercial.shouji.360.cn
-127.0.0.1 api.shuaji.360.cn
+127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 msg.shouji.360.cn
 #360-qihoo
 127.0.0.1 s.qhupdate.com
@@ -136,12 +151,14 @@
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
+127.0.0.1 gma.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 #alimama
 127.0.0.1 a.alimama.cn
 127.0.0.1 afpeng.alimama.com
 127.0.0.1 afpssp.alimama.com
 #aliyun
+127.0.0.1 oa-panther.data.aliyun.com
 127.0.0.1 promotion.aliyun.com
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
@@ -689,7 +706,9 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
@@ -850,6 +869,7 @@
 127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
+127.0.0.1 current.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -870,9 +890,9 @@
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 motu.p4p.sina.com.cn
 127.0.0.1 pfp.sina.com.cn
+127.0.0.1 r.dmp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 sax.sina.com.cn
-127.0.0.1 saxn.sina.com.cn
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 sax2.sina.com.cn
 127.0.0.1 sax3.sina.com.cn
@@ -882,6 +902,7 @@
 127.0.0.1 sax7.sina.com.cn
 127.0.0.1 sax8.sina.com.cn
 127.0.0.1 sax9.sina.com.cn
+127.0.0.1 saxn.sina.com.cn
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 slog.sina.com.cn
@@ -952,12 +973,17 @@
 127.0.0.1 rm.ra.icast.cn
 127.0.0.1 rmtx.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
+#sina-net
+127.0.0.1 s3.pfp.sina.net
 #sina-com.hk
 127.0.0.1 avn.innity.com
 127.0.0.1 cast.innity.com
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.media.innity.net
 127.0.0.1 ssl-cdn.media.innity.net
+#sina-leju
+127.0.0.1 src.leju.com
+127.0.0.1 staticadm.leju.com
 #sohu
 127.0.0.1 3rd.t.sohu.com
 127.0.0.1 888.tv.sohu.com
@@ -2857,6 +2883,12 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.anmeilai.net
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 kn.gzcce.cn
+127.0.0.1 lol.pnhfc.com
+127.0.0.1 m.anmeilai.net
+127.0.0.1 sou.xanbhx.com
 127.0.0.1 ask.gaykes.com
 127.0.0.1 b.rifub.com
 127.0.0.1 e.diupp.com
@@ -5490,13 +5522,10 @@
 127.0.0.1 ir.mail.163.com
 127.0.0.1 irpmt.mail.163.com
 127.0.0.1 rec.g.163.com
-127.0.0.1 g.163.com
 127.0.0.1 g1.163.com
 #163-12x
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 android.push.126.net
-127.0.0.1 img1.126.net
-127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 news.push.126.net
 127.0.0.1 haitaoad.nosdn.127.net
