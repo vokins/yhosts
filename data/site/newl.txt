@@ -1,4 +1,19 @@
+127.0.0.1 e.0531mnk.net
 127.0.0.1 e.anmeilai.net
+127.0.0.1 e.rmwdn.com
+127.0.0.1 e.tuoaa.com
+127.0.0.1 m.du1du.org
+127.0.0.1 m.foumm.com
+127.0.0.1 m.ienkdago.cn
+127.0.0.1 m.rmwdn.com
+127.0.0.1 m.xikdn.com
+127.0.0.1 m.zeiaa.com
+127.0.0.1 miui.hftaili.com
+127.0.0.1 s.coveredsys.cn
+127.0.0.1 s.uc627.com
+127.0.0.1 tf.hftaili.com
+127.0.0.1 yfcode.m.gxwztv.com
+127.0.0.1 yfxpcode.m.gxwztv.com
 127.0.0.1 gog9.qzdfc.com
 127.0.0.1 kn.gzcce.cn
 127.0.0.1 lol.pnhfc.com
@@ -18,11 +33,9 @@
 127.0.0.1 m.niegg.com
 127.0.0.1 m.pougg.com
 127.0.0.1 m.wkjhd.com
-127.0.0.1 m.xikdn.com
 127.0.0.1 m.xpjis.com
 127.0.0.1 m.yyjhf.com
 127.0.0.1 m.zougg.com
-127.0.0.1 s.uc627.com
 127.0.0.1 vip.pinghuhome.com
 127.0.0.1 wap.bytdzsw.com
 127.0.0.1 www.hldwmly.com
@@ -32,7 +45,6 @@
 127.0.0.1 c6.bjdianyue.com
 127.0.0.1 chaojilamei.cn
 127.0.0.1 js.saiqizhi.com
-127.0.0.1 m.ienkdago.cn
 127.0.0.1 m.wgewj.cn
 127.0.0.1 ms.sysapr.cn
 127.0.0.1 p.bjdianyue.com
@@ -114,7 +126,6 @@
 127.0.0.1 www.ytdksb.com
 127.0.0.1 druic.mytxt.cc
 127.0.0.1 druis.mytxt.cc
-127.0.0.1 e.0531mnk.net
 127.0.0.1 e.cn-3drp.com
 127.0.0.1 e.kxhie.com
 127.0.0.1 e.mightiger.net
@@ -335,7 +346,6 @@
 127.0.0.1 m.shenyunkeji.com
 127.0.0.1 m.uuopp.com
 127.0.0.1 rc.fthcz.com
-127.0.0.1 s.coveredsys.cn
 127.0.0.1 www.smucdn.com
 127.0.0.1 www.souid.com
 127.0.0.1 e.zhuyuanp.club
@@ -622,11 +632,7 @@
 127.0.0.1 m.fhxsw.org
 127.0.0.1 m.guanren9.com
 127.0.0.1 m.yangjingbang.net
-127.0.0.1 miui.hftaili.com
 127.0.0.1 s.l8l9.com
-127.0.0.1 tf.hftaili.com
-127.0.0.1 yfcode.m.gxwztv.com
-127.0.0.1 yfxpcode.m.gxwztv.com
 127.0.0.1 a.m.shuhuangge.org
 127.0.0.1 ow.s1.shuhuangge.org
 127.0.0.1 ow.s2.shuhuangge.org

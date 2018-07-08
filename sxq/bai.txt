@@ -159,9 +159,11 @@ m.du1du.org
 m.duanwenxue.com
 m.fhxiaoshuo.com
 m.fhxsw.org
+m.fhxsw.org
 m.gsdaquan.com
 m.gulizw.com
 m.gxwztv.com
+m.haotxt.com
 m.haxwx2.com
 m.heiyanwang.com
 m.hkslg.net
@@ -177,6 +179,7 @@ m.konlan.org
 m.kushubao.com
 m.kxs7.com
 m.lanseshuba.com
+m.laojiayoufang.t
 m.lbxs.com
 m.leduwo.com
 m.lewenxiaoshuo.com
@@ -196,6 +199,7 @@ m.nbzww.org
 m.nenzei88.com
 m.panqis.cn
 m.pinshuw.com
+m.pougg.t
 m.qianrenge.cc
 m.qiushu.cc
 m.qu.la
@@ -235,6 +239,7 @@ m.weilaitianwang.com
 m.wenxue6.com
 m.wenxuemi.com
 m.wenxuemm.com
+m.wkjhd.t
 m.wodeshucheng.com
 m.wodexiaoshuo1.cc
 m.x81zw.com
@@ -262,6 +267,7 @@ photocdn.sohu.com
 photocdn.tv.sohu.com
 pic.qiushibaike.com
 play.meijukankan.net
+push.zhanzhang.baidu.com
 puui.qpic.cn
 qiushi-gif.qiushibaike.com
 qr.alipay.com
@@ -350,12 +356,14 @@ www.rejuwang.com
 www.safedog.cn
 www.shuqizw.com
 www.sina.com.cn
+www.suimeng.la
 www.taoshu8.org
 www.uu234.net
 www.uuxs.la
 www.uuxs.net
 www.w3.org
 www.w3c.org
+www.wanjie8.com
 www.wdlinux.cn
 www.www.00sy.net
 www.yawenb.com

@@ -233,7 +233,6 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
-127.0.0.1 ssl.google-analytics.com
 #gosquared.com
 127.0.0.1 data.gosquared.com
 127.0.0.1 data2.gosquared.com
