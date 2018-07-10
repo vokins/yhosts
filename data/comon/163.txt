@@ -3,6 +3,7 @@
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
+127.0.0.1 acstatic-dun.126.net
 127.0.0.1 static.ws.126.net
 127.0.0.1 webstat.ws.126.net
 #163-news

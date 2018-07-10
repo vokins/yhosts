@@ -684,6 +684,7 @@
 127.0.0.1 s.domob.cn
 127.0.0.1 sd.domob.cn
 127.0.0.1 sm.domob.cn
+127.0.0.1 sm.domobcdn.com
 #doudouguo
 127.0.0.1 img.img18.com
 #doumob

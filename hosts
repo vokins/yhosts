@@ -1,5 +1,5 @@
 
-#version=201807082242
+#version=201807102248
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -35,6 +35,7 @@
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
+127.0.0.1 acstatic-dun.126.net
 127.0.0.1 static.ws.126.net
 127.0.0.1 webstat.ws.126.net
 127.0.0.1 analytics.163.com
@@ -986,6 +987,19 @@
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 ieonline.microsoft.com
+120.52.19.113 bbs.pcbeta.com
+120.52.19.113 cdn.pcbeta.attachment.inimc.com
+120.52.19.113 cdn.pcbeta.css.inimc.com
+120.52.19.113 cdn.pcbeta.static.inimc.com
+120.52.19.113 group.pcbeta.com
+120.52.19.113 i.pcbeta.com
+120.52.19.113 m.pcbeta.com
+120.52.19.113 mac.pcbeta.com
+120.52.19.113 pcbeta.com
+120.52.19.113 static.template.pcbeta.com
+120.52.19.113 uc.pcbeta.com
+120.52.19.113 web.pcbeta.com
+120.52.19.113 www.pcbeta.com
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
@@ -1058,19 +1072,20 @@
 127.0.0.1 mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 static.mackeeper.com
-127.0.0.1 activity.app.autohome.com.cn
-127.0.0.1 applogapi.autohome.com.cn
-127.0.0.1 comm.app.autohome.com.cn
-127.0.0.1 public.app.autohome.com.cn
-127.0.0.1 push.app.autohome.com.cn
 127.0.0.1 33.autohome.com.cn
+127.0.0.1 activity.app.autohome.com.cn
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 al.autohome.com.cn
+127.0.0.1 applogapi.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
 127.0.0.1 cmx.autohome.com.cn
+127.0.0.1 comm.app.autohome.com.cn
 127.0.0.1 dspmnt.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
 127.0.0.1 pcd.autohome.com.cn
+127.0.0.1 pcmx.autohome.com.cn
+127.0.0.1 public.app.autohome.com.cn
+127.0.0.1 push.app.autohome.com.cn
 127.0.0.1 pvx.autohome.com.cn
 127.0.0.1 rd.autohome.com.cn
 127.0.0.1 rdx.autohome.com.cn
@@ -1084,11 +1099,15 @@
 127.0.0.1 bglog.bitauto.com
 127.0.0.1 g.bitauto.com
 127.0.0.1 gimg.bitauto.com
+127.0.0.1 gstat.bitauto.com
 127.0.0.1 log.bitauto.com
+127.0.0.1 d2.yiche.com
 127.0.0.1 g.yccdn.com
 127.0.0.1 webtrends.yccdn.com
 127.0.0.1 dcjs.cig.com.cn
 127.0.0.1 js.ctags.cn
+127.0.0.1 ia.ctags.cn
+127.0.0.1 cdn.zampda.net
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
 127.0.0.1 pv.cheshi.com
@@ -2274,6 +2293,15 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 c.zxyywdj.org
+127.0.0.1 e.dunmm.com
+127.0.0.1 e.pwjhg.com
+127.0.0.1 e.vvocm.com
+127.0.0.1 js.dkqapp.cn
+127.0.0.1 kddtri.cn
+127.0.0.1 m.107279.com
+127.0.0.1 m.pwjhg.com
+127.0.0.1 zmj.guanqinjie.cn
 127.0.0.1 e.0531mnk.net
 127.0.0.1 e.anmeilai.net
 127.0.0.1 e.rmwdn.com
@@ -5401,6 +5429,7 @@
 127.0.0.1 s.domob.cn
 127.0.0.1 sd.domob.cn
 127.0.0.1 sm.domob.cn
+127.0.0.1 sm.domobcdn.com
 127.0.0.1 img.img18.com
 127.0.0.1 api.doumob.com
 127.0.0.1 www.doumob.com

@@ -148,6 +148,7 @@ http://allyes.*
 */ads/*
 */ads_js/*
 */adsame/*
+*/adfront/*
 */adsense/*
 */adserve/*
 */adservice/*
