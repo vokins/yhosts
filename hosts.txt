@@ -2903,6 +2903,13 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 code1fa.m.shushu8.com
+127.0.0.1 dcw.hdswgc.com
+127.0.0.1 e.deimm.com
+127.0.0.1 e.zunss.com
+127.0.0.1 m.pieaa.com
+127.0.0.1 m.zaoss.com
+127.0.0.1 www.bewaycare.com
 127.0.0.1 c.zxyywdj.org
 127.0.0.1 e.dunmm.com
 127.0.0.1 e.pwjhg.com
