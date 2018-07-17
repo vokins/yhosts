@@ -1,3 +1,14 @@
+127.0.0.1 e.cuomm.com
+127.0.0.1 e.wonwg.com
+127.0.0.1 e.xeihy.com
+127.0.0.1 m.cuoss.com
+127.0.0.1 m.mouaa.com
+127.0.0.1 m.wonwg.com
+127.0.0.1 m.xeihy.com
+127.0.0.1 qj.borsendental.com
+127.0.0.1 ssh.yezijizhang.com
+127.0.0.1 www.fccxgjg.com
+127.0.0.1 www.ydqzkj.com
 127.0.0.1 code1fa.m.shushu8.com
 127.0.0.1 dcw.hdswgc.com
 127.0.0.1 e.deimm.com

@@ -4,7 +4,6 @@
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
 127.0.0.1 acstatic-dun.126.net
-127.0.0.1 static.ws.126.net
 127.0.0.1 webstat.ws.126.net
 #163-news
 127.0.0.1 analytics.163.com
@@ -22,7 +21,4 @@
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 ydpushserver.youdao.com
-#netease
-127.0.0.1 img4.cache.netease.com
-127.0.0.1 img6.cache.netease.com
-127.0.0.1 img5.cache.netease.com
+

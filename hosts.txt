@@ -86,7 +86,6 @@
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
 127.0.0.1 acstatic-dun.126.net
-127.0.0.1 static.ws.126.net
 127.0.0.1 webstat.ws.126.net
 #163-news
 127.0.0.1 analytics.163.com
@@ -104,10 +103,7 @@
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 ydpushserver.youdao.com
-#netease
-127.0.0.1 img4.cache.netease.com
-127.0.0.1 img6.cache.netease.com
-127.0.0.1 img5.cache.netease.com
+
 #360-lianmeng
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 cm.lianmeng.360.cn
@@ -1156,6 +1152,8 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union-click.jd.com
 #eMail&SMS
+127.0.0.1 12i.cn
+127.0.0.1 13yg.cn
 127.0.0.1 dc.tt
 127.0.0.1 dpurl.cn
 127.0.0.1 h9p9.cn
@@ -1167,6 +1165,7 @@
 127.0.0.1 taou.cn
 127.0.0.1 u6.gg
 127.0.0.1 v.u22l.cc
+127.0.0.1 v68.ink
 127.0.0.1 www.w1a.cc
 127.0.0.1 www.z8o.cn
 @errorpage/click
@@ -2903,6 +2902,17 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.cuomm.com
+127.0.0.1 e.wonwg.com
+127.0.0.1 e.xeihy.com
+127.0.0.1 m.cuoss.com
+127.0.0.1 m.mouaa.com
+127.0.0.1 m.wonwg.com
+127.0.0.1 m.xeihy.com
+127.0.0.1 qj.borsendental.com
+127.0.0.1 ssh.yezijizhang.com
+127.0.0.1 www.fccxgjg.com
+127.0.0.1 www.ydqzkj.com
 127.0.0.1 code1fa.m.shushu8.com
 127.0.0.1 dcw.hdswgc.com
 127.0.0.1 e.deimm.com

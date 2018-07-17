@@ -1,5 +1,5 @@
 
-#version=201807142101
+#version=201807171651
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -36,7 +36,6 @@
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
 127.0.0.1 acstatic-dun.126.net
-127.0.0.1 static.ws.126.net
 127.0.0.1 webstat.ws.126.net
 127.0.0.1 analytics.163.com
 127.0.0.1 e-p4p.163.com
@@ -51,9 +50,7 @@
 127.0.0.1 impservice.dictapp.youdao.com
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 ydpushserver.youdao.com
-127.0.0.1 img4.cache.netease.com
-127.0.0.1 img6.cache.netease.com
-127.0.0.1 img5.cache.netease.com
+
 127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 s.lianmeng.360.cn
@@ -2293,6 +2290,17 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 e.cuomm.com
+127.0.0.1 e.wonwg.com
+127.0.0.1 e.xeihy.com
+127.0.0.1 m.cuoss.com
+127.0.0.1 m.mouaa.com
+127.0.0.1 m.wonwg.com
+127.0.0.1 m.xeihy.com
+127.0.0.1 qj.borsendental.com
+127.0.0.1 ssh.yezijizhang.com
+127.0.0.1 www.fccxgjg.com
+127.0.0.1 www.ydqzkj.com
 127.0.0.1 code1fa.m.shushu8.com
 127.0.0.1 dcw.hdswgc.com
 127.0.0.1 e.deimm.com
