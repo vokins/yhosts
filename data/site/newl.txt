@@ -1,3 +1,15 @@
+127.0.0.1 a.ltdnc.com
+127.0.0.1 a.lwinl.com
+127.0.0.1 a.tuuituii2999.com
+127.0.0.1 cdn.jsdelivr.net
+127.0.0.1 f5.mtqys.com
+127.0.0.1 help.baotangwang.cn
+127.0.0.1 img.kuwanpx.com
+127.0.0.1 szb.aiyole.com
+127.0.0.1 tx.lwinl.com
+127.0.0.1 union.maccms.com
+127.0.0.1 wxtz.houmags.com
+127.0.0.1 app.abc000.today
 127.0.0.1 6a4cc.leiuc.com
 127.0.0.1 a.bshu.com
 127.0.0.1 s2.mingmingtehui.com

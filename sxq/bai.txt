@@ -283,6 +283,7 @@ r2.ykimg.com
 r3.ykimg.com
 r4.ykimg.com
 renrencili.net
+res.wx.qq.com
 s.click.taobao.com
 s.faloo.com
 savebt.com
