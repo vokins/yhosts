@@ -146,6 +146,7 @@ m.bqg5.cc
 m.bqg5200.com
 m.brquge.com
 m.btbtdy.com
+m.btbtdy.net
 m.bxquge.com
 m.bxwx9.org
 m.chuanyue8.net
@@ -158,7 +159,6 @@ m.dingdiann.com
 m.du1du.org
 m.duanwenxue.com
 m.fhxiaoshuo.com
-m.fhxsw.org
 m.fhxsw.org
 m.gsdaquan.com
 m.gulizw.com
@@ -325,7 +325,9 @@ www.beian.gov.cn
 www.biquge.cn
 www.biquge22.com
 www.biqugeapp.com
+www.booktxt.io
 www.btbtdy.com
+www.btbtdy.net
 www.btrabbit.net
 www.check-domains.com
 www.cloudflare.com
