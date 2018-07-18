@@ -1,5 +1,6 @@
 00sy.net
 3g.wenxuemm.com
+7xkfic.com2.z0.glb.qiniucdn.com
 a.app.qq.com
 access.tv.sohu.com
 alicili.pw
@@ -288,6 +289,7 @@ savebt.com
 savebt.org
 shang.qq.com
 sp0.baidu.com
+static.499.cn
 static.duoshuo.com
 static.qiushibaike.com
 static1.2436.cn
