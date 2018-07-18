@@ -1,5 +1,5 @@
 
-#version=201807181125
+#version=201807181406
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2291,6 +2291,10 @@
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
 127.0.0.1 6a4cc.leiuc.com
+127.0.0.1 a.bshu.com
+127.0.0.1 s2.mingmingtehui.com
+127.0.0.1 cdn.mingmingtehui.com
+127.0.0.1 s1.mingmingtehui.com
 127.0.0.1 a6s.ruyiqufu.com
 127.0.0.1 c.vip97.net
 127.0.0.1 cdhoc.piyaji.cn
@@ -2307,7 +2311,6 @@
 127.0.0.1 p.qijijs.top
 127.0.0.1 ret.xinlongrubber.com
 127.0.0.1 s1.qiqutt.cn
-127.0.0.1 s2.mingmingtehui.com
 127.0.0.1 sigo99.com
 127.0.0.1 www.gcs1.cn
 127.0.0.1 www.kudifish.com
@@ -3046,7 +3049,6 @@
 127.0.0.1 m.ennmt.com
 127.0.0.1 m.guanren11.com
 127.0.0.1 m.joyxv.com
-127.0.0.1 pic2016.ytqmx.com
 127.0.0.1 s.hnhgw.cn
 127.0.0.1 s.zmyuer.com
 127.0.0.1 static.ppliuliang.com
@@ -4861,6 +4863,13 @@
 127.0.0.1 q1scv.vov0.com
 127.0.0.1 www.yiluup.com
 127.0.0.1 www.cqsta.com
+127.0.0.1 logs.newapi.com
+127.0.0.1 cdn.newapi.com
+127.0.0.1 md.1drj.com
+127.0.0.1 push.5z5zw.com
+127.0.0.1 www.jiubuhua.com
+127.0.0.1 xs.1drj.com
+127.0.0.1 z.clickvip.shop
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com

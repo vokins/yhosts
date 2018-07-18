@@ -235,6 +235,13 @@
 127.0.0.1 q1scv.vov0.com
 127.0.0.1 www.yiluup.com
 127.0.0.1 www.cqsta.com
+127.0.0.1 logs.newapi.com
+127.0.0.1 cdn.newapi.com
+127.0.0.1 md.1drj.com
+127.0.0.1 push.5z5zw.com
+127.0.0.1 www.jiubuhua.com
+127.0.0.1 xs.1drj.com
+127.0.0.1 z.clickvip.shop
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

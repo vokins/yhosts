@@ -1,4 +1,8 @@
 127.0.0.1 6a4cc.leiuc.com
+127.0.0.1 a.bshu.com
+127.0.0.1 s2.mingmingtehui.com
+127.0.0.1 cdn.mingmingtehui.com
+127.0.0.1 s1.mingmingtehui.com
 127.0.0.1 a6s.ruyiqufu.com
 127.0.0.1 c.vip97.net
 127.0.0.1 cdhoc.piyaji.cn
@@ -15,7 +19,6 @@
 127.0.0.1 p.qijijs.top
 127.0.0.1 ret.xinlongrubber.com
 127.0.0.1 s1.qiqutt.cn
-127.0.0.1 s2.mingmingtehui.com
 127.0.0.1 sigo99.com
 127.0.0.1 www.gcs1.cn
 127.0.0.1 www.kudifish.com
@@ -754,7 +757,6 @@
 127.0.0.1 m.ennmt.com
 127.0.0.1 m.guanren11.com
 127.0.0.1 m.joyxv.com
-127.0.0.1 pic2016.ytqmx.com
 127.0.0.1 s.hnhgw.cn
 127.0.0.1 s.zmyuer.com
 127.0.0.1 static.ppliuliang.com

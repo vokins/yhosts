@@ -40,6 +40,7 @@ g4.ykimg.com
 gif-china.cc
 github.com
 go.microsoft.com
+gxwztv.com
 i.biquge5200.com
 i.gtimg.cn
 i0.letvimg.com
@@ -100,6 +101,7 @@ m.630book.la
 m.67shu.com
 m.69shu.org
 m.6mao.com
+m.76long.com
 m.80txt.com
 m.81zw.com
 m.83zw.com
@@ -128,6 +130,7 @@ m.biquge.com.tw
 m.biquge.info
 m.biquge.tw
 m.biquge0.com
+m.biquge5200.com
 m.biqugebook.com
 m.biqugego.com
 m.biqugex.com
@@ -242,6 +245,8 @@ m.wenxuemm.com
 m.wkjhd.t
 m.wodeshucheng.com
 m.wodexiaoshuo1.cc
+m.wzzw.la
+m.wzzw.tv
 m.x81zw.com
 m.xbxwx.net
 m.xiashu.cc
@@ -266,6 +271,7 @@ pan.meijukankan.net
 photocdn.sohu.com
 photocdn.tv.sohu.com
 pic.qiushibaike.com
+pic2016.ytqmx.com
 play.meijukankan.net
 push.zhanzhang.baidu.com
 puui.qpic.cn
@@ -337,6 +343,7 @@ www.dawangraoming.com
 www.dybee.me
 www.gnu.org
 www.google.com
+www.gxwztv.com
 www.hdbee.net
 www.imdb.com
 www.jiang.com
