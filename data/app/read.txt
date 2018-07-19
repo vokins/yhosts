@@ -73,7 +73,6 @@
 127.0.0.1 s1.cmfu.com
 #http://www.wufazhuce.com/
 127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
 #http://www.zhuishushenqi.com/

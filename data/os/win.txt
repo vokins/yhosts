@@ -10,7 +10,6 @@
 127.0.0.1 display.ad.daum.net
 127.0.0.1 track.tiara.daum.net
 127.0.0.1 live.tvpot.daum.net
-127.0.0.1 potplayertv.daum.net
 #http://pinyin.sogou.com/
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com

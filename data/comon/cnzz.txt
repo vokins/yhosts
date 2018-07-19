@@ -236,5 +236,3 @@
 127.0.0.1 html.cnzzj.com.cn
 127.0.0.1 cache.adm.cnzz.net
 127.0.0.1 pcookie.cnzz.net
-127.0.0.1 ww6.adm-cnzz.net
-127.0.0.1 www.adm-cnzz.net

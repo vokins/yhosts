@@ -40,7 +40,6 @@
 127.0.0.1 eng.liveapp.cn
 127.0.0.1 open.liveapp.cn
 127.0.0.1 www.360clg.cn
-127.0.0.1 www.cubcc.com
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 127.0.0.1 www.taoev.com

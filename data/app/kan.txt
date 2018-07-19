@@ -18,9 +18,7 @@
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 m.1768.com
 #app.starschina.com
-127.0.0.1 ad-cache.dopool.com
 127.0.0.1 analytics3.dopool.com
-127.0.0.1 adapi.starschina.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com

@@ -335,8 +335,6 @@
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 api.gi.igexin.com
 127.0.0.1 api.y.igexin.com
-127.0.0.1 c.nz.gt.igexin.com
-127.0.0.1 c.sz.gt.igexin.com
 127.0.0.1 sdk.conf.igexin.com
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.lbs.igexin.com
@@ -764,13 +762,6 @@
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
 #guomob
-127.0.0.1 c1.guomob.com
-127.0.0.1 code.guomob.com
-127.0.0.1 guomob.com
-127.0.0.1 pic.guomob.com
-127.0.0.1 t3.guomob.com
-127.0.0.1 t4.guomob.com
-127.0.0.1 www.guomob.com
 #irs
 127.0.0.1 a.irs01.com
 127.0.0.1 bitauto.irs01.com
@@ -926,7 +917,6 @@
 127.0.0.1 mse.mbm.cn.miaozhen.com
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.mbm.cn.miaozhen.com
-127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 stm-cdn.cn.miaozhen.com

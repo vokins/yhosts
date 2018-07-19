@@ -21,7 +21,6 @@
 127.0.0.1 cdn.img.kachapt.cn
 127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 cdn.wwwpromoter.com
-127.0.0.1 cdn1.njjlg.com
 127.0.0.1 cl.xzqxzs.com
 127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 dl.xzqxzs.com
@@ -49,7 +48,6 @@
 127.0.0.1 iosipa.b0.upaiyun.com
 127.0.0.1 js.um0592.com
 127.0.0.1 k1w5.me
-127.0.0.1 kl.hfdforging.com
 127.0.0.1 ld.mediaget.com
 127.0.0.1 m.495495.com
 127.0.0.1 m.551144.com
@@ -72,9 +70,7 @@
 127.0.0.1 s.xcfe.cn
 127.0.0.1 script.crazyegg.com
 127.0.0.1 ss.subo.me
-127.0.0.1 ssl.cuxiaoso.com
 127.0.0.1 static.hotjar.com
-127.0.0.1 tr.offtrackads.com
 127.0.0.1 url.tudown.com
 127.0.0.1 v.dbncp.com
 127.0.0.1 vj0.42422277.com
@@ -115,7 +111,6 @@
 127.0.0.1 www.hg89078.com
 127.0.0.1 www.jinshagt222.com
 127.0.0.1 www.kxmav2.com
-127.0.0.1 www.lzcei.com
 127.0.0.1 www.pj38330.bet
 127.0.0.1 www.pj39330.bet
 127.0.0.1 www.pj39330.com
