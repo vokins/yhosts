@@ -17,6 +17,7 @@ btkitty.pet
 btlibrary.cc
 btwhat.org
 cdn.bootcss.com
+cdn.jsdelivr.net
 chuanyuezhe.yetianzi.com
 cilidaquan.xyz
 cilidb.net

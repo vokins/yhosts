@@ -2901,10 +2901,10 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 h8.bec.com
 127.0.0.1 a.ltdnc.com
 127.0.0.1 a.lwinl.com
 127.0.0.1 a.tuuituii2999.com
-127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 f5.mtqys.com
 127.0.0.1 help.baotangwang.cn
 127.0.0.1 img.kuwanpx.com
@@ -2921,7 +2921,6 @@
 127.0.0.1 a6s.ruyiqufu.com
 127.0.0.1 c.vip97.net
 127.0.0.1 cdhoc.piyaji.cn
-127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 h5.super-dreamers.com
 127.0.0.1 j.hbwcl.com
 127.0.0.1 jc.xuqinqi.cn
