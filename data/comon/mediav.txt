@@ -1,4 +1,5 @@
 127.0.0.1 3m.mediav.com
+127.0.0.1 cjhd.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
 127.0.0.1 cm.mediav.com
@@ -21,6 +22,7 @@
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com
+127.0.0.1 show.3.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com

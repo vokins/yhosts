@@ -27,8 +27,9 @@
 #so
 127.0.0.1 haostat.qihoo.com
 127.0.0.1 s.sh.qihoo.com
-127.0.0.1 sh.qihoo.com
+127.0.0.1 res.qhupdate.com
 127.0.0.1 tran.news.so.com
+127.0.0.1 u.api.look.360.cn
 #360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
