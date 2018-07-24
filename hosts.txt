@@ -2111,6 +2111,9 @@
 127.0.0.1 dc.vmoters.com
 #rrys
 127.0.0.1 pat.farvd.com
+#http://www.nicotv.cc
+127.0.0.1 ms.ienkdaccessible.cn
+127.0.0.1 ms.continuedsys.cn
 #adesk
 127.0.0.1 service.ad.adesk.com
 #halolauncher
@@ -2816,12 +2819,14 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 baidu.cybcyw.com
 127.0.0.1 hdggcdn.bayimob.com
 127.0.0.1 interaction.bayimob.com
 127.0.0.1 zxcs.ggwan.com
 127.0.0.1 h5.pk1179.com
 127.0.0.1 game.baichuanhd.cn
 127.0.0.1 activity.tuifish.com
+127.0.0.1 w.waacorp.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.chcx.cn
@@ -4307,7 +4312,6 @@
 127.0.0.1 w.1lib.cn
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.cube3d.cn
-127.0.0.1 w.waacorp.com
 127.0.0.1 w.werpig.com
 127.0.0.1 w.xiaopiaoyou.com
 127.0.0.1 w.yamaidei.cn

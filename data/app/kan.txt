@@ -142,3 +142,6 @@
 127.0.0.1 dc.vmoters.com
 #rrys
 127.0.0.1 pat.farvd.com
+#http://www.nicotv.cc
+127.0.0.1 ms.ienkdaccessible.cn
+127.0.0.1 ms.continuedsys.cn
