@@ -13,3 +13,6 @@
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
+127.0.0.1 business.inveno.com
+127.0.0.1 zuimeitianqi.inveno.com
+127.0.0.1 update.coolyun.com

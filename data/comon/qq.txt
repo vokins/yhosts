@@ -61,6 +61,7 @@
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
+127.0.0.1 nc.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 t.gdt.qq.com
@@ -74,6 +75,7 @@
 127.0.0.1 ra.gtimg.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 wb.gtimg.com
+127.0.0.1 pgdt.ugdtimg.com
 #qq-l
 127.0.0.1 bs.l.qq.com
 127.0.0.1 c2.l.qq.com

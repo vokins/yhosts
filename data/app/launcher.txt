@@ -9,3 +9,5 @@
 127.0.0.1 i.haloapps.com
 127.0.0.1 mo.test.haloapps.com
 127.0.0.1 mo.haloapps.cn
+#letv
+127.0.0.1 ads1.lfengmobile.com
