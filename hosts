@@ -1,5 +1,5 @@
 
-#version=201807241830
+#version=201807312157
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1820,6 +1820,8 @@
 127.0.0.1 finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
+127.0.0.1 imagelx.yidianzixun.com
+127.0.0.1 lx-upload-log.yidianzixun.com
 127.0.0.1 ad.ipadview.com
 127.0.0.1 stats.magicwindow.cn
 127.0.0.1 alertserver.ushaqi.com
@@ -2219,14 +2221,6 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
-127.0.0.1 baidu.cybcyw.com
-127.0.0.1 hdggcdn.bayimob.com
-127.0.0.1 interaction.bayimob.com
-127.0.0.1 zxcs.ggwan.com
-127.0.0.1 h5.pk1179.com
-127.0.0.1 game.baichuanhd.cn
-127.0.0.1 activity.tuifish.com
-127.0.0.1 w.waacorp.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.chcx.cn
@@ -2297,6 +2291,7 @@
 127.0.0.1 abc.88shu.cn
 127.0.0.1 abc.zhiyaspa.com
 127.0.0.1 abcd.zsrt88.cn
+127.0.0.1 activity.tuifish.com
 127.0.0.1 ad.adhouyi.cn
 127.0.0.1 ad.funshion.org.cn
 127.0.0.1 ad.holaq.com
@@ -2362,6 +2357,7 @@
 127.0.0.1 b4xuj.zzhhts.com
 127.0.0.1 baby.yf898.com
 127.0.0.1 bad1.51gxqm.com
+127.0.0.1 baidu.cybcyw.com
 127.0.0.1 baiduyubaidu.com
 127.0.0.1 bax.xiawu.com
 127.0.0.1 baxf.m.shuhuangge.org
@@ -2678,6 +2674,7 @@
 127.0.0.1 e.pomkl.com
 127.0.0.1 e.poonscn.com
 127.0.0.1 e.pubbirdf.com
+127.0.0.1 e.puooi.com
 127.0.0.1 e.pwjhg.com
 127.0.0.1 e.pyerc.com
 127.0.0.1 e.qingzhencai.net
@@ -2727,6 +2724,7 @@
 127.0.0.1 e.yerpt.com
 127.0.0.1 e.yicang8.com
 127.0.0.1 e.yingchengtou.com
+127.0.0.1 e.ynnke.com
 127.0.0.1 e.yoiur.com
 127.0.0.1 e.youweiprint.com
 127.0.0.1 e.ysdangan.com
@@ -2787,6 +2785,7 @@
 127.0.0.1 g.zx-jsp.com
 127.0.0.1 g9s.sgzs999.com
 127.0.0.1 gafxa.code.mytanwan.com
+127.0.0.1 game.baichuanhd.cn
 127.0.0.1 gc.keefung-zs.com
 127.0.0.1 gfh.ahfzly.com
 127.0.0.1 gg.amblrgg.live
@@ -2805,11 +2804,13 @@
 127.0.0.1 h.laojiayoufang.com
 127.0.0.1 h1.18sd.cn
 127.0.0.1 h2.18sd.cn
+127.0.0.1 h5.pk1179.com
 127.0.0.1 h5.super-dreamers.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 h8.bec.com
 127.0.0.1 hbdt.luomi.com
 127.0.0.1 hd.ylddq.com
+127.0.0.1 hdggcdn.bayimob.com
 127.0.0.1 help.baotangwang.cn
 127.0.0.1 help.yunaq.com
 127.0.0.1 hhqda.pop.t5yx.cn
@@ -2883,6 +2884,7 @@
 127.0.0.1 in.qzkxt.com
 127.0.0.1 include.xs2345.com
 127.0.0.1 ini.litingxin.cn
+127.0.0.1 interaction.bayimob.com
 127.0.0.1 ip.hivps.xyz
 127.0.0.1 items.bingdiantao.com
 127.0.0.1 its.fugetech.com
@@ -3006,6 +3008,7 @@
 127.0.0.1 jumpe.58xmgys.com
 127.0.0.1 jumpm.58xmgys.com
 127.0.0.1 jyc.njxczy.com
+127.0.0.1 jyz.fjtzjy.com
 127.0.0.1 k.85wa.cn
 127.0.0.1 k.ctsywy.com
 127.0.0.1 kddtri.cn
@@ -3099,6 +3102,7 @@
 127.0.0.1 m.codlw.com
 127.0.0.1 m.cqytjzgc.com
 127.0.0.1 m.ctsywy.com
+127.0.0.1 m.cuoas.com
 127.0.0.1 m.cuoss.com
 127.0.0.1 m.daishuxy.com
 127.0.0.1 m.dante2007.com
@@ -3114,6 +3118,7 @@
 127.0.0.1 m.ennmt.com
 127.0.0.1 m.erocw.com
 127.0.0.1 m.fecjf.cn
+127.0.0.1 m.feirs.com
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.fenrs.com
 127.0.0.1 m.fhxsw.org
@@ -3216,6 +3221,7 @@
 127.0.0.1 m.pptte.com
 127.0.0.1 m.prazpf.cn
 127.0.0.1 m.pubbirdf.com
+127.0.0.1 m.puooi.com
 127.0.0.1 m.pwjhg.com
 127.0.0.1 m.pyerc.com
 127.0.0.1 m.qcw.com
@@ -3290,6 +3296,7 @@
 127.0.0.1 m.ycioo.com
 127.0.0.1 m.yicang8.com
 127.0.0.1 m.yingchengtou.com
+127.0.0.1 m.ynnke.com
 127.0.0.1 m.yoiur.com
 127.0.0.1 m.yooli.com
 127.0.0.1 m.youweiprint.com
@@ -3414,6 +3421,7 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic1.59wd.com
 127.0.0.1 pic2016.5442.com
+127.0.0.1 pic2016.ytqmx.com
 127.0.0.1 plmkolp.m.58xs.tw
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 pop.code.poyang.cn
@@ -3639,6 +3647,8 @@
 127.0.0.1 tj.tt1386.com
 127.0.0.1 tjf.lyhuayun.com
 127.0.0.1 tkmdng.cn
+127.0.0.1 tongji.114com.cc
+127.0.0.1 tongji.coccccc.cc
 127.0.0.1 tongji.wlongchina.com
 127.0.0.1 toutiao.jxnews.com.cn
 127.0.0.1 tqd.ntpddq.com
@@ -3685,6 +3695,7 @@
 127.0.0.1 url.222bz.com
 127.0.0.1 user.tiankongzudui.com
 127.0.0.1 uu.85655095.com
+127.0.0.1 uu.zeverdg.com
 127.0.0.1 uun.1uandun.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.e7002.com
@@ -3712,6 +3723,7 @@
 127.0.0.1 w.1lib.cn
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.cube3d.cn
+127.0.0.1 w.waacorp.com
 127.0.0.1 w.werpig.com
 127.0.0.1 w.xiaopiaoyou.com
 127.0.0.1 w.yamaidei.cn
@@ -4000,6 +4012,7 @@
 127.0.0.1 zs0613.mengchengbao.com
 127.0.0.1 zs1111.youzue.com
 127.0.0.1 ztd.szkdst.com
+127.0.0.1 zxcs.ggwan.com
 127.0.0.1 zxcs.linghit.com
 127.0.0.1 zxr.fzxrjx.com
 127.0.0.1 zyf.fzdfwy.com

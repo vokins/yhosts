@@ -75,6 +75,9 @@
 127.0.0.1 finead.cn
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 www.cpv6.com
+#https://www.yidianzixun.com/
+127.0.0.1 imagelx.yidianzixun.com
+127.0.0.1 lx-upload-log.yidianzixun.com
 #http://www.zhuishushenqi.com/
 127.0.0.1 ad.ipadview.com
 127.0.0.1 stats.magicwindow.cn
