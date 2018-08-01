@@ -15,6 +15,7 @@
 127.0.0.1 c.silvinst.com
 127.0.0.1 c1.668559.com
 127.0.0.1 c16cp358.com
+127.0.0.1 c2.58toto.net
 127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 cdn.app.liuxingyul.cn
@@ -45,6 +46,7 @@
 127.0.0.1 imgc.cymzc.com
 127.0.0.1 imgp.cymzc.com
 127.0.0.1 inapp.1sapp.com
+127.0.0.1 index.woai310.com
 127.0.0.1 iosipa.b0.upaiyun.com
 127.0.0.1 js.um0592.com
 127.0.0.1 k1w5.me
@@ -61,6 +63,8 @@
 127.0.0.1 mibook-10006092.cos.myqcloud.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 onclkds.com
+127.0.0.1 p.raidmedia.com.cn
+127.0.0.1 p.yizuya.com
 127.0.0.1 p555.cc
 127.0.0.1 pj3456.com
 127.0.0.1 pj50.com
@@ -71,6 +75,10 @@
 127.0.0.1 script.crazyegg.com
 127.0.0.1 ss.subo.me
 127.0.0.1 static.hotjar.com
+127.0.0.1 tactics.bainv.net
+127.0.0.1 u.raidmedia.com.cn
+127.0.0.1 u.yizuya.com
+127.0.0.1 update.bainv.net
 127.0.0.1 url.tudown.com
 127.0.0.1 v.dbncp.com
 127.0.0.1 vj0.42422277.com
@@ -89,6 +97,7 @@
 127.0.0.1 www.4242uuu.com
 127.0.0.1 www.4wad.com
 127.0.0.1 www.555p555p.com
+127.0.0.1 www.601654.com
 127.0.0.1 www.649558.com
 127.0.0.1 www.6666349.com
 127.0.0.1 www.66992949.com
@@ -109,7 +118,9 @@
 127.0.0.1 www.hg89038.com
 127.0.0.1 www.hg89068.com
 127.0.0.1 www.hg89078.com
+127.0.0.1 www.iiewl.com
 127.0.0.1 www.jinshagt222.com
+127.0.0.1 www.jj123.com.cn
 127.0.0.1 www.kxmav2.com
 127.0.0.1 www.pj38330.bet
 127.0.0.1 www.pj39330.bet
@@ -133,13 +144,3 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 xz.ercfh.com
-127.0.0.1 index.woai310.com
-127.0.0.1 www.iiewl.com
-127.0.0.1 www.jj123.com.cn
-127.0.0.1 u.raidmedia.com.cn
-127.0.0.1 update.bainv.net
-127.0.0.1 u.yizuya.com
-127.0.0.1 p.raidmedia.com.cn
-127.0.0.1 tactics.bainv.net
-127.0.0.1 p.yizuya.com
-127.0.0.1 c2.58toto.net

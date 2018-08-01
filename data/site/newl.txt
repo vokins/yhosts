@@ -45,9 +45,11 @@
 127.0.0.1 a.lwinl.com
 127.0.0.1 a.m.gxwztv.com
 127.0.0.1 a.m.shuhuangge.org
+127.0.0.1 a.mjlnbx.cn
 127.0.0.1 a.shangz99991.com
 127.0.0.1 a.shczz.com
 127.0.0.1 a.soonyou123.com
+127.0.0.1 a.startui19999.com
 127.0.0.1 a.tujidao.com
 127.0.0.1 a.tuuituii2999.com
 127.0.0.1 a.vlion.cn
@@ -181,6 +183,7 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.mhxy.org.cn
 127.0.0.1 c.mightiger.net
+127.0.0.1 c.mipcdn.com
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
@@ -399,6 +402,7 @@
 127.0.0.1 e.hellomingpian.com
 127.0.0.1 e.htper.com
 127.0.0.1 e.hunpp.com
+127.0.0.1 e.huoas.com
 127.0.0.1 e.hurnt.com
 127.0.0.1 e.hyzui.com
 127.0.0.1 e.icyrd.com
@@ -588,6 +592,7 @@
 127.0.0.1 hbdt.luomi.com
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hdggcdn.bayimob.com
+127.0.0.1 hechaocheng.cn
 127.0.0.1 help.baotangwang.cn
 127.0.0.1 help.yunaq.com
 127.0.0.1 hhqda.pop.t5yx.cn
@@ -616,6 +621,7 @@
 127.0.0.1 image.haiyunx.com
 127.0.0.1 image.hj217.com
 127.0.0.1 image.qj175.com
+127.0.0.1 img.09mk.cn
 127.0.0.1 img.9ads.net
 127.0.0.1 img.contx.cn
 127.0.0.1 img.cxxyft.com
@@ -887,6 +893,7 @@
 127.0.0.1 m.diogv.com
 127.0.0.1 m.dnfeu.com
 127.0.0.1 m.du1du.org
+127.0.0.1 m.duias.com
 127.0.0.1 m.dxectas1.cn
 127.0.0.1 m.dxmci.com
 127.0.0.1 m.edo5.com
@@ -966,6 +973,7 @@
 127.0.0.1 m.lzida.com
 127.0.0.1 m.lzytt.com
 127.0.0.1 m.maopuzw.com
+127.0.0.1 m.mgsue.cn
 127.0.0.1 m.mightiger.net
 127.0.0.1 m.miiuv.com
 127.0.0.1 m.miupp.com
@@ -1059,6 +1067,7 @@
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.xabtx.com
 127.0.0.1 m.xberu.com
+127.0.0.1 m.xdkje.com
 127.0.0.1 m.xeihy.com
 127.0.0.1 m.xetvb.com
 127.0.0.1 m.xiangchim0.com
@@ -1132,6 +1141,7 @@
 127.0.0.1 my1fimg.m.b5200.net
 127.0.0.1 myjsym.zichenit.com
 127.0.0.1 mymm.zichenit.com
+127.0.0.1 n.wjr1x.cn
 127.0.0.1 n.yfi8.com
 127.0.0.1 n.zqqf0.cn
 127.0.0.1 nch.xnghmc.com
@@ -1262,6 +1272,7 @@
 127.0.0.1 s.georgias.cn
 127.0.0.1 s.haiyunx.com
 127.0.0.1 s.hk9600.com
+127.0.0.1 s.hkfuy.com
 127.0.0.1 s.hnhgw.cn
 127.0.0.1 s.hzht666.com
 127.0.0.1 s.iroby.com
@@ -1634,6 +1645,7 @@
 127.0.0.1 www.jx5m.com
 127.0.0.1 www.jystea.com
 127.0.0.1 www.kaitongyewu.com
+127.0.0.1 www.kl-toys.com
 127.0.0.1 www.kudifish.com
 127.0.0.1 www.laiququan.com
 127.0.0.1 www.langjiyisheng.com

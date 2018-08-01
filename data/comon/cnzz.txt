@@ -1,5 +1,6 @@
 127.0.0.1 a.cnzz.com
 127.0.0.1 c.cnzz.com
+127.0.0.1 ca.cnzz.com
 127.0.0.1 cache.cnzz.com
 127.0.0.1 clickjs.cnzz.com
 127.0.0.1 doc.cnzz.com

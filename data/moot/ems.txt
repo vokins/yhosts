@@ -4,13 +4,16 @@
 127.0.0.1 dc.tt
 127.0.0.1 dpurl.cn
 127.0.0.1 h9p9.cn
+127.0.0.1 jjb168.net
 127.0.0.1 mrw.so
 127.0.0.1 suo.im
 127.0.0.1 t.geedai.com
 127.0.0.1 t1n.cn
 127.0.0.1 taou.cn
+127.0.0.1 u51.me
 127.0.0.1 u6.gg
 127.0.0.1 v.u22l.cc
 127.0.0.1 v68.ink
+127.0.0.1 weq.me
 127.0.0.1 www.w1a.cc
 127.0.0.1 www.z8o.cn
