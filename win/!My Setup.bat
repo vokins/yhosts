@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 18:03 2018/8/9
+rem 18:33 2018/8/9
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -129,6 +129,10 @@ rem Xbox Live 网络服务
 sc config XboxNetApiSvc start= disabled
 rem Xbox Live 游戏保存
 sc config XblGameSave start= disabled
+::关闭游戏录制工具
+Reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\GameDVR" /v "AppCaptureEnabled" /t REG_DWORD /d "0" /f
+Reg add "HKCU\System\GameConfigStore" /v "GameDVR_Enabled" /t REG_DWORD /d "0" /f
+
 
 ::并没什么用的服务
 rem AllJoyn Router Service:路由本地 AllJoyn 客户端的 AllJoyn 消息。如果停止此服务，则自身没有捆绑路由器的 AllJoyn 客户端将无法运行。
@@ -235,6 +239,10 @@ rem .RTF文件
 reg delete HKEY_CLASSES_ROOT\.rtf\ShellNew /f > NUL 2>&1
 rem .ZIP文件
 reg delete HKEY_CLASSES_ROOT\.zip\ShellNew /f > NUL 2>&1
+rem .jnt 新建日记本
+reg delete HKEY_CLASSES_ROOT\.jnt\jntfile\ShellNew /f > NUL 2>&1
+rem .Briefcase 公文包
+reg delete HKEY_CLASSES_ROOT\Briefcase\ShellNew /f > NUL 2>&1
 ::右键菜单：清理：显卡项
 reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\ACE" /f > NUL 2>&1
 reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\NvCplDesktopContext" /f > NUL 2>&1
@@ -434,6 +442,10 @@ echo [InternetShortcut] >%lnkdir%\民生银行.url
 echo URL="http://www.cmbc.com.cn/" >>%lnkdir%\民生银行.url
 
 :: 6.浏览器相关设置
+::跳过IE首次运行自定义设置
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "RunOnceHasShown" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "RunOnceComplete" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "DisableFirstRunCustomize" /t REG_DWORD /d 1 /f
 ::127.0.0.1 ieonline.microsoft.com
 SET NEWLINE=^& echo.
 attrib -r %WINDIR%\system32\drivers\etc\hosts
@@ -529,6 +541,8 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownRe
 reg add "HKLM\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownReasonOn" /t REG_DWORD /d 0 /f
 
 :: 9.系统APP默认设置项调整
+::Windows Media Player 不显示首次使用对话框
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f
 ::记事本显示状态栏
 reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
 ::记事本自动换行
@@ -544,6 +558,14 @@ reg add "HKEY_USERS\.DEFAULT\Control Panel\Desktop" /v "HungAppTimeout" /d "200"
 reg add "HKEY_USERS\.DEFAULT\Control Panel\Desktop" /v "WaitToKillAppTimeout" /d "1000" /f
 ::执行关机时强制退出应用程序（关机时强杀后台不等待）
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control" /v "WaitToKillServiceTimeout" /d 0 /t REG_SZ /f
+::关闭缩略图缓存
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "DisableThumbnailCache" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "NoThumbnailCache" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "DisableThumbnailCache" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoThumbnailCache" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\Policies\Microsoft\Windows\Explorer" /v "DisableThumbsDBOnNetworkFolders" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "DisableThumbnailCache" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoThumbnailCache" /t REG_DWORD /d 1 /f
 ::在控制面板添加 编辑注册表 项
 reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /ve /d "编辑注册表" /f
 reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /v "InfoTip" /d "打开注册表编辑器" /f
