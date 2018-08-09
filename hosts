@@ -1,5 +1,5 @@
 
-#version=201808021659
+#version=201808091652
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -981,6 +981,7 @@
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
+127.0.0.1 geo2.adobe.com
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
@@ -2224,6 +2225,16 @@
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+127.0.0.1 c.xianguonongchang.org
+127.0.0.1 e.oyrim.com
+127.0.0.1 e.vouky.com
+127.0.0.1 images.tyyjzs.cn
+127.0.0.1 m.gxkyl.com
+127.0.0.1 m.hkmqp.com
+127.0.0.1 m.hpfjy.com
+127.0.0.1 m.oyrim.com
+127.0.0.1 m.vouky.com
+127.0.0.1 nfh.cnshef.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.chcx.cn

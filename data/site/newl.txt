@@ -1,3 +1,13 @@
+127.0.0.1 c.xianguonongchang.org
+127.0.0.1 e.oyrim.com
+127.0.0.1 e.vouky.com
+127.0.0.1 images.tyyjzs.cn
+127.0.0.1 m.gxkyl.com
+127.0.0.1 m.hkmqp.com
+127.0.0.1 m.hpfjy.com
+127.0.0.1 m.oyrim.com
+127.0.0.1 m.vouky.com
+127.0.0.1 nfh.cnshef.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.chcx.cn
