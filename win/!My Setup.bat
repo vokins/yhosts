@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 17:17 2018/8/9
+rem 18:03 2018/8/9
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -32,15 +32,27 @@ sc config diagnosticshub.standardcollector.service start= disabled
 rem Performance Logs & Alerts:性能日志和警报根据预配置的计划参数从本地或远程计算机收集性能数据，然后将该数据写入日志或触发警报。如果停止此服务，将不收集性能信息。如果禁用此服务，则明确依赖它的所有服务将无法启动。
 sc config pla start= disabled
 
-::关闭Windows Defender相关服务
-rem 关闭Windows Defender Antivirus Network Inspection Service:帮助防止针对网络协议中的已知和新发现的漏洞发起的入侵企图
-net stop WdNisSvc > NUL 2>&1
-rem 关闭Windows Defender Antivirus Service:帮助用户防止恶意软件及其他潜在的垃圾软件。
-net stop WinDefend > NUL 2>&1
-rem 关闭Windows Defender Advanced Threat Protection Service:Windows Defender 高级威胁防护服务通过监视和报告计算机上发生的安全事件来防范高级威胁。
-sc stop Sense > NUL 2>&1
-net stop Sense > NUL 2>&1
-
+echo 正在禁用微软遥测相关任务计划，请稍候……
+SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentFallBack" /disable
+SCHTASKS /Change /TN "Microsoft\Office\OfficeTelemetryAgentLogOn" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Autochk\Proxy" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\CloudExperienceHost\CreateObjectTask" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\DiskCleanup\SilentCleanup" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\DiskFootprint\Diagnostics" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\FileHistory\File History (maintenance mode)" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Maintenance\WinSAT" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Maps\MapsUpdateTask" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\PI\Sqm-Tasks" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitor" /disable
+SCHTASKS /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /disable
+SCHTASKS /Change /TN "Microsoft\XblGameSave\XblGameSaveTask" /disable
 
 ::禁用 WAP 推消息路由服务
 rem dmwappushsvc:WAP 推消息路由服务
@@ -85,6 +97,7 @@ sc config WMPNetworkSvc start= disabled
 ::禁用Windows Search
 rem Windows Search:为文件、电子邮件和其他内容提供内容索引、属性缓存和搜索结果。
 sc config WSearch start= disabled
+taskkill /f /im searchui.exe > NUL 2>&1
 del "%ProgramData%\Microsoft\Search\Data\Applications\Windows\Windows.edb" /s > NUL 2>&1
 ::禁用时间同步
 rem Windows Time:维护在网络上的所有客户端和服务器的时间和日期同步。如果此服务被停止，时间和日期的同步将不可用。如果此服务被禁用，任何明确依赖它的服务都将不能启动。
@@ -92,7 +105,6 @@ sc config W32Time start= disabled
 ::禁用零售演示服务
 rem 零售演示服务:当设备处于零售演示模式时，零售演示服务将控制设备活动。
 sc config RetailDemo start= disabled
-
 
 ::Hyper-V
 sc config AppVClient start= disabled
@@ -110,8 +122,7 @@ sc config vmicrdv start= disabled
 rem Xbox Accessory Management Service
 sc config XboxGipSvc start= disabled
 rem Xbox Game Monitoring
-net stop xbgm
-sc config xbgm start= disabled
+rem sc config xbgm start= demand
 rem Xbox Live 身份验证管理器
 sc config XblAuthManager start= disabled
 rem Xbox Live 网络服务
@@ -554,15 +565,64 @@ reg add "HKCR\lrcfile\shell\open\command" /ve /d "NOTEPAD.EXE %%1" /f
 reg add "HKCR\.mht" /ve /d "ChromeHTML" /f
 ::默认使用Chrome打开PDF
 reg add "HKCR\.pdf" /ve /d "ChromeHTML" /f
-::清理启动项
-attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
-attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
-del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
-del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
-::Windows Defender 改为手动启动
-Reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v WindowsDefender /f >nul 2>nul
-Reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v SecurityHealth /f >nul 2>nul
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
+
+:: 11.电源管理
+
+::启用休眠
+::powercfg -h on
+::将休眠文件直接压缩到内存容量的最低，即：40%
+::powercfg -h size 40
+
+::设置屏幕自动关闭时间为：5分钟
+powercfg -x -monitor-timeout-ac 5
+powercfg -x -monitor-timeout-dc 5
+::设置屏幕关闭后禁止关闭硬盘
+powercfg -x -disk-timeout-ac 0
+powercfg -x -disk-timeout-dc 0
+::设置15分钟后睡眠
+powercfg -x -standby-timeout-ac 15
+powercfg -x -standby-timeout-dc 15
+::睡眠后禁止休眠
+powercfg -x -hibernate-timeout-ac 0
+powercfg -x -hibernate-timeout-dc 0
+
+:: 12.系统属性：
+::启动和故障恢复：开机：设置开机磁盘扫描等待时间为2秒
+chkntfs /t:2
+::启动和故障恢复：开机：设置开机显示操作系统列表时间3秒 %systemroot%\system32\bcdedit.exe /timeout 3
+bcdedit /timeout 3
+::关闭远程协助
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowToGetHelp" /d 0 /t REG_dword /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowUnsolicited" /d 0 /t REG_dword /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fDenyTSConnections" /d 1 /t REG_dword /f
+
+:: 13.安全和维护相关设置：
+::关闭UAC
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v EnableLUA /t REG_DWORD /d 00000000 /f
+::关闭UAC小盾牌
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 77 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
+::关闭打开  本地  文件的“安全警告”
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Associations" /v "ModRiskFileTypes" /d ".7z;.cab;.bat;.chm;.cmd;.exe;.js;.msi;.rar;.reg;.vbs;.zip" /f
+::关闭打开 局域网 文件的“安全警告”（Internet选项：加载应用程序和不安全文件时不提示）
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
+::在未安装通过微软注册的杀软的情况下关闭Windows Security Center ：1、点击“主页”→“病毒和威胁防护”，关闭“实时保护”；
+reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
+::关闭Windows Defender Antivirus Service：帮助用户防止恶意软件及其他潜在的垃圾软件。(Windows Defender 改为手动启动)
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v WindowsDefender /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v SecurityHealth /f >nul 2>nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiVirus" /d 1 /t REG_DWORD /f
+taskkill /f /im MSASCuil.exe>nul 2>nul
+::关闭Windows Defender Firewall：Windows Defender 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机。
+sc config MpsSvc start=disabled >nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile" /v "EnableFirewall" /d 0 /t REG_DWORD /f
+::关闭自动播放
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDriveTypeAutorun" /t REG_DWORD /d "0xFF" /f
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDriveTypeAutorun" /t REG_DWORD /d "0xFF" /f
+::关闭碎片整理和优化驱动器
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Windows\Defrag\ScheduledDefrag" > NUL 2>&1
 ::禁止打开劫持一些修改主页和后台下载推广的文件
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345MiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345PicHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
@@ -574,9 +634,19 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image F
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install_duba.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install_ksafe.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wzdh2345.exe" /v Debugger /t REG_SZ /d "p" /f
+::清理启动项
+attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
+attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
+del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
 
 cls
+echo 更新策略
+gpupdate /force 
+RunDll32.exe USER32.DLL,UpdatePerUserSystemParameters
+ping -n 3 127.0.0.1>nul
 del "%userprofile%\AppData\Local\iconcache.db" /f /q
 taskkill /f /im explorer.exe
 start %systemroot%\explorer
+rem start explorer
 exit
