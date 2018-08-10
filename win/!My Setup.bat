@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 18:33 2018/8/9
+rem 2:21 2018/8/10
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -252,6 +252,7 @@ reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxcui" /f > 
 ::右键菜单：清理：文件：共享（Windows 10 1709版后出现）
 reg delete "HKCR\*\shellex\ContextMenuHandlers\ModernSharing" /f > NUL 2>&1
 ::右键菜单：清理：文件：还原以前的版本
+reg delete "HKCR\Drive\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
 reg delete "HKCR\Directory\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
 reg delete "HKCR\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
 ::右键菜单：清理：文件：兼容性疑难解答
@@ -392,24 +393,24 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}" /v "InfoTip" /d "@C:
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}" /v "LocalizedString" /d "@C:\Windows\System32\ieframe.dll,-880" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell" /ve /d "Open" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\1Home" /ve /d "打开百度首页(&B)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\1Home\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" https://www.baidu.com/?tn=baiduhome" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\2Nohome" /ve /d "打开空白首页(&H)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\2Nohome\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -nohome" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\3Private" /ve /d "隐私浏览模式(&P)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\3Private\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -private" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\4NoAddOns" /ve /d "无加载项启动(&N)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\4NoAddOns\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -extoff" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\5History" /ve /d "删除历史记录(&S)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\5History\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" InetCpl.cpl,ClearMyTracksByProcess 255" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\6Clean" /ve /d "删除临时文件(&T)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\6Clean\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" InetCpl.cpl,ClearMyTracksByProcess 8" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\7Set" /ve /d "Internet 属性(&R)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\7Set\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\inetcpl.cpl" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\8Connection" /ve /d "局域网络设置(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\8Connection\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\Inetcpl.cpl,,4" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\9Net" /ve /d "网络连接选项(&W)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\9Net\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\ncpa.cpl" /f
+::reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\0Home" /ve /d "打开百度首页(&B)" /f
+::reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\0Home\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" https://www.baidu.com/?tn=baiduhome" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\1Nohome" /ve /d "打开空白首页(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\1Nohome\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -nohome" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\2Private" /ve /d "隐私浏览模式(&P)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\2Private\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -private" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\3NoAddOns" /ve /d "无加载项启动(&N)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\3NoAddOns\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\" -extoff" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\4History" /ve /d "删除历史记录(&S)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\4History\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" InetCpl.cpl,ClearMyTracksByProcess 255" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\5Clean" /ve /d "删除临时文件(&T)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\5Clean\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" InetCpl.cpl,ClearMyTracksByProcess 8" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\6Set" /ve /d "Internet 属性(&R)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\6Set\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\inetcpl.cpl" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\7Connection" /ve /d "局域网络设置(&X)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\7Connection\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\Inetcpl.cpl,,4" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\8Net" /ve /d "网络连接选项(&W)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\8Net\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\" C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\ncpa.cpl" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "HideAsDeletePerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
@@ -505,6 +506,28 @@ reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "URL" /d 
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "SuggestionsURL_JSON" /d "http://sug.so.360.cn/suggest?word={searchTerms}&encodein=utf-8&encodeout=utf-8&outfmt=json" /f
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "FaviconURL" /d "http://www.so.com/favicon.ico" /f
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "ShowSearchSuggestions" /t REG_DWORD /d 1 /f
+::正在添加 受信任站点（本地局域网）
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range1" /v "file" /t REG_DWORD /d 2 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range1" /v ":Range" /d "10.*.*.*" /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range2" /v "file" /t REG_DWORD /d 2 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range2" /v ":Range" /d "192.168.*.*" /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range3" /v "file" /t REG_DWORD /d 2 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range3" /v ":Range" /d "169.254.*.*" /f
+::启用“ActiveX控件”“JAVE小程序脚本”“活动脚本”等
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1001" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1004" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1200" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "120B" /t REG_DWORD /d 3 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1201" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1208" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1400" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1402" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1405" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1406" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1607" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1609" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "2201" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "2300" /t REG_DWORD /d 0 /f
 
 :: 7.微软拼音输入法配置选项
 ::微软拼音默认为英语输入
@@ -541,8 +564,14 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownRe
 reg add "HKLM\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownReasonOn" /t REG_DWORD /d 0 /f
 
 :: 9.系统APP默认设置项调整
+::时间和语言-区域和语言-国家和地区：调整为 中国
+::reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "45" /f
+::reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "CN" /f
+::时间和语言-区域和语言-国家和地区：调整为 新加坡
+reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "215" /f >nul 2>nul
+reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "SG" /f >nul 2>nul
 ::Windows Media Player 不显示首次使用对话框
-reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f > NUL 2>&1
 ::记事本显示状态栏
 reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
 ::记事本自动换行
@@ -625,8 +654,6 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\S
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 77 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
 ::关闭打开  本地  文件的“安全警告”
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Associations" /v "ModRiskFileTypes" /d ".7z;.cab;.bat;.chm;.cmd;.exe;.js;.msi;.rar;.reg;.vbs;.zip" /f
-::关闭打开 局域网 文件的“安全警告”（Internet选项：加载应用程序和不安全文件时不提示）
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
 ::在未安装通过微软注册的杀软的情况下关闭Windows Security Center ：1、点击“主页”→“病毒和威胁防护”，关闭“实时保护”；
 reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
 ::关闭Windows Defender Antivirus Service：帮助用户防止恶意软件及其他潜在的垃圾软件。(Windows Defender 改为手动启动)
@@ -661,6 +688,18 @@ attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*
 attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
 del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
 del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+
+:: 15.APP注册设置
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "累累" /f
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
+
+reg add "HKCU\Software\WinRAR\Profiles\0" /v "RAR5" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\WinRAR\Profiles\0" /v "Default" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Lock" /t REG_DWORD /d 1 /f
+reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Size" /t REG_DWORD /d 3 /f
+
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P3-53277-00266-22015-17826-26086-07902" /f
 
 cls
 echo 更新策略

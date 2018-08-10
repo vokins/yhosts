@@ -7,6 +7,9 @@ SetLocal EnableDelayedExpansion
 TITLE Windows 10 调整工具
 COLOR 0a
 
+::关闭打开 局域网 文件的“安全警告”（Internet选项：加载应用程序和不安全文件时不提示）
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
+
 ::隐藏导航栏 桌面 OneDrive  Windows10 自带网盘
 reg delete "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f
 ::删除OneDrive
@@ -62,14 +65,6 @@ bcdedit /set TESTSIGNING ON
 ::bcdedit /set loadoptions DENABLE_INTEGRITY_CHECKS
 ::bcdedit /set TESTSIGNING OFF
 
-:: 15.APP注册设置
-reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "累累" /f
-reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
-
-reg add "HKCU\Software\WinRAR\Profiles\0" /v "RAR5" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\WinRAR\Profiles\0" /v "Default" /t REG_DWORD /d 1 /f
-reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Lock" /t REG_DWORD /d 1 /f
-reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Size" /t REG_DWORD /d 3 /f
 
 echo 更新策略
 gpupdate /force 
