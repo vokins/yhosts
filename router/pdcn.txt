@@ -1,5 +1,4 @@
 手动添加到定时任务crontab（在 系统管理 - 服务 -计划任务 (Crontab) 里）
-00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf -O /etc/storage/dnsmasq/dnsmasq/union.conf;restart_dhcpd
-00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf -O /etc/storage/dnsmasq/dnsmasq/ip.conf;restart_dhcpd
-00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/sy618/hosts/master/dnsmasq/dnsfq -O /etc/storage/dnsmasq/dnsmasq/dnsfq.conf;restart_dhcpd
+00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf -O /etc/storage/dnsmasq/dnsmasq.d/union.conf;restart_dhcpd
+00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf -O /etc/storage/dnsmasq/dnsmasq.d/ip.conf;restart_dhcpd
 00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;restart_dhcpd

@@ -212,6 +212,7 @@
 127.0.0.1 phs.tanx.com
 #taobao
 127.0.0.1 acs4baichuan.m.taobao.com
+127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashx.m.taobao.com
@@ -2425,6 +2426,19 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 c.xznykf.org
+127.0.0.1 dwa.okwan.cn
+127.0.0.1 e.hk7799.net
+127.0.0.1 fei232.bhzje7ua9.com
+127.0.0.1 kas.keydot.net
+127.0.0.1 m.118ex.cn
+127.0.0.1 m.hk7799.net
+127.0.0.1 m.ienkdaged.cn
+127.0.0.1 p.mendoc.cn
+127.0.0.1 qeoa.hawbfa.com
+127.0.0.1 sqd.jstdjq.com
+127.0.0.1 www.aodongjiaosu.com
+127.0.0.1 www.xszqapp.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2829,6 +2843,47 @@
 #www.xilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
+#www.chinadaily.com.cn
+127.0.0.1 same.chinadaily.com.cn
+127.0.0.1 usercollection.chinadaily.com.cn
+#www.chinanews.com
+127.0.0.1 me.afp.chinanews.com
+#www.gmw.cn
+127.0.0.1 ad.gmw.cn
+#www.huanqiu.com
+127.0.0.1 boardx.huanqiu.com
+127.0.0.1 interactive.huanqiu.com
+127.0.0.1 ipengtai.huanqiu.com
+#www.infzm.com
+127.0.0.1 stats.infzm.com
+127.0.0.1 x.infzm.com
+127.0.0.1 sgg.southcn.com
+#www.people.com.cn
+127.0.0.1 pmm.people.com.cn
+#www.xinhuanet.com
+127.0.0.1 tmisc.home.news.cn
+127.0.0.1 webd.home.news.cn
+#www.ynet.com
+127.0.0.1 gao.ynet.com
+127.0.0.1 trace.ynet.com
+#yangjinyou.com
+127.0.0.1 ad1.yangjinyou.com
+127.0.0.1 ad2.yangjinyou.com
+#m.heiguang.com
+127.0.0.1 pro.heiguang.com
+#m.poco.cn
+127.0.0.1 a-m-s.poco.cn
+#www.fengniao.com
+127.0.0.1 pic.fengniao.com
+127.0.0.1 stat.fengniao.com
+127.0.0.1 js.fengniao.com
+#www.nipic.com
+127.0.0.1 bd1.nipic.com
+127.0.0.1 bd2.nipic.com
+#www.nphoto.net
+127.0.0.1 util.nphoto.net
+#ww.xitek.com
+127.0.0.1 www8.xitek.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.21shebao.com
 127.0.0.1 1.chcx.cn
@@ -3020,7 +3075,6 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.mhxy.org.cn
 127.0.0.1 c.mightiger.net
-127.0.0.1 c.mipcdn.com
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
@@ -3047,6 +3101,7 @@
 127.0.0.1 c.vip97.net
 127.0.0.1 c.wechat.jx.cn
 127.0.0.1 c.xianguonongchang.org
+127.0.0.1 c.xznykf.org
 127.0.0.1 c.ylist.cn
 127.0.0.1 c.ynlysg.com
 127.0.0.1 c.zgnm.cc
@@ -3800,6 +3855,7 @@
 127.0.0.1 m.huyulh.com
 127.0.0.1 m.hyzui.com
 127.0.0.1 m.icyrd.com
+127.0.0.1 m.ienkdaged.cn
 127.0.0.1 m.ienkdago.cn
 127.0.0.1 m.infvb.com
 127.0.0.1 m.iorgb.com
@@ -4220,6 +4276,7 @@
 127.0.0.1 sou.xanbhx.com
 127.0.0.1 sp.wndoor.com
 127.0.0.1 sp5.jkjjkj.top
+127.0.0.1 sqd.jstdjq.com
 127.0.0.1 src.duanxin520.com
 127.0.0.1 src.zf313.com
 127.0.0.1 ss.cnczjy.com
@@ -4692,47 +4749,6 @@
 127.0.0.1 zzy1.mipujia.com
 127.0.0.1 zzz7.52896368.com
 127.0.0.1 zzzzz4.52896368.com
-#www.chinadaily.com.cn
-127.0.0.1 same.chinadaily.com.cn
-127.0.0.1 usercollection.chinadaily.com.cn
-#www.chinanews.com
-127.0.0.1 me.afp.chinanews.com
-#www.gmw.cn
-127.0.0.1 ad.gmw.cn
-#www.huanqiu.com
-127.0.0.1 boardx.huanqiu.com
-127.0.0.1 interactive.huanqiu.com
-127.0.0.1 ipengtai.huanqiu.com
-#www.infzm.com
-127.0.0.1 stats.infzm.com
-127.0.0.1 x.infzm.com
-127.0.0.1 sgg.southcn.com
-#www.people.com.cn
-127.0.0.1 pmm.people.com.cn
-#www.xinhuanet.com
-127.0.0.1 tmisc.home.news.cn
-127.0.0.1 webd.home.news.cn
-#www.ynet.com
-127.0.0.1 gao.ynet.com
-127.0.0.1 trace.ynet.com
-#yangjinyou.com
-127.0.0.1 ad1.yangjinyou.com
-127.0.0.1 ad2.yangjinyou.com
-#m.heiguang.com
-127.0.0.1 pro.heiguang.com
-#m.poco.cn
-127.0.0.1 a-m-s.poco.cn
-#www.fengniao.com
-127.0.0.1 pic.fengniao.com
-127.0.0.1 stat.fengniao.com
-127.0.0.1 js.fengniao.com
-#www.nipic.com
-127.0.0.1 bd1.nipic.com
-127.0.0.1 bd2.nipic.com
-#www.nphoto.net
-127.0.0.1 util.nphoto.net
-#ww.xitek.com
-127.0.0.1 www8.xitek.com
 #www.21cn.com
 127.0.0.1 admarket.21cn.com
 127.0.0.1 adshows.21cn.com
@@ -6608,6 +6624,7 @@
 127.0.0.1 app.wumii.com
 127.0.0.1 www.umiwi.com
 #xdrig.com
+127.0.0.1 adt.xdrig.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
 127.0.0.1 me.xdrig.com

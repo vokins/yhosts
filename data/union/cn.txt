@@ -1152,6 +1152,7 @@
 127.0.0.1 app.wumii.com
 127.0.0.1 www.umiwi.com
 #xdrig.com
+127.0.0.1 adt.xdrig.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
 127.0.0.1 me.xdrig.com

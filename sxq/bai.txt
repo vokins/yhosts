@@ -16,6 +16,7 @@ btkitty.fyi
 btkitty.pet
 btlibrary.cc
 btwhat.org
+c.mipcdn.com
 cdn.bootcss.com
 cdn.jsdelivr.net
 chuanyuezhe.yetianzi.com

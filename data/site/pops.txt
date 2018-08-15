@@ -189,7 +189,6 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.mhxy.org.cn
 127.0.0.1 c.mightiger.net
-127.0.0.1 c.mipcdn.com
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
@@ -216,6 +215,7 @@
 127.0.0.1 c.vip97.net
 127.0.0.1 c.wechat.jx.cn
 127.0.0.1 c.xianguonongchang.org
+127.0.0.1 c.xznykf.org
 127.0.0.1 c.ylist.cn
 127.0.0.1 c.ynlysg.com
 127.0.0.1 c.zgnm.cc
@@ -969,6 +969,7 @@
 127.0.0.1 m.huyulh.com
 127.0.0.1 m.hyzui.com
 127.0.0.1 m.icyrd.com
+127.0.0.1 m.ienkdaged.cn
 127.0.0.1 m.ienkdago.cn
 127.0.0.1 m.infvb.com
 127.0.0.1 m.iorgb.com
@@ -1389,6 +1390,7 @@
 127.0.0.1 sou.xanbhx.com
 127.0.0.1 sp.wndoor.com
 127.0.0.1 sp5.jkjjkj.top
+127.0.0.1 sqd.jstdjq.com
 127.0.0.1 src.duanxin520.com
 127.0.0.1 src.zf313.com
 127.0.0.1 ss.cnczjy.com
