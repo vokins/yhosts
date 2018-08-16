@@ -8,6 +8,9 @@
 127.0.0.1 m.ienkdaged.cn
 127.0.0.1 p.mendoc.cn
 127.0.0.1 qeoa.hawbfa.com
+127.0.0.1 s.dpcq1.net
 127.0.0.1 sqd.jstdjq.com
 127.0.0.1 www.aodongjiaosu.com
+127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.xszqapp.com
+127.0.0.1 xiaoshuo.kp53.cn

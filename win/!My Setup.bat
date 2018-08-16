@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 0:07 2018/8/15
+rem 11:05 2018/8/16
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -552,6 +552,8 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownRe
 reg add "HKLM\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows NT\Reliability" /v "ShutdownReasonOn" /t REG_DWORD /d 0 /f
 ::禁止自动安装推荐的应用程序
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SilentInstalledAppsEnabled" /t REG_DWORD /d "0" /f
+::关闭Microsoft消费者体验（禁止自动安装游戏与应用）
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v "DisableWindowsConsumerFeatures" /t REG_DWORD /d 1 /f
 
 :: 9.系统APP默认设置项调整
 ::时间和语言-区域和语言-国家和地区：调整为 中国

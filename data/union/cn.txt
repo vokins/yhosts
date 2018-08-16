@@ -1155,6 +1155,7 @@
 127.0.0.1 adt.xdrig.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
+127.0.0.1 cloud.xdrig.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 pg.xdrig.com
 127.0.0.1 xdrig.com

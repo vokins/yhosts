@@ -197,6 +197,7 @@
 #ali-umeng
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
+127.0.0.1 ar.umeng.com
 127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 oc.umeng.com

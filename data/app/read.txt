@@ -27,6 +27,8 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 js.51taifu.com
 127.0.0.1 wl.51taifu.com
+#https://www.ruguoapp.com/
+127.0.0.1 sensorsdata.ruguoapp.com
 #http://itaoxiaoshuo.com/
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 itaoxiaoshuo.com

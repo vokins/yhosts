@@ -356,6 +356,7 @@
 #ali-umeng
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
+127.0.0.1 ar.umeng.com
 127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 oc.umeng.com
@@ -2263,6 +2264,8 @@
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 js.51taifu.com
 127.0.0.1 wl.51taifu.com
+#https://www.ruguoapp.com/
+127.0.0.1 sensorsdata.ruguoapp.com
 #http://itaoxiaoshuo.com/
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 itaoxiaoshuo.com
@@ -2436,9 +2439,12 @@
 127.0.0.1 m.ienkdaged.cn
 127.0.0.1 p.mendoc.cn
 127.0.0.1 qeoa.hawbfa.com
+127.0.0.1 s.dpcq1.net
 127.0.0.1 sqd.jstdjq.com
 127.0.0.1 www.aodongjiaosu.com
+127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.xszqapp.com
+127.0.0.1 xiaoshuo.kp53.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -6627,6 +6633,7 @@
 127.0.0.1 adt.xdrig.com
 127.0.0.1 app.xdrig.com
 127.0.0.1 av1.xdrig.com
+127.0.0.1 cloud.xdrig.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 pg.xdrig.com
 127.0.0.1 xdrig.com
