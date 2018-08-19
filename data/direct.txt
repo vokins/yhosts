@@ -11,6 +11,7 @@
 @direct/official
 #Flash
 127.0.0.1 geo2.adobe.com
+127.0.0.1 get3.adobe.com
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
 #iTunes-radio

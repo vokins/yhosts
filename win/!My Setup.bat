@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 11:05 2018/8/16
+rem 21:13 2018/8/19
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -450,9 +450,14 @@ reg add "HKCU\SOFTWARE\Microsoft\Internet Explorer\Main" /v "DisableFirstRunCust
 ::127.0.0.1 ieonline.microsoft.com
 SET NEWLINE=^& echo.
 attrib -r %WINDIR%\system32\drivers\etc\hosts
+FIND /C /I "geo2.adobe.com" %WINDIR%\system32\drivers\etc\hosts
+IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 geo2.adobe.com>>%WINDIR%\system32\drivers\etc\hosts
+FIND /C /I "get3.adobe.com" %WINDIR%\system32\drivers\etc\hosts
+IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 get3.adobe.com>>%WINDIR%\system32\drivers\etc\hosts
 FIND /C /I "ieonline.microsoft.com" %WINDIR%\system32\drivers\etc\hosts
 IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 ieonline.microsoft.com>>%WINDIR%\system32\drivers\etc\hosts
 attrib +r %WINDIR%\system32\drivers\etc\hosts
+ipconfig /flushdns
 ::禁止IE自动更新检查
 reg add "HKCU\SOFTWARE\Microsoft\Internet Explorer\Main" /v "NoUpdateCheck" /t REG_DWORD /d 1 /f
 ::隐藏Internet Explorer右上角的笑脸反馈按钮

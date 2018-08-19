@@ -1,5 +1,5 @@
 
-#version=201808161111
+#version=201808192117
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -984,6 +984,7 @@
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
 127.0.0.1 geo2.adobe.com
+127.0.0.1 get3.adobe.com
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
@@ -1933,6 +1934,16 @@
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.xszqapp.com
 127.0.0.1 xiaoshuo.kp53.cn
+127.0.0.1 6a4cc.luvbq.com
+127.0.0.1 e.hissq.com
+127.0.0.1 e.hkmqp.com
+127.0.0.1 e.hogyp.com
+127.0.0.1 m.dgaoz.com
+127.0.0.1 m.gwdqp.com
+127.0.0.1 m.hissq.com
+127.0.0.1 m.hogyp.com
+127.0.0.1 rh.greenbetterkids.com
+127.0.0.1 zst.jzntxs.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

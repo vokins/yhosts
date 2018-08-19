@@ -14,3 +14,13 @@
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.xszqapp.com
 127.0.0.1 xiaoshuo.kp53.cn
+127.0.0.1 6a4cc.luvbq.com
+127.0.0.1 e.hissq.com
+127.0.0.1 e.hkmqp.com
+127.0.0.1 e.hogyp.com
+127.0.0.1 m.dgaoz.com
+127.0.0.1 m.gwdqp.com
+127.0.0.1 m.hissq.com
+127.0.0.1 m.hogyp.com
+127.0.0.1 rh.greenbetterkids.com
+127.0.0.1 zst.jzntxs.com
