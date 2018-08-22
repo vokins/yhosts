@@ -2456,6 +2456,13 @@
 127.0.0.1 m.hogyp.com
 127.0.0.1 rh.greenbetterkids.com
 127.0.0.1 zst.jzntxs.com
+127.0.0.1 b.kuangtuiguoo18888.com
+127.0.0.1 domed.shenbimall.com
+127.0.0.1 e.iruad.com
+127.0.0.1 m.adaog.com
+127.0.0.1 m.efeiy.com
+127.0.0.1 m.iruad.com
+127.0.0.1 www.jrhaigou.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
