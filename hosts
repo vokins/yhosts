@@ -1,5 +1,5 @@
 
-#version=201808221032
+#version=201808242352
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1477,7 +1477,6 @@
 127.0.0.1 canvas.gdt.qq.com
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
-127.0.0.1 res.qhupdate.com
 127.0.0.1 config.push.sogou.com
 127.0.0.1 pull.push.sogou.com
 127.0.0.1 bazinga.mse.sogou.com
@@ -1672,8 +1671,6 @@
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
 127.0.0.1 pat.farvd.com
-127.0.0.1 ms.ienkdaccessible.cn
-127.0.0.1 ms.continuedsys.cn
 127.0.0.1 service.ad.adesk.com
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
@@ -1918,18 +1915,15 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
-127.0.0.1 c.xznykf.org
 127.0.0.1 dwa.okwan.cn
 127.0.0.1 e.hk7799.net
 127.0.0.1 fei232.bhzje7ua9.com
 127.0.0.1 kas.keydot.net
 127.0.0.1 m.118ex.cn
 127.0.0.1 m.hk7799.net
-127.0.0.1 m.ienkdaged.cn
 127.0.0.1 p.mendoc.cn
 127.0.0.1 qeoa.hawbfa.com
 127.0.0.1 s.dpcq1.net
-127.0.0.1 sqd.jstdjq.com
 127.0.0.1 www.aodongjiaosu.com
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.xszqapp.com
@@ -1951,6 +1945,24 @@
 127.0.0.1 m.efeiy.com
 127.0.0.1 m.iruad.com
 127.0.0.1 www.jrhaigou.com
+127.0.0.1 6a4cc.lubue.com
+127.0.0.1 druic.mytxt.cc
+127.0.0.1 druis.mytxt.cc
+127.0.0.1 e.ccunf.com
+127.0.0.1 e.hmhqp.com
+127.0.0.1 e.jnsdkjzs.com
+127.0.0.1 e.md0z4dh.com
+127.0.0.1 e.tiojk.com
+127.0.0.1 jscdn.99pps.com
+127.0.0.1 m.ccunf.com
+127.0.0.1 m.kzqcs.com
+127.0.0.1 m.tiojk.com
+127.0.0.1 m.vbieu.com
+127.0.0.1 m.weboser.com
+127.0.0.1 sou.dkdlsj.com
+127.0.0.1 vwkhdi.cn
+127.0.0.1 wzj.ywrjgzs.com
+127.0.0.1 yao.zzsdjq.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

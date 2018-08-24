@@ -25,7 +25,6 @@
 #http://mse.360.cn/
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
-127.0.0.1 res.qhupdate.com
 #http://mse.sogou.com/
 127.0.0.1 config.push.sogou.com
 127.0.0.1 pull.push.sogou.com
