@@ -28,6 +28,7 @@
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
+127.0.0.1 yingxiao.baidu.com
 #bdimg
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com

@@ -2,7 +2,8 @@ echo 请右键“以管理员身份运行”
 ::去除休眠文件
 powercfg -h off
 
-::win7离开模式
+::win离开模式
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "AwayModeEnabled" /t REG_DWORD /d 1 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayModeEnabled /t REG_DWORD /d 00000001 /f
 
 ::右键菜单添加显示后缀隐藏文件

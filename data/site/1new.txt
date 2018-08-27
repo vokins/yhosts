@@ -46,3 +46,8 @@
 127.0.0.1 vwkhdi.cn
 127.0.0.1 wzj.ywrjgzs.com
 127.0.0.1 yao.zzsdjq.com
+127.0.0.1 1.bashenghuo.com
+127.0.0.1 2.bashenghuo.com
+127.0.0.1 1.hslyqs.com
+127.0.0.1 01daa.luvbr.com
+127.0.0.1 6a4cc.luvbr.com
