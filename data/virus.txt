@@ -24,6 +24,7 @@
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cl.xzqxzs.com
 127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 data.yd126.com
 127.0.0.1 dl.xzqxzs.com
 127.0.0.1 down.xiazaidc.com
 127.0.0.1 downlaod.xiaocen.com
@@ -73,6 +74,7 @@
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 s.xcfe.cn
 127.0.0.1 script.crazyegg.com
+127.0.0.1 shouji.yd126.com
 127.0.0.1 ss.subo.me
 127.0.0.1 static.hotjar.com
 127.0.0.1 tactics.bainv.net
@@ -132,6 +134,7 @@
 127.0.0.1 www.v00087.com
 127.0.0.1 www.v66v66.com
 127.0.0.1 www.xpjylc9977.com
+127.0.0.1 www.yd126.com
 127.0.0.1 www.ylwy168.com
 127.0.0.1 wwww.495495.com
 127.0.0.1 wwww.551144.com

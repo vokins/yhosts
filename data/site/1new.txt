@@ -51,3 +51,8 @@
 127.0.0.1 1.hslyqs.com
 127.0.0.1 01daa.luvbr.com
 127.0.0.1 6a4cc.luvbr.com
+127.0.0.1 a6s.chaojilamei.cn
+127.0.0.1 m.fbaix.com
+127.0.0.1 m.casbanlly.com
+127.0.0.1 c.v4dwkcv.com
+127.0.0.1 j.sdqoi2d.com

@@ -4,6 +4,15 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+#360-os
+127.0.0.1 adapter.shouji.360.cn
+127.0.0.1 agd.p.360.cn
+127.0.0.1 agd2.p.360.cn
+127.0.0.1 tr.p.360.cn
+127.0.0.1 iad.e.360.cn
+127.0.0.1 qstore.inner.api.sj.360.cn
+127.0.0.1 shake.360.cn
+127.0.0.1 shake.f.360.cn
 #360-tf
 127.0.0.1 e.tf.360.cn
 127.0.0.1 guess.tf.360.cn

@@ -722,7 +722,10 @@
 127.0.0.1 s.fastapi.net
 #fraudmetrix.cn
 127.0.0.1 fp.fraudmetrix.cn
+127.0.0.1 fptest.fraudmetrix.cn
+127.0.0.1 fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
+127.0.0.1 statictest.fraudmetrix.cn
 #gentags
 127.0.0.1 clk.gentags.net
 127.0.0.1 cmpp.gentags.net
