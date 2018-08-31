@@ -145,6 +145,7 @@
 127.0.0.1 s.sh.qihoo.com
 127.0.0.1 res.qhupdate.com
 127.0.0.1 tran.news.so.com
+127.0.0.1 spro.so.com
 127.0.0.1 u.api.look.360.cn
 #360.cn
 127.0.0.1 ad.dev.360.cn
@@ -2596,6 +2597,18 @@
 127.0.0.1 m.casbanlly.com
 127.0.0.1 c.v4dwkcv.com
 127.0.0.1 j.sdqoi2d.com
+127.0.0.1 e.bsnnk.com
+127.0.0.1 e.coenr.com
+127.0.0.1 e.enjuk.com
+127.0.0.1 e.fbaix.com
+127.0.0.1 m.acaox.com
+127.0.0.1 m.bsnnk.com
+127.0.0.1 m.coenr.com
+127.0.0.1 m.enjuk.com
+127.0.0.1 m.fcuit.com
+127.0.0.1 m.vbinu.com
+127.0.0.1 xau.sxmutan.com
+127.0.0.1 e.acaox.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

@@ -53,10 +53,6 @@ echo É¾³ýÁ¬½Ó
 install_wim_tweak.exe /o /c "Microsoft-PPIProjection" /r
 
 
-
-
-
-
 echo Please reboot Windows 10.
 pause&exit
 
