@@ -2609,6 +2609,8 @@
 127.0.0.1 m.vbinu.com
 127.0.0.1 xau.sxmutan.com
 127.0.0.1 e.acaox.com
+127.0.0.1 bd1.pipaw.com
+127.0.0.1 bd2.pipaw.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
