@@ -77,3 +77,4 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 irs01.com
+127.0.0.1 mivideo.g.mi.com

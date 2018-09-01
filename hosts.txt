@@ -1937,6 +1937,7 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 irs01.com
+127.0.0.1 mivideo.g.mi.com
 #http://www.bitcomet.com/
 127.0.0.1 inside.bitcomet.com
 #http://player.gomlab.com/

@@ -1,5 +1,5 @@
 
-#version=201809012019
+#version=201809012134
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1444,6 +1444,7 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 irs01.com
+127.0.0.1 mivideo.g.mi.com
 127.0.0.1 inside.bitcomet.com
 127.0.0.1 info.gomlab.com
 127.0.0.1 playinfo.gomlab.com
