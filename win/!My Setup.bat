@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 22:10 2018/8/30
+rem 23:06 2018/9/2
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
@@ -733,8 +733,9 @@ bcdedit /set {default} bootmenupolicy legacy
 ::清理启动项
 attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
 attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
-del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
-del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\GV Video IO Hardware Driver.ink" 1>nul 2>nul
+::del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\*.url" 1>nul 2>nul
 ::清空默认启动项
 ::reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
 
@@ -914,7 +915,6 @@ reg add "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Wi
 ::设置主页为百度
 reg add "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy" /v "ProtectedHomepages" /t REG_BINARY /d "01000000b537b88ba50be9f2990b6f313e97830e0d51828ea90f41e5ca0f84c7665b2ded9c940a57ee945788d18f7269aeaa7fe20536c27303ffe29e5c60eac51d09b93df2aa541d56f3f13c4e95cda43b3b13ddbaa4765e555401a41b82a05e72440f956d19002426103dd63ccc248ee40a1eb07258" /f
 
-
 ::关 位置定位,相机,麦克风,账户信息,日历,消息传送,无线电收发器,广告ID
 regedit /e "%temp%\1.reg" "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
 for /f "tokens=2 delims==" %%i in ('type "%temp%\1.reg"^|find "AutoLogonSID"') do set "SID=%%~i"
@@ -930,17 +930,29 @@ del "%temp%\1.reg" >nul 2>nul
 PowerShell Sleep 1
 
 :: 使用：APP注册设置
-:: UltraISO 注册
+::UltraISO 注册
 reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "累累" /f
 reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
-:: WinRAR 去掉右键菜单中添加的“压缩...并 E-Mail”
+::WinRAR 去掉右键菜单中添加的“压缩...并 E-Mail”
 reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailArc" /t REG_DWORD /d 0 /f
 reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailOpt" /t REG_DWORD /d 0 /f
-:: WinRAR 默认压缩格式
+::WinRAR 默认压缩格式
 reg add "HKCU\Software\WinRAR\Profiles\0" /v "RAR5" /t REG_DWORD /d 0 /f
 reg add "HKCU\Software\WinRAR\Profiles\0" /v "Default" /t REG_DWORD /d 1 /f
-:: WinRAR 锁定工具栏
+::WinRAR 锁定工具栏
 reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Lock" /t REG_DWORD /d 1 /f
+::Vegas默认使用中文
+reg add "HKLM\SOFTWARE\Sony Creative Software\Error Reporting Client\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas OFX GPU Video Plug-in Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\15.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\16.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\SfTrans1\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Video Capture\6.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+::R2R补丁注册信息完善
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P-1-305-722-5810" /f
 
 cls
 echo 更新策略

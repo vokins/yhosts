@@ -115,6 +115,21 @@
 127.0.0.1 easyrecoverychina.com
 127.0.0.1 www.easyrecoverychina.com
 127.0.0.1 xia.easyrecoverychina.com
+127.0.0.1 hypersnap.net
+127.0.0.1 pdfexpert.cc
+127.0.0.1 zhzzx.com
+127.0.0.1 logoshejishi.mairuan.com
+127.0.0.1 www.hypersnap.net
+127.0.0.1 www.hypersnap.mairuan.com
+127.0.0.1 www.yihuifu.cn
+127.0.0.1 www.mairuan.cn
+127.0.0.1 www.mairuan.net
+127.0.0.1 www.mairuan.com.cn
+127.0.0.1 www.xiazai.pdfexpert.cc
+127.0.0.1 cn.ultraiso.net
+127.0.0.1 ultraiso.net
+127.0.0.1 yuanchengxiezuo.com
+127.0.0.1 www.yuanchengxiezuo.com
 #cant del account
 127.0.0.1 a.qbao.com
 127.0.0.1 agent.qbao.com

@@ -70,3 +70,12 @@
 127.0.0.1 e.acaox.com
 127.0.0.1 bd1.pipaw.com
 127.0.0.1 bd2.pipaw.com
+127.0.0.1 e.cbeif.com
+127.0.0.1 e.irauz.com
+127.0.0.1 e.jkert.com
+127.0.0.1 e.weixingshexiangji.net
+127.0.0.1 m.cbeif.com
+127.0.0.1 m.irauz.com
+127.0.0.1 m.jkert.com
+127.0.0.1 m.weixingshexiangji.net
+127.0.0.1 zszwcp.cn
