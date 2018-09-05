@@ -79,3 +79,11 @@
 127.0.0.1 m.jkert.com
 127.0.0.1 m.weixingshexiangji.net
 127.0.0.1 zszwcp.cn
+127.0.0.1 alistatic.cn
+127.0.0.1 e.hpzyl.com
+127.0.0.1 i.jyhwt.cn
+127.0.0.1 kn.aishake.cn
+127.0.0.1 m.fcaot.com
+127.0.0.1 ping.weiduofan.com
+127.0.0.1 sbw.ysjweb.com
+127.0.0.1 staticjs.cn

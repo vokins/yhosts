@@ -961,7 +961,9 @@
 127.0.0.1 newspush.sinajs.cn
 127.0.0.1 rs.sinajs.cn
 #sina-img
+127.0.0.1 d0.sinaimg.cn
 127.0.0.1 d1.sinaimg.cn
+127.0.0.1 d2.sinaimg.cn
 127.0.0.1 d3.sinaimg.cn
 127.0.0.1 d6.sinaimg.cn
 127.0.0.1 d7.sinaimg.cn
@@ -2005,6 +2007,8 @@
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 canvas.gdt.qq.com
+127.0.0.1 pcbrowser.dd.qq.com
+127.0.0.1 stdl.qq.com
 #http://mse.360.cn/
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
@@ -2635,6 +2639,14 @@
 127.0.0.1 m.jkert.com
 127.0.0.1 m.weixingshexiangji.net
 127.0.0.1 zszwcp.cn
+127.0.0.1 alistatic.cn
+127.0.0.1 e.hpzyl.com
+127.0.0.1 i.jyhwt.cn
+127.0.0.1 kn.aishake.cn
+127.0.0.1 m.fcaot.com
+127.0.0.1 ping.weiduofan.com
+127.0.0.1 sbw.ysjweb.com
+127.0.0.1 staticjs.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -5801,6 +5813,8 @@
 127.0.0.1 www.jiubuhua.com
 127.0.0.1 xs.1drj.com
 127.0.0.1 z.clickvip.shop
+127.0.0.1 dd.wx16999.com
+127.0.0.1 weixin.renrenying.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

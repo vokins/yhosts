@@ -70,7 +70,9 @@
 127.0.0.1 newspush.sinajs.cn
 127.0.0.1 rs.sinajs.cn
 #sina-img
+127.0.0.1 d0.sinaimg.cn
 127.0.0.1 d1.sinaimg.cn
+127.0.0.1 d2.sinaimg.cn
 127.0.0.1 d3.sinaimg.cn
 127.0.0.1 d6.sinaimg.cn
 127.0.0.1 d7.sinaimg.cn

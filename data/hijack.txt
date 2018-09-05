@@ -234,6 +234,8 @@
 127.0.0.1 www.jiubuhua.com
 127.0.0.1 xs.1drj.com
 127.0.0.1 z.clickvip.shop
+127.0.0.1 dd.wx16999.com
+127.0.0.1 weixin.renrenying.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
