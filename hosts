@@ -1,5 +1,5 @@
 
-#version=201809052245
+#version=201809052251
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -630,6 +630,7 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 gia.jd.com
