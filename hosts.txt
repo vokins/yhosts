@@ -2648,6 +2648,16 @@
 127.0.0.1 ping.weiduofan.com
 127.0.0.1 sbw.ysjweb.com
 127.0.0.1 staticjs.cn
+127.0.0.1 6a4cc.luytr.com
+127.0.0.1 e.ckikq.com
+127.0.0.1 e.dsjre.com
+127.0.0.1 e.xlsschina15.net
+127.0.0.1 gopig.io
+127.0.0.1 m.bdiae.com
+127.0.0.1 m.ckikq.com
+127.0.0.1 m.dsjre.com
+127.0.0.1 m.xlsschina15.net
+127.0.0.1 raw.okwan.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

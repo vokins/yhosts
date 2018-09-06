@@ -1,11 +1,23 @@
 @ECHO OFF
-rem 23:06 2018/9/2
+rem 21:50 2018-09-06
+cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
 Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableDelayedExpansion
 TITLE Windows 10 调整工具
 COLOR 0a
+
+copy /y "Notepad2.exe" "%SystemRoot%\System32"
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\System32\Notepad2.exe\" /z" /f
+::OEM信息
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Manufacturer" /d "Sky Eiga Inc." /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Model" /d "ASUS TUF X470-PLUS + SAPPHIRE RX580 8G D5 + KLEVV DDR4 3000" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportPhone" /d "（ASUS）400-620-6655  （MSI）400-828-8588" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportURL" /d "https://www.asus.com.cn/supportonly/TUF X470-PLUS GAMING/HelpDesk_Download/" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportHours" /d "（ASUS） 00:00 - 24:00   （MSI）  9:00 - 18:00    /   周一至周日" /f
+::copy /y "OEMLOGO.bmp" "%SystemRoot%\System32"
+::reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "logo" /d "C:\Windows\System32\OEMLOGO.bmp" /f
 
 :: 清空剪贴版
 mshta vbscript:clipboardData.SetData("text","")(close)
@@ -326,10 +338,6 @@ del /f /s /q "%userprofile%\recent\*.*" > NUL 2>&1
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer" /v "ShowRecent" /t REG_DWORD /d 0 /f
 ::不在“快速访问”中显示常用文件夹
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer" /v "ShowFrequent" /t REG_DWORD /d 0 /f
-::显示指定文件类型的扩展名
-reg add "HKCR\exefile" /v "AlwaysShowExt" /d "" /f
-reg add "HKCR\regfile" /v "AlwaysShowExt" /d "" /f
-reg add "HKCR\batfile" /v "AlwaysShowExt" /d "" /f
 
 :: 视觉：桌面
 ::在桌面显示 计算机-此电脑（我的电脑）
@@ -343,6 +351,10 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer" /v link /d "00
 ::显示已知文件类型的扩展名
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v HideFileExt /t REG_DWORD /d 0 /f
 reg add "HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /f /v "HideFileExt" /t REG_DWORD /d 0
+::强制显示指定文件类型的扩展名
+reg add "HKCR\exefile" /v "AlwaysShowExt" /d "" /f
+reg add "HKCR\regfile" /v "AlwaysShowExt" /d "" /f
+reg add "HKCR\batfile" /v "AlwaysShowExt" /d "" /f
 ::删除桌面Microsoft Edge快捷方式
 set "reg=HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
 for /f "tokens=2*" %%a in ('reg query "%reg%" /v desktop') do set "desktop=%%b"
@@ -538,9 +550,9 @@ SCHTASKS /Change /Disable /TN "\Microsoft\XblGameSave\XblGameSaveTask"
 ::Adobe
 SCHTASKS /Change /DISABLE /TN "\AdobeAAMUpdater-1.0-%computername%-%username%"
 ::Office遥测代理的后台任务
-SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack"
-SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn"
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\Office 15 Subscription Heartbeat"
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn2016"
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack2016"
 
 ::卸载 OneDrive
 taskkill /f /im explorer.exe > NUL 2>&1
@@ -897,7 +909,7 @@ IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 ieonline.microsoft.com>>%WINDIR%\
 attrib +r %WINDIR%\system32\drivers\etc\hosts
 ipconfig /flushdns
 ::禁止一联网就打开浏览器
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator" /v "NoActiveProbe" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator" /v "NoActiveProbe" /t REG_DWORD /d 1 /f
 
 ::Edge
 ::阻止Microsoft Edge“首次运行”欢迎页面
