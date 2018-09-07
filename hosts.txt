@@ -2658,6 +2658,10 @@
 127.0.0.1 m.dsjre.com
 127.0.0.1 m.xlsschina15.net
 127.0.0.1 raw.okwan.cn
+127.0.0.1 01daa.luytr.com
+127.0.0.1 api.ketedata.com
+127.0.0.1 e.hjryl.com
+127.0.0.1 m.sbenx.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -7986,6 +7990,7 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 xz.ercfh.com
+127.0.0.1 h5.jiumaster.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net

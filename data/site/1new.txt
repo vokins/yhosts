@@ -97,3 +97,7 @@
 127.0.0.1 m.dsjre.com
 127.0.0.1 m.xlsschina15.net
 127.0.0.1 raw.okwan.cn
+127.0.0.1 01daa.luytr.com
+127.0.0.1 api.ketedata.com
+127.0.0.1 e.hjryl.com
+127.0.0.1 m.sbenx.com

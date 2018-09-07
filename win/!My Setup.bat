@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 21:50 2018-09-06
+rem 11:33 2018-09-07
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -613,7 +613,6 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" 
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "PreInstalledAppsEnabled" /t REG_DWORD /d 0 /f
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /f
 
-
 ::禁止 偶尔在开始菜单中显示建议
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338388Enabled" /t REG_DWORD /d 0 /f
 ::禁止 在锁屏界面上获取花絮、提示、技巧
@@ -827,12 +826,14 @@ reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Restrictions" /v "No
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Start Page" /d "about:blank" /f
 ::设置IE默认主页Default_Page_URL
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Default_Page_URL" /d "about:blank" /f
+::设置IE主页
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Start Page" /d "https://www.baidu.com/?tn=baiduhome" /f
 ::设置默认搜索
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Default_Search_URL" /d "https://www.baidu.com/s?tn=baiduhome&wd=%s" /f
 ::设置默认搜索页面
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Search Page" /d "https://www.baidu.com/" /f
-::设置IE主页
-reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Start Page" /d "https://www.baidu.com/?tn=baiduhome" /f
+::停用百度个性化配置工具设置 历史纪录设置需要登陆：https://www.baidu.com/duty/privacysettings.html
+start iexplore.exe https://www.baidu.com/duty/safe_control.html
 ::启用表单的自动完成功能
 reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Use FormSuggest" /d "yes" /f
 ::关闭多个选项卡时不发出警告
