@@ -1,5 +1,5 @@
 
-#version=201809071459
+#version=201809091726
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2033,6 +2033,12 @@
 127.0.0.1 api.ketedata.com
 127.0.0.1 e.hjryl.com
 127.0.0.1 m.sbenx.com
+127.0.0.1 ldy.adqku.cn
+127.0.0.1 m.sjaidu.com
+127.0.0.1 photo.qianerbai.cn
+127.0.0.1 photo.zhanhevr.cn
+127.0.0.1 pic.new400.cn
+127.0.0.1 xxp.gytygc.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

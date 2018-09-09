@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 11:33 2018-09-07
+rem 13:44 2018-09-09
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -572,12 +572,11 @@ reg delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f
 
 :: 使用：更新和安装
 ::关闭驱动自动更新（禁止更新）
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "ExcludeWUDriversInQualityUpdate" /t REG_DWORD /d 1 /f
+::reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "ExcludeWUDriversInQualityUpdate" /t REG_DWORD /d 1 /f
 ::关闭系统自动更新（手动更新）
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\wuauserv" /v "Start" /t REG_DWORD /d 3 /f
 ::关闭 打开未知文件方式时 从应用商店选择其它应用
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "NoUseStoreOpenWith" /t REG_DWORD /d 1 /f
-
 
 ::系统-通知和操作：更新后向我显示“欢迎使用Windows体验”，并在我登陆时突出显示新增内容和建议的内容
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-310093Enabled" /t REG_DWORD /d 0 /f
@@ -733,6 +732,11 @@ reg delete "HKCR\.mpeg\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.mpg\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.rmvb\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.wmv\ShellEx" /f >nul 2>nul
+
+::fix chm
+regsvr32 /s hhctrl.ocx
+regsvr32 /s itircl.dll
+regsvr32 /s itss.dll
 
 :: 使用：启动 性能
 ::启动和故障恢复：开机：设置开机磁盘扫描等待时间为1秒

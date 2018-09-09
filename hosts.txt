@@ -1170,8 +1170,10 @@
 127.0.0.1 stat.m.jd.com
 127.0.0.1 union-click.jd.com
 #eMail&SMS
+127.0.0.1 0x5.me
 127.0.0.1 12i.cn
 127.0.0.1 13yg.cn
+127.0.0.1 4g0.cc
 127.0.0.1 dc.tt
 127.0.0.1 dpurl.cn
 127.0.0.1 h9p9.cn
@@ -1188,6 +1190,7 @@
 127.0.0.1 weq.me
 127.0.0.1 www.w1a.cc
 127.0.0.1 www.z8o.cn
+#127.0.0.1 t.cn
 @errorpage/click
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 go.fcwr8.com
@@ -2662,6 +2665,12 @@
 127.0.0.1 api.ketedata.com
 127.0.0.1 e.hjryl.com
 127.0.0.1 m.sbenx.com
+127.0.0.1 ldy.adqku.cn
+127.0.0.1 m.sjaidu.com
+127.0.0.1 photo.qianerbai.cn
+127.0.0.1 photo.zhanhevr.cn
+127.0.0.1 pic.new400.cn
+127.0.0.1 xxp.gytygc.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

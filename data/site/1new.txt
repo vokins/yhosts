@@ -101,3 +101,9 @@
 127.0.0.1 api.ketedata.com
 127.0.0.1 e.hjryl.com
 127.0.0.1 m.sbenx.com
+127.0.0.1 ldy.adqku.cn
+127.0.0.1 m.sjaidu.com
+127.0.0.1 photo.qianerbai.cn
+127.0.0.1 photo.zhanhevr.cn
+127.0.0.1 pic.new400.cn
+127.0.0.1 xxp.gytygc.com
