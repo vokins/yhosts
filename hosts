@@ -1,5 +1,5 @@
 
-#version=201809091726
+#version=201809092218
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1001,6 +1001,8 @@
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 ieonline.microsoft.com
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
 120.52.19.113 bbs.pcbeta.com
 120.52.19.113 cdn.pcbeta.attachment.inimc.com
 120.52.19.113 cdn.pcbeta.css.inimc.com
@@ -2039,6 +2041,7 @@
 127.0.0.1 photo.zhanhevr.cn
 127.0.0.1 pic.new400.cn
 127.0.0.1 xxp.gytygc.com
+127.0.0.1 m.dbaiz.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

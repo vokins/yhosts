@@ -107,3 +107,4 @@
 127.0.0.1 photo.zhanhevr.cn
 127.0.0.1 pic.new400.cn
 127.0.0.1 xxp.gytygc.com
+127.0.0.1 m.dbaiz.com
