@@ -108,3 +108,9 @@
 127.0.0.1 pic.new400.cn
 127.0.0.1 xxp.gytygc.com
 127.0.0.1 m.dbaiz.com
+127.0.0.1 e.mqgpo.com
+127.0.0.1 e.xxkio.com
+127.0.0.1 jrpt.jrptweb.org
+127.0.0.1 m.djhhy.com
+127.0.0.1 m.mqgpo.com
+127.0.0.1 m.xxkio.com
