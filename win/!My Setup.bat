@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:01 2018-09-11
+rem 0:18 2018/9/15
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -750,13 +750,17 @@ bcdedit /timeout 2
 ::启动设置开机按F8键直接进入安全模式
 bcdedit /set {default} bootmenupolicy legacy
 ::清理启动项
-attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
 attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
+::解决开机启动自动打开desktop.ini
+attrib +s +h "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
+attrib +s +h "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\desktop.ini"
 del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\GV Video IO Hardware Driver.ink" 1>nul 2>nul
 ::del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
 del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\*.url" 1>nul 2>nul
 ::清空默认启动项
 ::reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
+
 
 ::启用Win离开模式
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "AwayModeEnabled" /t REG_DWORD /d 1 /f
