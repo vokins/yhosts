@@ -2707,6 +2707,8 @@
 127.0.0.1 zhuuv.maoyumao.net
 127.0.0.1 pad.zhywyl.cn
 127.0.0.1 photo.lyghjzs.cn
+127.0.0.1 m.nuxyz.cn
+127.0.0.1 m.yalayi.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

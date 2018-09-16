@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 0:51 2018/9/17
+rem 1:31 2018/9/17
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -641,6 +641,8 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\S
 ::重新注册全部 PowerShell Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 ::3DBuilder
 PowerShell "Get-AppxPackage *Microsoft.3DBuilder* | Remove-AppxPackage"
+::Advertising.Xaml
+PowerShell "Get-AppxPackage *Microsoft.Advertising.Xaml* | Remove-AppxPackage"
 ::天气
 PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
 ::获取帮助
@@ -649,16 +651,30 @@ PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
 ::消息
 PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
+::MSPaint
+PowerShell "Get-AppxPackage *Microsoft.Microsoft.MSPaint* | Remove-AppxPackage"
 ::3DViewer
 PowerShell "Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage"
 ::Office Hub
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
 ::Microsoft Solitaire Collection
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
-::Sticky Notes
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
+::NetworkSpeedTest
+PowerShell "Get-AppxPackage *Microsoft.NetworkSpeedTest* | Remove-AppxPackage"
 ::Office OneNote
 PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
+::Office Sway
+PowerShell "Get-AppxPackage *Microsoft.Office.Sway* | Remove-AppxPackage"
+::RemoteDesktop
+PowerShell "Get-AppxPackage *Microsoft.RemoteDesktop* | Remove-AppxPackage"
+::Services.Store.Engagement
+PowerShell "Get-AppxPackage *Microsoft.Services.Store.Engagement* | Remove-AppxPackage"
+::Sticky Notes
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
+::Todos
+PowerShell "Get-AppxPackage *Microsoft.Todos* | Remove-AppxPackage"
+::Whiteboard
+PowerShell "Get-AppxPackage *Microsoft.Whiteboard* | Remove-AppxPackage"
 ::连接
 PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
 ::人脉
@@ -682,7 +698,7 @@ PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
 ::语音录音机
 PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
 ::日历和邮件
-PowerShell "Get-AppxPackage *Microsoft.windowscommunicationsapps* | Remove-AppxPackage"
+PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
 ::Xbox
 PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
@@ -851,7 +867,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Default_Search_URL"
 ::设置默认搜索页面
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Search Page" /d "https://www.baidu.com/" /f
 ::停用百度个性化配置工具设置 历史纪录设置需要登陆：https://www.baidu.com/duty/privacysettings.html
-start iexplore.exe https://www.baidu.com/duty/safe_control.html
+::start iexplore.exe https://www.baidu.com/duty/safe_control.html
 ::启用表单的自动完成功能
 reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Use FormSuggest" /d "yes" /f
 ::关闭多个选项卡时不发出警告
