@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 0:18 2018/9/15
+rem 0:51 2018/9/17
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -253,10 +253,9 @@ reg delete "HKCR\Folder\shell\pintohome" /f > NUL 2>&1
 ::清理：磁盘文件夹：“包含到库中”
 reg delete "HKCR\Folder\shellex\ContextMenuHandlers\Library Location" /f > NUL 2>&1
 ::清理：图片/音乐右键菜单中的“Windows Media Player”选项
-Windows Media Player
-reg delete "HKCR\SystemFileAssociations\audio\shell" /f
-reg delete "HKCR\SystemFileAssociations\Directory.Audio\shell" /f
-reg delete "HKCR\SystemFileAssociations\Directory.Image\shell" /f
+reg delete "HKCR\SystemFileAssociations\audio\shell" /f > NUL 2>&1
+reg delete "HKCR\SystemFileAssociations\Directory.Audio\shell" /f > NUL 2>&1
+reg delete "HKCR\SystemFileAssociations\Directory.Image\shell" /f > NUL 2>&1
 ::清理：文件：图片：使用画图3D进行编辑
 reg delete "HKCR\SystemFileAssociations\.bmp\Shell\3D Edit" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.jpg\Shell\3D Edit" /f > NUL 2>&1
@@ -508,7 +507,6 @@ sc config SysMain start= disabled
 ::Windows Media Player Network Sharing Service
 sc config WMPNetworkSvc start= disabled
 ::Windows Search
-sc stop wsearch
 taskkill /f /im searchui.exe > NUL 2>&1
 sc config WSearch start= disabled
 ::零售演示服务
