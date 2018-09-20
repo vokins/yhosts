@@ -1,5 +1,5 @@
 
-#version=20180917 135
+#version=201809202310
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2074,6 +2074,21 @@
 127.0.0.1 photo.lyghjzs.cn
 127.0.0.1 m.nuxyz.cn
 127.0.0.1 m.yalayi.com
+127.0.0.1 s3.rongnews.com
+127.0.0.1 01daa.lutci.com
+127.0.0.1 ana.tatahn.com
+127.0.0.1 dsjsee.dqgpb.com
+127.0.0.1 e.nejup.com
+127.0.0.1 e.suehy.com
+127.0.0.1 img.zx590.com
+127.0.0.1 m.gcaij.com
+127.0.0.1 m.nejup.com
+127.0.0.1 m.suehy.com
+127.0.0.1 m.vbaou.com
+127.0.0.1 m.yzjlsb.com
+127.0.0.1 www.0086555.com
+127.0.0.1 www.jmxlaser.com
+127.0.0.1 ytmx.2r3485.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2282,6 +2297,7 @@
 127.0.0.1 yuyue008.cn
 127.0.0.1 zlsw.nnjxqd.com
 127.0.0.1 zxh.bzshzx.com
+127.0.0.1 d.s11.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
