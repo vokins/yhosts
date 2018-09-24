@@ -155,3 +155,16 @@
 127.0.0.1 www.0086555.com
 127.0.0.1 www.jmxlaser.com
 127.0.0.1 ytmx.2r3485.cn
+127.0.0.1 e.acaog.com
+127.0.0.1 e.sosjyx.com
+127.0.0.1 e.zkwsdf.com
+127.0.0.1 go.gogolm.xyz
+127.0.0.1 lwq.wangketuan.com
+127.0.0.1 m.sbinx.com
+127.0.0.1 m.sosjyx.com
+127.0.0.1 m.xhaiu.com
+127.0.0.1 m.zkwsdf.com
+127.0.0.1 nsy.hnzyfs.com
+127.0.0.1 www.ncoyqc.com
+127.0.0.1 www.xiaohui2.cn
+127.0.0.1 xhtd.99hg.wang
