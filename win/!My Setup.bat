@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 23:05 2018/9/20
+rem 11:56 2018/9/27
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -12,14 +12,6 @@ COLOR 0a
 
 copy /y "Notepad2.exe" "%SystemRoot%\System32"
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\System32\Notepad2.exe\" /z" /f
-::OEM信息
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Manufacturer" /d "Sky Eiga Inc." /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Model" /d "ASUS TUF X470-PLUS + SAPPHIRE RX580 8G D5 + KLEVV DDR4 3000" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportPhone" /d "（ASUS）400-620-6655  （MSI）400-828-8588" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportURL" /d "https://www.asus.com.cn/supportonly/TUF X470-PLUS GAMING/HelpDesk_Download/" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportHours" /d "（ASUS） 00:00 - 24:00   （MSI）  9:00 - 18:00    /   周一至周日" /f
-::copy /y "OEMLOGO.bmp" "%SystemRoot%\System32"
-::reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "logo" /d "C:\Windows\System32\OEMLOGO.bmp" /f
 
 :: 清空剪贴版
 mshta vbscript:clipboardData.SetData("text","")(close)

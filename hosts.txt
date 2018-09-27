@@ -2737,6 +2737,16 @@
 127.0.0.1 www.ncoyqc.com
 127.0.0.1 www.xiaohui2.cn
 127.0.0.1 xhtd.99hg.wang
+127.0.0.1 aibangzs.com
+127.0.0.1 e.jioeg.com
+127.0.0.1 e.neijh.com
+127.0.0.1 e.vbaiu.com
+127.0.0.1 m.gcheg.com
+127.0.0.1 m.jioeg.com
+127.0.0.1 m.neijh.com
+127.0.0.1 m.qhuik.com
+127.0.0.1 x.bikaer.com
+127.0.0.1 yzh.jyjhkz.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
