@@ -1,5 +1,5 @@
 
-#version=201809271240
+#version=201809271245
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2115,6 +2115,7 @@
 127.0.0.1 x.bikaer.com
 127.0.0.1 yzh.jyjhkz.com
 127.0.0.1 count.knowsky.com
+127.0.0.1 09_19.supfree.net
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

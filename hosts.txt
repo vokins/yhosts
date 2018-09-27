@@ -1191,6 +1191,7 @@
 127.0.0.1 u51.me
 127.0.0.1 u6.gg
 127.0.0.1 uee.me
+127.0.0.1 url.ms
 127.0.0.1 v.u22l.cc
 127.0.0.1 v68.ink
 127.0.0.1 weq.me
@@ -2750,6 +2751,7 @@
 127.0.0.1 x.bikaer.com
 127.0.0.1 yzh.jyjhkz.com
 127.0.0.1 count.knowsky.com
+127.0.0.1 09_19.supfree.net
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
