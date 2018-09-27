@@ -62,15 +62,24 @@
 #miui-weather
 127.0.0.1 wtradv.market.xiaomi.com
 #miui-wps
+127.0.0.1 cloudservice12.kingsoft-office-service.com
 127.0.0.1 cloudservice13.kingsoft-office-service.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice27.kingsoft-office-service.com
+127.0.0.1 moupdate1.kingsoft-office-service.com
 127.0.0.1 mo.res.wpscdn.cn
+127.0.0.1 crashes.mo.wps.cn
+127.0.0.1 ic.wps.cn
 127.0.0.1 mostat.wps.cn
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
+127.0.0.1 haiwai-ic.ksosoft.com
+127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
+127.0.0.1 info.meihua.docer.com
+127.0.0.1 book.rdtuijian.com
 #mitv
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
