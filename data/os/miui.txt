@@ -31,11 +31,12 @@
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
+127.0.0.1 zeus.ad.xiaomi.com
 #miui-stat
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com

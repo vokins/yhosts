@@ -1,5 +1,5 @@
 
-#version=201809271232
+#version=201809271240
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -636,6 +636,7 @@
 127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
+127.0.0.1 u-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
@@ -1412,11 +1413,12 @@
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
+127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -2112,6 +2114,7 @@
 127.0.0.1 m.qhuik.com
 127.0.0.1 x.bikaer.com
 127.0.0.1 yzh.jyjhkz.com
+127.0.0.1 count.knowsky.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
