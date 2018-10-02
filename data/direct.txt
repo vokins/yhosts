@@ -18,9 +18,6 @@
 127.0.0.1 iadctest.qwapi.com
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
-#Thunder
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
 @direct/3rd
 #pcbeta
 120.52.19.113 bbs.pcbeta.com

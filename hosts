@@ -1,5 +1,5 @@
 
-#version=201810022328
+#version=201810022350
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1002,8 +1002,6 @@
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 ieonline.microsoft.com
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
 120.52.19.113 bbs.pcbeta.com
 120.52.19.113 cdn.pcbeta.attachment.inimc.com
 120.52.19.113 cdn.pcbeta.css.inimc.com
