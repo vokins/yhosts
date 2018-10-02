@@ -189,3 +189,7 @@
 127.0.0.1 pm.sdaiv.com
 127.0.0.1 sjj.jsyjwj.com
 127.0.0.1 zheng.cs12d.com
+127.0.0.1 www.xianliao.me
+127.0.0.1 cdn.xianliao.me
+127.0.0.1 m.kl6636.net
+127.0.0.1 e.kl6636.net

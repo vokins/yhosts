@@ -43,7 +43,6 @@
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 storeconfig.mistat.xiaomi.com
 #miui-browser
-127.0.0.1 hot.browser.miui.com
 127.0.0.1 r.browser.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net

@@ -1,5 +1,5 @@
 更新比较随意，有可能一个月不更新，有可能一天更新几次。具体可以看记录。
-最近忙装修，更新不一定及时。谢谢！
+本身工作比较忙，更新不一定及时。谢谢！
 
 1.这是一个关于美食交流的项目。
 
@@ -88,9 +88,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 ![可先扫码领红包，再捐助，一分也是爱！](https://raw.githubusercontent.com/vokins/yhosts/master/vip/hb.jpg)
 
 ## 捐赠 Donate
-|  支付宝  |   微信   |    QQ    |  PayPal  |
-| -------- | -------- | -------- | -------- |
-| [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/paypal.png)](https://paypal.me/ikwok/32.69 "PayPal") |
+|  支付宝  |   微信   |    QQ    |
+| -------- | -------- | -------- |
+| [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) |
 
 
 

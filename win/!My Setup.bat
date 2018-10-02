@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 11:56 2018/9/27
+rem 11:29 2018/10/1
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -389,29 +389,51 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "Hide
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
-::在桌面创建常用银行快捷方式
-set lnkdir="%USERPROFILE%\Desktop\银行"
-if not exist %lnkdir% md %lnkdir%
-echo [InternetShortcut] >%lnkdir%\中国工商银行.url
-echo URL="http://www.icbc.com.cn/icbc/" >>%lnkdir%\中国工商银行.url
-echo [InternetShortcut] >%lnkdir%\中国农业银行.url
-echo URL="http://www.abchina.com/cn/" >>%lnkdir%\中国农业银行.url
-echo [InternetShortcut] >%lnkdir%\中国银行.url
-echo URL="http://www.boc.cn/" >>%lnkdir%\中国银行.url
-echo [InternetShortcut] >%lnkdir%\中国建设银行.url
-echo URL="http://www.ccb.com/" >>%lnkdir%\中国建设银行.url
-echo [InternetShortcut] >%lnkdir%\中国邮政储蓄银行.url
-echo URL="http://www.psbc.com/" >>%lnkdir%\中国邮政储蓄银行.url
-echo [InternetShortcut] >%lnkdir%\交通银行.url
-echo URL="http://www.bankcomm.com/" >>%lnkdir%\交通银行.url
-echo [InternetShortcut] >%lnkdir%\中信银行.url
-echo URL="http://www.citicbank.com/" >>%lnkdir%\中信银行.url
-echo [InternetShortcut] >%lnkdir%\招商银行.url
-echo URL="http://www.cmbchina.com/" >>%lnkdir%\招商银行.url
-echo [InternetShortcut] >%lnkdir%\浦发银行.url
-echo URL="http://www.spdb.com.cn/" >>%lnkdir%\浦发银行.url
-echo [InternetShortcut] >%lnkdir%\民生银行.url
-echo URL="http://www.cmbc.com.cn/" >>%lnkdir%\民生银行.url
+
+::在桌面创建多功能网上银行IE快捷方式
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{00000000-0000-0000-0000-100000000002}" /ve /d "网上银行" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}" /v "InfoTip" /d "网上银行，右键直达" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}" /v "LocalizedString" /d "网上银行" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,88" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell" /ve /d "Open" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\00" /ve /d "百度首页(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\00\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.baidu.com/?tn=baiduhome" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\01" /ve /d "工商银行(&I)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\01\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.icbc.com.cn/icbc/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\02" /ve /d "农业银行(&A)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\02\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.abchina.com/cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\03" /ve /d "中国银行(&B)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\03\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.boc.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\04" /ve /d "建设银行(&C)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\04\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.ccb.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\05" /ve /d "交通银行(&J)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\05\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.bankcomm.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\06" /ve /d "邮储银行(&P)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\06\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.psbc.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\07" /ve /d "民生银行(&M)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\07\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbc.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\08" /ve /d "招商银行(&Z)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\08\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbchina.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\09" /ve /d "中信银行(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\09\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.citicbank.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10" /ve /d "浦发银行(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.spdb.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolde r" /v "HideAsDeletePerUser" /d "" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "HideFolderVerbs" /d "" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
+
+::在桌面创建常用银行快捷方式 if not exist %lnkdir% md %lnkdir%
+set lnkdir="%USERPROFILE%\Desktop"
+echo [InternetShortcut] >%lnkdir%\易视直播.url
+echo URL="http://www.cietv.com/live/" >>%lnkdir%\易视直播.url
+echo [InternetShortcut] >%lnkdir%\央视直播.url
+echo URL="http://tv.cctv.com/live/" >>%lnkdir%\央视直播.url
+echo [InternetShortcut] >%lnkdir%\面包影视.url
+echo URL="https://www.mianbao99.com/" >>%lnkdir%\面包影视.url
 
 :: 视觉：任务栏调整部分：
 ::在任务栏时间显示秒
