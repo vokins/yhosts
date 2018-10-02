@@ -9,6 +9,7 @@
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 scene.vip.xunlei.com
 127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
 #http://mac.xunlei.com/

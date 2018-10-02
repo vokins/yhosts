@@ -1,5 +1,5 @@
 
-#version=201810021108
+#version=201810022328
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1880,6 +1880,7 @@
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
+127.0.0.1 scene.vip.xunlei.com
 127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 liveupdate.mac.sandai.net
