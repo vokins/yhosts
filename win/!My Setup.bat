@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 11:29 2018/10/1
+rem 23:31 2018/10/3
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -9,12 +9,12 @@ TITLE Windows 10 调整工具
 COLOR 0a
 
 :: gpedit.msc  C:\Windows\System32\GroupPolicy
-
-copy /y "Notepad2.exe" "%SystemRoot%\System32"
+if exist Notepad2.exe (copy /y "Notepad2.exe" "%SystemRoot%\System32" &
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\System32\Notepad2.exe\" /z" /f
-
+)else(
 :: 清空剪贴版
 mshta vbscript:clipboardData.SetData("text","")(close)
+)
 
 :: 视觉：右键菜单调整-添加部分：
 ::添加:显示/隐藏文件(按Shift显示)
@@ -131,79 +131,14 @@ reg add "HKCR\.mht" /ve /d "ChromeHTML" /f
 reg add "HKCR\.pdf" /ve /d "ChromeHTML" /f
 
 ::添加 Windows 照片查看器
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap" /v "FriendlyTypeName" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll,-3056" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap\DefaultIcon" /ve /d "%%SystemRoot%%\System32\imageres.dll,-70" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap\shell" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap\shell\open" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Bitmap\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF" /v "EditFlags" /t REG_DWORD /d 65536 /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF" /v "FriendlyTypeName" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll,-3055" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF\DefaultIcon" /ve /d "%%SystemRoot%%\System32\imageres.dll,-72" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF\shell" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF\shell\open" /v "MuiVerb" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\photoviewer.dll,-3043" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.JFIF\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg" /v "EditFlags" /t REG_DWORD /d 65536 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg" /v "FriendlyTypeName" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll,-3055" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg\DefaultIcon" /ve /d "%%SystemRoot%%\System32\imageres.dll,-72" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg\shell" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg\shell\open" /v "MuiVerb" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\photoviewer.dll,-3043" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Jpeg\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Gif" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Gif" /v "FriendlyTypeName" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll,-3057" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Gif\DefaultIcon" /ve /d "%%SystemRoot%%\System32\imageres.dll,-83" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Gif\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Gif\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png" /v "FriendlyTypeName" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll,-3057" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png\DefaultIcon" /ve /d "%%SystemRoot%%\System32\imageres.dll,-71" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png\shell" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png\shell\open" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Png\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp" /v "EditFlags" /t REG_DWORD /d 65536 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp" /v "ImageOptionFlags" /t REG_DWORD /d 1 /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp\DefaultIcon" /ve /d "%%SystemRoot%%\System32\wmphoto.dll,-400" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp\shell" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp\shell\open" /v "MuiVerb" /t REG_EXPAND_SZ /d "@%%ProgramFiles%%\Windows Photo Viewer\photoviewer.dll,-3043" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp\shell\open\command" /ve /t REG_EXPAND_SZ /d "%%SystemRoot%%\System32\rundll32.exe \"%%ProgramFiles%%\Windows Photo Viewer\PhotoViewer.dll\", ImageView_Fullscreen %%1" /f
-reg add "HKCR\PhotoViewer.FileAssoc.Wdp\shell\open\DropTarget" /v "Clsid" /d "{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A}" /f
-reg add "HKCU\Software\Classes\.jpg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.jpeg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.gif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.png" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
 reg add "HKCU\Software\Classes\.bmp" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.tiff" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.gif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
 reg add "HKCU\Software\Classes\.ico" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".tif" /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".tiff" /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".bmp" /d "PhotoViewer.FileAssoc.Bitmap" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".dib" /d "PhotoViewer.FileAssoc.Bitmap" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".gif" /d "PhotoViewer.FileAssoc.Gif" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jfif" /d "PhotoViewer.FileAssoc.JFIF" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpe" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpeg" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpg" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jxr" /d "PhotoViewer.FileAssoc.Wdp" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".png" /d "PhotoViewer.FileAssoc.Png" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".wdp" /d "PhotoViewer.FileAssoc.Wdp" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".tif" /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".tiff" /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".bmp" /d "PhotoViewer.FileAssoc.Bitmap" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".dib" /d "PhotoViewer.FileAssoc.Bitmap" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".gif" /d "PhotoViewer.FileAssoc.Gif" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jfif" /d "PhotoViewer.FileAssoc.JFIF" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpe" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpeg" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jpg" /d "PhotoViewer.FileAssoc.Jpeg" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".jxr" /d "PhotoViewer.FileAssoc.Wdp" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".png" /d "PhotoViewer.FileAssoc.Png" /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Photo Viewer\Capabilities\FileAssociations" /v ".wdp" /d "PhotoViewer.FileAssoc.Wdp" /f
+reg add "HKCU\Software\Classes\.jpeg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.jpg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.png" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.tif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.tiff" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
 
 :: 视觉：右键菜单调整-清理部分：
 ::清理：文件：新建：
@@ -570,22 +505,6 @@ SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\Office 15 Subscription Heartbea
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn2016"
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack2016"
 
-::卸载 OneDrive
-taskkill /f /im explorer.exe > NUL 2>&1
-taskkill /f /im OneDrive.exe > NUL 2>&1
-if exist %SYSTEMROOT%\SysWOW64\OneDriveSetup.exe (
-%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall
-) else (
-%SYSTEMROOT%\System32\OneDriveSetup.exe /uninstall
-)
-rd /s /q "%UserProfile%\OneDrive" > NUL 2>&1
-rd /s /q "%LocalAppData%\Microsoft\OneDrive" > NUL 2>&1
-rd /s /q "%ProgramData%\Microsoft OneDrive" > NUL 2>&1
-rd /s /q "C:\OneDriveTemp" > NUL 2>&1
-REG Delete "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
-REG Delete "HKCR\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
-reg delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f
-
 :: 使用：更新和安装
 ::关闭驱动自动更新（禁止更新）
 ::reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "ExcludeWUDriversInQualityUpdate" /t REG_DWORD /d 1 /f
@@ -608,7 +527,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" 
 ::启用电源计划“高性能”
 rem powercfg -setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
 ::添加电源计划“卓越性能”（1803以后不需要再添加）
-rem powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ::启用电源计划“卓越性能”
 powercfg -setactive e9a42b02-d5df-448d-aa00-03f14749eb61
 ::设置屏幕自动关闭时间为：5分钟
@@ -655,8 +574,6 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\S
 ::重新注册全部 PowerShell Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 ::3DBuilder
 PowerShell "Get-AppxPackage *Microsoft.3DBuilder* | Remove-AppxPackage"
-::Advertising.Xaml
-PowerShell "Get-AppxPackage *Microsoft.Advertising.Xaml* | Remove-AppxPackage"
 ::天气
 PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
 ::获取帮助
@@ -723,6 +640,10 @@ PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackag
 PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
 ::电影和电视
 PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
+::YourPhone
+PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
+::MixedReality
+PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
 start %systemroot%\explorer
 
 ::禁止 不断重复恢复默认设置
@@ -1015,6 +936,19 @@ reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Video Capture\6.0\Lang
 ::R2R补丁注册信息完善
 reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
 reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P-1-305-722-5810" /f
+
+::卸载 OneDrive
+taskkill /f /im explorer.exe > NUL 2>&1
+taskkill /f /im OneDrive.exe > NUL 2>&1
+%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall
+%SYSTEMROOT%\System32\OneDriveSetup.exe /uninstall
+rd /s /q "%UserProfile%\OneDrive" > NUL 2>&1
+rd /s /q "%LocalAppData%\Microsoft\OneDrive" > NUL 2>&1
+rd /s /q "%ProgramData%\Microsoft OneDrive" > NUL 2>&1
+rd /s /q "C:\OneDriveTemp" > NUL 2>&1
+REG Delete "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
+REG Delete "HKCR\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
+reg delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f
 
 cls
 echo 更新策略

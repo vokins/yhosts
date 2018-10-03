@@ -1,5 +1,5 @@
 
-#version=201810022350
+#version=201810032332
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2136,6 +2136,9 @@
 127.0.0.1 cdn.xianliao.me
 127.0.0.1 m.kl6636.net
 127.0.0.1 e.kl6636.net
+127.0.0.1 teen.77rog.com
+127.0.0.1 www.gdgy56.com
+127.0.0.1 c.lucktui.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

@@ -2771,6 +2771,9 @@
 127.0.0.1 cdn.xianliao.me
 127.0.0.1 m.kl6636.net
 127.0.0.1 e.kl6636.net
+127.0.0.1 teen.77rog.com
+127.0.0.1 www.gdgy56.com
+127.0.0.1 c.lucktui.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
