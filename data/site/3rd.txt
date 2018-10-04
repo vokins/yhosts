@@ -120,3 +120,7 @@
 127.0.0.1 yuyue008.cn
 127.0.0.1 zlsw.nnjxqd.com
 127.0.0.1 zxh.bzshzx.com
+127.0.0.1 edesf.xyzxmark.cn
+127.0.0.1 moons.66bhy.com
+127.0.0.1 tool.btrabbit.la
+127.0.0.1 a6s.ve001nz.com

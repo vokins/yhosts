@@ -32,10 +32,17 @@
 127.0.0.1 vt.ipinyou.com
 #mct01
 127.0.0.1 a.mct01.com
+127.0.0.1 cm.mct01.com
 127.0.0.1 static.mct01.com
 #mmstat
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 go.mmstat.com
+127.0.0.1 gxb.mmstat.com
+127.0.0.1 hz.mmstat.com
+127.0.0.1 log.mmstat.com
+127.0.0.1 p3p.mmstat.com
+127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 yt.mmstat.com
 #phpwind
@@ -147,12 +154,6 @@
 127.0.0.1 static.alimama.com
 127.0.0.1 t.alimama.com
 127.0.0.1 i.mmcdn.cn
-#ali-mm
-127.0.0.1 go.mmstat.com
-127.0.0.1 gxb.mmstat.com
-127.0.0.1 hz.mmstat.com
-127.0.0.1 p3p.mmstat.com
-127.0.0.1 res.mmstat.com
 #ali-phpwind
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com

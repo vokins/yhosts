@@ -199,10 +199,17 @@
 127.0.0.1 vt.ipinyou.com
 #mct01
 127.0.0.1 a.mct01.com
+127.0.0.1 cm.mct01.com
 127.0.0.1 static.mct01.com
 #mmstat
 127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 go.mmstat.com
+127.0.0.1 gxb.mmstat.com
+127.0.0.1 hz.mmstat.com
+127.0.0.1 log.mmstat.com
+127.0.0.1 p3p.mmstat.com
+127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 yt.mmstat.com
 #phpwind
@@ -314,12 +321,6 @@
 127.0.0.1 static.alimama.com
 127.0.0.1 t.alimama.com
 127.0.0.1 i.mmcdn.cn
-#ali-mm
-127.0.0.1 go.mmstat.com
-127.0.0.1 gxb.mmstat.com
-127.0.0.1 hz.mmstat.com
-127.0.0.1 p3p.mmstat.com
-127.0.0.1 res.mmstat.com
 #ali-phpwind
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
@@ -1017,13 +1018,14 @@
 127.0.0.1 ad.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 images.sohu.com
-127.0.0.1 suvset.sohu.com
-127.0.0.1 t.ads.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
+127.0.0.1 s.ads.sohu.com
 127.0.0.1 s.go.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 t.ads.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 x1.go.sohu.com
@@ -2962,6 +2964,10 @@
 127.0.0.1 yuyue008.cn
 127.0.0.1 zlsw.nnjxqd.com
 127.0.0.1 zxh.bzshzx.com
+127.0.0.1 edesf.xyzxmark.cn
+127.0.0.1 moons.66bhy.com
+127.0.0.1 tool.btrabbit.la
+127.0.0.1 a6s.ve001nz.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -6119,12 +6125,14 @@
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fancymedia-cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 letv.cm.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
+127.0.0.1 reachmax-cm.admaster.com.cn
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
@@ -6138,8 +6146,8 @@
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
-127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 www.admaster.com.cn
+127.0.0.1 xunlei.adx.admaster.com.cn
 #admin6.com
 127.0.0.1 js.admin6.com
 #adpro.cn
@@ -6482,6 +6490,8 @@
 127.0.0.1 l.fastapi.net
 127.0.0.1 pic.fastapi.net
 127.0.0.1 s.fastapi.net
+127.0.0.1 s.l.fastapi.net
+127.0.0.1 sf01.fastapi.net
 #fraudmetrix.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 fptest.fraudmetrix.cn
@@ -6526,7 +6536,6 @@
 127.0.0.1 tags.growingio.com
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
-#guomob
 #irs
 127.0.0.1 a.irs01.com
 127.0.0.1 h.irs01.com
@@ -6534,6 +6543,7 @@
 127.0.0.1 letv.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
+127.0.0.1 sohu.irs01.com
 127.0.0.1 v.irs01.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
 127.0.0.1 yyt.irs01.com
@@ -6667,6 +6677,7 @@
 127.0.0.1 e.mbm.cn.miaozhen.com
 127.0.0.1 e.x.cn.miaozhen.com
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
+127.0.0.1 fancy-cm.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
@@ -6687,6 +6698,7 @@
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
+127.0.0.1 tvsohu-cm.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 wisem-cm.cn.miaozhen.com
@@ -7978,20 +7990,34 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
+#sohu-tv
+127.0.0.1 cdn.danmu.56.com
+127.0.0.1 api.danmu.tv.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 f.aty.sohu.com
+127.0.0.1 fmg.aty.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 pm.aty.sohu.com
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 v.aty.sohu.com
+127.0.0.1 vm.aty.sohu.com
+127.0.0.1 vstat.my.tv.sohu.com
+127.0.0.1 vstat.v.blog.sohu.com
+127.0.0.1 wl.hd.sohu.com
+127.0.0.1 da.mmarket.com
+127.0.0.1 download.wan.sohu.com
+127.0.0.1 g.jssdk.net
 #sohu-video
 127.0.0.1 agn.aty.sohu.com
-127.0.0.1 f.aty.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
-127.0.0.1 p.aty.sohu.com
 127.0.0.1 pg.aty.sohu.com
-127.0.0.1 pm.aty.sohu.com
-127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
-127.0.0.1 vm.aty.sohu.com
-127.0.0.1 api.danmu.tv.sohu.com
-127.0.0.1 download.wan.sohu.com
-127.0.0.1 da.mmarket.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com

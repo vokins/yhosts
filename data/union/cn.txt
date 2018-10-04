@@ -354,12 +354,14 @@
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
+127.0.0.1 fancymedia-cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 letv.cm.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 pxl.idx.admaster.com.cn
+127.0.0.1 reachmax-cm.admaster.com.cn
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 sohutv.cm.admaster.com.cn
@@ -373,8 +375,8 @@
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 wisemedia.cm.admaster.com.cn
-127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 www.admaster.com.cn
+127.0.0.1 xunlei.adx.admaster.com.cn
 #admin6.com
 127.0.0.1 js.admin6.com
 #adpro.cn
@@ -717,6 +719,8 @@
 127.0.0.1 l.fastapi.net
 127.0.0.1 pic.fastapi.net
 127.0.0.1 s.fastapi.net
+127.0.0.1 s.l.fastapi.net
+127.0.0.1 sf01.fastapi.net
 #fraudmetrix.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 fptest.fraudmetrix.cn
@@ -761,7 +765,6 @@
 127.0.0.1 tags.growingio.com
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
-#guomob
 #irs
 127.0.0.1 a.irs01.com
 127.0.0.1 h.irs01.com
@@ -769,6 +772,7 @@
 127.0.0.1 letv.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
+127.0.0.1 sohu.irs01.com
 127.0.0.1 v.irs01.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
 127.0.0.1 yyt.irs01.com
@@ -902,6 +906,7 @@
 127.0.0.1 e.mbm.cn.miaozhen.com
 127.0.0.1 e.x.cn.miaozhen.com
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
+127.0.0.1 fancy-cm.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 g.mbm.cn.miaozhen.com
@@ -922,6 +927,7 @@
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
+127.0.0.1 tvsohu-cm.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 wisem-cm.cn.miaozhen.com

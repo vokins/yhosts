@@ -5,13 +5,14 @@
 127.0.0.1 ad.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 images.sohu.com
-127.0.0.1 suvset.sohu.com
-127.0.0.1 t.ads.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
+127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
+127.0.0.1 s.ads.sohu.com
 127.0.0.1 s.go.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 t.ads.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 x1.go.sohu.com

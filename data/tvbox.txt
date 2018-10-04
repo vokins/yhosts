@@ -71,20 +71,34 @@
 127.0.0.1 n.mark.letv.com
 127.0.0.1 static.app.m.letv.com
 127.0.0.1 test.ark.letv.com
+#sohu-tv
+127.0.0.1 cdn.danmu.56.com
+127.0.0.1 api.danmu.tv.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 f.aty.sohu.com
+127.0.0.1 fmg.aty.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 pm.aty.sohu.com
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 v.aty.sohu.com
+127.0.0.1 vm.aty.sohu.com
+127.0.0.1 vstat.my.tv.sohu.com
+127.0.0.1 vstat.v.blog.sohu.com
+127.0.0.1 wl.hd.sohu.com
+127.0.0.1 da.mmarket.com
+127.0.0.1 download.wan.sohu.com
+127.0.0.1 g.jssdk.net
 #sohu-video
 127.0.0.1 agn.aty.sohu.com
-127.0.0.1 f.aty.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
-127.0.0.1 p.aty.sohu.com
 127.0.0.1 pg.aty.sohu.com
-127.0.0.1 pm.aty.sohu.com
-127.0.0.1 v.aty.sohu.com
 127.0.0.1 vg.aty.sohu.com
-127.0.0.1 vm.aty.sohu.com
-127.0.0.1 api.danmu.tv.sohu.com
-127.0.0.1 download.wan.sohu.com
-127.0.0.1 da.mmarket.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
