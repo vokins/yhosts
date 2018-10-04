@@ -1,5 +1,5 @@
 
-#version=201810041011
+#version=201810041017
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -24,7 +24,6 @@
 127.0.0.1 act2.mediafour.com
 127.0.0.1 sams.nikonimaging.com
 127.0.0.1 www.bitsumactivationserver.com
-127.0.0.1 keystone.mwbsys.com
 127.0.0.1 licensing.tableausoftware.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
