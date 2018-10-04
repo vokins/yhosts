@@ -2760,6 +2760,16 @@
 127.0.0.1 teen.77rog.com
 127.0.0.1 www.gdgy56.com
 127.0.0.1 c.lucktui.com
+127.0.0.1 a.wlfnb.com
+127.0.0.1 api.rideraid.net
+127.0.0.1 html.sunday8.com
+127.0.0.1 j.ytbt.cc
+127.0.0.1 mjs.csyymp4.com
+127.0.0.1 o.08jm.cn
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 www.webkooo.com
+127.0.0.1 xin.ygqczh.com
+127.0.0.1 zx.baosmx.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
