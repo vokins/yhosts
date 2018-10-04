@@ -4,7 +4,6 @@
 127.0.0.1 30407799.com
 127.0.0.1 30ampj.com
 127.0.0.1 3180555.com
-127.0.0.1 538i.me
 127.0.0.1 77455.com
 127.0.0.1 8184.cc
 127.0.0.1 85058s.com
@@ -21,9 +20,7 @@
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 cdn.img.kachapt.cn
 127.0.0.1 cdn.img.liuxingyul.cn
-127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cl.xzqxzs.com
-127.0.0.1 creative.wwwpromoter.com
 127.0.0.1 data.yd126.com
 127.0.0.1 dl.xzqxzs.com
 127.0.0.1 down.xiazaidc.com
@@ -33,7 +30,6 @@
 127.0.0.1 download.mediaget.com
 127.0.0.1 download.qianka.com
 127.0.0.1 download3.123cw.cn
-127.0.0.1 fc56b.me
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 girlcc.cc
@@ -60,7 +56,6 @@
 127.0.0.1 m.qianka.com
 127.0.0.1 m.qulishi.com
 127.0.0.1 m.xingxd.com
-127.0.0.1 m78n.me
 127.0.0.1 mibook-10006092.cos.myqcloud.com
 127.0.0.1 njs.myyage.com
 127.0.0.1 onclkds.com

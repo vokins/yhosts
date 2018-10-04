@@ -99,7 +99,6 @@
 127.0.0.1 rmads.eu.msn.com
 127.0.0.1 rmads.msn.com
 127.0.0.1 toolbar.msn.com
-127.0.0.1 udc.msn.com
 127.0.0.1 a.global.msads.net
 127.0.0.1 ads2.msads.net
 127.0.0.1 global.msads.net
@@ -111,7 +110,6 @@
 #time.com
 127.0.0.1 tiads.time.com
 #usa-sites
-127.0.0.1 ads.xprofiles.com
 #australia-sensismediasmart
 127.0.0.1 ad.sensismediasmart.com.au
 #brazil-globo
@@ -197,7 +195,6 @@
 127.0.0.1 blogad01.myweb.hinet.net
 127.0.0.1 blogad02.myweb.hinet.net
 #nownews
-127.0.0.1 ad1.nownews.com
 127.0.0.1 tw.adx.nextmedia.com
 #expedia
 127.0.0.1 ads.expedia.com

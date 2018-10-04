@@ -54,8 +54,6 @@
 #http://zdworks.com/
 127.0.0.1 ad.zdworks.com
 127.0.0.1 adclock.zdworks.com
-127.0.0.1 cal.stat.zdworks.com
-127.0.0.1 clock.stat2.zdworks.com
 127.0.0.1 nexstep.zdworks.com
 127.0.0.1 push.zdworks.com
 127.0.0.1 api.pingstart.com

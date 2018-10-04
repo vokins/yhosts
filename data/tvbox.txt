@@ -85,7 +85,6 @@
 127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 da.mmarket.com
-127.0.0.1 sohu.irs01.com
 #youku
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com

@@ -51,7 +51,6 @@
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
 #http://music.migu.cn/
-127.0.0.1 rprsv.richpush.cn
 127.0.0.1 wtrace.cmgame.com
 #http://www.yinyuetai.com/
 127.0.0.1 client.stats.yinyuetai.com

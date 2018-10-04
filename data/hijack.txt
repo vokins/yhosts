@@ -140,7 +140,6 @@
 127.0.0.1 stuff.202m.com
 127.0.0.1 www.202m.com
 127.0.0.1 s.jlminte.com
-127.0.0.1 ssp.0531kt.com
 127.0.0.1 s2.yandui.com
 127.0.0.1 www.tz-dsp.com
 127.0.0.1 www.706529.com
@@ -179,7 +178,6 @@
 127.0.0.1 down.dashendown.com
 127.0.0.1 dps.wtdtjs.com
 127.0.0.1 engine.lvehaisen.com
-127.0.0.1 i.huilixieye.net
 127.0.0.1 img0.egou.com
 127.0.0.1 jct.maptu.cn
 127.0.0.1 m.7180443.com
@@ -202,7 +200,6 @@
 127.0.0.1 md.sh5e.com
 127.0.0.1 adx3.iq39.com
 127.0.0.1 bds.soarfi.cn
-127.0.0.1 ds.missyougame.cn
 127.0.0.1 m.cudaojia.com
 127.0.0.1 sss.soarfi.cn
 127.0.0.1 uns.soarfi.cn

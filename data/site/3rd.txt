@@ -1,11 +1,7 @@
-127.0.0.1 1.win7china.com
-127.0.0.1 2.win7china.com
 127.0.0.1 38c99.com
 127.0.0.1 73.sinawap.com
 127.0.0.1 910weixin.com
 127.0.0.1 9566180.com
-127.0.0.1 97kuaixiu.com
-127.0.0.1 a.slsbc.cn
 127.0.0.1 a3.ikafan.com
 127.0.0.1 a4.ikafan.com
 127.0.0.1 a6s.modoupai.com
@@ -30,7 +26,6 @@
 127.0.0.1 cc.0133hao.net
 127.0.0.1 cdn.tinglian.com
 127.0.0.1 chemdraw.com
-127.0.0.1 corechina.net
 127.0.0.1 cp.greenxf.cn
 127.0.0.1 d29qt51jeyi6xb.cloudfront.net
 127.0.0.1 dsxdn.com
@@ -39,7 +34,6 @@
 127.0.0.1 e.mozist.com
 127.0.0.1 er.dlhygj.com
 127.0.0.1 erwr.ydjskvpd.com
-127.0.0.1 f.91byy.cn
 127.0.0.1 f.fj95560.com
 127.0.0.1 f.haoxinjaju.com
 127.0.0.1 fpb.kuhou.com
@@ -55,7 +49,6 @@
 127.0.0.1 img.yuyue007.cn
 127.0.0.1 j.chaorenjiaoshi.com
 127.0.0.1 j.kfd3sm2c.com
-127.0.0.1 jc.jtydbz.com
 127.0.0.1 jd.c-ptsp.com.cn
 127.0.0.1 jihehuaban.com
 127.0.0.1 jingdian230.meilika.net
@@ -72,11 +65,8 @@
 127.0.0.1 m.ntxiangtai.com
 127.0.0.1 m.qsove.com
 127.0.0.1 m.symaj.cn
-127.0.0.1 maocai.xvtpvc.cn
 127.0.0.1 mmcc.yxlady.com
-127.0.0.1 ms.actingidekex.cn
 127.0.0.1 ms.ienkdaccessory.cn
-127.0.0.1 ms.qaqact.cn
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 nvrentao8.com
 127.0.0.1 nwejs.myzcoffice.com
@@ -90,19 +80,15 @@
 127.0.0.1 qiyezs.ejunshi.com
 127.0.0.1 rk.rongchengxxw.com
 127.0.0.1 s.652748.com
-127.0.0.1 s.huayi65.com
-127.0.0.1 s.sufficient.cn
 127.0.0.1 s.xinghao89.com
 127.0.0.1 s8.001fzc.com
 127.0.0.1 s8.dnaxddnc.com
-127.0.0.1 sfd.maizhenai.cn
 127.0.0.1 ssh.hxlif.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 symaj.cn
 127.0.0.1 t.2d-c.cn
 127.0.0.1 titi.qifajiang.cn
-127.0.0.1 tl.zcsfs.cn
 127.0.0.1 u.ddvip.com
 127.0.0.1 u349036.ff112222.com
 127.0.0.1 union1.xiaojianjian.net
@@ -123,7 +109,6 @@
 127.0.0.1 www.k3bos.com
 127.0.0.1 www.mie99.net
 127.0.0.1 www.song001.com
-127.0.0.1 www.vs8.gzcu.u3.ucweb.com
 127.0.0.1 xavingtsun.com
 127.0.0.1 xia.chemdraw.com
 127.0.0.1 xia.huishenghuiying.com
@@ -132,8 +117,6 @@
 127.0.0.1 xjq.jxmqkj.com
 127.0.0.1 y.gwylm.com
 127.0.0.1 y.xinghao89.com
-127.0.0.1 ynwqls.com
 127.0.0.1 yuyue008.cn
 127.0.0.1 zlsw.nnjxqd.com
 127.0.0.1 zxh.bzshzx.com
-127.0.0.1 d.s11.cn

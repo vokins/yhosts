@@ -78,7 +78,6 @@
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 info.meihua.docer.com
-127.0.0.1 book.rdtuijian.com
 #mitv
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com

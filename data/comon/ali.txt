@@ -147,7 +147,6 @@
 127.0.0.1 static.alimama.com
 127.0.0.1 t.alimama.com
 127.0.0.1 i.mmcdn.cn
-#ali-mlt01
 #ali-mm
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
@@ -176,7 +175,6 @@
 127.0.0.1 unitacs.m.taobao.com
 127.0.0.1 w.m.taobao.com
 127.0.0.1 ai.taobao.com
-127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 re.taobao.com

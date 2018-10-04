@@ -71,8 +71,6 @@
 127.0.0.1 guitarpro.cc
 127.0.0.1 www.guitarpro.cc
 127.0.0.1 xia.guitarpro.cc
-127.0.0.1 www.xmindchina.cn
-127.0.0.1 xia.xmindchina.cn
 127.0.0.1 xmindchina.cn
 127.0.0.1 www.mindmanager.cc
 127.0.0.1 xia.mindmanager.cc
@@ -121,7 +119,6 @@
 127.0.0.1 logoshejishi.mairuan.com
 127.0.0.1 www.hypersnap.net
 127.0.0.1 www.hypersnap.mairuan.com
-127.0.0.1 www.yihuifu.cn
 127.0.0.1 www.mairuan.cn
 127.0.0.1 www.mairuan.net
 127.0.0.1 www.mairuan.com.cn

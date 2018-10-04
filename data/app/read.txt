@@ -44,8 +44,9 @@
 #http://m.jiemian.com/
 127.0.0.1 ad.jiemian.com
 #http://m.thepaper.cn/
-127.0.0.1 ad.thepaper.cn
+127.0.0.1 adpai.thepaper.cn
 127.0.0.1 imgad.thepaper.cn
+127.0.0.1 imgadpai.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
 127.0.0.1 dm.toutiao.com

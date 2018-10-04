@@ -134,11 +134,9 @@
 127.0.0.1 img7.1133.cc
 127.0.0.1 img9.1133.cc
 127.0.0.1 m.1133.cc
-127.0.0.1 u.1133.cc
 127.0.0.1 z.1133.cc
 127.0.0.1 www.1133.cc
 #17leyi
-127.0.0.1 media.17leyi.com
 #1o26
 127.0.0.1 cj.1o26.com
 127.0.0.1 ck.1o26.com
@@ -413,7 +411,6 @@
 #adsame.com
 127.0.0.1 0127.adsame.com
 127.0.0.1 114study.adsame.com
-127.0.0.1 adplace.adsame.com
 127.0.0.1 adsame.com
 127.0.0.1 adsamer.adsame.com
 127.0.0.1 asp.adsame.com
@@ -767,11 +764,9 @@
 #guomob
 #irs
 127.0.0.1 a.irs01.com
-127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 letv.irs01.com
-127.0.0.1 m.irs01.com
 127.0.0.1 pcauto.irs01.com
 127.0.0.1 qq.irs01.com
 127.0.0.1 v.irs01.com
@@ -988,7 +983,6 @@
 #plista.com
 127.0.0.1 click-cn.plista.com
 127.0.0.1 farm-cn.plista.com
-127.0.0.1 static-cn.plista.com
 #punchbox
 127.0.0.1 appget.cn
 127.0.0.1 mga.api.appget.cn
@@ -1095,7 +1089,6 @@
 127.0.0.1 pic.usingde.com
 #vamaker
 127.0.0.1 ads.vamaker.com
-127.0.0.1 cm.vamaker.com
 127.0.0.1 cdn.vamaker.com
 127.0.0.1 x.vamaker.com
 #vpon
@@ -1141,13 +1134,9 @@
 127.0.0.1 l2.soarfi.cn
 127.0.0.1 un.soarfi.cn
 #wooboo
-127.0.0.1 admin.wooboo.com.cn
-127.0.0.1 download.wooboo.com.cn
 127.0.0.1 m.wooboo.com.cn
 127.0.0.1 static.wooboo.com.cn
-127.0.0.1 w.wooboo.com.cn
 127.0.0.1 wap.wooboo.com.cn
-127.0.0.1 www1.wooboo.com.cn
 127.0.0.1 www.wooboo.com.cn
 #wumi
 127.0.0.1 s.jimdo.com

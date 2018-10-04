@@ -29,8 +29,6 @@
 127.0.0.1 m.iruad.com
 127.0.0.1 www.jrhaigou.com
 127.0.0.1 6a4cc.lubue.com
-127.0.0.1 druic.mytxt.cc
-127.0.0.1 druis.mytxt.cc
 127.0.0.1 e.ccunf.com
 127.0.0.1 e.hmhqp.com
 127.0.0.1 e.jnsdkjzs.com
@@ -38,7 +36,6 @@
 127.0.0.1 e.tiojk.com
 127.0.0.1 jscdn.99pps.com
 127.0.0.1 m.ccunf.com
-127.0.0.1 m.kzqcs.com
 127.0.0.1 m.tiojk.com
 127.0.0.1 m.vbieu.com
 127.0.0.1 m.weboser.com
