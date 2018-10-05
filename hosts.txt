@@ -2772,6 +2772,7 @@
 127.0.0.1 www.webkooo.com
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 zx.baosmx.com
+127.0.0.1 wysa.2wxb5.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2968,6 +2969,23 @@
 127.0.0.1 moons.66bhy.com
 127.0.0.1 tool.btrabbit.la
 127.0.0.1 a6s.ve001nz.com
+127.0.0.1 b.kuangtuiguoo18888.com
+127.0.0.1 c.kl6636.net
+127.0.0.1 e.xlsschina15.net
+127.0.0.1 f5.dfcwg.com
+127.0.0.1 go.gogolm.xyz
+127.0.0.1 i.jyhwt.cn
+127.0.0.1 j.zhdap.com
+127.0.0.1 lwq.wangketuan.com
+127.0.0.1 m.kl6636.net
+127.0.0.1 m.xlsschina15.net
+127.0.0.1 m.yzjlsb.com
+127.0.0.1 ms.myyage.com
+127.0.0.1 photo.welldex.cn
+127.0.0.1 qeoa.hawbfa.com
+127.0.0.1 www.360shopping.com.cn
+127.0.0.1 www.fenvm.com
+127.0.0.1 www.xiaohui2.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -7996,7 +8014,6 @@
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
-127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 fmg.aty.sohu.com

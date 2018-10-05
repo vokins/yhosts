@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 12:27 2018/10/4
+rem 22:27 2018/10/4
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -240,6 +240,11 @@ reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxcui" /f > 
 ::清理：上传到百度网盘，上传到WPS文档
 reg delete "HKCR\*\shellex\ContextMenuHandlers\qingshellext" /f > NUL 2>&1
 reg delete "HKCR\*\shellex\ContextMenuHandlers\YunShellExt" /f > NUL 2>&1
+::清理：opendlg
+reg delete "HKCR\Unknown\shell\opendlg" /f > NUL 2>&1
+reg delete "HKCR\Unknown\shell\opendlg\command" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen\command" /f > NUL 2>&1
 
 :: 视觉：我的电脑、文件夹、文件资源管理器调整部分：
 ::我的电脑取消显示7个文件夹

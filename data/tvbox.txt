@@ -78,7 +78,6 @@
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 fmg.aty.sohu.com
 127.0.0.1 p.aty.sohu.com
