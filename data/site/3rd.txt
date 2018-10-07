@@ -141,3 +141,5 @@
 127.0.0.1 www.360shopping.com.cn
 127.0.0.1 www.fenvm.com
 127.0.0.1 www.xiaohui2.cn
+127.0.0.1 1.xiaozhizhijia.com
+127.0.0.1 jc.anhuilitian.net

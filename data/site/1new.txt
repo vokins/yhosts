@@ -204,3 +204,14 @@
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 zx.baosmx.com
 127.0.0.1 wysa.2wxb5.cn
+127.0.0.1 dm.gbeik.com
+127.0.0.1 e.cjieh.com
+127.0.0.1 e.gbieg.com
+127.0.0.1 e.jdaot.com
+127.0.0.1 e.pbino.com
+127.0.0.1 m.cjieh.com
+127.0.0.1 m.gbieg.com
+127.0.0.1 m.jdaot.com
+127.0.0.1 m.pbino.com
+127.0.0.1 photo.dhford.cn
+127.0.0.1 www.kyad88.com
