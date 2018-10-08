@@ -165,6 +165,16 @@
 127.0.0.1 top.h.qhmsg.com
 #360-total security
 127.0.0.1 display.360totalsecurity.com
+#360-news
+127.0.0.1 news.qhstatic.com
+127.0.0.1 show.look.360.cn
+127.0.0.1 hot.eastday.com
+127.0.0.1 pageshow.dftoutiao.com
+127.0.0.1 pcminitj.dftoutiao.com
+127.0.0.1 position.dftoutiao.com
+127.0.0.1 lib.baomitu.com
+127.0.0.1 s1.milkjpg.com
+127.0.0.1 new.taobc.com
 #alicdn
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
@@ -760,6 +770,7 @@
 127.0.0.1 sdk.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-3.mediav.com
+127.0.0.1 show-f.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com
@@ -1946,17 +1957,33 @@
 127.0.0.1 cloudservice27.kingsoft-office-service.com
 127.0.0.1 moupdate1.kingsoft-office-service.com
 127.0.0.1 mo.res.wpscdn.cn
+127.0.0.1 api.mini.wps.cn
 127.0.0.1 crashes.mo.wps.cn
+127.0.0.1 dynsrv.wps.cn
 127.0.0.1 ic.wps.cn
+127.0.0.1 info.wps.cn
 127.0.0.1 mostat.wps.cn
+127.0.0.1 teinfo.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 spinfo.wps.cn
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 counter.kingsoft.com
+127.0.0.1 counter.ksosoft.com
+127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 dw-collect.ksosoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 haiwai-ic.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
+127.0.0.1 ic.ksosoft.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 info.meihua.docer.com
+127.0.0.1 ap.ksrong.com
+127.0.0.1 notify.51dzt.com
+127.0.0.1 t.ksrong.com
+127.0.0.1 vasapi.rdtuijian.com
 #mitv
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
@@ -2786,6 +2813,9 @@
 127.0.0.1 m.pbino.com
 127.0.0.1 photo.dhford.cn
 127.0.0.1 www.kyad88.com
+127.0.0.1 app.tanwan.com
+127.0.0.1 d.jjyx.com
+127.0.0.1 tjpv.twh5.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

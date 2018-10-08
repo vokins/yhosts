@@ -215,3 +215,6 @@
 127.0.0.1 m.pbino.com
 127.0.0.1 photo.dhford.cn
 127.0.0.1 www.kyad88.com
+127.0.0.1 app.tanwan.com
+127.0.0.1 d.jjyx.com
+127.0.0.1 tjpv.twh5.com

@@ -1,6 +1,109 @@
 http://atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png
 http://atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png
 http://atanx.alicdn.com/t/tanxssp.js?_v=12
+http://lib.baomitu.com:443
+http://s1.ssl.qhres.com:443
+http://show.look.360.cn:443
+http://show-f.mediav.com:443
+http://show-3.mediav.com:443
+http://cjhd.mediav.com:443
+http://s3m.mediav.com:443
+http://s1.milkjpg.com:443
+http://max-l.mediav.com:443
+http://p0.ssl.qhimgs4.com:443
+http://p.ssl.qhimg.com:443
+http://news.qhstatic.com:443
+https://t.ksrong.com/sqn5l5
+http://dw-online.ksosoft.com:443
+http://dw-online.ksosoft.com:443
+http://dw-collect.ksosoft.com:10443
+
+https://news.qhstatic.com/srv/c?uid=50516bbdcff90d2779c373611baa442e&url=https%3A%2F%2Fsh.qihoo.com%2Fpc%2Fdetail%
+https://show-f.mediav.com/s?type=1&of=4&newf=1&uid=115389642894801&showid=bsRsxN&reqtimes=1&impct=4&scheme=https&jsonp=QIHOO__WEB__SO__15389642894971
+https://show-f.mediav.com/s?type=1&of=4&newf=1&uid=115389642894801&showid=Ov84hQ&reqtimes=2&impct=2&scheme=https&jsonp=QIHOO__WEB__SO__15389642895033
+https://show-f.mediav.com/s?type=1&of=4&newf=1&uid=115389642894801&showid=Ov84hQ&reqtimes=3&impct=2&scheme=https&jsonp=QIHOO__WEB__SO__15389642895045
+https://show.look.360.cn/mlist?u=&sqid=&sign=show_3e3ee41b&version=2.0&market=pc_def&device=2&v=1&sv=1&c=youlike&net=5&ufrom=1&n=4&djsource=bsRsxN&scene=bsRsxN&sub_scene=1&refer_scene=0&refer_subscene=0&f=jsonp&where=list&callback=QIHOO__WEB__SO__15389642894930
+https://show.look.360.cn/mlist?u=&sqid=&sign=show_3e3ee41b&version=2.0&market=pc_def&device=2&v=1&sv=1&c=youlike&net=5&ufrom=1&n=2&djsource=Ov84hQ&scene=Ov84hQ&sub_scene=1&refer_scene=0&refer_subscene=0&f=jsonp&where=list&callback=QIHOO__WEB__SO__15389642895044
+3Furl%3Dhttp%253A%252F%252F
+http://hm.baidu.com:443
+http://dup.baidustatic.com/js/ds.js
+http://hot.eastday.com/hot056big/?mid=edd584a823ae4ccf854ab402e7506a73&pid=ludashi_ludashi&from=ludashi&appver=5.15.18.1100&modver=3.0.0.1060
+http://hot.eastday.com/Public/Template/smallmini900/css/reset.css
+http://hot.eastday.com/Public/Template/js/jquery.cookie.js
+http://hot.eastday.com/Public/Template/smallmini900/css/small.css
+http://hot.eastday.com/Public/Template/js/jquery-1.9.1.min.js
+http://hot.eastday.com/Public/Template/js/global.js
+http://hot.eastday.com/Public/Template/js/jquery.mousewheel.min.js
+http://hot.eastday.com/Public/Template/smallmini900/js/smallmini.js?0428
+http://hot.eastday.com/Public/Template/images/toggle_nav.png
+http://hot.eastday.com/Public/Template/images/hover_toggle_nav.png
+http://hot.eastday.com/Public/Template/images/refresh.png
+http://hot.eastday.com/mini/resources/img/5bb9552944eb4.jpg
+http://hot.eastday.com/mini/resources/img/5bb9552bb57a7.jpg
+http://hot.eastday.com/mini/resources/img/5bb9552ee34dc.jpg
+http://hot.eastday.com/mini/resources/img/5bb95531dd0e1.jpg
+http://hot.eastday.com/mini/resources/img/5bb9545f9ac8e.jpg
+http://hot.eastday.com/mini/resources/img/5bb954629f22c.jpg
+http://hot.eastday.com/mini/resources/img/5bb95466071de.jpg
+http://hot.eastday.com/mini/resources/img/5bb6b4e324831.jpg
+http://hot.eastday.com/mini/resources/img/5bb6b4e58f34b.jpg
+http://hot.eastday.com/mini/resources/img/5bb6b5086e172.jpg
+http://hot.eastday.com/mini/resources/img/5bb6b52fc1803.jpg
+http://hot.eastday.com/mini/resources/img/5bb7ff53b6f88.jpg
+http://hot.eastday.com/mini/resources/img/5bb7ff55ecdf9.jpg
+http://hot.eastday.com/mini/resources/img/5bb7ff585daa4.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fdefbe273.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fe325ef3f.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fe34d5863.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fe6d513fa.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fea100929.jpg
+http://hot.eastday.com/mini/resources/img/5bb7fec2467d9.jpg
+http://hot.eastday.com/hot056big/right_pannel_top.html
+http://hot.eastday.com/hot056big/mid_xxl_baidu.html
+http://mini.eastday.com/miniapi/top50jsonp.json?callback=top50data&_=1538964356476
+http://pageshow.dftoutiao.com/minipageshow/show.tag?jsonpcallback=jQuery19106232662983317965_1538964356472&vuid=&uid=15389643574560017&qid=01734&softtype=MINI&softname=DFTT&os=Win8&showtag=toutiao&showtype=2&_=1538964356473
+http://pcminitj.dftoutiao.com/MiniPage/miniopen?param=01734%0915389643574560017%09MINI%09DFTT%090.5.1%09Win8%09IE%090&jsonpcallback=jQuery19106232662983317965_1538964356474&_=1538964356475
+http://position.dftoutiao.com/position/get?jsonpcallback=jQuery19106232662983317965_1538964356477&_=1538964356478
+http://position.dftoutiao.com/position/get?jsonpcallback=jQuery19106232662983317965_1538964356474&_=1538964356479
+http://s.ludashi.com/url4?pid=ms_ms&mid=edd584a823ae4ccf854ab402e7506a73&mid2=696ccbffaed41582389ed1f332f6f950ad81f8562b2d&appver=5.15.18.1100&modver=3.0.0.1060&type=minipage&action=east_mini_loadsucc&ex_ary[ex3]=widen&ex4=a07e4d85e0340169b0718f4436b93b54&ex5=1
+http://show.g.mediav.com/s?type=1&of=4&newf=1&showid=O8d69k&uid=15389643590871070355673921412073&impct=2&reqtimes=1&jsonp=jQuery19106232662983317965_1538964356474&_=1538964356480
+http://show.g.mediav.com/s?type=1&of=4&newf=1&showid=sg6dbE&uid=15389643590871070355673921412073&impct=6&reqtimes=1&jsonp=jQuery19106232662983317965_1538964356477&_=1538964356481
+http://tajs.qq.com/stats?sId=61987053
+http://tajs.qq.com/stats?sId=61987053&_=1538964356471
+http://tongji.eastday.com/webdig.js?z=1
+http://dynsrv.wps.cn/wpsv6internet/infos.ads?v=D1S1E1&d=ZG09L3dwcy9jbGllbnQvcWluZ3NoZWxsZXh0JmFjdGlvbj1xaW5nc2hlbGxleHRhY3RpdmUmcG51bT01JnAwPTBBMDBCMjZDMDZDMDQyQ0M5Q0EzNjk3MTREQzc4MkFGJnAxPTM5NzIyMENFMzk1RDg1RkE5QzM0NEQ4QzdENjM1RjdGJnAyPTAxYjgxMzk4YzllNDY1Y2JlNzA3MzA0ZjY0M2NiMDM0JnAzPTEwLjEuMC43NTY2JnA0PTEyMDEyLjAwMDAwMDAw
+http://spinfo.wps.cn/subproduct/infos.ads?v=D1S1E1&d=ZG09L3dwcy9wZGYvZHluJmFjdGlvbj1wZGZhc3NvJnV1aWQ9MDFiODEzOThjOWU0NjVjYmU3MDczMDRmNjQzY2IwMzQmcG51bT05JnAwPUJFRTBEOTBBMTFGMTRFNjA5QzZCOEZGRDE3RkUzRjI0JnAxPTM5NzIyMENFMzk1RDg1RkE5QzM0NEQ4QzdENjM1RjdGJnAyPTEwLjEuMC42NjYzJnAzPTE3LjEyMDEyJnA0PTEmcDU9MSZwNj13aW4xMCZwNz0yJnA4PXdwc2V4aXN0
+http://spinfo.wps.cn/subproduct/infos.ads?v=D1S1E1&d=ZG09L3dwcy9wZGYvZHluJmFjdGlvbj1pbnN0YWxsJnV1aWQ9ZmM0NDFiMzcwODYxNGEzY2M1MTZlZjk4ZGM4MmFiMjgmcG51bT01JnAwPTNGMDUyRTRDOUJGNTQyNzNCMThFQ0JCQTBGMjc1M0JCJnAxPThFNDVGNTM4RDA5RkI5QzFEQTVFM0JDQTU2RDJFOTEyJnAyPTEwLjEuMC42NjYzJnAzPTE3LjEyMDEyJnA0PTE=
+http://spinfo.wps.cn/subproduct/infos.ads?v=D1S1E1&d=YWN0aW9uPXVwZCZkbT0vd3BzL3BkZi91cGRhdGUmcDA9M2YwNTJlNGM5YmY1NDI3M2IxOGVjYmJhMGYyNzUzYmImcDE9Mzk3MjIwY2UzOTVkODVmYTljMzQ0ZDhjN2Q2MzVmN2YmcDI9MTAuMS4wLjY2NjMmcDM9MDAwMTcuMDAwMTIwMTImcDQ9a3Nvc3RhcnQmcG51bT01JnV1aWQ9NGY1N2U0NmEyZDM2MWZmODhmODAwZTI4Yjg1MDQ5NzM=
+http://spinfo.wps.cn/subproduct/infos.ads?v=D1S1E1&d=YWN0aW9uPXVwZF9kbCZkbT0vd3BzL3BkZi91cGRhdGUmcDA9M2YwNTJlNGM5YmY1NDI3M2IxOGVjYmJhMGYyNzUzYmImcDE9Mzk3MjIwY2UzOTVkODVmYTljMzQ0ZDhjN2Q2MzVmN2YmcDI9MTAuMS4wLjY2NjMmcDM9MDAwMTcuMDAwMTIwMTImcDQ9a3Nvc3RhcnQmcDU9MSZwbnVtPTYmdXVpZD00ZjU3ZTQ2YTJkMzYxZmY4OGY4MDBlMjhiODUwNDk3Mw==
+http://adx-static.ksosoft.com/sdk/adx-js-sdk.js
+http://adx-static.ksosoft.com/sdk/adx.css
+http://w.cnzz.com/q_stat.php?id=1260325770
+http://adx-static.ksosoft.com/sdk/adx-js-sdk.js
+http://adx-static.ksosoft.com/sdk/adx.css
+http://counter.ksosoft.com/index2.php
+http://teinfo.wps.cn/typeeasy/infos.ads?v=D1S1E1&d=ZG09L3dwcy90ZS9hcHAmYWN0aW9uPWRvd25sb2FkJnBudW09NyZwMD0xMTE4YTkwZTVhODUxM2FlYzExOGM3MmZmODMwMjkzMiZwMT0yLjIuMC41MyZwMj0xMjAxMi4wJnAzPWNsaWVudCZwND1kb3dubG9hZHN1Y2NlZWQmcDU9UVFsaXZlU2V0dXBfMzg4OC5leGUmcDY9JmhkaWQ9OEU0NUY1MzhEMDlGQjlDMURBNUUzQkNBNTZEMkU5MTI=
+http://notify.51dzt.com/notifyserver/notify?v=uSr8ww%2FyovTgLDNrbFUBh%2BCN6TAbOWtH%2BOoAZ2YX4ujWTxtIymRjObW29vba19J1bNjaDZpcjl1wviBMWPHuYA==
+http://pixiu.shangshufang.ksosoft.com/
+https://tjpv.twh5.com//index.html?referer=&uid=1197&sid=1019&gid=40&aid=aqdq&rand=1&type=5&step=1&cplaceid=&ref=1019.html&t=0.9779983865008085
+https://vasapi.rdtuijian.com/jumper/v1?code=002_0017
+http://vasapi.rdtuijian.com:443
+http://d.jjyx.com:443
+http://d.jjyx.com:443
+http://tjpv.twh5.com:443
+http://app.tanwan.com:443
+http://d.jjyx.com:443
+http://d.jjyx.com:443
+http://d.jjyx.com:443
+http://d.jjyx.com:443
+http://app.tanwan.com:443
+http://app.tanwan.com:443
+
+https://push.wps.cn/api.php/bundled?version=10.1.0.7566&distsrc=12012.0&type=install&platform=1
+http://ic.wps.cn/wpsv6internet/infos.ads?v=D1S1E1&d=YWN0aW9uPW1pbmlzaXRlYXNzaXN0YW50X3N0YXJ0JmRtPS93cHMvY2xpZW50L21pbmlzaXRlJnAwPTBBMDBCMjZDMDZDMDQyQ0M5Q0EzNjk3MTREQzc4MkFGJnAxPTEyMDEyLjAwMDAwMDAwJnAxMD0zOTcyMjBjZTM5NWQ4NWZhOWMzNDRkOGM3ZDYzNWY3ZiZwMj0xMC4xLjAuNzU2NiZwbnVtPTQ=
+http://ic.wps.cn/wpsv6internet/infos.ads?v=D1S1E1&d=YWN0aW9uPW1pbmlzaXRlYXNzaXN0YW50X3N0YXJ0dXBtaW5pc2l0ZSZkbT0vd3BzL2NsaWVudC9taW5pc2l0ZSZwMD0wQTAwQjI2QzA2QzA0MkNDOUNBMzY5NzE0REM3ODJBRiZwMT0xMjAxMi4wMDAwMDAwMCZwMTA9Mzk3MjIwY2UzOTVkODVmYTljMzQ0ZDhjN2Q2MzVmN2YmcDI9MTAuMS4wLjc1NjYmcDM9NCZwND0xLjAuMC4yNjgmcDU9MCZwbnVtPTc=
+http://ic.wps.cn/wpsv6internet/infos.ads?v=D1S1E1&d=YWN0aW9uPXN0YXJ0JmRtPS93cHMvY2xpZW50L21pbmlzaXRlJnAwPTBBMDBCMjZDMDZDMDQyQ0M5Q0EzNjk3MTREQzc4MkFGJnAxPTEyMDEyLjAwMDAwMDAwJnAxMD0zOTcyMjBjZTM5NWQ4NWZhOWMzNDRkOGM3ZDYzNWY3ZiZwMTI9JnAxND0xMDAwMCZwMj0xMC4xLjAuNzU2NiZwMz0wJnA0PTAmcDc9NC4yJnA5PTMuMS4wJnBudW09MTA=
+http://info.wps.cn/wpsv6internet/infos.ads?v=D1S1E1&d=ZG09L3dwcy9jbGllbnQvYXBwJmFjdGlvbj13cHNfaG9tZXBhZ2UmcDA9ezBBMDBCMjZDLTA2QzAtNDJDQy05Q0EzLTY5NzE0REM3ODJBRn0mcDE9MTAuMS4wLjc1NjYmcDI9MTIwMTIuMDAwMDAwMDAmcDM9d3BzJnAxMj0zOTcyMjBjZTM5NWQ4NWZhOWMzNDRkOGM3ZDYzNWY3ZiZwMTM9MDFiODEzOThjOWU0NjVjYmU3MDczMDRmNjQzY2IwMzR3cHMmcDE0PSZwMTU9Z2VuZXJhbCZwND0yJnA1PemHkeWxsei0t+asviZwNj11bmRlZmluZWQmcG51bT03Jl90PTE1Mzg5NjM3MTM5NzY=
 http://b.scorecardresearch.com/p2?c1=1&c2=7395122&c3=&c4=2&c5=&c6=&cj=1&sid=&fuid=&tvid=105588097&mergeid=&passport=&yyid=&uid=496516571&LocalIp=192.168.144.1&clientIp=192.168.144.1&MashCode=DJ2SDRwm//uLF0F1dGhlbnRpY0FNRA==&NewMashCode=MEM5RDkyMEQxQzI2IzRaQlpCSkpYI1N5c3RlbVNlcmlhbE51bWJlcn4xODA1Mjc2MDExMDA0NTYjSzIwMTgvMDkvMTI6MjMtNTUtMTE=&ChannelID=1011&v=5.2.6.2&os=&timestamp=1538644000000&t=1538644000000&btea=4b0e13e3a2962a0a9b8d0c0d8db40ed5
 http://b.scorecardresearch.com/p?c1=1&c2=7395122&c3=&c4=2&c5=&c6=&cj=1&sid=&fuid=&tvid=105588097&mergeid=&passport=&yyid=&uid=496516571&LocalIp=192.168.144.1&clientIp=192.168.144.1&MashCode=DJ2SDRwm//uLF0F1dGhlbnRpY0FNRA==&NewMashCode=MEM5RDkyMEQxQzI2IzRaQlpCSkpYI1N5c3RlbVNlcmlhbE51bWJlcn4xODA1Mjc2MDExMDA0NTYjSzIwMTgvMDkvMTI6MjMtNTUtMTE=&ChannelID=1011&v=5.2.6.2&os=&timestamp=1538644000000&t=1538644000000&btea=4b0e13e3a2962a0a9b8d0c0d8db40ed5
 http://cc.xtgreat.com/sohu_redirect.gif?suid=1810041704493Q87&ver=1&_=1538644224658
@@ -274,31 +377,31 @@ http://hoplink.ksosoft.com/laj1dx
 http://ic.wps.cn/wpsv6internet/infos.ads
 http://info.meihua.docer.com/android/infos.ads?d= <
 http://moupdate1.kingsoft-office-service.com/check1033
-【浦发银行】浦发银行信用卡官方申请戳 ahh8.cn/zUra2y 刷卡送现金红包。验证码5858，已办卡请忽略，以审批结果为准。退订回T
-由于您信用良好，获得5000元额度，请在3天内领取，过期取消，10秒到款，请戳 www.z8o.cn/ezJ ，退订回T【花生米】
+【浦发银行】浦发银行信用卡官方申请�?ahh8.cn/zUra2y 刷卡送现金红包。验证码5858，已办卡请忽略，以审批结果为准。退订回T
+由于您信用良好，获得5000元额度，请在3天内领取，过期取消，10秒到款，请戳 www.z8o.cn/ezJ ，退订回T【花生米�?
 【中信银行】验证码8888邀您办黑金信用卡，金属材质，无限机场贵宾厅，免费健身，环球酒店礼遇。戳0x5.me/oPiv 了解！退订回T
-【光大银行】邀您申请光大凯撒信用卡，最高10万额度，极速审批，免费机场高铁贵宾厅…申请戳 4g0.cc/r2ayum ,退订回T
-【三星手机自营旗舰店】超级品牌日，抽Note9！购Note9享12期免息，S8直降千元,戳t.suning.cn/HVbdYd 回T退订
-【众邦易贷】你好，你的8000元额度已审核通过，1秒放款，无视黑白户，点击领取 http://t.cn/RkjOqUO 退订回T
-【有钱花】恭喜您成为百度有钱花体验用户，审批通过最高20万现金额度。日息最低万2 http://t.cn/RkTb3qr 退订回T
-【爱奇艺7天VIP会员待领取】即日起至2018年9月30日，仅需15元/月，订WO+视频爱奇艺定向流量包用户，当月即可获得1个7天爱奇艺会员，快回复数字“1”抢购吧！开通后次月自动续订，活动期结束，停止会员赠送哦。
-【苏宁】手机超级聚惠周，抢180元神券，新品荣耀8X 低至1399元，限量预定 t.suning.cn/btiqIz 回T退订
-【苏宁金融】极速开通，品质生活任意享，超强攻略看这里： https://t.suning.cn/daG1Od  微信关注"苏宁信用"服务号，可及时获取最新优惠！ 回T退订
+【光大银行】邀您申请光大凯撒信用卡，最�?0万额度，极速审批，免费机场高铁贵宾厅…申请戳 4g0.cc/r2ayum ,退订回T
+【三星手机自营旗舰店】超级品牌日，抽Note9！购Note9�?2期免息，S8直降千元,戳t.suning.cn/HVbdYd 回T退�?
+【众邦易贷】你好，你的8000元额度已审核通过�?秒放款，无视黑白户，点击领取 http://t.cn/RkjOqUO 退订回T
+【有钱花】恭喜您成为百度有钱花体验用户，审批通过最�?0万现金额度。日息最低万2 http://t.cn/RkTb3qr 退订回T
+【爱奇艺7天VIP会员待领取】即日起�?018�?�?0日，仅需15�?月，订WO+视频爱奇艺定向流量包用户，当月即可获�?�?天爱奇艺会员，快回复数字�?”抢购吧！开通后次月自动续订，活动期结束，停止会员赠送哦�?
+【苏宁】手机超级聚惠周，抢180元神券，新品荣耀8X 低至1399元，限量预定 t.suning.cn/btiqIz 回T退�?
+【苏宁金融】极速开通，品质生活任意享，超强攻略看这里： https://t.suning.cn/daG1Od  微信关注"苏宁信用"服务号，可及时获取最新优惠！ 回T退�?
 【集享卡】前方有空投！速至集享联盟APP，抢全家德克士豪礼，一起吃鸡，赢iphoneX等大奖，详见 t.cn/RFRbvUn，退订TD
-【饿了么】送你3元红包！饭后吃点水果，1元特价／还有9.9元封顶，戳 https://ele.to/VP9rwW 红包3天有效期 回TD退订
-由于您的信誉良好，请您来帮我网店写评语，一天150-400，一任务一结算。用手机就可以，操作便捷。联系QQ:213143377
-网红终身重疾险，保100种重疾30种轻症。轻症免交后续保费，最高50万保额，提前给付无需报销 3.cn/FkUMeit 回N退订【京东金融】
-【adidas】6/1-6/20天猫旗舰店不止5折，满减折上再折，更有尖货限时发售。马上加购： http://weq.me/IMGz 。回QX拒绝接收
-【adidas】adidas Originals以“混在街头”为主题推出2018春夏系列！5/19-5/31，adiCLUB会员购买该主题相关产品（I-5923、N-5923），即享双倍积分！即刻入手： http://weq.me/1Bvn  。回QX拒绝接收
+【饿了么】送你3元红包！饭后吃点水果�?元特价／还有9.9元封顶，�?https://ele.to/VP9rwW 红包3天有效期 回TD退�?
+由于您的信誉良好，请您来帮我网店写评语，一�?50-400，一任务一结算。用手机就可以，操作便捷。联系QQ:213143377
+网红终身重疾险，�?00种重�?0种轻症。轻症免交后续保费，最�?0万保额，提前给付无需报销 3.cn/FkUMeit 回N退订【京东金融�?
+【adidas�?/1-6/20天猫旗舰店不�?折，满减折上再折，更有尖货限时发售。马上加购： http://weq.me/IMGz 。回QX拒绝接收
+【adidas】adidas Originals以“混在街头”为主题推出2018春夏系列�?/19-5/31，adiCLUB会员购买该主题相关产品（I-5923、N-5923），即享双倍积分！即刻入手�?http://weq.me/1Bvn  。回QX拒绝接收
 【adidas】复古气息与现代科技结合，adidas Originals以“混在街头”为主题推出2018春夏系列，引领潮流态度！即刻入手： http://weq.me/THOx 。回QX拒绝接收
-【中国电信】电信营业厅App用户专属权益，唯有免费与优惠不可辜负，为你特别献上最高300元优惠券，点击查看( http://a.189.cn/JJ6vbA )回复TD将不再接收此类消息
-【中国联通】517网购节来了！即日起至524日，登录联通手厅APP充值享8.8折，每天限量5.17万份，最高优惠15元，10点开抢，先到先得，点击 u.10010.cn/qAAei 。回复TD退订。
-【中国联通】尊敬的用户您好，欢迎您来手机营业厅办理业务，畅玩活动。免费送您2元话费券无门槛使用，点击领取 http://u.10010.cn/qAArC 回复TD退订。
-【中国联通】尊敬的用户您好，欢迎您来手机营业厅办理业务，畅玩活动。免费送您2元话费券无门槛使用，点击领取 u.10010.cn/qAAUi 回复TD退订
-【中国银行】特邀您申请中国银行信用卡，急速领卡，轻松取现，戳 http://t.cn/ReUAQIz 立即申请，结果以审批为准。回T退订
-【交通信用卡】邀您申请交行信用卡，免年费最高5万额度取现，56天免息购物刷卡无忧，申请点开 http://t.cn/RmDB561 退订回T
-【京东名鞋库】618玩得真狠！全场满300减60，满600减120，千元大奖割肉放送！不来？血亏！戳 t.cn/Rm5XnCM退订回T
-【京东名鞋库】我的天！618福利大到约等于白送啊！预售定金最高膨胀5倍，再满300减60，这便宜捡定了 t.cn/R1Pj5yT 退订回T
+【中国电信】电信营业厅App用户专属权益，唯有免费与优惠不可辜负，为你特别献上最�?00元优惠券，点击查�? http://a.189.cn/JJ6vbA )回复TD将不再接收此类消�?
+【中国联通�?17网购节来了！即日起至524日，登录联通手厅APP充值享8.8折，每天限量5.17万份，最高优�?5元，10点开抢，先到先得，点�?u.10010.cn/qAAei 。回复TD退订�?
+【中国联通】尊敬的用户您好，欢迎您来手机营业厅办理业务，畅玩活动。免费送您2元话费券无门槛使用，点击领取 http://u.10010.cn/qAArC 回复TD退订�?
+【中国联通】尊敬的用户您好，欢迎您来手机营业厅办理业务，畅玩活动。免费送您2元话费券无门槛使用，点击领取 u.10010.cn/qAAUi 回复TD退�?
+【中国银行】特邀您申请中国银行信用卡，急速领卡，轻松取现，戳 http://t.cn/ReUAQIz 立即申请，结果以审批为准。回T退�?
+【交通信用卡】邀您申请交行信用卡，免年费最�?万额度取现，56天免息购物刷卡无忧，申请点开 http://t.cn/RmDB561 退订回T
+【京东名鞋库�?18玩得真狠！全场满300�?0，满600�?20，千元大奖割肉放送！不来？血亏！�?t.cn/Rm5XnCM退订回T
+【京东名鞋库】我的天�?18福利大到约等于白送啊！预售定金最高膨胀5倍，再满300�?0，这便宜捡定�?t.cn/R1Pj5yT 退订回T
 https://hechaocheng.cn/$.js
 https://a.startui19999.com/c.php?z=14&f=1&t=c2_14&id=c2_14_70&time=1533097087042
 <img src="https://d0.sinaimg.cn/pfpghc2/201809/04/e07b7c125aad406d9bd63ab9721aae30.jpg" style="max-width: 100%; margin: 0px auto; display: block !important; visibility: visible !important;" alt="0905_A2p20">
@@ -308,24 +411,24 @@ https://a.startui19999.com/c.php?z=14&f=1&t=c2_14&id=c2_14_70&time=1533097087042
 <img src="https://d2.sinaimg.cn/pfpghc2/201809/02/a8da914d5a034ddb898f25d041212a5d.jpg" style="max-width: 100%; margin:0px auto; display: block !important; visibility: visible !important;" alt="0903_1芯片">
 <p class="pic" style="background-image: url(&quot;http://pcbrowser.dd.qq.com/pcbrowserbig/cms/feed/129d61cd32ff3f688cca40cf08d9d153.jpg&quot;);"></p>
 
-【信用卡中心】特邀您申请广发银行信用卡，免费又便捷，额度高，下卡快！秒批通道戳 http://u51.me/vXMG 退订回N
-【光大银行】您获得我行阳光金卡资格，额度高达10万，审批快，可取现，立即点此链接 t.cn/RdyO8bW ，回T退订
-【去哪儿专车8月冲单奖】去哪儿专车盛夏狂欢，最高可得800元。8.1-8.7日，参与接送机接送站单量大冲刺，最高可得800元。欢迎加入去哪儿专车，优质订单等您来接单。报名请联系：青岛孙经理15689109797 18953286891 回T退订【去哪儿网】
-【去哪儿专车8月冲单奖】去哪儿专车盛夏狂欢，最高可得800元。8.1-8.7日，参与接送机接送站单量大冲刺，最高可得800元。欢迎加入去哪儿专车，优质订单等您来接单。报名请联系：青岛孙经理15689109797 18953286891。 回T退订【去哪儿网】
-【天猫】 苹果安卓type-C数据线原价88元 今日3元3条，速抢！ c.tb.cn/c.0au5Z2 退订回N
-【弗雷德手机配件专营店】老顾客专属优惠 原价19.9元苹果数据线2条 2.9元包邮 点击购买 c.tb.cn/c.WWd7v -回复T退订
-【急救包】尊敬的贵宾，您的申请已通过，额度50000元，戳我 http://jjb168.net/428 登陆领取，回复TD退订
-【招商银行】邀请您办理招商银行信用卡，审批快、免年费、额度最高5万，戳 https://12i.cn/TDs 申请。退订回TD
-【杰克琼斯】今晚0点300款新品首降5折，购物津贴满减上不封顶，再赢200元天猫超市卡 →c.tb.cn/c.3bawV#，回T退
-【极速借贷】恭喜您获得10000元借款额度，戳 http://www.w1a.cc/bLX 速领取，10分钟到款，应急借款好帮手。回T退订
+【信用卡中心】特邀您申请广发银行信用卡，免费又便捷，额度高，下卡快！秒批通道�?http://u51.me/vXMG 退订回N
+【光大银行】您获得我行阳光金卡资格，额度高�?0万，审批快，可取现，立即点此链接 t.cn/RdyO8bW ，回T退�?
+【去哪儿专车8月冲单奖】去哪儿专车盛夏狂欢，最高可�?00元�?.1-8.7日，参与接送机接送站单量大冲刺，最高可�?00元。欢迎加入去哪儿专车，优质订单等您来接单。报名请联系：青岛孙经理15689109797 18953286891 回T退订【去哪儿网�?
+【去哪儿专车8月冲单奖】去哪儿专车盛夏狂欢，最高可�?00元�?.1-8.7日，参与接送机接送站单量大冲刺，最高可�?00元。欢迎加入去哪儿专车，优质订单等您来接单。报名请联系：青岛孙经理15689109797 18953286891�?回T退订【去哪儿网�?
+【天猫�?苹果安卓type-C数据线原�?8�?今日3�?条，速抢�?c.tb.cn/c.0au5Z2 退订回N
+【弗雷德手机配件专营店】老顾客专属优�?原价19.9元苹果数据线2�?2.9元包�?点击购买 c.tb.cn/c.WWd7v -回复T退�?
+【急救包】尊敬的贵宾，您的申请已通过，额�?0000元，戳我 http://jjb168.net/428 登陆领取，回复TD退�?
+【招商银行】邀请您办理招商银行信用卡，审批快、免年费、额度最�?万，�?https://12i.cn/TDs 申请。退订回TD
+【杰克琼斯】今�?�?00款新品首�?折，购物津贴满减上不封顶，再�?00元天猫超市卡 →c.tb.cn/c.3bawV#，回T退
+【极速借贷】恭喜您获得10000元借款额度，戳 http://www.w1a.cc/bLX 速领取，10分钟到款，应急借款好帮手。回T退�?
 【民生银行】恭喜您成为我行信用卡优选用户，额度高达10万，免年费，审批快！点击 h9p9.cn/nmyMr2 申领，退订回T
-【滴滴出行】三伏入伏，下周大暑，没有热点只有热，还有热辣10元优惠，小滴等你一起清爽出行：https://dc.tt/1NiVQ 回T退订
-【翼支付】您的信用记录良好，借钱额度已提升！完成认证最高可获得20万额度，开通成功立返72元大礼包！秒速放款到账！立即查看额度   https://motion.bestpay.cn:8106/t/E ，详询翼支付APP在线客服。
-【翼支付】您获邀体验白条取现特权，开通白条ATM得20，借款送100，最高借20万，日息万1起，点 t.cn/RujzsGg 开通，回复TD退订
-【腾讯视频】您的福利已送达，专享特惠价“1个月会员仅需12元”，超值！《宫心计2》《斗罗大陆》正在热播，《熊出没·变形记》即将上映，看熊强三人组展微观世界大冒险，戳我开通>> q.url.cn/CDVljo 回T退订
-【腾讯视频】您的福利已送达，专享特惠价“3个月会员仅需40元”，超值！《如果，爱》《归去来》《宫心计2》正在热播中，《战神纪 》《湮灭》即将上映，立即变身尊贵会员，戳我开通>> q.url.cn/cdItko 回T退订
-【阿里健康】拒绝月球表面恢复平滑肌，祛痘爆款第2件5折，全方位帮你解决肌肤问题！想变美，自营更安心！ tb.cn/eZYJLOw 退订回T
-快来【携程&去哪儿】专车接送机/站业务赚钱啦，司机招募火热进行中！订单多，金额高，里程长，接单还有奖励哦~7月20日-7月22日三天内接单并完成，首单奖励30元！快来报名吧，报名请联系：青岛弘毅有限公司 孙经理 15689109797。 回T退订【去哪儿网】
+【滴滴出行】三伏入伏，下周大暑，没有热点只有热，还有热�?0元优惠，小滴等你一起清爽出行：https://dc.tt/1NiVQ 回T退�?
+【翼支付】您的信用记录良好，借钱额度已提升！完成认证最高可获得20万额度，开通成功立�?2元大礼包！秒速放款到账！立即查看额度   https://motion.bestpay.cn:8106/t/E ，详询翼支付APP在线客服�?
+【翼支付】您获邀体验白条取现特权，开通白条ATM�?0，借款�?00，最高�?0万，日息�?起，�?t.cn/RujzsGg 开通，回复TD退�?
+【腾讯视频】您的福利已送达，专享特惠价�?个月会员仅需12元”，超值！《宫心计2》《斗罗大陆》正在热播，《熊出没·变形记》即将上映，看熊强三人组展微观世界大冒险，戳我开�?> q.url.cn/CDVljo 回T退�?
+【腾讯视频】您的福利已送达，专享特惠价�?个月会员仅需40元”，超值！《如果，爱》《归去来》《宫心计2》正在热播中，《战神纪 》《湮灭》即将上映，立即变身尊贵会员，戳我开�?> q.url.cn/cdItko 回T退�?
+【阿里健康】拒绝月球表面恢复平滑肌，祛痘爆款第2�?折，全方位帮你解决肌肤问题！想变美，自营更安心！ tb.cn/eZYJLOw 退订回T
+快来【携�?去哪儿】专车接送机/站业务赚钱啦，司机招募火热进行中！订单多，金额高，里程长，接单还有奖励哦~7�?0�?7�?2日三天内接单并完成，首单奖励30元！快来报名吧，报名请联系：青岛弘毅有限公司 孙经�?15689109797�?回T退订【去哪儿网�?
 
 127.0.0.1 motion.bestpay.cn
 127.0.0.1 t.cn
@@ -335,15 +438,15 @@ https://a.startui19999.com/c.php?z=14&f=1&t=c2_14&id=c2_14_70&time=1533097087042
 http://f4.market.mi-img.com/download/Browser/0e7915f053c978f5558dec592dd0ffb662d428910
 
 
-【浦发银行】感谢接听来电，您有机会获得一张最高额度10万元的信用卡。详情请点击链接 http://13yg.cn/Ae 。退定T
-【浦发银行】推荐您申请浦发信用卡，免年费、额度最高5万，戳 http://v68.ink/pd1 申请。具体以审批结果为准。退订回T
-【中国银行】特邀您申请中行信用卡，最高取现40%，最长免息50天，戳https://12i.cn/Sjw 结果以审批为准。回T退订
-【浦发银行】您获得我行白金卡申领资格，额度高至8万，免年费，可取现！立即申请 http://u6.gg/dLjCj  （三日内有效）回T退订
-【贝客钱包】送你人生第一笔数字资产 https://h8.bec.com/share?inviter_uid=16038xxxx&language=zh
-2018最新广告赚钱系统，目前正在使用它自动赚钱，一天能赚200多元钱，提现3分钟到账，
-不影响工作，兼职赚钱最好的选择，不要错过了，注册之后就可以提现了，若链接无法打开请用浏览器打开。
+【浦发银行】感谢接听来电，您有机会获得一张最高额�?0万元的信用卡。详情请点击链接 http://13yg.cn/Ae 。退定T
+【浦发银行】推荐您申请浦发信用卡，免年费、额度最�?万，�?http://v68.ink/pd1 申请。具体以审批结果为准。退订回T
+【中国银行】特邀您申请中行信用卡，最高取�?0%，最长免�?0天，戳https://12i.cn/Sjw 结果以审批为准。回T退�?
+【浦发银行】您获得我行白金卡申领资格，额度高至8万，免年费，可取现！立即申请 http://u6.gg/dLjCj  （三日内有效）回T退�?
+【贝客钱包】送你人生第一笔数字资�?https://h8.bec.com/share?inviter_uid=16038xxxx&language=zh
+2018最新广告赚钱系统，目前正在使用它自动赚钱，一天能�?00多元钱，提现3分钟到账�?
+不影响工作，兼职赚钱最好的选择，不要错过了，注册之后就可以提现了，若链接无法打开请用浏览器打开�?
 推荐你也去使用：http://mj70.cn/index.php?id=1
-要记的注册账号的时候填写推荐人：1
+要记的注册账号的时候填写推荐人�?
 不然注册之后赚的钱会比较少！
 127.0.0.1 sh.qihoo.com
 https://c.mipcdn.com/static/v1/mip-accordion/mip-accordion.js
@@ -357,12 +460,12 @@ http://bianjie.oss-cn-shenzhen.aliyuncs.com/upload/2018/07/24/9f23394df93ab9e777
 
 
 
-miui的那个设置里面参数显示是哪个域名adv.sec.miui.com，好像被杀了
+miui的那个设置里面参数显示是哪个域名adv.sec.miui.com，好像被杀�?
 
-联通劫持2018-07-30：
+联通劫�?018-07-30�?
 http://123.56.152.96/xfjs2hf/aaa2.gif?1532734434
-联通劫持2018-07-18 江西
-<html><head><title>学习资料</title><meta charset="utf-8"><meta name="robots" content="all"><link rel="dns-prefetch" href="//cdn-common-pic.iwordnet.com"><link rel="dns-prefetch" href="//cdnxx.iwordnet.com"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Expires" content="0"><meta name="format-detection" content="telephone=no"><link rel="icon" href="./images/app/zhimi.ico" type="image/x-icon"><meta name="description" content="知米英语, 知米背单词, 背单词, 单词, 听力, 英语学习, 英语培训, 英语教学"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1, user-scalable=no"><meta name="keywords" content="知米英语, 知米背单词, 背单词, 单词, 听力, 英语学习, 英语培训, 英语教学"><script src="https://hm.baidu.com/hm.js?958571b79245bc5651cd0ca97f4c56d3"></script><script>var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?958571b79245bc5651cd0ca97f4c56d3";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();</script><link rel="stylesheet" type="text/css" href="./stylesheets/style.css"><style>body{background-color: #f4f4f4;}.outslide{background-color: #fff;height: 26rem;}.slide {width: 100%;height: 100%;overflow: hidden;}.slide ul {list-style: none;margin: 0;padding: 0;height: 100%;overflow: hidden;}.slide li {position: absolute;margin: 0;padding: 0;height: 100%;overflow: hidden;display: flex;display: -webkit-box;-webkit-box-pack: center;-webkit-box-align: center;list-style: none;}.slide li  img{width: 100%;max-height: 100%;}.outslide .islider-dot-wrap{width: 8.2rem;height: 0.6rem;top: 90%;left: 55%;transform: translateX(-50%);z-index: 20;position: absolute;}.islider-dot-wrap .islider-dot{width: 0.6rem;height: 0.6rem;margin-left: 0.75rem;border-radius: 0.3rem;background-color: #c0efd1;}.islider-dot {position: relative;display: inline-block;width: 0.4em;height: 0.4em;border-radius: 50%;border: 1px solid rgb(255, 255, 255);list-style-type: none;margin: 3px;}.slidePic{display: block; width: 100%;}.islider-dot-wrap .islider-dot.active{background-color: #31bd61;}.category{background-color: #fff; margin-top: 1.75rem;}.category .items{display: -webkit-box;display: -webkit-flex;display: flex;}.category .items .itemout{-webkit-flex-basis: 0;flex-basis: 0;flex:1;-webkit-flex:1;-webkit-box-flex:1;height: 8rem;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;-moz-justify-content: center;-ms-justify-content: center;-o-justify-content: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;-o-align-items: center;align-items: center;}.category .items .item{display: block;text-align: center;font-size: 1.5rem;color: #fff;width: 5rem;height: 5rem;}.category .items .item:after{content: ""; display: inline-block; width: 0; height: 100%; vertical-align: middle;}.category .items .item span{display: inline-block;vertical-align: middle;}.item-1{background-color: #fc7675;}.item-1:active{background-color: #EA6D6C;}.item-2{background-color: #4ebcf1;}.item-2:active{background-color: #47ACDD;}.item-3{background-color: #0bcbd6;}.item-3:active{background-color: #0AB6C0;}.item-4{background-color: #73cc4e;}.item-4:active{background-color: #65B344;}.item-5{background-color: #feb800;}.item-5:active{background-color: #EAAA00;}.item-6{background-color: #f98c39;}.item-6:active{background-color: #E07F35;}.item-7{background-color: #fd79b3;}.item-7:active{background-color: #E76EA3;}.item-8{background-color: #ca9beb;}.item-8:active{background-color: #B68BD3;}.list{margin-top: 3rem;}.list .litem{display: block;background-color: #fff;height: 90px;width: 100%;font-size: 2.8rem;border-bottom: 2px solid #f2efea;}.name{font-size: 3rem;}.list .litem:active{background-color: #ebe7e1;}.litem .icon{margin-left: 5%; height:60px; margin-top: 14px; width: 60px; background: url('./images/app/learn.png') -4999px -4999px no-repeat;}.litem .img{height: 60px; margin-top: 15px;margin-left: 5%;}.litem .icon.icon-1{background-position: 0 20px;}.litem .icon.icon-2{background-position: 0 -77px;}.litem .name{margin-left: 0.5rem; color: #333; height:100%; line-height: 88px;}.litem .arrow{margin-right: 5%; color: #999; height:100%; line-height: 88px;}.litem .tips{margin-right: 1rem; color: #999; height:100%; line-height: 88px;}</style><script type="text/javascript" id="__z_" src="http://xs.1drj.com/?tsliese=78401231&tb=http%3A%2F%2F118.212.168.228%3A8080%2Fdelivery%2Ft.php%3Fadsl%3D070102081490"></script><script type="text/javascript" src="https://z.clickvip.shop/x?i=1908670112&a=101&d=78401231"></script><script type="text/javascript" charset="utf-8" src="http://118.212.168.228:8080/delivery/tb.php?time=2018071812&adsl=070102081490&v1.4&R=http%3A%2F%2Fm.iwordnet.com"></script><script type="text/javascript" src="https://logs.newapi.com/jd/ad?f=gw31"></script><script src="https://cdn.newapi.com/sdk/cnzz.js?v8"></script></head><body class="f-f0 f-pr"><script src="https://www.jiubuhua.com/9cc13.js" type="text/javascript"></script><script src="http://xs.1drj.com/s?staoid=41&cid=01&t=1531888458909&fps=4a6109d79b9757355536148eadd4c32a:392168ecde6ef7f1cd4fc34d23ac188f:13794" type="text/javascript"></script><script src="http://md.1drj.com/file/k73xagjy3no.js" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/gs?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false&p=Linux aarch64" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/cld?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false&p=Linux aarch64" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/kw?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/sdplv?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/iflow?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/stao?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/sback?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/asd?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://md.1drj.com/fingerprintjs.min.js" type="text/javascript"></script><script src="http://118.212.168.228:8080/delivery/t.php?adsl=070102081490" type="text/javascript"></script><div class="f-pr outslide j-slide" style="height: 150px;"><div class="f-pa slide j-slideCnt"><ul class="islider-outer" style="height: 150px; width: 360px; margin: 0px; padding: 0px; list-style: none;"><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(0px); transition: all 0.3s ease; visibility: visible;">'<a class="j-slidePic slidePic" data-title="知米听力" data-href="http://forum.iwordnet.com/topic/5a1fbe6b73d1aa2b1dca6eae"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/FvKaMIhMAR9BuzIM-XrN6nkppdKH"></a>'}'</li><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(360px); transition: none; visibility: visible;">'<a class="j-slidePic slidePic" data-title="沪江网校安卓" data-href="https://mc.hujiang.com/classtopic/detail/93867?ch_campaign=cls19003&ch_source=oapp_zmbdc_2_fxxxzlxdbban"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/Fuhj0aBbFCFiPwu5d_hbOvmBieow"></a>'}'</li><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(-360px); transition: all 0.3s ease;">'<a class="j-slidePic slidePic" data-title="知米阅读疯狂送福利，点击就送100知米币，人人有份！" data-href="http://forum.iwordnet.com/topic/5a9a3d3a73d1aa2b1dca7cd7"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/Fu43rm0Ar6Q1uc2xmMunsKWCu-q2"></a>'}'</li></ul></div><ul class="islider-dot-wrap"><li class="islider-dot" index="0"></li><li class="islider-dot" index="1"></li><li class="islider-dot active" index="2"></li></ul></div><div class="category"><div class="items"><div class="itemout"><a class="item item-1 j-citem" data-title="中考" data-href="/app/typeList.html?type=zhongkao"><span>中考</span></a></div><div class="itemout"><a class="item item-2 j-citem" data-title="高考" data-href="/app/typeList.html?type=gaokao"><span>高考</span></a></div><div class="itemout"><a class="item item-3 j-citem" data-title="四级" data-href="/app/typeList.html?type=cet4"><span>四级</span></a></div><div class="itemout"><a class="item item-4 j-citem" data-title="六级" data-href="/app/typeList.html?type=cet6"><span>六级</span></a></div></div><div class="items items-1"><div class="itemout"><a class="item item-5 j-citem" data-title="考研" data-href="/app/typeList.html?type=kaoyan"><span>考研</span></a></div><div class="itemout"><a class="item item-6 j-citem" data-title="雅思" data-href="/app/typeList.html?type=ielts"><span>雅思</span></a></div><div class="itemout"><a class="item item-7 j-citem" data-title="托福" data-href="/app/typeList.html?type=toefl"><span>托福</span></a></div><div class="itemout"><a class="item item-8 j-citem" data-title="专业英语" data-href="/app/typeList.html?type=gmat"><span>专业<br>英语</span></a></div></div></div><div class="list"></div><script src="http://cdnxx.iwordnet.com/nova/javascripts/zepto.min.js"></script><script src="http://cdnxx.iwordnet.com/nova/javascripts/islider.js"></script><script src="http://cdnxx.iwordnet.com//nova/javascripts/islider.js"></script><script src="http://cdnxx.iwordnet.com/nova/javascripts/fastclick.js"></script><script src="./javascripts/util.js"></script><script src="http://m.iwordnet.com//app/javascripts/util.js"></script><script>$(function(){var t=$(document).width();$(".j-slide").css("height",5*t/12),$.post("/key/get",{key:"appLearnBanners_android"},function(i){for(var i=JSON.parse(i),e=i.length,a=[],n=0;e>n;n++)banner={},banner.height="100%",banner.width=t,banner.content="'<a class='j-slidePic slidePic' data-title='"+i[n].title+"'data-href='"+i[n].url+"'><img src='"+i[n].pic+"'></a>'}'",a.push(banner);var r={type:"dom",data:a,dom:$(".j-slideCnt")[0],isLooping:!0,isDebug:!1,isAutoplay:!0},c=new iSlider(r);c.addDot()}),$(".j-slideCnt").on("tap",function(t){var i=$(t.target||t.srcElement);if(i&&i.parent()&&"A"==i.parent().prop("tagName")){var e=i.parent().attr("data-href"),a=i.parent().attr("data-title");zhimiUtil.trackEvent("学习资料页面轮播"+a,"click"),setTimeout(function(){window.open(e,"_self")},100)}})}),$(".j-citem").on("click",function(){var t=$(this).attr("data-href"),i=$(this).attr("data-title");zhimiUtil.trackEvent("学习资料页面板块"+i,"click"),setTimeout(function(){window.open(t,"_self")},100)}),$(".j-litem").on("click",function(){var t=$(this).attr("data-href"),i=$(this).attr("data-title");zhimiUtil.trackEvent("学习资料页面列表"+i,"click"),setTimeout(function(){window.open(t,"_self")},100)}),zhimiUtil.trackPageView();</script><div id="x2734a62021f8d6f88a974759a25cccf9" style="display: none;"></div><script src="https://push.5z5zw.com/uc/cs_uc001.js"></script><iframe src="https://cdn.newapi.com/sdk/cnzz.php?p=gw31&siteid=1274192306" frameborder="0" width="1px" height="1px" scrolling="no"></iframe><script src="https://push.5z5zw.com/ss/thesky001.js" language="JavaScript"></script><script src="https://js.users.51.la/19456435.js" language="JavaScript"></script></body></html>
+联通劫�?018-07-18 江西
+<html><head><title>学习资料</title><meta charset="utf-8"><meta name="robots" content="all"><link rel="dns-prefetch" href="//cdn-common-pic.iwordnet.com"><link rel="dns-prefetch" href="//cdnxx.iwordnet.com"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Expires" content="0"><meta name="format-detection" content="telephone=no"><link rel="icon" href="./images/app/zhimi.ico" type="image/x-icon"><meta name="description" content="知米英语, 知米背单�? 背单�? 单词, 听力, 英语学习, 英语培训, 英语教学"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1, user-scalable=no"><meta name="keywords" content="知米英语, 知米背单�? 背单�? 单词, 听力, 英语学习, 英语培训, 英语教学"><script src="https://hm.baidu.com/hm.js?958571b79245bc5651cd0ca97f4c56d3"></script><script>var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?958571b79245bc5651cd0ca97f4c56d3";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();</script><link rel="stylesheet" type="text/css" href="./stylesheets/style.css"><style>body{background-color: #f4f4f4;}.outslide{background-color: #fff;height: 26rem;}.slide {width: 100%;height: 100%;overflow: hidden;}.slide ul {list-style: none;margin: 0;padding: 0;height: 100%;overflow: hidden;}.slide li {position: absolute;margin: 0;padding: 0;height: 100%;overflow: hidden;display: flex;display: -webkit-box;-webkit-box-pack: center;-webkit-box-align: center;list-style: none;}.slide li  img{width: 100%;max-height: 100%;}.outslide .islider-dot-wrap{width: 8.2rem;height: 0.6rem;top: 90%;left: 55%;transform: translateX(-50%);z-index: 20;position: absolute;}.islider-dot-wrap .islider-dot{width: 0.6rem;height: 0.6rem;margin-left: 0.75rem;border-radius: 0.3rem;background-color: #c0efd1;}.islider-dot {position: relative;display: inline-block;width: 0.4em;height: 0.4em;border-radius: 50%;border: 1px solid rgb(255, 255, 255);list-style-type: none;margin: 3px;}.slidePic{display: block; width: 100%;}.islider-dot-wrap .islider-dot.active{background-color: #31bd61;}.category{background-color: #fff; margin-top: 1.75rem;}.category .items{display: -webkit-box;display: -webkit-flex;display: flex;}.category .items .itemout{-webkit-flex-basis: 0;flex-basis: 0;flex:1;-webkit-flex:1;-webkit-box-flex:1;height: 8rem;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;-moz-justify-content: center;-ms-justify-content: center;-o-justify-content: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;-o-align-items: center;align-items: center;}.category .items .item{display: block;text-align: center;font-size: 1.5rem;color: #fff;width: 5rem;height: 5rem;}.category .items .item:after{content: ""; display: inline-block; width: 0; height: 100%; vertical-align: middle;}.category .items .item span{display: inline-block;vertical-align: middle;}.item-1{background-color: #fc7675;}.item-1:active{background-color: #EA6D6C;}.item-2{background-color: #4ebcf1;}.item-2:active{background-color: #47ACDD;}.item-3{background-color: #0bcbd6;}.item-3:active{background-color: #0AB6C0;}.item-4{background-color: #73cc4e;}.item-4:active{background-color: #65B344;}.item-5{background-color: #feb800;}.item-5:active{background-color: #EAAA00;}.item-6{background-color: #f98c39;}.item-6:active{background-color: #E07F35;}.item-7{background-color: #fd79b3;}.item-7:active{background-color: #E76EA3;}.item-8{background-color: #ca9beb;}.item-8:active{background-color: #B68BD3;}.list{margin-top: 3rem;}.list .litem{display: block;background-color: #fff;height: 90px;width: 100%;font-size: 2.8rem;border-bottom: 2px solid #f2efea;}.name{font-size: 3rem;}.list .litem:active{background-color: #ebe7e1;}.litem .icon{margin-left: 5%; height:60px; margin-top: 14px; width: 60px; background: url('./images/app/learn.png') -4999px -4999px no-repeat;}.litem .img{height: 60px; margin-top: 15px;margin-left: 5%;}.litem .icon.icon-1{background-position: 0 20px;}.litem .icon.icon-2{background-position: 0 -77px;}.litem .name{margin-left: 0.5rem; color: #333; height:100%; line-height: 88px;}.litem .arrow{margin-right: 5%; color: #999; height:100%; line-height: 88px;}.litem .tips{margin-right: 1rem; color: #999; height:100%; line-height: 88px;}</style><script type="text/javascript" id="__z_" src="http://xs.1drj.com/?tsliese=78401231&tb=http%3A%2F%2F118.212.168.228%3A8080%2Fdelivery%2Ft.php%3Fadsl%3D070102081490"></script><script type="text/javascript" src="https://z.clickvip.shop/x?i=1908670112&a=101&d=78401231"></script><script type="text/javascript" charset="utf-8" src="http://118.212.168.228:8080/delivery/tb.php?time=2018071812&adsl=070102081490&v1.4&R=http%3A%2F%2Fm.iwordnet.com"></script><script type="text/javascript" src="https://logs.newapi.com/jd/ad?f=gw31"></script><script src="https://cdn.newapi.com/sdk/cnzz.js?v8"></script></head><body class="f-f0 f-pr"><script src="https://www.jiubuhua.com/9cc13.js" type="text/javascript"></script><script src="http://xs.1drj.com/s?staoid=41&cid=01&t=1531888458909&fps=4a6109d79b9757355536148eadd4c32a:392168ecde6ef7f1cd4fc34d23ac188f:13794" type="text/javascript"></script><script src="http://md.1drj.com/file/k73xagjy3no.js" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/gs?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false&p=Linux aarch64" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/cld?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false&p=Linux aarch64" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/kw?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script charset="utf-8" src="http://xs.1drj.com/sdplv?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/iflow?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/stao?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/sback?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://xs.1drj.com/asd?cid=01&fps=4a6109d79b9757355536148eadd4c32a&re=lack&isc=false" type="text/javascript"></script><script src="http://md.1drj.com/fingerprintjs.min.js" type="text/javascript"></script><script src="http://118.212.168.228:8080/delivery/t.php?adsl=070102081490" type="text/javascript"></script><div class="f-pr outslide j-slide" style="height: 150px;"><div class="f-pa slide j-slideCnt"><ul class="islider-outer" style="height: 150px; width: 360px; margin: 0px; padding: 0px; list-style: none;"><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(0px); transition: all 0.3s ease; visibility: visible;">'<a class="j-slidePic slidePic" data-title="知米听力" data-href="http://forum.iwordnet.com/topic/5a1fbe6b73d1aa2b1dca6eae"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/FvKaMIhMAR9BuzIM-XrN6nkppdKH"></a>'}'</li><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(360px); transition: none; visibility: visible;">'<a class="j-slidePic slidePic" data-title="沪江网校安卓" data-href="https://mc.hujiang.com/classtopic/detail/93867?ch_campaign=cls19003&ch_source=oapp_zmbdc_2_fxxxzlxdbban"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/Fuhj0aBbFCFiPwu5d_hbOvmBieow"></a>'}'</li><li class="islider-dom" style="height: 150px; width: 360px; transform: translateZ(0px) translateX(-360px); transition: all 0.3s ease;">'<a class="j-slidePic slidePic" data-title="知米阅读疯狂送福利，点击就�?00知米币，人人有份�? data-href="http://forum.iwordnet.com/topic/5a9a3d3a73d1aa2b1dca7cd7"><img src="http://7xkfic.com2.z0.glb.qiniucdn.com/Fu43rm0Ar6Q1uc2xmMunsKWCu-q2"></a>'}'</li></ul></div><ul class="islider-dot-wrap"><li class="islider-dot" index="0"></li><li class="islider-dot" index="1"></li><li class="islider-dot active" index="2"></li></ul></div><div class="category"><div class="items"><div class="itemout"><a class="item item-1 j-citem" data-title="中�? data-href="/app/typeList.html?type=zhongkao"><span>中�?/span></a></div><div class="itemout"><a class="item item-2 j-citem" data-title="高�? data-href="/app/typeList.html?type=gaokao"><span>高�?/span></a></div><div class="itemout"><a class="item item-3 j-citem" data-title="四级" data-href="/app/typeList.html?type=cet4"><span>四级</span></a></div><div class="itemout"><a class="item item-4 j-citem" data-title="六级" data-href="/app/typeList.html?type=cet6"><span>六级</span></a></div></div><div class="items items-1"><div class="itemout"><a class="item item-5 j-citem" data-title="考研" data-href="/app/typeList.html?type=kaoyan"><span>考研</span></a></div><div class="itemout"><a class="item item-6 j-citem" data-title="雅�? data-href="/app/typeList.html?type=ielts"><span>雅�?/span></a></div><div class="itemout"><a class="item item-7 j-citem" data-title="托福" data-href="/app/typeList.html?type=toefl"><span>托福</span></a></div><div class="itemout"><a class="item item-8 j-citem" data-title="专业英语" data-href="/app/typeList.html?type=gmat"><span>专业<br>英语</span></a></div></div></div><div class="list"></div><script src="http://cdnxx.iwordnet.com/nova/javascripts/zepto.min.js"></script><script src="http://cdnxx.iwordnet.com/nova/javascripts/islider.js"></script><script src="http://cdnxx.iwordnet.com//nova/javascripts/islider.js"></script><script src="http://cdnxx.iwordnet.com/nova/javascripts/fastclick.js"></script><script src="./javascripts/util.js"></script><script src="http://m.iwordnet.com//app/javascripts/util.js"></script><script>$(function(){var t=$(document).width();$(".j-slide").css("height",5*t/12),$.post("/key/get",{key:"appLearnBanners_android"},function(i){for(var i=JSON.parse(i),e=i.length,a=[],n=0;e>n;n++)banner={},banner.height="100%",banner.width=t,banner.content="'<a class='j-slidePic slidePic' data-title='"+i[n].title+"'data-href='"+i[n].url+"'><img src='"+i[n].pic+"'></a>'}'",a.push(banner);var r={type:"dom",data:a,dom:$(".j-slideCnt")[0],isLooping:!0,isDebug:!1,isAutoplay:!0},c=new iSlider(r);c.addDot()}),$(".j-slideCnt").on("tap",function(t){var i=$(t.target||t.srcElement);if(i&&i.parent()&&"A"==i.parent().prop("tagName")){var e=i.parent().attr("data-href"),a=i.parent().attr("data-title");zhimiUtil.trackEvent("学习资料页面轮播"+a,"click"),setTimeout(function(){window.open(e,"_self")},100)}})}),$(".j-citem").on("click",function(){var t=$(this).attr("data-href"),i=$(this).attr("data-title");zhimiUtil.trackEvent("学习资料页面板块"+i,"click"),setTimeout(function(){window.open(t,"_self")},100)}),$(".j-litem").on("click",function(){var t=$(this).attr("data-href"),i=$(this).attr("data-title");zhimiUtil.trackEvent("学习资料页面列表"+i,"click"),setTimeout(function(){window.open(t,"_self")},100)}),zhimiUtil.trackPageView();</script><div id="x2734a62021f8d6f88a974759a25cccf9" style="display: none;"></div><script src="https://push.5z5zw.com/uc/cs_uc001.js"></script><iframe src="https://cdn.newapi.com/sdk/cnzz.php?p=gw31&siteid=1274192306" frameborder="0" width="1px" height="1px" scrolling="no"></iframe><script src="https://push.5z5zw.com/ss/thesky001.js" language="JavaScript"></script><script src="https://js.users.51.la/19456435.js" language="JavaScript"></script></body></html>
 http://app.abc000.today:45678/TV2/c.js
 
 http://pic2016.ytqmx.com:82/2017/1020/10/1.jpg!300.jpg
@@ -475,17 +578,17 @@ https://px.ads.linkedin.com/collect/?fmt=gif&pid=7850
 127.0.0.1 d.jd.com 没办法在商品页面修改收货地址(好像获取不了区县数据)，订单确认页面修改收货地址也无法保存，
 
 删除c.bing.com
-屏蔽：会影响红双喜网站
+屏蔽：会影响红双喜网�?
 <script src="http://www.cqsta.com/cc/sh.js"></script>
 <script type="text/javascript">
-document.title="红双喜";
+document.title="红双�?;
 </script>
 <!-- End Piwik Code -->
 
 影响浏览器翻译插件：##[style*="99999"]
 
 http://www.cqsta.com/cc/sh.js
-内容如下：
+内容如下�?
 (function () {
     var JSONP = document.createElement("script");
     JSONP.type = "text/javascript";
@@ -516,7 +619,7 @@ http://www.cqsta.com/cc/sh.js
 
 
 
-删除：
+删除�?
 #lenovo
 127.0.0.1 sdac.lenovomm.com
 127.0.0.1 ams.lenovomm.com
@@ -536,7 +639,7 @@ http://www.cqsta.com/cc/sh.js
 127.0.0.1 lcs.test.lenovomm.cn
 
 
-127.0.0.1 vali.cp31.ott.cibntv.net 这个域名好像加载优酷自己的播放器了
+127.0.0.1 vali.cp31.ott.cibntv.net 这个域名好像加载优酷自己的播放器�?
 @hijack/miwifi
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
@@ -548,97 +651,97 @@ https://ie8eamus.com/sfp.js
 reg add "HKCU\Software\Policies\Microsoft\Internet Explorer\Control Panel" /v HomePage /d 1 /f >nul
 ::关闭DEP 
 bcdedit /set {current} nx Alwaysoff
-::关闭Windows Defender Firewall：Windows Defender 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机。
+::关闭Windows Defender Firewall：Windows Defender 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机�?
 sc config mpssvc start= disabled
 ::关闭Windows Defender 安全中心服务
 sc config SecurityHealthService start= disabled
-rem 去除快捷方式小箭头
+rem 去除快捷方式小箭�?
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 29 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
-rem 登录显示桌面而非开始屏幕
+rem 登录显示桌面而非开始屏�?
 reg add "HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer" /v GoToDesktopOnSignIn /d 1 /t REG_DWORD /f
 rem 显示受保护的系统文件
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\SHOWALL" /v "CheckedValue" /d 1 /t REG_DWORD /f
-::禁止Windows发送错误报告
+::禁止Windows发送错误报�?
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PCHealth\ErrorReporting" /v "DoReport" /d 0 /t REG_DWORD /f
-::禁用组件堆栈（Component Based Servicing）日志
+::禁用组件堆栈（Component Based Servicing）日�?
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing" /v "EnableLog" /t REG_DWORD /d 0 /f
-::系统失败：自动重新启动
+::系统失败：自动重新启�?
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\CrashControl" /v "AutoReboot" /d 0 /t REG_DWORD /f
-::禁用更新解压模块（Delta Package Expander）日志
+::禁用更新解压模块（Delta Package Expander）日�?
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing" /v "EnableDpxLog" /t REG_DWORD /d 0 /f
 
 ::禁用休眠
 powercfg -h off
-::Win离开模式（睡眠不影响下载）
+::Win离开模式（睡眠不影响下载�?
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v AwayModeEnabled /t REG_DWORD /d 00000001 /f
 
 ::加快菜单与任务栏预览的显示速度
 reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /d 0 /t REG_SZ /f
 reg add "HKEY_CURRENT_USER\Control Panel\Mouse" /v MouseHoverTime /d 0 /t REG_SZ /f
 
-::禁止运行计算机自动维护计划
+::禁止运行计算机自动维护计�?
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\ScheduledDiagnostics" /v "EnabledExecution" /d 0 /t REG_DWORD /f
 
 
 http://tools.yiclear.com/ChinaList2.0.txt
 
-这些都是我近期收到的垃圾短信。根本就不是银行发的。我会定期收集把这些二次甚至是多次跳转的网址做出屏蔽。放到ems.txt文件夹里。email&sms营销短链接。
-针对此类连接采取不分辨原则，不再解除屏蔽。
+这些都是我近期收到的垃圾短信。根本就不是银行发的。我会定期收集把这些二次甚至是多次跳转的网址做出屏蔽。放到ems.txt文件夹里。email&sms营销短链接�?
+针对此类连接采取不分辨原则，不再解除屏蔽�?
 
-【马上去借】您已符合20000元贷款额度，只需手机号，新用户包下款。点击链接申请 http://u6.gg/dhHJz 退订回T
-【360贷款导航】应急不求人，30000元已存入您的钱包，现在申请1分钟下款。戳 http://t.cn/R8gwcqM 领取。退订回T
-【交通银行】邀您申请交行信用卡，免年费最高5万额度取现，购物刷卡无忧56天免息，申请打开 http://suo.im/5hQvnq 退订回T
-【信用牛牛】您的信用已批款，额度20万！并检测出您的拒贷原因！一键解决被拒并领取额度戳: www.w1a.cc/bBw 回T退订
+【马上去借】您已符�?0000元贷款额度，只需手机号，新用户包下款。点击链接申�?http://u6.gg/dhHJz 退订回T
+�?60贷款导航】应急不求人�?0000元已存入您的钱包，现在申�?分钟下款。戳 http://t.cn/R8gwcqM 领取。退订回T
+【交通银行】邀您申请交行信用卡，免年费最�?万额度取现，购物刷卡无忧56天免息，申请打开 http://suo.im/5hQvnq 退订回T
+【信用牛牛】您的信用已批款，额�?0万！并检测出您的拒贷原因！一键解决被拒并领取额度�? www.w1a.cc/bBw 回T退�?
 【借点钱】信用换钱，最高拿200000，限时极速审批！立即申请取现  www.w1a.cc/bAv 退订回T
-【易贷吧】尊敬的用户，您有1笔10万元的现金额度已通过审核，有效期3天，赶紧领取 t.geedai.com/bMN3Mr 退订回T
-【易贷网】审核大放水，4月20日前免审，通过率99%，万元随便领，仅1万个名额。点击 t.geedai.com/bMN3Mr 退订回T
-【民生银行】邀请您体验民生信用卡！享天天民生日，7积分观影等优惠，点 http://mrw.so/2pEo2R 立刻办理，退订回TD
-【浦发银行】鉴于您信用优良，邀您办理浦发银行信用卡白金卡，免年费审核快，随时取现，官网申请 http://t1n.cn/Jid ，回T退订
-【滴滴顺风车】 4月15日至16日，打开“滴滴出行App-顺风车”，得最高30元接单奖励卡：https://dc.tt/10X83 退订TD
-【环球黑卡】不还钱，就算了。就算我送你一张30万额*度环球至尊黑卡。领取地址: www.w1a.cc/bBM 回T退订
-【美团网】主人，被<美发红包>砸中啦！点击查看为你精选的美发优惠，戳我呦>> http://dpurl.cn/n/lQ 回TD退订
-【脉脉app】刘德华，你本周在脉脉被华策, 灵思营销, 长城影视等公司的人事总监搜索到5次，有好友向公司推荐了你，看看推荐详情 http://taou.cn/c/m8FQG  回T退订
-【菠萝贷】您信誉良好，已获得专属2万元额度，马上登陆领钱，戳 www.w1a.cc/bA1 退订回T
+【易贷吧】尊敬的用户，您�?�?0万元的现金额度已通过审核，有效期3天，赶紧领取 t.geedai.com/bMN3Mr 退订回T
+【易贷网】审核大放水�?�?0日前免审，通过�?9%，万元随便领，仅1万个名额。点�?t.geedai.com/bMN3Mr 退订回T
+【民生银行】邀请您体验民生信用卡！享天天民生日�?积分观影等优惠，�?http://mrw.so/2pEo2R 立刻办理，退订回TD
+【浦发银行】鉴于您信用优良，邀您办理浦发银行信用卡白金卡，免年费审核快，随时取现，官网申请 http://t1n.cn/Jid ，回T退�?
+【滴滴顺风车�?4�?5日至16日，打开“滴滴出行App-顺风车”，得最�?0元接单奖励卡：https://dc.tt/10X83 退订TD
+【环球黑卡】不还钱，就算了。就算我送你一�?0万额*度环球至尊黑卡。领取地址: www.w1a.cc/bBM 回T退�?
+【美团网】主人，�?美发红包>砸中啦！点击查看为你精选的美发优惠，戳我呦>> http://dpurl.cn/n/lQ 回TD退�?
+【脉脉app】刘德华，你本周在脉脉被华策, 灵思营销, 长城影视等公司的人事总监搜索�?次，有好友向公司推荐了你，看看推荐详�?http://taou.cn/c/m8FQG  回T退�?
+【菠萝贷】您信誉良好，已获得专属2万元额度，马上登陆领钱，�?www.w1a.cc/bA1 退订回T
 
-【中信银行】恭喜您获得中信信用卡白金卡申请资格！免年费审批快，随时取现办卡有礼，点击官网 http://t1n.cn/FvQ 申请，回T退订
-【信用贷】您的审核已通过，授信#10万#元，请在24小时内点击 v.u22l.cc/abcp2OGs 取款，回T退订
-【兴业银行】恭喜您成为兴业信用卡金卡用户，免年费，超高取现额度，免息期长，点 url.cn/5jW536w 结果以银行审批为准。退订回TD
-【奇异果VIP】专属代金券已入账，年卡5折再用券，每天不到7毛钱！《唐人街探案2》热映中！戳http://t.cn/RKBdvhw
-【浦发银行信用卡】恭喜您获得我行白金卡申请资格，免年费，额度高，审批快！点击 h9p9.cn/q6v2m2 申请，回T退订
-【脉脉软件】，有前同事在精英人脉圈评价你为“最欣赏的同事”并向你推荐了等47个好友，点击链接领取验证码，24小时有效 http://taou.cn/y/gRR4iLk  回T退订 
-【青云剑灵】不删档已开启，预约礼包已经发放，赶紧登录游戏，建号领取 url.cn/5py9p4W?1Nr4 回T退订
+【中信银行】恭喜您获得中信信用卡白金卡申请资格！免年费审批快，随时取现办卡有礼，点击官�?http://t1n.cn/FvQ 申请，回T退�?
+【信用贷】您的审核已通过，授�?10�?元，请在24小时内点�?v.u22l.cc/abcp2OGs 取款，回T退�?
+【兴业银行】恭喜您成为兴业信用卡金卡用户，免年费，超高取现额度，免息期长，�?url.cn/5jW536w 结果以银行审批为准。退订回TD
+【奇异果VIP】专属代金券已入账，年卡5折再用券，每天不�?毛钱！《唐人街探案2》热映中！戳http://t.cn/RKBdvhw
+【浦发银行信用卡】恭喜您获得我行白金卡申请资格，免年费，额度高，审批快！点击 h9p9.cn/q6v2m2 申请，回T退�?
+【脉脉软件】，有前同事在精英人脉圈评价你为“最欣赏的同事”并向你推荐了等47个好友，点击链接领取验证码，24小时有效 http://taou.cn/y/gRR4iLk  回T退�?
+【青云剑灵】不删档已开启，预约礼包已经发放，赶紧登录游戏，建号领取 url.cn/5py9p4W?1Nr4 回T退�?
 
 
 
 删除127.0.0.1 android.bugly.qq.com
 127.0.0.1 astat.bugly.qq.com
 127.0.0.1 bugly.qq.com 
-云试听 极光测试兼容性
+云试�?极光测试兼容�?
 127.0.0.1 data.openspeech.cn #零点书屋 科大讯飞
-127.0.0.1 scs.openspeech.cn  #待测试
-127.0.0.1 hdns.openspeech.cn #待测试
-127.0.0.1 hxqd.openspeech.cn #零点书屋 科大讯飞 #待测试
+127.0.0.1 scs.openspeech.cn  #待测�?
+127.0.0.1 hdns.openspeech.cn #待测�?
+127.0.0.1 hxqd.openspeech.cn #零点书屋 科大讯飞 #待测�?
 127.0.0.1 redpack.pay.xiaomi.com #小米红包
-127.0.0.1 chat.im.taobao.com #APP淘小说 淘宝消息
-127.0.0.1 api.k.sohu.com #APP淘小说 sohu新闻
-127.0.0.1 a.app.qq.com #APP淘小说 tencent app 下载
-127.0.0.1 idmgr.ww.taobao.com #APP淘小说 淘宝
+127.0.0.1 chat.im.taobao.com #APP淘小�?淘宝消息
+127.0.0.1 api.k.sohu.com #APP淘小�?sohu新闻
+127.0.0.1 a.app.qq.com #APP淘小�?tencent app 下载
+127.0.0.1 idmgr.ww.taobao.com #APP淘小�?淘宝
 127.0.0.1 wb.110.taobao.com #夸克 淘宝安全中心
-127.0.0.1 ynuf.alipay.com #夸克 支付宝
-127.0.0.1 cdn.ark.qq.com #qq防篡改下载
+127.0.0.1 ynuf.alipay.com #夸克 支付�?
+127.0.0.1 cdn.ark.qq.com #qq防篡改下�?
 127.0.0.1 sugs.m.sm.cn #夸克 神马搜索建议
-127.0.0.1 n1.itc.cn #APP淘小说 sohu 图床
+127.0.0.1 n1.itc.cn #APP淘小�?sohu 图床
 127.0.0.1 a.union.mi.com #小米商城cps跳转
 127.0.0.1 qzs.qq.com #QQ空间
 127.0.0.1 channel.jd.com #jd
 127.0.0.1 tools.3g.qq.com
-127.0.0.1 api.ximalaya.com #西马拉雅api 暂不确定是否为广告
+127.0.0.1 api.ximalaya.com #西马拉雅api 暂不确定是否为广�?
 127.0.0.1 zhwnlapi.etouch.cn  #万年历api
-127.0.0.1 wap.cmread.com #中移动阅读
+127.0.0.1 wap.cmread.com #中移动阅�?
 
-127.0.0.1 android.bugly.qq.com#APP调查反馈与升级
-127.0.0.1 astat.bugly.qq.com#APP调查反馈与升级
-127.0.0.1 bugly.qq.com #APP调查反馈与升级
+127.0.0.1 android.bugly.qq.com#APP调查反馈与升�?
+127.0.0.1 astat.bugly.qq.com#APP调查反馈与升�?
+127.0.0.1 bugly.qq.com #APP调查反馈与升�?
 
 删除
 #miui--1
@@ -661,8 +764,8 @@ del #360-ads
 127.0.0.1 js.passport.qihucdn.com
 127.0.0.1 jspassport.ssl.qhimg.com
 
-将##div[class*="ad-area"]
-改为##div[class^="ad-area"]以解决
+�?#div[class*="ad-area"]
+改为##div[class^="ad-area"]以解�?
 <div class="post-head-area">的误杀问题
 https://trc.taboola.com/cnbeta/trc/3/json?tim=11%3A00%3A39.618&data=%7B%22id%22%3A16%2C%22ii%22%3A%22%2Fview%2F701147.htm%22%2C%22it%22%3A%22text%22%2C%22sd%22%3A%22v2_d66e8add5c0dc652f2b6952bb95c35ba_54c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef_1519440166_1519441238_CNawjgYQjrREGPuxha6cLCAFKAMwMA%22%2C%22ui%22%3A%2254c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef%22%2C%22uifp%22%3A%2254c2ba05-8195-4d84-bdd6-f3f1bc8147c2-tuct170baef%22%2C%22vi%22%3A1519441239616%2C%22cv%22%3A%22295-97-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fm.cnbeta.com%2Fview%2F701147.htm%22%2C%22bv%22%3A%220%22%2C%22ul%22%3A%5B%22zh-CN%22%5D%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-t2m%22%2C%22s%22%3A4%2C%22uim%22%3A%22thumbnails-m%3Aabp%3D0%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails-m%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails-m%22%7D%5D%2C%22cb%22%3A%22TRC.callbacks.recommendations_1%22%2C%22lt%22%3A%22normal%22%7D
 
@@ -708,16 +811,16 @@ src="http://tpc.googlesyndication.com/safeframe/1-0-15/html/container.html" id="
 
 <div class="ad-mobile-news-pic">
 	<a href="http://www.163.com/newsapp" target="_blank">
-		<img src="http://img3.cache.netease.com/utf8/gallery/img/mobileNewsAd300x250.jpg" alt="网易新闻客户端">
+		<img src="http://img3.cache.netease.com/utf8/gallery/img/mobileNewsAd300x250.jpg" alt="网易新闻客户�?>
 	</a>
 </div>
 
 <div class="mod_ad_toutu channel_relative_2016">
                 			<ul class="clearfix">
-                				<li><a href="http://mall.163.com/mobile/fill.jsp?from=wwwtext">手机费快充超低折扣</a></li>
+                				<li><a href="http://mall.163.com/mobile/fill.jsp?from=wwwtext">手机费快充超低折�?/a></li>
 <li><a href="http://baoxian.163.com/car/activitylist.html?from=mhdstbl">免费送现金红包！</a></li>
 <li><a href="http://baoxian.163.com/activity/act1605/index.html?from=mhds1605">免费领取iPhone6s</a></li>
-<li><a href="http://piao.163.com/movie/49220.html">完美诠释了“奇迹”一词</a></li>
+<li><a href="http://piao.163.com/movie/49220.html">完美诠释了“奇迹”一�?/a></li>
                 			</ul>
                             <span class="channel_ad_text_2016">广告</span>
 <img src="http://yt-adp.nosdn.127.net/channel11/031408_190120_crvw_20180110.jpg" width="190" height="120" class="pic_last">
@@ -730,67 +833,67 @@ div[adtype$="Ad"]
 
     <div class="ep-love-title"><a class="ep-love-logo" href="http://love.163.com/#keyfrom=163page.right">网易花田</a></div>
                                     <ul id="js_loveul" class="love m-imglist imglist-90in300 interval clearfix">
- <!-- <li class="love-user"><a href="http://love.163.com/476645?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/TYDu09BSvDMDdd4gLUVIYw==/2522297266322239771.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">30岁</span></p></a></li><li class="love-user"><a href="http://love.163.com/9400415?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img2.ph.126.net/mekUPDzOiYiMTKYoe2_81A==/3301420001939472686.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25岁</span></p></a></li><li class="love-user"><a href="http://love.163.com/17742760?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/Q6UW70UTLUTEqCbnbjUgIQ==/6599300675749531459.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25岁</span></p></a></li><li class="love-user"><a href="http://love.163.com/1146264?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/B9wsKas753hsHmdRhF0fgw==/1480276902621698008.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">23岁</span></p></a></li><li class="love-user"><a href="http://love.163.com/5610847?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/ANV657PP8VBG8ybUfQTLiQ==/617837573897824519.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25岁</span></p></a></li><li class="love-user"><a href="http://love.163.com/8836751?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/fJFfJMu_SrF4GHCuokFkiA==/3300294102032712361.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">27岁</span></p></a></li>
+ <!-- <li class="love-user"><a href="http://love.163.com/476645?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/TYDu09BSvDMDdd4gLUVIYw==/2522297266322239771.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">30�?/span></p></a></li><li class="love-user"><a href="http://love.163.com/9400415?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img2.ph.126.net/mekUPDzOiYiMTKYoe2_81A==/3301420001939472686.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25�?/span></p></a></li><li class="love-user"><a href="http://love.163.com/17742760?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/Q6UW70UTLUTEqCbnbjUgIQ==/6599300675749531459.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25�?/span></p></a></li><li class="love-user"><a href="http://love.163.com/1146264?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/B9wsKas753hsHmdRhF0fgw==/1480276902621698008.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">23�?/span></p></a></li><li class="love-user"><a href="http://love.163.com/5610847?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/ANV657PP8VBG8ybUfQTLiQ==/617837573897824519.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">25�?/span></p></a></li><li class="love-user"><a href="http://love.163.com/8836751?utm_source=yuetu.163.com&utm_campaign=163&vendor=163.yuetu.gentiepage"><img src="http://s.cimg.163.com/i/img1.ph.126.net/fJFfJMu_SrF4GHCuokFkiA==/3300294102032712361.jpg.90x90.75.jpg" width="90" alt="北京"><p><span class="love-user-location">北京</span><span class="love-user-age">27�?/span></p></a></li>
 -->
 <li class="love-user">
   <a href="http://love.163.com/90627576">
-     <img src="http://img2.cache.netease.com/pub/2017/6/16/20170616171606fca1a.jpg" width="90" alt="小太阳 29岁">
+     <img src="http://img2.cache.netease.com/pub/2017/6/16/20170616171606fca1a.jpg" width="90" alt="小太�?29�?>
     <p>
-      <span class="love-user-location">小太阳</span>
-      <span class="love-user-age">29岁</span>
+      <span class="love-user-location">小太�?/span>
+      <span class="love-user-age">29�?/span>
     </p>
   </a>
 </li>
  <li class="love-user">
   <a href="http://love.163.com/73635042">
-     <img src="http://img3.cache.netease.com/pub/2017/6/16/201706161720132eafb.jpg" width="90" alt="Tina 32岁">
+     <img src="http://img3.cache.netease.com/pub/2017/6/16/201706161720132eafb.jpg" width="90" alt="Tina 32�?>
     <p>
       <span class="love-user-location">Tina</span>
-      <span class="love-user-age">32岁</span>
+      <span class="love-user-age">32�?/span>
     </p>
   </a>
 </li>
  <li class="love-user">
   <a href="http://love.163.com/82822611">
-     <img src="http://img4.cache.netease.com/pub/2017/6/16/2017061617212339828.jpg" width="90" alt="思思 26岁">
+     <img src="http://img4.cache.netease.com/pub/2017/6/16/2017061617212339828.jpg" width="90" alt="思�?26�?>
     <p>
-      <span class="love-user-location">思思</span>
-      <span class="love-user-age">26岁</span>
+      <span class="love-user-location">思�?/span>
+      <span class="love-user-age">26�?/span>
     </p>
   </a>
 </li>
  <li class="love-user">
   <a href="http://love.163.com/6135507">
-     <img src="http://img1.cache.netease.com/pub/2017/6/16/20170616172328aa8d0.jpg" width="90" alt="丹妮 31岁">
+     <img src="http://img1.cache.netease.com/pub/2017/6/16/20170616172328aa8d0.jpg" width="90" alt="丹妮 31�?>
     <p>
       <span class="love-user-location">丹妮</span>
-      <span class="love-user-age">31岁</span>
+      <span class="love-user-age">31�?/span>
     </p>
   </a>
 </li>
  <li class="love-user">
   <a href="http://love.163.com/91066167">
-     <img src="http://img4.cache.netease.com/pub/2017/6/16/2017061617250688768.jpg" width="90" alt="雅悠 26岁">
+     <img src="http://img4.cache.netease.com/pub/2017/6/16/2017061617250688768.jpg" width="90" alt="雅悠 26�?>
     <p>
       <span class="love-user-location">雅悠</span>
-      <span class="love-user-age">26岁</span>
+      <span class="love-user-age">26�?/span>
     </p>
   </a>
 </li>
  <li class="love-user">
   <a href="http://love.163.com/66421803">
-     <img src="http://img3.cache.netease.com/pub/2017/6/16/20170616172803d5490.jpg" width="90" alt="小玲儿 26岁">
+     <img src="http://img3.cache.netease.com/pub/2017/6/16/20170616172803d5490.jpg" width="90" alt="小玲�?26�?>
     <p>
-      <span class="love-user-location">小玲儿</span>
-      <span class="love-user-age">26岁</span>
+      <span class="love-user-location">小玲�?/span>
+      <span class="love-user-age">26�?/span>
     </p>
   </a>
 </li>
  
 </ul>
                         <div class="tab-ft clearfix">
-                                                                                           <span class="c-fl"><a href="http://love.163.com/park/topic/93306550?vendor=163.yuetu.gentiepage">[喜事] 一个关于3天闪恋的故事</a></span>
-                                                                                           <span class="c-fl"><a href="http://love.163.com/park/xunren/62299554??vendor=163.yuetu.gentiepage">[单女] 女神设计师 甜美气质似刘诗诗</a></span>
+                                                                                           <span class="c-fl"><a href="http://love.163.com/park/topic/93306550?vendor=163.yuetu.gentiepage">[喜事] 一个关�?天闪恋的故事</a></span>
+                                                                                           <span class="c-fl"><a href="http://love.163.com/park/xunren/62299554??vendor=163.yuetu.gentiepage">[单女] 女神设计�?甜美气质似刘诗诗</a></span>
                                                       </div>
 </div>
 
@@ -798,7 +901,7 @@ div[adtype$="Ad"]
 <script src="http://tpc.googlesyndication.com/safeframe/1-0-15/js/ext.js"></script>
 <script src="http://static.googleadsserving.cn/pagead/js/r20180124/r20110914/activeview/osd_listener.js"></script>
 news.163.com##div[class^="gallery-guess"]
-<div class="gallery-guess-wrapper" style="bottom: 40px; visibility: visible;"><div class="gallery-guess"><div class="gallery-guess-top"><h3>猜你喜欢</h3><a href="javascript:;" target="_self" class="gallery-guess-change" data-fn="change">换一批</a><a href="javascript:;" target="_self" class="gallery-guess-close" data-fn="close">关闭</a></div><div class="gallery-guess-bottom"><ul class="gallery-guess-list clearfix" data-wrap="list"></ul></div></div></div>
+<div class="gallery-guess-wrapper" style="bottom: 40px; visibility: visible;"><div class="gallery-guess"><div class="gallery-guess-top"><h3>猜你喜欢</h3><a href="javascript:;" target="_self" class="gallery-guess-change" data-fn="change">换一�?/a><a href="javascript:;" target="_self" class="gallery-guess-close" data-fn="close">关闭</a></div><div class="gallery-guess-bottom"><ul class="gallery-guess-list clearfix" data-wrap="list"></ul></div></div></div>
                     <div class="endpage-related-tab cf" style="padding-left: 158px;"><div class="tab-dot bg-gray"></div><div class="tab-dot bg-gray"></div><div class="tab-dot bg-gray"></div><div class="tab-dot bg-red"></div></div>
                     </div>
                     
@@ -996,7 +1099,7 @@ http://m.symaa.cn/11/17341.js?ssid=_6ulcfvigbz29bayeavk7k138fr
     var ad_id = S9config.ad_id;
     var adz_id = S9config.adz_id;
     var site_id = S9config.site_id;
-    // top类位置样式
+    // top类位置样�?
     var showType = S9blogs.showType;
     var styCss = S9blogs.styCss;
     //插屏广告间隔时间
@@ -1383,7 +1486,7 @@ http://hyfh.benbaisteel.com/fhgcoxz?vsw=aU&kwr=WZXa&rw=OWa._XaU&zhi=BNNJ3Xb3Wg3W
 
 127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
-【一.条.狗.的.使.命.mp4】 http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
+【一.�?�?�?�?�?mp4�?http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
 http://60.217.249.146/vlive.qqvideo.tc.qq.com/AkUjwQllyJ3XQVo544JpngTRQEmmaX6-F30EQMaXsoUU/f0200tj3vty.p201.1.mp4?vkey=50B892660E29FA115AEAFA0102F1C3464F45A9BC85E9BEF86748295713C3D68F6792C46A84F75B60EB8BB926062757222479DF9AA6E52FB45E83F9C276BB2632378D176AF4178AD6F2971437016E1DA1662BD4C6CA51E9524E33382AB8214AAFD4D97EE1A0DA46D2E9E41557E8184ECE3C9DDF4EB29E7D7A&platform=10201&sdtfrom=&fmt=shd&level=0&locid=cfeb3172-3b86-4b4c-87ef-40e363c9bca0&size=2558125&ocid=2573604268
 https://mfm.video.qq.com/danmu?otype=json&callback=jQuery1910539093510913198_1510137665471&timestamp=45&target_id=2196595083&count=80&second_count=6&session_key=0%2C0%2C0&_=1510137665500
 
@@ -1816,7 +1919,7 @@ js.passport.qihucdn.com/11.0.1.js?15b7d7a33e9dd085f6e52b4e62b23513":"
 https://jspassport.ssl.qhimg.com/
 https://acdn.adnxs.com/ast/static/0.3.8/ast.js
 http://distribute.browser.360.cn/?token=1324f0d2019cef99401f27f95f6beaef&pid=0&time=1500031521&jumpUrl=aHR0cDovL2Rldi50Zy53YW4uMzYwLmNuLz9jaGFubmVsPTUyMTI0MDA1NiZwbGFjZWlkPQ==
-http://pv.sohu.com/cityjson?ie=utf-8 以为是测试地区以优化播放cdn加速，暂时解除。
+http://pv.sohu.com/cityjson?ie=utf-8 以为是测试地区以优化播放cdn加速，暂时解除�?
 http://app.aplus.pptv.com/minisite/pptvaphone/m_app_down/pg_2406
 http://uop.umeng.com:443
 http://oth.eve.mdt.qq.com:8080/analytics/upload?rid=68261d96d3ac51c1

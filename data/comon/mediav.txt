@@ -19,6 +19,7 @@
 127.0.0.1 sdk.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show-3.mediav.com
+127.0.0.1 show-f.mediav.com
 127.0.0.1 show-g.mediav.com
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com
