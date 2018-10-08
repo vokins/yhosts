@@ -3031,6 +3031,9 @@
 127.0.0.1 www.xiaohui2.cn
 127.0.0.1 1.xiaozhizhijia.com
 127.0.0.1 jc.anhuilitian.net
+#http://m.qukantv.net
+127.0.0.1 e.60608787.com
+127.0.0.1 u.umm6.cn
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
