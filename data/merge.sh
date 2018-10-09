@@ -21,10 +21,6 @@ function merge(){
 }
 
 function append() {
-    if [[ ! -f './temp' ]]; then
-        # make temp file
-        touch ./temp
-    fi
     for i in $ignore
     do
         # echo $i
@@ -37,5 +33,14 @@ function append() {
     cat $1 >> ./temp
 }
 
+# make temp file
+if [[ ! -f './temp' ]]; then
+    # make temp file
+    touch ./temp
+    echo "make temp"
+else
+    rm -f ./temp && touch ./temp
+    echo "make temp"
+fi
 # merge current dir
 merge .
