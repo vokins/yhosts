@@ -2611,6 +2611,9 @@
 127.0.0.1 vol.txdwc.cn
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 ym.ychap.com
+127.0.0.1 xxy.nxkycx.com
+127.0.0.1 photo.jbbath.cn
+127.0.0.1 m.gbaog.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -5183,6 +5186,10 @@
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+#cnr.cn
+127.0.0.1 adsame1.cnr.cn
+127.0.0.1 d1.cnr.cn
+127.0.0.1 ggdata1.cnr.cn
 #http://live.fjtv.net/
 127.0.0.1 adv.fjtv.net
 #http://live.jstv.com/
