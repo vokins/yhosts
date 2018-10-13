@@ -50,6 +50,8 @@
 127.0.0.1 trial.alcohol-soft.com
 #ashampoo
 127.0.0.1 licenses.ashampoo.com
+#Capture One
+127.0.0.1 activation.phaseone.com
 #cuteftp
 127.0.0.1 dbregistration.cuteftp.com
 #cyberlink

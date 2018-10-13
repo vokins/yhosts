@@ -1,5 +1,5 @@
 
-#version=201810131635
+#version=201810132319
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -11,6 +11,7 @@
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 licenses.ashampoo.com
+127.0.0.1 activation.phaseone.com
 127.0.0.1 dbregistration.cuteftp.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
