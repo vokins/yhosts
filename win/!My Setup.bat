@@ -635,12 +635,6 @@ PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
 ::日历和邮件
 PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
-::Xbox
-PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxGaming* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
 ::Groove音乐
 PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
 ::电影和电视
@@ -649,6 +643,19 @@ PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
 ::MixedReality
 PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
+::卸载游戏录制工具栏
+PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
+PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
+::卸载Xbox游戏组件
+PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
+PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
+::卸载商店
+::PowerShell "get-appxpackage Microsoft.DesktopAppInstaller | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.StorePurchaseApp | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.WindowsStore | remove-appxpackage"
+
+::PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
+
 start %systemroot%\explorer
 
 ::禁止 不断重复恢复默认设置
