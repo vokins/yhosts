@@ -103,6 +103,7 @@
 127.0.0.1 u.ucfly.com
 #wrating
 127.0.0.1 c.wrating.com
+127.0.0.1 cntv.wrating.com
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
 127.0.0.1 tongji.wrating.com
