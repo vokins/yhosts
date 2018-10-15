@@ -1,5 +1,5 @@
 
-#version=201810152025
+#version=201810152201
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -109,7 +109,6 @@
 127.0.0.1 pageshow.dftoutiao.com
 127.0.0.1 pcminitj.dftoutiao.com
 127.0.0.1 position.dftoutiao.com
-127.0.0.1 lib.baomitu.com
 127.0.0.1 s1.milkjpg.com
 127.0.0.1 new.taobc.com
 127.0.0.1 afp.alicdn.com
@@ -1978,6 +1977,52 @@
 127.0.0.1 m.gbaog.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 zhuanshenghuo1.kuaizhan.com
+
+127.0.0.1 a.m.gxwztv.com
+127.0.0.1 a.wlfnb.com
+127.0.0.1 api.rideraid.net
+127.0.0.1 ba.fqzds.com
+127.0.0.1 c.gzsanxiaomingshi.cn
+127.0.0.1 code.wantaico.com
+127.0.0.1 drdj.m.gxwztv.com
+127.0.0.1 drsw.m.yuyouge.com
+127.0.0.1 e.enjuw.com
+127.0.0.1 e.jwiyr.com
+127.0.0.1 e.mrsasharingspace.com
+127.0.0.1 e.sanitwealth.com
+127.0.0.1 e.yageben.com
+127.0.0.1 e.yidulive.net
+127.0.0.1 e.zmlfk.com
+127.0.0.1 fen.dkdlsj.com
+127.0.0.1 gog9.qzdfc.com
+127.0.0.1 html.sunday8.com
+127.0.0.1 html.yuntzs.com
+127.0.0.1 in.jxhcyc.com
+127.0.0.1 in.mengpr.com
+127.0.0.1 j.ytbt.cc
+127.0.0.1 js205.dupinpu.com
+127.0.0.1 li.anyysz.com
+127.0.0.1 lkf1.m.sanhao3.com
+127.0.0.1 lol.pnhfc.com
+127.0.0.1 m.diogv.com
+127.0.0.1 m.enjuw.com
+127.0.0.1 m.jlkja.com
+127.0.0.1 m.kcooy.com
+127.0.0.1 m.nbaob.com
+127.0.0.1 m.wnxcg.com
+127.0.0.1 m.zmlfk.com
+127.0.0.1 mjs.csyymp4.com
+127.0.0.1 photo.welldex.cn
+127.0.0.1 qm.rcaiv.com
+127.0.0.1 rc.haodongkeji.cn
+127.0.0.1 s.bmgan.com
+127.0.0.1 s.ddstu.com
+127.0.0.1 s.dsjcfw.com
+127.0.0.1 soft.chaomeng8.com
+127.0.0.1 uu.85655095.com
+127.0.0.1 www.poke88.com
+127.0.0.1 www.webkooo.com
+127.0.0.1 xxp.gytygc.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

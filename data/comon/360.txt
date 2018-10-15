@@ -68,6 +68,5 @@
 127.0.0.1 pageshow.dftoutiao.com
 127.0.0.1 pcminitj.dftoutiao.com
 127.0.0.1 position.dftoutiao.com
-127.0.0.1 lib.baomitu.com
 127.0.0.1 s1.milkjpg.com
 127.0.0.1 new.taobc.com

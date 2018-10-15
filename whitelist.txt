@@ -11,7 +11,7 @@ https://de.imgbb.com to use them in an forum.
 imgbb is a free service for uploading and sharing pictures.
 https://github.com/notracking/hosts-blocklists/issues/75
 
-
+127.0.0.1 lib.baomitu.com
 只要有这一条，127.0.0.1 union.video.qq.com，腾讯视频网页下一集按钮灰色，也不能选集播放
 127.0.0.1 web-disp.titan.mgtv.com
 127.0.0.1 web-disp1.titan.mgtv.com
