@@ -38,7 +38,6 @@
 127.0.0.1 hjc1990.com
 127.0.0.1 hwt.player888.cn
 127.0.0.1 img.apnanalytics.com
-127.0.0.1 img.ercfh.com
 127.0.0.1 img.zsj18.com
 127.0.0.1 imgc.cymzc.com
 127.0.0.1 imgp.cymzc.com
@@ -46,7 +45,6 @@
 127.0.0.1 index.woai310.com
 127.0.0.1 iosipa.b0.upaiyun.com
 127.0.0.1 js.um0592.com
-127.0.0.1 k1w5.me
 127.0.0.1 ld.mediaget.com
 127.0.0.1 m.495495.com
 127.0.0.1 m.551144.com
@@ -141,5 +139,4 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
-127.0.0.1 xz.ercfh.com
 127.0.0.1 h5.jiumaster.com

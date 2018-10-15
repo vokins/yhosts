@@ -4,8 +4,7 @@
 #m.sbar.com.cn
 127.0.0.1 ab.meishiba.com.cn
 #m.xiachufang.com
-127.0.0.1 baidu-union-js.xiachufang.com
-127.0.0.1 baidu-union-pos.xiachufang.com
+127.0.0.1 baidu-union-js.chuimg.com
 127.0.0.1 dn-growing.qbox.me
 #m.xinshipu.com
 127.0.0.1 d.xinshipu.com

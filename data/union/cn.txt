@@ -133,9 +133,6 @@
 127.0.0.1 images1.1133.cc
 127.0.0.1 img7.1133.cc
 127.0.0.1 img9.1133.cc
-127.0.0.1 m.1133.cc
-127.0.0.1 z.1133.cc
-127.0.0.1 www.1133.cc
 #17leyi
 #1o26
 127.0.0.1 cj.1o26.com
@@ -293,11 +290,6 @@
 127.0.0.1 m947.oadz.com
 127.0.0.1 m981.oadz.com
 #acs86.com
-127.0.0.1 acs86.com
-127.0.0.1 adx.acs86.com
-127.0.0.1 amob.acs86.com
-127.0.0.1 minisite.acs86.com
-127.0.0.1 static.acs86.com
 #ad-locus.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 ad-locus.com
@@ -394,7 +386,6 @@
 #adpush.cn
 127.0.0.1 dmp.adpush.cn
 127.0.0.1 img.adpush.cn
-127.0.0.1 net.adpush.cn
 127.0.0.1 ssp.adpush.cn
 127.0.0.1 zc.adpush.cn
 127.0.0.1 www.adpush.cn
@@ -475,8 +466,6 @@
 127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 click2forhz.adsmogo.com
 127.0.0.1 click3forhz.adsmogo.com
-127.0.0.1 my.adsmogo.com
-127.0.0.1 www.adsmogo.com
 #adview.cn
 127.0.0.1 adfill.adview.cn
 127.0.0.1 adview.cn
@@ -560,7 +549,6 @@
 127.0.0.1 www.behe.com
 #bfd
 127.0.0.1 static1.bfdcdn.com
-127.0.0.1 api.baifendian.com
 127.0.0.1 cm.api.baifendian.com
 127.0.0.1 ds.api.baifendian.com
 127.0.0.1 ds10.api.baifendian.com
@@ -724,7 +712,6 @@
 #fraudmetrix.cn
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 fptest.fraudmetrix.cn
-127.0.0.1 fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
 127.0.0.1 statictest.fraudmetrix.cn
 #gentags
@@ -894,38 +881,24 @@
 127.0.0.1 www.mgogo.com
 #miaozhen
 127.0.0.1 a.ads.cn.miaozhen.com
-127.0.0.1 a.cn.miaozhen.com
-127.0.0.1 a.tac.miaozhen.com
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 baofeng.m.cn.miaozhen.com
-127.0.0.1 c.m.cn.miaozhen.com
-127.0.0.1 c.x.cn.miaozhen.com
 127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 e.ads.cn.miaozhen.com
 127.0.0.1 e.cn.miaozhen.com
-127.0.0.1 e.mbm.cn.miaozhen.com
-127.0.0.1 e.x.cn.miaozhen.com
 127.0.0.1 exchange.ipdx.cn.miaozhen.com
 127.0.0.1 fancy-cm.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.mbm.cn.miaozhen.com
-127.0.0.1 g.x.cn.miaozhen.com
-127.0.0.1 gs.m.cn.miaozhen.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 miaozhen.com
-127.0.0.1 mse.mbm.cn.miaozhen.com
-127.0.0.1 msg.cn.miaozhen.com
-127.0.0.1 msg.mbm.cn.miaozhen.com
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 stm-collect.cn.miaozhen.com
-127.0.0.1 survey.miaozhen.com
-127.0.0.1 t.pg.cn.miaozhen.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 tvsohu-cm.cn.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
@@ -1007,15 +980,6 @@
 127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 #qtmojo
-127.0.0.1 1.qtmojo.cn
-127.0.0.1 creatim.qtmojo.cn
-127.0.0.1 wmcdn.qtmojo.cn
-127.0.0.1 1.qtmojo.com
-127.0.0.1 17173im.qtmojo.com
-127.0.0.1 cm.qtmojo.com
-127.0.0.1 mmae.qtmojo.com
-127.0.0.1 snim.qtmojo.com
-127.0.0.1 wmdeal.qtmojo.com
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 77kb.qucaigg.com
@@ -1048,7 +1012,6 @@
 127.0.0.1 img.supfast.net
 127.0.0.1 l.supfast.net
 #ta80.com
-127.0.0.1 good.ta80.com
 #talkingdata.net
 127.0.0.1 analytics.talkingdata.net
 127.0.0.1 gaandroid.talkingdata.net

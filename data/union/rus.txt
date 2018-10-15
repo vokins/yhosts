@@ -47,7 +47,6 @@
 127.0.0.1 stat.adlabs.ru
 127.0.0.1 uuidksinc.net
 127.0.0.1 wallet.advcash.com
-127.0.0.1 windcdna.com
 127.0.0.1 winlinebet.ru
 127.0.0.1 wlneteller.adsrv.eacdn.com
 127.0.0.1 www.acint.net

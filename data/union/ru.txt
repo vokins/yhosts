@@ -22,7 +22,6 @@
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 tag.digitaltarget.ru
 #marketgid
-127.0.0.1 ag-gb.marketgid.com
 127.0.0.1 cdn.marketgid.com
 127.0.0.1 counter.marketgid.com
 127.0.0.1 imgg.marketgid.com

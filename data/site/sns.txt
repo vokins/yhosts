@@ -40,7 +40,6 @@
 127.0.0.1 gg.ptfish.com
 #www.xici.net
 127.0.0.1 adimgs.xici.net
-127.0.0.1 xiciim.qtmojo.com
 #www.zhihu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com

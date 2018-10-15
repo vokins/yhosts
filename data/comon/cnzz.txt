@@ -233,6 +233,4 @@
 127.0.0.1 zvs1.cnzz.com
 127.0.0.1 zvs2.cnzz.com
 #cnzz.net
-127.0.0.1 html.cnzzj.com.cn
-127.0.0.1 cache.adm.cnzz.net
 127.0.0.1 pcookie.cnzz.net

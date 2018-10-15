@@ -47,7 +47,6 @@
 127.0.0.1 rc2waycm-atl.netmng.com
 127.0.0.1 rcp.c.appier.net
 127.0.0.1 rp.gwallet.com
-127.0.0.1 rub.pxl.ace.advertising.com
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 sync-dsp.ad-m.asia
 127.0.0.1 sync-tm.everesttech.net

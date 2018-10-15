@@ -3,7 +3,6 @@
 #m.poco.cn
 127.0.0.1 a-m-s.poco.cn
 #www.fengniao.com
-127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
 #www.nipic.com
@@ -13,3 +12,6 @@
 127.0.0.1 util.nphoto.net
 #ww.xitek.com
 127.0.0.1 www8.xitek.com
+#www.epinv.com
+127.0.0.1 a.epinv.com
+127.0.0.1 b.epinv.com

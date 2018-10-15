@@ -247,3 +247,9 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+#HKsite
+127.0.0.1 ad.unimhk.com
+127.0.0.1 pixel-hk.pixelinteractivemedia.com
+127.0.0.1 snap.snapmobile.asia
+127.0.0.1 static.snapmobile.asia
+127.0.0.1 adx.adxglobal.com

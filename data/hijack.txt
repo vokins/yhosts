@@ -111,7 +111,6 @@
 127.0.0.1 rcv.union-wifi.com
 127.0.0.1 ssp.dmpdsp.com
 127.0.0.1 ad.jsnbrynb.com
-127.0.0.1 apppic.yingyongbei.com
 127.0.0.1 809.ok365.com
 127.0.0.1 818.ok365.com
 127.0.0.1 817.dopa.com
@@ -207,17 +206,11 @@
 127.0.0.1 wy.ce22d.cn
 127.0.0.1 yun.sifuhe.cn
 127.0.0.1 yun.tuisnake.com
-127.0.0.1 cz01016102.ms758.com
 127.0.0.1 s.051352.com
 127.0.0.1 e.51xmgys.com
 127.0.0.1 m.51xmgys.com
 127.0.0.1 slzs.52xiyou.com
-127.0.0.1 aqw.quanliyouxi.cn
-127.0.0.1 tyu.quanliyouxi.cn
-127.0.0.1 kio.quanliyouxi.cn
 127.0.0.1 a2.rabbitpre.com
-127.0.0.1 rvb.quanliyouxi.cn
-127.0.0.1 ntx.quanliyouxi.cn
 127.0.0.1 dsp.hypers.com.cn
 127.0.0.1 www.youka.la
 127.0.0.1 bixia.fymm.cn

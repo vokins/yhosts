@@ -58,7 +58,6 @@
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 msga.71.am
-127.0.0.1 androidgo.duapp.com
 127.0.0.1 noxagile.duapp.com
 #iqiyi-qiyi
 127.0.0.1 api.cupid.qiyi.com

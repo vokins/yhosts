@@ -346,16 +346,7 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 pages2.marketo.com
 #mdotm.com
-127.0.0.1 cdn.mdotm.com
 #mgid.com
-127.0.0.1 aa-gb.mgid.com
-127.0.0.1 aa.goodsblock.mgid.com
-127.0.0.1 ab-gb.mgid.com
-127.0.0.1 ab.goodsblock.mgid.com
-127.0.0.1 ac-gb.mgid.com
-127.0.0.1 ad-gb.mgid.com
-127.0.0.1 ae-gb.mgid.com
-127.0.0.1 aj-gb.mgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 mgid.com
@@ -382,8 +373,6 @@
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 cvt.mydas.mobi
 #netshelter.net
-127.0.0.1 ad1.netshelter.net
-127.0.0.1 track.netshelter.net
 #newrelic.com
 127.0.0.1 newrelic.com
 #pixelsad
@@ -414,8 +403,6 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 udm.scorecardresearch.com
 #scrippsnetworks
-127.0.0.1 aam.adsremote.scrippsnetworks.com
-127.0.0.1 adsremote.scrippsnetworks.com
 #segment.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 mobile-service.segment.com
