@@ -1,5 +1,5 @@
 
-#version=20181015 050
+#version=201810151823
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -4437,7 +4437,7 @@
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 zhggw.dre8.com
-127.0.0.1 wxggtg.dre8.com#cnr.cn
+127.0.0.1 wxggtg.dre8.com
 127.0.0.1 adsame1.cnr.cn
 127.0.0.1 d1.cnr.cn
 127.0.0.1 ggdata1.cnr.cn

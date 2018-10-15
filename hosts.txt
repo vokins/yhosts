@@ -5193,7 +5193,8 @@
 127.0.0.1 zhihu-web-analytics.zhihu.com
 #https://www.xmkanshu.com/
 127.0.0.1 zhggw.dre8.com
-127.0.0.1 wxggtg.dre8.com#cnr.cn
+127.0.0.1 wxggtg.dre8.com
+#cnr.cn
 127.0.0.1 adsame1.cnr.cn
 127.0.0.1 d1.cnr.cn
 127.0.0.1 ggdata1.cnr.cn
