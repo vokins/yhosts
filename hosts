@@ -1,5 +1,5 @@
 
-#version=201810112254
+#version=20181015 050
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -11,6 +11,7 @@
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 licenses.ashampoo.com
+127.0.0.1 activation.phaseone.com
 127.0.0.1 dbregistration.cuteftp.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
@@ -204,6 +205,7 @@
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 c.wrating.com
+127.0.0.1 cntv.wrating.com
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 sina.wrating.com
 127.0.0.1 tongji.wrating.com
@@ -638,7 +640,6 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 gia.jd.com
@@ -1981,6 +1982,11 @@
 127.0.0.1 vol.txdwc.cn
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 ym.ychap.com
+127.0.0.1 xxy.nxkycx.com
+127.0.0.1 photo.jbbath.cn
+127.0.0.1 m.gbaog.com
+127.0.0.1 hdjhsudhe.kuaizhan.com
+127.0.0.1 zhuanshenghuo1.kuaizhan.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -4430,6 +4436,11 @@
 127.0.0.1 xiciim.qtmojo.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 zhggw.dre8.com
+127.0.0.1 wxggtg.dre8.com#cnr.cn
+127.0.0.1 adsame1.cnr.cn
+127.0.0.1 d1.cnr.cn
+127.0.0.1 ggdata1.cnr.cn
 127.0.0.1 adv.fjtv.net
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 advapi.ahtv.cn

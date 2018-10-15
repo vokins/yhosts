@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:39 2018/10/8
+rem 23:38 2018/10/14
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -635,12 +635,6 @@ PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
 ::日历和邮件
 PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
-::Xbox
-PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxGaming* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
 ::Groove音乐
 PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
 ::电影和电视
@@ -649,6 +643,19 @@ PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
 ::MixedReality
 PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
+::卸载游戏录制工具栏
+PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
+PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
+::卸载Xbox游戏组件
+PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
+PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
+::卸载商店
+::PowerShell "get-appxpackage Microsoft.DesktopAppInstaller | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.StorePurchaseApp | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.WindowsStore | remove-appxpackage"
+
+::PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
+
 start %systemroot%\explorer
 
 ::禁止 不断重复恢复默认设置
@@ -960,16 +967,6 @@ reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Video Capture\6.0\Lang
 reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
 reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P-1-305-722-5810" /f
 
-::卸载 OneDrive
-taskkill /f /im OneDrive.exe > NUL 2>&1
-%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall
-rd /s /q "%UserProfile%\OneDrive" > NUL 2>&1
-rd /s /q "%LocalAppData%\Microsoft\OneDrive" > NUL 2>&1
-rd /s /q "%ProgramData%\Microsoft OneDrive" > NUL 2>&1
-rd /s /q "C:\OneDriveTemp" > NUL 2>&1
-REG Delete "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
-REG Delete "HKCR\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
-reg delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f > NUL 2>&1
 
 cls
 echo 更新策略

@@ -1,3 +1,7 @@
+#cnr.cn
+127.0.0.1 adsame1.cnr.cn
+127.0.0.1 d1.cnr.cn
+127.0.0.1 ggdata1.cnr.cn
 #http://live.fjtv.net/
 127.0.0.1 adv.fjtv.net
 #http://live.jstv.com/

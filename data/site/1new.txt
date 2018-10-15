@@ -13,3 +13,8 @@
 127.0.0.1 vol.txdwc.cn
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 ym.ychap.com
+127.0.0.1 xxy.nxkycx.com
+127.0.0.1 photo.jbbath.cn
+127.0.0.1 m.gbaog.com
+127.0.0.1 hdjhsudhe.kuaizhan.com
+127.0.0.1 zhuanshenghuo1.kuaizhan.com

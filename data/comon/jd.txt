@@ -1,5 +1,4 @@
 127.0.0.1 bdsp.x.jd.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 gia.jd.com
