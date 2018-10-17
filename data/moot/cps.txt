@@ -1,22 +1,3 @@
-@cps-union
-#emar
-127.0.0.1 eavs02.eqifa.com
-127.0.0.1 p.yiqifa.com
-127.0.0.1 image.yiqifa.com
-127.0.0.1 www.yiqifa.com
-127.0.0.1 www.emar.com.cn
-#duomai
-127.0.0.1 c.duomai.com
-127.0.0.1 duomai.com
-@cps-shopping
-127.0.0.1 aos.prf.hn
-127.0.0.1 click.lergao.com
-127.0.0.1 click.linktech.cn
-127.0.0.1 click.union.vip.com
-127.0.0.1 cps.kaola.com
-127.0.0.1 p.egou.com
-127.0.0.1 u.ctrip.com
-127.0.0.1 union.dangdang.com
 @cps-taobao-click
 127.0.0.1 ju.taobao.com
 127.0.0.1 tejia.taobao.com

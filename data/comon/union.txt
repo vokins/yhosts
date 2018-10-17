@@ -1,3 +1,12 @@
+#emar
+127.0.0.1 eavs02.eqifa.com
+127.0.0.1 p.yiqifa.com
+127.0.0.1 image.yiqifa.com
+127.0.0.1 www.yiqifa.com
+127.0.0.1 www.emar.com.cn
+#duomai
+127.0.0.1 c.duomai.com
+127.0.0.1 duomai.com
 #shuzilm.cn
 127.0.0.1 api.shuzilm.cn
 127.0.0.1 daa.shuzilm.cn
