@@ -69,6 +69,7 @@ js.meitulu.com
 js.passport.qihucdn.com
 jspassport.ssl.qhimg.com
 kikibt.net
+lib.baomitu.com
 lib.sinaapp.com
 libs.baidu.com
 libs.tvmao.cn
@@ -272,6 +273,7 @@ m.zhuaji.org
 m.zwda.com
 m.zwdu.com
 maweb.3g.qq.com
+my.tsxsw.com
 pan.meijukankan.net
 photocdn.sohu.com
 photocdn.tv.sohu.com

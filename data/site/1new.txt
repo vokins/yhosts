@@ -68,3 +68,8 @@
 127.0.0.1 m.gcaog.com
 127.0.0.1 www.yiyuantian.com
 127.0.0.1 zx.baosmx.com
+127.0.0.1 dueu.0fwg.cn
+127.0.0.1 kn.ylrca.cn
+127.0.0.1 photo.headwell.cn
+127.0.0.1 sjs.jcshouhui.com
+127.0.0.1 ycy.hyjyjc.com
