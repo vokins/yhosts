@@ -43,7 +43,6 @@
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
-127.0.0.1 woocall.sina.com.cn
 #sina-com
 127.0.0.1 pfpip.sina.com
 #sina-cn

@@ -1,5 +1,5 @@
 
-#version=201810181818
+#version=201810191906
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -837,7 +837,6 @@
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
-127.0.0.1 woocall.sina.com.cn
 127.0.0.1 pfpip.sina.com
 127.0.0.1 2016.sina.cn
 127.0.0.1 adimg.mobile.sina.cn
@@ -2048,6 +2047,15 @@
 127.0.0.1 photo.headwell.cn
 127.0.0.1 sjs.jcshouhui.com
 127.0.0.1 ycy.hyjyjc.com
+127.0.0.1 i4.fuimg.com
+127.0.0.1 cgzu.b0lc.cn
+127.0.0.1 e.imiek.com
+127.0.0.1 e.uchij.com
+127.0.0.1 m.imiek.com
+127.0.0.1 m.tbinq.com
+127.0.0.1 m.uchij.com
+127.0.0.1 qm.iruik.com
+127.0.0.1 www.93vitoo.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

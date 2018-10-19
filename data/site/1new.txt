@@ -73,3 +73,12 @@
 127.0.0.1 photo.headwell.cn
 127.0.0.1 sjs.jcshouhui.com
 127.0.0.1 ycy.hyjyjc.com
+127.0.0.1 i4.fuimg.com
+127.0.0.1 cgzu.b0lc.cn
+127.0.0.1 e.imiek.com
+127.0.0.1 e.uchij.com
+127.0.0.1 m.imiek.com
+127.0.0.1 m.tbinq.com
+127.0.0.1 m.uchij.com
+127.0.0.1 qm.iruik.com
+127.0.0.1 www.93vitoo.com

@@ -1,3 +1,4 @@
+
 00sy.net
 3g.wenxuemm.com
 7xkfic.com2.z0.glb.qiniucdn.com
@@ -74,6 +75,7 @@ lib.sinaapp.com
 libs.baidu.com
 libs.tvmao.cn
 lingyu.ikxs.org
+login.html
 lwxiaoshuo.com
 m.00ksw.org
 m.11kt.cn
@@ -288,12 +290,16 @@ r1.ykimg.com
 r2.ykimg.com
 r3.ykimg.com
 r4.ykimg.com
+read.htm
+regist.htm
+register.html
 renrencili.net
 res.wx.qq.com
 s.click.taobao.com
 s.faloo.com
 savebt.com
 savebt.org
+search.htm
 shang.qq.com
 sp0.baidu.com
 static.499.cn
@@ -314,10 +320,12 @@ tv.sohu.com
 wap.faloo.com
 wap.xxbiquge.com
 wap.yb3.cc
+waps.php
 wd.geilicdn.com
 weidian.com
 windows.microsoft.com
 wokansjb.com
+woocall.sina.com.cn
 wpa.qq.com
 ww1.sinaimg.cn
 ww2.sinaimg.cn
@@ -390,8 +398,10 @@ wx1.sinaimg.cn
 wx2.sinaimg.cn
 wx3.sinaimg.cn
 wx4.sinaimg.cn
+xiongzhang.baidu.com
 xntk.net
 zhainanbt.net
 zhannei.baidu.com
 zhongzicili.me
 znsv.baidu.com
+zuji.htm
