@@ -1,5 +1,5 @@
 
-#version=201810191906
+#version=201810202216
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -636,6 +636,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 adservice.google.com
+127.0.0.1 ade.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
