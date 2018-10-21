@@ -18,7 +18,6 @@
 127.0.0.1 m.gbaog.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 zhuanshenghuo1.kuaizhan.com
-
 127.0.0.1 a.m.gxwztv.com
 127.0.0.1 a.wlfnb.com
 127.0.0.1 api.rideraid.net
@@ -82,3 +81,4 @@
 127.0.0.1 m.uchij.com
 127.0.0.1 qm.iruik.com
 127.0.0.1 www.93vitoo.com
+127.0.0.1 wx.zx590.com

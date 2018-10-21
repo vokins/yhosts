@@ -1,5 +1,5 @@
 
-#version=201810202216
+#version=201810212208
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1993,7 +1993,6 @@
 127.0.0.1 m.gbaog.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 zhuanshenghuo1.kuaizhan.com
-
 127.0.0.1 a.m.gxwztv.com
 127.0.0.1 a.wlfnb.com
 127.0.0.1 api.rideraid.net
@@ -2057,6 +2056,7 @@
 127.0.0.1 m.uchij.com
 127.0.0.1 qm.iruik.com
 127.0.0.1 www.93vitoo.com
+127.0.0.1 wx.zx590.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2209,8 +2209,6 @@
 127.0.0.1 13yg.cn
 127.0.0.1 4g0.cc
 127.0.0.1 ahh8.cn
-127.0.0.1 dc.tt
-127.0.0.1 dpurl.cn
 127.0.0.1 h9p9.cn
 127.0.0.1 jjb168.net
 127.0.0.1 mrw.so
