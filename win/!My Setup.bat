@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 22:03 2018/10/20
+rem 9:34 2018/10/22
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -98,10 +98,10 @@ reg add "HKCR\.bat\ShellNew" /v "NullFile" /d "" /f
 ::reg add "HKCR\.cmd\ShellNew" /v "NullFile" /d "" /f
 
 ::添加：文件：注册(销)DLL/OCX文件
-reg add "HKCR\dllfile\shell\注册 DLL\Command" /ve /d "Regsvr32 %%1" /f
-reg add "HKCR\dllfile\shell\注销 DLL\Command" /ve /d "Regsvr32 /u %%1" /f
-reg add "HKCR\ocxfile\shell\注册 OCX\Command" /ve /d "Regsvr32 %%1" /f
-reg add "HKCR\ocxfile\shell\注销 OCX\Command" /ve /d "Regsvr32 /u %%1" /f
+reg add "HKCR\dllfile\shell\注册 DLL\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
+reg add "HKCR\dllfile\shell\注销 DLL\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
+reg add "HKCR\ocxfile\shell\注册 OCX\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
+reg add "HKCR\ocxfile\shell\注销 OCX\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
 ::添加：文件夹：CMD快速通道
 reg add "HKCR\folder\shell\cmd" /ve /d "在此处打开命令提示符" /f
 reg add "HKCR\folder\shell\cmd" /v "icon" /d "shell32.dll,71" /f
