@@ -4,5 +4,8 @@
 #www.huajiao.com
 127.0.0.1 ad.huajiao.com
 #m.huya.com
+127.0.0.1 p2p.huya.com
 127.0.0.1 mlog.hiido.com
 127.0.0.1 ylog.hiido.com
+#www.douyu.com
+127.0.0.1 v.smtcdns.net

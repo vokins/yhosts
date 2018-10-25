@@ -1,5 +1,5 @@
 
-#version=201810251506
+#version=201810251534
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1745,8 +1745,10 @@
 127.0.0.1 shrek.6.cn
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 ad.huajiao.com
+127.0.0.1 p2p.huya.com
 127.0.0.1 mlog.hiido.com
 127.0.0.1 ylog.hiido.com
+127.0.0.1 v.smtcdns.net
 127.0.0.1 jrlt.beacon.qq.com
 127.0.0.1 log.tbs.qq.com
 127.0.0.1 activeqq.3g.qq.com

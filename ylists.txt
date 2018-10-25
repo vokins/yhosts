@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201810041013
+! Version: 201810251525
 ! Title: yList
-! Last modified: 10:13 2018/10/4
+! Last modified: 15:25 2018/10/25
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -345,3 +345,7 @@ s.taobao.com##div[id="mainsrp-p4pRight"]
 
 |http:$script,third-party,xmlhttprequest,domain=3g.wenxuem.com|lwxiaoshuo.com|m.16kxsw.com|m.23us.so|m.31wxw8.com|m.360118.com|m.3dllc.cc|m.3kw.cc|m.50zw.co|m.50zw.la|m.50zww.com|m.58xs.tw|m.5ccc.net|m.630book.la|m.69shu.org|m.6mao.com|m.80txt.com|m.88106.com|m.98xiaoshuo.com|m.99shumeng.net|m.amu520.com|m.b5200.net|m.baishuku.la|m.baoliny.com|m.biquge.cm|m.biquge.com.tw|m.biquge.info|m.biqugego.com|m.biqugexsw.com|m.biqumo.com|m.bsl8.la|m.chenhuixse.com|m.chuanyue8.net|m.cyxse.net|m.dashubao.cc|m.fhxiaoshuo.com|m.fhxsw.org|m.gsdaquan.com|m.gulizw.com|m.haotxt.com|m.hfxiaoshuo.com|m.hlxiaoshuo.net|m.jjxsw.org|m.lanseshuba.com|m.liushuba.com|m.lkshu.com|m.longtanxs.com|m.luoqiu.com|m.mht.la|m.mishug.com|m.mobishu.com|m.panqishu.com|m.qianrenge.cc|m.qiushu.cc|m.sanjiangge.com|m.shengyan.org|m.shumil.com|m.shuquge.com|m.shushu8.com|m.silukeke.com|m.sjtxt.la|m.sodu520.net|m.sosobtt.net|m.sosoxiaoshuo.cc|m.suimeng.la|m.tingshuge.com|m.tsxsw.com|m.txtduo.com|m.tywxw.la|m.wanjuanba.com|m.wenxuem.com|m.wodeshucheng.com|m.wodexiaoshuo2.cc|m.x81zw.com|m.xbxwx.net|m.xiaoxiaoshuwu.net|m.xshenshu.com|m.xy48.net|m.yfxiaoshuob.com|m.zbzw.la|m.zhenben.cc|m.zhuaji.org|m.zhxiaoshuob.com|wap.heiyanwang.com|www.xntk.net
 |https:$script,third-party,xmlhttprequest,domain=m.1200ksw.com|m.23uu.org|m.2kxs.com|m.37zw.net|m.52biquge.com|m.555zw.com|m.77dus.com|m.88dus.com|m.aiquxs.com|m.aszw.org|m.beijingaishu.net|m.bichi.me|m.biqudu.com|m.biquge.cc|m.biqugezw.com|m.biquwu.cc|m.boluoxs.com|m.booktxt.net|m.bqg5.cc|m.bxwx9.org|m.daizhuzai.com|m.dhzw.org|m.dpcq1.net|m.duanwenxue.com|m.gxwztv.com|m.hkslg.net|m.konlan.org|m.kxs7.com|m.lbxs.com|m.lewenxiaoshuo.com|m.liewen.cc|m.maopuzw.com|m.miaobige.com|m.miaoshufang.com|m.qu.la|m.ranwena.com|m.shuanshu.com|m.shuqu8.com|m.snwx8.com|m.sqsxs.com|m.tmetb.net|m.ttzw.com|m.txt2017.com|m.vodtw.com|m.wenxuemi.com|m.xiashu.la|m.xinshula.com|m.xs.la|m.xs222.tw|m.yawenb.com|m.ybdu.com|m.yssm.org|m.yuyouge.com|m.zhuishubang.com|m.zwdu.com|wap.yb3.cc|www.shuaigay.win
+
+||v.smtcdns.net^$domain=www.douyu.com
+||p2p.huya.com^$domain=www.huya.com
+||lxdns.com^$domain=www.panda.tv
