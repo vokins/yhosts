@@ -1,5 +1,5 @@
 
-#version=201810212208
+#version=201810251506
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -146,7 +146,6 @@
 127.0.0.1 go.mmstat.com
 127.0.0.1 gxb.mmstat.com
 127.0.0.1 hz.mmstat.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
 127.0.0.1 wgo.mmstat.com
@@ -1333,6 +1332,7 @@
 127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+127.0.0.1 api.callget.cn
 127.0.0.1 jb.asqql.com
 127.0.0.1 jb.4hw.com.cn
 127.0.0.1 js.4hw.com.cn
@@ -1460,11 +1460,12 @@
 127.0.0.1 crashes.mo.wps.cn
 127.0.0.1 dynsrv.wps.cn
 127.0.0.1 ic.wps.cn
+127.0.0.1 img1.mini.cache.wps.cn
 127.0.0.1 info.wps.cn
 127.0.0.1 mostat.wps.cn
-127.0.0.1 teinfo.wps.cn
 127.0.0.1 push.wps.cn
 127.0.0.1 spinfo.wps.cn
+127.0.0.1 teinfo.wps.cn
 127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 counter.ksosoft.com
@@ -1483,6 +1484,7 @@
 127.0.0.1 notify.51dzt.com
 127.0.0.1 t.ksrong.com
 127.0.0.1 vasapi.rdtuijian.com
+127.0.0.1 info.iciba.com
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 dvb.pandora.xiaomi.com
@@ -2057,6 +2059,21 @@
 127.0.0.1 qm.iruik.com
 127.0.0.1 www.93vitoo.com
 127.0.0.1 wx.zx590.com
+127.0.0.1 apk.fgzba.com
+127.0.0.1 e.aiyyu.com
+127.0.0.1 e.lchar.com
+127.0.0.1 e.mwjpk.com
+127.0.0.1 hm.cdiah.com
+127.0.0.1 hm.ubiej.com
+127.0.0.1 jtqg.kz8tr2.cn
+127.0.0.1 m.aiyyu.com
+127.0.0.1 m.hchig.com
+127.0.0.1 m.lchar.com
+127.0.0.1 m.mwjpk.com
+127.0.0.1 m.ybeih.com
+127.0.0.1 hz1.lanmei80.com
+127.0.0.1 m.ilancc.com
+127.0.0.1 y.ilancc.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

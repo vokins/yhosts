@@ -140,3 +140,5 @@
 127.0.0.1 pic.zol-img.com.cn
 127.0.0.1 ca.w8.com.cn
 127.0.0.1 zdw.w8.com.cn
+#https://wap.zol.com.cn/ask/x_416606.html
+127.0.0.1 api.callget.cn

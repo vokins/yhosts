@@ -71,11 +71,12 @@
 127.0.0.1 crashes.mo.wps.cn
 127.0.0.1 dynsrv.wps.cn
 127.0.0.1 ic.wps.cn
+127.0.0.1 img1.mini.cache.wps.cn
 127.0.0.1 info.wps.cn
 127.0.0.1 mostat.wps.cn
-127.0.0.1 teinfo.wps.cn
 127.0.0.1 push.wps.cn
 127.0.0.1 spinfo.wps.cn
+127.0.0.1 teinfo.wps.cn
 127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 counter.ksosoft.com
@@ -94,6 +95,7 @@
 127.0.0.1 notify.51dzt.com
 127.0.0.1 t.ksrong.com
 127.0.0.1 vasapi.rdtuijian.com
+127.0.0.1 info.iciba.com
 #mitv
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com

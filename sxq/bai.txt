@@ -74,6 +74,7 @@ lib.sinaapp.com
 libs.baidu.com
 libs.tvmao.cn
 lingyu.ikxs.org
+log.mmstat.com
 login.html
 lwxiaoshuo.com
 m.00ksw.org

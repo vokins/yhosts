@@ -82,3 +82,19 @@
 127.0.0.1 qm.iruik.com
 127.0.0.1 www.93vitoo.com
 127.0.0.1 wx.zx590.com
+127.0.0.1 apk.fgzba.com
+127.0.0.1 e.aiyyu.com
+127.0.0.1 e.lchar.com
+127.0.0.1 e.mwjpk.com
+127.0.0.1 hm.cdiah.com
+127.0.0.1 hm.ubiej.com
+127.0.0.1 jtqg.kz8tr2.cn
+127.0.0.1 m.aiyyu.com
+127.0.0.1 m.hchig.com
+127.0.0.1 m.lchar.com
+127.0.0.1 m.mwjpk.com
+127.0.0.1 m.ybeih.com
+127.0.0.1 hz1.lanmei80.com
+#https://m.micaitu.com/
+127.0.0.1 m.ilancc.com
+127.0.0.1 y.ilancc.com
