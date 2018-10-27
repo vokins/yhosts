@@ -8,7 +8,9 @@ http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 127.0.0.1 img5.cache.netease.com
 image.ibb.co
 127.0.0.1 woocall.sina.com.cn 屏蔽了没法看新浪财经的股票信息
-
+treezip.baofeng.net
+treexml.baofeng.net
+config5.update.baofeng.com
 https://de.imgbb.com to use them in an forum.
 imgbb is a free service for uploading and sharing pictures.
 https://github.com/notracking/hosts-blocklists/issues/75

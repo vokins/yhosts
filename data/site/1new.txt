@@ -95,6 +95,11 @@
 127.0.0.1 m.mwjpk.com
 127.0.0.1 m.ybeih.com
 127.0.0.1 hz1.lanmei80.com
+127.0.0.1 e.dcaij.com
+127.0.0.1 m.tbieq.com
+127.0.0.1 m.yguap.com
+127.0.0.1 ncmo.v44i.cn
+127.0.0.1 sdn.hzxma.com
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com

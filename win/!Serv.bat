@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 14:00 2018/10/16
+rem 15:27 2018/10/27
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -7,6 +7,14 @@ Rd "%WinDir%\System32\test_permissions" 2>NUL
 SetLocal EnableDelayedExpansion
 TITLE Windows 服务调整
 COLOR 0a
+
+::关闭Windows Defender
+taskkill /f /im MSASCuil.exe >nul 2>nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiVirus" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableBehaviorMonitoring" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableOnAccessProtection" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableScanOnRealtimeEnable" /t REG_DWORD /d 1 /f
 
 :: 服务调整部分：Win默认禁用的服务：AppVClient NetTcpPortSharing ssh-agent RemoteRegistry RemoteAccess shpamsvc tzautoupdate UevAgentService
 ::禁用使用情况信息的收集和传输

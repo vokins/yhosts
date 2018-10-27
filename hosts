@@ -1,5 +1,5 @@
 
-#version=201810251534
+#version=201810271526
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2074,6 +2074,11 @@
 127.0.0.1 m.mwjpk.com
 127.0.0.1 m.ybeih.com
 127.0.0.1 hz1.lanmei80.com
+127.0.0.1 e.dcaij.com
+127.0.0.1 m.tbieq.com
+127.0.0.1 m.yguap.com
+127.0.0.1 ncmo.v44i.cn
+127.0.0.1 sdn.hzxma.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
 127.0.0.1 a.tribalfusion.com
@@ -4422,12 +4427,14 @@
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 subo.logger.baofeng.com
 127.0.0.1 tips.logger.baofeng.com
 127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 sclog.moviebox.baofeng.com
 127.0.0.1 timelog.moviebox.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
 127.0.0.1 config.baofeng.net
+127.0.0.1 iflow.minfo.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net

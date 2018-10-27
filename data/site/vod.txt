@@ -36,12 +36,14 @@
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 houyi.logger.baofeng.com
 127.0.0.1 storm.logger.baofeng.com
+127.0.0.1 subo.logger.baofeng.com
 127.0.0.1 tips.logger.baofeng.com
 127.0.0.1 tree.logger.baofeng.com
 127.0.0.1 sclog.moviebox.baofeng.com
 127.0.0.1 timelog.moviebox.baofeng.com
 127.0.0.1 vvlog.moviebox.baofeng.com
 127.0.0.1 config.baofeng.net
+127.0.0.1 iflow.minfo.baofeng.net
 127.0.0.1 jfm4.pop.baofeng.net
 127.0.0.1 listlog.baofeng.net
 127.0.0.1 nclog.mars.baofeng.net
