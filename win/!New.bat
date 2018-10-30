@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 15:12 2018/10/27
+rem 0:10 2018/10/30
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo ÇëÊ¹ÓÃÓÒ¼ü¹ÜÀíÔ±Éí·İÔËĞĞ£¡&&Pause >nul&&Exit)
@@ -13,11 +13,8 @@ COLOR 0a
 :: Çå¿Õ¼ôÌù°æ
 mshta vbscript:clipboardData.SetData("text","")(close)
 
-copy /y "Notepad2.exe" "%SystemRoot%"
-reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\Notepad2.exe\" /z" /f
-
-:: ÊÓ¾õ£ºÓÒ¼ü²Ëµ¥µ÷Õû-Ìí¼Ó²¿·Ö£º
-::Ìí¼Ó:ÏÔÊ¾/Òş²ØÎÄ¼ş(°´ShiftÏÔÊ¾)
+:: ÊÓ¾õ£ºÓÒ¼ü²Ëµ¥µ÷Õû-Ìí¼Ó²¿·Ö£º(°´ShiftÏÔÊ¾)
+::Ìí¼Ó:ÏÔÊ¾/Òş²ØÎÄ¼ş
 >"%windir%\SuperHidden.vbs" echo Dim WSHShell
 >>"%windir%\SuperHidden.vbs" echo Set WSHShell = WScript.CreateObject("WScript.Shell")
 >>"%windir%\SuperHidden.vbs" echo sTitle1 = "SSH=0"
@@ -40,12 +37,11 @@ reg add "HKCR\Directory\Background\shell\SuperHidden" /v "Extended" /d "" /f
 reg add "HKCR\Directory\Background\shell\SuperHidden\Command" /ve /d "WScript.exe C:\windows\SuperHidden.vbs" /f
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "ShowSuperHidden" /t REG_DWORD /d 0 /f
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "Hidden" /t REG_DWORD /d 2 /f
-::Ìí¼Ó:ÖØÆô×ÊÔ´¹ÜÀíÆ÷(°´ShiftÏÔÊ¾)
+::Ìí¼Ó:ÖØÆô×ÊÔ´¹ÜÀíÆ÷
 reg add "HKLM\SOFTWARE\Classes\Directory\background\shell\RestartExplorer" /ve /d "ÖØÆô×ÊÔ´¹ÜÀíÆ÷" /f
 reg add "HKLM\SOFTWARE\Classes\Directory\background\shell\RestartExplorer" /v "Extended" /d "" /f
 reg add "HKLM\SOFTWARE\Classes\Directory\background\shell\RestartExplorer\Command" /ve /d "tskill explorer" /f
-
-::Ìí¼Ó£º¹ÜÀíÔ±È¡µÃËùÓĞÈ¨(»ñÈ¡TrustedInstallerÈ¨ÏŞ)£¨ÔÚÎÄ¼şÉÏ°´×¡shiftÏÔÊ¾£©
+::Ìí¼Ó:¹ÜÀíÔ±È¡µÃËùÓĞÈ¨(»ñÈ¡TrustedInstallerÈ¨ÏŞ)£¨ÔÚÎÄ¼şÉÏ°´×¡shiftÏÔÊ¾£©
 reg add "HKCR\*\shell\runas" /ve /d "¹ÜÀíÔ±È¡µÃËùÓĞÈ¨" /f
 reg add "HKCR\*\shell\runas" /v "HasLUAShield" /d "" /f
 reg add "HKCR\*\shell\runas" /v "NoWorkingDirectory" /d "" /f
@@ -53,7 +49,6 @@ reg add "HKCR\*\shell\runas" /v "Extended" /d "" /f
 reg add "HKCR\*\shell\runas" /v "Icon" /d "imageres.dll,1" /f
 reg add "HKCR\*\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
 reg add "HKCR\*\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-
 reg add "HKCR\Directory\shell\runas" /ve /d "¹ÜÀíÔ±È¡µÃËùÓĞÈ¨" /f
 reg add "HKCR\Directory\shell\runas" /v "HasLUAShield" /d "" /f
 reg add "HKCR\Directory\shell\runas" /v "NoWorkingDirectory" /d "" /f
@@ -61,7 +56,6 @@ reg add "HKCR\Directory\shell\runas" /v "Extended" /d "" /f
 reg add "HKCR\Directory\shell\runas" /v "Icon" /d "imageres.dll,1" /f
 reg add "HKCR\Directory\shell\runas\command" /ve /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
 reg add "HKCR\Directory\shell\runas\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t" /f
-
 reg add "HKCR\exefile\shell\runas2" /ve /d "¹ÜÀíÔ±È¡µÃËùÓĞÈ¨" /f
 reg add "HKCR\exefile\shell\runas2" /v "HasLUAShield" /d "" /f
 reg add "HKCR\exefile\shell\runas2" /v "NoWorkingDirectory" /d "" /f
@@ -69,27 +63,27 @@ reg add "HKCR\exefile\shell\runas2" /v "Extended" /d "" /f
 reg add "HKCR\exefile\shell\runas2" /v "Icon" /d "imageres.dll,1" /f
 reg add "HKCR\exefile\shell\runas2\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
 reg add "HKCR\exefile\shell\runas2\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
-
-::Ìí¼Ó£ºÎÄ¼ş£ºÓÃ¼ÇÊÂ±¾´ò¿ª£¨97£©
-reg add "HKCR\*\shell\Noteped" /ve /d "ÓÃ¼ÇÊÂ±¾´ò¿ª" /f
-reg add "HKCR\*\shell\Noteped" /v "icon" /d "imageres.dll,289" /f
-reg add "HKCR\*\shell\Noteped\command" /ve /d "notepad.exe %%1" /f
-::¼ÇÊÂ±¾ÏÔÊ¾×´Ì¬À¸
-reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
-::¼ÇÊÂ±¾×Ô¶¯»»ĞĞ
-reg add "HKCU\Software\Microsoft\NotePad" /v "fwrap" /t REG_DWORD /d 1 /f
-
 ::Ìí¼Ó£ºÎÄ¼ş£º¸´ÖÆÎÄ¼şÂ·¾¶
 reg add "HKCR\*\shell\copypath" /ve /d "¸´ÖÆÎÄ¼şÂ·¾¶" /f
+reg add "HKCR\*\shell\copypath" /v "Extended" /d "" /f
 reg add "HKCR\*\shell\copypath" /v "icon" /d "SHELL32.dll,110" /f
 reg add "HKCR\*\shell\copypath\command" /ve /d "mshta vbscript:clipboarddata.setdata"(\"text\",\"%%1\")""(close)"" /f
-
-::Ìí¼Ó£ºÎÄ¼ş£º¸´ÖÆÎÄ¼ş¼ĞÂ·¾¶
+::Ìí¼Ó£ºÎÄ¼ş¼Ğ£º¸´ÖÆÎÄ¼ş¼ĞÂ·¾¶
 reg add "HKCR\Directory\shell\copypath" /ve /d "¸´ÖÆÎÄ¼ş¼ĞÂ·¾¶" /f
+reg add "HKCR\Directory\shell\copypath" /v "Extended" /d "" /f
 reg add "HKCR\Directory\shell\copypath" /v "icon" /d "SHELL32.dll,4" /f
 reg add "HKCR\Directory\shell\copypath\command" /ve /d "mshta vbscript:clipboarddata.setdata"(\"text\",\"%%1\")""(close)"" /f
-
-::Ìí¼Ó£ºÎÄ¼ş£ºĞÂ½¨£ºÅú´¦Àí£¨Bat&CMD£©
+::Ìí¼Ó£ºÎÄ¼ş¼Ğ£ºCMD¿ìËÙÍ¨µÀ
+reg add "HKCR\folder\shell\cmd" /ve /d "ÔÚ´Ë´¦´ò¿ªÃüÁîÌáÊ¾·û" /f
+reg add "HKCR\folder\shell\cmd" /v "icon" /d "shell32.dll,71" /f
+reg add "HKCR\folder\shell\cmd" /v "Extended" /d "" /f
+reg add "HKCR\folder\shell\cmd\command" /ve /d "cmd.exe /s /k pushd \"%%V\"" /f
+::Ìí¼Ó£ºÎÄ¼ş£º×¢²á(Ïú)DLL/OCXÎÄ¼ş
+reg add "HKCR\dllfile\shell\×¢²á DLL\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
+reg add "HKCR\dllfile\shell\×¢Ïú DLL\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
+reg add "HKCR\ocxfile\shell\×¢²á OCX\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
+reg add "HKCR\ocxfile\shell\×¢Ïú OCX\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
+::Ìí¼Ó£ºĞÂ½¨£ºÅú´¦Àí£¨Bat&CMD£©
 reg add "HKCR\.bat" /ve /d "batfile" /f
 reg add "HKCR\.bat\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
 reg add "HKCR\.bat\ShellNew" /v "NullFile" /d "" /f
@@ -97,51 +91,8 @@ reg add "HKCR\.bat\ShellNew" /v "NullFile" /d "" /f
 ::reg add "HKCR\.cmd\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
 ::reg add "HKCR\.cmd\ShellNew" /v "NullFile" /d "" /f
 
-::Ìí¼Ó£ºÎÄ¼ş£º×¢²á(Ïú)DLL/OCXÎÄ¼ş
-reg add "HKCR\dllfile\shell\×¢²á DLL\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
-reg add "HKCR\dllfile\shell\×¢Ïú DLL\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
-reg add "HKCR\ocxfile\shell\×¢²á OCX\Command" /ve /d "Regsvr32 \\\"%%1\\\"" /f
-reg add "HKCR\ocxfile\shell\×¢Ïú OCX\Command" /ve /d "Regsvr32 /u \\\"%%1\\\"" /f
-::Ìí¼Ó£ºÎÄ¼ş¼Ğ£ºCMD¿ìËÙÍ¨µÀ
-reg add "HKCR\folder\shell\cmd" /ve /d "ÔÚ´Ë´¦´ò¿ªÃüÁîÌáÊ¾·û" /f
-reg add "HKCR\folder\shell\cmd" /v "icon" /d "shell32.dll,71" /f
-reg add "HKCR\folder\shell\cmd" /v "Extended" /d "" /f
-reg add "HKCR\folder\shell\cmd\command" /ve /d "cmd.exe /s /k pushd \"%%V\"" /f
-
-::ÔÚ¿ØÖÆÃæ°åÌí¼Ó ±à¼­×¢²á±í Ïî
-reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /ve /d "±à¼­×¢²á±í" /f
-reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /v "InfoTip" /d "´ò¿ª×¢²á±í±à¼­Æ÷" /f
-reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /v "System.ControlPanel.Category" /d "5" /f
-reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}\DefaultIcon" /ve /d "%%SystemRoot%%\regedit.exe" /f
-reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}\Shell\Open\command" /ve /d "regedit" /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{19260817-d95d-4dff-8b2b-a530db6ed982}" /ve /d "Ìí¼Ó×¢²á±í±à¼­Æ÷" /f
-
-::Ìí¼ÓLRC¸è´Ê¸ñÊ½Ê¶±ğ
-reg add "HKCR\.lrc" /ve /d "lrcfile" /f
-reg add "HKCR\.lrc" /v "PerceivedType" /d "text" /f
-reg add "HKCR\lrcfile" /ve /d "lrc ¸è´Ê" /f
-reg add "HKCR\lrcfile\DefaultIcon" /ve /d "imageres.dll,17" /f
-reg add "HKCR\lrcfile\shell" /f
-reg add "HKCR\lrcfile\shell\open" /f
-reg add "HKCR\lrcfile\shell\open\command" /ve /d "NOTEPAD.EXE %%1" /f
-
-::Ä¬ÈÏÊ¹ÓÃChrome´ò¿ªMHT
-reg add "HKCR\.mht" /ve /d "ChromeHTML" /f
-::Ä¬ÈÏÊ¹ÓÃChrome´ò¿ªPDF
-reg add "HKCR\.pdf" /ve /d "ChromeHTML" /f
-
-::Ìí¼Ó Windows ÕÕÆ¬²é¿´Æ÷
-reg add "HKCU\Software\Classes\.bmp" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.gif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.ico" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.jpeg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.jpg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.png" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.tif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-reg add "HKCU\Software\Classes\.tiff" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
-
 :: ÊÓ¾õ£ºÓÒ¼ü²Ëµ¥µ÷Õû-ÇåÀí²¿·Ö£º
-::ÇåÀí£ºÎÄ¼ş£ºĞÂ½¨£º
+::ÇåÀí£ºÎÄ¼ş£ºĞÂ½¨
 rem .BMPÎÄ¼ş
 reg delete "HKCR\.bmp\ShellNew" /f > NUL 2>&1
 rem .ÁªÏµÈË 
@@ -152,7 +103,15 @@ rem .rarÎÄ¼ş
 reg delete "HKLM\SOFTWARE\Classes\.rar\ShellNew" /f > NUL 2>&1
 rem .zipÎÄ¼ş
 reg delete "HKLM\SOFTWARE\Classes\.zip\ShellNew" /f > NUL 2>&1
-
+::ÇåÀí£ºÓÒ¼ü£º·¢ËÍµ½
+rem ´«ÕæÊÕ¼şÈË
+del /f "%AppData%\Microsoft\Windows\SendTo\Fax Recipient.lnk" > NUL 2>&1
+rem Ñ¹Ëõ(zipped)ÎÄ¼ş¼Ğ
+del /f "%AppData%\Microsoft\Windows\SendTo\Compressed (zipped) Folder.ZFSendToTarget" > NUL 2>&1
+rem ÎÄµµ
+del /f "%AppData%\Microsoft\Windows\SendTo\ÎÄµµ.mydocs" > NUL 2>&1
+rem ÓÊ¼şÊÕ¼şÈË
+del /f "%AppData%\Microsoft\Windows\SendTo\Mail Recipient.MAPIMail" > NUL 2>&1
 ::ÇåÀí£º»ØÊÕÕ¾ÓÒ¼ü£º¹Ì¶¨µ½¿ªÊ¼ÆÁÄ»
 reg delete "HKLM\SOFTWARE\Classes\Folder\shellex\ContextMenuHandlers\PintoStartScreen" /f > NUL 2>&1
 ::ÇåÀí£ºÎÄ¼ş£º¡°ÊÚÓè·ÃÎÊÈ¨ÏŞ¡±£¨ĞèÖØÆô£©
@@ -190,23 +149,14 @@ reg delete "HKCR\SystemFileAssociations\.png\Shell\3D Edit" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.tif\Shell\3D Edit" /f > NUL 2>&1
 ::ÇåÀí£ºÎÄ¼ş£ºÍ¼Æ¬£ºÏò×ó¡¢ÏòÓÒĞı×ª
 reg delete "HKCR\SystemFileAssociations\.bmp\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.dds\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.dib\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.gif\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.ico\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.jfif\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.jpe\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.jpeg\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.jpg\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.jxr\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.pdd\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.png\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.psb\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.psd\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.rle\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.tif\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.tiff\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.wdp\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 ::ÇåÀí£ºÎÄ¼ş£ºÍ¼Ïñ¡¢ÒôÆµ¡¢ÊÓÆµ¼°ÆäËû¸ñÊ½ÓÒ¼ü£º²¥·Åµ½Éè±¸
 reg delete "HKCR\SystemFileAssociations\image\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\audio\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
@@ -217,6 +167,21 @@ reg delete "HKCR\SystemFileAssociations\.m4v\shellex\ContextMenuHandlers\PlayTo"
 reg delete "HKCR\SystemFileAssociations\Directory.Audio\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Image\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Video\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
+::ÇåÀí£ºopendlg
+reg delete "HKCR\Unknown\shell\opendlg" /f > NUL 2>&1
+reg delete "HKCR\Unknown\shell\opendlg\command" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen\command" /f > NUL 2>&1
+::ÇåÀí£ºÏÔ¿¨Ïî
+::reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\ACE" /f > NUL 2>&1
+::reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\NvCplDesktopContext" /f > NUL 2>&1
+reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxDTCM" /f > NUL 2>&1
+reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxOSP" /f > NUL 2>&1
+reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxcui" /f > NUL 2>&1
+::ÇåÀí£ºÉÏ´«µ½WPSÎÄµµ
+reg delete "HKCR\*\shellex\ContextMenuHandlers\qingshellext" /f > NUL 2>&1
+::ÇåÀí£ºÉÏ´«µ½°Ù¶ÈÍøÅÌ
+reg delete "HKCR\*\shellex\ContextMenuHandlers\YunShellExt" /f > NUL 2>&1
 ::Òş²Ø£ºÍ¼Æ¬ÓÒ¼ü£º±à¼­£¨ÔÚÎÄ¼şÉÏ°´×¡shiftÏÔÊ¾£©
 reg add "HKCR\SystemFileAssociations\image\shell\edit" /v "Extended" /d "" /f
 ::Òş²Ø£ºÍ¼Æ¬ÓÒ¼ü£ºÉèÖÃÎª×ÀÃæ±³¾°£¨ÔÚÎÄ¼şÉÏ°´×¡shiftÏÔÊ¾£©
@@ -231,20 +196,6 @@ reg add "HKCR\batfile\shell\print" /v "Extended" /d "" /f
 reg add "HKCR\cmdfile\shell\print" /v "Extended" /d "" /f
 reg add "HKCR\regfile\shell\print" /v "Extended" /d "" /f
 reg add "HKCR\txtfile\shell\print" /v "Extended" /d "" /f
-::ÇåÀí£ºÏÔ¿¨Ïî
-::reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\ACE" /f > NUL 2>&1
-::reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\NvCplDesktopContext" /f > NUL 2>&1
-reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxDTCM" /f > NUL 2>&1
-reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxOSP" /f > NUL 2>&1
-reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxcui" /f > NUL 2>&1
-::ÇåÀí£ºÉÏ´«µ½°Ù¶ÈÍøÅÌ£¬ÉÏ´«µ½WPSÎÄµµ
-reg delete "HKCR\*\shellex\ContextMenuHandlers\qingshellext" /f > NUL 2>&1
-reg delete "HKCR\*\shellex\ContextMenuHandlers\YunShellExt" /f > NUL 2>&1
-::ÇåÀí£ºopendlg
-reg delete "HKCR\Unknown\shell\opendlg" /f > NUL 2>&1
-reg delete "HKCR\Unknown\shell\opendlg\command" /f > NUL 2>&1
-reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen" /f > NUL 2>&1
-reg delete "HKLM\SOFTWARE\Classes\Folder\shell\pintostartscreen\command" /f > NUL 2>&1
 
 :: ÊÓ¾õ£ºÎÒµÄµçÄÔ¡¢ÎÄ¼ş¼Ğ¡¢ÎÄ¼ş×ÊÔ´¹ÜÀíÆ÷µ÷Õû²¿·Ö£º
 ::ÎÒµÄµçÄÔÈ¡ÏûÏÔÊ¾7¸öÎÄ¼ş¼Ğ
@@ -285,13 +236,10 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer" /v link /d "00
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v HideFileExt /t REG_DWORD /d 0 /f
 reg add "HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /f /v "HideFileExt" /t REG_DWORD /d 0
 ::Ç¿ÖÆÏÔÊ¾Ö¸¶¨ÎÄ¼şÀàĞÍµÄÀ©Õ¹Ãû
+reg add "HKCR\batfile" /v "AlwaysShowExt" /d "" /f
+reg add "HKCR\cmdfile" /v "AlwaysShowExt" /d "" /f
 reg add "HKCR\exefile" /v "AlwaysShowExt" /d "" /f
 reg add "HKCR\regfile" /v "AlwaysShowExt" /d "" /f
-reg add "HKCR\batfile" /v "AlwaysShowExt" /d "" /f
-::É¾³ı×ÀÃæMicrosoft Edge¿ì½İ·½Ê½
-set "reg=HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
-for /f "tokens=2*" %%a in ('reg query "%reg%" /v desktop') do set "desktop=%%b"
-del /f /q "%desktop%\Microsoft Edge.lnk" >nul 2>nul
 ::ÔÚ×ÀÃæ´´½¨¶à¹¦ÄÜInternet Explorer¿ì½İ·½Ê½
 reg delete "HKCR\CLSID\{B416D21B-3B22-B6D4-BBD3-BBD452DB3D5B}" /f > NUL 2>&1
 reg delete "HKLM\SOFTWARE\Classes\CLSID\{B416D21B-3B22-B6D4-BBD3-BBD452DB3D5B}" /f > NUL 2>&1
@@ -302,8 +250,14 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}" /v "InfoTip" /d "@C:
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}" /v "LocalizedString" /d "@C:\Windows\System32\ieframe.dll,-880" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell" /ve /d "Open" /f
-::reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\00Home" /ve /d "´ò¿ª°Ù¶ÈÊ×Ò³(&B)" /f
-::reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\00Home\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.baidu.com/?tn=baiduhome" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\001" /ve /d "Ãæ°üÓ°ÊÓ(&B)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\001\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.mianbao99.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\002" /ve /d "Ò×ÊÓÖ±²¥(&L)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\002\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cietv.com/live/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\003" /ve /d "CCTV1(&1)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\003\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://tv.cctv.com/live/cctv1/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\00Home" /ve /d "CCTV5(&5)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\00Home\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://tv.cctv.com/live/cctv5/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\01Nohome" /ve /d "´ò¿ª¿Õ°×Ê×Ò³(&O)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\01Nohome\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"-nohome" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\shell\02Private" /ve /d "ÒşË½ä¯ÀÀÄ£Ê½(&P)" /f
@@ -329,15 +283,13 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "Hide
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000001}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
-
 ::ÔÚ×ÀÃæ´´½¨¶à¹¦ÄÜÍøÉÏÒøĞĞIE¿ì½İ·½Ê½
+reg delete "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}" /f > NUL 2>&1
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{00000000-0000-0000-0000-100000000002}" /ve /d "ÍøÉÏÒøĞĞ" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}" /v "InfoTip" /d "ÍøÉÏÒøĞĞ£¬ÓÒ¼üÖ±´ï" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}" /v "LocalizedString" /d "ÍøÉÏÒøĞĞ" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,88" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell" /ve /d "Open" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\00" /ve /d "°Ù¶ÈÊ×Ò³(&H)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\00\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.baidu.com/?tn=baiduhome" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\01" /ve /d "¹¤ÉÌÒøĞĞ(&I)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\01\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.icbc.com.cn/icbc/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\02" /ve /d "Å©ÒµÒøĞĞ(&A)" /f
@@ -348,16 +300,34 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\04" /ve /d "½¨É
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\04\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.ccb.com/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\05" /ve /d "½»Í¨ÒøĞĞ(&J)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\05\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.bankcomm.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\06" /ve /d "ÓÊ´¢ÒøĞĞ(&P)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\06" /ve /d "ÓÊ´¢ÒøĞĞ(&Y)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\06\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.psbc.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\060" /ve /d "ÈËĞĞÕ÷ĞÅ(&X)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\060\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://ipcrs.pbccrc.org.cn/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\07" /ve /d "ÃñÉúÒøĞĞ(&M)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\07\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbc.com.cn/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\08" /ve /d "ÕĞÉÌÒøĞĞ(&Z)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\08\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbchina.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\09" /ve /d "ÖĞĞÅÒøĞĞ(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\09" /ve /d "ÖĞĞÅÒøĞĞ(&X)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\09\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.citicbank.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10" /ve /d "ÆÖ·¢ÒøĞĞ(&H)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.spdb.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10" /ve /d "Æ½°²ÒøĞĞ(&P)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\10\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://bank.pingan.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\11" /ve /d "¹â´óÒøĞĞ(&G)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\11\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cebbank.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\12" /ve /d "ÆÖ·¢ÒøĞĞ(&F)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\12\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.spdb.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\13" /ve /d "»ªÏÄÒøĞĞ(&H)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\13\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.hxb.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\14" /ve /d "ĞËÒµÒøĞĞ(&D)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\14\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.cib.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\15" /ve /d "¹ã·¢ÒøĞĞ(&D)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\15\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cgbchina.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\16" /ve /d "ÕãÉÌÒøĞĞ(&D)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\16\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.czbank.com/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\17" /ve /d "ºã·áÒøĞĞ(&D)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\17\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.hfbank.com.cn/" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\18" /ve /d "²³º£ÒøĞĞ(&D)" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\shell\18\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cbhb.com.cn/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolde r" /v "HideAsDeletePerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
@@ -365,15 +335,6 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "Hide
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-100000000002}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
-
-::ÔÚ×ÀÃæ´´½¨³£ÓÃÒøĞĞ¿ì½İ·½Ê½ if not exist %lnkdir% md %lnkdir%
-set lnkdir="%USERPROFILE%\Desktop"
-echo [InternetShortcut] >%lnkdir%\Ò×ÊÓÖ±²¥.url
-echo URL="http://www.cietv.com/live/" >>%lnkdir%\Ò×ÊÓÖ±²¥.url
-echo [InternetShortcut] >%lnkdir%\ÑëÊÓÖ±²¥.url
-echo URL="http://tv.cctv.com/live/" >>%lnkdir%\ÑëÊÓÖ±²¥.url
-echo [InternetShortcut] >%lnkdir%\Ãæ°üÓ°ÊÓ.url
-echo URL="https://www.mianbao99.com/" >>%lnkdir%\Ãæ°üÓ°ÊÓ.url
 
 :: ÊÓ¾õ£ºÈÎÎñÀ¸µ÷Õû²¿·Ö£º
 ::ÔÚÈÎÎñÀ¸Ê±¼äÏÔÊ¾Ãë
@@ -388,156 +349,81 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "T
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "TaskbarSizeMove" /t REG_DWORD /d 0 /f
 ::¹Ø±Õ ÈÎÎñÀ¸-ÓÒ¼üWindows Ink¹¤×÷Çø
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsInkWorkspace" /v "AllowWindowsInkWorkspace" /t REG_DWORD /d 0 /f
+::¹Ø±ÕÓÒ²àÍ¨ÖªÖĞĞÄÀ¸
+reg add "HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "DisableNotificationCenter" /t REG_DWORD /d 1 /f
+::¹Ø±Õ´ò¿ª  ±¾µØ  ÎÄ¼şµÄ¡°°²È«¾¯¸æ¡±
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Associations" /v "ModRiskFileTypes" /d ".7z;.cab;.bat;.chm;.cmd;.exe;.js;.msi;.rar;.reg;.vbs;.zip;.txt" /f
 
+:: ÊÓ¾õ£º¹Ø±ÕÔ¤ÀÀ
+::¹Ø±Õ²¿·ÖÒôÆµÀàĞÍÎÄ¼şÍ¼Æ¬Ô¤ÀÀ
+reg delete "HKCR\.ape\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.flac\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.mp3\ShellEx" /f >nul 2>nul
+::¹Ø±Õ²¿·ÖÊÓÆµÀàĞÍÎÄ¼şÍ¼Æ¬Ô¤ÀÀ
+::reg delete "HKCR\.avi\ShellEx" /f >nul 2>nul
+::reg delete "HKCR\.mkv\ShellEx" /f >nul 2>nul
+::reg delete "HKCR\.mov\ShellEx" /f >nul 2>nul
+::reg delete "HKCR\.mp4\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.3gp\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.m4a\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.m4v\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.mpeg\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.mpg\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.rmvb\ShellEx" /f >nul 2>nul
+reg delete "HKCR\.wmv\ShellEx" /f >nul 2>nul
 
+:: Ê¹ÓÃ£ºÄ¬ÈÏÑ¡Ïîµ÷Õû&ÍêÉÆ
 
-:: Ê¹ÓÃ£º¸üĞÂºÍ°²×°
-::¹Ø±ÕÇı¶¯×Ô¶¯¸üĞÂ£¨½ûÖ¹¸üĞÂ£©
-::reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "ExcludeWUDriversInQualityUpdate" /t REG_DWORD /d 1 /f
-::¹Ø±ÕÏµÍ³×Ô¶¯¸üĞÂ£¨ÊÖ¶¯¸üĞÂ£©
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\wuauserv" /v "Start" /t REG_DWORD /d 3 /f
-::¹Ø±Õ ´ò¿ªÎ´ÖªÎÄ¼ş·½Ê½Ê± ´ÓÓ¦ÓÃÉÌµêÑ¡ÔñÆäËüÓ¦ÓÃ
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "NoUseStoreOpenWith" /t REG_DWORD /d 1 /f
+::Fix CHM
+regsvr32 /s hhctrl.ocx
+regsvr32 /s itircl.dll
+regsvr32 /s itss.dll
 
-::ÏµÍ³-Í¨ÖªºÍ²Ù×÷£º¸üĞÂºóÏòÎÒÏÔÊ¾¡°»¶Ó­Ê¹ÓÃWindowsÌåÑé¡±£¬²¢ÔÚÎÒµÇÂ½Ê±Í»³öÏÔÊ¾ĞÂÔöÄÚÈİºÍ½¨ÒéµÄÄÚÈİ
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-310093Enabled" /t REG_DWORD /d 0 /f
-::ÏµÍ³-Í¨ÖªºÍ²Ù×÷£ºÔÚÊ¹ÓÃWindowsÊ±»ñÈ¡ÌáÊ¾¼¼ÇÉºÍ½¨Òé
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338389Enabled" /t REG_DWORD /d 0 /f
+::¸´ÖÆNotepad2
+copy /y "Notepad2.exe" "%SystemRoot%"
+::½«Notepad½Ù³ÖÎªNotepad2
+reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\Notepad2.exe\" /z" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /f >nul 2>nul
+::Ìí¼Ó£ºÎÄ¼ş£ºÓÃ¼ÇÊÂ±¾´ò¿ª£¨97£©
+reg add "HKCR\*\shell\Noteped" /ve /d "ÓÃ¼ÇÊÂ±¾´ò¿ª" /f
+reg add "HKCR\*\shell\Noteped" /v "icon" /d "imageres.dll,289" /f
+reg add "HKCR\*\shell\Noteped\command" /ve /d "Notepad2.exe %%1" /f
+::¼ÇÊÂ±¾ÏÔÊ¾×´Ì¬À¸
+reg add "HKCU\Software\Microsoft\NotePad" /v "StatusBar" /t REG_DWORD /d 1 /f
+::¼ÇÊÂ±¾×Ô¶¯»»ĞĞ
+reg add "HKCU\Software\Microsoft\NotePad" /v "fwrap" /t REG_DWORD /d 1 /f
 
-::ÏµÍ³-µçÔ´ºÍË¯Ãß
-::¹Ø±ÕĞİÃß powercfg -h off
-::¿ªÆô¿ìËÙÆô¶¯
-::powercfg -hibernate on
-::reg add "HKLM\SYSTEM\CurrentControlSet\Control\Power" /v "HibernateEnabled" /d 1 /t REG_DWORD /f
-::reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "HiberbootEnabled" /d 1 /t REG_DWORD /f
-::ÆôÓÃµçÔ´¼Æ»®¡°¸ßĞÔÄÜ¡±
-rem powercfg -setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
-::Ìí¼ÓµçÔ´¼Æ»®¡°×¿Ô½ĞÔÄÜ¡±£¨1803ÒÔºó²»ĞèÒªÔÙÌí¼Ó£©
-powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
-::ÆôÓÃµçÔ´¼Æ»®¡°×¿Ô½ĞÔÄÜ¡±
-powercfg -setactive e9a42b02-d5df-448d-aa00-03f14749eb61
-::ÉèÖÃÆÁÄ»×Ô¶¯¹Ø±ÕÊ±¼äÎª£º5·ÖÖÓ
-powercfg -x -monitor-timeout-ac 5
+::ÔÚ¿ØÖÆÃæ°åÌí¼Ó ±à¼­×¢²á±í Ïî
+reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /ve /d "±à¼­×¢²á±í" /f
+reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /v "InfoTip" /d "´ò¿ª×¢²á±í±à¼­Æ÷" /f
+reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}" /v "System.ControlPanel.Category" /d "5" /f
+reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}\DefaultIcon" /ve /d "%%SystemRoot%%\regedit.exe" /f
+reg add "HKCR\CLSID\{19260817-d95d-4dff-8b2b-a530db6ed982}\Shell\Open\command" /ve /d "regedit" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{19260817-d95d-4dff-8b2b-a530db6ed982}" /ve /d "Ìí¼Ó×¢²á±í±à¼­Æ÷" /f
 
-::ÏµÍ³-Ô¶³Ì×ÀÃæ£¨¹Ø±ÕÔ¶³ÌĞ­Öú£©
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowToGetHelp" /d 0 /t REG_dword /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fAllowUnsolicited" /d 0 /t REG_dword /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fDenyTSConnections" /d 1 /t REG_dword /f
+::Ìí¼ÓLRC¸è´Ê¸ñÊ½Ê¶±ğ
+reg add "HKCR\.lrc" /ve /d "lrcfile" /f
+reg add "HKCR\.lrc" /v "PerceivedType" /d "text" /f
+reg add "HKCR\lrcfile" /ve /d "lrc ¸è´Ê" /f
+reg add "HKCR\lrcfile\DefaultIcon" /ve /d "imageres.dll,17" /f
+reg add "HKCR\lrcfile\shell" /f
+reg add "HKCR\lrcfile\shell\open" /f
+reg add "HKCR\lrcfile\shell\open\command" /ve /d "NOTEPAD.EXE %%1" /f
 
-::½ûÖ¹×Ô¶¯°²×°ÓÎÏ·ÓëÓ¦ÓÃ(¹Ø±ÕMicrosoftÏû·ÑÕßÌåÑé)
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v "DisableWindowsConsumerFeatures" /t REG_DWORD /d 1 /f
-::½ûÖ¹×Ô¶¯°²×°ÍÆ¼öµÄÓ¦ÓÃ³ÌĞò(¹Ø±ÕÄÚÖÃµÄ¹ã¸æ¡¢ÌáÊ¾¡¢Ó¦ÓÃÍÆ¼ö)
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SilentInstalledAppsEnabled" /t REG_DWORD /d 0 /f
-::¹Ø±ÕÉÌµêÓ¦ÓÃÍÆ¹ã
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "OemPreInstalledAppsEnabled" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "PreInstalledAppsEnabled" /t REG_DWORD /d 0 /f
-reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /f
+::Ä¬ÈÏÊ¹ÓÃChrome´ò¿ªMHT
+reg add "HKCR\.mht" /ve /d "ChromeHTML" /f
+::Ä¬ÈÏÊ¹ÓÃChrome´ò¿ªPDF
+reg add "HKCR\.pdf" /ve /d "ChromeHTML" /f
 
-::½ûÖ¹ Å¼¶ûÔÚ¿ªÊ¼²Ëµ¥ÖĞÏÔÊ¾½¨Òé
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338388Enabled" /t REG_DWORD /d 0 /f
-::½ûÖ¹ ÔÚËøÆÁ½çÃæÉÏ»ñÈ¡»¨Ğõ¡¢ÌáÊ¾¡¢¼¼ÇÉ
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "RotatingLockScreenEnabled" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "RotatingLockScreenOverlayEnabled" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338387Enabled" /t REG_DWORD /d 0 /f
-::½ûÖ¹ ÉÌµêÍÆ¹ã
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.BingNews_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.BingWeather_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.NetworkSpeedTest_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.Office.Sway_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.OfficeLens_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.RemoteDesktop_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.Todos_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.Whiteboard_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.WindowsAlarms_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.WindowsCalculator_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.WindowsMaps_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /v "VisionObjects.MyScriptNebo_1rjv6qr7skr92" /t REG_DWORD /d 0 /f
-
-:: Ê¹ÓÃ£ºÎ¢ÈíÉÌµêMetroÓ¦ÓÃ %ProgramFiles%\WindowsApps É¾³ı£¨±£Áô£ºDesktop App Installer¡¢Store Purchase App¡¢Ç®°ü¡¢Ó¦ÓÃÉÌµê£©   
-::XboxÉí·İÈÏÖ¤Ó¦ÓÃ£ºxbox identity provider https://www.microsoft.com/zh-cn/store/p/xbox-identity-provider/9wzdncrd1hkw
-::ÖØĞÂ×¢²áÈ«²¿ PowerShell Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
-::3DBuilder
-PowerShell "Get-AppxPackage *Microsoft.3DBuilder* | Remove-AppxPackage"
-::ÌìÆø
-PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
-::»ñÈ¡°ïÖú
-PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
-::Get Started
-PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
-::ÏûÏ¢
-PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
-::MSPaint
-PowerShell "Get-AppxPackage *Microsoft.Microsoft.MSPaint* | Remove-AppxPackage"
-::3DViewer
-PowerShell "Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage"
-::Office Hub
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
-::Microsoft Solitaire Collection
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
-::NetworkSpeedTest
-PowerShell "Get-AppxPackage *Microsoft.NetworkSpeedTest* | Remove-AppxPackage"
-::Office OneNote
-PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
-::Office Sway
-PowerShell "Get-AppxPackage *Microsoft.Office.Sway* | Remove-AppxPackage"
-::RemoteDesktop
-PowerShell "Get-AppxPackage *Microsoft.RemoteDesktop* | Remove-AppxPackage"
-::Services.Store.Engagement
-PowerShell "Get-AppxPackage *Microsoft.Services.Store.Engagement* | Remove-AppxPackage"
-::Sticky Notes
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
-::Todos
-PowerShell "Get-AppxPackage *Microsoft.Todos* | Remove-AppxPackage"
-::Whiteboard
-PowerShell "Get-AppxPackage *Microsoft.Whiteboard* | Remove-AppxPackage"
-::Á¬½Ó
-PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
-::ÈËÂö
-PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
-::Print3D
-PowerShell "Get-AppxPackage *Microsoft.Print3D* | Remove-AppxPackage"
-::SkypeApp
-PowerShell "Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage"
-::WebMediaExtensions
-PowerShell "Get-AppxPackage *Microsoft.WebMediaExtensions* | Remove-AppxPackage"
-::Í¼Æ¬
-PowerShell "Get-AppxPackage *Microsoft.Windows.Photos* | Remove-AppxPackage"
-::ÄÖÖÓºÍÊ±ÖÓ
-PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
-::Ïà»ú
-PowerShell "Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage"
-::·´À¡ÖĞĞÄ
-PowerShell "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage"
-::µØÍ¼
-PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
-::ÓïÒôÂ¼Òô»ú
-PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
-::ÈÕÀúºÍÓÊ¼ş
-PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
-::GrooveÒôÀÖ
-PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
-::µçÓ°ºÍµçÊÓ
-PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
-::YourPhone
-PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
-::MixedReality
-PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
-::Ğ¶ÔØÓÎÏ·Â¼ÖÆ¹¤¾ßÀ¸
-PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
-PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
-::Ğ¶ÔØXboxÓÎÏ·×é¼ş
-PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
-PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
-::Ğ¶ÔØÉÌµê
-::PowerShell "get-appxpackage Microsoft.DesktopAppInstaller | remove-appxpackage"
-::PowerShell "get-appxpackage Microsoft.StorePurchaseApp | remove-appxpackage"
-::PowerShell "get-appxpackage Microsoft.WindowsStore | remove-appxpackage"
-
-::PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
-
-start %systemroot%\explorer
+::Ìí¼Ó Windows ÕÕÆ¬²é¿´Æ÷
+reg add "HKCU\Software\Classes\.bmp" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.gif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.ico" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.jpeg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.jpg" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.png" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.tif" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
+reg add "HKCU\Software\Classes\.tiff" /ve /d "PhotoViewer.FileAssoc.Tiff" /f
 
 ::½ûÖ¹ ²»¶ÏÖØ¸´»Ö¸´Ä¬ÈÏÉèÖÃ
 rem Microsoft.3DBuilder£ºFile Types: .stl, .3mf, .obj, .wrl, .ply, .fbx, .3ds, .dae, .dxf, .bmp, .jpg, .png, .tga
@@ -561,150 +447,61 @@ reg add "HKCU\SOFTWARE\Classes\AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" /v "NoOpenW
 rem Zune Video£ºFile Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
 reg add "HKCU\SOFTWARE\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" /v "NoOpenWith" /d "" /f
 
-::¹Ø±ÕÒôÆµÎÄ¼şÍ¼Æ¬Ô¤ÀÀ
-reg delete "HKCR\.ape\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.flac\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mp3\ShellEx" /f >nul 2>nul
-::¹Ø±ÕÊÓÆµÎÄ¼şÍ¼Æ¬Ô¤ÀÀ
-reg delete "HKCR\.3gp\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.avi\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.m4a\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.m4v\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mkv\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mod\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mov\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mp4\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mpeg\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.mpg\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.rmvb\ShellEx" /f >nul 2>nul
-reg delete "HKCR\.wmv\ShellEx" /f >nul 2>nul
+::Windows Media Player ²»ÏÔÊ¾Ê×´ÎÊ¹ÓÃ¶Ô»°¿ò
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer" /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f > NUL 2>&1
 
-::fix chm
-regsvr32 /s hhctrl.ocx
-regsvr32 /s itircl.dll
-regsvr32 /s itss.dll
+::Î¢ÈíÆ´ÒôÊäÈë·¨ÅäÖÃÑ¡Ïî
+rem Î¢ÈíÆ´ÒôÄ¬ÈÏÎªÓ¢ÓïÊäÈë
+reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Default Mode" /t REG_DWORD /d 1 /f
+rem ¹Ø±Õ´ÓÔÆÖĞ»ñÈ¡ºòÑ¡´Ê
+reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Cloud Candidate" /t REG_DWORD /d 0 /f
+rem ¹Ø±Õ´ÓÔÆÖĞ»ñÈ¡ÌùÖ½
+reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "EnableLiveSticker" /t REG_DWORD /d 0 /f
+rem ¹Ø±ÕÄ£ºıÒô
+reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Fuzzy Input" /t REG_DWORD /d 0 /f
+rem ¹Ø±ÕÏÔÊ¾ĞÂ´ÊÈÈ´ÊËÑË÷µÄÌáÊ¾
+reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Hot And Popular Word Search" /t REG_DWORD /d 0 /f
 
-:: Ê¹ÓÃ£ºÆô¶¯ ĞÔÄÜ
-::Æô¶¯ºÍ¹ÊÕÏ»Ö¸´£º¿ª»ú£ºÉèÖÃ¿ª»ú´ÅÅÌÉ¨ÃèµÈ´ıÊ±¼äÎª1Ãë
-chkntfs /t:1
-::Æô¶¯ºÍ¹ÊÕÏ»Ö¸´£º¿ª»ú£ºÉèÖÃ¿ª»úÏÔÊ¾²Ù×÷ÏµÍ³ÁĞ±íÊ±¼ä2Ãë
-bcdedit /timeout 2
-::Æô¶¯ÉèÖÃ¿ª»ú°´F8¼üÖ±½Ó½øÈë°²È«Ä£Ê½
-bcdedit /set {default} bootmenupolicy legacy
-::ÇåÀíÆô¶¯Ïî
-attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
-attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
-::½â¾ö¿ª»úÆô¶¯×Ô¶¯´ò¿ªdesktop.ini
-attrib +s +h "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
-attrib +s +h "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\desktop.ini"
-del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\GV Video IO Hardware Driver.ink" 1>nul 2>nul
-::del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
-del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\*.url" 1>nul 2>nul
-::Çå¿ÕÄ¬ÈÏÆô¶¯Ïî
-::reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
-
-
-::ÆôÓÃWinÀë¿ªÄ£Ê½
-reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "AwayModeEnabled" /t REG_DWORD /d 1 /f
-::Æô¶¯WindowsÃâÊäÈëÃÜÂë×Ô¶¯µÇÂ½"
-reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v "AutoAdminLogon" /d "1" /f
-
-:: Ê¹ÓÃ£º°²È«£º
-::¹Ø±ÕÓÃ»§ÕË»§¿ØÖÆ(UAC)
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d 0 /f
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "EnableLUA" /t REG_DWORD /d 0 /f
-::È¥³ıUACĞ¡¶ÜÅÆ
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 77 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
-::¹Ø±ÕWindows Defender Antivirus Service£º°ïÖúÓÃ»§·ÀÖ¹¶ñÒâÈí¼ş¼°ÆäËûÇ±ÔÚµÄÀ¬»øÈí¼ş¡£(Windows Defender ¸ÄÎªÊÖ¶¯Æô¶¯)
-Reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v SecurityHealth /f >nul 2>nul
-::½ûÓÃWindows Defender °²È«ÖĞĞÄ·şÎñ
-reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
-::ÔÚÎ´°²×°Í¨¹ıÎ¢Èí×¢²áµÄÉ±ÈíµÄÇé¿öÏÂ¹Ø±ÕWindows Security Center
-reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
-::¹Ø±ÕSmartscreenÓ¦ÓÃÉ¸Ñ¡Æ÷
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScreenEnabled" /d "Off" /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\MicrosoftEdge\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d 0 /f
-reg add "HKCU\SOFTWARE\Microsoft\Internet Explorer\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d 0 /f
-::¹Ø±Õ·À»ğÇ½
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile" /v "EnableFirewall" /t REG_DWORD /d 0 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile" /v "EnableFirewall" /t REG_DWORD /d 0 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\DomainProfile" /v "EnableFirewall" /t REG_DWORD /d 0 /f
-::¹Ø±ÕÓÒ²àÍ¨ÖªÖĞĞÄÀ¸
-reg add "HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "DisableNotificationCenter" /t REG_DWORD /d 1 /f
-::¹Ø±Õ´ò¿ª  ±¾µØ  ÎÄ¼şµÄ¡°°²È«¾¯¸æ¡±
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Associations" /v "ModRiskFileTypes" /d ".7z;.cab;.bat;.chm;.cmd;.exe;.js;.msi;.rar;.reg;.vbs;.zip;.txt" /f
-::¹Ø±Õ´ò¿ª ¾ÖÓòÍø ÎÄ¼şµÄ¡°°²È«¾¯¸æ¡±£¨InternetÑ¡Ïî£º¼ÓÔØÓ¦ÓÃ³ÌĞòºÍ²»°²È«ÎÄ¼şÊ±²»ÌáÊ¾£©
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
-::½ûÓÃ¿Í»§ÌåÑé¸ÄÉÆ¼Æ»®
-reg add "HKLM\SOFTWARE\Policies\Microsoft\SQMClient\Windows" /v "CEIPEnable" /t REG_DWORD /d 0 /f
-::ºöÂÔ Éè±¸Çı¶¯³ÌĞòµÄ´úÂëÇ©Ãû
-reg add "HKLM\SOFTWARE\Microsoft\Driver Signing" /v "Policy" /t REG_BINARY /d "00" /f
 ::½Ù³ÖÒ»Ğ©ĞŞ¸ÄÖ÷Ò³ºÍºóÌ¨ÏÂÔØÍÆ¹ãµÄÎÄ¼ş
-::2345
+rem 2345
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345MiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345PicHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\2345PicMiniPage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Downloader_2345Explorer.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\HaoZipHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wzdh2345.exe" /v Debugger /t REG_SZ /d "p" /f
-::360
+rem 360
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\360wallpaper_360safe.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\360zipInst.exe" /v Debugger /t REG_SZ /d "p" /f
-::Baofeng
+rem Baofeng
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\BFBrowser.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\BFDesktopTips.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\BFpop.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\InfoTips.exe" /v Debugger /t REG_SZ /d "p" /f
-::Chrome
+rem Chrome
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\software_reporter_tool.exe" /v Debugger /t REG_SZ /d "p" /f
-::Flash
+rem Flash
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\FlashHelperService.exe" /v Debugger /t REG_SZ /d "p" /f
-::iQIYI
+rem iQIYI
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\QyFragment.exe" /v Debugger /t REG_SZ /d "p" /f
-::KingSoft
+rem KingSoft
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install_duba.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\install_ksafe.exe" /v Debugger /t REG_SZ /d "p" /f
-::KingSoft-iciba
+rem KingSoft-iciba
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ksddownloader.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ktpcntr.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\minisite.exe" /v Debugger /t REG_SZ /d "p" /f
-::Sogou
+rem Sogou
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SohuNews.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SogouCloud.exe" /v Debugger /t REG_SZ /d "p" /f
-::QQ
+rem QQ
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\QQPcmgrDownload.exe" /v Debugger /t REG_SZ /d "p" /f
-::TaoBao
+rem TaoBao
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Dandelion.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DandelionSetup.exe" /v Debugger /t REG_SZ /d "p" /f
-::Pops
+rem Pops
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\KuaizipUpdate.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\desktoptip.exe" /v Debugger /t REG_SZ /d "p" /f
-
-:: Ê¹ÓÃ£ºÊ±¼äºÍÓïÑÔ-ÇøÓòºÍÓïÑÔ-¹ú¼ÒºÍµØÇø£º
-::µ÷ÕûÎª ÖĞ¹ú
-::reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "45" /f
-::reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "CN" /f
-::µ÷ÕûÎª ĞÂ¼ÓÆÂ
-::reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "215" /f >nul 2>nul
-::reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "SG" /f >nul 2>nul
-::µ÷ÕûÎª ÃÀ¹ú
-reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "244" /f >nul 2>nul
-reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "US" /f >nul 2>nul
-:: Ê¹ÓÃ£ºÎ¢ÈíÆ´ÒôÊäÈë·¨ÅäÖÃÑ¡Ïî
-::Î¢ÈíÆ´ÒôÄ¬ÈÏÎªÓ¢ÓïÊäÈë
-reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Default Mode" /t REG_DWORD /d 1 /f
-::¹Ø±Õ´ÓÔÆÖĞ»ñÈ¡ºòÑ¡´Ê
-reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Cloud Candidate" /t REG_DWORD /d 0 /f
-::¹Ø±Õ´ÓÔÆÖĞ»ñÈ¡ÌùÖ½
-reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "EnableLiveSticker" /t REG_DWORD /d 0 /f
-::¹Ø±ÕÄ£ºıÒô
-reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Fuzzy Input" /t REG_DWORD /d 0 /f
-::¹Ø±ÕÏÔÊ¾ĞÂ´ÊÈÈ´ÊËÑË÷µÄÌáÊ¾
-reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Hot And Popular Word Search" /t REG_DWORD /d 0 /f
-
-::Windows Media Player ²»ÏÔÊ¾Ê×´ÎÊ¹ÓÃ¶Ô»°¿ò
-reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer" /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f > NUL 2>&1
 
 :: Ê¹ÓÃ£ºIE£º
 ::Ìø¹ıIEÊ×´ÎÔËĞĞ×Ô¶¨ÒåÉèÖÃ
@@ -723,8 +520,6 @@ reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Start Page" /d "htt
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Default_Search_URL" /d "https://www.baidu.com/s?tn=baiduhome&wd=%s" /f
 ::ÉèÖÃÄ¬ÈÏËÑË÷Ò³Ãæ
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\Main" /v "Search Page" /d "https://www.baidu.com/" /f
-::Í£ÓÃ°Ù¶È¸öĞÔ»¯ÅäÖÃ¹¤¾ßÉèÖÃ ÀúÊ·¼ÍÂ¼ÉèÖÃĞèÒªµÇÂ½£ºhttps://www.baidu.com/duty/privacysettings.html
-::start iexplore.exe https://www.baidu.com/duty/safe_control.html
 ::ÆôÓÃ±íµ¥µÄ×Ô¶¯Íê³É¹¦ÄÜ
 reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Use FormSuggest" /d "yes" /f
 ::¹Ø±Õ¶à¸öÑ¡Ïî¿¨Ê±²»·¢³ö¾¯¸æ
@@ -748,7 +543,7 @@ reg add "HKCU\Software\Microsoft\Internet Explorer\SearchScopes\taobao" /v "Sort
 reg add "HKCU\Software\Microsoft\Internet Explorer\SearchScopes\sogou" /v "SortIndex" /t REG_DWORD /d 4 /f
 reg add "HKCU\Software\Microsoft\Internet Explorer\SearchScopes\so" /v "SortIndex" /t REG_DWORD /d 5 /f
 ::IEÉ¾³ıÆäËûËÑË÷ÒıÇæ
-reg delete "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes" /f
+reg delete "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes" /f >nul 2>nul
 ::IEÌí¼ÓÆäËûËÑË÷ÒıÇæ
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\jd" /v "DisplayName" /d "¾©¶«" /f
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\jd" /v "URL" /d "https://search.jd.com/Search?keyword={searchTerms}" /f
@@ -764,22 +559,25 @@ reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "URL" /d 
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "SuggestionsURL_JSON" /d "http://sug.so.360.cn/suggest?word={searchTerms}&encodein=utf-8&encodeout=utf-8&outfmt=json" /f
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "FaviconURL" /d "http://www.so.com/favicon.ico" /f
 reg add "HKLM\SOFTWARE\Microsoft\Internet Explorer\SearchScopes\so" /v "ShowSearchSuggestions" /t REG_DWORD /d 1 /f
-::ÆôÓÃ¡°ActiveX¿Ø¼ş¡±¡°JAVEĞ¡³ÌĞò½Å±¾¡±¡°»î¶¯½Å±¾¡±µÈ
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1001" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1004" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1200" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1201" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1208" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "120B" /t REG_DWORD /d 3 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1400" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1402" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1405" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1406" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1607" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1609" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "1806" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "2201" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2" /v "2300" /t REG_DWORD /d 0 /f
+::ÆôÓÃ¡°ActiveX¿Ø¼ş¡±¡°JAVEĞ¡³ÌĞò½Å±¾¡±¡°»î¶¯½Å±¾¡±µÈ https://blog.csdn.net/wangqiulin123456/article/details/17068649
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1001" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1004" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1200" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1201" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1208" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "120B" /t REG_DWORD /d 3 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1400" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1402" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1405" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1406" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1607" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "2201" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "2300" /t REG_DWORD /d 0 /f
+rem ÆôÓÃ»ìºÏÄÚÈİ
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1609" /t REG_DWORD /d 0 /f
+rem ¹Ø±Õ´ò¿ª ¾ÖÓòÍø ÎÄ¼şµÄ¡°°²È«¾¯¸æ¡±£¨InternetÑ¡Ïî£º¼ÓÔØÓ¦ÓÃ³ÌĞòºÍ²»°²È«ÎÄ¼şÊ±²»ÌáÊ¾£©
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v "1806" /t REG_DWORD /d 0 /f
 ::ÕıÔÚÌí¼Ó ÊÜĞÅÈÎÕ¾µã£¨±¾µØ¾ÖÓòÍø£©
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range1" /v "file" /t REG_DWORD /d 2 /f
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Ranges\Range1" /v ":Range" /d "10.*.*.*" /f
@@ -801,9 +599,10 @@ IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 ieonline.microsoft.com>>%WINDIR%\
 attrib +r %WINDIR%\system32\drivers\etc\hosts
 ipconfig /flushdns
 ::½ûÖ¹Ò»ÁªÍø¾Í´ò¿ªä¯ÀÀÆ÷
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator" /v "NoActiveProbe" /t REG_DWORD /d 1 /f
+::reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator" /v "NoActiveProbe" /t REG_DWORD /d 1 /f
+reg add "HKLM\SYSTEM\ControlSet001\Services\NlaSvc\Parameters\Internet" /v "EnableActiveProbing" /t REG_DWORD /d 0 /f
 
-::Edge
+:: Ê¹ÓÃ£ºEdge
 ::×èÖ¹Microsoft Edge¡°Ê×´ÎÔËĞĞ¡±»¶Ó­Ò³Ãæ
 reg add "HKLM\SOFTWARE\Policies\Microsoft\MicrosoftEdge" /v "PreventFirstRunPage" /t REG_DWORD /d 0 /f
 ::¹Ø±ÕAdobe Flash¼´µã¼´ÓÃ
@@ -817,47 +616,222 @@ reg add "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Wi
 ::ÔÚÉÏÏÂÎÄ²Ëµ¥ÖĞÏÔÊ¾¡°²é¿´Ô´ÎÄ¼ş¡±ºÍ¡°¼ì²éÔªËØ¡±
 reg add "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\F12" /v "ShowPageContextMenuEntryPoints" /t REG_DWORD /d 1 /f
 ::ÉèÖÃÖ÷Ò³Îª°Ù¶È
-reg add "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy" /v "ProtectedHomepages" /t REG_BINARY /d "01000000b537b88ba50be9f2990b6f313e97830e0d51828ea90f41e5ca0f84c7665b2ded9c940a57ee945788d18f7269aeaa7fe20536c27303ffe29e5c60eac51d09b93df2aa541d56f3f13c4e95cda43b3b13ddbaa4765e555401a41b82a05e72440f956d19002426103dd63ccc248ee40a1eb07258" /f
+reg add "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy" /v "ProtectedHomepages" /t REG_BINARY /d "0100000082bd47f63cee2b646408a2499fb68745e2b6ee5f1092a16d916c41581799e89d8bdf4eba27a838631c7a95dbaf7f94901afbba6e0ae4e29077159897ccbec31ae50ecdee6f3b73aff561a27b9ae9ba63955c37218cdf9f2b1fc35a180dd5f36cf86af02a9c46f56091dd424a78952f1e1bfb3d144b24b42ce69588c0631c5cfa91715652b904a6861f6b" /f
+::É¾³ı×ÀÃæMicrosoft Edge¿ì½İ·½Ê½
+set "reg=HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
+for /f "tokens=2*" %%a in ('reg query "%reg%" /v desktop') do set "desktop=%%b"
+del /f /q "%desktop%\Microsoft Edge.lnk" >nul 2>nul
+::½ûÖ¹ÔÚĞÂÕË»§ÖĞ´´½¨Microsoft Edge¿ì½İ·½Ê½
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "DisableEdgeDesktopShortcutCreation" /t REG_DWORD /d 1 /f
 
-::¹Ø Î»ÖÃ¶¨Î»,Ïà»ú,Âó¿Ë·ç,ÕË»§ĞÅÏ¢,ÈÕÀú,ÏûÏ¢´«ËÍ,ÎŞÏßµçÊÕ·¢Æ÷,¹ã¸æID
-regedit /e "%temp%\1.reg" "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
-for /f "tokens=2 delims==" %%i in ('type "%temp%\1.reg"^|find "AutoLogonSID"') do set "SID=%%~i"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{2EEF81BE-33FA-4800-9670-1CD474972C3F}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{992AFA70-6F47-4148-B3E9-3003349C1548}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{A8804298-2D5F-42E3-9531-9C8C39EB29CE}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{C1D23ACC-752B-43E5-8448-8D0E519CD6D6}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{D89823BA-7180-4B81-B50C-7E471E6121A3}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{E5323777-F976-4f5b-9B55-B94699C46E44}" /f /v "Value" /t REG_SZ /d "Deny"
-reg add "HKU\%SID%\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo" /f /v "Enabled" /t REG_DWORD /d 0
-del "%temp%\1.reg" >nul 2>nul
-PowerShell Sleep 1
+:: Ê¹ÓÃ£º°²È«£º
+::¹Ø±ÕÓÃ»§ÕË»§¿ØÖÆ(UAC)
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d 0 /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "EnableLUA" /t REG_DWORD /d 0 /f
+::È¥³ıUACĞ¡¶ÜÅÆ
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 77 /d "%systemroot%\system32\imageres.dll,197" /t reg_sz /f
+::¹Ø±ÕWindows Defender Antivirus Service£º°ïÖúÓÃ»§·ÀÖ¹¶ñÒâÈí¼ş¼°ÆäËûÇ±ÔÚµÄÀ¬»øÈí¼ş¡£(Windows Defender ¸ÄÎªÊÖ¶¯Æô¶¯)
+Reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v SecurityHealth /f >nul 2>nul
+::½ûÓÃWindows Defender °²È«ÖĞĞÄ·şÎñ
+reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
+::ÔÚÎ´°²×°Í¨¹ıÎ¢Èí×¢²áµÄÉ±ÈíµÄÇé¿öÏÂ¹Ø±ÕWindows Security Center
+reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
+::¹Ø±ÕWindows Defender
+taskkill /f /im MSASCuil.exe >nul 2>nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiVirus" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableBehaviorMonitoring" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableOnAccessProtection" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableScanOnRealtimeEnable" /t REG_DWORD /d 1 /f
+::¹Ø±ÕSmartscreenÉ¸Ñ¡Æ÷
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d 0 /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScreenEnabled" /d "Off" /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\MicrosoftEdge\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d 0 /f
+reg add "HKCU\SOFTWARE\Microsoft\Internet Explorer\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d 0 /f
+::½ûÓÃ¶ñÒâÈí¼şÉ¾³ı¹¤¾ßµÄWindows¸üĞÂ
+Reg Add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /V "DontOfferThroughWUAU" /T REG_DWORD /D 1 /F
 
-:: Ê¹ÓÃ£ºAPP×¢²áÉèÖÃ
-::UltraISO ×¢²á
-reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "ÀÛÀÛ" /f
-reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
-::WinRAR È¥µôÓÒ¼ü²Ëµ¥ÖĞÌí¼ÓµÄ¡°Ñ¹Ëõ...²¢ E-Mail¡±
-reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailArc" /t REG_DWORD /d 0 /f
-reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailOpt" /t REG_DWORD /d 0 /f
-::WinRAR Ä¬ÈÏÑ¹Ëõ¸ñÊ½
-reg add "HKCU\Software\WinRAR\Profiles\0" /v "RAR5" /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\WinRAR\Profiles\0" /v "Default" /t REG_DWORD /d 1 /f
-::WinRAR Ëø¶¨¹¤¾ßÀ¸
-reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Lock" /t REG_DWORD /d 1 /f
-::VegasÄ¬ÈÏÊ¹ÓÃÖĞÎÄ
-reg add "HKLM\SOFTWARE\Sony Creative Software\Error Reporting Client\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas OFX GPU Video Plug-in Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\15.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\16.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\SfTrans1\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Video Capture\6.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
-::R2R²¹¶¡×¢²áĞÅÏ¢ÍêÉÆ
-reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
-reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P-1-305-722-5810" /f
+:: ·şÎñµ÷Õû²¿·Ö£ºWinÄ¬ÈÏ½ûÓÃµÄ·şÎñ£ºAppVClient NetTcpPortSharing ssh-agent RemoteRegistry RemoteAccess shpamsvc tzautoupdate UevAgentService
+::½ûÓÃÊ¹ÓÃÇé¿öĞÅÏ¢µÄÊÕ¼¯ºÍ´«Êä
+::Connected User Experiences and Telemetry
+sc config DiagTrack start= disabled
+::Data Sharing Service
+sc config DsSvc start= disabled
+::Diagnostic Execution Service
+sc config diagsvc start= disabled
+::Diagnostic Policy Service
+sc config DPS start= disabled
+::Diagnostic Service Host
+sc config WdiServiceHost start= disabled
+::Diagnostic System Host
+sc config WdiSystemHost start= disabled
+::dmwappushsvc
+sc config dmwappushservice start= disabled
+::Microsoft (R) Õï¶ÏÖĞĞÄ±ê×¼ÊÕ¼¯Æ÷·şÎñ
+sc config diagnosticshub.standardcollector.service start= disabled
+::Performance Logs & Alerts
+sc config pla start= disabled
+::Problem Reports and Solutions Control Panel Support
+sc config wercplsupport start= disabled
+::Windows Error Reporting Service(´íÎó±¨¸æ)
+sc config WerSvc start= disabled
 
+::Hyper-V
+sc config HvHost start= disabled
+sc config vmickvpexchange start= disabled
+sc config vmicguestinterface start= disabled
+sc config vmicshutdown start= disabled
+sc config vmicheartbeat start= disabled
+sc config vmicvmsession start= disabled
+sc config vmictimesync start= disabled
+sc config vmicvss start= disabled
+sc config vmicrdv start= disabled
+
+::Xbox
+rem Xbox Accessory Management Service
+sc config XboxGipSvc start= disabled
+rem Xbox Game Monitoring
+rem sc config xbgm start= demand
+rem Xbox Live Éí·İÑéÖ¤¹ÜÀíÆ÷
+sc config XblAuthManager start= disabled
+rem Xbox Live ÍøÂç·şÎñ
+sc config XboxNetApiSvc start= disabled
+rem Xbox Live ÓÎÏ·±£´æ
+sc config XblGameSave start= disabled
+rem ½ûÓÃ XBOX GameDVR
+reg add "HKLM\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR" /v "value" /t REG_DWORD /d 0 /f > NUL 2>&1
+
+::Fax
+sc config Fax start= disabled
+::Distributed Link Tracking Client
+sc config TrkWks start= disabled
+::Downloaded Maps Manager
+sc config MapsBroker start= disabled
+::Geolocation Service
+sc config lfsvc start= disabled
+::Phone Service
+sc config PhoneSvc start= disabled
+::Program Compatibility Assistant Service
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f
+sc config PcaSvc start= disabled
+
+::Shell Hardware Detection
+sc config ShellHWDetection start= disabled
+::Remote Registry(Ô¶³ÌĞŞ¸Ä×¢²á±í)
+sc config RemoteRegistry start= disabled
+::Superfetch
+sc config SysMain start= disabled
+::Windows Media Player Network Sharing Service
+sc config WMPNetworkSvc start= disabled
+::Windows Search
+taskkill /f /im searchui.exe > NUL 2>&1
+sc config WSearch start= disabled
+::ÁãÊÛÑİÊ¾·şÎñ
+sc config RetailDemo start= disabled
+
+::¹úÄÚ·şÎñ
+sc config QQMusicService start= disabled > NUL 2>&1
+sc config QiyiService start= disabled > NUL 2>&1
+sc config wpscloudsvr start= disabled > NUL 2>&1
+
+:: ÈÎÎñ¼Æ»®³ÌĞòµ÷Õû %windir%\system32\taskschd.msc /s
+::Microsoft ¿Í»§ÌåÑé¸ÄÉÆ¼Æ»®
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\ProgramDataUpdater"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\StartupAppTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Autochk\Proxy"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Diagnosis\Scheduled"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskFootprint\Diagnostics"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Feedback\Siuf\DmClient"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\FileHistory\File History (maintenance mode)"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Location\WindowsActionDialog"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Location\Notifications"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maintenance\WinSAT"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maps\MapsUpdateTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maps\MapsToastTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\RetailDemo\CleanupOfflineContent"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\WDI\ResolutionHost"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Error Reporting\QueueReporting"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents"
+::Windows Defender
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Cleanup"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Verification"
+::Çı¶¯Æ÷ÓÅ»¯ºÍËéÆ¬ÕûÀí
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Defrag\ScheduledDefrag"
+::×Ô¶¯´ÅÅÌÇåÀí
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskCleanup\SilentCleanup"
+::XblGameSaveTask
+SCHTASKS /Change /Disable /TN "\Microsoft\XblGameSave\XblGameSaveTask"
+::Adobe
+SCHTASKS /Change /DISABLE /TN "\AdobeAAMUpdater-1.0-%computername%-%username%" > NUL 2>&1
+::OfficeÒ£²â´úÀíµÄºóÌ¨ÈÎÎñ
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\Office 15 Subscription Heartbeat" > NUL 2>&1
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn2016" > NUL 2>&1
+SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack2016" > NUL 2>&1
+
+:: ÏµÍ³ £ºÆô¶¯
+::Æô¶¯ºÍ¹ÊÕÏ»Ö¸´£º¿ª»ú£ºÉèÖÃ¿ª»ú´ÅÅÌÉ¨ÃèµÈ´ıÊ±¼äÎª1Ãë
+chkntfs /t:1
+::Æô¶¯ºÍ¹ÊÕÏ»Ö¸´£º¿ª»ú£ºÉèÖÃ¿ª»úÏÔÊ¾²Ù×÷ÏµÍ³ÁĞ±íÊ±¼ä2Ãë
+bcdedit /timeout 2
+
+:: ÏµÍ³ £º¹Ø±ÕWindowsÈÕÖ¾ÎÄ¼ş
+::wfpdiag.etlÈÕÖ¾
+netsh wfp set options netevents = off
+::dirty shutdown eventÈÕÖ¾
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability" /v "TimeStampInterval" /t REG_DWORD /d 0 /f
+
+:: ÏµÍ³ £ºĞÔÄÜ
+::À©´óÍ¼±ê»º´æ µ½ 4MB
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "Max Cached Icons" /d "4096" /f
+
+::²»ÏÔÊ¾ËøÆÁ
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Personalization" /v "NoLockScreen" /t REG_DWORD /d 1 /f
+
+
+:: ÏµÍ³ - ¸üĞÂºÍ°²×°
+::ºöÂÔ Éè±¸Çı¶¯³ÌĞòµÄ´úÂëÇ©Ãû
+reg add "HKLM\SOFTWARE\Microsoft\Driver Signing" /v "Policy" /t REG_BINARY /d "00" /f
+::¹Ø±ÕÇı¶¯×Ô¶¯¸üĞÂ£¨½ûÖ¹¸üĞÂ£©
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "ExcludeWUDriversInQualityUpdate" /t REG_DWORD /d 1 /f
+::¹Ø±ÕÏµÍ³×Ô¶¯¸üĞÂ£¨ÊÖ¶¯¸üĞÂ£©
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\wuauserv" /v "Start" /t REG_DWORD /d 3 /f
+
+:: ÏµÍ³ - Ô¶³Ì×ÀÃæ£¨¹Ø±ÕÔ¶³ÌĞ­Öú£©
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Remote Assistance" /v "fAllowToGetHelp" /d 0 /t REG_dword /f
+
+:: ÏµÍ³ - ¸üĞÂºÍ°²È«-´«µİÓÅ»¯
+Reg Add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DeliveryOptimization" /T REG_DWORD /V "DODownloadMode" /D 0 /F
+
+::¹Ø±Õ Windows ¿Í»§ÌåÑé¸ÄÉÆ¼Æ»®
+reg add "HKLM\SOFTWARE\Policies\Microsoft\SQMClient\Windows" /v "CEIPEnable" /t REG_DWORD /d 0 /f
+:: ÏµÍ³ - ÒşË½-WindowsÈ¨ÏŞ-³£¹æ
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo" /v "Enabled" /t REG_DWORD /d 0 /f
+Reg Add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo" /T REG_DWORD /V "Enabled" /D 0 /F
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\AdvertisingInfo" /v "Id" /d "1001" /f
+:: ÏµÍ³ - ÒşË½-WindowsÈ¨ÏŞ-³£¹æ£¨ÔÊĞíÍøÕ¾Í¨¹ı·ÃÎÊÎÒµÄÓïÑÔÁĞ±íÀ´Ìá¹©±¾µØÏà¹ØÄÚÈİ£©
+Reg Add "HKCU\Control Panel\International\User Profile" /T REG_DWORD /V "HttpAcceptLanguageOptOut" /D 1 /F
+:: ÏµÍ³ - ÒşË½-WindowsÈ¨ÏŞ-Ä«¼£ÊéĞ´ºÍ¼üÈë¸öĞÔ»¯
+reg add "HKCU\Software\Microsoft\Personalization\Settings" /v "AcceptedPrivacyPolicy" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\InputPersonalization\TrainedDataStore" /v "HarvestContacts" /t REG_DWORD /d 0 /f
+:: ÏµÍ³ - ÒşË½-WindowsÈ¨ÏŞ-Õï¶ÏºÍ·´À¡
+Reg Add "HKLM\Software\Policies\Microsoft\Windows\DataCollection" /T REG_DWORD /V "AllowTelemetry" /D 0 /F
+:: ÏµÍ³ - ÒşË½-WindowsÈ¨ÏŞ-Õï¶ÏºÍ·´À¡-·´À¡ÆµÂÊ-´Ó²»
+reg add "HKCU\Software\Microsoft\Siuf\Rules" /v "NumberOfSIUFInPeriod" /d "0" /f
+::WLAN ¸ĞÖª
+
+:: ÏµÍ³ - ÒşË½-Ó¦ÓÃÈ¨ÏŞ
+::ÕË»§ĞÅÏ¢
+Reg Add "HKLM\Software\Policies\Microsoft\Windows\AppPrivacy" /T REG_DWORD /V "LetAppsAccessAccountInfo" /D 2 /F
 
 cls
 echo ¸üĞÂ²ßÂÔ

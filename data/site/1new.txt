@@ -100,6 +100,18 @@
 127.0.0.1 m.yguap.com
 127.0.0.1 ncmo.v44i.cn
 127.0.0.1 sdn.hzxma.com
+127.0.0.1 e.kchaq.com
+127.0.0.1 e.ojues.com
+127.0.0.1 h0.hucdn.com
+127.0.0.1 ioek.okshishi.com
+127.0.0.1 m.ajiuc.com
+127.0.0.1 m.bedhdig.cn
+127.0.0.1 m.beidian.com
+127.0.0.1 m.hchag.com
+127.0.0.1 m.kchaq.com
+127.0.0.1 m.ojues.com
+127.0.0.1 m.ucaii.com
+127.0.0.1 rchs.1mb034.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
