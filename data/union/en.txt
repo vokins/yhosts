@@ -43,11 +43,13 @@
 127.0.0.1 m.admedia.com
 #adnxs.com
 127.0.0.1 admeld.adnxs.com
+127.0.0.1 adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
 127.0.0.1 g.adnxs.com
 127.0.0.1 gam.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 m.adnxs.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 secure-sin.adnxs.com
 127.0.0.1 secure.adnxs.com

@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 0:10 2018/10/30
+rem 10:20 2018/11/1
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -838,7 +838,16 @@ echo 更新策略
 gpupdate /force 
 RunDll32.exe USER32.DLL,UpdatePerUserSystemParameters
 ping -n 3 127.0.0.1>nul
-del "%userprofile%\AppData\Local\iconcache.db" /f /q
+rem 关闭explorer.exe
 taskkill /f /im explorer.exe
+rem 清理系统图标缓存数据库
+attrib -h -s -r "%userprofile%\AppData\Local\IconCache.db"
+del /f "%userprofile%\AppData\Local\IconCache.db"
+attrib /s /d -h -s -r "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\*"
+del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_*.db"
+rem 清理 系统托盘记忆的图标
+echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v IconStreams
+echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v PastIconsStream
+rem 打开explorer
 start explorer
 exit

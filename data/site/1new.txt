@@ -112,6 +112,11 @@
 127.0.0.1 m.ojues.com
 127.0.0.1 m.ucaii.com
 127.0.0.1 rchs.1mb034.cn
+127.0.0.1 apk.gelinboer.cn
+127.0.0.1 c.xilongfuwu.com
+127.0.0.1 e.ejuen.com
+127.0.0.1 s.uca6.com
+127.0.0.1 x.niuliyan.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
