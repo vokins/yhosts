@@ -2607,6 +2607,12 @@
 127.0.0.1 e.ejuen.com
 127.0.0.1 s.uca6.com
 127.0.0.1 x.niuliyan.cn
+127.0.0.1 e.xkena.com
+127.0.0.1 htvh.vf5yb4.cn
+127.0.0.1 m.sbief.com
+127.0.0.1 m.xidexableact.cn
+127.0.0.1 m.xkena.com
+127.0.0.1 m.ybaoh.com
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
