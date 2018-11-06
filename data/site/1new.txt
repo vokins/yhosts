@@ -123,6 +123,15 @@
 127.0.0.1 m.xidexableact.cn
 127.0.0.1 m.xkena.com
 127.0.0.1 m.ybaoh.com
+127.0.0.1 e.abeij.com
+127.0.0.1 e.okuis.com
+127.0.0.1 glxp.6c4t5.cn
+127.0.0.1 m.abeij.com
+127.0.0.1 m.bdeix.com
+127.0.0.1 m.dbiej.com
+127.0.0.1 m.hcaig.com
+127.0.0.1 m.okuis.com
+127.0.0.1 m.tbenq.com
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
