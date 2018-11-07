@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:34 2018/11/7
+rem 10:41 2018/11/7
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -98,17 +98,23 @@ reg delete "HKCU\Software\Vivaldi" /f
 rd /s /q "%AppData%\Vivaldi"
 rd /s /q "%userprofile%\AppData\Local\Vivaldi"
 ::del /f /q "User Data\Default\Bookmarks"
+del /f /q "User Data\Default\*.log"
 del /f /q "User Data\Default\Bookmarks.bak"
+del /f /q "User Data\Default\CURRENT"
 del /f /q "User Data\Default\Calendar"
 del /f /q "User Data\Default\Calendar-journal"
 del /f /q "User Data\Default\Contacts"
 del /f /q "User Data\Default\Contacts-journal"
 del /f /q "User Data\Default\Cookies-journal"
+del /f /q "User Data\Default\DownloadMetadata"
 del /f /q "User Data\Default\Favicons-journal"
 del /f /q "User Data\Default\History-journal"
+del /f /q "User Data\Default\LOCK"
 del /f /q "User Data\Default\Login Data-journal"
+del /f /q "User Data\Default\MANIFEST-000002"
 del /f /q "User Data\Default\Network Action Predictor-journal"
 del /f /q "User Data\Default\Notes.bak"
+del /f /q "User Data\Default\README"
 del /f /q "User Data\Default\Top Sites-journal"
 del /f /q "User Data\Default\Web Data-journal"
 del /f /q "User Data\Default\page_load_capping_opt_out.db-journal"
