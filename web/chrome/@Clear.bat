@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 22:02 2018/9/28
+rem 10:34 2018/11/7
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -10,13 +10,16 @@ TITLE Chrome Clean
 taskkill /im chrome.exe -f
 taskkill /im vivaldi.exe -f
 taskkill /im update_notifier.exe -f
-
+::-
+del /f /q "User Data\BrowserMetrics-spare.pma"
 del /f /q "User Data\CrashpadMetrics-active.pma"
 del /f /q "User Data\Local State"
-del /f /q "User Data\chrome_shutdown_ms.txt"
 del /f /q "User Data\Safe Browsing Channel IDs"
+del /f /q "User Data\Safe Browsing Channel IDs-journal"
 del /f /q "User Data\Safe Browsing Cookies"
-
+del /f /q "User Data\Safe Browsing Cookies-journal"
+del /f /q "User Data\chrome_shutdown_ms.txt"
+::--
 rd /s /q "User Data\BrowserMetrics"
 rd /s /q "User Data\CertificateRevocation"
 rd /s /q "User Data\CertificateTransparency"
@@ -35,22 +38,28 @@ rd /s /q "User Data\ThirdPartyModuleList32"
 rd /s /q "User Data\Webstore Downloads"
 rd /s /q "User Data\WidevineCdm"
 rd /s /q "User Data\pnacl"
-
+::---
 del /f /q "User Data\Default\Cookies"
 del /f /q "User Data\Default\Current Session"
 del /f /q "User Data\Default\Current Tabs"
 del /f /q "User Data\Default\Extension Cookies"
+del /f /q "User Data\Default\Extension Cookies-journal"
 del /f /q "User Data\Default\Favicons"
 del /f /q "User Data\Default\History Provider Cache"
 del /f /q "User Data\Default\History"
+del /f /q "User Data\Default\LOG"
+del /f /q "User Data\Default\LOG.old"
 del /f /q "User Data\Default\Last Session"
 del /f /q "User Data\Default\Last Tabs"
 del /f /q "User Data\Default\Login Data"
 del /f /q "User Data\Default\Network Action Predictor"
 del /f /q "User Data\Default\Network Persistent State"
 del /f /q "User Data\Default\Origin Bound Certs"
+del /f /q "User Data\Default\Origin Bound Certs-journal"
 del /f /q "User Data\Default\QuotaManager"
+del /f /q "User Data\Default\QuotaManager-journal"
 del /f /q "User Data\Default\Shortcuts"
+del /f /q "User Data\Default\Shortcuts-journal"
 del /f /q "User Data\Default\Top Sites"
 del /f /q "User Data\Default\Translate Ranker Model"
 del /f /q "User Data\Default\TransportSecurity"
@@ -58,7 +67,8 @@ del /f /q "User Data\Default\Visited Links"
 del /f /q "User Data\Default\Web Data"
 del /f /q "User Data\Default\page_load_capping_opt_out.db"
 del /f /q "User Data\Default\previews_opt_out.db"
-
+::----
+rd /s /q "User Data\Default\BudgetDatabase"
 rd /s /q "User Data\Default\Cache"
 rd /s /q "User Data\Default\Download Service"
 rd /s /q "User Data\Default\Extension Rules"
@@ -84,7 +94,10 @@ rd /s /q "User Data\Default\data_reduction_proxy_leveldb"
 rd /s /q "User Data\Default\databases"
 
 ::Vivaldi
-del /f /q "User Data\Default\Bookmarks"
+reg delete "HKCU\Software\Vivaldi" /f
+rd /s /q "%AppData%\Vivaldi"
+rd /s /q "%userprofile%\AppData\Local\Vivaldi"
+::del /f /q "User Data\Default\Bookmarks"
 del /f /q "User Data\Default\Bookmarks.bak"
 del /f /q "User Data\Default\Calendar"
 del /f /q "User Data\Default\Calendar-journal"
