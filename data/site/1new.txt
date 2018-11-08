@@ -132,6 +132,9 @@
 127.0.0.1 m.hcaig.com
 127.0.0.1 m.okuis.com
 127.0.0.1 m.tbenq.com
+127.0.0.1 e.cfenl.com
+127.0.0.1 m.aangc.com
+127.0.0.1 photo.haoquangou.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com

@@ -56,20 +56,6 @@
 127.0.0.1 watson.microsoft.com
 127.0.0.1 www.bingads.microsoft.com
 @direct/3rd
-#pcbeta
-120.52.19.113 bbs.pcbeta.com
-120.52.19.113 cdn.pcbeta.attachment.inimc.com
-120.52.19.113 cdn.pcbeta.css.inimc.com
-120.52.19.113 cdn.pcbeta.static.inimc.com
-120.52.19.113 group.pcbeta.com
-120.52.19.113 i.pcbeta.com
-120.52.19.113 m.pcbeta.com
-120.52.19.113 mac.pcbeta.com
-120.52.19.113 pcbeta.com
-120.52.19.113 static.template.pcbeta.com
-120.52.19.113 uc.pcbeta.com
-120.52.19.113 web.pcbeta.com
-120.52.19.113 www.pcbeta.com
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #acronis
@@ -2622,6 +2608,9 @@
 127.0.0.1 m.hcaig.com
 127.0.0.1 m.okuis.com
 127.0.0.1 m.tbenq.com
+127.0.0.1 e.cfenl.com
+127.0.0.1 m.aangc.com
+127.0.0.1 photo.haoquangou.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
@@ -7605,7 +7594,6 @@
 127.0.0.1 adlabs-sync.rutarget.ru
 127.0.0.1 api.rees46.com
 127.0.0.1 bgrndi.com
-127.0.0.1 code.createjs.com
 127.0.0.1 match.c8.net.ua
 127.0.0.1 matching.targeterra.com
 127.0.0.1 mrelko.com

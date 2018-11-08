@@ -56,17 +56,3 @@
 127.0.0.1 watson.microsoft.com
 127.0.0.1 www.bingads.microsoft.com
 @direct/3rd
-#pcbeta
-120.52.19.113 bbs.pcbeta.com
-120.52.19.113 cdn.pcbeta.attachment.inimc.com
-120.52.19.113 cdn.pcbeta.css.inimc.com
-120.52.19.113 cdn.pcbeta.static.inimc.com
-120.52.19.113 group.pcbeta.com
-120.52.19.113 i.pcbeta.com
-120.52.19.113 m.pcbeta.com
-120.52.19.113 mac.pcbeta.com
-120.52.19.113 pcbeta.com
-120.52.19.113 static.template.pcbeta.com
-120.52.19.113 uc.pcbeta.com
-120.52.19.113 web.pcbeta.com
-120.52.19.113 www.pcbeta.com

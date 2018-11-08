@@ -10,7 +10,6 @@
 127.0.0.1 adlabs-sync.rutarget.ru
 127.0.0.1 api.rees46.com
 127.0.0.1 bgrndi.com
-127.0.0.1 code.createjs.com
 127.0.0.1 match.c8.net.ua
 127.0.0.1 matching.targeterra.com
 127.0.0.1 mrelko.com
