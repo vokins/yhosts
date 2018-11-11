@@ -135,6 +135,19 @@
 127.0.0.1 e.cfenl.com
 127.0.0.1 m.aangc.com
 127.0.0.1 photo.haoquangou.cn
+127.0.0.1 e.hcenc.com
+127.0.0.1 e.wlues.com
+127.0.0.1 gotoniubiurl.pw
+127.0.0.1 m.dbaij.com
+127.0.0.1 m.hbaog.com
+127.0.0.1 m.hcenc.com
+127.0.0.1 m.hguas.com
+127.0.0.1 m.wlues.com
+127.0.0.1 s.hyz86.com
+127.0.0.1 wncs.7ez4.cn
+127.0.0.1 www.kiaokuayoutui.com
+127.0.0.1 xvyljkr.com
+127.0.0.1 alifixed.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
