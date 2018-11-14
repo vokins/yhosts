@@ -18,43 +18,6 @@
 127.0.0.1 iadctest.qwapi.com
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
-127.0.0.1 statsfe2.update.microsoft.com.akadns.net
-127.0.0.1 telemetry.appex.bing.net
-127.0.0.1 watson.live.com
-127.0.0.1 choice.microsoft.com.nsatc.net
-127.0.0.1 i1.services.social.microsoft.com.nsatc.net
-127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
-127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
-127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
-127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
-127.0.0.1 df.telemetry.microsoft.com
-127.0.0.1 oca.telemetry.microsoft.com
-127.0.0.1 reports.wes.df.telemetry.microsoft.com
-127.0.0.1 services.wes.df.telemetry.microsoft.com
-127.0.0.1 sqm.df.telemetry.microsoft.com
-127.0.0.1 sqm.telemetry.microsoft.com
-127.0.0.1 telecommand.telemetry.microsoft.com
-127.0.0.1 watson.ppe.telemetry.microsoft.com
-127.0.0.1 watson.telemetry.microsoft.com
-127.0.0.1 wes.df.telemetry.microsoft.com
-127.0.0.1 bingads.microsoft.com
-127.0.0.1 choice.microsoft.com
-127.0.0.1 corp.sts.microsoft.com
-127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
-127.0.0.1 diagnostics.support.microsoft.com
-127.0.0.1 i1.services.social.microsoft.com
-127.0.0.1 redir.metaservices.microsoft.com
-127.0.0.1 settings-sandbox.data.microsoft.com
-127.0.0.1 statsfe1.ws.microsoft.com
-127.0.0.1 statsfe2.ws.microsoft.com
-127.0.0.1 survey.watson.microsoft.com
-127.0.0.1 telemetry.microsoft.com
-127.0.0.1 telemetry.urs.microsoft.com
-127.0.0.1 vortex-sandbox.data.microsoft.com
-127.0.0.1 vortex-win.data.microsoft.com
-127.0.0.1 vortex.data.microsoft.com
-127.0.0.1 watson.microsoft.com
-127.0.0.1 www.bingads.microsoft.com
 @direct/3rd
 #acdsee
 127.0.0.1 acdid.acdsystems.com
@@ -825,14 +788,83 @@
 127.0.0.1 nym2-tr.adnxs.com
 127.0.0.1 sin1-ib.adnxs.com
 127.0.0.1 vcdn.adnxs.com
-#msn
-127.0.0.1 ads1.msads.net
-127.0.0.1 mobileads.msn.com
-127.0.0.1 c.msn.com
-127.0.0.1 otf.msn.com
+#bing
+127.0.0.1 telemetry.appex.bing.net
 #linkedin.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 px.ads.linkedin.com
+#live.com
+127.0.0.1 analytics.live.com
+127.0.0.1 c.live.com
+127.0.0.1 digg.analytics.live.com
+127.0.0.1 ms.analytics.live.com
+127.0.0.1 watson.live.com
+#microsoft.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1 crl.microsoft.com
+127.0.0.1 df.telemetry.microsoft.com
+127.0.0.1 diagnostics.support.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 reports.wes.df.telemetry.microsoft.com
+127.0.0.1 services.wes.df.telemetry.microsoft.com
+127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 sqm.df.telemetry.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 statsfe1.ws.microsoft.com
+127.0.0.1 statsfe2.ws.microsoft.com
+127.0.0.1 survey.watson.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 telemetry.microsoft.com
+127.0.0.1 telemetry.urs.microsoft.com
+127.0.0.1 vortex-sandbox.data.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 watson.ppe.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 www.bingads.microsoft.com
+#msads.net
+127.0.0.1 a.global.msads.net
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads2.msads.net
+127.0.0.1 global.msads.net
+#msn.com
+127.0.0.1 0.r.msn.com
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msn.com
+127.0.0.1 ac3.msn.com
+127.0.0.1 ads.eu.msn.com
+127.0.0.1 ads.msn.com
+127.0.0.1 ads1.msn.com
+127.0.0.1 ads2.msn.com
+127.0.0.1 adsyndication.msn.com
+127.0.0.1 analytics.msn.com
+127.0.0.1 analytics.r.msn.com
+127.0.0.1 b.ads1.msn.com
+127.0.0.1 c.msn.com
+127.0.0.1 c.msn.com.cn
+127.0.0.1 catalog.video.msn.com
+127.0.0.1 h.msn.com
+127.0.0.1 mobileads.msn.com
+127.0.0.1 otf.msn.com
+127.0.0.1 popup.msn.com
+127.0.0.1 r.msn.com
+127.0.0.1 rmads.eu.msn.com
+127.0.0.1 rmads.msn.com
+127.0.0.1 toolbar.msn.com
+#nsatc.net
+127.0.0.1 choice.microsoft.com.nsatc.net
+127.0.0.1 i1.services.social.microsoft.com.nsatc.net
+127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
+127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
+127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
+127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 #mstat/report
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 android.rqd.qq.com
@@ -2627,6 +2659,24 @@
 127.0.0.1 www.kiaokuayoutui.com
 127.0.0.1 xvyljkr.com
 127.0.0.1 alifixed.cn
+127.0.0.1 vsqf.nal5h.cn
+127.0.0.1 xzc.wxgctz.com
+127.0.0.1 e.gtuoj.com
+127.0.0.1 m.dsgy521.com
+127.0.0.1 m.gtuoj.com
+127.0.0.1 m.wbanv.com
+127.0.0.1 m.ysgsq.cn
+127.0.0.1 photo.zgncpjyw.cn
+127.0.0.1 pwbs.l9c4s.cn
+127.0.0.1 u.qijads.com
+127.0.0.1 www.kngcjx.com
+127.0.0.1 www.shkywh.com
+127.0.0.1 www.whxhhjx.com
+127.0.0.1 xffg.1x26q3.cn
+127.0.0.1 m.czxjx.cn
+127.0.0.1 img.sxcol.cn
+127.0.0.1 aff.simibo.net
+127.0.0.1 xingmengxia.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
@@ -5301,13 +5351,6 @@
 127.0.0.1 syndication.intel.com
 127.0.0.1 www.cnetdirectintl.com
 127.0.0.1 www91.intel.com
-#live.com
-127.0.0.1 analytics.live.com
-127.0.0.1 c.live.com
-127.0.0.1 digg.analytics.live.com
-127.0.0.1 ms.analytics.live.com
-127.0.0.1 watson.live.com
-127.0.0.1 msnportal.112.2o7.net
 #lycos.com
 127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 ads.tripod.lycos.de
@@ -5324,33 +5367,6 @@
 127.0.0.1 ads.tripod.lycos.co.uk
 127.0.0.1 fe.lea.lycos.co.uk
 127.0.0.1 hit.webcentre.lycos.co.uk
-#msn.com
-127.0.0.1 ads1.msn.com
-127.0.0.1 0.r.msn.com
-127.0.0.1 a.ads1.msn.com
-127.0.0.1 a.ads2.msn.com
-127.0.0.1 ac3.msn.com
-127.0.0.1 ads.eu.msn.com
-127.0.0.1 ads.msn.com
-127.0.0.1 ads2.msn.com
-127.0.0.1 adsyndication.msn.com
-127.0.0.1 analytics.msn.com
-127.0.0.1 analytics.r.msn.com
-127.0.0.1 b.ads1.msn.com
-127.0.0.1 ads.ninemsn.com.au
-127.0.0.1 c.msn.com.cn
-127.0.0.1 catalog.video.msn.com
-127.0.0.1 h.msn.com
-127.0.0.1 popup.msn.com
-127.0.0.1 r.msn.com
-127.0.0.1 rmads.eu.msn.com
-127.0.0.1 rmads.msn.com
-127.0.0.1 toolbar.msn.com
-127.0.0.1 a.global.msads.net
-127.0.0.1 ads2.msads.net
-127.0.0.1 global.msads.net
-127.0.0.1 crl.microsoft.com
-127.0.0.1 watson.microsoft.com
 #playboy.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com

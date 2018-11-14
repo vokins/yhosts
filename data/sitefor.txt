@@ -54,13 +54,6 @@
 127.0.0.1 syndication.intel.com
 127.0.0.1 www.cnetdirectintl.com
 127.0.0.1 www91.intel.com
-#live.com
-127.0.0.1 analytics.live.com
-127.0.0.1 c.live.com
-127.0.0.1 digg.analytics.live.com
-127.0.0.1 ms.analytics.live.com
-127.0.0.1 watson.live.com
-127.0.0.1 msnportal.112.2o7.net
 #lycos.com
 127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 ads.tripod.lycos.de
@@ -77,33 +70,6 @@
 127.0.0.1 ads.tripod.lycos.co.uk
 127.0.0.1 fe.lea.lycos.co.uk
 127.0.0.1 hit.webcentre.lycos.co.uk
-#msn.com
-127.0.0.1 ads1.msn.com
-127.0.0.1 0.r.msn.com
-127.0.0.1 a.ads1.msn.com
-127.0.0.1 a.ads2.msn.com
-127.0.0.1 ac3.msn.com
-127.0.0.1 ads.eu.msn.com
-127.0.0.1 ads.msn.com
-127.0.0.1 ads2.msn.com
-127.0.0.1 adsyndication.msn.com
-127.0.0.1 analytics.msn.com
-127.0.0.1 analytics.r.msn.com
-127.0.0.1 b.ads1.msn.com
-127.0.0.1 ads.ninemsn.com.au
-127.0.0.1 c.msn.com.cn
-127.0.0.1 catalog.video.msn.com
-127.0.0.1 h.msn.com
-127.0.0.1 popup.msn.com
-127.0.0.1 r.msn.com
-127.0.0.1 rmads.eu.msn.com
-127.0.0.1 rmads.msn.com
-127.0.0.1 toolbar.msn.com
-127.0.0.1 a.global.msads.net
-127.0.0.1 ads2.msads.net
-127.0.0.1 global.msads.net
-127.0.0.1 crl.microsoft.com
-127.0.0.1 watson.microsoft.com
 #playboy.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com

@@ -147,6 +147,24 @@
 127.0.0.1 www.kiaokuayoutui.com
 127.0.0.1 xvyljkr.com
 127.0.0.1 alifixed.cn
+127.0.0.1 vsqf.nal5h.cn
+127.0.0.1 xzc.wxgctz.com
+127.0.0.1 e.gtuoj.com
+127.0.0.1 m.dsgy521.com
+127.0.0.1 m.gtuoj.com
+127.0.0.1 m.wbanv.com
+127.0.0.1 m.ysgsq.cn
+127.0.0.1 photo.zgncpjyw.cn
+127.0.0.1 pwbs.l9c4s.cn
+127.0.0.1 u.qijads.com
+127.0.0.1 www.kngcjx.com
+127.0.0.1 www.shkywh.com
+127.0.0.1 www.whxhhjx.com
+127.0.0.1 xffg.1x26q3.cn
+127.0.0.1 m.czxjx.cn
+127.0.0.1 img.sxcol.cn
+127.0.0.1 aff.simibo.net
+127.0.0.1 xingmengxia.cn
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com

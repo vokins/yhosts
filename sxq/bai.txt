@@ -13,7 +13,6 @@ btcililian.net
 btdigg.xyz
 btfuliziyuan.com
 btkitty.fyi
-m.fpzw.com
 btkitty.pet
 btlibrary.cc
 btwhat.org
@@ -26,6 +25,7 @@ cilidb.net
 cilifuli.com
 cilifuli.net
 cililianbt.com
+cililianbt.net
 cnbtkitty.com
 code.createjs.com
 console.qcloud.com
@@ -173,6 +173,7 @@ m.du1du.org
 m.duanwenxue.com
 m.fhxiaoshuo.com
 m.fhxsw.org
+m.fpzw.com
 m.gsdaquan.com
 m.gulizw.com
 m.gxwztv.com
@@ -385,10 +386,14 @@ www.qiushibaike.com
 www.qq.com
 www.rejuwang.com
 www.safedog.cn
+www.shuaigay.vip
+www.shuaigay.xyz
 www.shuqizw.com
 www.sina.com.cn
 www.suimeng.la
 www.taoshu8.org
+www.tt520.net
+www.ttsq2.net
 www.uu234.net
 www.uuxs.la
 www.uuxs.net
