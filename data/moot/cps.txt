@@ -16,4 +16,3 @@
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
-127.0.0.1 union-click.jd.com

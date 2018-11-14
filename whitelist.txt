@@ -4,6 +4,9 @@ http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 127.0.0.1 static.ws.126.net
 code.createjs.com 这是一个 js cdn 库，不应该在黑名单
 
+127.0.0.1 union-click.jd.com
+127.0.0.1 ccc-x.jd.com
+
 #netease
 127.0.0.1 img4.cache.netease.com
 127.0.0.1 img6.cache.netease.com

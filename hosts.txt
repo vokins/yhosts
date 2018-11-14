@@ -735,7 +735,6 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
-127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
 127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
@@ -1231,7 +1230,6 @@
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
-127.0.0.1 union-click.jd.com
 @errorpage/click
 127.0.0.1 go.fcwr8.com
 127.0.0.1 pro.yyhudong.com
