@@ -1,4 +1,15 @@
-更新比较随意，有可能一个月不更新，有可能一天更新几次。具体可以看记录。
+
+
+捐助码启用一年多，一共收到了487.9元。加上QQ群入群费用一共不到500元。
+首先在这里向您的捐助表示感谢！
+除了有一个人兑换了一包牛肉干，钱基本都让我吃喜家德了。
+买牛肉干，开车去20多公里都不够油钱。。。
+其实不用再捐了。也不指望他吃喝。
+太少了也不用捐，每次找记录也很麻烦。谢谢哈！
+入群就当捐助了，不用再扫码了。QQ没钱也不想捐的，这里可以免费反馈，我会不定时来看。
+总之，感谢。
+
+不用再捐助了。更新比较随意，有可能一个月不更新，有可能一天更新几次。具体可以看记录。
 本身工作比较忙，更新不一定及时。谢谢！
 
 1.这是一个关于美食交流的项目。
@@ -84,17 +95,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 其他部分以具体引用的第三方开源项目协议为准。
 
-
-![可先扫码领红包，再捐助，一分也是爱！](https://raw.githubusercontent.com/vokins/yhosts/master/vip/hb.jpg)
-
-## 捐赠 Donate
-|  支付宝  |   微信   |    QQ    |
-| -------- | -------- | -------- |
-| [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) |
-
-
-
-
 |    名称   |  金额  |       时间       |   付款方式    |
 | --------- | -----: |:----------------:|  :---------:  |
 |  匿  名  |  30元  | 2017.05.03 21:38 | 微信-建设银行 |
@@ -121,3 +121,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 |   K（DK） |  5元  | 2017.12.10 | 支付宝     |
 |   *勇 |  10元  | 2018.04.17 | 支付宝     |
 |   *镇涛 |  5元  | 2018.05.12 | 支付宝     |
+|   *鹏 |  1元  | 2018.08.03 | 支付宝     |
+|   *江 |  2元  | 2018.11.04 | 支付宝     |

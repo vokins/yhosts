@@ -1,15 +1,10 @@
 
-
 ![可先扫码领红包，再捐助，一分也是爱！](https://raw.githubusercontent.com/vokins/yhosts/master/vip/hb.jpg)
 
-
-`Vip专属QQ群：116183760。（我会在验证后拨打您的电话表示对于捐助的感谢。）
-`
-本群要求实名，请务必提供姓名电话，否则不予通过。
-
-1.已捐款的可以直接加入（验证付款流水订单号最后6位）。
-
-2.信用专享的加入需要提供真实姓名和支付宝对应电话以及信用信息（我会和你申请芝麻分互看并拨打电话确认，超过24小时未同意芝麻分互看的默认拒绝）。
+## 捐赠 Donate
+|  支付宝  |   微信   |    QQ    |
+| -------- | -------- | -------- |
+| [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/alipay.png)](HTTPS://QR.ALIPAY.COM/TSX08766TZIVT1DE64OHDB "alipay") | [![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/wechat.png)]( "wxp://f2f0akM2x96kGieBpsQM5WTfW2h_iLlop8Mx" "wechat") |![](https://raw.githubusercontent.com/vokins/yhosts/master/vip/qq.png) |
 
 我会把捐赠给我的款项用于吃喜家德的水饺/麦当劳的甜筒/肯德基的辣翅/华莱士的鸡块或者其他，每次吃什么由我定，以鲜虾馅为消费标准，凑够一份吃一次。
 尽量把每次吃的时候会把照片更新于此。谢谢款待！
