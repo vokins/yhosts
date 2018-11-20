@@ -1254,7 +1254,6 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
-127.0.0.1 mobile.yangkeduo.com
 @errorpage/daohang
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
@@ -2513,6 +2512,19 @@
 127.0.0.1 y.ilancc.com
 #www.hdpfans.com
 127.0.0.1 x.dami66.cn
+127.0.0.1 amae.zjcapital.cn
+127.0.0.1 ctki.hs1s1.cn
+127.0.0.1 e.gjiak.com
+127.0.0.1 e.hjiec.com
+127.0.0.1 jc.shenglonghg.net
+127.0.0.1 m.edysn.cn
+127.0.0.1 m.gjiak.com
+127.0.0.1 m.hbans.com
+127.0.0.1 m.hjiec.com
+127.0.0.1 m.mbaik.com
+127.0.0.1 m.wbaiz.com
+127.0.0.1 m.wbiev.com
+127.0.0.1 m.ybaih.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

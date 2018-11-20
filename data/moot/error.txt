@@ -22,7 +22,6 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
-127.0.0.1 mobile.yangkeduo.com
 @errorpage/daohang
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
