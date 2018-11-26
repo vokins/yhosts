@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 23:44 2018/11/25/周日
+rem 5:06 2018/11/27/周二
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -745,6 +745,20 @@ SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack201
 chkntfs /t:1
 ::启动和故障恢复：开机：设置开机显示操作系统列表时间2秒
 bcdedit /timeout 2
+::启动设置开机按F8键直接进入安全模式菜单
+bcdedit /set {default} bootmenupolicy legacy
+
+::清理启动项
+attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
+attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
+del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.lnk" 1>nul 2>nul
+del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk" 1>nul 2>nul
+del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\*.url" 1>nul 2>nul
+::解决开机启动自动打开desktop.ini
+attrib +s +h "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini" 1>nul 2>nul
+attrib +s +h "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\desktop.ini" 1>nul 2>nul
+::清空默认启动项
+::reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
 
 :: 系统 ：关闭Windows日志文件
 ::wfpdiag.etl日志
