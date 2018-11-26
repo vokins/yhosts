@@ -804,8 +804,8 @@
 127.0.0.1 watson.microsoft.com
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 www.bingads.microsoft.com
+#telemetry
 127.0.0.1 df.telemetry.microsoft.com
-127.0.0.1 oca.telemetry.microsoft.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com
 127.0.0.1 sqm.df.telemetry.microsoft.com
@@ -816,6 +816,27 @@
 127.0.0.1 watson.ppe.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
+#!akadns.net
+127.0.0.1 asimov-win.settings.data.microsoft.com.akadns.net
+127.0.0.1 db5-eap.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 db5.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
+127.0.0.1 geo.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 geo.vortex.data.microsoft.com.akadns.net
+127.0.0.1 v10-win.vortex.data.microsft.com.akadns.net
+#!microsft
+127.0.0.1 alpha.telemetry.microsft.com
+127.0.0.1 eu.vortex-win.data.microsft.com
+127.0.0.1 oca.telemetry.microsft.com
+127.0.0.1 us.vortex-win.data.microsft.com
+127.0.0.1 v10.vortex-win.data.microsft.com
+#!microsoft
+127.0.0.1 alpha.telemetry.microsoft.com
+127.0.0.1 eu.vortex-win.data.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 us.vortex-win.data.microsoft.com
+127.0.0.1 vortex-win-sandbox.data.microsoft.com
 #msads.net
 127.0.0.1 a.global.msads.net
 127.0.0.1 ads1.msads.net
