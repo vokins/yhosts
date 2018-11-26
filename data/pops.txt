@@ -561,6 +561,7 @@
 127.0.0.1 e.wlues.com
 127.0.0.1 e.wonwg.com
 127.0.0.1 e.wsxxu.com
+127.0.0.1 e.xbaiv.com
 127.0.0.1 e.xdkje.com
 127.0.0.1 e.xeihy.com
 127.0.0.1 e.xiangchim0.com
@@ -630,6 +631,7 @@
 127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fsjsp.com
+127.0.0.1 fyal.e9emh.cn
 127.0.0.1 fzz.cloud.1234507.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.ad8.cc
@@ -861,6 +863,7 @@
 127.0.0.1 jyc.njxczy.com
 127.0.0.1 jyz.fjtzjy.com
 127.0.0.1 k.85wa.cn
+127.0.0.1 k.bnuni.com
 127.0.0.1 k.ctsywy.com
 127.0.0.1 kas.keydot.net
 127.0.0.1 kddtri.cn
@@ -1175,6 +1178,7 @@
 127.0.0.1 m.tiojk.com
 127.0.0.1 m.tuopp.com
 127.0.0.1 m.twldmx.com
+127.0.0.1 m.ubaii.com
 127.0.0.1 m.ucaii.com
 127.0.0.1 m.uchij.com
 127.0.0.1 m.uissm.com
@@ -1185,6 +1189,7 @@
 127.0.0.1 m.vbinu.com
 127.0.0.1 m.vgaom.com
 127.0.0.1 m.vichc.com
+127.0.0.1 m.vjuer.com
 127.0.0.1 m.vouky.com
 127.0.0.1 m.wbaiz.com
 127.0.0.1 m.wbanv.com
@@ -1203,6 +1208,7 @@
 127.0.0.1 m.wuqutu.com
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.wywna.cn
+127.0.0.1 m.xbaiv.com
 127.0.0.1 m.xdkje.com
 127.0.0.1 m.xeihy.com
 127.0.0.1 m.xhaiu.com

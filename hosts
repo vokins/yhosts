@@ -1,5 +1,5 @@
 
-#version=201811241945
+#version=201811262209
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -705,35 +705,23 @@
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 ms.analytics.live.com
 127.0.0.1 watson.live.com
-127.0.0.1 bingads.microsoft.com
-127.0.0.1 choice.microsoft.com
-127.0.0.1 corp.sts.microsoft.com
-127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
-127.0.0.1 crl.microsoft.com
-127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 diagnostics.support.microsoft.com
-127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 survey.watson.microsoft.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 www.bingads.microsoft.com
+127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 oca.telemetry.microsoft.com
-127.0.0.1 redir.metaservices.microsoft.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com
-127.0.0.1 settings-sandbox.data.microsoft.com
 127.0.0.1 sqm.df.telemetry.microsoft.com
 127.0.0.1 sqm.telemetry.microsoft.com
-127.0.0.1 statsfe1.ws.microsoft.com
-127.0.0.1 statsfe2.ws.microsoft.com
-127.0.0.1 survey.watson.microsoft.com
 127.0.0.1 telecommand.telemetry.microsoft.com
 127.0.0.1 telemetry.microsoft.com
 127.0.0.1 telemetry.urs.microsoft.com
-127.0.0.1 vortex-sandbox.data.microsoft.com
-127.0.0.1 vortex-win.data.microsoft.com
-127.0.0.1 vortex.data.microsoft.com
-127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.ppe.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
-127.0.0.1 www.bingads.microsoft.com
 127.0.0.1 a.global.msads.net
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
@@ -3265,6 +3253,7 @@
 127.0.0.1 e.wlues.com
 127.0.0.1 e.wonwg.com
 127.0.0.1 e.wsxxu.com
+127.0.0.1 e.xbaiv.com
 127.0.0.1 e.xdkje.com
 127.0.0.1 e.xeihy.com
 127.0.0.1 e.xiangchim0.com
@@ -3334,6 +3323,7 @@
 127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fsjsp.com
+127.0.0.1 fyal.e9emh.cn
 127.0.0.1 fzz.cloud.1234507.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.ad8.cc
@@ -3565,6 +3555,7 @@
 127.0.0.1 jyc.njxczy.com
 127.0.0.1 jyz.fjtzjy.com
 127.0.0.1 k.85wa.cn
+127.0.0.1 k.bnuni.com
 127.0.0.1 k.ctsywy.com
 127.0.0.1 kas.keydot.net
 127.0.0.1 kddtri.cn
@@ -3879,6 +3870,7 @@
 127.0.0.1 m.tiojk.com
 127.0.0.1 m.tuopp.com
 127.0.0.1 m.twldmx.com
+127.0.0.1 m.ubaii.com
 127.0.0.1 m.ucaii.com
 127.0.0.1 m.uchij.com
 127.0.0.1 m.uissm.com
@@ -3889,6 +3881,7 @@
 127.0.0.1 m.vbinu.com
 127.0.0.1 m.vgaom.com
 127.0.0.1 m.vichc.com
+127.0.0.1 m.vjuer.com
 127.0.0.1 m.vouky.com
 127.0.0.1 m.wbaiz.com
 127.0.0.1 m.wbanv.com
@@ -3907,6 +3900,7 @@
 127.0.0.1 m.wuqutu.com
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.wywna.cn
+127.0.0.1 m.xbaiv.com
 127.0.0.1 m.xdkje.com
 127.0.0.1 m.xeihy.com
 127.0.0.1 m.xhaiu.com

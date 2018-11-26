@@ -7,6 +7,21 @@ code.createjs.com 这是一个 js cdn 库，不应该在黑名单
 127.0.0.1 union-click.jd.com
 127.0.0.1 ccc-x.jd.com
 
+
+127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 crl.microsoft.com
+
+127.0.0.1 choice.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 vortex-sandbox.data.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 statsfe1.ws.microsoft.com
+127.0.0.1 statsfe2.ws.microsoft.com
+
 #netease
 127.0.0.1 img4.cache.netease.com
 127.0.0.1 img6.cache.netease.com
