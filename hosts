@@ -1,5 +1,5 @@
 
-#version=201811262220
+#version=201811281939
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -866,7 +866,6 @@
 127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
-127.0.0.1 current.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -2034,6 +2033,15 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 e.tchep.com
+127.0.0.1 e.xdunv.com
+127.0.0.1 m.iangp.com
+127.0.0.1 m.sfanf.com
+127.0.0.1 m.tchep.com
+127.0.0.1 m.whsjg.cn
+127.0.0.1 m.xdunv.com
+127.0.0.1 sypd.w13qh.cn
+127.0.0.1 y.unilz588.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
 127.0.0.1 x.dami66.cn
