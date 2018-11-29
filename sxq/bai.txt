@@ -59,6 +59,7 @@ image.ibb.co
 image.uc.cn
 img.alicdn.com
 img.faloo.com
+img.zhuaji.org
 img24.pplive.cn
 img31.pplive.cn
 img32.pplive.cn
@@ -309,6 +310,7 @@ shang.qq.com
 sp0.baidu.com
 static.499.cn
 static.duoshuo.com
+static.jiasule.com
 static.qiushibaike.com
 static1.2436.cn
 storebt.biz
@@ -368,6 +370,7 @@ www.dybee.me
 www.gnu.org
 www.google.com
 www.gxwztv.com
+www.haotxt.com
 www.hdbee.net
 www.imdb.com
 www.jiang.com
@@ -403,6 +406,7 @@ www.w3c.org
 www.wanjie8.com
 www.wdlinux.cn
 www.www.00sy.net
+www.xixiwx.com
 www.yawenb.com
 wx1.sinaimg.cn
 wx2.sinaimg.cn
