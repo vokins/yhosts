@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 5:06 2018/11/27/周二
+rem 10:33 2018/12/3
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -380,7 +380,7 @@ regsvr32 /s itircl.dll
 regsvr32 /s itss.dll
 
 ::复制Notepad2
-copy /y "Notepad2.exe" "%SystemRoot%"
+copy /y "Notepad2.exe" "%SystemRoot%" >nul 2>nul
 ::将Notepad劫持为Notepad2
 reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v "Debugger" /d "\"C:\Windows\Notepad2.exe\" /z" /f >nul 2>nul
 reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /f >nul 2>nul
@@ -549,14 +549,14 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer\Security" /v "Disabl
 ::127.0.0.1 ieonline.microsoft.com
 SET NEWLINE=^& echo.
 attrib -r %WINDIR%\system32\drivers\etc\hosts
-FIND /C /I "geo2.adobe.com" %WINDIR%\system32\drivers\etc\hosts
+FIND /C /I "geo2.adobe.com" %WINDIR%\system32\drivers\etc\hosts >nul
 IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 geo2.adobe.com>>%WINDIR%\system32\drivers\etc\hosts
-FIND /C /I "get3.adobe.com" %WINDIR%\system32\drivers\etc\hosts
+FIND /C /I "get3.adobe.com" %WINDIR%\system32\drivers\etc\hosts >nul
 IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 get3.adobe.com>>%WINDIR%\system32\drivers\etc\hosts
-FIND /C /I "ieonline.microsoft.com" %WINDIR%\system32\drivers\etc\hosts
+FIND /C /I "ieonline.microsoft.com" %WINDIR%\system32\drivers\etc\hosts >nul
 IF %ERRORLEVEL% NEQ 0 ECHO %NEWLINE%^127.0.0.1 ieonline.microsoft.com>>%WINDIR%\system32\drivers\etc\hosts
 attrib +r %WINDIR%\system32\drivers\etc\hosts
-ipconfig /flushdns
+ipconfig /flushdns >nul
 ::禁止一联网就打开浏览器
 ::reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator" /v "NoActiveProbe" /t REG_DWORD /d 1 /f
 reg add "HKLM\SYSTEM\ControlSet001\Services\NlaSvc\Parameters\Internet" /v "EnableActiveProbing" /t REG_DWORD /d 0 /f
@@ -675,7 +675,7 @@ sc config lfsvc start= disabled
 ::Phone Service
 sc config PhoneSvc start= disabled
 ::Program Compatibility Assistant Service
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f >nul 2>nul
 sc config PcaSvc start= disabled
 
 ::Shell Hardware Detection
@@ -748,6 +748,22 @@ bcdedit /timeout 2
 ::启动设置开机按F8键直接进入安全模式菜单
 bcdedit /set {default} bootmenupolicy legacy
 
+::系统-电源和睡眠
+::关闭休眠
+powercfg -h off
+::开启快速启动
+::powercfg -hibernate on
+::reg add "HKLM\SYSTEM\CurrentControlSet\Control\Power" /v "HibernateEnabled" /d 1 /t REG_DWORD /f
+::reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "HiberbootEnabled" /d 1 /t REG_DWORD /f
+::启用电源计划“高性能”
+powercfg -setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+::添加电源计划“卓越性能”（1803以后不需要再添加）
+::powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+::启用电源计划“卓越性能”
+powercfg -setactive e9a42b02-d5df-448d-aa00-03f14749eb61
+::设置屏幕自动关闭时间为：5分钟
+powercfg -x -monitor-timeout-ac 5
+
 ::清理启动项
 attrib -s -h -r "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.*" 1>nul 2>nul
 attrib -s -h -r "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.*" 1>nul 2>nul
@@ -760,11 +776,83 @@ attrib +s +h "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\deskto
 ::清空默认启动项
 ::reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
 
+TITLE 卸载 WindowsApps
+::系统-通知和操作：更新后向我显示“欢迎使用Windows体验”，并在我登陆时突出显示新增内容和建议的内容
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-310093Enabled" /t REG_DWORD /d 0 /f
+::系统-通知和操作：在使用Windows时获取提示技巧和建议
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338389Enabled" /t REG_DWORD /d 0 /f
+::禁止 偶尔在开始菜单中显示建议
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338388Enabled" /t REG_DWORD /d 0 /f
+::禁止 在锁屏界面上获取花絮、提示、技巧
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "RotatingLockScreenEnabled" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "RotatingLockScreenOverlayEnabled" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SubscribedContent-338387Enabled" /t REG_DWORD /d 0 /f
+::禁止自动安装游戏与应用(关闭Microsoft消费者体验)
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v "DisableWindowsConsumerFeatures" /t REG_DWORD /d 1 /f
+::禁止自动安装推荐的应用程序(关闭内置的广告、提示、应用推荐)
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "SilentInstalledAppsEnabled" /t REG_DWORD /d 0 /f
+::关闭商店应用推广
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "OemPreInstalledAppsEnabled" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "PreInstalledAppsEnabled" /t REG_DWORD /d 0 /f
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\SuggestedApps" /f >nul 2>nul
+
+::关闭 打开未知文件方式时 从应用商店选择其它应用
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "NoUseStoreOpenWith" /t REG_DWORD /d 1 /f
+:: 使用：时间和语言-区域和语言-国家和地区：
+::调整为 中国
+::reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "45" /f
+::reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "CN" /f
+::调整为 新加坡
+::reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "215" /f >nul 2>nul
+::reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "SG" /f >nul 2>nul
+::调整为 美国
+reg add "HKCU\Control Panel\International\Geo" /v "Nation" /d "244" /f >nul 2>nul
+reg add "HKCU\Control Panel\International\Geo" /v "Name" /d "US" /f >nul 2>nul
+
+:: 使用：微软商店Metro应用 %ProgramFiles%\WindowsApps 删除（保留：Desktop App Installer、Store Purchase App、钱包、应用商店）   
+::Xbox身份认证应用：xbox identity provider https://www.microsoft.com/zh-cn/store/p/xbox-identity-provider/9wzdncrd1hkw
+::重新注册全部 PowerShell Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+::首先是，一键卸载所有的不必要应用： 
+::PowerShell "Get-AppxPackage | Remove-AppxPackage"(当前用户） 
+::Get-AppxPackage -User username | Remove-AppxPackage(制定用户） 
+::Get-AppxPackage -AllUsers | Remove-AppxPackage(所有用户）
+
+::其次是卸载指定的应用： 
+::Get-AppxPackage *AppName* | Remove-AppxPackage(当前用户，指定用户和所有用户类似于上面的代码）
+::卸载商店
+::PowerShell "get-appxpackage Microsoft.DesktopAppInstaller | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.StorePurchaseApp | remove-appxpackage"
+::PowerShell "get-appxpackage Microsoft.WindowsStore | remove-appxpackage"
+::3DBuilder
+::PowerShell "Get-AppxPackage *Microsoft.3DBuilder* | Remove-AppxPackage"
+::截图和草图
+::PowerShell "Get-AppxPackage *Microsoft.ScreenSketch* | Remove-AppxPackage"
+
+call Appx.bat
+
+TITLE 卸载 OneDrive
+taskkill /f /im OneDrive.exe > NUL 2>&1
+%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall
+rd /s /q "%UserProfile%\OneDrive" > NUL 2>&1
+rd /s /q "%LocalAppData%\Microsoft\OneDrive" > NUL 2>&1
+rd /s /q "%ProgramData%\Microsoft OneDrive" > NUL 2>&1
+rd /s /q "C:\OneDriveTemp" > NUL 2>&1
+REG Delete "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
+REG Delete "HKCR\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
+REG delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f > NUL 2>&1
+::start %systemroot%\explorer
+
 :: 系统 ：关闭Windows日志文件
 ::wfpdiag.etl日志
 netsh wfp set options netevents = off
 ::dirty shutdown event日志
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability" /v "TimeStampInterval" /t REG_DWORD /d 0 /f
+
+::关闭系统保护并删除还原点
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v "DisableSR" /d 1 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /v "RPSessionInterval" /d 0 /t REG_DWORD /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Installer" /v "LimitSystemRestoreCheckpointing" /d 1 /t REG_DWORD /f
+reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SPP\Clients" /f > NUL 2>&1
 
 :: 系统 ：性能
 ::扩大图标缓存 到 4MB
@@ -817,6 +905,8 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution 
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Downloader_2345Explorer.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\HaoZipHomePage.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\wzdh2345.exe" /v Debugger /t REG_SZ /d "p" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Pic_2345Svc.exe" /v Debugger /t REG_SZ /d "p" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Helper_2345Pic.exe" /v Debugger /t REG_SZ /d "p" /f
 rem 360
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\360wallpaper_360safe.exe" /v Debugger /t REG_SZ /d "p" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\360zipInst.exe" /v Debugger /t REG_SZ /d "p" /f
@@ -861,21 +951,81 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution 
 rem Glarysoft
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\GUDownloader.exe" /v Debugger /t REG_SZ /d "p" /f
 
+:: 使用：APP注册设置
+::UltraISO 注册
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "累累" /f
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "67693a0a733a6e6c111c4e06733c6b1f" /f
+::WinRAR 去掉右键菜单中添加的“压缩...并 E-Mail”
+reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailArc" /t REG_DWORD /d 0 /f
+reg add "HKCU\SOFTWARE\WinRAR\Setup\MenuItems" /v "EmailOpt" /t REG_DWORD /d 0 /f
+::WinRAR 默认压缩格式
+reg add "HKCU\Software\WinRAR\Profiles\0" /v "RAR5" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\WinRAR\Profiles\0" /v "Default" /t REG_DWORD /d 1 /f
+::WinRAR 锁定工具栏
+reg add "HKCU\Software\WinRAR\General\Toolbar" /v "Lock" /t REG_DWORD /d 1 /f
+::Vegas默认使用中文
+reg add "HKLM\SOFTWARE\Sony Creative Software\Error Reporting Client\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas OFX GPU Video Plug-in Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\15.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\Sony Creative Software\VEGAS Pro\16.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\SfTrans1\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Sony Vegas Video Plug-In Pack\1.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+reg add "HKLM\SOFTWARE\WOW6432Node\Sony Creative Software\Video Capture\6.0\Lang" /v "ULangID" /t REG_DWORD /d 2052 /f
+::R2R补丁注册信息完善
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "Name" /d "MAGIX Software GmbH" /f
+reg add "HKCU\SOFTWARE\TEAM R2R\Protein Emulator" /v "SerialNumber" /d "P-1-305-722-5810" /f
+
+::在桌面创建常用银行快捷方式 if not exist %lnkdir% md %lnkdir%
+::set lnkdir="%USERPROFILE%\Desktop"
+::echo [InternetShortcut] >%lnkdir%\易视直播.url
+::echo URL="http://www.cietv.com/live/" >>%lnkdir%\易视直播.url
+::echo [InternetShortcut] >%lnkdir%\央视直播.url
+::echo URL="http://tv.cctv.com/live/" >>%lnkdir%\央视直播.url
+::echo [InternetShortcut] >%lnkdir%\面包影视.url
+::echo URL="https://www.mianbao99.com/" >>%lnkdir%\面包影视.url
+
+::停用百度个性化配置工具设置 历史纪录设置需要登陆：https://www.baidu.com/duty/privacysettings.html
+::start iexplore.exe https://www.baidu.com/duty/safe_control.html
+
+::自带防火墙APP设置
+::BCompare
+::netsh advfirewall firewall add rule name="BCompare" dir=out program="C:\Program Files\Beyond Compare 4\BCompare.exe" action=block
+
 cls
 echo 更新策略
 gpupdate /force 
 RunDll32.exe USER32.DLL,UpdatePerUserSystemParameters
 ping -n 3 127.0.0.1>nul
 rem 关闭explorer.exe
-taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe > NUL 2>&1
 rem 清理系统图标缓存数据库
-attrib -h -s -r "%userprofile%\AppData\Local\IconCache.db"
-del /f "%userprofile%\AppData\Local\IconCache.db"
-attrib /s /d -h -s -r "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\*"
-del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_*.db"
+attrib -h -s -r "%userprofile%\AppData\Local\IconCache.db" > NUL 2>&1
+del /f "%userprofile%\AppData\Local\IconCache.db" > NUL 2>&1
+attrib /s /d -h -s -r "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\*" > NUL 2>&1
+del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_*.db" > NUL 2>&1
 rem 清理 系统托盘记忆的图标
-echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v IconStreams
-echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v PastIconsStream
+echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v IconStreams > NUL 2>&1
+echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v PastIconsStream > NUL 2>&1
 rem 打开explorer
 start explorer
+pause
+
+::OEM信息
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Manufacturer" /d "Sky Eiga Inc." /f
+copy /y "%~dp0OEMLOGO.bmp" "%SystemRoot%\System32"
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "logo" /d "C:\Windows\System32\OEMLOGO.bmp" /f
+net config server /srvcomment:"我的工作站"
+::reg add HKLM\SYSTEM\ControlSet001\Services\LanmanServer\Parameters /v srvcomment /t REG_SZ /d "我的电脑"
+::ASUS
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Model" /d "ASUS TUF X470-PLUS + SAPPHIRE RX580 8G D5 + KLEVV DDR4 2800(3000)" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportPhone" /d "ASUS  400-620-6655" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportURL" /d "https://www.asus.com.cn/supportonly/TUF X470-PLUS GAMING/HelpDesk_Download/" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportHours" /d "ASUS  00:00  -  24:00   /  周一至周日" /f
+pause
+::MSI-OEM信息
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "Model" /d "Intel i7-7700 + GTX 1060 6GB GDDR5 + 16G DDR4 2133HMz" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportPhone" /d "MSI  400-828-8588" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportURL" /d "https://cn.msi.com/Desktop/support/Trident-3/" /f
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation" /v "SupportHours" /d "MSI  9:00   -   18:00   /  周一至周日" /f
 exit

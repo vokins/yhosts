@@ -121,6 +121,7 @@ m.88dushu.com
 m.91danmei.cc
 m.98xiaoshuo.com
 m.99shumeng.net
+m.ahzww.net
 m.aiquxs.com
 m.amu520.com
 m.aszw.org
@@ -388,6 +389,7 @@ www.opensource.org
 www.qcloud.com
 www.qiushibaike.com
 www.qq.com
+www.qu.la
 www.rejuwang.com
 www.safedog.cn
 www.shuaigay.vip
