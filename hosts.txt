@@ -168,7 +168,6 @@
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
-127.0.0.1 gma.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 #alimama
 127.0.0.1 a.alimama.cn
@@ -1279,6 +1278,8 @@
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top
 #buy
 127.0.0.1 yhd.com
 127.0.0.1 www.yhd.com
@@ -2514,6 +2515,21 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 e.acaoz.com
+127.0.0.1 e.aduiz.com
+127.0.0.1 e.lbaoj.com
+127.0.0.1 m.acaoz.com
+127.0.0.1 m.dbeij.com
+127.0.0.1 m.lbaoj.com
+127.0.0.1 m.lxind.cn
+127.0.0.1 nuloe.alksdh.com
+127.0.0.1 opsm.qflwh.cn
+127.0.0.1 plyut.dldsrs.com
+127.0.0.1 sdn.scset.com.cn
+127.0.0.1 shang.baful.net
+127.0.0.1 sourcescdn.xiaobingw.cn
+127.0.0.1 v.9y88.com
+127.0.0.1 www.applequan.com
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com

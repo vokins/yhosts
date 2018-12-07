@@ -1,1 +1,0 @@
-Mozilla/5.0 (compatible; WOW64; MSIE 10.0; Windows NT 6.2)

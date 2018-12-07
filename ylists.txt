@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.1
+! Version: 0.2
 ! Title: yList
-! Last modified: 10:25 2018/12/4
+! Last modified: 19:05 2018/12/7
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -248,7 +248,6 @@
 ||b5200.net^
 ||b7nkd.cn^
 ||baichuanhd.cn^
-||baidu.com^
 ||baiduyubaidu.com^
 ||baigm.com^
 ||baixing.com^

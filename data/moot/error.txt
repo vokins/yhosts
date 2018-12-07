@@ -40,3 +40,5 @@
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top

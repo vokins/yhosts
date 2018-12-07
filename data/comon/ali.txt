@@ -4,7 +4,6 @@
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
-127.0.0.1 gma.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 #alimama
 127.0.0.1 a.alimama.cn
