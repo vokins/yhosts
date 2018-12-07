@@ -2529,6 +2529,8 @@
 127.0.0.1 shang.baful.net
 127.0.0.1 sourcescdn.xiaobingw.cn
 127.0.0.1 v.9y88.com
+127.0.0.1 uzi66.jozee.cn
+127.0.0.1 engine.tuicoco.com
 127.0.0.1 www.applequan.com
 #https://m.micaitu.com/
 127.0.0.1 m.ilancc.com
