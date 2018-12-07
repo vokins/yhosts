@@ -140,3 +140,6 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 h5.jiumaster.com
+127.0.0.1 www.xsl280.com
+127.0.0.1 www.xsl281.com
+127.0.0.1 www.7ldou.com

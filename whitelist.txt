@@ -9,6 +9,7 @@ current.sina.com.cn 这个网址 禁了没法看新浪财经的股票查询历史
 127.0.0.1 union-click.jd.com
 127.0.0.1 ccc-x.jd.com
 
+gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
 
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1 corp.sts.microsoft.com
