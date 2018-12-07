@@ -226,6 +226,9 @@
 127.0.0.1 z.clickvip.shop
 127.0.0.1 dd.wx16999.com
 127.0.0.1 weixin.renrenying.com
+127.0.0.1 jump.ishop789.com
+127.0.0.1 uzsrh.cn
+127.0.0.1 www.dcimei.tw
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
