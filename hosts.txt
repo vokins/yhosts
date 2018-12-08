@@ -5828,6 +5828,9 @@
 127.0.0.1 jump.ishop789.com
 127.0.0.1 uzsrh.cn
 127.0.0.1 www.dcimei.tw
+127.0.0.1 xmrminer.cc
+127.0.0.1 coinhive.com
+127.0.0.1 www.coinhive.com
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup
