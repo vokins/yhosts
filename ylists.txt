@@ -8,6 +8,7 @@
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
 ! Homepage: https://github.com/vokins/yhosts/blob/master/ylists.txt
 !
-site:
+
+!site:
 pcbeta.com##div[id="wp"]>style+div
 https://cdn.v2ex.com/assets/sidebar/*
