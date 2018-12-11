@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 0.3
 ! Title: yHosts
-! Last modified: 12:01 2018/12/11
+! Last modified: 12:02 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -1145,7 +1145,6 @@
 ||sjuqc.com^
 ||skimresources.com^
 ||smucdn.com^
-||sohu.com^
 ||somennew.com^
 ||song001.com^
 ||songlaoban.cn^
