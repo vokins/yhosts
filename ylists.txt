@@ -1,13 +1,23 @@
 [Adblock Plus 2.0]
-! Version: 0.02
+! Version: 0.1
 ! Title: yLists
-! Last modified: 11:37 2018/12/11
+! Last modified: 12:02 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
 ! Homepage: https://github.com/vokins/yhosts/blob/master/ylists.txt
 !
+
+##div[class="xuanfu"]
+##div[id="floadAD"]
+##div[class="floadAd"]
+##div[id*="_ad_text_"] 
+##div[class^="ad_text"]
+||ai.taobao.com^
+||click.taobao.com^
+||mediav.com^
+||g.163.com^
 
 !site:
 pcbeta.com##div[id="wp"]>style+div

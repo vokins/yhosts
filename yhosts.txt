@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.21
+! Version: 0.3
 ! Title: yHosts
-! Last modified: 11:33 2018/12/11
+! Last modified: 12:01 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -442,7 +442,6 @@
 ||e7009.com^
 ||e70123.com^
 ||e9emh.cn^
-||eastday.com^
 ||ecook.cn^
 ||eddong.com^
 ||edo5.com^
@@ -688,7 +687,6 @@
 ||iiad.com^
 ||iigushi.com^
 ||ijunhai.com^
-||ikafan.com^
 ||ikuailian.com^
 ||il8r.com^
 ||imagicskin.com^
@@ -1049,9 +1047,8 @@
 ||pwjhg.com^
 ||pxstda.com^
 ||qcw.com^
-||qcwzx.net^.cn^
+||qcwzx.net.cn^
 ||qhdfxkj.com^
-||qhimg.com^
 ||qhuik.com^
 ||qiailm.com^
 ||qiaopiguniang.com^
