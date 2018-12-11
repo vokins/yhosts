@@ -1,5 +1,5 @@
 
-#version=201812081111
+#version=201812111132
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2032,23 +2032,6 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
-127.0.0.1 e.acaoz.com
-127.0.0.1 e.aduiz.com
-127.0.0.1 e.lbaoj.com
-127.0.0.1 m.acaoz.com
-127.0.0.1 m.dbeij.com
-127.0.0.1 m.lbaoj.com
-127.0.0.1 m.lxind.cn
-127.0.0.1 nuloe.alksdh.com
-127.0.0.1 opsm.qflwh.cn
-127.0.0.1 plyut.dldsrs.com
-127.0.0.1 sdn.scset.com.cn
-127.0.0.1 shang.baful.net
-127.0.0.1 sourcescdn.xiaobingw.cn
-127.0.0.1 v.9y88.com
-127.0.0.1 uzi66.jozee.cn
-127.0.0.1 engine.tuicoco.com
-127.0.0.1 www.applequan.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
 127.0.0.1 x.dami66.cn
@@ -3069,6 +3052,7 @@
 127.0.0.1 d8885.com
 127.0.0.1 daima.mubite.cn
 127.0.0.1 daima1.18tzx.com
+127.0.0.1 dam.zhqryw.cn
 127.0.0.1 data.3975.com
 127.0.0.1 db1.fuz.cc
 127.0.0.1 db2.fuz.cc
@@ -3127,7 +3111,9 @@
 127.0.0.1 e.abeij.com
 127.0.0.1 e.acaog.com
 127.0.0.1 e.acaox.com
+127.0.0.1 e.acaoz.com
 127.0.0.1 e.admin60.com
+127.0.0.1 e.aduiz.com
 127.0.0.1 e.aiyyu.com
 127.0.0.1 e.ajiez.com
 127.0.0.1 e.anmeilai.net
@@ -3224,6 +3210,7 @@
 127.0.0.1 e.kwjkd.com
 127.0.0.1 e.kxhie.com
 127.0.0.1 e.lancedu.com
+127.0.0.1 e.lbaoj.com
 127.0.0.1 e.lchar.com
 127.0.0.1 e.lfdydk.com
 127.0.0.1 e.lyjz001.com
@@ -3325,6 +3312,7 @@
 127.0.0.1 edesf.xyzxmark.cn
 127.0.0.1 edge.yunjiasu.com
 127.0.0.1 emss.zjhim.com
+127.0.0.1 engine.tuicoco.com
 127.0.0.1 epernn.cn
 127.0.0.1 er.dlhygj.com
 127.0.0.1 erwqw.zh1155.com
@@ -3600,6 +3588,7 @@
 127.0.0.1 keryt.jnservo.com
 127.0.0.1 kfewaz.zh1155.com
 127.0.0.1 kiss.blockplus.cc
+127.0.0.1 klk.jdflower.cn
 127.0.0.1 klz28.com
 127.0.0.1 km.jianduankm.com
 127.0.0.1 kn.aishake.cn
@@ -3664,8 +3653,10 @@
 127.0.0.1 m.abeij.com
 127.0.0.1 m.abfirst.cn
 127.0.0.1 m.acaox.com
+127.0.0.1 m.acaoz.com
 127.0.0.1 m.achig.com
 127.0.0.1 m.adaog.com
+127.0.0.1 m.aduiz.com
 127.0.0.1 m.afoux.com
 127.0.0.1 m.aiyyu.com
 127.0.0.1 m.ajiez.com
@@ -3694,6 +3685,7 @@
 127.0.0.1 m.cdfzcz.com
 127.0.0.1 m.cdouj.com
 127.0.0.1 m.cenrs.com
+127.0.0.1 m.cgaij.com
 127.0.0.1 m.chenhuia.com
 127.0.0.1 m.chexiw.com
 127.0.0.1 m.chfuw.com
@@ -3711,6 +3703,7 @@
 127.0.0.1 m.dante2007.com
 127.0.0.1 m.dbaij.com
 127.0.0.1 m.dbaiz.com
+127.0.0.1 m.dbeij.com
 127.0.0.1 m.dbiej.com
 127.0.0.1 m.dgaoz.com
 127.0.0.1 m.diogv.com
@@ -3828,9 +3821,11 @@
 127.0.0.1 m.laojiayoufang.com
 127.0.0.1 m.laoqu123.com
 127.0.0.1 m.lbaij.com
+127.0.0.1 m.lbaoj.com
 127.0.0.1 m.lchar.com
 127.0.0.1 m.lfdydk.com
 127.0.0.1 m.lusrg.cn
+127.0.0.1 m.lxind.cn
 127.0.0.1 m.lyjz001.com
 127.0.0.1 m.lzida.com
 127.0.0.1 m.maopuzw.com
@@ -4039,6 +4034,7 @@
 127.0.0.1 njs.reliancevalve.com
 127.0.0.1 nryiou.cn
 127.0.0.1 nsy.hnzyfs.com
+127.0.0.1 nuloe.alksdh.com
 127.0.0.1 nv.souid.com
 127.0.0.1 nvrentao8.com
 127.0.0.1 nwejs.alcryp.com
@@ -4046,7 +4042,9 @@
 127.0.0.1 nzfc.2zm4.cn
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 ocbv0.baiyangzs.com
+127.0.0.1 ocuf.pzuth.cn
 127.0.0.1 op00w.baiyangzs.com
+127.0.0.1 opsm.qflwh.cn
 127.0.0.1 oss-asq-static.11222.cn
 127.0.0.1 ow.biqugego.com
 127.0.0.1 ow.s1.shuhuangge.org
@@ -4106,6 +4104,7 @@
 127.0.0.1 ping.weiduofan.com
 127.0.0.1 pjogndc8ixoidna.360doc.cn
 127.0.0.1 plmkolp.m.58xs.tw
+127.0.0.1 plyut.dldsrs.com
 127.0.0.1 pm.sdaiv.com
 127.0.0.1 pop.code.mytanwan.com
 127.0.0.1 pop.code.poyang.cn
@@ -4224,10 +4223,12 @@
 127.0.0.1 sdk.cferw.com
 127.0.0.1 sdn.hzxma.com
 127.0.0.1 sdn.penggua.com.cn
+127.0.0.1 sdn.scset.com.cn
 127.0.0.1 serve.popads.net
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 sgvip.chinahdcm.com
 127.0.0.1 sha50.com
+127.0.0.1 shang.baful.net
 127.0.0.1 shixunjs.th21333.com
 127.0.0.1 shke.kuuad.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
@@ -4244,6 +4245,7 @@
 127.0.0.1 sod.onelink.me
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 sou.xanbhx.com
+127.0.0.1 sourcescdn.xiaobingw.cn
 127.0.0.1 sp.wndoor.com
 127.0.0.1 sqd.jstdjq.com
 127.0.0.1 src.duanxin520.com
@@ -4374,7 +4376,9 @@
 127.0.0.1 uu.85655095.com
 127.0.0.1 uu.zeverdg.com
 127.0.0.1 uun.1uandun.com
+127.0.0.1 uzi66.jozee.cn
 127.0.0.1 v.6dvip.com
+127.0.0.1 v.9y88.com
 127.0.0.1 v.e7002.com
 127.0.0.1 v.oq68.com
 127.0.0.1 v.szpaopao.com
@@ -4484,6 +4488,7 @@
 127.0.0.1 www.anyangruisi.com
 127.0.0.1 www.aodongjiaosu.com
 127.0.0.1 www.appfh.com
+127.0.0.1 www.applequan.com
 127.0.0.1 www.ashiping.com
 127.0.0.1 www.atcryp.com
 127.0.0.1 www.baiduzhidahao.cc
@@ -4627,6 +4632,7 @@
 127.0.0.1 www.xianliao.me
 127.0.0.1 www.xiaohui2.cn
 127.0.0.1 www.xmnmeu.cn
+127.0.0.1 www.xqwiremesh.com
 127.0.0.1 www.xrain.net
 127.0.0.1 www.xszqapp.com
 127.0.0.1 www.xtcdbb.cn
