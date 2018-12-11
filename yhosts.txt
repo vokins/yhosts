@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.5
+! Version: 0.6
 ! Title: yHosts
-! Last modified: 12:34 2018/12/11
+! Last modified: 12:46 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -10,12 +10,21 @@
 !
 
 ||ad.dzwww.com^
-||dup.baidustatic.com^
+||g.163.com^
 ||pmm.people.com.cn^
+
+||ai.taobao.com^
+||click.taobao.com^
+
 ||cbjs.baidu.com^
+||dup.baidustatic.com^
+
 ||imrworldwide.com^
 ||qtmojo.com^
 ||webterren.com^
+||mediav.com^
+
+https://cdn.v2ex.com/assets/sidebar/*
 
 ||000dn.com^
 ||001fzc.com^

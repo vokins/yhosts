@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.2
+! Version: 0.3
 ! Title: yLists
-! Last modified: 12:34 2018/12/11
+! Last modified: 12:47 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -25,16 +25,19 @@
 */adcreatives/*
 */advertisement/*
 ##iframe[src^="https://static-alias-1.360buyimg.com/"]
-||ai.taobao.com^
-||click.taobao.com^
-||mediav.com^
-||g.163.com^
+
 
 !site:
 pcbeta.com##div[id="wp"]>style+div
-https://cdn.v2ex.com/assets/sidebar/*
 163.com##div[class="gallery-tie-right"]
 163.com##div[class="post_recommend"]
 163.com##div[class="gallery-guess-wrapper"]
 163.com##div[id*="div-gpt-ad-"]
 163.com##div[class="btm-ad"]
+ifeng.com##div[class^="pao_ad_"]
+ifeng.com##div[class="slide_popo_modal"]
+ifeng.com##div[class="blockR iphone_none ipad_none"]
+ifeng.com##div[class^="pao_mid"]
+ifeng.com##div[class^="adbox"]
+ifeng.com##div[class^="games_ad"]
+ifeng.com##div[class="embedHzh"]
