@@ -1,6 +1,0 @@
-#https://m.micaitu.com/
-127.0.0.1 m.ilancc.com
-127.0.0.1 y.ilancc.com
-#www.hdpfans.com
-127.0.0.1 x.dami66.cn
-127.0.0.1 amae.zjcapital.cn

@@ -1109,6 +1109,7 @@
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 xls.go.sohu.com
+127.0.0.1 pv.sohu.com
 #sogou
 127.0.0.1 adsence.sogou.com
 127.0.0.1 fair.sogou.com
@@ -2515,12 +2516,6 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
-#https://m.micaitu.com/
-127.0.0.1 m.ilancc.com
-127.0.0.1 y.ilancc.com
-#www.hdpfans.com
-127.0.0.1 x.dami66.cn
-127.0.0.1 amae.zjcapital.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -3451,6 +3446,7 @@
 127.0.0.1 alifixed.cn
 127.0.0.1 alipay.dajiadou6.com
 127.0.0.1 alistatic.cn
+127.0.0.1 amae.zjcapital.cn
 127.0.0.1 amiok.org
 127.0.0.1 an.wikigifth.com
 127.0.0.1 ana.tatahn.com
@@ -4202,7 +4198,6 @@
 127.0.0.1 jsjs.nthyn.com
 127.0.0.1 jsnywl.kfi8.com
 127.0.0.1 json.gewuwen.com
-127.0.0.1 jspassport.ssl.qhimg.com
 127.0.0.1 jtqg.kz8tr2.cn
 127.0.0.1 jtug.code.poyang.com
 127.0.0.1 jumpe.58xmgys.com
@@ -4417,6 +4412,7 @@
 127.0.0.1 m.icyrd.com
 127.0.0.1 m.ienkdaged.cn
 127.0.0.1 m.ienkdago.cn
+127.0.0.1 m.ilancc.com
 127.0.0.1 m.imiek.com
 127.0.0.1 m.infvb.com
 127.0.0.1 m.irauz.com
@@ -4705,6 +4701,8 @@
 127.0.0.1 pb.funshion.net.cn
 127.0.0.1 pb.sys.pp8.com
 127.0.0.1 pb.wang502.com
+127.0.0.1 pb1.qujishu.com
+127.0.0.1 pb2.qujishu.com
 127.0.0.1 pc.107788.com
 127.0.0.1 pc.5151gj.com
 127.0.0.1 pc.ctsywy.com
@@ -4745,7 +4743,6 @@
 127.0.0.1 ps.haohaowan8.com
 127.0.0.1 psma02.com
 127.0.0.1 pupu.xnhh120.com
-127.0.0.1 pv.sohu.com
 127.0.0.1 pwbs.l9c4s.cn
 127.0.0.1 py.wikigifth.com
 127.0.0.1 q.0451106.com
@@ -5298,6 +5295,7 @@
 127.0.0.1 wzj.ywrjgzs.com
 127.0.0.1 x.892155.com
 127.0.0.1 x.bikaer.com
+127.0.0.1 x.dami66.cn
 127.0.0.1 x.niuliyan.cn
 127.0.0.1 x.zhuyuanp.top
 127.0.0.1 xau.sxmutan.com
@@ -5334,6 +5332,7 @@
 127.0.0.1 y.5125129.com
 127.0.0.1 y.hk9600.com
 127.0.0.1 y.hzht666.com
+127.0.0.1 y.ilancc.com
 127.0.0.1 y.shuoshuocm.com
 127.0.0.1 y.unilz588.com
 127.0.0.1 y0.cn

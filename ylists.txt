@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.1
+! Version: 0.2
 ! Title: yLists
-! Last modified: 12:02 2018/12/11
+! Last modified: 12:34 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -9,11 +9,22 @@
 ! Homepage: https://github.com/vokins/yhosts/blob/master/ylists.txt
 !
 
-##div[class="xuanfu"]
-##div[id="floadAD"]
+##a[class^="ad_hover"]
+##div[adtype$="Ad"]
+##div[class*="_adtop_"]
+##div[class="ad"]
 ##div[class="floadAd"]
-##div[id*="_ad_text_"] 
+##div[class="xuanfu"]
+##div[class^="topAd"]
+##div[id="floadAD"]
+##div[id^="ad_banner"]
+
+##div[class*="_textlink"]
 ##div[class^="ad_text"]
+##div[id*="_ad_text_"] 
+*/adcreatives/*
+*/advertisement/*
+##iframe[src^="https://static-alias-1.360buyimg.com/"]
 ||ai.taobao.com^
 ||click.taobao.com^
 ||mediav.com^
@@ -22,3 +33,8 @@
 !site:
 pcbeta.com##div[id="wp"]>style+div
 https://cdn.v2ex.com/assets/sidebar/*
+163.com##div[class="gallery-tie-right"]
+163.com##div[class="post_recommend"]
+163.com##div[class="gallery-guess-wrapper"]
+163.com##div[id*="div-gpt-ad-"]
+163.com##div[class="btm-ad"]

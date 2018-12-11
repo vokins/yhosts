@@ -1,13 +1,21 @@
 [Adblock Plus 2.0]
-! Version: 0.3
+! Version: 0.5
 ! Title: yHosts
-! Last modified: 12:02 2018/12/11
+! Last modified: 12:34 2018/12/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/yhosts.txt
 ! Homepage: https://github.com/vokins/yhosts/blob/master/yhosts.txt
 !
+
+||ad.dzwww.com^
+||dup.baidustatic.com^
+||pmm.people.com.cn^
+||cbjs.baidu.com^
+||imrworldwide.com^
+||qtmojo.com^
+||webterren.com^
 
 ||000dn.com^
 ||001fzc.com^
@@ -176,6 +184,7 @@
 ||9ads.net^
 ||9dreams.net^
 ||9xzj.com^
+||9y88.com^
 ||9yyg.cn^
 ||a.cn^
 ||a0b11.com^
@@ -187,6 +196,7 @@
 ||abfirst.cn^
 ||acaog.com^
 ||acaox.com^
+||acaoz.com^
 ||achig.com^
 ||adaog.com^
 ||adeaz.com^
@@ -199,6 +209,7 @@
 ||adrunnr.com^
 ||ads80.com^
 ||adstract.com^
+||aduiz.com^
 ||adxchina.cn^
 ||adxkj.com^
 ||adyun.com^
@@ -222,6 +233,7 @@
 ||aligames.com^
 ||alisinak.com^
 ||alistatic.cn^
+||alksdh.com^
 ||anfeng.com^
 ||anhuilitian.net^
 ||anmeilai.net^
@@ -232,6 +244,7 @@
 ||aowugame.com^
 ||appadhoc.com^
 ||appfh.com^
+||applequan.com^
 ||apxyz.com^
 ||aqiudaohang.com^
 ||ardmall.com^
@@ -247,6 +260,7 @@
 ||b0lc.cn^
 ||b5200.net^
 ||b7nkd.cn^
+||baful.net^
 ||baichuanhd.cn^
 ||baiduyubaidu.com^
 ||baigm.com^
@@ -323,6 +337,7 @@
 ||cfdanet.com^
 ||cfenl.com^
 ||cferw.com^
+||cgaij.com^
 ||chaelc.com^
 ||chaojilamei.cn^
 ||chaomeng8.com^
@@ -377,6 +392,7 @@
 ||daishuxy.com^
 ||dajean.com^
 ||dajiadou6.com^
+||dami66.cn^
 ||danangmo.cn^
 ||danpinwu.com^
 ||danrs.com^
@@ -387,6 +403,7 @@
 ||dazhonghua.cn^
 ||dbaij.com^
 ||dbaiz.com^
+||dbeij.com^
 ||dbiej.com^
 ||dcaij.com^
 ||ddpxhq.cn^
@@ -408,6 +425,7 @@
 ||dkdlsj.com^
 ||dkqapp.cn^
 ||dlads.cn^
+||dldsrs.com^
 ||dleke.com^
 ||dlhygj.com^
 ||dlkjgjmy.com^
@@ -689,6 +707,7 @@
 ||ijunhai.com^
 ||ikuailian.com^
 ||il8r.com^
+||ilancc.com^
 ||imagicskin.com^
 ||imiek.com^
 ||imneinei.com^
@@ -715,6 +734,7 @@
 ||jcwwxn.com^
 ||jdaot.com^
 ||jdcbuy.com^
+||jdflower.cn^
 ||jfjsp.com^
 ||jgchq.com^
 ||jgkto.com^
@@ -745,6 +765,7 @@
 ||jndczg.com^
 ||jnservo.com^
 ||joyxv.com^
+||jozee.cn^
 ||jrdkc.com^
 ||jrhaigou.com^
 ||jscsd.cn^
@@ -828,6 +849,7 @@
 ||laojiayoufang.com^
 ||laoqu123.com^
 ||lbaij.com^
+||lbaoj.com^
 ||lchar.com^
 ||lessplay.com^
 ||lfdydk.com^
@@ -860,6 +882,7 @@
 ||lwinl.com^
 ||lwnne.cn^
 ||lx167.com^
+||lxind.cn^
 ||lyghjzs.cn^
 ||lyhuayun.com^
 ||lyjz001.com^
@@ -1046,8 +1069,10 @@
 ||puooi.com^
 ||pwjhg.com^
 ||pxstda.com^
+||pzuth.cn^
 ||qcw.com^
 ||qcwzx.net.cn^
+||qflwh.cn^
 ||qhdfxkj.com^
 ||qhuik.com^
 ||qiailm.com^
@@ -1068,6 +1093,7 @@
 ||qqqmdq.com^
 ||qqxwf.com^
 ||queene.cn^
+||qujishu.com^
 ||qupinhj.com^
 ||qusub.com^
 ||quw18.com^
@@ -1111,6 +1137,7 @@
 ||sc1369.com^
 ||schborg.com^
 ||scouc.com^
+||scset.com.cn^
 ||sczhilong.cn^
 ||sdaiv.com^
 ||sdqoi2d.com^
@@ -1238,6 +1265,7 @@
 ||ttpaper.com^
 ||ttsqgs.com^
 ||tui1999.com^
+||tuicoco.com^
 ||tuifish.com^
 ||tuituigui19999.com^
 ||tujidao.com^
@@ -1375,6 +1403,7 @@
 ||xiacai.com^
 ||xiacaidd.com^
 ||xiangchim0.com^
+||xiaobingw.cn^
 ||xiaohui2.cn^
 ||xiaojianjian.net^
 ||xiaopiaoyou.com^
@@ -1401,6 +1430,7 @@
 ||xnghmc.com^
 ||xnhh120.com^
 ||xpjis.com^
+||xqwiremesh.com^
 ||xrain.net^
 ||xszqapp.com^
 ||xtcdbb.cn^
@@ -1516,12 +1546,14 @@
 ||zhanzhang.net^
 ||zhdap.com^
 ||zhiyaspa.com^
+||zhqryw.cn^
 ||zhtjdl.com^
 ||zhuba8.com^
 ||zhudiaosz.com^
 ||zhybw88.com^
 ||zhywyl.cn^
 ||zichenit.com^
+||zjcapital.cn^
 ||zjhim.com^
 ||zjhoudao.com^
 ||zjjgtz.com^
@@ -1550,23 +1582,3 @@
 ||zzdahan.com^
 ||zzhhts.com^
 ||zzmmkj.com^
-||9y88.com^
-||acaoz.com^
-||aduiz.com^
-||alksdh.com^
-||applequan.com^
-||baful.net^
-||cgaij.com^
-||dbeij.com^
-||dldsrs.com^
-||jdflower.cn^
-||jozee.cn^
-||lbaoj.com^
-||lxind.cn^
-||pzuth.cn^
-||qflwh.cn^
-||scset.com.cn^
-||tuicoco.com^
-||xiaobingw.cn^
-||xqwiremesh.com^
-||zhqryw.cn^
