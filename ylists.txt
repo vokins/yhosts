@@ -24,6 +24,8 @@
 ##div[id*="_ad_text_"] 
 */adcreatives/*
 */advertisement/*
+*/pagead/*
+https://pagead2.googlesyndication.com/*
 ##iframe[src^="https://static-alias-1.360buyimg.com/"]
 
 
