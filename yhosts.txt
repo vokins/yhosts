@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.6
+! Version: 0.7
 ! Title: yHosts
-! Last modified: 12:46 2018/12/11
+! Last modified: 22:04 2018/12/15
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -966,7 +966,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mwjpk.com^
 ||mxguan.com^
 ||myadx.net^
-||myqcloud.com^
 ||mytanwan.com^
 ||myxh999.com^
 ||myyage.com^
