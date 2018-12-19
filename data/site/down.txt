@@ -10,7 +10,6 @@
 127.0.0.1 tongji.tt.shouji56.com
 127.0.0.1 xz.tongji.shouji56.com
 #m.shuaji.com
-127.0.0.1 p.abcache.com
 127.0.0.1 s.abcache.com
 #m.wanyx.com
 127.0.0.1 shili.wanyx.com

@@ -1287,7 +1287,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||twyxi.com^
 ||twzui6.com^
 ||txdwc.cn^
-||txt2017.com^
 ||txwdn.com^
 ||tylll.com^
 ||tymsyx.com^

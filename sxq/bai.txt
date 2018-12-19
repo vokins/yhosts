@@ -283,6 +283,7 @@ m.zwdu.com
 maweb.3g.qq.com
 mp.weixin.qq.com
 my.tsxsw.com
+p.abcache.com
 pan.meijukankan.net
 photocdn.sohu.com
 photocdn.tv.sohu.com

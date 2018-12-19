@@ -1,5 +1,5 @@
 
-#version=201812141958
+#version=201812192226
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2037,8 +2037,12 @@
 127.0.0.1 e.dbeii.com
 127.0.0.1 e.eqiuy.com
 127.0.0.1 e.gxunj.com
+127.0.0.1 e.hduic.com
 127.0.0.1 e.jbanb.com
+127.0.0.1 e.lguir.com
 127.0.0.1 e.tbaip.com
+127.0.0.1 e.tbenc.com
+127.0.0.1 e.vjuei.com
 127.0.0.1 e.wduis.com
 127.0.0.1 gxwlzz.baiduspider1.cn
 127.0.0.1 m.ahuac.com
@@ -2046,14 +2050,22 @@
 127.0.0.1 m.dceni.com
 127.0.0.1 m.eqiuy.com
 127.0.0.1 m.gxunj.com
+127.0.0.1 m.hduic.com
 127.0.0.1 m.ibeip.com
 127.0.0.1 m.jbanb.com
+127.0.0.1 m.lguir.com
 127.0.0.1 m.tbaip.com
+127.0.0.1 m.tbenc.com
 127.0.0.1 m.tcenn.com
+127.0.0.1 m.vjuei.com
 127.0.0.1 m.wduis.com
+127.0.0.1 m.xhera.cn
+127.0.0.1 m.zcand.com
 127.0.0.1 photo.yqydjr.cn
 127.0.0.1 sdn.gongkao.hn.cn
+127.0.0.1 vnzq.mmpuh.cn
 127.0.0.1 www.duobaoqj.com
+127.0.0.1 www.hmnjf.com
 127.0.0.1 yly.hywly.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
@@ -2193,7 +2205,6 @@
 127.0.0.1 dps.shouji56.com
 127.0.0.1 tongji.tt.shouji56.com
 127.0.0.1 xz.tongji.shouji56.com
-127.0.0.1 p.abcache.com
 127.0.0.1 s.abcache.com
 127.0.0.1 shili.wanyx.com
 127.0.0.1 js.yixui.com
@@ -6828,6 +6839,7 @@
 127.0.0.1 3180555.com
 127.0.0.1 77455.com
 127.0.0.1 8184.cc
+127.0.0.1 8315.cn
 127.0.0.1 85058s.com
 127.0.0.1 90053999.com
 127.0.0.1 ad.dokrmob.com
@@ -6855,6 +6867,7 @@
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 girlcc.cc
+127.0.0.1 h5.jiumaster.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 hjc1990.com
@@ -6921,6 +6934,7 @@
 127.0.0.1 www.700900.com
 127.0.0.1 www.749558.com
 127.0.0.1 www.76802.net
+127.0.0.1 www.7ldou.com
 127.0.0.1 www.849558.com
 127.0.0.1 www.878090.com
 127.0.0.1 www.9565365.com
@@ -6949,6 +6963,8 @@
 127.0.0.1 www.v00087.com
 127.0.0.1 www.v66v66.com
 127.0.0.1 www.xpjylc9977.com
+127.0.0.1 www.xsl280.com
+127.0.0.1 www.xsl281.com
 127.0.0.1 www.yd126.com
 127.0.0.1 www.ylwy168.com
 127.0.0.1 wwww.495495.com
@@ -6961,7 +6977,3 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
-127.0.0.1 h5.jiumaster.com
-127.0.0.1 www.xsl280.com
-127.0.0.1 www.xsl281.com
-127.0.0.1 www.7ldou.com

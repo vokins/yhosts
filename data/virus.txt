@@ -6,6 +6,7 @@
 127.0.0.1 3180555.com
 127.0.0.1 77455.com
 127.0.0.1 8184.cc
+127.0.0.1 8315.cn
 127.0.0.1 85058s.com
 127.0.0.1 90053999.com
 127.0.0.1 ad.dokrmob.com
@@ -33,6 +34,7 @@
 127.0.0.1 ffb.feihuo.com
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 girlcc.cc
+127.0.0.1 h5.jiumaster.com
 127.0.0.1 hao.tiandi.com
 127.0.0.1 hao916.com
 127.0.0.1 hjc1990.com
@@ -99,6 +101,7 @@
 127.0.0.1 www.700900.com
 127.0.0.1 www.749558.com
 127.0.0.1 www.76802.net
+127.0.0.1 www.7ldou.com
 127.0.0.1 www.849558.com
 127.0.0.1 www.878090.com
 127.0.0.1 www.9565365.com
@@ -127,6 +130,8 @@
 127.0.0.1 www.v00087.com
 127.0.0.1 www.v66v66.com
 127.0.0.1 www.xpjylc9977.com
+127.0.0.1 www.xsl280.com
+127.0.0.1 www.xsl281.com
 127.0.0.1 www.yd126.com
 127.0.0.1 www.ylwy168.com
 127.0.0.1 wwww.495495.com
@@ -139,7 +144,3 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
-127.0.0.1 h5.jiumaster.com
-127.0.0.1 www.xsl280.com
-127.0.0.1 www.xsl281.com
-127.0.0.1 www.7ldou.com
