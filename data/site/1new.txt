@@ -33,3 +33,12 @@
 127.0.0.1 www.duobaoqj.com
 127.0.0.1 www.hmnjf.com
 127.0.0.1 yly.hywly.com
+127.0.0.1 conabi.xjditan.com
+127.0.0.1 e.zcand.com
+127.0.0.1 krq.yymmsd.cn
+127.0.0.1 m.dbiei.com
+127.0.0.1 sc.xhbaihehang.com
+127.0.0.1 sss.cnscdj.com
+127.0.0.1 unhold.ldgjhd.net
+127.0.0.1 www.whshangsha.com
+127.0.0.1 ytlo.7ia9h.cn

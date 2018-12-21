@@ -12,6 +12,9 @@ g.163.com
 gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
 127.0.0.1 app.adjust.com 微软安全相关通知等
 www.3533.com 网页图片被误杀：p.abcache.com
+
+127.0.0.1 api.xk.miui.com
+
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
 127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 crl.microsoft.com

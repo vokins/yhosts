@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.7
+! Version: 0.8
 ! Title: yHosts
-! Last modified: 22:04 2018/12/15
+! Last modified: 15:23 2018/12/21
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -903,7 +903,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||lzida.com^
 ||m5bn.com^
 ||maccms.com^
-||macromedia.com^
 ||maipubao.cn^
 ||mall044.com^
 ||mangofortune.net^
@@ -934,7 +933,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mingmingtehui.com^
 ||mipcdn.com^
 ||mipujia.com^
-||miui.com^
 ||miupp.com^
 ||miyue17.com^
 ||mj70.cn^

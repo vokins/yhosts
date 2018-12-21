@@ -1,5 +1,5 @@
 
-#version=201812192226
+#version=201812211534
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2067,6 +2067,15 @@
 127.0.0.1 www.duobaoqj.com
 127.0.0.1 www.hmnjf.com
 127.0.0.1 yly.hywly.com
+127.0.0.1 conabi.xjditan.com
+127.0.0.1 e.zcand.com
+127.0.0.1 krq.yymmsd.cn
+127.0.0.1 m.dbiei.com
+127.0.0.1 sc.xhbaihehang.com
+127.0.0.1 sss.cnscdj.com
+127.0.0.1 unhold.ldgjhd.net
+127.0.0.1 www.whshangsha.com
+127.0.0.1 ytlo.7ia9h.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2865,7 +2874,6 @@
 127.0.0.1 api.ppoi.org
 127.0.0.1 api.rideraid.net
 127.0.0.1 api.tongji.today
-127.0.0.1 api.xk.miui.com
 127.0.0.1 apisoft.df0535.com
 127.0.0.1 apk.fgzba.com
 127.0.0.1 apk.gelinboer.cn
@@ -3377,7 +3385,6 @@
 127.0.0.1 fpb.mn586.com
 127.0.0.1 fpbbdx1.51240.com
 127.0.0.1 fpbjiansuo.mn586.com
-127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fsjsp.com
 127.0.0.1 fyal.e9emh.cn
 127.0.0.1 fzz.cloud.1234507.com
