@@ -1499,7 +1499,6 @@
 127.0.0.1 s1.qiqutt.cn
 127.0.0.1 s1.qiqutt.com
 127.0.0.1 s2.dnaxddnc.com
-127.0.0.1 s2.huoying666.com
 127.0.0.1 s2.kuaibaopay.com
 127.0.0.1 s2.mingmingtehui.com
 127.0.0.1 s3.rongnews.com
@@ -1638,7 +1637,6 @@
 127.0.0.1 tz.zjhoudao.com
 127.0.0.1 u.123hala.com
 127.0.0.1 u.ddvip.com
-127.0.0.1 u.huoying666.com
 127.0.0.1 u.qijads.com
 127.0.0.1 u.qijipc.com
 127.0.0.1 u.umm6.cn

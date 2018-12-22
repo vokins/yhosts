@@ -2559,6 +2559,17 @@
 127.0.0.1 unhold.ldgjhd.net
 127.0.0.1 www.whshangsha.com
 127.0.0.1 ytlo.7ia9h.cn
+127.0.0.1 e.mdous.com
+127.0.0.1 e.tdoup.com
+127.0.0.1 k5tmk4.sadobo.com
+127.0.0.1 m.emshx.cn
+127.0.0.1 m.fdoun.com
+127.0.0.1 m.ibaop.com
+127.0.0.1 m.mdous.com
+127.0.0.1 m.pkbrxja.cn
+127.0.0.1 m.tdoup.com
+127.0.0.1 m.wbanz.com
+127.0.0.1 zwwa.h2pzh.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -4872,7 +4883,6 @@
 127.0.0.1 s1.qiqutt.cn
 127.0.0.1 s1.qiqutt.com
 127.0.0.1 s2.dnaxddnc.com
-127.0.0.1 s2.huoying666.com
 127.0.0.1 s2.kuaibaopay.com
 127.0.0.1 s2.mingmingtehui.com
 127.0.0.1 s3.rongnews.com
@@ -5011,7 +5021,6 @@
 127.0.0.1 tz.zjhoudao.com
 127.0.0.1 u.123hala.com
 127.0.0.1 u.ddvip.com
-127.0.0.1 u.huoying666.com
 127.0.0.1 u.qijads.com
 127.0.0.1 u.qijipc.com
 127.0.0.1 u.umm6.cn
