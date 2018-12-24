@@ -132,96 +132,109 @@ reg add "HKCU\SOFTWARE\Classes\AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" /v "NoOpenW
 rem Zune Video：File Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
 reg add "HKCU\SOFTWARE\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" /v "NoOpenWith" /d "" /f
 
+sc config WSearch start=disabled
+
+
+
+net stop WSearch
+
 
 
 
 :: 服务调整部分：Win默认禁用的服务：AppVClient NetTcpPortSharing ssh-agent RemoteRegistry RemoteAccess shpamsvc tzautoupdate UevAgentService
 ::禁用使用情况信息的收集和传输
 ::Connected User Experiences and Telemetry
-sc config DiagTrack start= disabled
-::Data Sharing Service
-sc config DsSvc start= disabled
-::Diagnostic Execution Service
-sc config diagsvc start= disabled
+net stop DiagTrack
+sc config DiagTrack start=disabled
+echo Data Sharing Service
+sc config DsSvc start=disabled
+echo Diagnostic Execution Service
+sc config diagsvc start=disabled
 echo 禁用诊断服务 Diagnostic Policy Service
-sc config DPS start= disabled
+net stop DPS
+sc config DPS start=disabled
 echo 禁用远程修改注册表
-sc config RemoteRegistry start= disabled
+sc config RemoteRegistry start=disabled
 echo 禁用程序兼容性助手 Program Compatibility Assistant Service
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f >nul 2>nul
-sc config PcaSvc start= disabled
+sc config PcaSvc start=disabled
 ::Diagnostic Service Host
-sc config WdiServiceHost start= disabled
+sc config WdiServiceHost start=disabled
 ::Diagnostic System Host
-sc config WdiSystemHost start= disabled
+sc config WdiSystemHost start=disabled
 ::dmwappushsvc
-sc config dmwappushservice start= disabled
+sc config dmwappushservice start=disabled
 ::Microsoft (R) 诊断中心标准收集器服务
-sc config diagnosticshub.standardcollector.service start= disabled
+sc config diagnosticshub.standardcollector.service start=disabled
 ::Performance Logs & Alerts
-sc config pla start= disabled
+sc config pla start=disabled
 ::Problem Reports and Solutions Control Panel Support
-sc config wercplsupport start= disabled
+sc config wercplsupport start=disabled
 
 
 ::Hyper-V
-sc config HvHost start= disabled
-sc config vmickvpexchange start= disabled
-sc config vmicguestinterface start= disabled
-sc config vmicshutdown start= disabled
-sc config vmicheartbeat start= disabled
-sc config vmicvmsession start= disabled
-sc config vmictimesync start= disabled
-sc config vmicvss start= disabled
-sc config vmicrdv start= disabled
+sc config HvHost start=disabled
+sc config vmickvpexchange start=disabled
+sc config vmicguestinterface start=disabled
+sc config vmicshutdown start=disabled
+sc config vmicheartbeat start=disabled
+sc config vmicvmsession start=disabled
+sc config vmictimesync start=disabled
+sc config vmicvss start=disabled
+sc config vmicrdv start=disabled
 
 ::Xbox
 rem Xbox Accessory Management Service
-sc config XboxGipSvc start= disabled
+sc config XboxGipSvc start=disabled
 rem Xbox Game Monitoring
 rem sc config xbgm start= demand
 rem Xbox Live 身份验证管理器
-sc config XblAuthManager start= disabled
+sc config XblAuthManager start=disabled
 rem Xbox Live 网络服务
-sc config XboxNetApiSvc start= disabled
+sc config XboxNetApiSvc start=disabled
 rem Xbox Live 游戏保存
-sc config XblGameSave start= disabled
+sc config XblGameSave start=disabled
 rem 禁用 XBOX GameDVR
 reg add "HKLM\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR" /v "value" /t REG_DWORD /d 0 /f > NUL 2>&1
 
 ::Fax
-sc config Fax start= disabled
+sc config Fax start=disabled
 ::Distributed Link Tracking Client
-sc config TrkWks start= disabled
+sc config TrkWks start=disabled
 ::Downloaded Maps Manager
-sc config MapsBroker start= disabled
+sc config MapsBroker start=disabled
 ::Geolocation Service
-sc config lfsvc start= disabled
+sc config lfsvc start=disabled
 ::Phone Service
-sc config PhoneSvc start= disabled
+sc config PhoneSvc start=disabled
 
 
 ::Shell Hardware Detection
-sc config ShellHWDetection start= disabled
+sc config ShellHWDetection start=disabled
 ::Remote Registry(远程修改注册表)
-sc config RemoteRegistry start= disabled
+sc config RemoteRegistry start=disabled
 ::Superfetch
-sc config SysMain start= disabled
+net stop SysMain
+sc config SysMain start=disabled
 ::Windows Media Player Network Sharing Service
-sc config WMPNetworkSvc start= disabled
+sc config WMPNetworkSvc start=disabled
 ::Windows Search
-taskkill /f /im searchui.exe > NUL 2>&1
-sc config WSearch start= disabled
+taskkill /f /im SearchUI.exe > NUL 2>&1
+sc config WSearch start=disabled
 ::零售演示服务
-sc config RetailDemo start= disabled
+sc config RetailDemo start=disabled
 
 ::国内服务
-sc config QQMusicService start= disabled > NUL 2>&1
-sc config QiyiService start= disabled > NUL 2>&1
-sc config wpscloudsvr start= disabled > NUL 2>&1
+sc config QQMusicService start=disabled > NUL 2>&1
+sc config QiyiService start=disabled > NUL 2>&1
+sc config wpscloudsvr start=disabled > NUL 2>&1
 
 :: 任务计划程序调整 %windir%\system32\taskschd.msc /s
 ::Microsoft 客户体验改善计划
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\ProgramDataUpdater"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\StartupAppTask"
@@ -232,19 +245,21 @@ SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Customer Experience Improvemen
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Diagnosis\Scheduled"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskFootprint\Diagnostics"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Feedback\Siuf\DmClient"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\FileHistory\File History (maintenance mode)"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Location\WindowsActionDialog"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Location\Notifications"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Location\WindowsActionDialog"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maintenance\WinSAT"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maps\MapsUpdateTask"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maps\MapsToastTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Maps\MapsUpdateTask"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\RetailDemo\CleanupOfflineContent"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\WDI\ResolutionHost"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Error Reporting\QueueReporting"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents"
 ::Windows Defender
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Windows Defender\Windows Defender Cleanup"

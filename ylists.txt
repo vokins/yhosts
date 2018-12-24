@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.4
+! Version: 0.51
 ! Title: yLists
-! Last modified: 15:35 2018/12/21
+! Last modified: 20:23 2018/12/24
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -26,8 +26,16 @@
 */advertisement/*
 */pagead/*
 https://pagead2.googlesyndication.com/*
+*.doubleclick.net/*
+https://www.google-analytics.com/analytics.js
+http://pos.baidu.com/*
+http://wn.pos.baidu.com/*
+http://cpro.baidustatic.com/*
+http://ubmcmm.baidustatic.com/*
+https://hm.baidu.com/*
+*/cpro/ui/c.js
 ##iframe[src^="https://static-alias-1.360buyimg.com/"]
-
+||images.sohu.com/*
 
 !site:
 pcbeta.com##div[id="wp"]>style+div
