@@ -9,41 +9,12 @@
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 www.xiniuz.com
 #down-360
-127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 down.360.cn
-127.0.0.1 msoftdl.360.cn
-127.0.0.1 shouji.360.cn
-#down-baidu/anquan
-127.0.0.1 anquan.baidu.com
-127.0.0.1 antivirus.baidu.com
-127.0.0.1 dl-vip.bav.baidu.com
-127.0.0.1 dl1sw.baidu.com
-127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dlsw.baidu.com
-127.0.0.1 download.bav.baidu.com
-127.0.0.1 download.sd.baidu.com
-127.0.0.1 shadu.baidu.com
-127.0.0.1 w.gdown.baidu.com
-127.0.0.1 w.x.baidu.com
-127.0.0.1 weishi.baidu.com
-#down-baidu/bar-browser
-127.0.0.1 bar.baidu.com
-127.0.0.1 dl.client.baidu.com
-127.0.0.1 dzl.baidu.com
-127.0.0.1 j.br.baidu.com
-127.0.0.1 sobar.baidu.com
-127.0.0.1 toolbar.baidu.com
-#down-baidu/cleaner
-127.0.0.1 dl-vip.pcfaster.baidu.co.th
-#down-baidu/down
-127.0.0.1 dl.ops.baidu.com
-127.0.0.1 rj.baidu.com
-127.0.0.1 dlsw.br.baidu.com
 #down-baidu/hao123
 127.0.0.1 update.123juzi.net
 #down-jiedaibao

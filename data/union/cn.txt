@@ -776,6 +776,7 @@
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
+127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
@@ -979,7 +980,6 @@
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
-#qtmojo
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 77kb.qucaigg.com

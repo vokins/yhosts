@@ -53,3 +53,7 @@
 127.0.0.1 m.tdoup.com
 127.0.0.1 m.wbanz.com
 127.0.0.1 zwwa.h2pzh.cn
+127.0.0.1 m2u.376710.com
+127.0.0.1 e.fdoun.com
+127.0.0.1 e.wbanz.com
+127.0.0.1 hyjss.tkshyp.com

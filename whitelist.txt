@@ -12,6 +12,25 @@ g.163.com
 gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
 127.0.0.1 app.adjust.com 微软安全相关通知等
 www.3533.com 网页图片被误杀：p.abcache.com
+http://acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
+#127.0.0.1 acs4baichuan.m.taobao.com pp助手淘宝登录授权拉起
+127.0.0.1 adashbc.m.taobao.com 
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 agoodm.m.taobao.com
+127.0.0.1 apoll.m.taobao.com
+127.0.0.1 unitacs.m.taobao.com
+127.0.0.1 w.m.taobao.com
+127.0.0.1 api.waptest.taobao.com
+
+paimgcdn.baidu.com
+map-mobile-lbsapp.cdn.bcebos.com
+http://lbsnavi.cdn.bcebos.com:443
 
 127.0.0.1 api.xk.miui.com
 

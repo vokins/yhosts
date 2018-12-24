@@ -13,20 +13,6 @@
 127.0.0.1 www.baihe.com
 127.0.0.1 www.jiayuan.com
 #cant del account
-127.0.0.1 a.qbao.com
-127.0.0.1 agent.qbao.com
-127.0.0.1 bc.qbao.com
-127.0.0.1 detail.qbao.com
-127.0.0.1 enterprise.qbao.com
-127.0.0.1 events.qbao.com
-127.0.0.1 m.qbao.com
-127.0.0.1 qhb.qbao.com
-127.0.0.1 qn-act.qbcdn.com
-127.0.0.1 store.qbao.com
-127.0.0.1 vc.qbao.com
-127.0.0.1 www.qbao.com
-127.0.0.1 www.dlingspace.com
-127.0.0.1 www.youpiaole.com
 127.0.0.1 www.zhongmin.cn
 127.0.0.1 www.aihuishou.com
 127.0.0.1 www.gome.com.cn

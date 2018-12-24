@@ -1,5 +1,5 @@
 
-#version=201812221545
+#version=201812241318
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -159,18 +159,14 @@
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 phs.tanx.com
-127.0.0.1 acs4baichuan.m.taobao.com
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 adashbc.m.taobao.com
-127.0.0.1 adashbc.ut.taobao.com
-127.0.0.1 adashx.m.taobao.com
-127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 ai.m.taobao.com
-127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 m-adash.m.taobao.com
-127.0.0.1 nbsdk-baichuan.taobao.com
+127.0.0.1 ai.taobao.com
+127.0.0.1 re.m.taobao.com
+127.0.0.1 re.taobao.com
 127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 show.re.taobao.com
 127.0.0.1 strip.taobaocdn.com
+127.0.0.1 temai.taobao.com
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
@@ -262,16 +258,6 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
-127.0.0.1 agoodm.m.taobao.com
-127.0.0.1 apoll.m.taobao.com
-127.0.0.1 unitacs.m.taobao.com
-127.0.0.1 w.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 api.waptest.taobao.com
-127.0.0.1 temai.taobao.com
-127.0.0.1 re.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 show.re.taobao.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
@@ -362,7 +348,6 @@
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 openrcv.baidu.com
-127.0.0.1 paimgcdn.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 hpd.baidu.com
@@ -1098,37 +1083,12 @@
 127.0.0.1 update.minipage.2345.com
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 www.xiniuz.com
-127.0.0.1 openbox.mobilem.360.cn
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 down.360.cn
-127.0.0.1 msoftdl.360.cn
-127.0.0.1 shouji.360.cn
-127.0.0.1 anquan.baidu.com
-127.0.0.1 antivirus.baidu.com
-127.0.0.1 dl-vip.bav.baidu.com
-127.0.0.1 dl1sw.baidu.com
-127.0.0.1 dl2.bav.baidu.com
-127.0.0.1 dlsw.baidu.com
-127.0.0.1 download.bav.baidu.com
-127.0.0.1 download.sd.baidu.com
-127.0.0.1 shadu.baidu.com
-127.0.0.1 w.gdown.baidu.com
-127.0.0.1 w.x.baidu.com
-127.0.0.1 weishi.baidu.com
-127.0.0.1 bar.baidu.com
-127.0.0.1 dl.client.baidu.com
-127.0.0.1 dzl.baidu.com
-127.0.0.1 j.br.baidu.com
-127.0.0.1 sobar.baidu.com
-127.0.0.1 toolbar.baidu.com
-127.0.0.1 dl-vip.pcfaster.baidu.co.th
-127.0.0.1 dl.ops.baidu.com
-127.0.0.1 rj.baidu.com
-127.0.0.1 dlsw.br.baidu.com
 127.0.0.1 update.123juzi.net
 127.0.0.1 d.elong.cn
 127.0.0.1 mhuodong.elong.com
@@ -2087,6 +2047,10 @@
 127.0.0.1 m.tdoup.com
 127.0.0.1 m.wbanz.com
 127.0.0.1 zwwa.h2pzh.cn
+127.0.0.1 m2u.376710.com
+127.0.0.1 e.fdoun.com
+127.0.0.1 e.wbanz.com
+127.0.0.1 hyjss.tkshyp.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -5878,6 +5842,7 @@
 127.0.0.1 v3.jiathis.com
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
+127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io

@@ -48,7 +48,6 @@
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 openrcv.baidu.com
-127.0.0.1 paimgcdn.baidu.com
 #baidu-news
 127.0.0.1 cpu.baidu.com
 127.0.0.1 cpu-admin.baidu.com
