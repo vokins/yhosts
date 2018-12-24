@@ -48,11 +48,6 @@
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 openrcv.baidu.com
-#baidu-news
-127.0.0.1 cpu.baidu.com
-127.0.0.1 cpu-admin.baidu.com
-127.0.0.1 hpd.baidu.com
-127.0.0.1 feed.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 127.0.0.1 tob-cms.bj.bcebos.com

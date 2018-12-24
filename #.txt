@@ -7,6 +7,12 @@ Various:提一个建议加白名单的
 log.mmstat.com
 拦截之后优酷会提示请允许 cookie 存储
 
+#baidu-news
+127.0.0.1 cpu.baidu.com
+127.0.0.1 cpu-admin.baidu.com
+127.0.0.1 hpd.baidu.com
+127.0.0.1 feed.baidu.com
+
 https://license.piriform.com/api/v1/license/status?p=ccpro&c=cc&cv=5.49.6856&l=2052&lk=C2YW-9CJ6-EI4X-CYHR-UZPC&mk=7EF4-9CHH-EUP8-MH9W-PVYS-BZNT-Y6CV-TV4W-KAF5&mx=EE3A15642AD2D17056EB9516C16249F521520CEB908C954988D6EFB45C1E8913&gd=b5cb13fc-9b11-48e3-a8b7-a2a13579ad86
 
 http://d1.cnr.cn/2014cnradv/jj300.swf
