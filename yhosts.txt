@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.92
+! Version: 0.95
 ! Title: yHosts
-! Last modified: 20:14 2018/12/24
+! Last modified: 18:51 2018/12/30
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -1034,7 +1034,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||paochala.net^
 ||paomifen.cn^
 ||pbino.com^
-||pc6.com^
 ||pcaoo.com^
 ||penggua.com^.cn^
 ||peoplecdn.cn^

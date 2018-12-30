@@ -2016,7 +2016,6 @@
 127.0.0.1 yunbofangbt.com
 127.0.0.1 yundingjiayuan.com
 127.0.0.1 yxs.tymsyx.com
-127.0.0.1 yyb.pc6.com
 127.0.0.1 yyffeicd.m.qxs.la
 127.0.0.1 yzh.jyjhkz.com
 127.0.0.1 z.moatads.com

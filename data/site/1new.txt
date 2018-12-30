@@ -70,3 +70,14 @@
 127.0.0.1 rbbf.07kfh.cn
 127.0.0.1 x.9zt8hy.com
 127.0.0.1 xiny.yssbi.net
+127.0.0.1 e.zcaod.com
+127.0.0.1 m.vbinr.com
+127.0.0.1 m.zcaod.com
+127.0.0.1 photo.ofsja.cn
+127.0.0.1 e.glvej.com
+127.0.0.1 e.xcouv.com
+127.0.0.1 ixnj.8j24h.cn
+127.0.0.1 m.glvej.com
+127.0.0.1 m.izuis.com
+127.0.0.1 m.wbaoz.com
+127.0.0.1 m.xcouv.com
