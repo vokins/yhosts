@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.95
+! Version: 0.97
 ! Title: yHosts
-! Last modified: 18:51 2018/12/30
+! Last modified: 19:05 2019-01-03
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -826,7 +826,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||klz28.com^
 ||km.com^
 ||kngcjx.com^
-||knowsky.com^
 ||koudaibl.com^
 ||kp53.cn^
 ||kuaibaopay.com^
@@ -1023,7 +1022,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||opqsr.com^
 ||oq68.com^
 ||orchidscape.net^
-||org.cn^
 ||ousns.net^
 ||ox11.com^
 ||oyrim.com^
