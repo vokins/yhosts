@@ -1264,12 +1264,6 @@
 127.0.0.1 www.yhd.com
 127.0.0.1 www.hisense.cn
 127.0.0.1 www.hisense.com
-127.0.0.1 www.aifou.cn
-#phone
-127.0.0.1 www.flyme.cn
-127.0.0.1 bbs.meizu.cn
-127.0.0.1 store.meizu.com
-127.0.0.1 www.meizu.com
 #sns
 127.0.0.1 www.baihe.com
 127.0.0.1 www.jiayuan.com
@@ -2549,6 +2543,10 @@
 127.0.0.1 qorf.nxh2h.cn
 127.0.0.1 www.kanshuapp.com
 127.0.0.1 x.china1715.com
+127.0.0.1 m.enrogwm.cn
+127.0.0.1 a.wanrenshe.com
+127.0.0.1 m.msujd.cn
+127.0.0.1 m.xcfwnhj.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
