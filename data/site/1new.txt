@@ -100,3 +100,6 @@
 127.0.0.1 a.wanrenshe.com
 127.0.0.1 m.msujd.cn
 127.0.0.1 m.xcfwnhj.cn
+127.0.0.1 jyfght.cn
+127.0.0.1 qoub.rtslgov.cn
+127.0.0.1 www.nnnwwwe.com
