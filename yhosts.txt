@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.97
+! Version: 0.99
 ! Title: yHosts
-! Last modified: 19:05 2019-01-03
+! Last modified: 23:14 2019/1/10
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -491,7 +491,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||f5gh.com^
 ||f70123.com^
 ||faacliltate.com^
-||faloo.com^
 ||fastcache.com^.cn^
 ||fastpopunder.com^
 ||fbaix.com^
@@ -599,7 +598,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||gxdhgb.com^
 ||gxjfh.com^
 ||gxkyl.com^
-||gxwztv.com^
 ||gyeet.com^
 ||gytygc.com^
 ||gz9d.com^
@@ -617,7 +615,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||haodongkeji.cn^
 ||haohaowan8.com^
 ||haoquangou.cn^
-||haotxt.com^
 ||haowj.com^.cn^
 ||haoxinjaju.com^
 ||harbinbaojia.net^
@@ -1162,7 +1159,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||shucong.com^
 ||shuimujinggong.com^
 ||shuoshuocm.com^
-||shushu8.com^
 ||shxinjie.cn^
 ||shyexiang.cn^
 ||siemens6es7.com^
@@ -1179,7 +1175,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||soogif.com^
 ||soonyou123.com^
 ||sosjyx.com^
-||souid.com^
 ||sp96878.com^
 ||ss.cn^czjy.com^
 ||sss1989.com^
@@ -1474,7 +1469,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||yiiwoo.com^
 ||yiiyoo.net^
 ||yijikm.com^
-||yikanxiaoshuo.net^
 ||yingchengtou.com^
 ||yingshidiguo.cn^
 ||yinyuehu.cn^
@@ -1521,7 +1515,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||yunpifu.cn^
 ||yuntzs.com^
 ||yuxyz.com^
-||yuyouge.com^
 ||yuyue007.cn^
 ||ywrjgzs.com^
 ||yxlady.com^
