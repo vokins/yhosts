@@ -117,3 +117,11 @@
 127.0.0.1 ulok.zutodu.cn
 127.0.0.1 www.aabbttuu.com
 127.0.0.1 m.tbaia.com
+127.0.0.1 e.mhuos.com
+127.0.0.1 e.wcenr.com
+127.0.0.1 jjk.sxklm.cn
+127.0.0.1 m.bgaix.com
+127.0.0.1 m.mhuos.com
+127.0.0.1 m.wdeie.com
+127.0.0.1 m.ybaiu.com
+127.0.0.1 nidq.zxin131.cn

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.99
+! Version: 0.12
 ! Title: yHosts
-! Last modified: 23:14 2019/1/10
+! Last modified: 23:33 2019/1/11
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -36,6 +36,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||0531mnk.net^
 ||0571yy.com^
 ||0594529.com^
+||07kfh.cn^
 ||08an.com^
 ||0fwg.cn^
 ||0i-i0.com^
@@ -103,8 +104,9 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||35baba.cn^
 ||360doc.cn^
 ||360jiaquan.com^
-||360shopping.com^.cn^
+||360shopping.com.cn^
 ||365yigou.cn^
+||376710.com^
 ||37wan.cn^
 ||38c99.com^
 ||3975.com^
@@ -133,7 +135,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||5442.com^
 ||5634.com^
 ||5675146.com^
-||57.com^.cn^
+||57.com.cn^
 ||578965.com^
 ||5814889.com^
 ||5857.com^
@@ -167,6 +169,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||77rog.com^
 ||77vcd.com^
 ||7ez4.cn^
+||7ia9h.cn^
 ||7mnpeh.com^1
 ||8066hg.com^
 ||8269996.com^
@@ -179,6 +182,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||888zr022.com^
 ||88cncc.com^
 ||892155.com^
+||8j24h.cn^
 ||910weixin.com^
 ||91friend.com^
 ||91wangmeng.com^
@@ -191,14 +195,17 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||99pps.com^
 ||9ads.net^
 ||9dreams.net^
+||9pb0h.cn^
 ||9xzj.com^
 ||9y88.com^
 ||9yyg.cn^
+||9zt8hy.com^
 ||a.cn^
 ||a0b11.com^
 ||a0c77.com^
 ||a3p4.net^
 ||a907907.com^
+||aabbttuu.com^
 ||aangc.com^
 ||abeij.com^
 ||abfirst.cn^
@@ -227,6 +234,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||afoux.com^
 ||agkn.com^
 ||ahjinshu.com^
+||ahuac.com^
 ||aibangzs.com^
 ||aikeapp.com^
 ||aishake.cn^
@@ -270,6 +278,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||b7nkd.cn^
 ||baful.net^
 ||baichuanhd.cn^
+||baiduspider1.cn^
 ||baiduyubaidu.com^
 ||baigm.com^
 ||baixing.com^
@@ -298,6 +307,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||bendibao.com^
 ||bentengcn.com^
 ||bewaycare.com^
+||bgaix.com^
 ||bhzje7ua9.com^
 ||biboi.cn^
 ||bikaer.com^
@@ -309,6 +319,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||bjhdonline.com^
 ||bjygfd.com^
 ||bkdg.net^
+||blfyquz.cn^
 ||bllzgqbyp.com^
 ||bmgan.com^
 ||bnuni.com^
@@ -325,13 +336,14 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||by175.com^
 ||bytdzsw.com^
 ||bzshzx.com^
-||c-ptsp.com^.cn^
+||c-ptsp.com.cn^
 ||caduka.cn^
 ||cailawyer.cn^
 ||cainiaofx.com^
 ||caohua.com^
 ||casbanlly.com^
 ||cbeif.com^
+||cccab.club^
 ||cchfjz.com^
 ||ccunf.com^
 ||cdfzcz.com^
@@ -356,6 +368,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||chenhuia.com^
 ||chexiw.com^
 ||chfuw.com^
+||china1715.com^
 ||chinahdcm.com^
 ||chuiyue.com^
 ||cjieh.com^
@@ -363,6 +376,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||clickadu.com^
 ||clouddn.com^
 ||cloudfront.net^
+||cnscdj.com^
 ||codejumps.com^
 ||codlw.com^
 ||coenr.com^
@@ -411,9 +425,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||dazhonghua.cn^
 ||dbaij.com^
 ||dbaiz.com^
+||dbeii.com^
 ||dbeij.com^
+||dbiei.com^
 ||dbiej.com^
 ||dcaij.com^
+||dceni.com^
 ||ddpxhq.cn^
 ||ddstu.com^
 ||ddvip.com^
@@ -454,6 +471,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||duanxin520.com^
 ||duias.com^
 ||dunmm.com^
+||duobaoqj.com^
 ||duoyi.com^
 ||dupinpu.com^
 ||dwstatic.com^
@@ -472,16 +490,20 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||eddong.com^
 ||edo5.com^
 ||edysn.cn^
+||efeir.com^
 ||efeiy.com^
 ||ehxyz.com^
 ||ejuen.com^
 ||ejunshi.com^
 ||ejunshi.net^
 ||emgwq.com^
+||emshx.cn^
 ||enjuk.com^
 ||enjuw.com^
+||enrogwm.cn^
 ||enyayinxiang.com^
 ||epernn.cn^
+||eqiuy.com^
 ||eshuy.com^
 ||esptj.com^
 ||extstat.com^
@@ -491,14 +513,17 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||f5gh.com^
 ||f70123.com^
 ||faacliltate.com^
-||fastcache.com^.cn^
+||fastcache.com.cn^
 ||fastpopunder.com^
 ||fbaix.com^
 ||fbaot.com^
+||fbieq.com^
 ||fcaot.com^
 ||fccxgjg.com^
 ||fcuit.com^
+||fcunq.com^
 ||fd7c.com^
+||fdoun.com^
 ||fecjf.cn^
 ||feirs.com^
 ||feitian001.com^
@@ -533,7 +558,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||fu68.com^
 ||fugetech.com^
 ||fuimg.com^
-||funshion.net^.cn^
+||funshion.net.cn^
 ||fwjoi.com^
 ||fy1g.com^
 ||fzdfwy.com^
@@ -566,8 +591,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||ghac.cn^
 ||gj500.com^
 ||gjghy.com^
+||gjiaj.com^
 ||gjiak.com^
+||gjuet.com^
+||glvej.com^
 ||godloveme.cn^
+||gongkao.hn.cn^
 ||goolpter.com^
 ||gostats.cn^
 ||gotoip4.com^
@@ -598,6 +627,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||gxdhgb.com^
 ||gxjfh.com^
 ||gxkyl.com^
+||gxunj.com^
 ||gyeet.com^
 ||gytygc.com^
 ||gz9d.com^
@@ -606,6 +636,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||gzhctryy.com^
 ||gzsanxiaomingshi.cn^
 ||gzzena.com^
+||h2pzh.cn^
 ||h5game.cn^
 ||hainan.net^
 ||haiyunx.com^
@@ -615,7 +646,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||haodongkeji.cn^
 ||haohaowan8.com^
 ||haoquangou.cn^
-||haowj.com^.cn^
+||haowj.com.cn^
 ||haoxinjaju.com^
 ||harbinbaojia.net^
 ||hawbfa.com^
@@ -627,8 +658,10 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||hcenc.com^
 ||hchag.com^
 ||hchig.com^
+||hcwifi.cn^
 ||hdhkwl.com^
 ||hdswgc.com^
+||hduic.com^
 ||he2d.com^
 ||headwell.cn^
 ||hechaocheng.cn^
@@ -651,8 +684,10 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||hkmqp.com^
 ||hldwmly.com^
 ||hmhqp.com^
+||hmnjf.com^
 ||hndiyikj.com^
 ||hnfpgm.com^
+||hnfxty.cn^
 ||hnhbyxdq.com^
 ||hnhgw.cn^
 ||hnzyfs.com^
@@ -683,6 +718,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||hyhzy.cn^
 ||hyjyjc.com^
 ||hytdsm.com^
+||hywly.com^
 ||hyz86.com^
 ||hyzui.com^
 ||hzht666.com^
@@ -692,13 +728,15 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||iangp.com^
 ||ibafnw.cn^
 ||ibaiducdn.com^
+||ibaop.com^
+||ibeip.com^
 ||ibinp.com^
 ||icdxc.com^
 ||icyrd.com^
 ||id528.com^
 ||idasui.cn^
 ||idate520.com^
-||idgdmg.com^.cn^
+||idgdmg.com.cn^
 ||iefsf.com^
 ||ienkdaccessible.cn^
 ||ienkdaccessory.cn^
@@ -728,8 +766,10 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||iuuff.com^
 ||ixiumei.com^
 ||iz55.com^
+||izuis.com^
 ||jagcn.com^
 ||jav23.com^
+||jbanb.com^
 ||jbbath.cn^
 ||jbflil.cn^
 ||jbzj.com^
@@ -749,6 +789,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||jianduankm.com^
 ||jiangmg.com^
 ||jianzhigg.com^
+||jiaxiyuan.cn^
 ||jieyixiu.com^
 ||jihehuaban.com^
 ||jiirz.com^
@@ -787,8 +828,8 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||jx5m.com^
 ||jxhcyc.com^
 ||jxmqkj.com^
-||jxnews.com^.cn^
 ||jxxiangchu.com^
+||jyfght.cn^
 ||jyhwt.cn^
 ||jyjhkz.com^
 ||jystea.com^
@@ -796,6 +837,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||jzntxs.com^
 ||k429fma.com^
 ||kaitongyewu.com^
+||kanshuapp.com^
 ||kawinhome.com^
 ||kbf365.cn^
 ||kchaq.com^
@@ -828,6 +870,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||kuaibaopay.com^
 ||kuaigeng.com^
 ||kuaizhan.com^
+||kuaizq.com^
 ||kuangtuiguoo18888.com^
 ||kudifish.com^
 ||kuhou.com^
@@ -854,9 +897,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||lbaij.com^
 ||lbaoj.com^
 ||lchar.com^
+||ldgjhd.net^
 ||lessplay.com^
 ||lfdydk.com^
+||lfhnkp.com^
 ||lflili.com^
+||lguir.com^
 ||liangao.com^
 ||lianwangtech.com^
 ||lieqitianxia.cn^
@@ -908,18 +954,22 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mbiek.com^
 ||mbsea.com^
 ||mcaik.com^
+||mconedh.cn^
 ||mctvhp.cn^
+||mdous.com^
 ||media8.cn^
 ||meilika.net^
 ||meimeidaren.com^
 ||meitumq.com^
 ||mendoc.cn^
 ||mengchengbao.com^
+||mengheyu.com^
 ||mengpr.com^
 ||mengyuanwei.com^
 ||mgldzcls.com^
 ||mgsue.cn^
 ||mgwcn.com^
+||mhuos.com^
 ||miaiche.cn^
 ||miaobeichina.com^
 ||mie99.net^
@@ -933,6 +983,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mjlnbx.cn^
 ||mkmp365.com^
 ||mmkvi.com^
+||mmpuh.cn^
 ||mn586.com^
 ||mnjkw.cn^
 ||mnkan.com^
@@ -950,6 +1001,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mrsasharingspace.com^
 ||mrtuo.com^
 ||ms.cn^czjy.com^
+||msujd.cn^
 ||mt145.com^
 ||mtqys.com^
 ||mtuoa.com^
@@ -982,11 +1034,13 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||niudashu.com^
 ||niuliyan.cn^
 ||niuxgame77.com^
+||njiet.com^
 ||njmpacc.com^
 ||njxczy.com^
 ||nmpcdn.com^
 ||nmtouzi.com^
 ||nnfiy.com^
+||nnnwwwe.com^
 ||nouaa.com^
 ||nr1234.com^
 ||nryiou.cn^
@@ -1001,11 +1055,13 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||nvshenfan.com^
 ||nwxzs.com^
 ||nx5.com^
+||nxh2h.cn^
 ||nxkycx.com^
 ||nxypz.com^
 ||nykps.com^
 ||oesnw.com^
 ||office-mall.net^
+||ofsja.cn^
 ||ojues.com^
 ||okfhn.com^
 ||okmgy.cn^
@@ -1030,7 +1086,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||paomifen.cn^
 ||pbino.com^
 ||pcaoo.com^
-||penggua.com^.cn^
+||penggua.com.cn^
 ||peoplecdn.cn^
 ||phonthing.com^
 ||pi920.com^
@@ -1046,6 +1102,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||pj550077.com^
 ||pjbjzf.com^
 ||pk1179.com^
+||pkbrxja.cn^
 ||pkesports.cn^
 ||plokr.com^
 ||pnhfc.com^
@@ -1070,6 +1127,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||pzuth.cn^
 ||qcw.com^
 ||qcwzx.net.cn^
+||qdiut.com^
 ||qflwh.cn^
 ||qhdfxkj.com^
 ||qhuik.com^
@@ -1116,6 +1174,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||ronghub.com^
 ||rongnews.com^
 ||rscxwmj.cn^
+||rtslgov.cn^
 ||ruyiqufu.com^
 ||ryre.cn^
 ||s06th.cn^
@@ -1123,6 +1182,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||s8dj.com^
 ||s9377.com^
 ||sa909.com^
+||sadobo.com^
 ||saiqizhi.com^
 ||sanhao3.com^
 ||sanitwealth.com^
@@ -1198,6 +1258,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||sxdyrq.com^
 ||sxjkc.cn^
 ||sxjxhg.com^
+||sxklm.cn^
 ||sxmdxy.com^
 ||sxmutan.com^
 ||sxuantang.com^
@@ -1232,15 +1293,22 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||taobaobo5.com^
 ||tatahn.com^
 ||tatatimes.com^
+||tbaia.com^
+||tbaip.com^
 ||tbaiq.com^
+||tbenc.com^
 ||tbenq.com^
 ||tbieq.com^
 ||tbinq.com^
 ||tcdxt.com^
+||tcenn.com^
 ||tchep.com^
 ||tctyb.cn^
+||tdiea.com^
+||tdoup.com^
 ||tdtsd.com^
 ||tebaidu.cn^
+||tenh2.cn^
 ||th21333.com^
 ||thztv.net^
 ||tiankongzudui.com^
@@ -1251,7 +1319,9 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||tiojk.com^
 ||tjgxzs.com^
 ||tjhuajiantang.com^
+||tjiaa.com^
 ||tkmdng.cn^
+||tkshyp.com^
 ||todgo.com^
 ||tongjiwo.com^
 ||tsdlp.com^
@@ -1286,8 +1356,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||uca6.com^
 ||ucaii.com^
 ||uchij.com^
-||ucqq.cn^sptv.com^.cn^
-||ucweb.com^
 ||uissm.com^
 ||um29.com^
 ||umm6.cn^
@@ -1305,16 +1373,20 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||vangmobi.com^
 ||vaxyz.com^
 ||vbaiu.com^
+||vbanm.com^
 ||vbaou.com^
 ||vbieu.com^
+||vbinr.com^
 ||vbinu.com^
 ||vbxx.net^
+||vchim.com^
 ||ve001nz.com^
 ||vedeh.com^
 ||vf5yb4.cn^
 ||vgaom.com^
 ||vichc.com^
 ||vip97.net^
+||vjuei.com^
 ||vjuer.com^
 ||vlion.cn^
 ||vmzqwz.cn^
@@ -1331,13 +1403,22 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||wangdq.com^
 ||wangketuan.com^
 ||wankeedu.com^
+||wanrenshe.com^
 ||wantaico.com^
 ||wapadv.com^
+||wbaie.com^
 ||wbaiz.com^
 ||wbanv.com^
+||wbanz.com^
+||wbaoz.com^
+||wbeiz.com^
 ||wbies.com^
 ||wbiev.com^
+||wcaos.com^
+||wcenr.com^
 ||wcjup.com^
+||wdeie.com^
+||wduis.com^
 ||webkooo.com^
 ||weekslw.com^
 ||weiduofan.com^
@@ -1349,6 +1430,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||wgewj.cn^
 ||whafwl.com^
 ||whcrdz.com^
+||whshangsha.com^
 ||whsjg.cn^
 ||whxhhjx.com^
 ||wikigifth.com^
@@ -1390,11 +1472,15 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||xbaiv.com^
 ||xbzzzx.com^
 ||xcdf.cn^
+||xcfwnhj.cn^
+||xcouv.com^
 ||xdkje.com^
 ||xdunv.com^
 ||xeihy.com^
 ||xhaiu.com^
+||xhbaihehang.com^
 ||xhct66.com^
+||xhera.cn^
 ||xiacai.com^
 ||xiacaidd.com^
 ||xiangchim0.com^
@@ -1413,6 +1499,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||xingtangshuo.com^
 ||xinlongrubber.com^
 ||xitongmonitor.com^
+||xjditan.com^
 ||xjtxcj.com^
 ||xjzyq.com^
 ||xkena.com^
@@ -1451,6 +1538,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||yangjingbang.net^
 ||yanpoly.com^
 ||ybaih.com^
+||ybaiu.com^
 ||ybaoh.com^
 ||ybeih.com^
 ||ybtianxi.com^
@@ -1496,10 +1584,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||youle55.com^
 ||youmsm.com^
 ||yqjxzw.com^
+||yqydjr.cn^
 ||ysdangan.com^
 ||ysdhe.com^
 ||ysgsq.cn^
 ||ysjweb.com^
+||yssbi.net^
 ||ytdksb.com^
 ||ytqmx.com^
 ||ytshuirun.com^
@@ -1520,12 +1610,15 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||yxlady.com^
 ||yyeks.com^
 ||yyjhf.com^
+||yymmsd.cn^
 ||yzaosite.com^
 ||yzjlsb.com^
 ||zabxb.com^
 ||zaoss.com^
 ||zbied.com^
 ||zbred.com^
+||zcand.com^
+||zcaod.com^
 ||zdzxyplyt.com^
 ||zeiaa.com^
 ||zenffs.cn^
@@ -1534,6 +1627,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||zgclmw.cn^
 ||zgncpjyw.cn^
 ||zh1155.com^
+||zhamm.cn^
 ||zhandao.net^
 ||zhangyoubao.com^
 ||zhanzhang.net^
@@ -1566,8 +1660,10 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||zszwcp.cn^
 ||zunss.com^
 ||zuopp.com^
+||zutodu.cn^
 ||zx-jsp.com^
 ||zx590.com^
+||zxin131.cn^
 ||zxziyuan.com^
 ||zyiis.net^
 ||zyrfanli.com^
