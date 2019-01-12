@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.12
+! Version: 0.13
 ! Title: yHosts
-! Last modified: 23:33 2019/1/11
+! Last modified: 15:51 2019/1/12
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -374,8 +374,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||cjieh.com^
 ||ckikq.com^
 ||clickadu.com^
-||clouddn.com^
-||cloudfront.net^
 ||cnscdj.com^
 ||codejumps.com^
 ||codlw.com^
@@ -480,7 +478,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||dyscsm.cn^
 ||dzribao.com^
 ||dzytjqcc.com^
-||e.cn^-3drp.com^
 ||e7001.com^
 ||e7002.com^
 ||e7009.com^
@@ -1000,7 +997,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||mqgpo.com^
 ||mrsasharingspace.com^
 ||mrtuo.com^
-||ms.cn^czjy.com^
 ||msujd.cn^
 ||mt145.com^
 ||mtqys.com^
@@ -1027,7 +1023,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||newbelden.com^
 ||newrelic.com^
 ||nextlnk9.com^
-||nfh.cn^shef.com^
 ||nfkos.com^
 ||niegg.com^
 ||ningbojipiao.com^
@@ -1236,7 +1231,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||soonyou123.com^
 ||sosjyx.com^
 ||sp96878.com^
-||ss.cn^czjy.com^
 ||sss1989.com^
 ||sssgao999.com^
 ||star-media.cn^
@@ -1282,7 +1276,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||szxiuchang.com^
 ||szyr474.com^
 ||szzek.com^
-||t.cn^sjx.net^
 ||t5yx.cn^
 ||t71q.com^
 ||t98u8f.com^
@@ -1504,7 +1497,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||xjzyq.com^
 ||xkena.com^
 ||xkqpco.com^
-||xkqpco.com^.com^
 ||xlsschina15.net^
 ||xlylqx.com^
 ||xmgysweb.com^
