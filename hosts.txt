@@ -2444,6 +2444,7 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 e.wdeie.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
