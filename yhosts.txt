@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.13
+! Version: 0.15
 ! Title: yHosts
-! Last modified: 15:51 2019/1/12
+! Last modified: 0:36 2019/1/16
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -170,7 +170,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||77vcd.com^
 ||7ez4.cn^
 ||7ia9h.cn^
-||7mnpeh.com^1
 ||8066hg.com^
 ||8269996.com^
 ||8368661.com^
