@@ -1,5 +1,5 @@
 
-#version=201901132335
+#version=20190116 110
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1988,6 +1988,15 @@
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
 127.0.0.1 e.wdeie.com
+127.0.0.1 bbs.search.nkwwnx.com
+127.0.0.1 e.ezuon.com
+127.0.0.1 e.kcenu.com
+127.0.0.1 m.achuc.com
+127.0.0.1 m.ddanf.com
+127.0.0.1 m.ezuon.com
+127.0.0.1 m.kcenu.com
+127.0.0.1 qrrl.cwj2h.cn
+127.0.0.1 www.oollttqq.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2497,6 +2506,8 @@
 127.0.0.1 adimgs.xici.net
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 a.77shw.com
+127.0.0.1 b.77shw.com
 127.0.0.1 zhggw.dre8.com
 127.0.0.1 wxggtg.dre8.com
 127.0.0.1 adsame1.cnr.cn

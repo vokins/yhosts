@@ -1,1 +1,10 @@
 127.0.0.1 e.wdeie.com
+127.0.0.1 bbs.search.nkwwnx.com
+127.0.0.1 e.ezuon.com
+127.0.0.1 e.kcenu.com
+127.0.0.1 m.achuc.com
+127.0.0.1 m.ddanf.com
+127.0.0.1 m.ezuon.com
+127.0.0.1 m.kcenu.com
+127.0.0.1 qrrl.cwj2h.cn
+127.0.0.1 www.oollttqq.com
