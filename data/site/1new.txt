@@ -8,3 +8,12 @@
 127.0.0.1 m.kcenu.com
 127.0.0.1 qrrl.cwj2h.cn
 127.0.0.1 www.oollttqq.com
+127.0.0.1 e.wjier.com
+127.0.0.1 e.ybanj.com
+127.0.0.1 m.ejiur.com
+127.0.0.1 m.hchik.com
+127.0.0.1 m.pcuna.com
+127.0.0.1 m.themee.cn
+127.0.0.1 m.wjier.com
+127.0.0.1 m.ybanj.com
+127.0.0.1 xtsk.6yush.cn
