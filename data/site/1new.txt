@@ -17,3 +17,10 @@
 127.0.0.1 m.wjier.com
 127.0.0.1 m.ybanj.com
 127.0.0.1 xtsk.6yush.cn
+127.0.0.1 bcuh.tinwong.cn
+127.0.0.1 dianrui.com
+127.0.0.1 e.ejiur.com
+127.0.0.1 e.ycuoj.com
+127.0.0.1 m.ocenp.com
+127.0.0.1 m.wcail.com
+127.0.0.1 m.ycuoj.com

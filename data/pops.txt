@@ -720,7 +720,6 @@
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hda.maxli.cn
 127.0.0.1 hdb.maxli.cn
-127.0.0.1 hdggcdn.bayimob.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 hechaocheng.cn
 127.0.0.1 help.baotangwang.cn
@@ -795,7 +794,6 @@
 127.0.0.1 in.mgwcn.com
 127.0.0.1 in.qzkxt.com
 127.0.0.1 ini.litingxin.cn
-127.0.0.1 interaction.bayimob.com
 127.0.0.1 ioc.mmakd.top
 127.0.0.1 ioek.okshishi.com
 127.0.0.1 ip.hivps.xyz

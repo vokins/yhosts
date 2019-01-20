@@ -53,6 +53,9 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 adpublish.ydstatic.com
+#bayimob.com
+127.0.0.1 hdggcdn.bayimob.com
+127.0.0.1 interaction.bayimob.com
 #baidu1
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
@@ -746,6 +749,7 @@
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
 127.0.0.1 api.growingio.com
+127.0.0.1 assets.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com

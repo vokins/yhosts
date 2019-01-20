@@ -232,6 +232,9 @@
 127.0.0.1 xmrminer.cc
 127.0.0.1 coinhive.com
 127.0.0.1 www.coinhive.com
+127.0.0.1 activity.clotfun.xyz
+127.0.0.1 c.ningmengnm.cn
+127.0.0.1 4336wang.cn
 @hijack/x-router
 127.0.0.1 info.yitsoftware.com
 @popup

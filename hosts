@@ -1,5 +1,5 @@
 
-#version=20190119 531
+#version=201901201620
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2006,6 +2006,13 @@
 127.0.0.1 m.wjier.com
 127.0.0.1 m.ybanj.com
 127.0.0.1 xtsk.6yush.cn
+127.0.0.1 bcuh.tinwong.cn
+127.0.0.1 dianrui.com
+127.0.0.1 e.ejiur.com
+127.0.0.1 e.ycuoj.com
+127.0.0.1 m.ocenp.com
+127.0.0.1 m.wcail.com
+127.0.0.1 m.ycuoj.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -3398,7 +3405,6 @@
 127.0.0.1 hd.ylddq.com
 127.0.0.1 hda.maxli.cn
 127.0.0.1 hdb.maxli.cn
-127.0.0.1 hdggcdn.bayimob.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 hechaocheng.cn
 127.0.0.1 help.baotangwang.cn
@@ -3473,7 +3479,6 @@
 127.0.0.1 in.mgwcn.com
 127.0.0.1 in.qzkxt.com
 127.0.0.1 ini.litingxin.cn
-127.0.0.1 interaction.bayimob.com
 127.0.0.1 ioc.mmakd.top
 127.0.0.1 ioek.okshishi.com
 127.0.0.1 ip.hivps.xyz
@@ -5244,6 +5249,9 @@
 127.0.0.1 xmrminer.cc
 127.0.0.1 coinhive.com
 127.0.0.1 www.coinhive.com
+127.0.0.1 activity.clotfun.xyz
+127.0.0.1 c.ningmengnm.cn
+127.0.0.1 4336wang.cn
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -5295,6 +5303,8 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 adpublish.ydstatic.com
+127.0.0.1 hdggcdn.bayimob.com
+127.0.0.1 interaction.bayimob.com
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
 127.0.0.1 baichuan.baidu.com
@@ -5900,6 +5910,7 @@
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 127.0.0.1 api.growingio.com
+127.0.0.1 assets.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com
