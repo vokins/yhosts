@@ -72,6 +72,7 @@
 127.0.0.1 shouji.yd126.com
 127.0.0.1 ss.subo.me
 127.0.0.1 static.hotjar.com
+127.0.0.1 suedai.com
 127.0.0.1 tactics.bainv.net
 127.0.0.1 u.raidmedia.com.cn
 127.0.0.1 u.yizuya.com

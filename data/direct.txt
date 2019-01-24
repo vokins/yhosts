@@ -19,3 +19,4 @@
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
 @direct/3rd
+13.107.21.200 cn.bing.com

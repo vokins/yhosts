@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.51
+! Version: 0.52
 ! Title: yLists
-! Last modified: 20:23 2018/12/24
+! Last modified: 22:47 2019/1/24
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -54,3 +54,20 @@ ifeng.com##div[class="embedHzh"]
 www.xinhuanet.com###topAdv
 ||www.btbttv.net/dd/*$image
 ||static.cnbetacdn.com/frontend/vipics/*$image
+
+||ad.dzwww.com^
+||g.163.com^
+||pmm.people.com.cn^
+
+||ai.taobao.com^
+||click.taobao.com^
+
+||cbjs.baidu.com^
+||dup.baidustatic.com^
+
+||imrworldwide.com^
+||qtmojo.com^
+||webterren.com^
+||mediav.com^
+
+https://cdn.v2ex.com/assets/sidebar/*

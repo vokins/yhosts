@@ -1,30 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 0.15
+! Version: 0.16
 ! Title: yHosts
-! Last modified: 0:36 2019/1/16
+! Last modified: 22:47 2019/1/24
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/yhosts.txt
 ! Homepage: https://github.com/vokins/yhosts/blob/master/yhosts.txt
 !
-
-||ad.dzwww.com^
-||g.163.com^
-||pmm.people.com.cn^
-
-||ai.taobao.com^
-||click.taobao.com^
-
-||cbjs.baidu.com^
-||dup.baidustatic.com^
-
-||imrworldwide.com^
-||qtmojo.com^
-||webterren.com^
-||mediav.com^
-
-https://cdn.v2ex.com/assets/sidebar/*
 
 ||000dn.com^
 ||001fzc.com^
@@ -159,7 +142,9 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||6c4t5.cn^
 ||6dvip.com^
 ||6kwan.com^
+||6nzev.cn^
 ||6sfg.com^
+||6yush.cn^
 ||700ok.net^
 ||7080555.com^
 ||70yst.com^
@@ -212,6 +197,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||acaox.com^
 ||acaoz.com^
 ||achig.com^
+||achuc.com^
 ||adaog.com^
 ||adeaz.com^
 ||adgze.cn^
@@ -231,6 +217,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||aes01.com^
 ||affiliategroove.com^
 ||afoux.com^
+||aganj.com^
 ||agkn.com^
 ||ahjinshu.com^
 ||ahuac.com^
@@ -393,6 +380,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||cuoas.com^
 ||cuomm.com^
 ||cuoss.com^
+||cwj2h.cn^
 ||cwpush.com^
 ||cxaerp.com^
 ||cxxtv.com^
@@ -428,16 +416,19 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||dbiej.com^
 ||dcaij.com^
 ||dceni.com^
+||ddanf.com^
 ||ddpxhq.cn^
 ||ddstu.com^
 ||ddvip.com^
 ||deimm.com^
 ||deshuangwang.cn^
 ||df0535.com^
+||dfanf.com^
 ||dfcwg.com^
 ||dgaoz.com^
 ||dgfggy.com^
 ||dhford.cn^
+||dianrui.com^
 ||diediao.com^
 ||difnxm.cn^
 ||diogv.com^
@@ -489,6 +480,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||efeir.com^
 ||efeiy.com^
 ||ehxyz.com^
+||ejiur.com^
 ||ejuen.com^
 ||ejunshi.com^
 ||ejunshi.net^
@@ -503,6 +495,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||eshuy.com^
 ||esptj.com^
 ||extstat.com^
+||ezuon.com^
 ||f11w.com^
 ||f1zd.com^
 ||f2zd.com^
@@ -561,6 +554,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||fzxrjx.com^
 ||fzyda.com^
 ||ga25.com^
+||gadhx.cn^
 ||gamehz.cn^
 ||gameyun907.net^
 ||ganrs.com^
@@ -654,6 +648,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||hcenc.com^
 ||hchag.com^
 ||hchig.com^
+||hchik.com^
 ||hcwifi.cn^
 ||hdhkwl.com^
 ||hdswgc.com^
@@ -836,10 +831,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||kanshuapp.com^
 ||kawinhome.com^
 ||kbf365.cn^
+||kcenu.com^
 ||kchaq.com^
 ||kcooy.com^
 ||kcxsyz.com^
 ||kddtri.cn^
+||kdieu.com^
 ||keefung-zs.com^
 ||ketedata.com^
 ||kewro.com^
@@ -848,6 +845,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||kf3msfm.com^
 ||kfd3sm2c.com^
 ||kfi8.com^
+||kguaq.com^
 ||khgj.cn^
 ||khuoy.com^
 ||kiaokuayoutui.com^
@@ -1011,6 +1009,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||myzcoffice.com^
 ||nal5h.cn^
 ||nbaob.com^
+||nchet.com^
 ||ncoyqc.com^
 ||ndapp.com^
 ||nduop.com^
@@ -1031,6 +1030,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||njiet.com^
 ||njmpacc.com^
 ||njxczy.com^
+||nkwwnx.com^
 ||nmpcdn.com^
 ||nmtouzi.com^
 ||nnfiy.com^
@@ -1053,6 +1053,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||nxkycx.com^
 ||nxypz.com^
 ||nykps.com^
+||ocenp.com^
 ||oesnw.com^
 ||office-mall.net^
 ||ofsja.cn^
@@ -1064,6 +1065,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||okwan.cn^
 ||onclasrv.com^
 ||onewhee.com^
+||oollttqq.com^
 ||ooniu.com^
 ||openxt.cn^
 ||opqsr.com^
@@ -1080,6 +1082,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||paomifen.cn^
 ||pbino.com^
 ||pcaoo.com^
+||pcuna.com^
 ||penggua.com.cn^
 ||peoplecdn.cn^
 ||phonthing.com^
@@ -1119,11 +1122,13 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||pwjhg.com^
 ||pxstda.com^
 ||pzuth.cn^
+||qbenu.com^
 ||qcw.com^
 ||qcwzx.net.cn^
 ||qdiut.com^
 ||qflwh.cn^
 ||qhdfxkj.com^
+||qhout.com^
 ||qhuik.com^
 ||qiailm.com^
 ||qiaopiguniang.com^
@@ -1302,12 +1307,14 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||tebaidu.cn^
 ||tenh2.cn^
 ||th21333.com^
+||themee.cn^
 ||thztv.net^
 ||tiankongzudui.com^
 ||tiantianedu.net^
 ||tiaopimiao.net^
 ||tick0.com^
 ||tinglian.com^
+||tinwong.cn^
 ||tiojk.com^
 ||tjgxzs.com^
 ||tjhuajiantang.com^
@@ -1406,6 +1413,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||wbeiz.com^
 ||wbies.com^
 ||wbiev.com^
+||wcail.com^
 ||wcaos.com^
 ||wcenr.com^
 ||wcjup.com^
@@ -1426,6 +1434,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||whsjg.cn^
 ||whxhhjx.com^
 ||wikigifth.com^
+||wjier.com^
 ||wk2.com^
 ||wkjhd.com^
 ||wl963.com^
@@ -1505,7 +1514,6 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||xpjis.com^
 ||xqwiremesh.com^
 ||xrain.net^
-||xszqapp.com^
 ||xtcdbb.cn^
 ||xtwjx.cn^
 ||xtzxmy.com^
@@ -1530,10 +1538,12 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||yanpoly.com^
 ||ybaih.com^
 ||ybaiu.com^
+||ybanj.com^
 ||ybaoh.com^
 ||ybeih.com^
 ||ybtianxi.com^
 ||ychap.com^
+||ycuoj.com^
 ||ydeprint.com^
 ||ydjskvpd.com^
 ||ydqzkj.com^
@@ -1567,6 +1577,7 @@ https://cdn.v2ex.com/assets/sidebar/*
 ||ynlysg.com^
 ||ynmhg.cn^
 ||ynnke.com^
+||ynp0h.cn^
 ||yoiur.com^
 ||yokaunion.com^
 ||yongkang6.com^

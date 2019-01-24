@@ -1,5 +1,5 @@
 
-#version=201901201620
+#version=201901242255
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1071,6 +1071,7 @@
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 ieonline.microsoft.com
+13.107.21.200 cn.bing.com
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
@@ -1987,32 +1988,6 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
-127.0.0.1 e.wdeie.com
-127.0.0.1 bbs.search.nkwwnx.com
-127.0.0.1 e.ezuon.com
-127.0.0.1 e.kcenu.com
-127.0.0.1 m.achuc.com
-127.0.0.1 m.ddanf.com
-127.0.0.1 m.ezuon.com
-127.0.0.1 m.kcenu.com
-127.0.0.1 qrrl.cwj2h.cn
-127.0.0.1 www.oollttqq.com
-127.0.0.1 e.wjier.com
-127.0.0.1 e.ybanj.com
-127.0.0.1 m.ejiur.com
-127.0.0.1 m.hchik.com
-127.0.0.1 m.pcuna.com
-127.0.0.1 m.themee.cn
-127.0.0.1 m.wjier.com
-127.0.0.1 m.ybanj.com
-127.0.0.1 xtsk.6yush.cn
-127.0.0.1 bcuh.tinwong.cn
-127.0.0.1 dianrui.com
-127.0.0.1 e.ejiur.com
-127.0.0.1 e.ycuoj.com
-127.0.0.1 m.ocenp.com
-127.0.0.1 m.wcail.com
-127.0.0.1 m.ycuoj.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2854,7 +2829,9 @@
 127.0.0.1 bax.xiawu.com
 127.0.0.1 baxf.m.shuhuangge.org
 127.0.0.1 bay.xiawu.com
+127.0.0.1 bbs.search.nkwwnx.com
 127.0.0.1 bbsimages.zkxf119.com
+127.0.0.1 bcuh.tinwong.cn
 127.0.0.1 bd-js.baixing.net
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 bd.gow100.com
@@ -2927,6 +2904,7 @@
 127.0.0.1 c.tctyb.cn
 127.0.0.1 c.v4dwkcv.com
 127.0.0.1 c.vip97.net
+127.0.0.1 c.wantxt.cc
 127.0.0.1 c.wechat.jx.cn
 127.0.0.1 c.xianguonongchang.org
 127.0.0.1 c.xilongfuwu.com
@@ -3051,6 +3029,7 @@
 127.0.0.1 de.dzribao.com
 127.0.0.1 dfc1.benbaisteel.com
 127.0.0.1 dfx.vnnv777.cn
+127.0.0.1 dianrui.com
 127.0.0.1 diaopic.14bobo.com
 127.0.0.1 difnxm.cn
 127.0.0.1 dip.wl963.com
@@ -3096,6 +3075,7 @@
 127.0.0.1 e.acaoz.com
 127.0.0.1 e.admin60.com
 127.0.0.1 e.aduiz.com
+127.0.0.1 e.aganj.com
 127.0.0.1 e.aiyyu.com
 127.0.0.1 e.ajiez.com
 127.0.0.1 e.anmeilai.net
@@ -3130,12 +3110,14 @@
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
 127.0.0.1 e.ehxyz.com
+127.0.0.1 e.ejiur.com
 127.0.0.1 e.ejuen.com
 127.0.0.1 e.emgwq.com
 127.0.0.1 e.enjuk.com
 127.0.0.1 e.enjuw.com
 127.0.0.1 e.eqiuy.com
 127.0.0.1 e.eshuy.com
+127.0.0.1 e.ezuon.com
 127.0.0.1 e.fbaix.com
 127.0.0.1 e.fbaot.com
 127.0.0.1 e.fbieq.com
@@ -3192,8 +3174,11 @@
 127.0.0.1 e.joyxv.com
 127.0.0.1 e.jwiyr.com
 127.0.0.1 e.jxxiangchu.com
+127.0.0.1 e.kcenu.com
 127.0.0.1 e.kchaq.com
+127.0.0.1 e.kdieu.com
 127.0.0.1 e.kewro.com
+127.0.0.1 e.kguaq.com
 127.0.0.1 e.khuoy.com
 127.0.0.1 e.kjfhe.com
 127.0.0.1 e.kjhfy.com
@@ -3217,6 +3202,7 @@
 127.0.0.1 e.mrsasharingspace.com
 127.0.0.1 e.mrtuo.com
 127.0.0.1 e.mwjpk.com
+127.0.0.1 e.nchet.com
 127.0.0.1 e.nduop.com
 127.0.0.1 e.neijh.com
 127.0.0.1 e.nejup.com
@@ -3276,9 +3262,11 @@
 127.0.0.1 e.wcaos.com
 127.0.0.1 e.wcenr.com
 127.0.0.1 e.wcjup.com
+127.0.0.1 e.wdeie.com
 127.0.0.1 e.wduis.com
 127.0.0.1 e.weixingshexiangji.net
 127.0.0.1 e.wikigifth.com
+127.0.0.1 e.wjier.com
 127.0.0.1 e.wkjhd.com
 127.0.0.1 e.wlues.com
 127.0.0.1 e.wonwg.com
@@ -3298,7 +3286,9 @@
 127.0.0.1 e.xxkio.com
 127.0.0.1 e.yageben.com
 127.0.0.1 e.yangjingbang.net
+127.0.0.1 e.ybanj.com
 127.0.0.1 e.ybaoh.com
+127.0.0.1 e.ycuoj.com
 127.0.0.1 e.yidulive.net
 127.0.0.1 e.yingchengtou.com
 127.0.0.1 e.ynnke.com
@@ -3447,6 +3437,7 @@
 127.0.0.1 img.dydab.com
 127.0.0.1 img.fd7c.com
 127.0.0.1 img.feitian001.com
+127.0.0.1 img.gadhx.cn
 127.0.0.1 img.gaore.com
 127.0.0.1 img.gz9d.com
 127.0.0.1 img.hcwifi.cn
@@ -3519,9 +3510,11 @@
 127.0.0.1 jias.haotxt.com
 127.0.0.1 jihehuaban.com
 127.0.0.1 jingdian230.meilika.net
+127.0.0.1 jipinapi.panqis.cn
 127.0.0.1 jjk.sxklm.cn
 127.0.0.1 jjx.xjtxcj.com
 127.0.0.1 jjyy.gaopengqcdz.cn
+127.0.0.1 jpwy.ynp0h.cn
 127.0.0.1 jrpt.jrptweb.org
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.133u.com
@@ -3672,9 +3665,11 @@
 127.0.0.1 m.acaox.com
 127.0.0.1 m.acaoz.com
 127.0.0.1 m.achig.com
+127.0.0.1 m.achuc.com
 127.0.0.1 m.adaog.com
 127.0.0.1 m.aduiz.com
 127.0.0.1 m.afoux.com
+127.0.0.1 m.aganj.com
 127.0.0.1 m.ahuac.com
 127.0.0.1 m.aiyyu.com
 127.0.0.1 m.ajiez.com
@@ -3728,6 +3723,8 @@
 127.0.0.1 m.dbiei.com
 127.0.0.1 m.dbiej.com
 127.0.0.1 m.dceni.com
+127.0.0.1 m.ddanf.com
+127.0.0.1 m.dfanf.com
 127.0.0.1 m.dgaoz.com
 127.0.0.1 m.diogv.com
 127.0.0.1 m.djhhy.com
@@ -3742,6 +3739,7 @@
 127.0.0.1 m.efeir.com
 127.0.0.1 m.efeiy.com
 127.0.0.1 m.ehxyz.com
+127.0.0.1 m.ejiur.com
 127.0.0.1 m.emgwq.com
 127.0.0.1 m.emshx.cn
 127.0.0.1 m.enjuk.com
@@ -3749,6 +3747,7 @@
 127.0.0.1 m.enrogwm.cn
 127.0.0.1 m.eqiuy.com
 127.0.0.1 m.eshuy.com
+127.0.0.1 m.ezuon.com
 127.0.0.1 m.fbaix.com
 127.0.0.1 m.fbaot.com
 127.0.0.1 m.fbieq.com
@@ -3803,6 +3802,7 @@
 127.0.0.1 m.hcenc.com
 127.0.0.1 m.hchag.com
 127.0.0.1 m.hchig.com
+127.0.0.1 m.hchik.com
 127.0.0.1 m.hduic.com
 127.0.0.1 m.heygugu.com
 127.0.0.1 m.hguas.com
@@ -3847,9 +3847,12 @@
 127.0.0.1 m.jltdbyq.com
 127.0.0.1 m.joyxv.com
 127.0.0.1 m.jyhwt.cn
+127.0.0.1 m.kcenu.com
 127.0.0.1 m.kchaq.com
 127.0.0.1 m.kcooy.com
+127.0.0.1 m.kdieu.com
 127.0.0.1 m.kewro.com
+127.0.0.1 m.kguaq.com
 127.0.0.1 m.khuoy.com
 127.0.0.1 m.kjfhe.com
 127.0.0.1 m.kjhfy.com
@@ -3888,6 +3891,7 @@
 127.0.0.1 m.mwjpk.com
 127.0.0.1 m.mxguan.com
 127.0.0.1 m.nbaob.com
+127.0.0.1 m.nchet.com
 127.0.0.1 m.nduop.com
 127.0.0.1 m.neijh.com
 127.0.0.1 m.nejup.com
@@ -3902,6 +3906,7 @@
 127.0.0.1 m.nuxyz.cn
 127.0.0.1 m.nwxzs.com
 127.0.0.1 m.nxypz.com
+127.0.0.1 m.ocenp.com
 127.0.0.1 m.oesnw.com
 127.0.0.1 m.ojues.com
 127.0.0.1 m.okuis.com
@@ -3909,6 +3914,7 @@
 127.0.0.1 m.oyrim.com
 127.0.0.1 m.pbino.com
 127.0.0.1 m.pcaoo.com
+127.0.0.1 m.pcuna.com
 127.0.0.1 m.phonthing.com
 127.0.0.1 m.picbr.com
 127.0.0.1 m.pieaa.com
@@ -3920,8 +3926,10 @@
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 m.puooi.com
 127.0.0.1 m.pwjhg.com
+127.0.0.1 m.qbenu.com
 127.0.0.1 m.qcw.com
 127.0.0.1 m.qdiut.com
+127.0.0.1 m.qhout.com
 127.0.0.1 m.qhuik.com
 127.0.0.1 m.qingzhencai.net
 127.0.0.1 m.qusub.com
@@ -3958,6 +3966,7 @@
 127.0.0.1 m.tdiea.com
 127.0.0.1 m.tdoup.com
 127.0.0.1 m.tenh2.cn
+127.0.0.1 m.themee.cn
 127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tiaopimiao.net
 127.0.0.1 m.tick0.com
@@ -3989,6 +3998,7 @@
 127.0.0.1 m.wbaoz.com
 127.0.0.1 m.wbeiz.com
 127.0.0.1 m.wbiev.com
+127.0.0.1 m.wcail.com
 127.0.0.1 m.wcaos.com
 127.0.0.1 m.wcenr.com
 127.0.0.1 m.wcjup.com
@@ -3999,6 +4009,7 @@
 127.0.0.1 m.wgewj.cn
 127.0.0.1 m.whsjg.cn
 127.0.0.1 m.wikigifth.com
+127.0.0.1 m.wjier.com
 127.0.0.1 m.wkjhd.com
 127.0.0.1 m.wlues.com
 127.0.0.1 m.wnxcg.com
@@ -4030,8 +4041,10 @@
 127.0.0.1 m.yangjingbang.net
 127.0.0.1 m.ybaih.com
 127.0.0.1 m.ybaiu.com
+127.0.0.1 m.ybanj.com
 127.0.0.1 m.ybaoh.com
 127.0.0.1 m.ybeih.com
+127.0.0.1 m.ycuoj.com
 127.0.0.1 m.yguap.com
 127.0.0.1 m.yingchengtou.com
 127.0.0.1 m.ynnke.com
@@ -4218,6 +4231,7 @@
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 qq.guansenff.cn
+127.0.0.1 qrrl.cwj2h.cn
 127.0.0.1 qtpb.12jf3.cn
 127.0.0.1 qweqwe.mctvhp.cn
 127.0.0.1 r.5207470.com
@@ -4319,6 +4333,7 @@
 127.0.0.1 shzyjbr.wtdtjs.rocks
 127.0.0.1 sigo99.com
 127.0.0.1 siqwqjza.m.yikanxiaoshuo.net
+127.0.0.1 sizd.6nzev.cn
 127.0.0.1 sj.uukanshu.com
 127.0.0.1 sjj.jsyjwj.com
 127.0.0.1 sjs.jcshouhui.com
@@ -4676,6 +4691,7 @@
 127.0.0.1 www.nnnwwwe.com
 127.0.0.1 www.nvshenfan.com
 127.0.0.1 www.onewhee.com
+127.0.0.1 www.oollttqq.com
 127.0.0.1 www.ooniu.com
 127.0.0.1 www.pasco.cc
 127.0.0.1 www.pi920.com
@@ -4794,6 +4810,7 @@
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 xpe.cxaerp.com
 127.0.0.1 xs.swagger1.com
+127.0.0.1 xtsk.6yush.cn
 127.0.0.1 xvyljkr.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 xxp.gytygc.com
@@ -6981,6 +6998,7 @@
 127.0.0.1 shouji.yd126.com
 127.0.0.1 ss.subo.me
 127.0.0.1 static.hotjar.com
+127.0.0.1 suedai.com
 127.0.0.1 tactics.bainv.net
 127.0.0.1 u.raidmedia.com.cn
 127.0.0.1 u.yizuya.com
