@@ -391,6 +391,7 @@
 127.0.0.1 crs.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
+127.0.0.1 em.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 idm-su.baidu.com
@@ -2445,6 +2446,18 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 s1.leshi123.cc
+127.0.0.1 s2.leshi123.cc
+127.0.0.1 anhm.acv5e.cn
+127.0.0.1 e.ayues.com
+127.0.0.1 e.yjiaj.com
+127.0.0.1 m.ayues.com
+127.0.0.1 m.bkuax.com
+127.0.0.1 m.yjiaj.com
+127.0.0.1 photo.ccjxybj.cn
+127.0.0.1 www.chenyanjiao.cn
+127.0.0.1 www.hnh-hotel.com
+127.0.0.1 www.tj-cmys.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

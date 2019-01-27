@@ -12,6 +12,7 @@
 127.0.0.1 crs.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
+127.0.0.1 em.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 idm-su.baidu.com

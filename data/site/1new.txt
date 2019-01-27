@@ -1,0 +1,12 @@
+127.0.0.1 s1.leshi123.cc
+127.0.0.1 s2.leshi123.cc
+127.0.0.1 anhm.acv5e.cn
+127.0.0.1 e.ayues.com
+127.0.0.1 e.yjiaj.com
+127.0.0.1 m.ayues.com
+127.0.0.1 m.bkuax.com
+127.0.0.1 m.yjiaj.com
+127.0.0.1 photo.ccjxybj.cn
+127.0.0.1 www.chenyanjiao.cn
+127.0.0.1 www.hnh-hotel.com
+127.0.0.1 www.tj-cmys.com
