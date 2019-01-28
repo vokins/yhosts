@@ -10,3 +10,4 @@
 127.0.0.1 www.chenyanjiao.cn
 127.0.0.1 www.hnh-hotel.com
 127.0.0.1 www.tj-cmys.com
+127.0.0.1 rtnp.just9229.cn
