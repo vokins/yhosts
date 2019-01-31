@@ -1,5 +1,5 @@
 
-#version=201901281204
+#version=201901312210
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2002,6 +2002,16 @@
 127.0.0.1 www.hnh-hotel.com
 127.0.0.1 www.tj-cmys.com
 127.0.0.1 rtnp.just9229.cn
+127.0.0.1 code.bianxianwu.com
+127.0.0.1 e.vkuay.com
+127.0.0.1 e.wdiur.com
+127.0.0.1 j2.979067.com
+127.0.0.1 m.hzuok.com
+127.0.0.1 m.qlaot.com
+127.0.0.1 m.vkuay.com
+127.0.0.1 s3.aishangcan.com
+127.0.0.1 static.img.imagecdn.cn
+127.0.0.1 ynud.heizundg.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2439,6 +2449,8 @@
 127.0.0.1 usercollection.chinadaily.com.cn
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 ad.gmw.cn
+127.0.0.1 17.huanqiu.com
+127.0.0.1 21.huanqiu.com
 127.0.0.1 boardx.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
