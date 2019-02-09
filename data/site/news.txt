@@ -9,6 +9,7 @@
 127.0.0.1 17.huanqiu.com
 127.0.0.1 21.huanqiu.com
 127.0.0.1 boardx.huanqiu.com
+127.0.0.1 boardy.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 #www.infzm.com

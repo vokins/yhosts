@@ -34,7 +34,6 @@
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
-127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 #iqiyi-gitv

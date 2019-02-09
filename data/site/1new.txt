@@ -21,3 +21,16 @@
 127.0.0.1 s3.aishangcan.com
 127.0.0.1 static.img.imagecdn.cn
 127.0.0.1 ynud.heizundg.cn
+127.0.0.1 e.izouo.com
+127.0.0.1 ekfe.idanmei.cn
+127.0.0.1 fbzm.pqnlorg.cn
+127.0.0.1 img.helpinfo.cn
+127.0.0.1 kdf.jssumei.cn
+127.0.0.1 m.izouo.com
+127.0.0.1 m.wdiur.com
+127.0.0.1 www.jschuangnuo.com
+127.0.0.1 xyzhs.yicixingjinkou.com
+127.0.0.1 nadscdn.wuaiso.com
+127.0.0.1 ooo.0o0.ooo
+127.0.0.1 37.sinawap.com
+127.0.0.1 www.nkscdn.com

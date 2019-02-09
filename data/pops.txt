@@ -172,8 +172,6 @@
 127.0.0.1 bbs.search.nkwwnx.com
 127.0.0.1 bbsimages.zkxf119.com
 127.0.0.1 bcuh.tinwong.cn
-127.0.0.1 bd-js.baixing.net
-127.0.0.1 bd-s.baixing.net
 127.0.0.1 bd.gow100.com
 127.0.0.1 bd1.flfgw.cn
 127.0.0.1 bd1.home8080.cn
@@ -1778,7 +1776,6 @@
 127.0.0.1 tt.twzui6.com
 127.0.0.1 ttm.htfmbt.com
 127.0.0.1 ttts.miyue17.com
-127.0.0.1 tu.baixing.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 tv.code.jjyx.com
 127.0.0.1 tx.lwinl.com

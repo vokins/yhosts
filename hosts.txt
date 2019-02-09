@@ -243,8 +243,6 @@
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 vs2.gzcu.u3.ucweb.com
-127.0.0.1 wap3.ucweb.com
-127.0.0.1 m.uczzd.cn
 127.0.0.1 m.uc123.com
 127.0.0.1 alissl.ucdl.pp.uc.cn
 127.0.0.1 api.mp.uc.cn
@@ -2469,6 +2467,19 @@
 127.0.0.1 s3.aishangcan.com
 127.0.0.1 static.img.imagecdn.cn
 127.0.0.1 ynud.heizundg.cn
+127.0.0.1 e.izouo.com
+127.0.0.1 ekfe.idanmei.cn
+127.0.0.1 fbzm.pqnlorg.cn
+127.0.0.1 img.helpinfo.cn
+127.0.0.1 kdf.jssumei.cn
+127.0.0.1 m.izouo.com
+127.0.0.1 m.wdiur.com
+127.0.0.1 www.jschuangnuo.com
+127.0.0.1 xyzhs.yicixingjinkou.com
+127.0.0.1 nadscdn.wuaiso.com
+127.0.0.1 ooo.0o0.ooo
+127.0.0.1 37.sinawap.com
+127.0.0.1 www.nkscdn.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2601,6 +2612,10 @@
 127.0.0.1 go.hangzhou.com.cn
 #zhe-zj.com
 127.0.0.1 ggg.zj.com
+127.0.0.1 bd-js.baixing.net
+127.0.0.1 bd-s.baixing.net
+127.0.0.1 static.baixingcdn.com
+127.0.0.1 tu.baixing.com
 #www.egou.com
 127.0.0.1 ad.egou.com
 #www.dangdang.com
@@ -3011,6 +3026,7 @@
 127.0.0.1 17.huanqiu.com
 127.0.0.1 21.huanqiu.com
 127.0.0.1 boardx.huanqiu.com
+127.0.0.1 boardy.huanqiu.com
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 #www.infzm.com
@@ -3460,8 +3476,6 @@
 127.0.0.1 bbs.search.nkwwnx.com
 127.0.0.1 bbsimages.zkxf119.com
 127.0.0.1 bcuh.tinwong.cn
-127.0.0.1 bd-js.baixing.net
-127.0.0.1 bd-s.baixing.net
 127.0.0.1 bd.gow100.com
 127.0.0.1 bd1.flfgw.cn
 127.0.0.1 bd1.home8080.cn
@@ -5066,7 +5080,6 @@
 127.0.0.1 tt.twzui6.com
 127.0.0.1 ttm.htfmbt.com
 127.0.0.1 ttts.miyue17.com
-127.0.0.1 tu.baixing.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 tv.code.jjyx.com
 127.0.0.1 tx.lwinl.com
@@ -7885,37 +7898,37 @@
 127.0.0.1 www.inoprosport.su
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 x.bidswitch.net
-127.0.0.1 20190101.logic.cpm.cm.kankan.com
-127.0.0.1 20190102.logic.cpm.cm.kankan.com
-127.0.0.1 20190103.logic.cpm.cm.kankan.com
-127.0.0.1 20190104.logic.cpm.cm.kankan.com
-127.0.0.1 20190105.logic.cpm.cm.kankan.com
-127.0.0.1 20190106.logic.cpm.cm.kankan.com
-127.0.0.1 20190107.logic.cpm.cm.kankan.com
-127.0.0.1 20190108.logic.cpm.cm.kankan.com
-127.0.0.1 20190109.logic.cpm.cm.kankan.com
-127.0.0.1 20190110.logic.cpm.cm.kankan.com
-127.0.0.1 20190111.logic.cpm.cm.kankan.com
-127.0.0.1 20190112.logic.cpm.cm.kankan.com
-127.0.0.1 20190113.logic.cpm.cm.kankan.com
-127.0.0.1 20190114.logic.cpm.cm.kankan.com
-127.0.0.1 20190115.logic.cpm.cm.kankan.com
-127.0.0.1 20190116.logic.cpm.cm.kankan.com
-127.0.0.1 20190117.logic.cpm.cm.kankan.com
-127.0.0.1 20190118.logic.cpm.cm.kankan.com
-127.0.0.1 20190119.logic.cpm.cm.kankan.com
-127.0.0.1 20190120.logic.cpm.cm.kankan.com
-127.0.0.1 20190121.logic.cpm.cm.kankan.com
-127.0.0.1 20190122.logic.cpm.cm.kankan.com
-127.0.0.1 20190123.logic.cpm.cm.kankan.com
-127.0.0.1 20190124.logic.cpm.cm.kankan.com
-127.0.0.1 20190125.logic.cpm.cm.kankan.com
-127.0.0.1 20190126.logic.cpm.cm.kankan.com
-127.0.0.1 20190127.logic.cpm.cm.kankan.com
-127.0.0.1 20190128.logic.cpm.cm.kankan.com
-127.0.0.1 20190129.logic.cpm.cm.kankan.com
-127.0.0.1 20190130.logic.cpm.cm.kankan.com
-127.0.0.1 20190131.logic.cpm.cm.kankan.com
+127.0.0.1 20190201.logic.cpm.cm.kankan.com
+127.0.0.1 20190202.logic.cpm.cm.kankan.com
+127.0.0.1 20190203.logic.cpm.cm.kankan.com
+127.0.0.1 20190204.logic.cpm.cm.kankan.com
+127.0.0.1 20190205.logic.cpm.cm.kankan.com
+127.0.0.1 20190206.logic.cpm.cm.kankan.com
+127.0.0.1 20190207.logic.cpm.cm.kankan.com
+127.0.0.1 20190208.logic.cpm.cm.kankan.com
+127.0.0.1 20190209.logic.cpm.cm.kankan.com
+127.0.0.1 20190210.logic.cpm.cm.kankan.com
+127.0.0.1 20190211.logic.cpm.cm.kankan.com
+127.0.0.1 20190212.logic.cpm.cm.kankan.com
+127.0.0.1 20190213.logic.cpm.cm.kankan.com
+127.0.0.1 20190214.logic.cpm.cm.kankan.com
+127.0.0.1 20190215.logic.cpm.cm.kankan.com
+127.0.0.1 20190216.logic.cpm.cm.kankan.com
+127.0.0.1 20190217.logic.cpm.cm.kankan.com
+127.0.0.1 20190218.logic.cpm.cm.kankan.com
+127.0.0.1 20190219.logic.cpm.cm.kankan.com
+127.0.0.1 20190220.logic.cpm.cm.kankan.com
+127.0.0.1 20190221.logic.cpm.cm.kankan.com
+127.0.0.1 20190222.logic.cpm.cm.kankan.com
+127.0.0.1 20190223.logic.cpm.cm.kankan.com
+127.0.0.1 20190224.logic.cpm.cm.kankan.com
+127.0.0.1 20190225.logic.cpm.cm.kankan.com
+127.0.0.1 20190226.logic.cpm.cm.kankan.com
+127.0.0.1 20190227.logic.cpm.cm.kankan.com
+127.0.0.1 20190228.logic.cpm.cm.kankan.com
+127.0.0.1 20190229.logic.cpm.cm.kankan.com
+127.0.0.1 20190230.logic.cpm.cm.kankan.com
+127.0.0.1 20190231.logic.cpm.cm.kankan.com
 127.0.0.1 018520.com
 127.0.0.1 13023.url.7wkw.com
 127.0.0.1 30350f.com
@@ -8063,6 +8076,7 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
+127.0.0.1 soft.jiegeng.com
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
@@ -8099,7 +8113,6 @@
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
-127.0.0.1 store.iqiyi.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 #iqiyi-gitv

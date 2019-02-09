@@ -145,3 +145,4 @@
 127.0.0.1 xpj4.net
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
+127.0.0.1 soft.jiegeng.com
