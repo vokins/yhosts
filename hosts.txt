@@ -1212,7 +1212,6 @@
 127.0.0.1 temai.m.taobao.com
 127.0.0.1 jx.tmall.com
 @cps-jd
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
