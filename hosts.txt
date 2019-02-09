@@ -2484,6 +2484,11 @@
 127.0.0.1 www.nkscdn.com
 127.0.0.1 s3m.milkjpg.com
 127.0.0.1 rabc1.iteye.com
+127.0.0.1 img.yqgytx.com
+127.0.0.1 jc.4006825178.com
+127.0.0.1 jc.bubbleandyeson.com
+127.0.0.1 jc.buerchaoshi.com
+127.0.0.1 k.hdjxmf.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
