@@ -3,3 +3,6 @@
 127.0.0.1 static.baixingcdn.com
 127.0.0.1 tu.baixing.com
 127.0.0.1 y.pzclw.cn
+127.0.0.1 t.pzclw.cn
+127.0.0.1 img.findqc.com
+127.0.0.1 show.findqc.com

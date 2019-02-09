@@ -9,6 +9,7 @@
 127.0.0.1 ss2.baidu.com
 127.0.0.1 t10.baidu.com
 127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 #sinaimg
 127.0.0.1 ww1.sinaimg.cn
 127.0.0.1 ww2.sinaimg.cn

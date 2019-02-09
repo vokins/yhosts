@@ -35,5 +35,4 @@
 127.0.0.1 37.sinawap.com
 127.0.0.1 www.nkscdn.com
 127.0.0.1 s3m.milkjpg.com
-127.0.0.1 t.pzclw.cn
 127.0.0.1 rabc1.iteye.com

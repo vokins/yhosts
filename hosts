@@ -1,5 +1,5 @@
 
-#version=201902091212
+#version=201902091219
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2027,7 +2027,6 @@
 127.0.0.1 37.sinawap.com
 127.0.0.1 www.nkscdn.com
 127.0.0.1 s3m.milkjpg.com
-127.0.0.1 t.pzclw.cn
 127.0.0.1 rabc1.iteye.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
@@ -2144,6 +2143,9 @@
 127.0.0.1 static.baixingcdn.com
 127.0.0.1 tu.baixing.com
 127.0.0.1 y.pzclw.cn
+127.0.0.1 t.pzclw.cn
+127.0.0.1 img.findqc.com
+127.0.0.1 show.findqc.com
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
