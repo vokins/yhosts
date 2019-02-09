@@ -1,0 +1,5 @@
+127.0.0.1 bd-js.baixing.net
+127.0.0.1 bd-s.baixing.net
+127.0.0.1 static.baixingcdn.com
+127.0.0.1 tu.baixing.com
+127.0.0.1 y.pzclw.cn

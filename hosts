@@ -1,5 +1,5 @@
 
-#version=201902091008
+#version=201902091011
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2137,6 +2137,7 @@
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 static.baixingcdn.com
 127.0.0.1 tu.baixing.com
+127.0.0.1 y.pzclw.cn
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com

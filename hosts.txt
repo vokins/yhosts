@@ -2616,6 +2616,7 @@
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 static.baixingcdn.com
 127.0.0.1 tu.baixing.com
+127.0.0.1 y.pzclw.cn
 #www.egou.com
 127.0.0.1 ad.egou.com
 #www.dangdang.com
