@@ -1,3 +1,4 @@
+127.0.0.1 360fenxi.mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 cjhd.mediav.com
 127.0.0.1 ckmap.mediav.com
@@ -24,6 +25,7 @@
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com
 127.0.0.1 show.3.mediav.com
+127.0.0.1 show.f.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com
@@ -37,3 +39,4 @@
 127.0.0.1 view.mediav.com
 127.0.0.1 www.mediav.com
 127.0.0.1 xd.mediav.com
+127.0.0.1 xdssp.mediav.com

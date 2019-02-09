@@ -720,6 +720,7 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 x.jd.com
+127.0.0.1 360fenxi.mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 cjhd.mediav.com
 127.0.0.1 ckmap.mediav.com
@@ -746,6 +747,7 @@
 127.0.0.1 show-m.mediav.com
 127.0.0.1 show-s.mediav.com
 127.0.0.1 show.3.mediav.com
+127.0.0.1 show.f.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com
@@ -759,6 +761,7 @@
 127.0.0.1 view.mediav.com
 127.0.0.1 www.mediav.com
 127.0.0.1 xd.mediav.com
+127.0.0.1 xdssp.mediav.com
 #adnxs
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 nym2-tr.adnxs.com
@@ -2480,6 +2483,9 @@
 127.0.0.1 ooo.0o0.ooo
 127.0.0.1 37.sinawap.com
 127.0.0.1 www.nkscdn.com
+127.0.0.1 s3m.milkjpg.com
+127.0.0.1 t.pzclw.cn
+127.0.0.1 rabc1.iteye.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
