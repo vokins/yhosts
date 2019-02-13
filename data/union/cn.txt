@@ -145,10 +145,12 @@
 127.0.0.1 cv.1o26.com
 127.0.0.1 i.1o26.com
 #2345
-127.0.0.1 zhushou.2345.com
+127.0.0.1 bdcode.2345.com
+127.0.0.1 bdsearch.2345.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 tg.jifen.2345.com
 127.0.0.1 wan.2345.com
+127.0.0.1 zhushou.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org

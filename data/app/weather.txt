@@ -1,8 +1,13 @@
 #http://caiyunapp.com/
 127.0.0.1 ad.caiyunapp.com
 #http://m.weathercn.com/
+127.0.0.1 aima.weathercn.com
+127.0.0.1 bima.weathercn.com
 127.0.0.1 mbd.weathercn.com
 127.0.0.1 mbs.weathercn.com
+#http://www.15tianqi.com/
+127.0.0.1 dma.15tianqi.com
+127.0.0.1 jsa.15tianqi.com
 #http://www.moji.com/
 127.0.0.1 ad.api.moji.com
 127.0.0.1 adlaunch.moji.com
@@ -10,6 +15,9 @@
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
+#http://www.weather.com.cn/
+127.0.0.1 baidu1.weather.com.cn
+127.0.0.1 mc.weather.com.cn
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com

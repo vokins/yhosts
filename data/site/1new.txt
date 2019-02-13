@@ -41,3 +41,7 @@
 127.0.0.1 jc.bubbleandyeson.com
 127.0.0.1 jc.buerchaoshi.com
 127.0.0.1 k.hdjxmf.com
+127.0.0.1 gxny.imanchu.cn
+127.0.0.1 m.2fnrc.cn
+127.0.0.1 m.ptuoa.com
+127.0.0.1 www.fffeeeq.com

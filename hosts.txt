@@ -2431,8 +2431,13 @@
 #http://caiyunapp.com/
 127.0.0.1 ad.caiyunapp.com
 #http://m.weathercn.com/
+127.0.0.1 aima.weathercn.com
+127.0.0.1 bima.weathercn.com
 127.0.0.1 mbd.weathercn.com
 127.0.0.1 mbs.weathercn.com
+#http://www.15tianqi.com/
+127.0.0.1 dma.15tianqi.com
+127.0.0.1 jsa.15tianqi.com
 #http://www.moji.com/
 127.0.0.1 ad.api.moji.com
 127.0.0.1 adlaunch.moji.com
@@ -2440,6 +2445,9 @@
 127.0.0.1 stat.moji.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 cdn2.moji002.com
+#http://www.weather.com.cn/
+127.0.0.1 baidu1.weather.com.cn
+127.0.0.1 mc.weather.com.cn
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
@@ -2489,6 +2497,10 @@
 127.0.0.1 jc.bubbleandyeson.com
 127.0.0.1 jc.buerchaoshi.com
 127.0.0.1 k.hdjxmf.com
+127.0.0.1 gxny.imanchu.cn
+127.0.0.1 m.2fnrc.cn
+127.0.0.1 m.ptuoa.com
+127.0.0.1 www.fffeeeq.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -6135,10 +6147,12 @@
 127.0.0.1 cv.1o26.com
 127.0.0.1 i.1o26.com
 #2345
-127.0.0.1 zhushou.2345.com
+127.0.0.1 bdcode.2345.com
+127.0.0.1 bdsearch.2345.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 tg.jifen.2345.com
 127.0.0.1 wan.2345.com
+127.0.0.1 zhushou.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
