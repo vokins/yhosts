@@ -59,6 +59,7 @@ image.5442.com
 image.ibb.co
 image.uc.cn
 img.alicdn.com
+img.biquyun.com
 img.faloo.com
 img.zhuaji.org
 img24.pplive.cn

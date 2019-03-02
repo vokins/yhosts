@@ -3,8 +3,15 @@
 127.0.0.1 adv.jxnews.com.cn
 #gui-beihai365.com
 127.0.0.1 ad.beihai365.com
+#hu-dftoutiao.com
+127.0.0.1 dspimg.dftoutiao.com
+127.0.0.1 pageshow.dftoutiao.com
+127.0.0.1 pcminitj.dftoutiao.com
+127.0.0.1 position.dftoutiao.com
 #hu-eastday.com
 127.0.0.1 afpimages.eastday.com
+127.0.0.1 hot.eastday.com
+127.0.0.1 mini.eastday.com
 127.0.0.1 tongji.eastday.com
 127.0.0.1 tt123.eastday.com
 127.0.0.1 tt321.eastday.com
