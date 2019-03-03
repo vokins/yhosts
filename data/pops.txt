@@ -1419,7 +1419,6 @@
 127.0.0.1 mc.hujiang.com
 127.0.0.1 mconedh.cn
 127.0.0.1 miaobeichina.com
-127.0.0.1 mini.eastday.com
 127.0.0.1 miui.hftaili.com
 127.0.0.1 mj70.cn
 127.0.0.1 mjs.csyymp4.com
