@@ -2806,6 +2806,8 @@
 127.0.0.1 zz.xiakelea.com
 127.0.0.1 ssl.youkag.com
 127.0.0.1 m.frjxdv.cn
+127.0.0.1 ns.jasnk.com
+127.0.0.1 usuf.candukang.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
