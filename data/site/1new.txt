@@ -355,3 +355,8 @@
 127.0.0.1 m.frjxdv.cn
 127.0.0.1 ns.jasnk.com
 127.0.0.1 usuf.candukang.cn
+127.0.0.1 e.feisia1.cn
+127.0.0.1 m.feisia1.cn
+127.0.0.1 staticcdn.ecootec.com
+127.0.0.1 vbje.linyankm.cn
+127.0.0.1 statics.woozooo.com

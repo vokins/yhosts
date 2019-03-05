@@ -1,5 +1,5 @@
 
-#version=201903031923
+#version=201903051138
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -2350,6 +2350,11 @@
 127.0.0.1 m.frjxdv.cn
 127.0.0.1 ns.jasnk.com
 127.0.0.1 usuf.candukang.cn
+127.0.0.1 e.feisia1.cn
+127.0.0.1 m.feisia1.cn
+127.0.0.1 staticcdn.ecootec.com
+127.0.0.1 vbje.linyankm.cn
+127.0.0.1 statics.woozooo.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -4720,7 +4725,6 @@
 127.0.0.1 sm2.todgo.com
 127.0.0.1 sod.onelink.me
 127.0.0.1 soft.chaomeng8.com
-127.0.0.1 sou.xanbhx.com
 127.0.0.1 sourcescdn.xiaobingw.cn
 127.0.0.1 sp.wndoor.com
 127.0.0.1 sqd.jstdjq.com
