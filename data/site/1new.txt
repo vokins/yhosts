@@ -369,3 +369,16 @@
 127.0.0.1 photo.backerbiotech.cn
 127.0.0.1 photo.hebhec.cn
 127.0.0.1 qi.wndlkj.com
+127.0.0.1 cwzx.dengfenzhang.cn
+127.0.0.1 e.vchiy.com
+127.0.0.1 e.xroun.com
+127.0.0.1 j3.dthznc.com
+127.0.0.1 kign.biluzhang.cn
+127.0.0.1 ldk.ruiyufangchan.cn
+127.0.0.1 m.exusr.com
+127.0.0.1 m.gcaih.com
+127.0.0.1 m.iangs.com
+127.0.0.1 m.pquea.com
+127.0.0.1 m.vchiy.com
+127.0.0.1 m.xroun.com
+127.0.0.1 www.gdlbdzkj.com
