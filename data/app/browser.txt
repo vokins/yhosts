@@ -22,8 +22,6 @@
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 canvas.gdt.qq.com
-127.0.0.1 pcbrowser.dd.qq.com
-127.0.0.1 stdl.qq.com
 #http://mse.360.cn/
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn

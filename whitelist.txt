@@ -12,7 +12,8 @@ current.sina.com.cn 这个网址 禁了没法看新浪财经的股票查询历史
 https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 http://mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 
-
+127.0.0.1 pcbrowser.dd.qq.com
+127.0.0.1 stdl.qq.com
 g.163.com
 gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
 127.0.0.1 app.adjust.com 微软安全相关通知等

@@ -359,7 +359,6 @@
 127.0.0.1 m.feisia1.cn
 127.0.0.1 staticcdn.ecootec.com
 127.0.0.1 vbje.linyankm.cn
-127.0.0.1 statics.woozooo.com
 127.0.0.1 e.ijuns.com
 127.0.0.1 e.kfeiu.com
 127.0.0.1 m.gcouh.com

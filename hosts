@@ -1,5 +1,5 @@
 
-#version=201903112224
+#version=201903202315
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1543,8 +1543,6 @@
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 canvas.gdt.qq.com
-127.0.0.1 pcbrowser.dd.qq.com
-127.0.0.1 stdl.qq.com
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
 127.0.0.1 config.push.sogou.com
@@ -1993,6 +1991,22 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 m.laxienian888.com
+127.0.0.1 m.xk0x.cn
+127.0.0.1 photo.hhmyi.cn
+127.0.0.1 photo.majiang188.cn
+127.0.0.1 photo.xxlywl.cn
+127.0.0.1 sdn.chaxiaohao.top
+127.0.0.1 ssl.hp-china.biz
+127.0.0.1 www.tjhhr.com
+127.0.0.1 xhyd.uxyrl.cn
+127.0.0.1 m.ecenf.com
+127.0.0.1 m.djunf.com
+127.0.0.1 e.sbaoe.com
+127.0.0.1 m.ihais.com
+127.0.0.1 m.sbaoe.com
+127.0.0.1 e.ihais.com
+127.0.0.1 m.ijieo.com
 127.0.0.1 s1.leshi123.cc
 127.0.0.1 s2.leshi123.cc
 127.0.0.1 anhm.acv5e.cn
@@ -2354,7 +2368,6 @@
 127.0.0.1 m.feisia1.cn
 127.0.0.1 staticcdn.ecootec.com
 127.0.0.1 vbje.linyankm.cn
-127.0.0.1 statics.woozooo.com
 127.0.0.1 e.ijuns.com
 127.0.0.1 e.kfeiu.com
 127.0.0.1 m.gcouh.com
