@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.53
+! Version: 0.55
 ! Title: yLists
-! Last modified: 12:12 2019/2/9
+! Last modified: 16:09 2019/3/21
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -72,3 +72,6 @@ www.xinhuanet.com###topAdv
 ||mediav.com^
 
 https://cdn.v2ex.com/assets/sidebar/*
+https://static.ettoday.net/ad/*
+https://ad.ettoday.net/*
+ettoday.net##div[class^="adM"]

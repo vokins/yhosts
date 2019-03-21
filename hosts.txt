@@ -3509,6 +3509,8 @@
 #77shw.com
 127.0.0.1 a.77shw.com
 127.0.0.1 b.77shw.com
+#m.ettoday.net
+127.0.0.1 ad.ettoday.net
 #https://www.xmkanshu.com/
 127.0.0.1 zhggw.dre8.com
 127.0.0.1 wxggtg.dre8.com
