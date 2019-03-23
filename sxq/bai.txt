@@ -3,7 +3,6 @@
 7xkfic.com2.z0.glb.qiniucdn.com
 a.app.qq.com
 access.tv.sohu.com
-sou.xanbhx.com
 alicili.pw
 app.3987.com
 app.hytdsm.com
@@ -19,6 +18,7 @@ btkitty.pet
 btlibrary.cc
 btwhat.org
 c.mipcdn.com
+cd.qw.shushu8.com
 cdn.bootcss.com
 cdn.jsdelivr.net
 chuanyuezhe.yetianzi.com
@@ -314,6 +314,7 @@ savebt.com
 savebt.org
 search.htm
 shang.qq.com
+sou.xanbhx.com
 sp0.baidu.com
 static.499.cn
 static.duoshuo.com

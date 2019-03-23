@@ -2459,6 +2459,8 @@
 127.0.0.1 ssl.hp-china.biz
 127.0.0.1 www.tjhhr.com
 127.0.0.1 xhyd.uxyrl.cn
+127.0.0.1 m.i05h.cn
+127.0.0.1 wxas.ejwmc.cn
 #-1
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
@@ -2467,6 +2469,16 @@
 127.0.0.1 m.sbaoe.com
 127.0.0.1 e.ihais.com
 127.0.0.1 m.ijieo.com
+127.0.0.1 m.dgouf.com
+127.0.0.1 m.fgaon.com
+127.0.0.1 m.rcaiu.com
+127.0.0.1 e.vpeny.com
+127.0.0.1 m.vpeny.com
+127.0.0.1 m.fxunn.com
+127.0.0.1 m.vhuay.com
+127.0.0.1 e.fxunn.com
+127.0.0.1 e.rcaiu.com
+127.0.0.1 m.ggouh.com
 127.0.0.1 s1.leshi123.cc
 127.0.0.1 s2.leshi123.cc
 127.0.0.1 anhm.acv5e.cn
@@ -3511,6 +3523,11 @@
 127.0.0.1 b.77shw.com
 #m.ettoday.net
 127.0.0.1 ad.ettoday.net
+#tw.mobi.yhoo.com
+127.0.0.1 yap.yahoo.com
+127.0.0.1 onemobile.yahoo.com
+127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 ads.adaptv.advertising.com
 #https://www.xmkanshu.com/
 127.0.0.1 zhggw.dre8.com
 127.0.0.1 wxggtg.dre8.com

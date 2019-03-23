@@ -1,2 +1,7 @@
 #m.ettoday.net
 127.0.0.1 ad.ettoday.net
+#tw.mobi.yhoo.com
+127.0.0.1 yap.yahoo.com
+127.0.0.1 onemobile.yahoo.com
+127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 ads.adaptv.advertising.com
