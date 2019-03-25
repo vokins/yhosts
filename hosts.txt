@@ -2461,6 +2461,7 @@
 127.0.0.1 xhyd.uxyrl.cn
 127.0.0.1 m.i05h.cn
 127.0.0.1 wxas.ejwmc.cn
+127.0.0.1 c.kuaituisss.com
 #-1
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
@@ -2479,6 +2480,7 @@
 127.0.0.1 e.fxunn.com
 127.0.0.1 e.rcaiu.com
 127.0.0.1 m.ggouh.com
+127.0.0.1 e.ggouh.com
 127.0.0.1 s1.leshi123.cc
 127.0.0.1 s2.leshi123.cc
 127.0.0.1 anhm.acv5e.cn
