@@ -2462,6 +2462,10 @@
 127.0.0.1 m.i05h.cn
 127.0.0.1 wxas.ejwmc.cn
 127.0.0.1 c.kuaituisss.com
+127.0.0.1 www.jshonghuadq.com
+127.0.0.1 www.renminben.com
+127.0.0.1 photo.domainrank.cn
+127.0.0.1 yxrp.lianfuhuang.cn
 #-1
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
@@ -2481,6 +2485,17 @@
 127.0.0.1 e.rcaiu.com
 127.0.0.1 m.ggouh.com
 127.0.0.1 e.ggouh.com
+127.0.0.1 m.aquns.com
+127.0.0.1 m.sdaih.com
+127.0.0.1 m.stuoe.com
+127.0.0.1 m.yfano.com
+127.0.0.1 m.xkunn.com
+127.0.0.1 m.jpenk.com
+127.0.0.1 m.jkuok.com
+127.0.0.1 m.izaos.com
+127.0.0.1 e.yfano.com
+127.0.0.1 e.rjiau.com
+127.0.0.1 e.izaos.com
 127.0.0.1 s1.leshi123.cc
 127.0.0.1 s2.leshi123.cc
 127.0.0.1 anhm.acv5e.cn
@@ -8480,6 +8495,9 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 soft.jiegeng.com
+127.0.0.1 log.liusha.info
+127.0.0.1 statistics.liusha.info
+127.0.0.1 template.liusha.info
 #cibn-vst
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net

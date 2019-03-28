@@ -146,3 +146,6 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 soft.jiegeng.com
+127.0.0.1 log.liusha.info
+127.0.0.1 statistics.liusha.info
+127.0.0.1 template.liusha.info

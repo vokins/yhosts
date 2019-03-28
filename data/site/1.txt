@@ -11,6 +11,10 @@
 127.0.0.1 m.i05h.cn
 127.0.0.1 wxas.ejwmc.cn
 127.0.0.1 c.kuaituisss.com
+127.0.0.1 www.jshonghuadq.com
+127.0.0.1 www.renminben.com
+127.0.0.1 photo.domainrank.cn
+127.0.0.1 yxrp.lianfuhuang.cn
 #-1
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
@@ -30,3 +34,14 @@
 127.0.0.1 e.rcaiu.com
 127.0.0.1 m.ggouh.com
 127.0.0.1 e.ggouh.com
+127.0.0.1 m.aquns.com
+127.0.0.1 m.sdaih.com
+127.0.0.1 m.stuoe.com
+127.0.0.1 m.yfano.com
+127.0.0.1 m.xkunn.com
+127.0.0.1 m.jpenk.com
+127.0.0.1 m.jkuok.com
+127.0.0.1 m.izaos.com
+127.0.0.1 e.yfano.com
+127.0.0.1 e.rjiau.com
+127.0.0.1 e.izaos.com

