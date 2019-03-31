@@ -1,5 +1,5 @@
 
-#version=201903311528
+#version=201903312358
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -316,7 +316,6 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
-127.0.0.1 msite.baidu.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 pc.videoclick.baidu.com

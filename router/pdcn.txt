@@ -2,3 +2,7 @@
 00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/union.conf -O /etc/storage/dnsmasq/dnsmasq.d/union.conf;restart_dhcpd
 00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/dnsmasq/ip.conf -O /etc/storage/dnsmasq/dnsmasq.d/ip.conf;restart_dhcpd
 00 00 * * * wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts  -O /etc/storage/dnsmasq/hosts;restart_dhcpd
+
+
+#一键自动更新固件脚本
+wget --no-check-certificate -O- https://opt.cn2qq.com/opt-script/up.sh > /tmp/up.sh && bash < /tmp/up.sh
