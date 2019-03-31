@@ -5,6 +5,8 @@ a.app.qq.com
 access.tv.sohu.com
 alicili.pw
 app.3987.com
+s.bdstatic.com
+msite.baidu.com
 app.hytdsm.com
 apps.bdimg.com
 bbs.safedog.cn

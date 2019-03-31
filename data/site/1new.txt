@@ -271,7 +271,6 @@
 127.0.0.1 rabc2.iteye.com
 127.0.0.1 rk.rongchengxxw.com
 127.0.0.1 s.456jjh.cn
-127.0.0.1 s.bdstatic.com
 127.0.0.1 s.hoverming.cn
 127.0.0.1 s.huayi65.com
 127.0.0.1 s.sufficient.cn
