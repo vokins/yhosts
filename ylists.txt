@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.55
+! Version: 0.56
 ! Title: yLists
-! Last modified: 16:09 2019/3/21
+! Last modified: 18:04 2019/4/7
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -28,7 +28,14 @@
 *.googlesyndication.com/*
 *.googleadsserving.cn/*
 *.doubleclick.net/*
-https://www.google-analytics.com/analytics.js
+https://adservice.google.com/*
+https://www.google-analytics.com/analytics.js*
+https://www.googletagmanager.com/gtm.js*
+https://www.googletagservices.com/activeview/js/*
+https://www.googletagservices.com/tag/js/*
+
+https://*.scorecardresearch.com/*
+
 http://pos.baidu.com/*
 http://wn.pos.baidu.com/*
 http://cpro.baidustatic.com/*
