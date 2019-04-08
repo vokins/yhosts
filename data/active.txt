@@ -45,5 +45,3 @@
 127.0.0.1 updates-s3.binaryage.com
 #wondershare.com
 127.0.0.1 cbs.wondershare.com
-127.0.0.1 macplatform.wondershare.com
-127.0.0.1 platform.wondershare.com

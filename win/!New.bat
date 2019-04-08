@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 11:38 2019/3/27
+rem 10:39 2019/4/8
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -57,8 +57,8 @@ echo 启动和故障恢复：开机：设置开机磁盘扫描等待时间为1秒
 chkntfs /t:1
 echo 启动和故障恢复：开机：设置开机显示操作系统列表时间2秒
 bcdedit /timeout 2
-echo 启动设置开机按F8键直接进入安全模式菜单
-bcdedit /set {default} bootmenupolicy legacy
+rem echo 启动设置开机按F8键直接进入安全模式菜单
+rem bcdedit /set {default} bootmenupolicy legacy
 goto :eof
 
 :Chrome
@@ -989,7 +989,7 @@ goto :eof
 
 :WindowsDefender
 echo 删除安全中心开机启动
-reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v SecurityHealth /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SecurityHealth" /f >nul 2>nul
 echo 禁用Windows Defender 安全中心服务
 reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
