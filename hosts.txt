@@ -39,6 +39,14 @@
 127.0.0.1 licenses.ashampoo.com
 #Capture One
 127.0.0.1 activation.phaseone.com
+#corel
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
 #cuteftp
 127.0.0.1 dbregistration.cuteftp.com
 #cyberlink
@@ -67,8 +75,6 @@
 127.0.0.1 updates-s3.binaryage.com
 #wondershare.com
 127.0.0.1 cbs.wondershare.com
-127.0.0.1 macplatform.wondershare.com
-127.0.0.1 platform.wondershare.com
 #126
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
@@ -2514,7 +2520,15 @@
 127.0.0.1 img.dajibai.com
 127.0.0.1 m.vnanf.com
 127.0.0.1 www.kaitoupiao.com
+127.0.0.1 e.uksnyf.cn
+127.0.0.1 iwvo.bym03.cn
+127.0.0.1 m.ybfwmm.cn
+127.0.0.1 zxod.b54ah.cn
 #-
+127.0.0.1 m.siwyom.com
+127.0.0.1 m.cgoiiq.com
+127.0.0.1 m.ceyiuy.com
+127.0.0.1 m.iygeoy.com
 127.0.0.1 m.llaoz.com
 127.0.0.1 m.lfouz.com
 127.0.0.1 m.dbaof.com

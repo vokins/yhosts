@@ -1,5 +1,5 @@
 
-#version=201904071806
+#version=20190410 954
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -12,6 +12,13 @@
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 licenses.ashampoo.com
 127.0.0.1 activation.phaseone.com
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
 127.0.0.1 dbregistration.cuteftp.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
@@ -29,8 +36,6 @@
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
 127.0.0.1 cbs.wondershare.com
-127.0.0.1 macplatform.wondershare.com
-127.0.0.1 platform.wondershare.com
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
@@ -2055,6 +2060,14 @@
 127.0.0.1 img.dajibai.com
 127.0.0.1 m.vnanf.com
 127.0.0.1 www.kaitoupiao.com
+127.0.0.1 e.uksnyf.cn
+127.0.0.1 iwvo.bym03.cn
+127.0.0.1 m.ybfwmm.cn
+127.0.0.1 zxod.b54ah.cn
+127.0.0.1 m.siwyom.com
+127.0.0.1 m.cgoiiq.com
+127.0.0.1 m.ceyiuy.com
+127.0.0.1 m.iygeoy.com
 127.0.0.1 m.llaoz.com
 127.0.0.1 m.lfouz.com
 127.0.0.1 m.dbaof.com

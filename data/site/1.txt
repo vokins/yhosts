@@ -64,7 +64,15 @@
 127.0.0.1 img.dajibai.com
 127.0.0.1 m.vnanf.com
 127.0.0.1 www.kaitoupiao.com
+127.0.0.1 e.uksnyf.cn
+127.0.0.1 iwvo.bym03.cn
+127.0.0.1 m.ybfwmm.cn
+127.0.0.1 zxod.b54ah.cn
 #-
+127.0.0.1 m.siwyom.com
+127.0.0.1 m.cgoiiq.com
+127.0.0.1 m.ceyiuy.com
+127.0.0.1 m.iygeoy.com
 127.0.0.1 m.llaoz.com
 127.0.0.1 m.lfouz.com
 127.0.0.1 m.dbaof.com

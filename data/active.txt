@@ -17,6 +17,14 @@
 127.0.0.1 licenses.ashampoo.com
 #Capture One
 127.0.0.1 activation.phaseone.com
+#corel
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
 #cuteftp
 127.0.0.1 dbregistration.cuteftp.com
 #cyberlink
