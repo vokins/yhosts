@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:39 2019/4/8
+rem 18:12 2019/4/10
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -19,6 +19,7 @@ call :DesktopIE
 call :DesktopIEBank
 call :Explorer
 call :ExplorerUpdate
+call :FileTypes
 call :FixCHM
 call :InputMethodCHS
 call :InternetExplorer
@@ -110,8 +111,8 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\011" /ve /d "易
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\011\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cietv.com/live/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\012" /ve /d "CCTV(&1)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\012\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://tv.cctv.com/live/cctv5/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013" /ve /d "97电影院(&5)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.55xia.com/" /f
+rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013" /ve /d "97电影院(&5)" /f
+rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.55xia.com/" /f
 rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\020" /ve /d "支付宝(&Z)" /f
 rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\020\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.alipay.com/" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\1Nohome" /ve /d "打开空白首页(&O)" /f
@@ -259,6 +260,30 @@ echo 修复Win删除文件后刷新不及时的问题
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Update" /v "UpdateMode" /t REG_DWORD /d 0 /f
 echo 菜单运行速度优化（默认值400）
 reg add "HKCU\Control Panel\Desktop" /v "MenuShowDelay" /d "100" /f
+goto :eof
+
+:FileTypes
+::禁止 不断重复恢复默认设置
+rem Microsoft.3DBuilder：File Types: .stl, .3mf, .obj, .wrl, .ply, .fbx, .3ds, .dae, .dxf, .bmp, .jpg, .png, .tga
+reg add "HKCU\SOFTWARE\Classes\AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg" /v "NoOpenWith" /d "" /f
+rem Microsoft Edge：File Types: .htm, .html
+reg add "HKCU\SOFTWARE\Classes\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" /v "NoOpenWith" /d "" /f
+rem File Types: .pdf
+reg add "HKCU\SOFTWARE\Classes\AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723" /v "NoOpenWith" /d "" /f
+rem File Types: .svg
+reg add "HKCU\SOFTWARE\Classes\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs" /v "NoOpenWith" /d "" /f
+rem File Types: .xml
+reg add "HKCU\SOFTWARE\Classes\AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t" /v "NoOpenWith" /d "" /f
+rem Microsoft Photos File Types: .3g2,.3gp, .3gp2, .3gpp, .asf, .avi, .m2t, .m2ts, .m4v, .mkv, .mov, .mp4, mp4v, .mts, .tif, .tiff, .wmv
+reg add "HKCU\SOFTWARE\Classes\AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt" /v "NoOpenWith" /d "" /f
+rem File Types: Most Image File Types
+reg add "HKCU\SOFTWARE\Classes\AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" /v "NoOpenWith" /d "" /f
+rem File Types: .raw, .rwl, .rw2 and others
+reg add "HKCU\SOFTWARE\Classes\AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" /v "NoOpenWith" /d "" /f
+rem Zune Music：File Types: .aac, .adt, .adts ,.amr, .flac, .m3u, .m4a, .m4r, .mp3, .mpa, .wav, .wma, .wpl, .zpl
+reg add "HKCU\SOFTWARE\Classes\AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" /v "NoOpenWith" /d "" /f
+rem Zune Video：File Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
+reg add "HKCU\SOFTWARE\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" /v "NoOpenWith" /d "" /f
 goto :eof
 
 :FixCHM
