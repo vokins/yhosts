@@ -1,4 +1,7 @@
 #makeding
+127.0.0.1 wm.makeding.com
+127.0.0.1 xiazai.pdfexpert.cc
+127.0.0.1 xiazai.crossoverchina.com
 127.0.0.1 xmindchina.net
 127.0.0.1 www.xmindchina.net
 127.0.0.1 xia.xmindchina.net
@@ -9,7 +12,6 @@
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 iconworkshop.cn
 127.0.0.1 www.pdfexpert.cc
-127.0.0.1 xiazai.pdfexpert.cc
 127.0.0.1 www.zhzzx.com
 127.0.0.1 www.4009997658.com
 127.0.0.1 4009997658.com
@@ -21,7 +23,6 @@
 127.0.0.1 mairuan.com.cn
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
-127.0.0.1 wm.makeding.com
 127.0.0.1 www.ntfsformac.cc
 127.0.0.1 www.makeding.com
 127.0.0.1 makeding.com
