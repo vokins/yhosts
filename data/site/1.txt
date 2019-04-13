@@ -77,7 +77,19 @@
 127.0.0.1 www.gggwwwe.com
 127.0.0.1 mfkn.71mxc6.cn
 127.0.0.1 ydlz.k859n.cn
+127.0.0.1 e.2st5ne.cn
+127.0.0.1 e.v48bna.cn
+127.0.0.1 jfot.e647ob.cn
+127.0.0.1 jj.198dh.cn
+127.0.0.1 www.cccwwwr.com
+127.0.0.1 x.jullycn.com
+127.0.0.1 h.wpjly.cn
+127.0.0.1 www.coolyi.com
 #-
+127.0.0.1 m.ifeib.com
+127.0.0.1 m.imykgs.com
+127.0.0.1 m.ogeigs.com
+127.0.0.1 s.mlion.cn
 127.0.0.1 m.egqiyw.com
 127.0.0.1 m.iqasgw.com
 127.0.0.1 m.tfeic.com
