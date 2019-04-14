@@ -94,6 +94,8 @@
 127.0.0.1 m.jc9388.com
 127.0.0.1 oldk.gtifund.cn
 127.0.0.1 tfy.sswip.cn
+127.0.0.1 ad.wang502.com
+127.0.0.1 pb.wang502.com
 #-
 127.0.0.1 m.cioysg.com
 127.0.0.1 m.ifeib.com

@@ -1,13 +1,15 @@
 [Adblock Plus 2.0]
-! Version: 0.56
+! Version: 0.58
 ! Title: yLists
-! Last modified: 18:04 2019/4/7
+! Last modified: 17:09 2019/4/14
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
 ! Fork of: yList https://raw.githubusercontent.com/vokins/yhosts/master/ylists.txt
 ! Homepage: https://github.com/vokins/yhosts/blob/master/ylists.txt
 !
+
+*/ad-img/*
 
 ##a[class^="ad_hover"]
 ##div[adtype$="Ad"]
@@ -22,9 +24,13 @@
 ##div[class*="_textlink"]
 ##div[class^="ad_text"]
 ##div[id*="_ad_text_"] 
+##img[alt="ads.png"]
+##a[href*="cr-nielsen.com/"]
+
 */adcreatives/*
 */advertisement/*
 */pagead/*
+*/simgad/*
 *.googlesyndication.com/*
 *.googleadsserving.cn/*
 *.doubleclick.net/*
@@ -33,6 +39,9 @@ https://www.google-analytics.com/analytics.js*
 https://www.googletagmanager.com/gtm.js*
 https://www.googletagservices.com/activeview/js/*
 https://www.googletagservices.com/tag/js/*
+
+*/taboola/*
+https://*.taboola.com*
 
 https://*.scorecardresearch.com/*
 

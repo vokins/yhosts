@@ -80,6 +80,7 @@
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
+127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 webstat.ws.126.net
 #163-news
 127.0.0.1 analytics.163.com
@@ -2550,6 +2551,8 @@
 127.0.0.1 m.jc9388.com
 127.0.0.1 oldk.gtifund.cn
 127.0.0.1 tfy.sswip.cn
+127.0.0.1 ad.wang502.com
+127.0.0.1 pb.wang502.com
 #-
 127.0.0.1 m.cioysg.com
 127.0.0.1 m.ifeib.com
