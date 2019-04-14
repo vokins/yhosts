@@ -1,6 +1,9 @@
 #Info Flow
 127.0.0.1 xiongzhang.baidu.com
-
+http://k.gsdhome.cn/Images/20190214182635.jpg
+http://ctrl.playcvn.com/player/ads?platform=20
+http://renren2.maoyun.tv/zds/zdsop.mp4
+http://renren2.maoyun.tv/apptu/1553169694732_0008.jpg
 https://adservice.google.com/adsid/integrator.js?domain=tw.appledaily.com
 https://cm.g.doubleclick.net/pixel?google_nid=lotame_dmp&google_cm
 https://googleads.g.doubleclick.net/pagead/conversion/?ai=&sigh=BpnfxIaauQU&label=window_focus&gqid&qqid=CPnGlaDbveECFVRnfgod7gABnA&fg=1

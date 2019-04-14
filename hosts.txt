@@ -2541,7 +2541,17 @@
 127.0.0.1 x.jullycn.com
 127.0.0.1 h.wpjly.cn
 127.0.0.1 www.coolyi.com
+127.0.0.1 k.gsdhome.cn
+127.0.0.1 i.xdywlw.cn
+127.0.0.1 r01.g1c5.com
+127.0.0.1 renren2.maoyun.tv
+127.0.0.1 e.iygqhe.cn
+127.0.0.1 e.tspric.cn
+127.0.0.1 m.jc9388.com
+127.0.0.1 oldk.gtifund.cn
+127.0.0.1 tfy.sswip.cn
 #-
+127.0.0.1 m.cioysg.com
 127.0.0.1 m.ifeib.com
 127.0.0.1 m.imykgs.com
 127.0.0.1 m.ogeigs.com
