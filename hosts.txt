@@ -2553,6 +2553,11 @@
 127.0.0.1 tfy.sswip.cn
 127.0.0.1 ad.wang502.com
 127.0.0.1 pb.wang502.com
+127.0.0.1 jimg.jisuoping.com
+127.0.0.1 nads.wuaiso.com
+127.0.0.1 s.dbojetp.cn
+127.0.0.1 vj.tianji520.cn
+127.0.0.1 vvv.lunqudai.com
 #-
 127.0.0.1 m.cioysg.com
 127.0.0.1 m.ifeib.com
