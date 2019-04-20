@@ -1711,6 +1711,7 @@
 127.0.0.1 static1.kewaishu.info
 127.0.0.1 staticjs.cn
 127.0.0.1 statics.9669.com
+127.0.0.1 analytics.woozooo.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 stats.dmp.ghac.cn

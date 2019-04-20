@@ -450,6 +450,7 @@
 127.0.0.1 match.taboola.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn

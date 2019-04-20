@@ -188,6 +188,7 @@
 127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
+127.0.0.1 ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 #ipinyou
@@ -2579,6 +2580,7 @@
 127.0.0.1 hpco.6fai2.cn
 127.0.0.1 f3.souid.com
 127.0.0.1 cnzz.pygold.net
+127.0.0.1 www.web605.cn
 #-
 127.0.0.1 m.7n3e8o.com
 127.0.0.1 m.cfanm.com
@@ -5582,6 +5584,7 @@
 127.0.0.1 static1.kewaishu.info
 127.0.0.1 staticjs.cn
 127.0.0.1 statics.9669.com
+127.0.0.1 analytics.woozooo.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 stats.dmp.ghac.cn
@@ -8207,6 +8210,7 @@
 127.0.0.1 match.taboola.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
