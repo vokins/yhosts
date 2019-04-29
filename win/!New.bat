@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 18:12 2019/4/10
+rem 15:39 2019/4/23
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -16,7 +16,7 @@ call :Clipboard
 call :ControlPanelRegedit
 call :Desktop
 call :DesktopIE
-call :DesktopIEBank
+rem call :DesktopIEBank
 call :Explorer
 call :ExplorerUpdate
 call :FileTypes
@@ -45,12 +45,12 @@ call :WMPlayer
 call :WindowsDefender
 call :WindowsLog
 call :WindowsUAC
-call :WindowsUpdateClr
-call :Wsreset
-
+call :SoftSN
 call :GpUpdate
 call :IconUpdate
 call :OneDrive
+call :WindowsUpdateClr
+call :Wsreset
 exit
 
 :Bcdedit
@@ -58,8 +58,16 @@ echo 启动和故障恢复：开机：设置开机磁盘扫描等待时间为1秒
 chkntfs /t:1
 echo 启动和故障恢复：开机：设置开机显示操作系统列表时间2秒
 bcdedit /timeout 2
-rem echo 启动设置开机按F8键直接进入安全模式菜单
-rem bcdedit /set {default} bootmenupolicy legacy
+echo 禁止部分程序后台更新和自启动
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f >nul 2>nul
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "OneDrive" /f >nul 2>nul
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "Vivaldi Update Notifier" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "IgfxTray" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "Persistence" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "RtHDVCpl" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "StartCCC" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f >nul 2>nul
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "WindowsWelcomeCenter" /f >nul 2>nul
 goto :eof
 
 :Chrome
@@ -97,8 +105,6 @@ goto :eof
 
 :DesktopIE
 echo 在桌面创建多功能Internet Explorer快捷方式
-reg delete "HKCR\CLSID\{B416D21B-3B22-B6D4-BBD3-BBD452DB3D5B}" /f > NUL 2>&1
-reg delete "HKLM\SOFTWARE\Classes\CLSID\{B416D21B-3B22-B6D4-BBD3-BBD452DB3D5B}" /f > NUL 2>&1
 reg delete "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /f > NUL 2>&1
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{00000000-0000-0000-0000-000000000000}" /ve /d "Internet Explorer" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /v "InfoTip" /d "@C:\Windows\System32\ieframe.dll,-881" /f
@@ -266,7 +272,9 @@ goto :eof
 ::禁止 不断重复恢复默认设置
 rem Microsoft.3DBuilder：File Types: .stl, .3mf, .obj, .wrl, .ply, .fbx, .3ds, .dae, .dxf, .bmp, .jpg, .png, .tga
 reg add "HKCU\SOFTWARE\Classes\AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg" /v "NoOpenWith" /d "" /f
-rem Microsoft Edge：File Types: .htm, .html
+
+rem Microsoft Edge：
+rem File Types: .htm, .html
 reg add "HKCU\SOFTWARE\Classes\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" /v "NoOpenWith" /d "" /f
 rem File Types: .pdf
 reg add "HKCU\SOFTWARE\Classes\AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723" /v "NoOpenWith" /d "" /f
@@ -274,14 +282,18 @@ rem File Types: .svg
 reg add "HKCU\SOFTWARE\Classes\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs" /v "NoOpenWith" /d "" /f
 rem File Types: .xml
 reg add "HKCU\SOFTWARE\Classes\AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t" /v "NoOpenWith" /d "" /f
-rem Microsoft Photos File Types: .3g2,.3gp, .3gp2, .3gpp, .asf, .avi, .m2t, .m2ts, .m4v, .mkv, .mov, .mp4, mp4v, .mts, .tif, .tiff, .wmv
+
+rem Microsoft Photos：
+rem File Types: .3g2,.3gp, .3gp2, .3gpp, .asf, .avi, .m2t, .m2ts, .m4v, .mkv .mov, .mp4, mp4v, .mts, .tif, .tiff, .wmv
 reg add "HKCU\SOFTWARE\Classes\AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt" /v "NoOpenWith" /d "" /f
 rem File Types: Most Image File Types
 reg add "HKCU\SOFTWARE\Classes\AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" /v "NoOpenWith" /d "" /f
 rem File Types: .raw, .rwl, .rw2 and others
 reg add "HKCU\SOFTWARE\Classes\AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" /v "NoOpenWith" /d "" /f
+
 rem Zune Music：File Types: .aac, .adt, .adts ,.amr, .flac, .m3u, .m4a, .m4r, .mp3, .mpa, .wav, .wma, .wpl, .zpl
 reg add "HKCU\SOFTWARE\Classes\AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" /v "NoOpenWith" /d "" /f
+
 rem Zune Video：File Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
 reg add "HKCU\SOFTWARE\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" /v "NoOpenWith" /d "" /f
 goto :eof
@@ -313,8 +325,7 @@ goto :eof
 :InputMethodCHS
 echo 微软拼音默认为英语输入
 reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Default Mode" /t REG_DWORD /d 1 /f
-echo 关闭从云中获取候选词
-rem 关闭微软拼音云计算
+echo 关闭从云中获取候选词（关闭微软拼音云计算）
 reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "Enable Cloud Candidate" /t REG_DWORD /d 0 /f
 echo 关闭从云中获取贴纸
 reg add "HKCU\Software\Microsoft\InputMethod\Settings\CHS" /v "EnableLiveSticker" /t REG_DWORD /d 0 /f
@@ -482,13 +493,6 @@ echo 禁用 Receive Window Auto-Tuning Level（接收窗口自动调节级别）
 rem 复    原 netsh int tcp set global autotuninglevel=normal
 rem 查看状态 netsh interface tcp show global
 netsh int tcp set global autotuninglevel=disabled
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "GlobalMaxTcpWindowSize" /t REG_DWORD /d 65535 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxFreeTcbs" /t REG_DWORD /d 65536 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxHashTableSize" /t REG_DWORD /d 8192 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxUserPort" /t REG_DWORD /d 65534 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "TCPWindowSize" /t REG_DWORD /d 62420 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "Tcp1323Opts" /t REG_DWORD /d 1 /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "TcpTimedWaitDelay" /t REG_DWORD /d 30 /f
 goto :eof
 
 :NetShare
@@ -547,10 +551,6 @@ goto :eof
 :Powercfg
 echo 关闭休眠
 powercfg -h off
-rem 电源计划“节能”
-powercfg.exe -setactive a1841308-3541-4fab-bc81-f71556f20b4a
-rem 电源计划“平衡”
-rem powercfg.exe -setactive 381b4222-f694-41f0-9685-ff5bb260df2e
 echo 启用电源计划“高性能”
 powercfg -setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
 rem echo 开启卓越电源模式
@@ -571,10 +571,6 @@ echo 添加：新建：批处理：bat
 reg add "HKCR\.bat" /ve /d "batfile" /f
 reg add "HKCR\.bat\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
 reg add "HKCR\.bat\ShellNew" /v "NullFile" /d "" /f
-rem 添加：新建：批处理：cmd
-rem reg add "HKCR\.cmd" /ve /d "cmdfile" /f
-rem reg add "HKCR\.cmd\PersistentHandler" /ve /d "{5e941d80-bf96-11cd-b579-08002b30bfeb}" /f
-rem reg add "HKCR\.cmd\ShellNew" /v "NullFile" /d "" /f
 goto :eof
 
 :RightMenuDel
@@ -590,34 +586,25 @@ reg delete "HKLM\SOFTWARE\Classes\.rar\ShellNew" /f > NUL 2>&1
 rem .zip文件
 reg delete "HKLM\SOFTWARE\Classes\.zip\ShellNew" /f > NUL 2>&1
 echo 清理：右键：发送到
-rem 传真收件人
-del /f "%AppData%\Microsoft\Windows\SendTo\Fax Recipient.lnk" > NUL 2>&1
 rem 压缩(zipped)文件夹
 del /f "%AppData%\Microsoft\Windows\SendTo\Compressed (zipped) Folder.ZFSendToTarget" > NUL 2>&1
-rem 文档
-del /f "%AppData%\Microsoft\Windows\SendTo\文档.mydocs" > NUL 2>&1
+rem 传真收件人
+del /f "%AppData%\Microsoft\Windows\SendTo\Fax Recipient.lnk" > NUL 2>&1
 rem 邮件收件人
 del /f "%AppData%\Microsoft\Windows\SendTo\Mail Recipient.MAPIMail" > NUL 2>&1
+rem 文档
+del /f "%AppData%\Microsoft\Windows\SendTo\文档.mydocs" > NUL 2>&1
 echo 清理：回收站右键：固定到开始屏幕
 reg delete "HKLM\SOFTWARE\Classes\Folder\shellex\ContextMenuHandlers\PintoStartScreen" /f > NUL 2>&1
 echo 清理：文件：兼容性疑难解答
 reg delete "HKCR\Msi.Package\shellex\ContextMenuHandlers\Compatibility" /f > NUL 2>&1
 reg delete "HKCR\exefile\shellex\ContextMenuHandlers\Compatibility" /f > NUL 2>&1
-echo 清理：文件：固定到开始屏幕
-reg delete "HKCR\exefile\shellex\ContextMenuHandlers\PintoStartScreen" /f > NUL 2>&1
-echo 清理：文件：使用Windows Defender扫描
-reg delete "HKCR\*\shellex\ContextMenuHandlers\EPP" /f > NUL 2>&1
-reg delete "HKCR\Directory\shellex\ContextMenuHandlers\EPP" /f > NUL 2>&1
 echo 清理：文件：共享
 reg delete "HKCR\*\shellex\ContextMenuHandlers\ModernSharing" /f > NUL 2>&1
 echo 清理：文件：还原以前的版本
 reg delete "HKCR\Drive\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
 reg delete "HKCR\Directory\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
 reg delete "HKCR\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}" /f > NUL 2>&1
-echo 清理：禁用目录、文件夹、所有对象、的“始终脱机可用”
-reg delete "HKCR\Directory\shellex\ContextMenuHandlers\Offline Files" /f > NUL 2>&1
-reg delete "HKCR\Folder\shellex\ContextMenuHandlers\Offline Files" /f > NUL 2>&1
-reg delete "HKCR\AllFilesystemObjects\shellex\ContextMenuHandlers\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}" /f > NUL 2>&1
 echo 清理：磁盘文件夹：“固定到快速访问”
 reg delete "HKCR\Folder\shell\pintohome" /f > NUL 2>&1
 echo 清理：磁盘文件夹：“启用Bitlocker”右键菜单
@@ -625,17 +612,16 @@ reg delete "HKCR\Drive\shell\encrypt-bde" /f > NUL 2>&1
 reg delete "HKCR\Drive\shell\encrypt-bde-elev" /f > NUL 2>&1
 echo 清理：磁盘文件夹：“授予访问权限”（需重启）
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked" /v "{F81E9010-6EA4-11CE-A7FF-00AA003CA9F6}" /d "" /f > NUL 2>&1
-echo 清理：磁盘文件夹：“包含到库中”
-reg delete "HKCR\Folder\shellex\ContextMenuHandlers\Library Location" /f > NUL 2>&1
+echo 清理：文件夹：使用 VLC media player 播放
+reg delete "HKCR\Directory\shell\AddToPlaylistVLC" /f > NUL 2>&1
+reg delete "HKCR\Directory\shell\PlayWithVLC" /f > NUL 2>&1
+echo 清理：WinRAR 右键 右键相关
+reg add "HKCU\Software\WinRAR\Setup\MenuItems" /v "EmailArc" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\WinRAR\Setup\MenuItems" /v "EmailOpt" /t REG_DWORD /d 0 /f
 echo 清理：图片/音乐右键菜单中的“Windows Media Player”选项
 reg delete "HKCR\SystemFileAssociations\audio\shell" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Audio\shell" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Image\shell" /f > NUL 2>&1
-echo 清理：文件：图片：使用画图3D进行编辑
-reg delete "HKCR\SystemFileAssociations\.bmp\Shell\3D Edit" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.jpg\Shell\3D Edit" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.png\Shell\3D Edit" /f > NUL 2>&1
-reg delete "HKCR\SystemFileAssociations\.tif\Shell\3D Edit" /f > NUL 2>&1
 echo 清理：文件：图片：向左、向右旋转
 reg delete "HKCR\SystemFileAssociations\.bmp\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\.gif\ShellEx\ContextMenuHandlers\ShellImagePreview" /f > NUL 2>&1
@@ -656,6 +642,11 @@ reg delete "HKCR\SystemFileAssociations\.m4v\shellex\ContextMenuHandlers\PlayTo"
 reg delete "HKCR\SystemFileAssociations\Directory.Audio\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Image\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
 reg delete "HKCR\SystemFileAssociations\Directory.Video\shellex\ContextMenuHandlers\PlayTo" /f > NUL 2>&1
+echo 清理：文件：图片：使用画图3D进行编辑
+reg delete "HKCR\SystemFileAssociations\.bmp\Shell\3D Edit" /f > NUL 2>&1
+reg delete "HKCR\SystemFileAssociations\.jpg\Shell\3D Edit" /f > NUL 2>&1
+reg delete "HKCR\SystemFileAssociations\.png\Shell\3D Edit" /f > NUL 2>&1
+reg delete "HKCR\SystemFileAssociations\.tif\Shell\3D Edit" /f > NUL 2>&1
 echo 隐藏：图片右键：编辑 (按Shift显示)
 reg add "HKCR\SystemFileAssociations\image\shell\edit" /v "Extended" /d "" /f
 echo 隐藏：图片右键：设置为桌面背景 (按Shift显示)
@@ -682,7 +673,7 @@ reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxDTCM" /f >
 reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxOSP" /f > NUL 2>&1
 reg delete "HKCR\Directory\Background\ShellEx\ContextMenuHandlers\igfxcui" /f > NUL 2>&1
 echo 清理：Dell Display Manager
-reg delete "HKCR\DesktopBackground\Shell\DDM" /f
+reg delete "HKCR\DesktopBackground\Shell\DDM" /f > NUL 2>&1
 echo 清理：上传到WPS文档
 reg delete "HKCR\*\shellex\ContextMenuHandlers\qingshellext" /f > NUL 2>&1
 echo 清理：上传到百度网盘
@@ -739,6 +730,11 @@ reg add "HKCR\exefile\shell\runas2" /v "Extended" /d "" /f
 reg add "HKCR\exefile\shell\runas2" /v "Icon" /d "imageres.dll,1" /f
 reg add "HKCR\exefile\shell\runas2\command" /ve /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
 reg add "HKCR\exefile\shell\runas2\command" /v "IsolatedCommand" /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F" /f
+echo 添加：文件夹选项 (按Shift显示)
+reg add "HKCR\Directory\Background\shell\文件夹选项" /ve /d "文件夹选项" /f
+reg add "HKCR\Directory\Background\shell\文件夹选项" /v "Extended" /d "" /f
+reg add "HKCR\Directory\Background\shell\文件夹选项" /v "icon" /d "SHELL32.dll,4" /f
+reg add "HKCR\Directory\Background\shell\文件夹选项\command" /ve /d "rundll32.exe shell32.dll,Options_RunDLL 7" /f
 echo 添加：文件夹：CMD快速通道 (按Shift显示)
 reg add "HKCR\folder\shell\cmd" /ve /d "在此处打开命令提示符" /f
 reg add "HKCR\folder\shell\cmd" /v "icon" /d "shell32.dll,71" /f
@@ -758,7 +754,7 @@ goto :eof
 
 :RightMenuSysTools
 echo 添加系统工具程序组
-reg delete "HKCR\DesktopBackground\Shell\SysTools" /f
+reg delete "HKCR\DesktopBackground\Shell\SysTools" /f > NUL 2>&1
 reg add "HKCR\DesktopBackground\Shell\SysTools" /v "SubCommands" /d "" /f
 reg add "HKCR\DesktopBackground\Shell\SysTools" /v "Icon" /d "SHELL32.dll,76" /f
 reg add "HKCR\DesktopBackground\Shell\SysTools" /v "MUIVerb" /d "系统工具" /f
@@ -817,28 +813,22 @@ goto :eof
 rem 服务调整部分：Win默认禁用的服务：AppVClient NetTcpPortSharing ssh-agent RemoteRegistry RemoteAccess shpamsvc tzautoupdate UevAgentService
 rem 禁用使用情况信息的收集和传输
 echo Connected User Experiences and Telemetry
-net stop DiagTrack
 sc config DiagTrack start=disabled
 echo Data Sharing Service
-net stop DsSvc
 sc config DsSvc start=disabled
 echo Diagnostic Execution Service
-net stop diagsvc
 sc config diagsvc start=disabled
 echo 禁用诊断服务 Diagnostic Policy Service
-net stop DPS
 sc config DPS start=disabled
 echo Diagnostic Service Host
-sc stop WdiServiceHost
 sc config WdiServiceHost start=disabled
 echo Diagnostic System Host
-sc stop WdiSystemHost
 sc config WdiSystemHost start=disabled
 echo dmwappushsvc
 sc config dmwappushservice start=disabled
 echo Microsoft (R) 诊断中心标准收集器服务
 sc config diagnosticshub.standardcollector.service start=disabled
-echo Performance Logs & Alerts
+echo "Performance Logs & Alerts"
 sc config pla start=disabled
 echo Problem Reports and Solutions Control Panel Support
 sc config wercplsupport start=disabled
@@ -847,7 +837,6 @@ echo 禁用远程修改注册表
 sc config RemoteRegistry start=disabled
 echo 禁用程序兼容性助手 Program Compatibility Assistant Service
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v "DisablePCA" /d 1 /t REG_DWORD /f >nul 2>nul
-sc stop PcaSvc
 sc config PcaSvc start=disabled
 
 echo 禁用 Hyper-V
@@ -866,8 +855,6 @@ sc config vmicrdv start=disabled
 
 echo Xbox Accessory Management Service
 sc config XboxGipSvc start=disabled
-rem Xbox Game Monitoring
-rem sc config xbgm start= demand
 echo Xbox Live 身份验证管理器
 sc config XblAuthManager start=disabled
 echo Xbox Live 网络服务
@@ -893,13 +880,10 @@ sc config ShellHWDetection start=disabled
 echo Remote Registry(远程修改注册表)
 sc config RemoteRegistry start=disabled
 echo Superfetch
-net stop SysMain
 sc config SysMain start=disabled
 echo Windows Media Player Network Sharing Service
-sc stop WMPNetworkSvc
 sc config WMPNetworkSvc start=disabled
 echo Windows Search
-net stop WSearch
 taskkill /f /im SearchUI.exe > NUL 2>&1
 sc config WSearch start=disabled
 echo Windows 推送通知系统服务
@@ -938,8 +922,8 @@ echo 隐藏任务栏中的Cortana
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Search" /v "SearchboxTaskbarMode" /t REG_DWORD /d 0 /f
 echo 隐藏任务栏上的人脉
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People" /v "PeopleBand" /t REG_DWORD /d 0 /f
-echo 隐藏任务栏右下角操作中心图标：关闭右侧通知中心栏
-reg add "HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "DisableNotificationCenter" /t REG_DWORD /d 1 /f
+rem echo 隐藏任务栏右下角操作中心图标：关闭右侧通知中心栏
+rem reg add "HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "DisableNotificationCenter" /t REG_DWORD /d 1 /f
 echo 任务栏时间精确到秒
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "ShowSecondsInSystemClock" /t REG_DWORD /d 1 /f
 echo 当任务栏被占满时（合并任务栏按钮）：从不合并
@@ -952,11 +936,12 @@ echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\C
 goto :eof
 
 :Taskschd
+rem 任务计划程序调整 %windir%\system32\taskschd.msc /s start taskschd.msc /s
 echo Microsoft 客户体验改善计划
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64"
-SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\ProgramDataUpdater"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Application Experience\StartupAppTask"
@@ -964,6 +949,7 @@ SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Autochk\Proxy"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip"
+SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Diagnosis\Scheduled\RecommendedTroubleshootingScanner"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\Diagnosis\Scheduled"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector"
 SCHTASKS /Change /Disable /TN "\Microsoft\Windows\DiskFootprint\Diagnostics"
@@ -995,16 +981,17 @@ echo XblGameSaveTask
 SCHTASKS /Change /Disable /TN "\Microsoft\XblGameSave\XblGameSaveTask"
 echo Adobe
 SCHTASKS /Change /DISABLE /TN "\AdobeAAMUpdater-1.0-%computername%-%username%" > NUL 2>&1
+echo ASUS
+SCHTASKS /Change /DISABLE /TN "\ASUS\Ez Update" > NUL 2>&1
 echo GoogleUpdate
-SCHTASKS /Change /DISABLE /TN "\GoogleUpdateTaskMachineUA"
-SCHTASKS /Change /DISABLE /TN "\GoogleUpdateTaskMachineCore"
+SCHTASKS /Change /DISABLE /TN "\GoogleUpdateTaskMachineUA" > NUL 2>&1
+SCHTASKS /Change /DISABLE /TN "\GoogleUpdateTaskMachineCore" > NUL 2>&1
 echo Office遥测代理的后台任务
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack"
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn"
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\Office 15 Subscription Heartbeat" > NUL 2>&1
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentLogOn2016" > NUL 2>&1
 SCHTASKS /Change /DISABLE /TN "\Microsoft\Office\OfficeTelemetryAgentFallBack2016" > NUL 2>&1
-rem 任务计划程序调整 %windir%\system32\taskschd.msc /s start taskschd.msc /s
 goto :eof
 
 :WMPlayer
@@ -1022,7 +1009,7 @@ echo 在未安装通过微软注册的杀软的情况下关闭Windows Security Center
 reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
 echo 关闭 Windows Defender 防病毒程序
 taskkill /f /im MSASCuil.exe >nul 2>nul
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
 echo 允许反恶意软件服务始终保持运行状态
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "ServiceKeepAlive" /t REG_DWORD /d 0 /f
 echo 关闭 Windows Defender SmartScreen
@@ -1041,6 +1028,11 @@ echo 禁止在打开实时保护时启动进程扫描
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableScanOnRealtimeEnable" /t REG_DWORD /d 1 /f
 echo 禁用恶意软件删除工具的Windows更新
 reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontOfferThroughWUAU" /t REG_DWORD /d 1 /f
+echo 清理：文件：使用Windows Defender扫描
+reg delete "HKCR\Drive\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
+reg delete "HKCR\Directory\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
+reg delete "HKCR\*\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
+
 call :GpUpdate
 goto :eof
 
@@ -1081,4 +1073,48 @@ goto :eof
 :Wsreset
 echo 清理应用商店缓存
 wsreset
+goto :eof
+
+:SoftSN
+echo CollageIt
+rem http://www.collageitfree.com/download/CollageIt.exe
+reg add "HKCU\Software\PearlMountain\CollageIt" /v "RegCode" /d "CLGIT-0252A-0D167-1578C-0AB4F" /f
+echo Driver Magician
+rem http://www.drivermagician.com/DriverMagician.exe
+reg add "HKCU\Software\Driver Magician" /v "serialnumber" /d "6FL51dEf88-D88D2" /f
+reg add "HKCU\Software\Driver Magician" /v "username" /d "Driver Magician" /f
+echo EasyBoot
+reg add "HKCU\Software\EasyBoot Systems\EasyBoot\3.0" /v "UserName" /d "中华人民共和国" /f
+reg add "HKCU\Software\EasyBoot Systems\EasyBoot\3.0" /v "Registration" /d "771f3d7a0f2f6c481f73351609687f15" /f
+echo EasyBoot-UltraISO
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "UserName" /d "王涛" /f
+reg add "HKCU\Software\EasyBoot Systems\UltraISO\5.0" /v "Registration" /d "69414b170e136f766a32471009176109" /f
+echo gBurner
+rem http://www.gburner.com/download.htm
+reg add "HKCU\Software\gBurner" /v "USER" /t REG_BINARY /d "0007674275726e65723b74c6223b171dcc8490c50338d7262d" /f
+echo PowerISO
+rem http://www.poweriso.com/download.php
+reg add "HKCU\Software\PowerISO" /v "USER" /t REG_BINARY /d "0008506f77657249534fe66a84c1ce846925c12fb7f5f28e2b0c" /f
+echo Teleport Pro
+rem http://www.tenmax.com/teleport/pro/download.htm  http://www.tenmax.com/Teleport_Pro_Installer.exe
+reg add "HKCU\Software\Tennyson Maxwell\Teleport Pro\User" /v "Name" /d "Teleport Pro" /f
+reg add "HKCU\Software\Tennyson Maxwell\Teleport Pro\User" /v "Registration" /t REG_DWORD /d 597602693 /f
+echo TurboLaunch
+rem http://www.savardsoftware.com/turbolaunch/
+reg add "HKCU\Software\TurboLaunch" /v "RegistrationCode" /d "BHYQKB-DQJ5ZW-DD171G" /f
+reg add "HKCU\Software\TurboLaunch" /v "RegistrationName" /d "TurboLaunch" /f
+reg add "HKCU\Software\TurboLaunch" /v "ShowSplashScreen" /t REG_DWORD /d 0 /f
+echo WPS2000
+reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "User" /d "WPS User" /f
+reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "Company" /d "WPS" /f
+reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "Serial" /d "KSW00-00000-00000" /f
+echo ZD Soft\Screen Recorder
+rem http://www.zdsoft.com/download/SRSetup.exe
+reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Name" /d "Screen Recorder" /f
+reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Email" /d "screenrecorder@zdsoft.com" /f
+reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Key" /d "6C8J0-JNB6V-E5VEF-V02JX-BF6J0" /f
+echo XnView
+rem https://www.xnview.com/en/xnviewmp/#downloads
+reg add "HKLM\SOFTWARE\WOW6432Node\XnView" /v "LicenseName" /d "XnView" /f
+reg add "HKLM\SOFTWARE\WOW6432Node\XnView" /v "LicenseNumber" /d "1765133585" /f
 goto :eof
