@@ -140,7 +140,18 @@
 127.0.0.1 n.88android.com
 127.0.0.1 photo.maimi88.cn
 127.0.0.1 s.xodyw.com
+127.0.0.1 e.kwp79i.cn
+127.0.0.1 m.448u79.cn
 #-
+127.0.0.1 m.hrjjs.cn
+127.0.0.1 qde.chinaqirun.cn
+127.0.0.1 m.s52dv.com
+127.0.0.1 m.5mbd2.com
+127.0.0.1 m.iduob.com
+127.0.0.1 e.iduob.com
+127.0.0.1 m.08i94.com
+127.0.0.1 m.1yjlm.com
+127.0.0.1 m.sfp61.cn
 127.0.0.1 m.mffcf.cn
 127.0.0.1 m.7nej2.com
 127.0.0.1 m.jganv.com

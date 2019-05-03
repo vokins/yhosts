@@ -380,3 +380,11 @@
 127.0.0.1 m.vchiy.com
 127.0.0.1 m.xroun.com
 127.0.0.1 www.gdlbdzkj.com
+127.0.0.1 gg.g9mi6.com
+127.0.0.1 m.epoch168.com
+127.0.0.1 g.zhgdhe.com
+127.0.0.1 f.mzw000.com
+127.0.0.1 w.oumazg.com
+127.0.0.1 niuer-req.xy.huijitrans.com
+127.0.0.1 xy-log2.tagtic.cn
+127.0.0.1 xyoss.g.com.cn

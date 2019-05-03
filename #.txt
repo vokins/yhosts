@@ -1,5 +1,6 @@
 #Info Flow
 127.0.0.1 xiongzhang.baidu.com
+127.0.0.1 api.iapps.ifeng.com
 https://s.dbojetp.cn/S.aspx?p=1319&t=1&u=https://www.bd-film.cc/gq/27398.htm&RanStr=0.472950289444918&n=
 https://jimg.jisuoping.com/0409/PC/2078-ZB/2018810320x270.gif
 https://k.gsdhome.cn/Images/20190403160733.gif

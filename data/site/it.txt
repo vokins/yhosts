@@ -39,7 +39,6 @@
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
-#codego.net
 #csdn.net
 127.0.0.1 ad.csdn.net
 127.0.0.1 ads.csdn.net
@@ -142,6 +141,7 @@
 127.0.0.1 zdw.w8.com.cn
 #https://wap.zol.com.cn/ask/x_416606.html
 127.0.0.1 api.callget.cn
+127.0.0.1 media.adget.cn
 #aizhan.com
 127.0.0.1 fpbb.aizhan.com
 127.0.0.1 dmm.aizhan.com

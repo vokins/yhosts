@@ -1,3 +1,36 @@
+#eastlady.cn
+127.0.0.1 abc.eastlady.cn
+127.0.0.1 jb.eastlady.cn
+127.0.0.1 wl.eastlady.cn
+#haibao.cn
+127.0.0.1 hats.haibao.cn
+#m.nanrenwo.net
+127.0.0.1 1.nanrenwo.net
+127.0.0.1 2.nanrenwo.net
+#onlylady.com
+127.0.0.1 btn.onlylady.com
+127.0.0.1 olpv.onlylady.com
+127.0.0.1 olpvimg.onlylady.com
+127.0.0.1 olstats.onlylady.com
+#shangc.net
+127.0.0.1 b17.shangc.net
+127.0.0.1 j17.shangc.net
+#yoka.com
+127.0.0.1 adcount.yoka.com
+#yxlady.com
+127.0.0.1 bbcc.yxlady.com
+127.0.0.1 dm50.yxlady.com
+127.0.0.1 js50.yxlady.com
+#zdface.com
+127.0.0.1 ent1.12584.cn
+127.0.0.1 health1.12584.cn
+127.0.0.1 img.12584.cn
+127.0.0.1 s2.zdface.com
+127.0.0.1 image.fsyule.net
+127.0.0.1 fozhu.rrsdl.com
+127.0.0.1 heimo.rrsdl.com
+127.0.0.1 kuaigao.rrsdl.com
+127.0.0.1 m.rrsdl.com
 #www.aili.com
 127.0.0.1 1.aili.com
 127.0.0.1 2.aili.com

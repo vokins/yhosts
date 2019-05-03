@@ -6,3 +6,5 @@
 127.0.0.1 t.pzclw.cn
 127.0.0.1 img.findqc.com
 127.0.0.1 show.findqc.com
+127.0.0.1 dd2.freep.cn
+127.0.0.1 dd1.freep.cn
