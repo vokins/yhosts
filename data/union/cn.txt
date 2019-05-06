@@ -178,13 +178,14 @@
 127.0.0.1 stage.3gmimo.com
 127.0.0.1 www.3gmimo.com
 #51la
-127.0.0.1 tc.51la.net
+127.0.0.1 ia.51.la
 127.0.0.1 icon.51.la
+127.0.0.1 icon.users.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
-127.0.0.1 icon.users.51.la
 127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
+127.0.0.1 tc.51la.net
 127.0.0.1 vip.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la

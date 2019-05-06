@@ -3,10 +3,9 @@
 7xkfic.com2.z0.glb.qiniucdn.com
 a.app.qq.com
 access.tv.sohu.com
+ajax.cloudflare.com
 alicili.pw
 app.3987.com
-s.bdstatic.com
-msite.baidu.com
 app.hytdsm.com
 apps.bdimg.com
 bbs.safedog.cn
@@ -51,6 +50,7 @@ gif-china.cc
 github.com
 go.microsoft.com
 gxwztv.com
+hmcdn.baidu.com
 huoying666.com
 i.biquge5200.com
 i.gtimg.cn
@@ -108,6 +108,7 @@ m.499.cn
 m.50zw.co
 m.50zw.la
 m.50zww.com
+m.520danmei.com
 m.52biquge.com
 m.5442.com
 m.555zw.com
@@ -201,6 +202,7 @@ m.konlan.org
 m.kushubao.com
 m.kxs7.com
 m.lanseshuba.com
+m.lansezw.com
 m.laojiayoufang.t
 m.lbxs.com
 m.leduwo.com
@@ -246,6 +248,7 @@ m.snwx8.com
 m.sosobtt.net
 m.sosoxiaoshuo.cc
 m.sqsxs.com
+m.suimeng.com
 m.suimeng.la
 m.tingshuge.com
 m.tmetb.net
@@ -274,11 +277,13 @@ m.xiashu.cc
 m.xinshula.com
 m.xs.la
 m.xs222.tw
+m.xshengyan.com
 m.xuanjiezhimen.org
 m.xyshu8.net
 m.yawenb.com
 m.ybdu.com
 m.yikanxiaoshuo.com
+m.ykanxiaoshuo.com
 m.yssm.org
 m.yuyouge.com
 m.zanghaihuatxt.com
@@ -289,6 +294,7 @@ m.zwda.com
 m.zwdu.com
 maweb.3g.qq.com
 mp.weixin.qq.com
+msite.baidu.com
 my.tsxsw.com
 p.abcache.com
 pan.meijukankan.net
@@ -310,8 +316,11 @@ regist.htm
 register.html
 renrencili.net
 res.wx.qq.com
+s.bdstatic.com
 s.click.taobao.com
 s.faloo.com
+s.ssl.qhres.com
+s6.qhres.com
 savebt.com
 savebt.org
 search.htm
@@ -334,6 +343,7 @@ t.shuotxts.com
 temai.m.taobao.com
 torrentkitty.uno
 tv.sohu.com
+wap.dingdianzw.com
 wap.faloo.com
 wap.xxbiquge.com
 wap.yb3.cc
@@ -391,6 +401,7 @@ www.macromedia.com
 www.miitbeian.gov.cn
 www.mpzw.com
 www.muzisoft.com
+www.mytxt.cc
 www.nenzei88.com
 www.okzyzy.cc
 www.okzyzy.com

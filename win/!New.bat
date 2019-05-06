@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 15:39 2019/4/23
+rem 10:30 2019/5/6
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -875,8 +875,6 @@ sc config lfsvc start=disabled
 echo Phone Service
 sc config PhoneSvc start=disabled
 
-echo Shell Hardware Detection
-sc config ShellHWDetection start=disabled
 echo Remote Registry(远程修改注册表)
 sc config RemoteRegistry start=disabled
 echo Superfetch

@@ -143,6 +143,6 @@
 127.0.0.1 api.callget.cn
 127.0.0.1 media.adget.cn
 #aizhan.com
-127.0.0.1 fpbb.aizhan.com
-127.0.0.1 dmm.aizhan.com
 127.0.0.1 dm.aizhan.com
+127.0.0.1 dmm.aizhan.com
+127.0.0.1 fpbb.aizhan.com
