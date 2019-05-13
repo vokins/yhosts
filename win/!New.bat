@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:30 2019/5/6
+rem 23:15 2019/5/11
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -26,7 +26,7 @@ call :InternetExplorer
 call :LRCfile
 call :MicrosoftEdge
 call :NetFX35
-call :NetReset
+rem call :NetReset
 call :NetShare
 call :Notepad
 call :Notepad2
