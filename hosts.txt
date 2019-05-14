@@ -2075,6 +2075,8 @@
 127.0.0.1 c.wkanx.com
 127.0.0.1 c1.wkanx.com
 127.0.0.1 static.wkanx.com
+#kuaixia
+127.0.0.1 api.ad.xv555.com
 #wifi8.com
 127.0.0.1 adnew.wifi8.com
 127.0.0.1 cmsapi.wifi8.com

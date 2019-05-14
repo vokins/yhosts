@@ -1,5 +1,5 @@
 
-#version=201905141154
+#version=201905141200
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1712,6 +1712,7 @@
 127.0.0.1 c.wkanx.com
 127.0.0.1 c1.wkanx.com
 127.0.0.1 static.wkanx.com
+127.0.0.1 api.ad.xv555.com
 127.0.0.1 adnew.wifi8.com
 127.0.0.1 cmsapi.wifi8.com
 127.0.0.1 wifishow.ggsafe.com
