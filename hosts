@@ -1,5 +1,5 @@
 
-#version=201905131244
+#version=201905141154
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -182,20 +182,17 @@
 127.0.0.1 ucus.ucweb.com
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
+127.0.0.1 utp-dmp.ucweb.com
 127.0.0.1 vs2.gzcu.u3.ucweb.com
-127.0.0.1 m.uc123.com
-127.0.0.1 alissl.ucdl.pp.uc.cn
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 applog.uc.cn
-127.0.0.1 hao.uc.cn
 127.0.0.1 puds.test.uae.uc.cn
 127.0.0.1 track.uc.cn
+127.0.0.1 wmedia-track.uc.cn
 127.0.0.1 woodpecker.uc.cn
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 patriot.cs.pp.cn
-127.0.0.1 server.m.pp.cn
 127.0.0.1 huichuan.sm.cn
-127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 c.wrating.com
 127.0.0.1 cntv.wrating.com
@@ -794,6 +791,8 @@
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 mini2015.qq.com
+127.0.0.1 op.ssp.qq.com
+127.0.0.1 pacaio.match.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 setting.snswin.qq.com
 127.0.0.1 tj.video.qq.com
@@ -894,6 +893,9 @@
 127.0.0.1 cre-dp.sina.cn
 127.0.0.1 cre.dp.sina.cn
 127.0.0.1 dl.kjava.sina.cn
+127.0.0.1 log.sina.cn
+127.0.0.1 mixer.sina.cn
+127.0.0.1 mixers.sina.cn
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 sax.sina.cn
 127.0.0.1 saxs.sina.cn
@@ -972,6 +974,7 @@
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 xls.go.sohu.com
 127.0.0.1 pv.sohu.com
+127.0.0.1 track.sohu.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 fair.sogou.com
 127.0.0.1 files2.sogou.com
@@ -1598,6 +1601,7 @@
 127.0.0.1 dmpclick.deliver.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 err.ifengcloud.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 ids1.deliver.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
@@ -1951,6 +1955,11 @@
 127.0.0.1 m.vkjnd.com
 127.0.0.1 e.vkjnd.com
 127.0.0.1 fds.bmfwwz.top
+127.0.0.1 e.7hd2ma.cn
+127.0.0.1 xsweb.pxuns.com
+127.0.0.1 m.xsk5j.cn
+127.0.0.1 m.fy4zb.cn
+127.0.0.1 m.zq4ka.cn
 127.0.0.1 m.980he.cn
 127.0.0.1 e.980he.cn
 127.0.0.1 m.le78p.cn
@@ -2482,6 +2491,7 @@
 127.0.0.1 rbp.mxptint.net
 127.0.0.1 rc2waycm-atl.netmng.com
 127.0.0.1 rcp.c.appier.net
+127.0.0.1 revive.outin.cn
 127.0.0.1 rp.gwallet.com
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 sync-dsp.ad-m.asia
@@ -2560,6 +2570,13 @@
 127.0.0.1 show.findqc.com
 127.0.0.1 dd2.freep.cn
 127.0.0.1 dd1.freep.cn
+127.0.0.1 bd1.idgdmg.com.cn
+127.0.0.1 bd2.idgdmg.com.cn
+127.0.0.1 js.idgdmgroup.com.cn
+127.0.0.1 aima.shouhome.com
+127.0.0.1 zzy.quyaoya.com
+127.0.0.1 b.tvsou.com
+127.0.0.1 hda.watchtimes.com.cn
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com

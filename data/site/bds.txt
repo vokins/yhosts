@@ -8,3 +8,10 @@
 127.0.0.1 show.findqc.com
 127.0.0.1 dd2.freep.cn
 127.0.0.1 dd1.freep.cn
+127.0.0.1 bd1.idgdmg.com.cn
+127.0.0.1 bd2.idgdmg.com.cn
+127.0.0.1 js.idgdmgroup.com.cn
+127.0.0.1 aima.shouhome.com
+127.0.0.1 zzy.quyaoya.com
+127.0.0.1 b.tvsou.com
+127.0.0.1 hda.watchtimes.com.cn

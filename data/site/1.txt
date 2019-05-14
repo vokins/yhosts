@@ -206,7 +206,12 @@
 127.0.0.1 m.vkjnd.com
 127.0.0.1 e.vkjnd.com
 127.0.0.1 fds.bmfwwz.top
+127.0.0.1 e.7hd2ma.cn
+127.0.0.1 xsweb.pxuns.com
 #-
+127.0.0.1 m.xsk5j.cn
+127.0.0.1 m.fy4zb.cn
+127.0.0.1 m.zq4ka.cn
 127.0.0.1 m.980he.cn
 127.0.0.1 e.980he.cn
 127.0.0.1 m.le78p.cn

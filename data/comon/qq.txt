@@ -40,6 +40,8 @@
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 mini2015.qq.com
+127.0.0.1 op.ssp.qq.com
+127.0.0.1 pacaio.match.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 setting.snswin.qq.com
 127.0.0.1 tj.video.qq.com

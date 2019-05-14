@@ -15,6 +15,7 @@
 127.0.0.1 dmpclick.deliver.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 err.ifengcloud.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 ids1.deliver.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
