@@ -2367,7 +2367,23 @@
 127.0.0.1 rplzmw.cn
 127.0.0.1 yq6.lhkwy.com
 127.0.0.1 op.88dush.com
+127.0.0.1 e.kzwsh.cn
+127.0.0.1 ijeu.pdkzyy.cn
+127.0.0.1 photo.whwestern.cn
+127.0.0.1 photo.hgdanbas.cn
+127.0.0.1 nxw.0518g.com
+127.0.0.1 e.gtrve.cn
+127.0.0.1 e.o5vm6c.cn
+127.0.0.1 m.o5vm6c.cn
+127.0.0.1 mldy.xdaay.cn
+127.0.0.1 xls.suxun368.cc
+127.0.0.1 tikn.hwgs.info
 #-
+127.0.0.1 m.r507p.cn
+127.0.0.1 m.4qonm.cn
+127.0.0.1 m.o4hpc.cn
+127.0.0.1 m.5d63b.cn
+127.0.0.1 m.24pga.cn
 127.0.0.1 m.wogpa.cn
 127.0.0.1 m.xsk5j.cn
 127.0.0.1 m.fy4zb.cn
