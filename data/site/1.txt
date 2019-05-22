@@ -250,7 +250,24 @@
 127.0.0.1 mldy.xdaay.cn
 127.0.0.1 xls.suxun368.cc
 127.0.0.1 tikn.hwgs.info
+127.0.0.1 xhnt.snqrk.cn
+127.0.0.1 tts.178ud.com
+127.0.0.1 uxek.85nv96.cn
+127.0.0.1 bpts.8111216.cn
+127.0.0.1 e.7hs3ja.cn
+127.0.0.1 m.7hs3ja.cn
+127.0.0.1 m.5vst8h.cn
+127.0.0.1 lerg.bpafree.cn
+127.0.0.1 m.0wnz6g.cn
+127.0.0.1 e.0wnz6g.cn
+127.0.0.1 m.w720p.cn
+127.0.0.1 www.ldlwdsx.com
+127.0.0.1 ndrf.757g7g.cn
+127.0.0.1 e.1zq4lj.cn
+127.0.0.1 e.38ursg.cn
 #-
+127.0.0.1 m.qlr0d.cn
+127.0.0.1 m.072va.cn
 127.0.0.1 m.r507p.cn
 127.0.0.1 m.4qonm.cn
 127.0.0.1 m.o4hpc.cn
