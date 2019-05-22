@@ -1,5 +1,5 @@
 
-#version=20190521 745
+#version=201905221122
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -330,6 +330,13 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 yingxiao.baidu.com
+127.0.0.1 gsp0.baidu.com
+127.0.0.1 gsp1.baidu.com
+127.0.0.1 gsp2.baidu.com
+127.0.0.1 gsp3.baidu.com
+127.0.0.1 fc3tn.baidu.com
+127.0.0.1 fc5tn.baidu.com
+127.0.0.1 ms.bdimg.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ecmc.bdimg.com
@@ -2626,6 +2633,10 @@
 127.0.0.1 zzy.quyaoya.com
 127.0.0.1 b.tvsou.com
 127.0.0.1 hda.watchtimes.com.cn
+127.0.0.1 v2.phb123.com
+127.0.0.1 v1.phb123.com
+127.0.0.1 cc.qiqisou.cn
+127.0.0.1 cs.qiqisou.cn
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com

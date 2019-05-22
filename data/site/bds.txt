@@ -15,3 +15,7 @@
 127.0.0.1 zzy.quyaoya.com
 127.0.0.1 b.tvsou.com
 127.0.0.1 hda.watchtimes.com.cn
+127.0.0.1 v2.phb123.com
+127.0.0.1 v1.phb123.com
+127.0.0.1 cc.qiqisou.cn
+127.0.0.1 cs.qiqisou.cn
