@@ -1,3 +1,4 @@
+http://pc.zmzapi.com/pc_html/pages/detail.html
 #Info Flow
 127.0.0.1 xiongzhang.baidu.com
 127.0.0.1 api.iapps.ifeng.com
