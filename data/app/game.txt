@@ -25,7 +25,6 @@
 127.0.0.1 setting.rayjump.com
 #rovio
 127.0.0.1 ads.cdn.rovio.com
-127.0.0.1 cloud.rovio.com
 127.0.0.1 rovio-news-app.angrybirdsgame.com
 #tomcat
 127.0.0.1 apps.outfit7.com

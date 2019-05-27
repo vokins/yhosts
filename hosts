@@ -1,5 +1,5 @@
 
-#version=201905241336
+#version=201905272355
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1352,7 +1352,6 @@
 127.0.0.1 net.rayjump.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 ads.cdn.rovio.com
-127.0.0.1 cloud.rovio.com
 127.0.0.1 rovio-news-app.angrybirdsgame.com
 127.0.0.1 apps.outfit7.com
 127.0.0.1 apps2.outfit7.com
@@ -2038,6 +2037,26 @@
 127.0.0.1 qrbizr.cn
 127.0.0.1 m.future888.net
 127.0.0.1 e.future888.net
+127.0.0.1 diox.doowe.cn
+127.0.0.1 e.fdp29b.cn
+127.0.0.1 e.jzvog.cn
+127.0.0.1 e.vpmjg.cn
+127.0.0.1 e.ygqna.cn
+127.0.0.1 m.408uo.cn
+127.0.0.1 m.jzvog.cn
+127.0.0.1 m.to9g1f.cn
+127.0.0.1 m.vpmjg.cn
+127.0.0.1 t.91dijiu.com
+127.0.0.1 xkdi.jiaxinkang.cn
+127.0.0.1 cjiv.chengjie168.com.cn
+127.0.0.1 dbnw.jyzmsy.com.cn
+127.0.0.1 m.w6o2c.cn
+127.0.0.1 m.9r48f.cn
+127.0.0.1 m.1x3td.cn
+127.0.0.1 m.vh92e.cn
+127.0.0.1 e.w6o2c.cn
+127.0.0.1 m.tv12h.cn
+127.0.0.1 m.6z1gf.cn
 127.0.0.1 e.46kxj.cn
 127.0.0.1 m.qlr0d.cn
 127.0.0.1 m.072va.cn
