@@ -2428,7 +2428,20 @@
 127.0.0.1 xkdi.jiaxinkang.cn
 127.0.0.1 cjiv.chengjie168.com.cn
 127.0.0.1 dbnw.jyzmsy.com.cn
+127.0.0.1 c.v-meng.org
+127.0.0.1 e.21lxb.cn
+127.0.0.1 e.82uxa.cn
+127.0.0.1 e.9mf0a.cn
+127.0.0.1 e.wj57g.cn
+127.0.0.1 kvxg.chuanmen.mobi
+127.0.0.1 ssl2.feihongjiaoyu.com
+127.0.0.1 vpgf.qianyilamian.cn
 #-
+127.0.0.1 m.24ihe.cn
+127.0.0.1 m.479db.cn
+127.0.0.1 m.z83rj.cn
+127.0.0.1 m.fu64b.cn
+127.0.0.1 m.x78tg.cn
 127.0.0.1 m.w6o2c.cn
 127.0.0.1 m.9r48f.cn
 127.0.0.1 m.1x3td.cn
