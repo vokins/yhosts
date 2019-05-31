@@ -2,6 +2,7 @@
 3g.wenxuemm.com
 7xkfic.com2.z0.glb.qiniucdn.com
 a.app.qq.com
+a.m.ztv.la
 access.tv.sohu.com
 ajax.cloudflare.com
 alicili.pw
@@ -290,6 +291,7 @@ m.zanghaihuatxt.com
 m.zbzw.com
 m.zhenben.cc
 m.zhuaji.org
+m.ztv.la
 m.zwda.com
 m.zwdu.com
 maweb.3g.qq.com
@@ -332,7 +334,9 @@ static.499.cn
 static.duoshuo.com
 static.jiasule.com
 static.qiushibaike.com
+static01.baomihua.com
 static1.2436.cn
+storage.baomihua.com
 storebt.biz
 storebt.cc
 storetorrents.com

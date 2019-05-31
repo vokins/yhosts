@@ -5,6 +5,8 @@
 127.0.0.1 app.shandjj.com
 127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 dorado.xiaojukeji.com
+127.0.0.1 activity.tuiapple.com
+127.0.0.1 apple.pvxt.net
 @errorpage/weixin
 127.0.0.1 vzan.com
 127.0.0.1 wx.shunliandongli.com
