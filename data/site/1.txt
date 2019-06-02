@@ -324,6 +324,12 @@
 127.0.0.1 m.sz05f.cn
 127.0.0.1 ivgl.czyiming.club
 127.0.0.1 m.9z41f.cn
+127.0.0.1 2f3.555b2b.com
+127.0.0.1 e.rp71l.cn
+127.0.0.1 iiid.bluescream.cn
+127.0.0.1 m.qj10b.cn
+127.0.0.1 m.rp71l.cn
+127.0.0.1 m.s0o5g.cn
 #-
 127.0.0.1 m.85rvq.cn
 127.0.0.1 m.7wx8f.cn
