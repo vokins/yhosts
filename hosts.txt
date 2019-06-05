@@ -66,6 +66,8 @@
 127.0.0.1 act2.mediafour.com
 #nikon-imaging
 127.0.0.1 sams.nikonimaging.com
+#Piriform
+127.0.0.1 license.piriform.com
 #processlasso
 127.0.0.1 www.bitsumactivationserver.com
 #tableau-desktop
@@ -2466,7 +2468,31 @@
 127.0.0.1 m.qj10b.cn
 127.0.0.1 m.rp71l.cn
 127.0.0.1 m.s0o5g.cn
+127.0.0.1 2mg.jim86d.cn
+127.0.0.1 2mg898.jim86d.cn
+127.0.0.1 4au.htf16a.cn
+127.0.0.1 e.95z3a.cn
+127.0.0.1 e.pt05c.cn
+127.0.0.1 e.wc59b.cn
+127.0.0.1 kkdm.dhgdp.cn
+127.0.0.1 m.65r3g.cn
+127.0.0.1 m.80o4j.cn
+127.0.0.1 m.95z3a.cn
+127.0.0.1 m.pt05c.cn
+127.0.0.1 m.wc59b.cn
+127.0.0.1 netsop.cn
+127.0.0.1 photo.njlymyd.cn
+127.0.0.1 setqre.cn
+127.0.0.1 ssl2.dottexpress.com
+127.0.0.1 www.isitone.com
 #-
+127.0.0.1 m.v76rk.cn
+127.0.0.1 m.nq37f.cn
+127.0.0.1 e.nq37f.cn
+127.0.0.1 b.mlion.cn
+127.0.0.1 m.0vj6i.cn
+127.0.0.1 m.97tuk.cn
+127.0.0.1 m.6gv4d.cn
 127.0.0.1 m.85rvq.cn
 127.0.0.1 m.7wx8f.cn
 127.0.0.1 e.6yw7j.cn
