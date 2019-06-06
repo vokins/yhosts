@@ -1,5 +1,5 @@
 
-#version=201906061359
+#version=201906061946
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1490,7 +1490,6 @@
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
 127.0.0.1 apm.suning.cn
-127.0.0.1 click.suning.cn
 127.0.0.1 dfp.suning.com
 127.0.0.1 ssac.suning.com
 127.0.0.1 adinf.voole.com

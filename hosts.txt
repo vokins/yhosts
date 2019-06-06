@@ -1800,7 +1800,6 @@
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
 127.0.0.1 apm.suning.cn
-127.0.0.1 click.suning.cn
 127.0.0.1 dfp.suning.com
 127.0.0.1 ssac.suning.com
 #http://yn.voole.com/app
