@@ -1532,7 +1532,6 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic1.59wd.com
 127.0.0.1 pic2016.5442.com
-127.0.0.1 pic2016.ytqmx.com
 127.0.0.1 ping.weiduofan.com
 127.0.0.1 pjogndc8ixoidna.360doc.cn
 127.0.0.1 plmkolp.m.58xs.tw

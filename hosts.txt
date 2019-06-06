@@ -2485,7 +2485,21 @@
 127.0.0.1 setqre.cn
 127.0.0.1 ssl2.dottexpress.com
 127.0.0.1 www.isitone.com
+127.0.0.1 e.89bia.cn
+127.0.0.1 go.kshks5.site
+127.0.0.1 m.89bia.cn
+127.0.0.1 photo.ytmaksim.cn
+127.0.0.1 e.2v9ml.cn
+127.0.0.1 4gf.9tkl2d.cn
+127.0.0.1 e.6g53b.cn
+127.0.0.1 m.6g53b.cn
+127.0.0.1 m.61lvi.cn
+127.0.0.1 m.2v9ml.cn
 #-
+127.0.0.1 m.4qn1k.cn
+127.0.0.1 m.n83v0h.cn
+127.0.0.1 m.1qp9k.cn
+127.0.0.1 m.07seb.cn
 127.0.0.1 m.v76rk.cn
 127.0.0.1 m.nq37f.cn
 127.0.0.1 e.nq37f.cn
@@ -5729,7 +5743,6 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic1.59wd.com
 127.0.0.1 pic2016.5442.com
-127.0.0.1 pic2016.ytqmx.com
 127.0.0.1 ping.weiduofan.com
 127.0.0.1 pjogndc8ixoidna.360doc.cn
 127.0.0.1 plmkolp.m.58xs.tw
