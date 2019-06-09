@@ -1,5 +1,5 @@
 
-#version=201906061946
+#version=201906091654
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -331,12 +331,6 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 yingxiao.baidu.com
-127.0.0.1 gsp0.baidu.com
-127.0.0.1 gsp1.baidu.com
-127.0.0.1 gsp2.baidu.com
-127.0.0.1 gsp3.baidu.com
-127.0.0.1 fc3tn.baidu.com
-127.0.0.1 fc5tn.baidu.com
 127.0.0.1 ms.bdimg.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
@@ -2113,6 +2107,25 @@
 127.0.0.1 m.6g53b.cn
 127.0.0.1 m.61lvi.cn
 127.0.0.1 m.2v9ml.cn
+127.0.0.1 ieju.zgtwpscw.cn
+127.0.0.1 m.xm0t2f.cn
+127.0.0.1 m.s76xid.cn
+127.0.0.1 e.s76xid.cn
+127.0.0.1 8t2.di91ba.cn
+127.0.0.1 e.xm0t2f.cn
+127.0.0.1 8bq898.73miqb.cn
+127.0.0.1 e.8p30k.cn
+127.0.0.1 m.8p30k.cn
+127.0.0.1 www.kkdsdlc.com
+127.0.0.1 m.t528zl.cn
+127.0.0.1 m.43k5d.cn
+127.0.0.1 m.08jq9b.cn
+127.0.0.1 m.qh70wg.cn
+127.0.0.1 m.ki18c.cn
+127.0.0.1 e.ki18c.cn
+127.0.0.1 m.o89ia.cn
+127.0.0.1 m.5pzs0o.cn
+127.0.0.1 e.5pzs0o.cn
 127.0.0.1 m.4qn1k.cn
 127.0.0.1 m.n83v0h.cn
 127.0.0.1 m.1qp9k.cn

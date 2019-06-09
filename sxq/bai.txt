@@ -74,6 +74,7 @@ img33.pplive.cn
 img34.pplive.cn
 imgcache.qq.com
 int.dpool.sina.com.cn
+interface.baomihua.com
 ip.ws.126.net
 itunes.apple.com
 js.meitulu.com
@@ -261,6 +262,7 @@ m.txtduo.com
 m.tywxw.la
 m.uu234.net
 m.uuxs.net
+m.video.baomihua.com
 m.vodtw.com
 m.wanjuanba.com
 m.wantxt.com
@@ -305,7 +307,6 @@ pan.meijukankan.net
 photocdn.sohu.com
 photocdn.tv.sohu.com
 pic.qiushibaike.com
-pic2016.ytqmx.com
 pic2016.ytqmx.com
 play.meijukankan.net
 push.zhanzhang.baidu.com
@@ -379,6 +380,7 @@ www.81zw.com
 www.92txt.net
 www.aguo.com
 www.baidu.com
+www.baomihua001.com
 www.beian.gov.cn
 www.biquge.cn
 www.biquge22.com
