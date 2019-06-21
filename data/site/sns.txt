@@ -10,6 +10,8 @@
 127.0.0.1 pf-2.pchome.net
 #www.douban.com
 127.0.0.1 ad.doubanio.com
+127.0.0.1 at1.doubanio.com
+127.0.0.1 at2.doubanio.com
 127.0.0.1 erebor.douban.com
 #www.hupu.com
 127.0.0.1 cc.dace.hupu.com
