@@ -163,7 +163,6 @@
 127.0.0.1 toruk.tanx.com
 @cps-taobao-simba
 127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com

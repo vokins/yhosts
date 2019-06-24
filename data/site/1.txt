@@ -419,7 +419,21 @@
 127.0.0.1 fp-it.fengkongcloud.com
 127.0.0.1 finewe.ljqnbiogjp.com
 127.0.0.1 kop.whwlldjeasd.kuaizq.com
+127.0.0.1 nnm.chrommotor.com
+127.0.0.1 m.l620e.cn
+127.0.0.1 e.17w3a.cn
+127.0.0.1 e.2j75d.cn
+127.0.0.1 ddf.shumayin.com
+127.0.0.1 m.2j75d.cn
+127.0.0.1 e.6w23i.cn
+127.0.0.1 m.6w23i.cn
+127.0.0.1 m.17w3a.cn
+127.0.0.1 m.i810c.cn
 #-
+127.0.0.1 m.lws48e.cn
+127.0.0.1 e.p98ytk.cn
+127.0.0.1 m.cjjcby.cn
+127.0.0.1 m.74n3a.cn
 127.0.0.1 m.1sur6d.cn
 127.0.0.1 e.eoeoev.cn
 127.0.0.1 m.eoeoev.cn

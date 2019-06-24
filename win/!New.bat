@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 23:15 2019/5/11
+rem 10:42 2019/6/22
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -25,7 +25,6 @@ call :InputMethodCHS
 call :InternetExplorer
 call :LRCfile
 call :MicrosoftEdge
-call :NetFX35
 rem call :NetReset
 call :NetShare
 call :Notepad
@@ -37,11 +36,11 @@ call :RightMenuDel
 call :RightMenuShift
 call :RightMenuSysTools
 call :Service
-call :StartUp
 call :SystemRestore
 call :Taskbar
 call :Taskschd
 call :WMPlayer
+call :WindowsApps
 call :WindowsDefender
 call :WindowsLog
 call :WindowsUAC
@@ -51,6 +50,8 @@ call :IconUpdate
 call :OneDrive
 call :WindowsUpdateClr
 call :Wsreset
+call :StartUp
+call :NetFX35
 exit
 
 :Bcdedit
@@ -106,46 +107,6 @@ goto :eof
 :DesktopIE
 echo 在桌面创建多功能Internet Explorer快捷方式
 reg delete "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /f > NUL 2>&1
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{00000000-0000-0000-0000-000000000000}" /ve /d "Internet Explorer" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /v "InfoTip" /d "@C:\Windows\System32\ieframe.dll,-881" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /v "LocalizedString" /d "@C:\Windows\System32\ieframe.dll,-880" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell" /ve /d "Open" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\010" /ve /d "面包影视(&B)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\010\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.mianbao.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\011" /ve /d "易视直播(&L)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\011\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cietv.com/live/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\012" /ve /d "CCTV(&1)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\012\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://tv.cctv.com/live/cctv5/" /f
-rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013" /ve /d "97电影院(&5)" /f
-rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\013\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.55xia.com/" /f
-rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\020" /ve /d "支付宝(&Z)" /f
-rem reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\020\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.alipay.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\1Nohome" /ve /d "打开空白首页(&O)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\1Nohome\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"-nohome" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\2Private" /ve /d "隐私浏览模式(&P)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\2Private\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"-private" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\3NoAddOns" /ve /d "无加载项启动(&E)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\3NoAddOns\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"-extoff" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\4History" /ve /d "删除历史记录(&S)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\4History\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\"InetCpl.cpl,ClearMyTracksByProcess 255" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\5Clean" /ve /d "删除临时文件(&T)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\5Clean\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\"InetCpl.cpl,ClearMyTracksByProcess 8" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\6Set" /ve /d "Internet 属性(&R)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\6Set\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\"C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\inetcpl.cpl" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\7Connection" /ve /d "局域网络设置(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\7Connection\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\"C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\Inetcpl.cpl,,4" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\8Net" /ve /d "网络连接选项(&N)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\8Net\Command" /ve /d "\"C:\Windows\System32\rundll32.exe\"C:\Windows\System32\shell32.dll,Control_RunDLL C:\Windows\System32\ncpa.cpl" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\9Hosts" /ve /d "打开 HOSTS (&H)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\shell\9Hosts\Command" /ve /d "\"C:\Windows\notepad.exe\"%windir%\system32\drivers\etc\hosts" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolde r" /v "HideAsDeletePerUser" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /v "HideFolderVerbs" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
 goto :eof
 
 :DesktopIEBank
@@ -199,7 +160,7 @@ reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\036\Command" /v
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\037" /ve /d "支付许可查询(&X)" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\037\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.pbc.gov.cn/zhengwugongkai/127924/128041/2951606/1923625/1923629/index.html" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolde r" /v "HideAsDeletePerUser" /d "" /f
+reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "HideAsDeletePerUser" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "HideFolderVerbs" /d "" /f
 reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
@@ -997,9 +958,70 @@ echo Windows Media Player 不显示首次使用对话框
 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer" /v "GroupPrivacyAcceptance" /t REG_DWORD /d 1 /f > NUL 2>&1
 goto :eof
 
+:WindowsApps
+TITLE 卸载 Microsoft Store
+::a.     移除了下列应用/服务：（保留：Desktop App Installer、Store Purchase App、钱包、应用商店、Xbox、Windows To Go）
+::3D查看器
+PowerShell "Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage"
+::地图
+PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
+::电影和电视
+PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
+::获取帮助
+PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
+::反馈中心
+PowerShell "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage"
+::Groove音乐
+PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
+::画图3D
+PowerShell "Get-AppxPackage *Microsoft.MSPaint* | Remove-AppxPackage"
+::混合现实门户
+PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
+::录音机
+PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
+::Microsoft Solitaire Collection
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
+::闹钟和时钟
+PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
+::你的手机
+PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
+::Office Hub
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
+::OneNote
+PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
+::人脉
+PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
+::日历和邮件
+PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
+::SkypeApp
+PowerShell "Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage"
+::Sticky Notes
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
+::使用技巧
+PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
+::天气
+PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
+::卸载Xbox游戏组件
+PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
+PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
+PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
+::相机
+PowerShell "Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage"
+::消息
+PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
+::移动套餐
+PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
+::卸载游戏录制工具栏
+PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
+PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
+::照片
+PowerShell "Get-AppxPackage *Microsoft.Windows.Photos* | Remove-AppxPackage"
+goto :eof
+
 :WindowsDefender
 echo 删除安全中心开机启动
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SecurityHealth" /f >nul 2>nul
+SecurityHealthSystray
 echo 禁用Windows Defender 安全中心服务
 reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
@@ -1030,7 +1052,6 @@ echo 清理：文件：使用Windows Defender扫描
 reg delete "HKCR\Drive\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
 reg delete "HKCR\Directory\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
 reg delete "HKCR\*\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
-
 call :GpUpdate
 goto :eof
 

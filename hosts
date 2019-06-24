@@ -1,5 +1,5 @@
 
-#version=201906211759
+#version=201906241027
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -258,7 +258,6 @@
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
@@ -1510,7 +1509,6 @@
 127.0.0.1 shrek.6.cn
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 ad.huajiao.com
-127.0.0.1 p2p.huya.com
 127.0.0.1 mlog.hiido.com
 127.0.0.1 ylog.hiido.com
 127.0.0.1 v.smtcdns.net
@@ -2169,6 +2167,20 @@
 127.0.0.1 fp-it.fengkongcloud.com
 127.0.0.1 finewe.ljqnbiogjp.com
 127.0.0.1 kop.whwlldjeasd.kuaizq.com
+127.0.0.1 nnm.chrommotor.com
+127.0.0.1 m.l620e.cn
+127.0.0.1 e.17w3a.cn
+127.0.0.1 e.2j75d.cn
+127.0.0.1 ddf.shumayin.com
+127.0.0.1 m.2j75d.cn
+127.0.0.1 e.6w23i.cn
+127.0.0.1 m.6w23i.cn
+127.0.0.1 m.17w3a.cn
+127.0.0.1 m.i810c.cn
+127.0.0.1 m.lws48e.cn
+127.0.0.1 e.p98ytk.cn
+127.0.0.1 m.cjjcby.cn
+127.0.0.1 m.74n3a.cn
 127.0.0.1 m.1sur6d.cn
 127.0.0.1 e.eoeoev.cn
 127.0.0.1 m.eoeoev.cn
