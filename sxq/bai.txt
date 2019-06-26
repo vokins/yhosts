@@ -313,6 +313,7 @@ push.zhanzhang.baidu.com
 puui.qpic.cn
 qiushi-gif.qiushibaike.com
 qr.alipay.com
+qzs.qq.com
 r1.ykimg.com
 r2.ykimg.com
 r3.ykimg.com
