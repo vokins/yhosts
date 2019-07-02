@@ -465,7 +465,27 @@
 127.0.0.1 pv.ldlwdsx.com
 127.0.0.1 js.8o9o.com
 127.0.0.1 ios.426g.com
+127.0.0.1 sdf.liaotian4.com
+127.0.0.1 m.05yzt.cn
+127.0.0.1 e.05yzt.cn
+127.0.0.1 e.2l06k.cn
+127.0.0.1 m.2l06k.cn
+127.0.0.1 baidu.dengzhoull.com
+127.0.0.1 e.adsdsu.cn
+127.0.0.1 e.aetetv.cn
+127.0.0.1 kkf.sxdxsfw.com
+127.0.0.1 m.aetetv.cn
+127.0.0.1 m.adsdsu.cn
+127.0.0.1 mp.cheering3d.com
+127.0.0.1 nesnts.cn
+127.0.0.1 b1.baomihua.com
 #-
+127.0.0.1 m.79hgif.cn
+127.0.0.1 m.bfhfhk.cn
+127.0.0.1 m.2n5kmg.cn
+127.0.0.1 m.bhkhkm.cn
+127.0.0.1 m.agugux.cn
+127.0.0.1 m.chshsc.cn
 127.0.0.1 m.amhmhg.cn
 127.0.0.1 m.bififd.cn
 127.0.0.1 m.eglglh.cn
