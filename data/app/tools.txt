@@ -58,3 +58,6 @@
 127.0.0.1 nexstep.zdworks.com
 127.0.0.1 push.zdworks.com
 127.0.0.1 api.pingstart.com
+#https://www.speedtest.net/
+127.0.0.1 c.evidon.com
+

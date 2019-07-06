@@ -1,5 +1,5 @@
 
-#version=201907021649
+#version=201907062002
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1719,6 +1719,8 @@
 127.0.0.1 nexstep.zdworks.com
 127.0.0.1 push.zdworks.com
 127.0.0.1 api.pingstart.com
+127.0.0.1 c.evidon.com
+
 127.0.0.1 2012.8684.com
 127.0.0.1 bdfpb1.8684.com
 127.0.0.1 bdfpb2.8684.com
@@ -2227,6 +2229,31 @@
 127.0.0.1 mp.cheering3d.com
 127.0.0.1 nesnts.cn
 127.0.0.1 b1.baomihua.com
+127.0.0.1 app.xixiashengdian.com
+127.0.0.1 area.baomihua.com
+127.0.0.1 e.eozozw.cn
+127.0.0.1 e.figigl.cn
+127.0.0.1 e.fipipo.cn
+127.0.0.1 fuk.xckxjtbg.com
+127.0.0.1 m.color6.cn
+127.0.0.1 m.eozozw.cn
+127.0.0.1 m.fipipo.cn
+127.0.0.1 mxm.plipala.com
+127.0.0.1 oxo.jilinfurong.com
+127.0.0.1 photo.yxslt.cn
+127.0.0.1 pibaba.com.cn
+127.0.0.1 s.ciouwap.com
+127.0.0.1 www.kj1p.com
+127.0.0.1 www.u5i7k.cn
+127.0.0.1 zfgn.hyxsoft.com
+127.0.0.1 m.3tx8zr.cn
+127.0.0.1 m.m8l0ka.cn
+127.0.0.1 e.m8l0ka.cn
+127.0.0.1 mo.wajsa.com
+127.0.0.1 g.zhangaiwan.com
+127.0.0.1 m.ly0p9e.cn
+127.0.0.1 m.qu79j.cn
+127.0.0.1 m.bgkgko.cn
 127.0.0.1 m.79hgif.cn
 127.0.0.1 m.bfhfhk.cn
 127.0.0.1 m.2n5kmg.cn
