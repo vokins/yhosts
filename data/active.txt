@@ -15,7 +15,11 @@
 127.0.0.1 trial.alcohol-soft.com
 #ashampoo
 127.0.0.1 licenses.ashampoo.com
-#Capture One
+#BlueSoleil
+127.0.0.1 license.bluesoleil.com
+127.0.0.1 license2.bluesoleil.com
+127.0.0.1 license3.bluesoleil.com
+#capture1
 127.0.0.1 activation.phaseone.com
 #corel
 127.0.0.1 apps.corel.com
@@ -50,6 +54,8 @@
 127.0.0.1 www.bitsumactivationserver.com
 #tableau-desktop
 127.0.0.1 licensing.tableausoftware.com
+#TechSmith
+127.0.0.1 activation.cloud.techsmith.com
 #totalfinder
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com

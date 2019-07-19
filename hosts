@@ -1,5 +1,5 @@
 
-#version=201907062002
+#version=20190720 041
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -11,6 +11,9 @@
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 licenses.ashampoo.com
+127.0.0.1 license.bluesoleil.com
+127.0.0.1 license2.bluesoleil.com
+127.0.0.1 license3.bluesoleil.com
 127.0.0.1 activation.phaseone.com
 127.0.0.1 apps.corel.com
 127.0.0.1 mc.corel.com
@@ -34,6 +37,7 @@
 127.0.0.1 license.piriform.com
 127.0.0.1 www.bitsumactivationserver.com
 127.0.0.1 licensing.tableausoftware.com
+127.0.0.1 activation.cloud.techsmith.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
 127.0.0.1 cbs.wondershare.com
@@ -2246,6 +2250,48 @@
 127.0.0.1 www.kj1p.com
 127.0.0.1 www.u5i7k.cn
 127.0.0.1 zfgn.hyxsoft.com
+127.0.0.1 sohu.husenfood.com
+127.0.0.1 ar.fuxunb.com
+127.0.0.1 dg.ghosttty.cn
+127.0.0.1 m.175pu.cn
+127.0.0.1 static.zctx8.com
+127.0.0.1 api.xiaohuxi.cn
+127.0.0.1 m.183pu.cn
+127.0.0.1 t.tttmedd.com
+127.0.0.1 kkk.lichaoliang.com
+127.0.0.1 js.sghjtc.xyz
+127.0.0.1 photo.941ziyuan.cn
+127.0.0.1 www.baidujs.vip
+127.0.0.1 ujm.snackmachinery.cn
+127.0.0.1 www.ere3j2e001.com
+127.0.0.1 e.jvvyc.cn
+127.0.0.1 hzyd.cdn.bcebos.com
+127.0.0.1 m.fsdlu.cn
+127.0.0.1 e.fsdlu.cn
+127.0.0.1 zxl.qzbxfs.com
+127.0.0.1 e.183pu.cn
+127.0.0.1 cnm.xlcktv.com
+127.0.0.1 e.131pu.cn
+127.0.0.1 m.131pu.cn
+127.0.0.1 setqfx.cn
+127.0.0.1 www.la61d.cn
+127.0.0.1 m.figigl.cn
+127.0.0.1 zly.dlhxgg.com
+127.0.0.1 js2.vgetv.xyz
+127.0.0.1 xls.ilovechenyuqian.xyz
+127.0.0.1 fbb.nbhotpo.com
+127.0.0.1 m.gexings.com
+127.0.0.1 m.yizhijin.cn
+127.0.0.1 m.hm146.cn
+127.0.0.1 m.mLabf.cn
+127.0.0.1 m.jdhq188.cn
+127.0.0.1 m.yplzarxt.cn
+127.0.0.1 m.030ha.cn
+127.0.0.1 job.510mall.com
+127.0.0.1 e.w5xj9.cn
+127.0.0.1 e.bgj582.cn
+127.0.0.1 m.bgj582.cn
+127.0.0.1 m.bs641.cn
 127.0.0.1 m.3tx8zr.cn
 127.0.0.1 m.m8l0ka.cn
 127.0.0.1 e.m8l0ka.cn
@@ -2598,7 +2644,6 @@
 127.0.0.1 f.dashaowu.com
 127.0.0.1 f.dianwenwang.com
 127.0.0.1 ff.xue63.com
-127.0.0.1 fiddler2.com
 127.0.0.1 fpb.docin.com
 127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 g.711983.com

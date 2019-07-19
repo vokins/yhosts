@@ -162,7 +162,6 @@
 127.0.0.1 f.dashaowu.com
 127.0.0.1 f.dianwenwang.com
 127.0.0.1 ff.xue63.com
-127.0.0.1 fiddler2.com
 127.0.0.1 fpb.docin.com
 127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 g.711983.com
