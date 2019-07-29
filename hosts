@@ -1,5 +1,5 @@
 
-#version=201907291005
+#version=20190730 745
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1788,6 +1788,19 @@
 127.0.0.1 storage.29293.com
 127.0.0.1 syp.shcfpx.com
 127.0.0.1 www.amort.cn
+127.0.0.1 e.ldsfh.cn
+127.0.0.1 e.lisla.cn
+127.0.0.1 e.lisln.cn
+127.0.0.1 m.a6m8h.cn
+127.0.0.1 m.bgj673.cn
+127.0.0.1 m.bgj781.cn
+127.0.0.1 m.bgj935.cn
+127.0.0.1 m.lisla.cn
+127.0.0.1 m.lisln.cn
+127.0.0.1 sh.hsfzexsg.com
+127.0.0.1 www.810251.com
+127.0.0.1 www.chapesx.site
+127.0.0.1 zjj.xhdccz.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
