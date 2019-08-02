@@ -19,3 +19,7 @@
 127.0.0.1 v1.phb123.com
 127.0.0.1 cc.qiqisou.cn
 127.0.0.1 cs.qiqisou.cn
+127.0.0.1 cf.zaiyunli.cn
+127.0.0.1 gp.zaiyunli.cn
+127.0.0.1 baidua1.cardbaobao.com
+127.0.0.1 baidua2.cardbaobao.com

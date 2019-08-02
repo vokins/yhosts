@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 10:42 2019/6/22
+rem 17:06 2019/7/31
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -15,8 +15,6 @@ call :Chrome
 call :Clipboard
 call :ControlPanelRegedit
 call :Desktop
-call :DesktopIE
-rem call :DesktopIEBank
 call :Explorer
 call :ExplorerUpdate
 call :FileTypes
@@ -52,6 +50,7 @@ call :WindowsUpdateClr
 call :Wsreset
 call :StartUp
 call :NetFX35
+
 exit
 
 :Bcdedit
@@ -102,70 +101,6 @@ echo 删除桌面Microsoft Edge快捷方式
 set "reg=HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
 for /f "tokens=2*" %%a in ('reg query "%reg%" /v desktop') do set "desktop=%%b"
 del /f /q "%desktop%\Microsoft Edge.lnk" >nul 2>nul
-goto :eof
-
-:DesktopIE
-echo 在桌面创建多功能Internet Explorer快捷方式
-reg delete "HKCR\CLSID\{00000000-0000-0000-0000-000000000000}" /f > NUL 2>&1
-goto :eof
-
-:DesktopIEBank
-echo 在桌面创建多功能网上银行IE快捷方式
-reg delete "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}" /f > NUL 2>&1
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{00000000-0000-0000-0000-000000000001}" /ve /d "网上银行" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}" /v "InfoTip" /d "网上银行，右键直达" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}" /v "LocalizedString" /d "网上银行" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\DefaultIcon" /ve /d "C:\Windows\System32\ieframe.dll,88" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell" /ve /d "Open" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\010" /ve /d "工商银行(&I)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\010\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.icbc.com.cn/icbc/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\011" /ve /d "建设银行(&C)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\011\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.ccb.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\012" /ve /d "中国银行(&B)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\012\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.boc.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\013" /ve /d "农业银行(&A)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\013\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.abchina.com/cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\020" /ve /d "交通银行(&J)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\020\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.bankcomm.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\021" /ve /d "招商银行(&Z)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\021\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbchina.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\022" /ve /d "兴业银行(&D)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\022\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.cib.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\023" /ve /d "浦发银行(&F)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\023\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.spdb.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\024" /ve /d "邮储银行(&Y)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\024\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.psbc.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\025" /ve /d "民生银行(&M)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\025\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cmbc.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\026" /ve /d "中信银行(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\026\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.citicbank.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\027" /ve /d "光大银行(&G)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\027\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.cebbank.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\028" /ve /d "平安银行(&P)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\028\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://bank.pingan.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\030" /ve /d "中国银联(&U)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\030\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://cn.unionpay.com/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\031" /ve /d "美国运通" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\031\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.americanexpress.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\032" /ve /d "JCB(&J)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\032\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.jcbcard.cn/cs/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\033" /ve /d "万事达卡(&M)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\033\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.mastercard.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\034" /ve /d "Visa(&V)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\034\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://www.visa.com.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\035" /ve /d "人行征信查询(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\035\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"https://ipcrs.pbccrc.org.cn/" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\036" /ve /d "金融许可查询(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\036\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://xukezheng.cbrc.gov.cn/ilicence/licence/licenceQuery.jsp" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\037" /ve /d "支付许可查询(&X)" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\shell\037\Command" /ve /d "\"C:\Program Files\Internet Explorer\iexplore.exe\"http://www.pbc.gov.cn/zhengwugongkai/127924/128041/2951606/1923625/1923629/index.html" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /ve /d "C:\Windows\System32\ieframe.dll,-190" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "HideAsDeletePerUser" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "Attributes" /t REG_DWORD /d 0 /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "HideFolderVerbs" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "WantsParseDisplayName" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "HideOnDesktopPerUser" /d "" /f
-reg add "HKCR\CLSID\{00000000-0000-0000-0000-000000000001}\ShellFolder" /v "ParseDisplayNameNeedsURL" /d "" /f
 goto :eof
 
 :Explorer
@@ -230,11 +165,10 @@ reg add "HKCU\Control Panel\Desktop" /v "MenuShowDelay" /d "100" /f
 goto :eof
 
 :FileTypes
-::禁止 不断重复恢复默认设置
-rem Microsoft.3DBuilder：File Types: .stl, .3mf, .obj, .wrl, .ply, .fbx, .3ds, .dae, .dxf, .bmp, .jpg, .png, .tga
+echo 禁止 不断重复恢复默认设置
+echo Microsoft.3DBuilder：File Types: .stl, .3mf, .obj, .wrl, .ply, .fbx, .3ds, .dae, .dxf, .bmp, .jpg, .png, .tga
 reg add "HKCU\SOFTWARE\Classes\AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg" /v "NoOpenWith" /d "" /f
-
-rem Microsoft Edge：
+echo Microsoft Edge：
 rem File Types: .htm, .html
 reg add "HKCU\SOFTWARE\Classes\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" /v "NoOpenWith" /d "" /f
 rem File Types: .pdf
@@ -243,19 +177,16 @@ rem File Types: .svg
 reg add "HKCU\SOFTWARE\Classes\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs" /v "NoOpenWith" /d "" /f
 rem File Types: .xml
 reg add "HKCU\SOFTWARE\Classes\AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t" /v "NoOpenWith" /d "" /f
-
-rem Microsoft Photos：
+echo Microsoft Photos：
 rem File Types: .3g2,.3gp, .3gp2, .3gpp, .asf, .avi, .m2t, .m2ts, .m4v, .mkv .mov, .mp4, mp4v, .mts, .tif, .tiff, .wmv
 reg add "HKCU\SOFTWARE\Classes\AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt" /v "NoOpenWith" /d "" /f
 rem File Types: Most Image File Types
 reg add "HKCU\SOFTWARE\Classes\AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" /v "NoOpenWith" /d "" /f
 rem File Types: .raw, .rwl, .rw2 and others
 reg add "HKCU\SOFTWARE\Classes\AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" /v "NoOpenWith" /d "" /f
-
-rem Zune Music：File Types: .aac, .adt, .adts ,.amr, .flac, .m3u, .m4a, .m4r, .mp3, .mpa, .wav, .wma, .wpl, .zpl
+echo Zune Music：File Types: .aac, .adt, .adts ,.amr, .flac, .m3u, .m4a, .m4r, .mp3, .mpa, .wav, .wma, .wpl, .zpl
 reg add "HKCU\SOFTWARE\Classes\AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" /v "NoOpenWith" /d "" /f
-
-rem Zune Video：File Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
+echo Zune Video：File Types: .3g2,.3gp, .3gpp, .avi, .divx, .m2t, .m2ts, .m4v, .mkv, .mod, .mov, .mp4, mp4v, .mpe, .mpeg, .mpg, .mpv2, .mts, .tod, .ts, .tts, .wm, .wmv, .xvid
 reg add "HKCU\SOFTWARE\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" /v "NoOpenWith" /d "" /f
 goto :eof
 
@@ -484,15 +415,23 @@ goto :eof
 :OneDrive
 echo 卸载OneDrive
 rem https://go.microsoft.com/fwlink/?linkid=844652
-taskkill /f /im OneDrive.exe > NUL 2>&1
-%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall
+rem 结束OneDrive进程
+taskkill /f /im OneDrive.exe
+rem 结束explorer进程，如不结束倒数第4、5、6行这3个文件夹是删不掉的
+taskkill /f /im explorer.exe
+rem 查看系统构架 卸载 32位/64位 OneDrive
+if exist %SYSTEMROOT%\SysWOW64\OneDriveSetup.exe (%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe /uninstall) else (%SYSTEMROOT%\System32\OneDriveSetup.exe /uninstall)
+rem 删除本地文件
 rd /s /q "%UserProfile%\OneDrive" > NUL 2>&1
 rd /s /q "%LocalAppData%\Microsoft\OneDrive" > NUL 2>&1
 rd /s /q "%ProgramData%\Microsoft OneDrive" > NUL 2>&1
 rd /s /q "C:\OneDriveTemp" > NUL 2>&1
+rem 删除注册表项，作用是从侧边栏移除OneDrive图标
 reg delete "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
 reg delete "HKCR\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f > NUL 2>&1
 reg delete "HKEY_USERS\DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run" /f > NUL 2>&1
+rem 重启explorer
+start explorer
 goto :eof
 
 :PhotoViewer
@@ -961,61 +900,61 @@ goto :eof
 :WindowsApps
 TITLE 卸载 Microsoft Store
 ::a.     移除了下列应用/服务：（保留：Desktop App Installer、Store Purchase App、钱包、应用商店、Xbox、Windows To Go）
-::3D查看器
+echo 删除 3D查看器
 PowerShell "Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage"
-::地图
+echo 删除 地图
 PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
-::电影和电视
+echo 删除 电影和电视
 PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
-::获取帮助
-PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
-::反馈中心
+echo 删除 反馈中心
 PowerShell "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage"
-::Groove音乐
+echo 删除 Groove音乐
 PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
-::画图3D
+echo 删除 画图3D
 PowerShell "Get-AppxPackage *Microsoft.MSPaint* | Remove-AppxPackage"
-::混合现实门户
+echo 删除 混合现实门户
 PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
-::录音机
+echo 删除 录音机
 PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
-::Microsoft Solitaire Collection
+echo 删除 Microsoft Solitaire Collection
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
-::闹钟和时钟
-PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
-::你的手机
+echo 删除 你的手机
 PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
-::Office Hub
+echo 删除 Office Hub
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
-::OneNote
+echo 删除 OneNote
 PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
-::人脉
-PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
-::日历和邮件
+echo 删除 日历和邮件
 PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
-::SkypeApp
+echo 删除 SkypeApp
 PowerShell "Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage"
-::Sticky Notes
+echo 删除 Sticky Notes
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
-::使用技巧
+echo 删除 使用技巧
 PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
-::天气
+echo 删除 天气
 PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
-::卸载Xbox游戏组件
+echo 删除 卸载Xbox游戏组件
 PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
-::相机
-PowerShell "Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage"
-::消息
-PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
-::移动套餐
+echo 删除 移动套餐
 PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
-::卸载游戏录制工具栏
+echo 删除 卸载游戏录制工具栏
 PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
 PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
-::照片
+echo 删除 照片
 PowerShell "Get-AppxPackage *Microsoft.Windows.Photos* | Remove-AppxPackage"
+rem ::获取帮助
+rem PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
+rem ::闹钟和时钟
+rem PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
+rem ::人脉
+rem PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
+rem ::相机
+rem PowerShell "Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage"
+rem ::消息
+rem PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
 goto :eof
 
 :WindowsDefender

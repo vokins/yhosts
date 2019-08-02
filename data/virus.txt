@@ -149,3 +149,4 @@
 127.0.0.1 log.liusha.info
 127.0.0.1 statistics.liusha.info
 127.0.0.1 template.liusha.info
+127.0.0.1 j.credit.wwz114.cn
