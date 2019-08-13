@@ -1,5 +1,5 @@
 
-#version=201908021040
+#version=201908132253
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1819,6 +1819,36 @@
 127.0.0.1 omg.gzmxybg.com
 127.0.0.1 pop.mmfusheng.com
 127.0.0.1 qwe.jzpxyd.com
+127.0.0.1 asd.yhzbjz.com
+127.0.0.1 bfr.chinaweian.com
+127.0.0.1 e.5tbiec.cn
+127.0.0.1 e.bgj216.cn
+127.0.0.1 e.cx016d.cn
+127.0.0.1 e.vpaob5.cn
+127.0.0.1 e.w2xj4.cn
+127.0.0.1 e.y9062t.cn
+127.0.0.1 fjdvzx.cn
+127.0.0.1 gho.ysbjgjwh.com
+127.0.0.1 ijdl.hbyongwan.cn
+127.0.0.1 js.govbaidu.cn
+127.0.0.1 kn.tzsmab.cn
+127.0.0.1 m.5tbiec.cn
+127.0.0.1 m.b6wabb.cn
+127.0.0.1 m.bgj216.cn
+127.0.0.1 m.heshanwan.cn
+127.0.0.1 m.keai36.cn
+127.0.0.1 m.szmt02.cn
+127.0.0.1 m.szmt11.cn
+127.0.0.1 m.szmt18.cn
+127.0.0.1 m.vpaob5.cn
+127.0.0.1 m.w2xj4.cn
+127.0.0.1 m.y9062t.cn
+127.0.0.1 m.z0mh0u.cn
+127.0.0.1 postut.cn
+127.0.0.1 tg.qilashou.com
+127.0.0.1 www.flipf.cn
+127.0.0.1 www.shuaixu.site
+127.0.0.1 xls.jzgcmh.mobi
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2022,10 +2052,6 @@
 127.0.0.1 tj.u17t.com
 127.0.0.1 s.cdn.u17t.com
 127.0.0.1 adsapi.manhuaren.com
-127.0.0.1 liba.haotv8.com
-127.0.0.1 lib.haotv8.com
-127.0.0.1 libs.tvmao.cn
-127.0.0.1 slib.tvmao.cn
 127.0.0.1 disqusads.com
 127.0.0.1 sj1.3987.com
 127.0.0.1 statics.3987.com
@@ -2721,8 +2747,9 @@
 127.0.0.1 cmop.mgtv.com
 127.0.0.1 imgaliyun.res.mgtv.com
 127.0.0.1 mobaliyun.res.mgtv.com
-127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pcvideoyd.titan.mgtv.com
+127.0.0.1 web-disp.titan.mgtv.com
+127.0.0.1 web-disp1.titan.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 v1-play.log.mgtv.com
@@ -2736,8 +2763,10 @@
 127.0.0.1 py.da.mgtv.com
 127.0.0.1 v2.da.mgtv.com
 127.0.0.1 web.da.mgtv.com
+127.0.0.1 web2.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 y.da.mgtv.com
+127.0.0.1 ys.da.mgtv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.p2p.hunantv.com
@@ -2789,6 +2818,10 @@
 127.0.0.1 valt.atm.youku.com
 127.0.0.1 1.letvlive.com
 127.0.0.1 2.letvlive.com
+127.0.0.1 liba.haotv8.com
+127.0.0.1 lib.haotv8.com
+127.0.0.1 libs.tvmao.cn
+127.0.0.1 slib.tvmao.cn
 127.0.0.1 01daa.lubih.com
 127.0.0.1 01daa.lutci.com
 127.0.0.1 01daa.lutgh.com
@@ -7188,6 +7221,7 @@
 127.0.0.1 sohu.irs01.com
 127.0.0.1 v.irs01.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
+127.0.0.1 v13-6173431.z.irs01.com
 127.0.0.1 yyt.irs01.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com

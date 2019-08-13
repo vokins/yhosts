@@ -769,6 +769,7 @@
 127.0.0.1 sohu.irs01.com
 127.0.0.1 v.irs01.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
+127.0.0.1 v13-6173431.z.irs01.com
 127.0.0.1 yyt.irs01.com
 #jesgoo
 127.0.0.1 cdn.jesgoo.com

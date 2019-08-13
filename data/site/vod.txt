@@ -101,8 +101,9 @@
 127.0.0.1 cmop.mgtv.com
 127.0.0.1 imgaliyun.res.mgtv.com
 127.0.0.1 mobaliyun.res.mgtv.com
-127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pcvideoyd.titan.mgtv.com
+127.0.0.1 web-disp.titan.mgtv.com
+127.0.0.1 web-disp1.titan.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 v1-play.log.mgtv.com
@@ -116,8 +117,10 @@
 127.0.0.1 py.da.mgtv.com
 127.0.0.1 v2.da.mgtv.com
 127.0.0.1 web.da.mgtv.com
+127.0.0.1 web2.da.mgtv.com
 127.0.0.1 x.da.mgtv.com
 127.0.0.1 y.da.mgtv.com
+127.0.0.1 ys.da.mgtv.com
 127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.p2p.hunantv.com
@@ -172,3 +175,9 @@
 #http://dongfang.letvlive.com/
 127.0.0.1 1.letvlive.com
 127.0.0.1 2.letvlive.com
+#m.haotv8.com
+127.0.0.1 liba.haotv8.com
+127.0.0.1 lib.haotv8.com
+#www.tvmao.cn
+127.0.0.1 libs.tvmao.cn
+127.0.0.1 slib.tvmao.cn

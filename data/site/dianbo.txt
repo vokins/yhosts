@@ -1,6 +1,0 @@
-#m.haotv8.com
-127.0.0.1 liba.haotv8.com
-127.0.0.1 lib.haotv8.com
-#www.tvmao.cn
-127.0.0.1 libs.tvmao.cn
-127.0.0.1 slib.tvmao.cn
