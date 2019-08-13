@@ -2,7 +2,8 @@ http://pc.zmzapi.com/pc_html/pages/detail.html
 #Info Flow
 127.0.0.1 xiongzhang.baidu.com
 127.0.0.1 api.iapps.ifeng.com
-
+del
+127.0.0.1 weblb-wg.gslb.spotify.com
 
 del 127.0.0.1 gsp0.baidu.com
 127.0.0.1 gsp1.baidu.com

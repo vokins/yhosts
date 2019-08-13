@@ -1,5 +1,5 @@
 
-#version=201908132253
+#version=201908132305
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1567,7 +1567,6 @@
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 analytics.spotify.com
 127.0.0.1 log.spotify.com
-127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
@@ -1991,6 +1990,8 @@
 127.0.0.1 gp.zaiyunli.cn
 127.0.0.1 baidua1.cardbaobao.com
 127.0.0.1 baidua2.cardbaobao.com
+127.0.0.1 b1.0430.com
+127.0.0.1 b2.0430.com
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
