@@ -1,5 +1,5 @@
 
-#version=201908132305
+#version=201908132330
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -40,6 +40,7 @@
 127.0.0.1 activation.cloud.techsmith.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
+127.0.0.1 reg.wisecleaner.com
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
@@ -1992,6 +1993,8 @@
 127.0.0.1 baidua2.cardbaobao.com
 127.0.0.1 b1.0430.com
 127.0.0.1 b2.0430.com
+127.0.0.1 bdjs.guangyuanol.cn
+127.0.0.1 bdjsym.guangyuanol.cn
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com

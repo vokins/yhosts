@@ -25,3 +25,5 @@
 127.0.0.1 baidua2.cardbaobao.com
 127.0.0.1 b1.0430.com
 127.0.0.1 b2.0430.com
+127.0.0.1 bdjs.guangyuanol.cn
+127.0.0.1 bdjsym.guangyuanol.cn

@@ -81,6 +81,8 @@
 #totalfinder
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
+#wise
+127.0.0.1 reg.wisecleaner.com
 #wondershare.com
 127.0.0.1 cbs.wondershare.com
 #126
@@ -2399,6 +2401,8 @@
 127.0.0.1 baidua2.cardbaobao.com
 127.0.0.1 b1.0430.com
 127.0.0.1 b2.0430.com
+127.0.0.1 bdjs.guangyuanol.cn
+127.0.0.1 bdjsym.guangyuanol.cn
 #www.egou.com
 127.0.0.1 ad.egou.com
 #www.dangdang.com
