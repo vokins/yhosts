@@ -1,5 +1,5 @@
 
-#version=201908132330
+#version=201908162235
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1849,6 +1849,26 @@
 127.0.0.1 www.flipf.cn
 127.0.0.1 www.shuaixu.site
 127.0.0.1 xls.jzgcmh.mobi
+127.0.0.1 bxs.bilandgo.com
+127.0.0.1 cnyibs.com
+127.0.0.1 dde.jishengjc.com
+127.0.0.1 e.uu0152q.cn
+127.0.0.1 e.w1xj0.cn
+127.0.0.1 e.w5xj4.cn
+127.0.0.1 e.w6xj6.cn
+127.0.0.1 iln.zzjpgqd.com
+127.0.0.1 m.uu0152q.cn
+127.0.0.1 m.w1xj0.cn
+127.0.0.1 m.w5xj4.cn
+127.0.0.1 m.w6xj6.cn
+127.0.0.1 m.wxjrd.cn
+127.0.0.1 m.youxiaoliu.cn
+127.0.0.1 mo.dfnbyn.top
+127.0.0.1 mo.gsasqa.cn
+127.0.0.1 mo.zdceaa.cn
+127.0.0.1 photo.tycwpx.cn
+127.0.0.1 shj.tjawst.com
+127.0.0.1 wsd.guonongllc.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2751,9 +2771,6 @@
 127.0.0.1 cmop.mgtv.com
 127.0.0.1 imgaliyun.res.mgtv.com
 127.0.0.1 mobaliyun.res.mgtv.com
-127.0.0.1 pcvideoyd.titan.mgtv.com
-127.0.0.1 web-disp.titan.mgtv.com
-127.0.0.1 web-disp1.titan.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 v1-play.log.mgtv.com

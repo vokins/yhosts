@@ -1371,6 +1371,9 @@ http://hyfh.benbaisteel.com/fhgcoxz?vsw=aU&kwr=WZXa&rw=OWa._XaU&zhi=BNNJ3Xb3Wg3W
 <script type="text/javascript" src="http://dfc1.benbaisteel.com/egdge4xli5.js"></script>
 127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 disp1.titan.mgtv.com
+127.0.0.1 pcvideoyd.titan.mgtv.com
+127.0.0.1 web-disp.titan.mgtv.com
+127.0.0.1 web-disp1.titan.mgtv.com
 „Äê‰∏Ä.Êù?Áã?Áö?‰Ω?Âë?mp4„Ä?http://disp.titan.mgtv.com/vod.do?fmt=4&pno=1031&fid=4523EEC064E7C9D3F32235E46020BAA5&file=/c1/2017/05/03_0/4523EEC064E7C9D3F32235E46020BAA5_20170503_1_1_889.mp4
 http://60.217.249.146/vlive.qqvideo.tc.qq.com/AkUjwQllyJ3XQVo544JpngTRQEmmaX6-F30EQMaXsoUU/f0200tj3vty.p201.1.mp4?vkey=50B892660E29FA115AEAFA0102F1C3464F45A9BC85E9BEF86748295713C3D68F6792C46A84F75B60EB8BB926062757222479DF9AA6E52FB45E83F9C276BB2632378D176AF4178AD6F2971437016E1DA1662BD4C6CA51E9524E33382AB8214AAFD4D97EE1A0DA46D2E9E41557E8184ECE3C9DDF4EB29E7D7A&platform=10201&sdtfrom=&fmt=shd&level=0&locid=cfeb3172-3b86-4b4c-87ef-40e363c9bca0&size=2558125&ocid=2573604268
 https://mfm.video.qq.com/danmu?otype=json&callback=jQuery1910539093510913198_1510137665471&timestamp=45&target_id=2196595083&count=80&second_count=6&session_key=0%2C0%2C0&_=1510137665500

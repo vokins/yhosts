@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 17:06 2019/7/31
+rem 23:04 2019/8/14
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -22,6 +22,7 @@ call :FixCHM
 call :InputMethodCHS
 call :InternetExplorer
 call :LRCfile
+call :MacTime
 call :MicrosoftEdge
 rem call :NetReset
 call :NetShare
@@ -345,6 +346,11 @@ reg add "HKCR\lrcfile\DefaultIcon" /ve /d "imageres.dll,17" /f
 reg add "HKCR\lrcfile\shell" /f
 reg add "HKCR\lrcfile\shell\open" /f
 reg add "HKCR\lrcfile\shell\open\command" /ve /d "NOTEPAD.EXE %%1" /f
+goto :eof
+
+:MacTime
+echo 解决和Mac系统时间不同步的问题
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 goto :eof
 
 :MicrosoftEdge
