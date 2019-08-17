@@ -1072,6 +1072,11 @@ echo WPS2000
 reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "User" /d "WPS User" /f
 reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "Company" /d "WPS" /f
 reg add "HKCU\Software\Kingsoft\WPS2000\Registration" /v "Serial" /d "KSW00-00000-00000" /f
+echo 去WPS广告推荐弹窗
+reg add "HKCU\Software\Kingsoft\Office\6.0\Common\updateinfo" /v "StateSvr" /d "-" /f
+reg add "HKCU\Software\Kingsoft\Office\6.0\Common\updateinfo" /v "UpdateRecommend" /d "false" /f
+reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "instncstrt" /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "kbtrystatus" /d "close" /f
 echo ZD Soft\Screen Recorder
 rem http://www.zdsoft.com/download/SRSetup.exe
 reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Name" /d "Screen Recorder" /f
