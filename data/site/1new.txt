@@ -158,3 +158,17 @@
 127.0.0.1 www.insuf.cn
 127.0.0.1 www.ucsmqq.site
 127.0.0.1 xls.aermed.mobi
+127.0.0.1 e.cj59c.cn
+127.0.0.1 e.dh19y.cn
+127.0.0.1 e.zg39b.cn
+127.0.0.1 m.dh19y.cn
+127.0.0.1 m.omztf.cn
+127.0.0.1 m.x2e8id.cn
+127.0.0.1 m.zg39b.cn
+127.0.0.1 mo.b25ku.cn
+127.0.0.1 mo.grqf.com.cn
+127.0.0.1 mo.qitouch.cn
+127.0.0.1 scfrwo.cn
+127.0.0.1 skl.zhazhiwei.com
+127.0.0.1 swe.shylsp.com
+127.0.0.1 vgf.zuihuixuan.com

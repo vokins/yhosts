@@ -14,6 +14,5 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 www.googletagmanager.com
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagservices.com

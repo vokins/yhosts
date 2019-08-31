@@ -1,4 +1,7 @@
 #sohu
+127.0.0.1 assp.sohu.com
+127.0.0.1 fpb.sohu.com
+127.0.0.1 qpb.sohu.com
 127.0.0.1 3rd.t.sohu.com
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 ad.mail.sohu.com
