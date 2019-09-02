@@ -172,3 +172,5 @@
 127.0.0.1 skl.zhazhiwei.com
 127.0.0.1 swe.shylsp.com
 127.0.0.1 vgf.zuihuixuan.com
+127.0.0.1 e.ik20nd.cn
+127.0.0.1 m.ik20nd.cn
