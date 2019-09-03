@@ -174,3 +174,10 @@
 127.0.0.1 vgf.zuihuixuan.com
 127.0.0.1 e.ik20nd.cn
 127.0.0.1 m.ik20nd.cn
+127.0.0.1 asd.zuhaowan8.com
+127.0.0.1 img.zeruinong.com
+127.0.0.1 jimeilm.com
+127.0.0.1 js.safe524.xyz
+127.0.0.1 mo.bsxr.com.cn
+127.0.0.1 qq.hixili.top
+127.0.0.1 s.ssggba.top
