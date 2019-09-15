@@ -1,5 +1,5 @@
 
-#version=201909101541
+#version=201909152341
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1527,7 +1527,6 @@
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 wxsnsdy.tc.qq.com
-127.0.0.1 mfm.video.qq.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 ad.yixin.im
@@ -1961,6 +1960,15 @@
 127.0.0.1 k.qzzxjc.com
 127.0.0.1 t.xymj.xyz
 127.0.0.1 eo.ssdoi.com
+127.0.0.1 an.biocoop.cn
+127.0.0.1 druic.mytxt.cc
+127.0.0.1 druis.mytxt.cc
+127.0.0.1 e.hun3f.cn
+127.0.0.1 fgk.baitaoidc.com
+127.0.0.1 m.hun3f.cn
+127.0.0.1 m.zhipianwu.com
+127.0.0.1 mldy.wttpgq.cn
+127.0.0.1 mvo.ythbr.xyz
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

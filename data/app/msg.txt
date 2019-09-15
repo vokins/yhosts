@@ -7,7 +7,6 @@
 127.0.0.1 cmshow.gtimg.cn
 #http://weixin.qq.com/
 127.0.0.1 wxsnsdy.tc.qq.com
-127.0.0.1 mfm.video.qq.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 #http://yixin.im/

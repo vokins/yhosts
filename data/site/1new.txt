@@ -203,3 +203,12 @@
 127.0.0.1 k.qzzxjc.com
 127.0.0.1 t.xymj.xyz
 127.0.0.1 eo.ssdoi.com
+127.0.0.1 an.biocoop.cn
+127.0.0.1 druic.mytxt.cc
+127.0.0.1 druis.mytxt.cc
+127.0.0.1 e.hun3f.cn
+127.0.0.1 fgk.baitaoidc.com
+127.0.0.1 m.hun3f.cn
+127.0.0.1 m.zhipianwu.com
+127.0.0.1 mldy.wttpgq.cn
+127.0.0.1 mvo.ythbr.xyz
