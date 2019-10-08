@@ -252,3 +252,7 @@
 127.0.0.1 vip.winfisc.com
 127.0.0.1 ws.etuch.cn
 127.0.0.1 www.9llm.com
+127.0.0.1 iqiyi.kim
+127.0.0.1 vi12x.xcle.cn
+127.0.0.1 ad.lflucky.com
+127.0.0.1 ws2.hbssjd.cn
