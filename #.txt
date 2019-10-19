@@ -13,6 +13,8 @@ del 127.0.0.1 gsp0.baidu.com
 127.0.0.1 fc5tn.baidu.com???
 腾讯视频弹幕域名
 mfm.video.qq.com
+127.0.0.1 api.cupid.qiyi.com 爱奇艺全屏无法设置比例,16:9硬生生的给拉满屏
+127.0.0.1 pl.hd.sohu.com 搜狐视频右侧没有剧集列表
 
 补充例如:http://mfm.video.qq.com/danmu?timestamp=0&target_id=4143939772
 https://s.dbojetp.cn/S.aspx?p=1319&t=1&u=https://www.bd-film.cc/gq/27398.htm&RanStr=0.472950289444918&n=
