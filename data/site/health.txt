@@ -22,9 +22,11 @@
 127.0.0.1 x.120ask.com
 #m.39.net
 127.0.0.1 app-g.39.net
+127.0.0.1 d-test.39.net
 127.0.0.1 d.39.net
 127.0.0.1 dpvc.39.net
 127.0.0.1 thetestpage.39.net
+127.0.0.1 recommend.union.39.net
 #m.babytree.com
 127.0.0.1 titan.babytree.com
 127.0.0.1 titan01.babytree.com
