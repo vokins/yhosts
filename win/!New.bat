@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 23:04 2019/8/14
+rem 17:06 2019/11/11
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -60,7 +60,6 @@ chkntfs /t:1
 echo 启动和故障恢复：开机：设置开机显示操作系统列表时间2秒
 bcdedit /timeout 2
 echo 禁止部分程序后台更新和自启动
-reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f >nul 2>nul
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "OneDrive" /f >nul 2>nul
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "Vivaldi Update Notifier" /f >nul 2>nul
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "IgfxTray" /f >nul 2>nul
