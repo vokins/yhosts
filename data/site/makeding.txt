@@ -106,3 +106,7 @@
 127.0.0.1 ultraiso.net
 127.0.0.1 yuanchengxiezuo.com
 127.0.0.1 www.yuanchengxiezuo.com
+127.0.0.1 www.betterzipcn.com
+127.0.0.1 betterzipcn.com
+127.0.0.1 www.betterzip.net
+127.0.0.1 betterzip.net
