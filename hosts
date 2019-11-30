@@ -1,5 +1,5 @@
 
-#version=201911302223
+#version=201911302226
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1829,6 +1829,8 @@
 127.0.0.1 yijuxie.com
 127.0.0.1 z1.zhishidu.com
 127.0.0.1 z2.zhishidu.com
+127.0.0.1 s.23dsf.top
+127.0.0.1 baidu.tlssyg.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
