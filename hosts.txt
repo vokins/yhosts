@@ -2238,6 +2238,7 @@
 127.0.0.1 m.zbhbs.cn
 127.0.0.1 cd.jejre.cn
 127.0.0.1 mvo.sqa54e.xyz
+127.0.0.1 m.bogubogu.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
