@@ -90,3 +90,7 @@
 127.0.0.1 cd.jejre.cn
 127.0.0.1 mvo.sqa54e.xyz
 127.0.0.1 m.bogubogu.cn
+127.0.0.1 m.198nc.cn
+127.0.0.1 mvo.lki6hy.xyz
+127.0.0.1 t.basictool.vip
+127.0.0.1 t.trackingxnads.com
