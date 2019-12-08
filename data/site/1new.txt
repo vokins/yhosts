@@ -94,3 +94,4 @@
 127.0.0.1 mvo.lki6hy.xyz
 127.0.0.1 t.basictool.vip
 127.0.0.1 t.trackingxnads.com
+127.0.0.1 t.hmwebs.top

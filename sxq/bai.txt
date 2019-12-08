@@ -12,7 +12,6 @@ apps.bdimg.com
 bbs.safedog.cn
 book.guibuyu.org
 btcat.org
-m.tb.cn
 btcililian.net
 btdigg.xyz
 btfuliziyuan.com
@@ -25,9 +24,6 @@ cd.qw.shushu8.com
 cdn.bootcss.com
 cdn.jsdelivr.net
 chuanyuezhe.yetianzi.com
-www.ranwena.com
-腾讯科技.club
-xn--xhq9mt12cf5v.site
 cilidaquan.xyz
 cilidb.net
 cilifuli.com
@@ -56,6 +52,7 @@ github.com
 go.microsoft.com
 gxwztv.com
 hmcdn.baidu.com
+huodong.taobao.com
 huoying666.com
 i.biquge5200.com
 i.gtimg.cn
@@ -257,6 +254,7 @@ m.sosoxiaoshuo.cc
 m.sqsxs.com
 m.suimeng.com
 m.suimeng.la
+m.tb.cn
 m.tingshuge.com
 m.tmetb.net
 m.tsxsw.com
@@ -424,6 +422,7 @@ www.qcloud.com
 www.qiushibaike.com
 www.qq.com
 www.qu.la
+www.ranwena.com
 www.rejuwang.com
 www.safedog.cn
 www.shuaigay.vip
@@ -451,9 +450,11 @@ wx2.sinaimg.cn
 wx3.sinaimg.cn
 wx4.sinaimg.cn
 xiongzhang.baidu.com
+xn--xhq9mt12cf5v.site
 xntk.net
 zhainanbt.net
 zhannei.baidu.com
 zhongzicili.me
 znsv.baidu.com
 zuji.htm
+腾讯科技.club

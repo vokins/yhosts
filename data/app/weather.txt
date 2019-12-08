@@ -20,6 +20,9 @@
 127.0.0.1 mc.weather.com.cn
 #http://www.zuimeitianqi.com/
 127.0.0.1 ad.zuimeitianqi.com
+127.0.0.1 bd1.zuimeitianqi.com
+127.0.0.1 bd2.zuimeitianqi.com
+127.0.0.1 hwad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com

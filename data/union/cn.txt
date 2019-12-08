@@ -761,6 +761,7 @@
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
 #irs
+127.0.0.1 irs01.com
 127.0.0.1 a.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 iqiyi.irs01.com
