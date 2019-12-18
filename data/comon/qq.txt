@@ -44,6 +44,7 @@
 127.0.0.1 pacaio.match.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 setting.snswin.qq.com
+127.0.0.1 tdc.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 updatecenter.qq.com
 127.0.0.1 video.ureport.push.qq.com

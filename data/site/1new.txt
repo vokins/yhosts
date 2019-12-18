@@ -119,3 +119,5 @@
 127.0.0.1 vpn.tuodupingguomiao.com
 127.0.0.1 www.56yk.com
 127.0.0.1 www.xingtai0.com
+127.0.0.1 k.hbfls.vip
+127.0.0.1 uo.jstaogu.com

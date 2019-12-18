@@ -916,6 +916,7 @@
 127.0.0.1 pacaio.match.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 setting.snswin.qq.com
+127.0.0.1 tdc.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 updatecenter.qq.com
 127.0.0.1 video.ureport.push.qq.com
@@ -2277,6 +2278,8 @@
 127.0.0.1 vpn.tuodupingguomiao.com
 127.0.0.1 www.56yk.com
 127.0.0.1 www.xingtai0.com
+127.0.0.1 k.hbfls.vip
+127.0.0.1 uo.jstaogu.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
