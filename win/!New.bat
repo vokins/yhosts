@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 17:06 2019/11/11
+rem 23:15 2019/12/12
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -349,7 +349,7 @@ goto :eof
 
 :MacTime
 echo 解决和Mac系统时间不同步的问题
-Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1 /f
 goto :eof
 
 :MicrosoftEdge
@@ -1076,6 +1076,9 @@ reg add "HKCU\Software\Kingsoft\Office\6.0\Common\updateinfo" /v "StateSvr" /d "
 reg add "HKCU\Software\Kingsoft\Office\6.0\Common\updateinfo" /v "UpdateRecommend" /d "false" /f
 reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "instncstrt" /t REG_DWORD /d 0 /f
 reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "kbtrystatus" /d "close" /f
+echo 去除“WPS云文档”批处理
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{7AE6DE87-C956-4B40-9C89-3D166C9841D3}" /f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{5FCD4425-CA3A-48F4-A57C-B8A75C32ACB1}" /f
 echo ZD Soft\Screen Recorder
 rem http://www.zdsoft.com/download/SRSetup.exe
 reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Name" /d "Screen Recorder" /f
