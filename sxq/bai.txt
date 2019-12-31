@@ -8,6 +8,7 @@ ajax.cloudflare.com
 alicili.pw
 app.3987.com
 app.hytdsm.com
+edge.yunjiasu.com
 apps.bdimg.com
 bbs.safedog.cn
 book.guibuyu.org

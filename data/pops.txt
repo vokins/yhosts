@@ -1047,7 +1047,6 @@
 127.0.0.1 e98fe.luytr.com
 127.0.0.1 ed.sczhilong.cn
 127.0.0.1 edesf.xyzxmark.cn
-127.0.0.1 edge.yunjiasu.com
 127.0.0.1 eed.ntjrh.com
 127.0.0.1 eer.zhthf.com
 127.0.0.1 eg.gitpapa.com

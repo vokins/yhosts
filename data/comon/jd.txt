@@ -1,6 +1,5 @@
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 cm.jd.com
-127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 u-x.jd.com

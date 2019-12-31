@@ -730,7 +730,6 @@
 127.0.0.1 www.googletagservices.com
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 cm.jd.com
-127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 u-x.jd.com
@@ -1666,6 +1665,19 @@
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 actsdk.idreamsky.com
 127.0.0.1 v1-feed.idreamsky.com
+#adesk
+127.0.0.1 service.ad.adesk.com
+#halolauncher
+127.0.0.1 h5.holalauncher.com
+127.0.0.1 i.holalauncher.com
+127.0.0.1 st.holalauncher.com
+127.0.0.1 a.holagames.com
+127.0.0.1 sta.holagames.com
+127.0.0.1 i.haloapps.com
+127.0.0.1 mo.test.haloapps.com
+127.0.0.1 mo.haloapps.cn
+#letv
+127.0.0.1 ads1.lfengmobile.com
 #https://1kxun.mobi/download/index
 127.0.0.1 ad.1kxun.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
@@ -1806,46 +1818,6 @@
 127.0.0.1 dc.cp21.ott.cibntv.net
 127.0.0.1 s.de123.net
 127.0.0.1 dc.vmoters.com
-#rrys
-127.0.0.1 pat.farvd.com
-#adesk
-127.0.0.1 service.ad.adesk.com
-#halolauncher
-127.0.0.1 h5.holalauncher.com
-127.0.0.1 i.holalauncher.com
-127.0.0.1 st.holalauncher.com
-127.0.0.1 a.holagames.com
-127.0.0.1 sta.holagames.com
-127.0.0.1 i.haloapps.com
-127.0.0.1 mo.test.haloapps.com
-127.0.0.1 mo.haloapps.cn
-#letv
-127.0.0.1 ads1.lfengmobile.com
-#v.6.cn
-127.0.0.1 shrek.6.cn
-127.0.0.1 sclick.6rooms.com
-#www.huajiao.com
-127.0.0.1 ad.huajiao.com
-#m.huya.com
-127.0.0.1 mlog.hiido.com
-127.0.0.1 ylog.hiido.com
-#www.douyu.com
-127.0.0.1 v.smtcdns.net
-#http://im.qq.com/
-127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
-127.0.0.1 activeqq.3g.qq.com
-127.0.0.1 masdk.3g.qq.com
-127.0.0.1 pmir.3g.qq.com
-127.0.0.1 cmshow.gtimg.cn
-#http://weixin.qq.com/
-127.0.0.1 wxsnsdy.tc.qq.com
-127.0.0.1 vlive.qqvideo.tc.qq.com
-127.0.0.1 wxsnsdy.video.qq.com
-#http://yixin.im/
-127.0.0.1 ad.yixin.im
-#https://twitter.com/
-127.0.0.1 static.ads-twitter.com
 #http://www.1ting.com/
 127.0.0.1 bddm.999d.com
 127.0.0.1 bdjs.999d.com
@@ -1907,6 +1879,38 @@
 127.0.0.1 statisticsv2.yinyuetai.com
 127.0.0.1 t.collect.yinyuetai.com
 127.0.0.1 col.hztags.net
+#mting.info
+127.0.0.1 advert.mting.info
+127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
+#rrys
+127.0.0.1 pat.farvd.com
+#v.6.cn
+127.0.0.1 shrek.6.cn
+127.0.0.1 sclick.6rooms.com
+#www.huajiao.com
+127.0.0.1 ad.huajiao.com
+#m.huya.com
+127.0.0.1 mlog.hiido.com
+127.0.0.1 ylog.hiido.com
+#www.douyu.com
+127.0.0.1 v.smtcdns.net
+#http://im.qq.com/
+127.0.0.1 jrlt.beacon.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 activeqq.3g.qq.com
+127.0.0.1 masdk.3g.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 cmshow.gtimg.cn
+#http://weixin.qq.com/
+127.0.0.1 wxsnsdy.tc.qq.com
+127.0.0.1 vlive.qqvideo.tc.qq.com
+127.0.0.1 wxsnsdy.video.qq.com
+#http://yixin.im/
+127.0.0.1 ad.yixin.im
+#https://twitter.com/
+127.0.0.1 static.ads-twitter.com
 #exview
 127.0.0.1 cpx24.com
 127.0.0.1 www.cpx24.com
@@ -2294,6 +2298,23 @@
 127.0.0.1 www.hengshui1.com
 127.0.0.1 xn--fjqz50cv5q3so.ltd
 127.0.0.1 xn--wxtr9fwyxk9c.top
+127.0.0.1 9llm.com
+127.0.0.1 ckjyck.qxs.la
+127.0.0.1 eco.vcbn65.xyz
+127.0.0.1 ee.6xr2j.cn
+127.0.0.1 ee.86rtg.cn
+127.0.0.1 ee.m19ud.cn
+127.0.0.1 eo.sdagxz.xyz
+127.0.0.1 m.6xr2j.cn
+127.0.0.1 m.86rtg.cn
+127.0.0.1 m.m19ud.cn
+127.0.0.1 mvo.vcbn65.xyz
+127.0.0.1 qguwoq.cn
+127.0.0.1 t.youhua.pw
+127.0.0.1 t.zisu.cn.com
+127.0.0.1 vpn.zhengyejixie.com
+127.0.0.1 z1.cnywst.com
+127.0.0.1 z2.cnywst.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -4553,7 +4574,6 @@
 127.0.0.1 e98fe.luytr.com
 127.0.0.1 ed.sczhilong.cn
 127.0.0.1 edesf.xyzxmark.cn
-127.0.0.1 edge.yunjiasu.com
 127.0.0.1 eed.ntjrh.com
 127.0.0.1 eer.zhthf.com
 127.0.0.1 eg.gitpapa.com
