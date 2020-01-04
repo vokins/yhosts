@@ -152,3 +152,13 @@
 127.0.0.1 vpn.zhengyejixie.com
 127.0.0.1 z1.cnywst.com
 127.0.0.1 z2.cnywst.com
+127.0.0.1 eco.qasdw3.xyz
+127.0.0.1 ee.89kvh.cn
+127.0.0.1 ee.zq13n.cn
+127.0.0.1 m.89kvh.cn
+127.0.0.1 m.nydjsm.cn
+127.0.0.1 m.zq13n.cn
+127.0.0.1 mvo.qasdw3.xyz
+127.0.0.1 qipskd.cn
+127.0.0.1 www.nangong2.com
+127.0.0.1 www.ttyyuuoo.com
