@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 23:15 2019/12/12
+rem 19:37 2020/1/9
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -965,23 +965,31 @@ goto :eof
 :WindowsDefender
 echo 删除安全中心开机启动
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SecurityHealth" /f >nul 2>nul
-SecurityHealthSystray
+echo 关闭 Windows Defender 防病毒程序
+taskkill /f /im MSASCuil.exe >nul 2>nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /t REG_DWORD /d 1 /f
+echo 关闭实时防护
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableRealtimeMonitoring" /t REG_DWORD /d 1 /f
+echo 禁用恶意软件删除工具的Windows更新
+reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontOfferThroughWUAU" /t REG_DWORD /d 1 /f
+echo 关闭WD From 神州网信
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "SettingsPageVisibility" /d "Hide:windowsdefender;" /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontReportInfectionInformation" /t REG_DWORD /d 1 /f
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SubmitSamplesConsent" /t REG_DWORD /d 2 /f
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "DefinitionUpdateFileSharesSources" /f
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "FallbackOrder" /f
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /f
 echo 禁用Windows Defender 安全中心服务
 reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 echo 在未安装通过微软注册的杀软的情况下关闭Windows Security Center
 reg add "HKLM\SOFTWARE\Microsoft\Security Center\Feature" /v "DisableAvCheck" /t REG_DWORD /d 1 /f
-echo 关闭 Windows Defender 防病毒程序
-taskkill /f /im MSASCuil.exe >nul 2>nul
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /d 1 /t REG_DWORD /f
 echo 允许反恶意软件服务始终保持运行状态
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "ServiceKeepAlive" /t REG_DWORD /d 0 /f
 echo 关闭 Windows Defender SmartScreen
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v "EnableSmartScreen" /t REG_DWORD /d 0 /f
 echo 禁用Windows Defender SmartScreen 应用安装控制
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen" /v "ConfigureAppInstallControlEnabled" /t REG_DWORD /d 0 /f
-echo 关闭实时防护
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableRealtimeMonitoring" /t REG_DWORD /d 1 /f
 echo 禁用行为监视
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableBehaviorMonitoring" /t REG_DWORD /d 1 /f
 echo 禁用扫描所有下载文件和附件
@@ -990,14 +998,13 @@ echo 禁止监视文件和程序活动
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableOnAccessProtection" /t REG_DWORD /d 1 /f
 echo 禁止在打开实时保护时启动进程扫描
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableScanOnRealtimeEnable" /t REG_DWORD /d 1 /f
-echo 禁用恶意软件删除工具的Windows更新
-reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontOfferThroughWUAU" /t REG_DWORD /d 1 /f
 echo 清理：文件：使用Windows Defender扫描
 reg delete "HKCR\Drive\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
 reg delete "HKCR\Directory\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
 reg delete "HKCR\*\ShellEx\ContextMenuHandlers\EPP" /f > NUL 2>&1
 call :GpUpdate
 goto :eof
+
 
 :WindowsLog
 echo 禁用错误报告(Windows Error Reporting Service)
