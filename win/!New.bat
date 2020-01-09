@@ -27,7 +27,7 @@ call :MicrosoftEdge
 rem call :NetReset
 call :NetShare
 call :Notepad
-call :Notepad2
+rem call :Notepad2
 call :PhotoViewer
 call :Powercfg
 call :RightMenuAdd

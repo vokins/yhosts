@@ -1,5 +1,5 @@
 
-#version=202001042200
+#version=202001091232
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -1935,6 +1935,23 @@
 127.0.0.1 qipskd.cn
 127.0.0.1 www.nangong2.com
 127.0.0.1 www.ttyyuuoo.com
+127.0.0.1 ee.w82ph.cn
+127.0.0.1 ee.wv26d.cn
+127.0.0.1 eei.lobbycafe.cn
+127.0.0.1 m.1234567.com.cn
+127.0.0.1 m.w82ph.cn
+127.0.0.1 m.wv26d.cn
+127.0.0.1 mfcvxw.cn
+127.0.0.1 push2.eastmoney.com
+127.0.0.1 s.tjys88.com
+127.0.0.1 t.58xs.com
+127.0.0.1 wm.xunlaile.com
+127.0.0.1 www.8jzw.com
+127.0.0.1 www.grjs02.com
+127.0.0.1 www.jcdfdhx.top
+127.0.0.1 www.wenxuemi6.com
+127.0.0.1 www.zwda.com
+127.0.0.1 xsapp.cdn.bcebos.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -3309,7 +3326,6 @@
 127.0.0.1 cc.st123.info
 127.0.0.1 ccv.jiumishow.com
 127.0.0.1 ccv.ybt999.com
-127.0.0.1 cd.bendibao.com
 127.0.0.1 cdbnx5.com
 127.0.0.1 cdhoc.piyaji.cn
 127.0.0.1 cdn.0i-i0.com

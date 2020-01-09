@@ -8,7 +8,6 @@ ajax.cloudflare.com
 alicili.pw
 app.3987.com
 app.hytdsm.com
-edge.yunjiasu.com
 apps.bdimg.com
 bbs.safedog.cn
 book.guibuyu.org
@@ -41,6 +40,7 @@ dl.wandoujia.com
 download.macromedia.com
 download.xiusho.com
 downnovel.com
+edge.yunjiasu.com
 ewenxue.net
 feifeibt.net
 fpdownload.macromedia.com
@@ -302,6 +302,7 @@ m.zwda.com
 m.zwdu.com
 maweb.3g.qq.com
 mm.alameinv.com
+mos.m.taobao.com
 mp.weixin.qq.com
 msite.baidu.com
 my.tsxsw.com
@@ -387,6 +388,7 @@ www.baidu.com
 www.baomihua001.com
 www.beian.gov.cn
 www.biquge.cn
+www.biquge.com.cn
 www.biquge22.com
 www.biqugeapp.com
 www.booktxt.io
@@ -458,4 +460,5 @@ zhannei.baidu.com
 zhongzicili.me
 znsv.baidu.com
 zuji.htm
+百度科技.top
 腾讯科技.club

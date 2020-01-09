@@ -1,0 +1,28 @@
+#http://www.bitcomet.com/
+127.0.0.1 inside.bitcomet.com
+#http://player.gomlab.com/
+127.0.0.1 info.gomlab.com
+127.0.0.1 playinfo.gomlab.com
+127.0.0.1 promotion.gomlab.com
+#http://potplayer.daum.net/
+127.0.0.1 adimg.daumcdn.net
+127.0.0.1 analytics.ad.daum.net
+127.0.0.1 display.ad.daum.net
+127.0.0.1 track.tiara.daum.net
+127.0.0.1 live.tvpot.daum.net
+#http://pinyin.sogou.com/
+127.0.0.1 info.pinyin.sogou.com
+127.0.0.1 ping.pinyin.sogou.com
+#http://www.vidown.cn/
+127.0.0.1 conf.vidown.cn
+127.0.0.1 gg.vidown.cn
+127.0.0.1 minisite.vidown.cn
+127.0.0.1 rtlog.vidown.cn
+127.0.0.1 tj.vidown.cn
+#http://www.winrar.com.cn/
+127.0.0.1 ad.winrar.com.cn
+#http://www.xigua.com/
+127.0.0.1 adv2.downsave.com
+#http://www.jjvod.com/
+127.0.0.1 mini.jijiplayer.com
+127.0.0.1 txtad.jijiplayer.com

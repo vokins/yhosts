@@ -394,7 +394,6 @@
 127.0.0.1 cc.st123.info
 127.0.0.1 ccv.jiumishow.com
 127.0.0.1 ccv.ybt999.com
-127.0.0.1 cd.bendibao.com
 127.0.0.1 cdbnx5.com
 127.0.0.1 cdhoc.piyaji.cn
 127.0.0.1 cdn.0i-i0.com
