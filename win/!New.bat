@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 19:37 2020/1/9
+rem 20:12 2020/1/9
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -321,7 +321,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Attachments" /v
 echo 关闭IE的Smartscreen筛选器
 reg add "HKCU\Software\Microsoft\Internet Explorer\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d 0 /f
 echo 更改IE默认下载目录
-reg delete "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Default Download Directory" /f
+reg delete "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Default Download Directory" /f > NUL 2>&1
 reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /v "Default Download Directory" /d "D:\迅雷下载" /t REG_SZ /f
 echo 127.0.0.1 ieonline.microsoft.com
 SET NEWLINE=^& echo.
@@ -805,7 +805,7 @@ echo 清理启动项
 del /f /q "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\*.lnk" 1>nul 2>nul
 del /f /q "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk" 1>nul 2>nul
 echo 清空默认启动项
-reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f > NUL 2>&1
 taskmgr
 goto :eof
 
@@ -976,9 +976,9 @@ echo 关闭WD From 神州网信
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "SettingsPageVisibility" /d "Hide:windowsdefender;" /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontReportInfectionInformation" /t REG_DWORD /d 1 /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SubmitSamplesConsent" /t REG_DWORD /d 2 /f
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "DefinitionUpdateFileSharesSources" /f
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "FallbackOrder" /f
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /f
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "DefinitionUpdateFileSharesSources" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "FallbackOrder" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /f > NUL 2>&1
 echo 禁用Windows Defender 安全中心服务
 reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
@@ -1084,8 +1084,8 @@ reg add "HKCU\Software\Kingsoft\Office\6.0\Common\updateinfo" /v "UpdateRecommen
 reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "instncstrt" /t REG_DWORD /d 0 /f
 reg add "HKCU\Software\Kingsoft\Office\6.0\plugins\minisiteex" /v "kbtrystatus" /d "close" /f
 echo 去除“WPS云文档”批处理
-reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{7AE6DE87-C956-4B40-9C89-3D166C9841D3}" /f
-reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{5FCD4425-CA3A-48F4-A57C-B8A75C32ACB1}" /f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{7AE6DE87-C956-4B40-9C89-3D166C9841D3}" /f >nul 2>nul
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{5FCD4425-CA3A-48F4-A57C-B8A75C32ACB1}" /f >nul 2>nul
 echo ZD Soft\Screen Recorder
 rem http://www.zdsoft.com/download/SRSetup.exe
 reg add "HKCU\Software\ZD Soft\Screen Recorder\7CCC341F9C9547828A0C2D346BDB4BD8" /v "Name" /d "Screen Recorder" /f
