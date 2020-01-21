@@ -2093,7 +2093,9 @@
 127.0.0.1 api.pingstart.com
 #https://www.speedtest.net/
 127.0.0.1 c.evidon.com
-
+#AirScreen
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
 #m.8684.cn
 127.0.0.1 2012.8684.com
 127.0.0.1 bdfpb1.8684.com
@@ -2360,6 +2362,10 @@
 127.0.0.1 www.afj0.com
 127.0.0.1 yfzcuw.cn
 127.0.0.1 yxyhtea.com
+127.0.0.1 ee.wz382.cn
+127.0.0.1 m.wz382.cn
+127.0.0.1 t.sdpaji.com
+127.0.0.1 xn--xhq9mt12cf5v.ink
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

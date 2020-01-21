@@ -197,3 +197,7 @@
 127.0.0.1 www.afj0.com
 127.0.0.1 yfzcuw.cn
 127.0.0.1 yxyhtea.com
+127.0.0.1 ee.wz382.cn
+127.0.0.1 m.wz382.cn
+127.0.0.1 t.sdpaji.com
+127.0.0.1 xn--xhq9mt12cf5v.ink
