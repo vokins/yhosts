@@ -40,6 +40,7 @@
 #wap.eastmoney.com
 127.0.0.1 bduserlog.eastmoney.com
 127.0.0.1 js4.eastmoney.com
+127.0.0.1 mobappconfig.securities.eastmoney.com
 127.0.0.1 same.eastmoney.com
 #www.ccstock.cn
 127.0.0.1 ads.ccstock.cn

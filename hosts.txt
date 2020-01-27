@@ -2368,6 +2368,7 @@
 127.0.0.1 xn--xhq9mt12cf5v.ink
 127.0.0.1 s.tkm.ink
 127.0.0.1 vpn.jnj-energy.com
+127.0.0.1 mp.xi9p.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2740,6 +2741,7 @@
 #wap.eastmoney.com
 127.0.0.1 bduserlog.eastmoney.com
 127.0.0.1 js4.eastmoney.com
+127.0.0.1 mobappconfig.securities.eastmoney.com
 127.0.0.1 same.eastmoney.com
 #www.ccstock.cn
 127.0.0.1 ads.ccstock.cn
