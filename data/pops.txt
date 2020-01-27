@@ -3583,7 +3583,6 @@
 127.0.0.1 y.unilz588.com
 127.0.0.1 y.xinghao89.com
 127.0.0.1 y.zp22.cn
-127.0.0.1 y0.cn
 127.0.0.1 yacafrr.bailingcloud.cn
 127.0.0.1 ycszgt.cn
 127.0.0.1 ycy.hyjyjc.com

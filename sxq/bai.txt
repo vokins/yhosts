@@ -308,11 +308,13 @@ msite.baidu.com
 my.tsxsw.com
 p.abcache.com
 pan.meijukankan.net
+pb_qian.style.color = "#ccc
 photocdn.sohu.com
 photocdn.tv.sohu.com
 pic.qiushibaike.com
 pic2016.ytqmx.com
 play.meijukankan.net
+pt_qian.style.color = "#ccc
 push.zhanzhang.baidu.com
 puui.qpic.cn
 qiushi-gif.qiushibaike.com
@@ -326,6 +328,7 @@ read.htm
 regist.htm
 register.html
 renrencili.net
+report.style.color = "#ccc
 res.wx.qq.com
 s.bdstatic.com
 s.click.taobao.com
@@ -455,6 +458,7 @@ wx4.sinaimg.cn
 xiongzhang.baidu.com
 xn--xhq9mt12cf5v.site
 xntk.net
+y0.cn
 zhainanbt.net
 zhannei.baidu.com
 zhongzicili.me

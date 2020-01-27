@@ -2366,6 +2366,8 @@
 127.0.0.1 m.wz382.cn
 127.0.0.1 t.sdpaji.com
 127.0.0.1 xn--xhq9mt12cf5v.ink
+127.0.0.1 s.tkm.ink
+127.0.0.1 vpn.jnj-energy.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -7161,7 +7163,6 @@
 127.0.0.1 y.unilz588.com
 127.0.0.1 y.xinghao89.com
 127.0.0.1 y.zp22.cn
-127.0.0.1 y0.cn
 127.0.0.1 yacafrr.bailingcloud.cn
 127.0.0.1 ycszgt.cn
 127.0.0.1 ycy.hyjyjc.com

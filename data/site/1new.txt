@@ -201,3 +201,5 @@
 127.0.0.1 m.wz382.cn
 127.0.0.1 t.sdpaji.com
 127.0.0.1 xn--xhq9mt12cf5v.ink
+127.0.0.1 s.tkm.ink
+127.0.0.1 vpn.jnj-energy.com
