@@ -204,3 +204,7 @@
 127.0.0.1 s.tkm.ink
 127.0.0.1 vpn.jnj-energy.com
 127.0.0.1 mp.xi9p.com
+127.0.0.1 c.jntxst.cn
+127.0.0.1 ee.hx623.cn
+127.0.0.1 m.hx623.cn
+127.0.0.1 v.jntxst.cn

@@ -178,3 +178,22 @@
 #www.tvmao.cn
 127.0.0.1 libs.tvmao.cn
 127.0.0.1 slib.tvmao.cn
+#91mjw.com
+127.0.0.1 acoxcv.cn
+127.0.0.1 aazcio.cn
+127.0.0.1 sboite.cn
+127.0.0.1 wpan.sc2yun.com
+#www.rrmj.cc
+127.0.0.1 c73.microfog.me
+127.0.0.1 c72.microfog.me
+127.0.0.1 y76.ylems.club
+127.0.0.1 y71.ylems.club
+127.0.0.1 dsd.dxwpedu.me
+127.0.0.1 eef.51dmn.top
+127.0.0.1 m.xuehelei.com
+127.0.0.1 ssf.51dmn.top
+127.0.0.1 syy.dxwpedu.me
+#www.tiantianmeiju.cc
+127.0.0.1 a.n8n7.me
+#www.yynys.com
+127.0.0.1 yule.fulevmy.com
