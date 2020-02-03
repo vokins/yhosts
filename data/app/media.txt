@@ -216,3 +216,9 @@
 127.0.0.1 ylog.hiido.com
 #www.douyu.com
 127.0.0.1 v.smtcdns.net
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 conf.hpplay.cn
+127.0.0.1 fix.hpplay.cn
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 cdn.hpplay.com.cn

@@ -156,12 +156,14 @@
 127.0.0.1 vasapi.rdtuijian.com
 127.0.0.1 info.iciba.com
 #miui-tv
+127.0.0.1 ad.mi.com
+127.0.0.1 mivideo.g.mi.com
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
-127.0.0.1 mivideo.g.mi.com
 #mokee
 127.0.0.1 stats.mokeedev.com
 #oppo-ads

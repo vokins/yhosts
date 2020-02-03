@@ -1527,12 +1527,14 @@
 127.0.0.1 vasapi.rdtuijian.com
 127.0.0.1 info.iciba.com
 #miui-tv
+127.0.0.1 ad.mi.com
+127.0.0.1 mivideo.g.mi.com
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
-127.0.0.1 mivideo.g.mi.com
 #mokee
 127.0.0.1 stats.mokeedev.com
 #oppo-ads
@@ -1896,6 +1898,12 @@
 127.0.0.1 ylog.hiido.com
 #www.douyu.com
 127.0.0.1 v.smtcdns.net
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 conf.hpplay.cn
+127.0.0.1 fix.hpplay.cn
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 cdn.hpplay.com.cn
 #http://im.qq.com/
 127.0.0.1 jrlt.beacon.qq.com
 127.0.0.1 log.tbs.qq.com
