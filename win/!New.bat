@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 20:12 2020/1/9
+rem 21:08 2020/2/4
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -155,6 +155,10 @@ reg delete "HKCR\.mpeg\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.mpg\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.rmvb\ShellEx" /f >nul 2>nul
 reg delete "HKCR\.wmv\ShellEx" /f >nul 2>nul
+echo 扩展到当前文件夹
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "NavPaneExpandToCurrentFolder" /t REG_DWORD /d 1 /f
+echo 显示所有文件夹
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "NavPaneShowAllFolders" /t REG_DWORD /d 1 /f
 goto :eof
 
 :ExplorerUpdate
@@ -798,6 +802,14 @@ echo 国内服务
 sc config QQMusicService start=disabled > NUL 2>&1
 sc config QiyiService start=disabled > NUL 2>&1
 sc config wpscloudsvr start=disabled > NUL 2>&1
+
+echo 启用网络发现与文件共享已关闭（ 自动（延迟启动） ）
+rem Function Discovery Resource Publication
+sc config FDResPub start=delayed-auto
+rem SSDP Discovery
+sc config SSDPSRV start=delayed-auto
+rem Upnp Device Host
+sc config upnphost start=delayed-auto
 goto :eof
 
 :StartUp

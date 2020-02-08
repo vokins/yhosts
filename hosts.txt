@@ -188,7 +188,6 @@
 127.0.0.1 afpssp.alimama.com
 #aliyun
 127.0.0.1 oa-panther.data.aliyun.com
-127.0.0.1 promotion.aliyun.com
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -2381,6 +2380,13 @@
 127.0.0.1 ee.hx623.cn
 127.0.0.1 m.hx623.cn
 127.0.0.1 v.jntxst.cn
+127.0.0.1 abckzo.cn
+127.0.0.1 ee.mfufanj.cn
+127.0.0.1 m.gd881.cn
+127.0.0.1 m.mfufanj.cn
+127.0.0.1 t.lzrkj.top
+127.0.0.1 vpn.youyisheng.net
+127.0.0.1 wap.utmei.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
