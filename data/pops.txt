@@ -455,8 +455,6 @@
 127.0.0.1 cp.greenxf.cn
 127.0.0.1 cp.gs307.com
 127.0.0.1 cpc.haohaowan8.com
-127.0.0.1 cpoml.iask.sina.com.cn
-127.0.0.1 cpu.baidu.com
 127.0.0.1 cpv-adv.ggytc.com
 127.0.0.1 cpv.czpush.com
 127.0.0.1 cs.twcczhu.com
@@ -1253,7 +1251,6 @@
 127.0.0.1 image.qj175.com
 127.0.0.1 image.ttyouma.cn
 127.0.0.1 image.upages.cn
-127.0.0.1 imageplus.baidu.com
 127.0.0.1 images.avsmt.cn
 127.0.0.1 images.tyyjzs.cn
 127.0.0.1 img.1whour.com

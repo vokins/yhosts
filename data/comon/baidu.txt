@@ -65,4 +65,3 @@
 127.0.0.1 uat1.bfsspadserver.8le8le.com
 #union-site
 127.0.0.1 cpu-baidu-com-block.cdn.bcebos.com
-127.0.0.1 publish-pic-cpu.baidu.com

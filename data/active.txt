@@ -48,6 +48,8 @@
 127.0.0.1 act2.mediafour.com
 #nikon-imaging
 127.0.0.1 sams.nikonimaging.com
+#presonus
+127.0.0.1 registration.presonus.com
 #Piriform
 127.0.0.1 license.piriform.com
 #processlasso

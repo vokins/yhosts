@@ -70,6 +70,8 @@
 127.0.0.1 act2.mediafour.com
 #nikon-imaging
 127.0.0.1 sams.nikonimaging.com
+#presonus
+127.0.0.1 registration.presonus.com
 #Piriform
 127.0.0.1 license.piriform.com
 #processlasso
@@ -451,7 +453,6 @@
 127.0.0.1 uat1.bfsspadserver.8le8le.com
 #union-site
 127.0.0.1 cpu-baidu-com-block.cdn.bcebos.com
-127.0.0.1 publish-pic-cpu.baidu.com
 #cmcm
 127.0.0.1 ms.cmcm.com
 127.0.0.1 cmcdl.cmcm.com
@@ -2100,9 +2101,6 @@
 127.0.0.1 api.pingstart.com
 #https://www.speedtest.net/
 127.0.0.1 c.evidon.com
-#AirScreen
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 aax-fe-sin.amazon-adsystem.com
 #m.8684.cn
 127.0.0.1 2012.8684.com
 127.0.0.1 bdfpb1.8684.com
@@ -2387,6 +2385,22 @@
 127.0.0.1 t.lzrkj.top
 127.0.0.1 vpn.youyisheng.net
 127.0.0.1 wap.utmei.cn
+127.0.0.1 m195.zzcm5.com
+127.0.0.1 m.pubgorg.xyz
+127.0.0.1 m.627859.xyz
+127.0.0.1 a9.xlgqy.com
+127.0.0.1 c.iche88.cn
+127.0.0.1 ee.b2fwnu.cn
+127.0.0.1 ee.d6s2pn5t.cn
+127.0.0.1 ee.gd881.cn
+127.0.0.1 ee.xr883.cn
+127.0.0.1 m.b2fwnu.cn
+127.0.0.1 m.d6s2pn5t.cn
+127.0.0.1 m.xr883.cn
+127.0.0.1 v.iche88.cn
+127.0.0.1 v.xiuzhenjewelry.cn
+127.0.0.1 vpn.ch-hr12333.com
+127.0.0.1 www.ahw3.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -4074,8 +4088,6 @@
 127.0.0.1 cp.greenxf.cn
 127.0.0.1 cp.gs307.com
 127.0.0.1 cpc.haohaowan8.com
-127.0.0.1 cpoml.iask.sina.com.cn
-127.0.0.1 cpu.baidu.com
 127.0.0.1 cpv-adv.ggytc.com
 127.0.0.1 cpv.czpush.com
 127.0.0.1 cs.twcczhu.com
@@ -4872,7 +4884,6 @@
 127.0.0.1 image.qj175.com
 127.0.0.1 image.ttyouma.cn
 127.0.0.1 image.upages.cn
-127.0.0.1 imageplus.baidu.com
 127.0.0.1 images.avsmt.cn
 127.0.0.1 images.tyyjzs.cn
 127.0.0.1 img.1whour.com
