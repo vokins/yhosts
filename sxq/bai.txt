@@ -359,6 +359,7 @@ t.shuotxts.com
 temai.m.taobao.com
 torrentkitty.uno
 tv.sohu.com
+txt=txt.replace(
 wap.dingdianzw.com
 wap.faloo.com
 wap.xxbiquge.com
@@ -450,6 +451,7 @@ www.wdlinux.cn
 www.wesiedu.com
 www.www.00sy.net
 www.xixiwx.com
+www.xs222.co
 www.yawenb.com
 wx1.sinaimg.cn
 wx2.sinaimg.cn
