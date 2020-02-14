@@ -1547,12 +1547,6 @@
 127.0.0.1 analytics.xgimi.com
 @app-browser
 #http://app.2345.com/mob.htm
-127.0.0.1 2345api.dftoutiao.com
-127.0.0.1 2345apicode.dftoutiao.com
-127.0.0.1 actlog.dftoutiao.com
-127.0.0.1 imgsreview.dftoutiao.com
-127.0.0.1 pclog.dftoutiao.com
-127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 ad.gtbrowser.com
@@ -2402,6 +2396,8 @@
 127.0.0.1 vpn.ch-hr12333.com
 127.0.0.1 www.ahw3.com
 127.0.0.1 qdsfzz.cn
+127.0.0.1 eco.hn765f.xyz
+127.0.0.1 mvo.hn765f.xyz
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2478,10 +2474,17 @@
 #gui-beihai365.com
 127.0.0.1 ad.beihai365.com
 #hu-dftoutiao.com
+127.0.0.1 2345api.dftoutiao.com
+127.0.0.1 2345apicode.dftoutiao.com
+127.0.0.1 actlog.dftoutiao.com
 127.0.0.1 dspimg.dftoutiao.com
+127.0.0.1 imgsreview.dftoutiao.com
 127.0.0.1 pageshow.dftoutiao.com
+127.0.0.1 pclog.dftoutiao.com
 127.0.0.1 pcminitj.dftoutiao.com
+127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 position.dftoutiao.com
+127.0.0.1 unionstatis.dftoutiao.com
 #hu-eastday.com
 127.0.0.1 afpimages.eastday.com
 127.0.0.1 hot.eastday.com
@@ -2571,6 +2574,9 @@
 127.0.0.1 b2.0430.com
 127.0.0.1 bdjs.guangyuanol.cn
 127.0.0.1 bdjsym.guangyuanol.cn
+127.0.0.1 53m.kuk8.com
+127.0.0.1 53s.kuk8.com
+127.0.0.1 union.duizhuang.com
 #www.egou.com
 127.0.0.1 ad.egou.com
 #www.dangdang.com
@@ -2598,6 +2604,7 @@
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 applogapi.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 clickx.autohome.com.cn
 127.0.0.1 cmx.autohome.com.cn
 127.0.0.1 comm.app.autohome.com.cn
 127.0.0.1 dspmnt.autohome.com.cn

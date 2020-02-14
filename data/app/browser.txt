@@ -1,11 +1,5 @@
 @app-browser
 #http://app.2345.com/mob.htm
-127.0.0.1 2345api.dftoutiao.com
-127.0.0.1 2345apicode.dftoutiao.com
-127.0.0.1 actlog.dftoutiao.com
-127.0.0.1 imgsreview.dftoutiao.com
-127.0.0.1 pclog.dftoutiao.com
-127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 ad.gtbrowser.com

@@ -4,10 +4,17 @@
 #gui-beihai365.com
 127.0.0.1 ad.beihai365.com
 #hu-dftoutiao.com
+127.0.0.1 2345api.dftoutiao.com
+127.0.0.1 2345apicode.dftoutiao.com
+127.0.0.1 actlog.dftoutiao.com
 127.0.0.1 dspimg.dftoutiao.com
+127.0.0.1 imgsreview.dftoutiao.com
 127.0.0.1 pageshow.dftoutiao.com
+127.0.0.1 pclog.dftoutiao.com
 127.0.0.1 pcminitj.dftoutiao.com
+127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 position.dftoutiao.com
+127.0.0.1 unionstatis.dftoutiao.com
 #hu-eastday.com
 127.0.0.1 afpimages.eastday.com
 127.0.0.1 hot.eastday.com

@@ -5,6 +5,7 @@
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 applogapi.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
+127.0.0.1 clickx.autohome.com.cn
 127.0.0.1 cmx.autohome.com.cn
 127.0.0.1 comm.app.autohome.com.cn
 127.0.0.1 dspmnt.autohome.com.cn

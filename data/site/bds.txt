@@ -27,3 +27,6 @@
 127.0.0.1 b2.0430.com
 127.0.0.1 bdjs.guangyuanol.cn
 127.0.0.1 bdjsym.guangyuanol.cn
+127.0.0.1 53m.kuk8.com
+127.0.0.1 53s.kuk8.com
+127.0.0.1 union.duizhuang.com
