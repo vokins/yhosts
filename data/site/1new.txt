@@ -238,3 +238,6 @@
 127.0.0.1 m.k2d98mi.cn
 127.0.0.1 v.76768hwj.cn
 127.0.0.1 s.vaedan.top
+127.0.0.1 qevcxo.cn
+127.0.0.1 z2.yunl1.com
+127.0.0.1 z1.yunl1.com
