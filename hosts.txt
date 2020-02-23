@@ -2405,6 +2405,16 @@
 127.0.0.1 qevcxo.cn
 127.0.0.1 z2.yunl1.com
 127.0.0.1 z1.yunl1.com
+127.0.0.1 c.originz.cn
+127.0.0.1 ee.h2tywo.cn
+127.0.0.1 ee.zowmgxpz.cn
+127.0.0.1 jc.vtqifk86868.cn
+127.0.0.1 m.h2tywo.cn
+127.0.0.1 m.zowmgxpz.cn
+127.0.0.1 ssl.bbbr8.com
+127.0.0.1 v.originz.cn
+127.0.0.1 www.nlzq888.com
+127.0.0.1 xn--wxtr44c.video
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
