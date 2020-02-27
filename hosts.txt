@@ -2415,6 +2415,9 @@
 127.0.0.1 v.originz.cn
 127.0.0.1 www.nlzq888.com
 127.0.0.1 xn--wxtr44c.video
+127.0.0.1 www.zopeynxv.top
+127.0.0.1 t.xiumii.top
+127.0.0.1 xn--xhq9mt12cf5v.art
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net

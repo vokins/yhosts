@@ -1,5 +1,5 @@
 @ECHO OFF
-rem 21:08 2020/2/4
+rem 17:25 2020/2/24
 cd /d "%~dp0"
 Rd "%WinDir%\system32\test_permissions" >NUL 2>NUL
 Md "%WinDir%\System32\test_permissions" 2>NUL||(Echo 请使用右键管理员身份运行！&&Pause >nul&&Exit)
@@ -68,6 +68,12 @@ reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "RtHDVCpl" /f
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "StartCCC" /f >nul 2>nul
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f >nul 2>nul
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "WindowsWelcomeCenter" /f >nul 2>nul
+goto :eof
+
+
+:cmgos
+echo 去桌面右下角水印
+reg add "HKCU\Control Panel\Desktop" /v "PaintDesktopVersion" /t REG_DWORD /d 0 /f
 goto :eof
 
 :Chrome
@@ -915,82 +921,88 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsMediaPlayer" /v "GroupPrivacyAc
 goto :eof
 
 :WindowsApps
-TITLE 卸载 Microsoft Store
-::a.     移除了下列应用/服务：（保留：Desktop App Installer、Store Purchase App、钱包、应用商店、Xbox、Windows To Go）
+TITLE 卸载 Microsoft Store Apps
+::a.移除了下列应用/服务：（保留：Store Purchase App、钱包、应用商店、Xbox、Windows To Go等） 
+::天气
+PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
+::获取帮助
+PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
+::Get Started
+PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
+::消息
+PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
+::Office Hub
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
+::Microsoft Solitaire Collection
+PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
+::混合现实查看器
+PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
+::Office OneNote
+PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
+::人脉
+PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
+::Print 3D
+PowerShell "Get-AppxPackage *Microsoft.Print3D* | Remove-AppxPackage"
+::闹钟和时钟
+PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
+::连接（移动套餐）
+PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
+::反馈中心
+PowerShell "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage"
+::地图
+PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
+::Groove音乐
+PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
+::电影和电视
+PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
+goto :eof
+
+:WindowsApps1
 echo 删除 3D查看器
 PowerShell "Get-AppxPackage *Microsoft.Microsoft3DViewer* | Remove-AppxPackage"
-echo 删除 地图
-PowerShell "Get-AppxPackage *Microsoft.WindowsMaps* | Remove-AppxPackage"
-echo 删除 电影和电视
-PowerShell "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
-echo 删除 反馈中心
-PowerShell "Get-AppxPackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage"
-echo 删除 Groove音乐
-PowerShell "Get-AppxPackage *Microsoft.ZuneMusic* | Remove-AppxPackage"
 echo 删除 画图3D
 PowerShell "Get-AppxPackage *Microsoft.MSPaint* | Remove-AppxPackage"
-echo 删除 混合现实门户
-PowerShell "Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage"
-echo 删除 录音机
-PowerShell "Get-AppxPackage *Microsoft.WindowsSoundRecorder* | Remove-AppxPackage"
-echo 删除 Microsoft Solitaire Collection
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection* | Remove-AppxPackage"
 echo 删除 你的手机
 PowerShell "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
-echo 删除 Office Hub
-PowerShell "Get-AppxPackage *Microsoft.MicrosoftOfficeHub* | Remove-AppxPackage"
-echo 删除 OneNote
-PowerShell "Get-AppxPackage *Microsoft.Office.OneNote* | Remove-AppxPackage"
 echo 删除 日历和邮件
 PowerShell "Get-AppxPackage *microsoft.windowscommunicationsapps* | Remove-AppxPackage"
 echo 删除 SkypeApp
 PowerShell "Get-AppxPackage *Microsoft.SkypeApp* | Remove-AppxPackage"
 echo 删除 Sticky Notes
 PowerShell "Get-AppxPackage *Microsoft.MicrosoftStickyNotes* | Remove-AppxPackage"
-echo 删除 使用技巧
-PowerShell "Get-AppxPackage *Microsoft.Getstarted* | Remove-AppxPackage"
-echo 删除 天气
-PowerShell "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"
 echo 删除 卸载Xbox游戏组件
 PowerShell "Get-AppxPackage *Microsoft.Xbox.TCUI* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.XboxApp* | Remove-AppxPackage"
 PowerShell "Get-AppxPackage *Microsoft.XboxIdentityProvider* | Remove-AppxPackage"
-echo 删除 移动套餐
-PowerShell "Get-AppxPackage *Microsoft.OneConnect* | Remove-AppxPackage"
 echo 删除 卸载游戏录制工具栏
 PowerShell "Get-AppxPackage *Microsoft.XboxGameOverlay* | Remove-AppxPackage"
 PowerShell "get-appxpackage *Microsoft.XboxGamingOverlay* | remove-appxpackage"
 echo 删除 照片
 PowerShell "Get-AppxPackage *Microsoft.Windows.Photos* | Remove-AppxPackage"
-rem ::获取帮助
-rem PowerShell "Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage"
-rem ::闹钟和时钟
-rem PowerShell "Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage"
-rem ::人脉
-rem PowerShell "Get-AppxPackage *Microsoft.People* | Remove-AppxPackage"
 rem ::相机
 rem PowerShell "Get-AppxPackage *Microsoft.WindowsCamera* | Remove-AppxPackage"
-rem ::消息
-rem PowerShell "Get-AppxPackage *Microsoft.Messaging* | Remove-AppxPackage"
 goto :eof
 
 :WindowsDefender
 echo 删除安全中心开机启动
 reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SecurityHealth" /f >nul 2>nul
-echo 关闭 Windows Defender 防病毒程序
+echo 关闭WD From 神州网信
+rem 关闭 Windows Defender 防病毒程序
 taskkill /f /im MSASCuil.exe >nul 2>nul
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /t REG_DWORD /d 1 /f
-echo 关闭实时防护
+rem 关闭实时防护
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableRealtimeMonitoring" /t REG_DWORD /d 1 /f
-echo 禁用恶意软件删除工具的Windows更新
+rem 禁用恶意软件删除工具的Windows更新
 reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontOfferThroughWUAU" /t REG_DWORD /d 1 /f
-echo 关闭WD From 神州网信
+rem Ots
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "FallbackOrder" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "DefinitionUpdateFileSharesSources" /f > NUL 2>&1
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /f > NUL 2>&1
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SubmitSamplesConsent" /t REG_DWORD /d 2 /f
+rem old?
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "SettingsPageVisibility" /d "Hide:windowsdefender;" /f
 reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontReportInfectionInformation" /t REG_DWORD /d 1 /f
-reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SubmitSamplesConsent" /t REG_DWORD /d 2 /f
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "DefinitionUpdateFileSharesSources" /f > NUL 2>&1
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v "FallbackOrder" /f > NUL 2>&1
-reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /f > NUL 2>&1
+rem end
 echo 禁用Windows Defender 安全中心服务
 reg add "HKLM\SYSTEM\ControlSet001\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d 4 /f
