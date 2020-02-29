@@ -2425,6 +2425,11 @@
 127.0.0.1 m.oikqfwv.cn
 127.0.0.1 m.s47e8.cn
 127.0.0.1 ssl.bbba8.com
+127.0.0.1 saitef.cn
+127.0.0.1 z2.xysmai.com
+127.0.0.1 z1.xysmai.com
+127.0.0.1 v.qhruixin.cn
+127.0.0.1 c.qhruixin.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
