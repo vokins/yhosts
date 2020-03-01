@@ -266,3 +266,6 @@
 127.0.0.1 z1.xysmai.com
 127.0.0.1 v.qhruixin.cn
 127.0.0.1 c.qhruixin.cn
+127.0.0.1 ee.uh64b.cn
+127.0.0.1 m.uh64b.cn
+127.0.0.1 www.yichunrz.com

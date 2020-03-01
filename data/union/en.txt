@@ -211,8 +211,10 @@
 127.0.0.1 main.exdynsrv.com
 127.0.0.1 syndication.exdynsrv.com
 #exoclick.com
+127.0.0.1 a.exoclick.com
 127.0.0.1 ads.exoclick.com
 127.0.0.1 main.exoclick.com
+127.0.0.1 origin-ads.exoclick.com
 127.0.0.1 static.exoclick.com
 127.0.0.1 syndication.exoclick.com
 #google-doubleclick
@@ -519,3 +521,8 @@
 127.0.0.1 stags.bluekai.com
 127.0.0.1 sync.crwdcntrl.net
 127.0.0.1 server.exposebox.com
+127.0.0.1 adspaces.ero-advertising.com
+127.0.0.1 api-secure.solvemedia.com
+127.0.0.1 c.adsco.re
+127.0.0.1 www.jazdoxthxiv.com
+127.0.0.1 www.jwmwtcmexc.com
