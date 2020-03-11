@@ -280,8 +280,14 @@
 127.0.0.1 ee.xlhm88.cn
 127.0.0.1 m.eiiteho.cn
 127.0.0.1 m.xlhm88.cn
-127.0.0.1 ooop.zqwlkj.cn
 127.0.0.1 s.qiangger.pw
 127.0.0.1 www.vbnm888.com
 127.0.0.1 z1.bohuaqiche.com
 127.0.0.1 z2.bohuaqiche.com
+127.0.0.1 c.sixiuwl.cn
+127.0.0.1 ee.u0r9.cn
+127.0.0.1 ee.u4q2.cn
+127.0.0.1 go.kukudm.com
+127.0.0.1 m.u0r9.cn
+127.0.0.1 m.u4q2.cn
+127.0.0.1 v.sixiuwl.cn
