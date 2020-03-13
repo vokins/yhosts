@@ -1,7 +1,16 @@
 #m.ettoday.net
 127.0.0.1 ad.ettoday.net
 #tw.mobi.yhoo.com
-127.0.0.1 yap.yahoo.com
-127.0.0.1 onemobile.yahoo.com
 127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 fc.yahoo.com
+127.0.0.1 onemobile.yahoo.com
+127.0.0.1 sp.analytics.yahoo.com
+127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 yap.yahoo.com
+127.0.0.1 yql.yahoo.com
 127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 tag.sp.advertising.com
+127.0.0.1 adserver.adtechjp.com
+127.0.0.1 apx.moatads.com
+127.0.0.1 geo.moatads.com
+127.0.0.1 us.y.atwola.com

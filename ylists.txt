@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0.61
+! Version: 0.62
 ! Title: yLists
-! Last modified: 14:22 2020/3/1
+! Last modified: 20:20 2020/3/13
 ! Expires: 2 days (update frequency)
 ! Author:Kim
 ! Description:AD hosts:201973909.
@@ -138,3 +138,14 @@ https://ad.ettoday.net/*
 *.exoclick.com/*
 *.adsco.re/*
 *.jazdoxthxiv.com/*
+*.moatads.com/*
+*.adtechus.com/*
+*.adtechjp.com/*
+*.analytics.yahoo.com/*
+*.advertising.com/*
+*.atwola.com/*
+
+tw.mobi.yahoo.com##li[class="Px(16px) Py(8px) Bgc(white)"]
+tw.mobi.yahoo.com##div[class="Bgc(geminiBgc) P(16px)"]
+tw.news.yahoo.com##div[id$="-Ad-Proxy"]
+tw.news.yahoo.com##div[id$="-Banner-Proxy"]
