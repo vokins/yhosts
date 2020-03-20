@@ -3,3 +3,7 @@
 127.0.0.1 www.xn--i6qs37am6iwyqffc.com
 127.0.0.1 xdm.ahqlx.top
 127.0.0.1 ycjisa.cn
+127.0.0.1 t.beibeia.top
+127.0.0.1 www.oiwjcsh001.top
+127.0.0.1 xdm.bozhixiang.top
+127.0.0.1 5.5ppt.net
