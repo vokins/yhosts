@@ -968,6 +968,8 @@
 127.0.0.1 p3.l.qq.com
 127.0.0.1 t.l.qq.com
 127.0.0.1 w.l.qq.com
+#Q-zone
+127.0.0.1 p.store.qq.com
 #sina-com.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
@@ -2188,6 +2190,8 @@
 127.0.0.1 www.hjkl888.com
 127.0.0.1 z1.caiziwuyou.com
 127.0.0.1 z2.caiziwuyou.com
+127.0.0.1 01.yd-jun.com
+127.0.0.1 eo.nftqkq.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
