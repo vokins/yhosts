@@ -30,3 +30,8 @@
 127.0.0.1 53m.kuk8.com
 127.0.0.1 53s.kuk8.com
 127.0.0.1 union.duizhuang.com
+127.0.0.1 8131.qizhihaotian.cn
+127.0.0.1 8132.qizhihaotian.cn
+127.0.0.1 jsjs.jbzj.com
+127.0.0.1 jscode.jbzj.com
+127.0.0.1 icws.jb51.net
