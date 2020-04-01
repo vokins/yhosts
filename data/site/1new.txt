@@ -26,3 +26,8 @@
 127.0.0.1 z2.caiziwuyou.com
 127.0.0.1 01.yd-jun.com
 127.0.0.1 eo.nftqkq.cn
+127.0.0.1 s.shaowenhao.top
+127.0.0.1 duomilm.com
+127.0.0.1 dt.zxzhengxin.com
+127.0.0.1 ounion.openadx.com
+127.0.0.1 s.aiweigou.top
