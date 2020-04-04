@@ -31,3 +31,11 @@
 127.0.0.1 dt.zxzhengxin.com
 127.0.0.1 ounion.openadx.com
 127.0.0.1 s.aiweigou.top
+127.0.0.1 aaa.zxglpj.cn
+127.0.0.1 api.0530hz.cn
+127.0.0.1 api.h4game.net
+127.0.0.1 eo.3y4n.cn
+127.0.0.1 eo.40ic.cn
+127.0.0.1 ls9x.pk965.com
+127.0.0.1 mo.40ic.cn
+127.0.0.1 www.xn--wcsy74a6d835f5lf.com

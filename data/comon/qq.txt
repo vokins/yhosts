@@ -35,7 +35,6 @@
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adver.qq.com
 127.0.0.1 analy.qq.com
-127.0.0.1 d3g.qq.com
 127.0.0.1 j.wit.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
