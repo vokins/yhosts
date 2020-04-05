@@ -35,3 +35,4 @@
 127.0.0.1 jsjs.jbzj.com
 127.0.0.1 jscode.jbzj.com
 127.0.0.1 icws.jb51.net
+127.0.0.1 wm.kolinay.com

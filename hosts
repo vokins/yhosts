@@ -1,5 +1,5 @@
 
-#version=20200405 727
+#version=202004052320
 #url=https://github.com/vokins/yhosts
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
@@ -1971,6 +1971,7 @@
 127.0.0.1 jsjs.jbzj.com
 127.0.0.1 jscode.jbzj.com
 127.0.0.1 icws.jb51.net
+127.0.0.1 wm.kolinay.com
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
@@ -6594,7 +6595,6 @@
 127.0.0.1 www.zopeynxv.top
 127.0.0.1 www.zreder.com
 127.0.0.1 www.zshacker.com
-127.0.0.1 www.zwda.com
 127.0.0.1 www.zxziyuan.com
 127.0.0.1 www.zz123.com
 127.0.0.1 wwwokzyzy.com
