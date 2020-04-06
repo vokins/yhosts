@@ -39,3 +39,4 @@
 127.0.0.1 ls9x.pk965.com
 127.0.0.1 mo.40ic.cn
 127.0.0.1 www.xn--wcsy74a6d835f5lf.com
+127.0.0.1 l.glrcy.cn
