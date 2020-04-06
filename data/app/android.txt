@@ -4,49 +4,12 @@
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
 127.0.0.1 uuidapi.yunos.com
-#emui-appstore
-127.0.0.1 store2.hispace.hicloud.com
-127.0.0.1 store3.hispace.hicloud.com
-127.0.0.1 uc2.hispace.hicloud.com
-127.0.0.1 uc3.hispace.hicloud.com
 #emui-appstore-splash
 127.0.0.1 app-measurement.com
 #emui-MusicVideoADs
 127.0.0.1 cs02-pps-drcn.dbankcdn.com
-#flyme-ads
-127.0.0.1 api-flow.flyme.cn
-127.0.0.1 bro.flyme.cn
-127.0.0.1 t-e.flyme.cn
-127.0.0.1 t-flow.flyme.cn
-#flyme-calendar
-127.0.0.1 cal.meizu.com
-#flyme-ebook
-127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.res.meizu.com
-#flyme-game
-127.0.0.1 api-game.meizu.com
-127.0.0.1 game.res.meizu.com
-127.0.0.1 game-res.meizu.com
-#flyme-privacy
-127.0.0.1 umid.orion.meizu.com
-127.0.0.1 uxip.meizu.com
-#flyme-push
-127.0.0.1 api-push.meizu.com
-127.0.0.1 push.res.meizu.com
-#flyme-reader
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 reader.meizu.com
-127.0.0.1 reader.res.meizu.com
-#flyme-search
-127.0.0.1 infocenter.meizu.com
-#flyme-tongji
-127.0.0.1 tongji-res1.meizu.com
-127.0.0.1 tongji.meizu.com
-#flyme-weather
-127.0.0.1 aider-res.meizu.com
 #gionee-amigo
 127.0.0.1 ads.gionee.com
-127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 #lenovo-zui(oneui)
 127.0.0.1 adcore.lenovomm.com
@@ -96,25 +59,14 @@
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
-#miui-stat
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 abtest.mistat.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 storeconfig.mistat.xiaomi.com
-#miui-browser
-127.0.0.1 r.browser.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
 #miui-file
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 127.0.0.1 fb.xk.miui.com
-#miui-game
-127.0.0.1 notice.game.xiaomi.com
-127.0.0.1 ppurifier.game.xiaomi.com
 #miui-sec
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 tracking.miui.com
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 up.cm.ksmobile.com
 #miui-weather
@@ -164,13 +116,10 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
-#mokee
-127.0.0.1 stats.mokeedev.com
 #oppo-ads
 127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 httpdns.push.oppomobile.com
 #xgimi
 127.0.0.1 analytics.xgimi.com

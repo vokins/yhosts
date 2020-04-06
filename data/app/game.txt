@@ -3,13 +3,7 @@
 127.0.0.1 bs14.9669.cn
 127.0.0.1 js.9669.cn
 #com2us
-127.0.0.1 s.com2us.net
 127.0.0.1 push.com2us.net
-#doodlemobile
-127.0.0.1 data.doodlemobile.com
-127.0.0.1 data2.doodlemobile.com
-127.0.0.1 f.doodlemobile.com
-127.0.0.1 m.doodlemobile.com
 #eamobile
 127.0.0.1 cdn.adc.eamobile.com
 #ft games
@@ -21,29 +15,8 @@
 127.0.0.1 ad.gametower.com.tw
 #rayjump
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 setting.rayjump.com
 #rovio
 127.0.0.1 ads.cdn.rovio.com
-127.0.0.1 rovio-news-app.angrybirdsgame.com
-#tomcat
-127.0.0.1 apps.outfit7.com
-127.0.0.1 apps2.outfit7.com
-127.0.0.1 cdn-gcs.outfit7.com
-127.0.0.1 cdn.outfit7.com
-127.0.0.1 events-api.outfit7.net
-#wostore
-127.0.0.1 appspromote.wostore.cn
-127.0.0.1 secpay.wostore.cn
-127.0.0.1 unilog.wostore.cn
-127.0.0.1 unipaydl.wostore.cn
-127.0.0.1 unipayupg.wostore.cn
-#cmgame
-127.0.0.1 drm.cmgame.com
-127.0.0.1 wap.cmgame.com
-127.0.0.1 sdk.cmgame.com
-127.0.0.1 sdklog.cmgame.com
-127.0.0.1 gmota.g188.net
 #uu.cc
 127.0.0.1 app.uu.cc
 127.0.0.1 dl.uu.cc

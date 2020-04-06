@@ -25,10 +25,7 @@
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/
-127.0.0.1 c.bxb.oupeng.com
-127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 img-ad.oupeng.com
-127.0.0.1 startup.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 t.adbxb.cn
@@ -44,10 +41,5 @@
 #https://www.ghostery.com/
 127.0.0.1 l.betrad.com
 127.0.0.1 c.betrad.com
-#http://www.liebao.cn/
-127.0.0.1 an.m.liebao.cn
-127.0.0.1 cms.an.m.liebao.cn
-127.0.0.1 cr.m.liebao.cn
-127.0.0.1 j.wan.liebao.cn
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn

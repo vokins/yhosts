@@ -1,13 +1,10 @@
 #https://1kxun.mobi/download/index
 127.0.0.1 ad.1kxun.com
-127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 tcad.wedolook.com
 #http://download.sopcast.com/download/SopCast.zip.apk
 127.0.0.1 addl.easetuner.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
-127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
-127.0.0.1 tracking-server-prod-1.zenmxapps.com
 #http://www.togic.com/wap/download.html
 127.0.0.1 livep.l.ott.video.qq.com
 127.0.0.1 lives.l.ott.video.qq.com
@@ -183,27 +180,12 @@
 127.0.0.1 adse.ximalaya.com
 #https://www.spotify.com/
 127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 analytics.spotify.com
-127.0.0.1 log.spotify.com
 #http://www.miguvideo.com/
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
-#http://music.migu.cn/
-127.0.0.1 wtrace.cmgame.com
-#http://www.yinyuetai.com/
-127.0.0.1 client.stats.yinyuetai.com
-127.0.0.1 log.collect.yinyuetai.com
-127.0.0.1 shop.admin.yinyuetai.com
-127.0.0.1 shop.yinyuetai.com
-127.0.0.1 statisticsv2.yinyuetai.com
-127.0.0.1 t.collect.yinyuetai.com
-127.0.0.1 col.hztags.net
 #mting.info
 127.0.0.1 advert.mting.info
-127.0.0.1 sf1-ttcdn-tos.pstatp.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 sf6-ttcdn-tos.pstatp.com
 #rrys
 127.0.0.1 pat.farvd.com
 #v.6.cn
@@ -218,7 +200,3 @@
 127.0.0.1 v.smtcdns.net
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
-127.0.0.1 conf.hpplay.cn
-127.0.0.1 fix.hpplay.cn
-127.0.0.1 sdkauth.hpplay.cn
-127.0.0.1 cdn.hpplay.com.cn

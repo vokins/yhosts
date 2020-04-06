@@ -1223,6 +1223,90 @@
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
+@cps-taobao-click
+127.0.0.1 click.simba.taobao.com
+127.0.0.1 ju.taobao.com
+127.0.0.1 tejia.taobao.com
+127.0.0.1 tui.taobao.com
+127.0.0.1 tyh.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 i.click.taobao.com
+127.0.0.1 s.click.taobao.com
+127.0.0.1 s.click.tmall.com
+127.0.0.1 temai.m.taobao.com
+127.0.0.1 jx.tmall.com
+@cps-jd
+127.0.0.1 ccc.x.jd.com
+127.0.0.1 click.jr.jd.com
+127.0.0.1 img.x.jd.com
+127.0.0.1 jrclick.jd.com
+127.0.0.1 stat.m.jd.com
+@errorpage/click
+127.0.0.1 go.fcwr8.com
+127.0.0.1 pro.yyhudong.com
+127.0.0.1 marketres.feidee.com
+127.0.0.1 app.shandjj.com
+127.0.0.1 clkde.tradedoubler.com
+127.0.0.1 dorado.xiaojukeji.com
+127.0.0.1 activity.tuiapple.com
+127.0.0.1 apple.pvxt.net
+@errorpage/weixin
+127.0.0.1 vzan.com
+127.0.0.1 wx.shunliandongli.com
+#www.youzan.com
+127.0.0.1 tj.koudaitong.com
+#yy
+127.0.0.1 ppiy.v5.yy.com
+@errorpage/inside
+127.0.0.1 activity.m.duiba.com.cn
+127.0.0.1 embedlog.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
+127.0.0.1 www.duiba.com.cn
+127.0.0.1 m.maila88.com
+127.0.0.1 api.tatagou.com.cn
+127.0.0.1 log.ttjx.tatagou.com.cn
+127.0.0.1 ttg.cdn.suanzi.cn
+127.0.0.1 s.youzhuanhua.com
+@errorpage/daohang
+127.0.0.1 www.2345.com
+127.0.0.1 www.hao123.com
+127.0.0.1 m.hao123.com
+127.0.0.1 vs12.bj.u3.ucweb.com
+127.0.0.1 yeah.qq.com
+@errorpage/sns
+127.0.0.1 www.saxmcu.cn
+127.0.0.1 ndyjs.xjtu.edu.cn
+127.0.0.1 tw.find2c.com
+127.0.0.1 zxyjhx.gszy.edu.cn
+127.0.0.1 www.cnys.com
+127.0.0.1 eng.liveapp.cn
+127.0.0.1 open.liveapp.cn
+127.0.0.1 www.360clg.cn
+127.0.0.1 www.yiqixiu.com
+127.0.0.1 m.ishangtong.com
+127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top
+#buy
+127.0.0.1 yhd.com
+127.0.0.1 www.yhd.com
+127.0.0.1 www.hisense.cn
+127.0.0.1 www.hisense.com
+#sns
+127.0.0.1 www.baihe.com
+127.0.0.1 www.jiayuan.com
+#cant del account
+127.0.0.1 www.haier.com
+127.0.0.1 www.zhongmin.cn
+127.0.0.1 www.aihuishou.com
+127.0.0.1 www.gome.com.cn
+127.0.0.1 maimai.cn
+127.0.0.1 acc.maimai.cn
+127.0.0.1 www.qianshengqian.com
+127.0.0.1 s.tantanapp.com
+127.0.0.1 lp.tantanapp.com
+127.0.0.1 apk-ssl.tancdn.com
+127.0.0.1 tantanapp.com
 @down
 #down-2345
 127.0.0.1 dl.2345.com
@@ -1288,49 +1372,12 @@
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
 127.0.0.1 uuidapi.yunos.com
-#emui-appstore
-127.0.0.1 store2.hispace.hicloud.com
-127.0.0.1 store3.hispace.hicloud.com
-127.0.0.1 uc2.hispace.hicloud.com
-127.0.0.1 uc3.hispace.hicloud.com
 #emui-appstore-splash
 127.0.0.1 app-measurement.com
 #emui-MusicVideoADs
 127.0.0.1 cs02-pps-drcn.dbankcdn.com
-#flyme-ads
-127.0.0.1 api-flow.flyme.cn
-127.0.0.1 bro.flyme.cn
-127.0.0.1 t-e.flyme.cn
-127.0.0.1 t-flow.flyme.cn
-#flyme-calendar
-127.0.0.1 cal.meizu.com
-#flyme-ebook
-127.0.0.1 aries.mzres.com
-127.0.0.1 ebook.res.meizu.com
-#flyme-game
-127.0.0.1 api-game.meizu.com
-127.0.0.1 game.res.meizu.com
-127.0.0.1 game-res.meizu.com
-#flyme-privacy
-127.0.0.1 umid.orion.meizu.com
-127.0.0.1 uxip.meizu.com
-#flyme-push
-127.0.0.1 api-push.meizu.com
-127.0.0.1 push.res.meizu.com
-#flyme-reader
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 reader.meizu.com
-127.0.0.1 reader.res.meizu.com
-#flyme-search
-127.0.0.1 infocenter.meizu.com
-#flyme-tongji
-127.0.0.1 tongji-res1.meizu.com
-127.0.0.1 tongji.meizu.com
-#flyme-weather
-127.0.0.1 aider-res.meizu.com
 #gionee-amigo
 127.0.0.1 ads.gionee.com
-127.0.0.1 pdl.gionee.com
 127.0.0.1 adres.myaora.net
 #lenovo-zui(oneui)
 127.0.0.1 adcore.lenovomm.com
@@ -1380,25 +1427,14 @@
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
-#miui-stat
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 abtest.mistat.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 storeconfig.mistat.xiaomi.com
-#miui-browser
-127.0.0.1 r.browser.miui.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
 #miui-file
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 127.0.0.1 fb.xk.miui.com
-#miui-game
-127.0.0.1 notice.game.xiaomi.com
-127.0.0.1 ppurifier.game.xiaomi.com
 #miui-sec
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 tracking.miui.com
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 up.cm.ksmobile.com
 #miui-weather
@@ -1448,14 +1484,11 @@
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
-#mokee
-127.0.0.1 stats.mokeedev.com
 #oppo-ads
 127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 httpdns.push.oppomobile.com
 #xgimi
 127.0.0.1 analytics.xgimi.com
 @app-browser
@@ -1485,10 +1518,7 @@
 127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 feed.theta.sogou.com
 #http://oupeng.com/
-127.0.0.1 c.bxb.oupeng.com
-127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 img-ad.oupeng.com
-127.0.0.1 startup.oupeng.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 t.adbxb.cn
@@ -1504,11 +1534,6 @@
 #https://www.ghostery.com/
 127.0.0.1 l.betrad.com
 127.0.0.1 c.betrad.com
-#http://www.liebao.cn/
-127.0.0.1 an.m.liebao.cn
-127.0.0.1 cms.an.m.liebao.cn
-127.0.0.1 cr.m.liebao.cn
-127.0.0.1 j.wan.liebao.cn
 #http://www.maxthon.cn/
 127.0.0.1 mad.m.maxthon.cn
 #2344.com
@@ -1516,13 +1541,7 @@
 127.0.0.1 bs14.9669.cn
 127.0.0.1 js.9669.cn
 #com2us
-127.0.0.1 s.com2us.net
 127.0.0.1 push.com2us.net
-#doodlemobile
-127.0.0.1 data.doodlemobile.com
-127.0.0.1 data2.doodlemobile.com
-127.0.0.1 f.doodlemobile.com
-127.0.0.1 m.doodlemobile.com
 #eamobile
 127.0.0.1 cdn.adc.eamobile.com
 #ft games
@@ -1534,29 +1553,8 @@
 127.0.0.1 ad.gametower.com.tw
 #rayjump
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 setting.rayjump.com
 #rovio
 127.0.0.1 ads.cdn.rovio.com
-127.0.0.1 rovio-news-app.angrybirdsgame.com
-#tomcat
-127.0.0.1 apps.outfit7.com
-127.0.0.1 apps2.outfit7.com
-127.0.0.1 cdn-gcs.outfit7.com
-127.0.0.1 cdn.outfit7.com
-127.0.0.1 events-api.outfit7.net
-#wostore
-127.0.0.1 appspromote.wostore.cn
-127.0.0.1 secpay.wostore.cn
-127.0.0.1 unilog.wostore.cn
-127.0.0.1 unipaydl.wostore.cn
-127.0.0.1 unipayupg.wostore.cn
-#cmgame
-127.0.0.1 drm.cmgame.com
-127.0.0.1 wap.cmgame.com
-127.0.0.1 sdk.cmgame.com
-127.0.0.1 sdklog.cmgame.com
-127.0.0.1 gmota.g188.net
 #uu.cc
 127.0.0.1 app.uu.cc
 127.0.0.1 dl.uu.cc
@@ -1576,27 +1574,15 @@
 127.0.0.1 v1-feed.idreamsky.com
 #adesk
 127.0.0.1 service.ad.adesk.com
-#halolauncher
-127.0.0.1 h5.holalauncher.com
-127.0.0.1 i.holalauncher.com
-127.0.0.1 st.holalauncher.com
-127.0.0.1 a.holagames.com
-127.0.0.1 sta.holagames.com
-127.0.0.1 i.haloapps.com
-127.0.0.1 mo.test.haloapps.com
-127.0.0.1 mo.haloapps.cn
 #letv
 127.0.0.1 ads1.lfengmobile.com
 #https://1kxun.mobi/download/index
 127.0.0.1 ad.1kxun.com
-127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 tcad.wedolook.com
 #http://download.sopcast.com/download/SopCast.zip.apk
 127.0.0.1 addl.easetuner.com
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
-127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
-127.0.0.1 tracking-server-prod-1.zenmxapps.com
 #http://www.togic.com/wap/download.html
 127.0.0.1 livep.l.ott.video.qq.com
 127.0.0.1 lives.l.ott.video.qq.com
@@ -1772,27 +1758,12 @@
 127.0.0.1 adse.ximalaya.com
 #https://www.spotify.com/
 127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 analytics.spotify.com
-127.0.0.1 log.spotify.com
 #http://www.miguvideo.com/
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
-#http://music.migu.cn/
-127.0.0.1 wtrace.cmgame.com
-#http://www.yinyuetai.com/
-127.0.0.1 client.stats.yinyuetai.com
-127.0.0.1 log.collect.yinyuetai.com
-127.0.0.1 shop.admin.yinyuetai.com
-127.0.0.1 shop.yinyuetai.com
-127.0.0.1 statisticsv2.yinyuetai.com
-127.0.0.1 t.collect.yinyuetai.com
-127.0.0.1 col.hztags.net
 #mting.info
 127.0.0.1 advert.mting.info
-127.0.0.1 sf1-ttcdn-tos.pstatp.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 sf6-ttcdn-tos.pstatp.com
 #rrys
 127.0.0.1 pat.farvd.com
 #v.6.cn
@@ -1807,10 +1778,6 @@
 127.0.0.1 v.smtcdns.net
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
-127.0.0.1 conf.hpplay.cn
-127.0.0.1 fix.hpplay.cn
-127.0.0.1 sdkauth.hpplay.cn
-127.0.0.1 cdn.hpplay.com.cn
 #http://im.qq.com/
 127.0.0.1 jrlt.beacon.qq.com
 127.0.0.1 log.tbs.qq.com
