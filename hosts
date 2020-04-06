@@ -1,5 +1,5 @@
 
-#version=202004061053
+#version=202004061059
 #url=https://github.com/vokins/yhosts
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
@@ -1190,9 +1190,6 @@
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 127.0.0.1 fb.xk.miui.com
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 beha.ksmobile.com
-127.0.0.1 up.cm.ksmobile.com
 127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 cloudservice12.kingsoft-office-service.com
 127.0.0.1 cloudservice13.kingsoft-office-service.com
