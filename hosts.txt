@@ -2091,6 +2091,9 @@
 127.0.0.1 m.qmlcdlo.cn
 127.0.0.1 mo.4k9b.cn
 127.0.0.1 qd.easylive.net
+127.0.0.1 dcdvie.cn
+127.0.0.1 t.srongee.top
+127.0.0.1 xn--2qux23c9ziyrq.icu
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
