@@ -1,3 +1,15 @@
+以后更新会由VeleSila接手更新
+
+https://github.com/VeleSila/yhosts
+
+只保留了hosts.txt和hosts。按需自提
+
+
+
+
+
+
+
 Since 2009-06-06 - 2020-04-18
 
 之前捐助过的人可以联系我退费。Q群现在直接可以进。
