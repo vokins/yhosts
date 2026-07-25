@@ -1,2 +1,0 @@
-#kuaishou
-127.0.0.1 open.e.kuaishou.com

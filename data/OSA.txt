@@ -1,4 +1,4 @@
-#heytap
+#oppo-heytap
 127.0.0.1 actcpc.heytapimage.com
 127.0.0.1 adsfs.heytapimage.com
 127.0.0.1 adsbdfs.heytapimage.com
@@ -20,10 +20,10 @@
 127.0.0.1 billboard.allsaints.top
 127.0.0.1 listening-report.allsaints.top
 127.0.0.1 shoppingday.allsaints.top
-#oppomobile
+#oppo-mobile
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 data.ads.oppomobile.com
-#上传app信息
+#oppo-上传app信息
 127.0.0.1 dc-dragate-cn.heytapmobi.com
 127.0.0.1 u.bot.heytapmobi.com

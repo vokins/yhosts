@@ -1,18 +1,8 @@
+#10010
+127.0.0.1 fzyj.chinaunicom.cn
 #139
 127.0.0.1 ad.mcloud.139.com
 127.0.0.1 dnlog.cmpassport.com
-#139-miguvideo
-127.0.0.1 ggadoffline.miguvideo.com
-127.0.0.1 ggc.miguvideo.com
-127.0.0.1 ggic08.miguvideo.com
-127.0.0.1 ggmk.miguvideo.com
-127.0.0.1 gginvasdk.miguvideo.com
-127.0.0.1 ggv.miguvideo.com
-127.0.0.1 ggx08.miguvideo.com
-127.0.0.1 ggxwb.miguvideo.com
-127.0.0.1 public-deliver5.miguvideo.com
-127.0.0.1 feedback.migu.cn
-127.0.0.1 ggc.cmvideo.cn
-127.0.0.1 ggxt.cmvideo.cn
-#CUCC
-127.0.0.1 fzyj.chinaunicom.cn
+#httpdns
+127.0.0.1 httpsdns.baidu.com
+127.0.0.1 httpdns.baidubce.com

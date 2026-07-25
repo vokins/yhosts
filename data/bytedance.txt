@@ -1,2 +1,30 @@
+#北京巨量引擎网络技术有限公司
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 www.pangolin-dsp-toutiao.com
+127.0.0.1 www.byteadimg.com
+127.0.0.1 www.bytesfield.com
+127.0.0.1 www.bytesmanager.com
+127.0.0.1 www.cluerich.com
+127.0.0.1 www.creativityeco.com
+127.0.0.1 www.csjdeveloper.com
+127.0.0.1 www.csjplatform.com
+127.0.0.1 www.datahub-cn-pre.com
+127.0.0.1 www.datahubtrack.com
+127.0.0.1 www.juliangyinqing.com
+127.0.0.1 www.oceancus.com
+127.0.0.1 www.oceanengine.cc
+127.0.0.1 www.oceanengine.cn
+127.0.0.1 www.pangle.cn
+127.0.0.1 www.pangolin-dsp-toutiao.com
+127.0.0.1 www.pangolin-sdk-toutiao-b.com
+127.0.0.1 www.pangolin-sdk-toutiao.com
+127.0.0.1 www.pangolin-sdk-toutiao0.com
+127.0.0.1 www.pangolin-sdk-toutiao1.com
+127.0.0.1 www.pangolin-sdk-toutiao3-b.com
+127.0.0.1 www.pangolin-sdk-toutiao3.com
+127.0.0.1 www.pangolin-sdk-toutiao4-b.com
+127.0.0.1 www.pangolin-sdk-toutiao4.com
+127.0.0.1 www.pglstatp-toutiao-b.com
+127.0.0.1 www.pglstatp-toutiao.com
+#北京抖音信息服务有限公司
+127.0.0.1 lf1-cdn-tos.bytegoofy.com

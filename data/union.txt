@@ -1,0 +1,106 @@
+#AdGlare
+127.0.0.1 cc.xtgreat.com
+#Admatrix
+127.0.0.1 acq-3pas.admatrix.jp
+127.0.0.1 serving-3pas.admatrix.jp
+#Adnxs.com
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 ib.adnxs.com
+#Adsrvr.org
+127.0.0.1 direct.adsrvr.org
+127.0.0.1 match.adsrvr.org
+#Amazon-adsystem
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 config.aps.amazon-adsystem.com
+#Aralego.com
+127.0.0.1 ads.aralego.com
+127.0.0.1 agent.aralego.com
+127.0.0.1 hb.aralego.com
+127.0.0.1 sync.aralego.com
+#Basis
+127.0.0.1 pixel-sync.sitescout.com
+#Bridgewell
+127.0.0.1 dable-api.scupio.com
+127.0.0.1 prebid.scupio.com
+127.0.0.1 www.bridgewell.com
+#Criteo
+127.0.0.1 grid-bidder.criteo.com
+127.0.0.1 gum.criteo.com
+127.0.0.1 ssp-sync.criteo.com
+127.0.0.1 static.criteo.net
+#Crwdcntrl.net
+127.0.0.1 id.crwdcntrl.net
+127.0.0.1 sync.crwdcntrl.net
+127.0.0.1 tags.crwdcntrl.net
+#Dable
+127.0.0.1 ad-log.dable.io
+127.0.0.1 api.dable.io
+127.0.0.1 images.dable.io
+127.0.0.1 r-log.dable.io
+127.0.0.1 static.dable.io
+#Equativ
+127.0.0.1 prg.smartadserver.com
+127.0.0.1 ssb-global.smartadserver.com
+127.0.0.1 ssbsync.smartadserver.com
+127.0.0.1 rtb-csync.smartadserver.com
+127.0.0.1 www.equativ.com
+#GumGum
+127.0.0.1 rtb.gumgum.com
+#Improve Digital Origin
+127.0.0.1 ad.360yield.com
+127.0.0.1 dsp.360yield.com
+127.0.0.1 ssp.improvedigital.com
+#Index Exchange
+127.0.0.1 dsum-sec.casalemedia.com
+127.0.0.1 htlb.casalemedia.com
+127.0.0.1 ssum-sec.casalemedia.com
+127.0.0.1 www.indexexchange.com
+#LiveRamp
+127.0.0.1 api.rlcdn.com
+127.0.0.1 idsync.rlcdn.com
+#Magnite
+127.0.0.1 eus.rubiconproject.com
+127.0.0.1 fastlane.rubiconproject.com
+127.0.0.1 pixel.rubiconproject.com
+127.0.0.1 secure-assets.rubiconproject.com
+127.0.0.1 token.rubiconproject.com
+#OpenX
+127.0.0.1 eu-u.openx.net
+127.0.0.1 rtb.openx.net
+127.0.0.1 u.openx.net
+127.0.0.1 us-u.openx.net
+127.0.0.1 vidoomy-d.openx.net
+127.0.0.1 u.openx.net
+#PubMatic
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 image6.pubmatic.com
+127.0.0.1 image8.pubmatic.com
+127.0.0.1 ut.pubmatic.com
+#Quantserve.com
+127.0.0.1 cms.quantserve.com
+127.0.0.1 pixel.quantserve.com
+127.0.0.1 secure.quantserve.com
+#SiteMaji
+127.0.0.1 ad.sitemaji.com
+127.0.0.1 logs.sitemaji.com
+127.0.0.1 rd.sitemaji.com
+#Taboola
+127.0.0.1 api.taboola.com
+127.0.0.1 beacon.bidder.taboola.com
+127.0.0.1 cdn.taboola.com
+127.0.0.1 display.bidder.taboola.com
+127.0.0.1 trc.taboola.com
+#Tapad
+127.0.0.1 pixel.tapad.com
+#Unity
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 webview.unityads.unity3d.com
+#Vidoomy
+127.0.0.1 a.vidoomy.com
+127.0.0.1 ad.vidoomy.com
+127.0.0.1 ads.vidoomy.com
+127.0.0.1 d.vidoomy.com
+127.0.0.1 vpaid.vidoomy.com

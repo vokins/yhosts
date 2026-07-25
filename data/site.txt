@@ -1,0 +1,22 @@
+#Pixiv
+127.0.0.1 lc-event.pixiv.net
+127.0.0.1 open-pixon.ads-pixiv.net
+127.0.0.1 pixon.ads-pixiv.net
+#X-Twitter
+127.0.0.1 cdn.syndication.twimg.com
+127.0.0.1 syndication.twitter.com
+127.0.0.1 syndication.x.com
+#Yahoo
+127.0.0.1 c2shb-oao.ssp.yahoo.com
+127.0.0.1 geo.yahoo.com
+127.0.0.1 guce.yahoo.com
+127.0.0.1 nexus-gateway-prod.media.yahoo.com
+127.0.0.1 noa.yahoo.com
+127.0.0.1 pbd.yahoo.com
+127.0.0.1 udc.yahoo.com
+#Yahoo-analytics
+127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 ups.analytics.yahoo.com
+#Yahoo-pbs
+127.0.0.1 pbs.yahoo.com
+127.0.0.1 signal-service.pbs.yahoo.com

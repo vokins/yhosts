@@ -1,4 +1,0 @@
-#x
-127.0.0.1 cdn.syndication.twimg.com
-127.0.0.1 syndication.twitter.com
-127.0.0.1 syndication.x.com

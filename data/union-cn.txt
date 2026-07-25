@@ -1,0 +1,138 @@
+#华扬联众数字技术股份有限公司
+127.0.0.1 cmpp.gentags.net
+#北京贵士信息科技有限公司
+127.0.0.1 bj.qchannel03.cn
+127.0.0.1 www.qchannel03.cn
+#北京达佳互联信息技术有限公司
+127.0.0.1 p4-lm.adukwai.com
+127.0.0.1 www.adukwai.com
+127.0.0.1 www.adkwai.com
+127.0.0.1 www.adbkwai.com
+#北京燎原之火科技有限公司
+127.0.0.1 adx.yhcplatform.com
+127.0.0.1 h5sdk.yhcplatform.com
+127.0.0.1 sdklog.yhcplatform.com
+127.0.0.1 www.yhcplatform.com
+127.0.0.1 www.fireflyads.cn
+#北京明略昭辉科技有限公司
+127.0.0.1 migu-mipdx.cn.miaozhen.com
+127.0.0.1 e.cn.miaozhen.com
+127.0.0.1 cm.cn.miaozhen.com
+127.0.0.1 sohutv.m.cn.miaozhen.com
+127.0.0.1 www.miaozhen.com
+127.0.0.1 www.miaozhen.cn
+#北京明日时尚信息技术有限公司
+127.0.0.1 static.outin.cn
+127.0.0.1 www.outin.cn
+127.0.0.1 www.imeiding.com
+127.0.0.1 www.instreet.cn
+127.0.0.1 etejia.cn
+127.0.0.1 www.roay.cn
+#北京深演智能科技股份有限公司 
+127.0.0.1 cm.ipinyou.com
+#北京天润基业科技发展股份有限公司
+127.0.0.1 cl0.webterren.com
+127.0.0.1 cl2.webterren.com
+127.0.0.1 d.webterren.com
+127.0.0.1 z.webterren.com
+#电通数码（北京）广告有限公司
+127.0.0.1 cm.mct01.com
+#加和（北京）信息科技有限公司
+127.0.0.1 m.reachmax.cn
+127.0.0.1 www.addnewer.com
+#悠易互通（北京）广告有限公司
+127.0.0.1 mapping.yoyi.com.cn
+#字节引力（天津）科技有限公司
+127.0.0.1 cdn.wwads.cn
+127.0.0.1 www.wwads.cn
+127.0.0.1 www.ceoletter.cn
+127.0.0.1 www.adwork.net
+127.0.0.1 www.bytegravity.ltd
+#上海艾瑞市场咨询股份有限公司
+127.0.0.1 h10-725388727.z1.irs01.com
+127.0.0.1 h10-725422618.z1.irs01.com
+127.0.0.1 h10-9250381.z1.irs01.com
+127.0.0.1 sohu.irs01.com
+127.0.0.1 irs01.com
+127.0.0.1 w.irs03.com
+127.0.0.1 www.iadtracker.com
+127.0.0.1 www.iclick.cn
+127.0.0.1 www.iclick.com.cn
+127.0.0.1 www.ikbang.cn
+127.0.0.1 www.iresearch.cn
+127.0.0.1 www.iresearch.com.cn
+127.0.0.1 www.iresearch.vip
+127.0.0.1 www.iresearchcenter.cn
+127.0.0.1 www.iresearchchina.com
+127.0.0.1 www.iresearchdata.cn
+127.0.0.1 www.iresearchgroup.com.cn
+127.0.0.1 www.irs01.cn
+127.0.0.1 www.irs01.com
+127.0.0.1 www.irs01.net
+127.0.0.1 www.irs01.org
+127.0.0.1 www.irs03.com
+127.0.0.1 www.iryoucai.com
+127.0.0.1 www.itracker.cn
+127.0.0.1 www.iusersurvey.com
+127.0.0.1 www.iusertracker.com
+127.0.0.1 www.iwebchoice.com
+127.0.0.1 www.iwebspeed.cn
+127.0.0.1 www.iwebtrack.cn
+127.0.0.1 www.iwebtracker.cn
+127.0.0.1 www.madvalue.cn
+127.0.0.1 www.researchchina.cn
+127.0.0.1 www.www.cominsight.com.cn
+#上海嗨普智能信息科技股份有限公司
+127.0.0.1 analytics.hypers.com.cn
+127.0.0.1 t.hypers.com.cn
+#上海精数信息科技有限公司
+127.0.0.1 sohutv.cm.admaster.com.cn
+#上海米赋网络科技有限公司
+127.0.0.1 cm.mdfull.com
+#上海腾徽软件科技有限公司
+127.0.0.1 trace.rtbasia.com
+#宏璐数据技术（上海）有限公司 
+127.0.0.1 cm.ad.xelements.cn
+127.0.0.1 imp.ad.xelements.cn
+127.0.0.1 mon.ad.xelements.cn
+#聚越信息技术（上海）有限公司
+127.0.0.1 ckmap.mediav.com
+127.0.0.1 max-r.mediav.com
+127.0.0.1 pages-juxiao.mediav.com
+127.0.0.1 show-g.mediav.com
+127.0.0.1 static-ssl.mediav.com
+127.0.0.1 static.mediav.com
+#广州布里奇信息科技有限公司 
+127.0.0.1 adx-bj-req.anythinktech.com
+127.0.0.1 adx-os-bid.anythinktech.com
+127.0.0.1 adx.anythinktech.com
+127.0.0.1 cn-adx.anythinktech.com
+127.0.0.1 cn-api.anythinktech.com
+127.0.0.1 cn-tk.anythinktech.com
+127.0.0.1 img.anythinktech.com
+127.0.0.1 mores.anythinktech.com
+127.0.0.1 ssapi.anythinktech.com
+127.0.0.1 tk.anythinktech.com
+127.0.0.1 www.anythinktech.com
+127.0.0.1 www.birdgesdk.com
+127.0.0.1 www.toponadss.com
+127.0.0.1 www.bridgeoos.com
+#广州聚次方信息科技有限公司
+127.0.0.1 www.mosspf.cn
+127.0.0.1 mores.toponad.com
+127.0.0.1 www.toponad.com
+#广州塔酷信息科技有限公司
+127.0.0.1 mores.motowoo.com
+127.0.0.1 www.motowoo.com
+127.0.0.1 www.takuad.com
+127.0.0.1 www.uparpu.com
+#广州数链通信息技术有限公司
+127.0.0.1 adx-strategy-api-cn.statisticslinks.com
+127.0.0.1 www.statisticslinks.com
+127.0.0.1 www.metricslinks.com
+#广州舜飞信息科技有限公司
+127.0.0.1 cm.masky.biddingx.com
+#姜家朋
+127.0.0.1 adx.adform.net
+127.0.0.1 cm.adform.net
+127.0.0.1 c1.adform.net
