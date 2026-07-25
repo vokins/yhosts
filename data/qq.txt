@@ -1,21 +1,31 @@
-#Tencent-QQ-Tim
+#Tencent-QQ-Tim-collect
 127.0.0.1 rmonitor.qq.com
 127.0.0.1 rdelivery.qq.com
 127.0.0.1 log.tbs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 tpstelemetry.tencent.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 report.url.cn
+127.0.0.1 report.idqqimg.com
+127.0.0.1 galileotelemetry.tencent.com
+127.0.0.1 publiclog.zhiyan.tencent-cloud.net
+127.0.0.1 rumt-zh.com
 #Tencent-WeXin
+127.0.0.1 dns.weixin.qq.com.cn
 127.0.0.1 game.weixin.qq.com
 #Tencent
 127.0.0.1 apd-vlive.apdcdn.tc.qq.com
 127.0.0.1 api.aida.qq.com
 127.0.0.1 browsertdidticket.m.qq.com
 127.0.0.1 gatherer.m.qq.com
-127.0.0.1 h.trace.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 snowflake.qq.com
 #Tencent-beacon
 127.0.0.1 beacon.cdn.qq.com
 127.0.0.1 otheve.beacon.qq.com
+127.0.0.1 oth.str.beacon.qq.com
 #Tencent-ssp
 127.0.0.1 news.ssp.qq.com
 127.0.0.1 op.ssp.qq.com
@@ -25,6 +35,8 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 vr.gdt.qq.com
+127.0.0.1 v2mi.gdt.qq.com
+127.0.0.1 xscdn.gdt.qq.com
 #Tencent-gdtimg
 127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 qzs.gdtimg.com

@@ -1,2 +1,5 @@
 mjs.sinaimg.cn
 mat1.gtimg.com
+t.captcha.qq.com
+captcha.gtimg.com
+snowflake.qq.com

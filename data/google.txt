@@ -11,6 +11,8 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googleadservices.com
+#google-safebrowsing
+127.0.0.1 safebrowsing.googleapis.com
 #google-googlesyndication
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com

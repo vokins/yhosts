@@ -1,4 +1,6 @@
 #baidu
+127.0.0.1 httpsdns.baidu.com
+127.0.0.1 httpdns.baidubce.com
 127.0.0.1 ada.baidu.com
 127.0.0.1 als.baidu.com
 127.0.0.1 banti.baidu.com
@@ -14,9 +16,12 @@
 127.0.0.1 hm.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 miao.baidu.com
+127.0.0.1 mobads.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 sp1.baidu.com
 127.0.0.1 wn.pos.baidu.com
+127.0.0.1 sofire.baidu.com
+127.0.0.1 nsclick.baidu.com
 #baidu-baidustatic
 127.0.0.1 ae.bdstatic.com
 127.0.0.1 fex.bdstatic.com

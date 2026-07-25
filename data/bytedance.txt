@@ -1,3 +1,14 @@
+#番茄免费小说
+127.0.0.1 ads3-normal-hl.zijieapi.com
+127.0.0.1 ads5-normal-hl.zijieapi.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 rtlog3-applog-hl.fqnovel.com
+127.0.0.1 rtlog5-applog-hl.fqnovel.com
+127.0.0.1 feedback-c.zijieapi.com
+127.0.0.1 log0-applog-hl.fqnovel.com
+#红果免费短剧
+127.0.0.1 ads3-normal-lf.zijieapi.com
 #北京巨量引擎网络技术有限公司
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 www.pangolin-dsp-toutiao.com
@@ -15,7 +26,6 @@
 127.0.0.1 www.oceanengine.cc
 127.0.0.1 www.oceanengine.cn
 127.0.0.1 www.pangle.cn
-127.0.0.1 www.pangolin-dsp-toutiao.com
 127.0.0.1 www.pangolin-sdk-toutiao-b.com
 127.0.0.1 www.pangolin-sdk-toutiao.com
 127.0.0.1 www.pangolin-sdk-toutiao0.com

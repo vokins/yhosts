@@ -3,6 +3,4 @@
 #139
 127.0.0.1 ad.mcloud.139.com
 127.0.0.1 dnlog.cmpassport.com
-#httpdns
-127.0.0.1 httpsdns.baidu.com
-127.0.0.1 httpdns.baidubce.com
+127.0.0.1 log2.cmpassport.com
